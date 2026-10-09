@@ -1,0 +1,77 @@
+name: tech-news-bot
+
+on:
+  schedule:
+    # GitHub cron uses UTC. Thailand = UTC+7.
+    - cron: "0 * * * *"      # alert: every hour
+    - cron: "5 1 * * *"      # digest: 08:05 Thailand time
+    - cron: "10 2 * * 0"     # weekly: Sunday 09:10 Thailand time (week in review)
+    - cron: "15 13 * * *"    # quiz: 20:15 Thailand time every day
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "alert, digest, quiz, weekly or updates"
+        default: "alert"
+
+permissions:
+  contents: write   # lets the job commit state.json (the bot's memory)
+
+concurrency:
+  group: tech-news-bot
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get latest state
+        run: git pull --ff-only origin "${{ github.ref_name }}" || true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Decide mode
+        id: mode
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "mode=${{ github.event.inputs.mode }}" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "5 1 * * *" ]; then
+            echo "mode=digest" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "10 2 * * 0" ]; then
+            echo "mode=weekly" >> "$GITHUB_OUTPUT"
+          elif [ "${{ github.event.schedule }}" = "15 13 * * *" ]; then
+            echo "mode=quiz" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=alert" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Run bot
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+        run: python bot.py ${{ steps.mode.outputs.mode }}
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add state.json 2>/dev/null || true
+          if ! git diff --cached --quiet; then
+            git commit -m "update state"
+            git pull --rebase origin "${{ github.ref_name }}" && git push
+          fi
+      - name: Tell me if the run failed
+        if: failure()
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${TOKEN}/sendMessage" \
+            -d chat_id="${CHAT}" \
+            --data-urlencode text="⚠️ News bot run failed (${{ steps.mode.outputs.mode }}). Open: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+
