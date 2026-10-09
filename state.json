@@ -75,10 +75,719 @@
   "https://arstechnica.com/gadgets/2026/10/amazons-new-alexa-tablets-drop-the-fire-branding-but-are-more-android-than-ever/",
   "https://arstechnica.com/space/2026/10/amazon-builds-1000th-satellite-is-weeks-away-from-space-internet-rollout/",
   "https://arstechnica.com/tech-policy/2026/10/exxonmobils-own-scientists-doubted-climate-fixes-the-company-hyped/",
-  "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+  "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+  "https://www.datacenterdynamics.com/en/news/bitdeer-expands-soluna-mining-agreement-to-35mw/",
+  "https://www.datacenterdynamics.com/en/news/googles-vp-of-global-infrastructure-and-capacity-bikash-koley-heads-to-tpu-neocloud-crux-ai/",
+  "https://www.datacenterdynamics.com/en/news/vodafone-raises-cost-savings-target-for-uk-unit-to-1bn/",
+  "https://www.datacenterdynamics.com/en/news/mexican-authorities-seize-cryptomine-amid-suspected-cartel-funding-links/",
+  "https://www.datacenterdynamics.com/en/news/council-rejects-80mw-data-center-in-northern-italy/",
+  "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/",
+  "https://www.datacenterdynamics.com/en/news/xais-michael-roberson-joins-openai-infrastructure-team-as-commissioning-program-manager/",
+  "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/",
+  "https://www.datacenterdynamics.com/en/opinions/lithium-ion-vs-lead-acid-battery-technology-a-comprehensive-overview-of-fire-risks/",
+  "https://www.datacenterdynamics.com/en/news/starlink-expands-its-ground-stations-in-spain-to-seven/",
+  "https://www.datacenterdynamics.com/en/whitepapers/how-colocation-providers-find-and-reclaim-stranded-power-capacity/",
+  "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/",
+  "https://www.datacenterdynamics.com/en/opinions/when-noise-ordinances-cant-keep-up-with-data-centers/",
+  "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4tb-of-onedrive-storage/5302380",
+  "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
+  "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
+  "https://www.theregister.com/ai-and-ml/2026/10/09/oracle-lets-ai-agents-do-the-work-provided-you-stay-in-big-reds-world/5302270",
+  "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
+  "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+  "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+  "https://typesafe.ai/blog/series-ai",
+  "https://minesweeper.mikelacher.com/",
+  "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
+  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
  ],
- "stories": [],
- "next_id": 1,
+ "stories": [
+  {
+   "id": 1,
+   "ts": "2026-10-10T02:09:38.048147+07:00",
+   "title": "Bitdeer expands Soluna mining agreement to 35MW",
+   "link": "https://www.datacenterdynamics.com/en/news/bitdeer-expands-soluna-mining-agreement-to-35mw/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Bitdeer is expanding its Texas wind-powered crypto and AI mining agreement, directly relevant to power and data center infrastructure.",
+   "summary": "Bitdeer has increased its Bitcoin mining deployment at Soluna's wind-powered data center in Texas to 35MW. The project uses a co-mining structure and aims to be completed by late 2026.",
+   "vocab": [
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทลูก",
+     "level": "B2",
+     "example": "Dory Creek LLC, a wholly owned Bitdeer subsidiary, will deploy additional equipment."
+    },
+    {
+     "word": "amended",
+     "thai": "ที่ถูกแก้ไข",
+     "level": "C1",
+     "example": "Under the amended agreement, the company will expand its operations."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งเพื่อใช้งาน",
+     "level": "B2",
+     "example": "Soluna expects the expanded deployment to provide significant hash rate."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 2,
+   "ts": "2026-10-10T02:09:38.048197+07:00",
+   "title": "Google's VP of global infrastructure and capacity Bikash Koley heads to TPU neocloud Crux AI",
+   "link": "https://www.datacenterdynamics.com/en/news/googles-vp-of-global-infrastructure-and-capacity-bikash-koley-heads-to-tpu-neocloud-crux-ai/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "A high-profile Google VP moves to a major TPU neocloud venture, indicating significant movement in AI infrastructure leadership.",
+   "summary": "Google's global infrastructure chief Bikash Koley has left to become CTO and product officer at Crux AI, a neocloud startup. Crux plans to scale up to 2GW of capacity using Google TPU chips.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "มีความยืดหยุ่นและทนทาน",
+     "level": "C1",
+     "example": "From laying the groundwork for a resilient global fabric, Koley built modern infrastructure."
+    },
+    {
+     "word": "tenure",
+     "thai": "วาระการดำรงตำแหน่ง",
+     "level": "C1",
+     "example": "Bikash Koley spent more than 16 years at the company across two tenures."
+    },
+    {
+     "word": "rigor",
+     "thai": "ความเข้มงวด ความถี่ถ้วน",
+     "level": "C1",
+     "example": "None of it would have been possible without the relentless curiosity and execution rigor."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 3,
+   "ts": "2026-10-10T02:09:38.048226+07:00",
+   "title": "Vodafone raises cost savings target for UK unit to £1bn",
+   "link": "https://www.datacenterdynamics.com/en/news/vodafone-raises-cost-savings-target-for-uk-unit-to-1bn/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Vodafone raises cost savings targets for its UK network unit, reflecting carrier-level financial shifts affecting telecom infrastructure.",
+   "summary": "Vodafone Group has increased its cost savings target for its UK VodafoneThree joint venture to £1 billion by 2032. The company continues to invest heavily in its national 5G standalone rollout.",
+   "vocab": [
+    {
+     "word": "pledge",
+     "thai": "คำมั่นสัญญา",
+     "level": "C1",
+     "example": "The company outlined its continued pledge to invest in network infrastructure."
+    },
+    {
+     "word": "contributor",
+     "thai": "ผู้ที่มีส่วนสนับสนุน",
+     "level": "B2",
+     "example": "VodafoneThree is set to become an increasingly important contributor to growth."
+    },
+    {
+     "word": "finalized",
+     "thai": "สรุปเรียบร้อยแล้ว",
+     "level": "B2",
+     "example": "The carrier finally finalized its UK merger with Three last year."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 4,
+   "ts": "2026-10-10T02:09:38.048251+07:00",
+   "title": "Mexican authorities seize cryptomine amid suspected cartel funding links",
+   "link": "https://www.datacenterdynamics.com/en/news/mexican-authorities-seize-cryptomine-amid-suspected-cartel-funding-links/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Mexican authorities seized an illegal crypto mine suspected of electricity theft and cartel ties, touching on power security.",
+   "summary": "Mexican authorities have seized a large crypto mining facility in Puebla state over suspected electricity theft and money laundering. Investigators are probing whether the operation was backed by a major drug cartel.",
+   "vocab": [
+    {
+     "word": "inventory",
+     "thai": "รายการสินค้าหรืออุปกรณ์ที่มีอยู่",
+     "level": "B2",
+     "example": "The Navy clarified that the larger inventory came from the same property."
+    },
+    {
+     "word": "disguise",
+     "thai": "อำพราง ปลอมแปลง",
+     "level": "B2",
+     "example": "Investigators examined whether digital assets were used to disguise the origin of proceeds."
+    },
+    {
+     "word": "uncovered",
+     "thai": "ค้นพบ เปิดโปง",
+     "level": "B2",
+     "example": "It was identified as the fourth such mining operation uncovered in the area."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 5,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 5,
+   "ts": "2026-10-10T02:09:38.048274+07:00",
+   "title": "Council rejects 80MW data center in northern Italy",
+   "link": "https://www.datacenterdynamics.com/en/news/council-rejects-80mw-data-center-in-northern-italy/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "An 80MW data center project was rejected due to environmental concerns, reflecting local regulatory hurdles for infrastructure.",
+   "summary": "A city council in northern Italy has unanimously rejected a proposal to build an 80MW data center over environmental concerns. The region is seeing increasing local opposition to large digital infrastructure projects due to high resource consumption.",
+   "vocab": [
+    {
+     "word": "resolution",
+     "thai": "มติที่ประชุม",
+     "level": "C1",
+     "example": "A resolution on 24 September said the project conflicted with environmental objectives."
+    },
+    {
+     "word": "footprint",
+     "thai": "ร่องรอยการใช้ทรัพยากรหรือพื้นที่",
+     "level": "B2",
+     "example": "The project faced backlash over its high land footprint and resource consumption."
+    },
+    {
+     "word": "sustainable",
+     "thai": "ยั่งยืน",
+     "level": "B2",
+     "example": "The city aims to move toward the model of an eco-sustainable and intelligent city."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 6,
+   "ts": "2026-10-10T02:09:38.048295+07:00",
+   "title": "Digital Realty begins work on KIX15 data center in Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/digital-realty-begins-work-on-kix15-data-center-in-japan/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Digital Realty begins construction on a new 24MW data center in Japan, representing significant APAC cloud and AI infrastructure growth.",
+   "summary": "Digital Realty has started construction on the KIX15 data center at its Osaka campus in Japan, adding 24MW of capacity. The facility will support hybrid air and liquid cooling and is scheduled to open in late 2028.",
+   "vocab": [
+    {
+     "word": "distributed",
+     "thai": "กระจายตัว",
+     "level": "B2",
+     "example": "As customer requirements become more distributed and complex, local scale matters."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศทางธุรกิจหรือเทคโนโลยี",
+     "level": "B2",
+     "example": "Realizing that potential will require an ecosystem that can support AI businesses."
+    },
+    {
+     "word": "reflects",
+     "thai": "สะท้อนถึง",
+     "level": "B2",
+     "example": "Our continued investment in Japan reflects both our confidence and commitment."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 7,
+   "ts": "2026-10-10T02:09:38.048319+07:00",
+   "title": "xAI's Michael Roberson joins OpenAI infrastructure team as commissioning program manager",
+   "link": "https://www.datacenterdynamics.com/en/news/xais-michael-roberson-joins-openai-infrastructure-team-as-commissioning-program-manager/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "OpenAI aggressively hires top infrastructure and commissioning talent from xAI and Meta, directly affecting AI data center scaling.",
+   "summary": "OpenAI has hired several key infrastructure engineers and managers from xAI and Meta to bolster its data center delivery team. The new hires will help design, build, and commission the massive physical facilities required for future AI models.",
+   "vocab": [
+    {
+     "word": "commissioning",
+     "thai": "กระบวนการตรวจสอบและทดสอบระบบก่อนเปิดใช้งานจริง",
+     "level": "C1",
+     "example": "Michael Roberson was in charge of end-to-end infrastructure commissioning."
+    },
+    {
+     "word": "stint",
+     "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
+     "level": "C1",
+     "example": "He left this April for a three-month stint at Fluidstack."
+    },
+    {
+     "word": "broaden",
+     "thai": "ขยายให้กว้างขึ้น",
+     "level": "B2",
+     "example": "What excites me is the chance to broaden my horizons and solve complex problems."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 8,
+   "ts": "2026-10-10T02:09:38.048346+07:00",
+   "title": "Uncertainty over data center development in Trzebnica, Poland",
+   "link": "https://www.datacenterdynamics.com/en/news/uncertainty-over-data-center-development-in-trzebnica-poland/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A massive 1.6GW data center project in Poland faces uncertainty over grid capacity, highlighting power constraints for huge AI loads.",
+   "summary": "A developer has reportedly withdrawn an application for a massive 1.6GW data center project in Poland after failing to secure a power connection confirmation. Large data center developments across Poland are increasingly encountering grid constraints and local pushback.",
+   "vocab": [
+    {
+     "word": "uncertainty",
+     "thai": "ความไม่แน่นอน",
+     "level": "B2",
+     "example": "There is growing uncertainty over data center development in Poland."
+    },
+    {
+     "word": "exacerbate",
+     "thai": "ทำให้แย่ลง",
+     "level": "C1",
+     "example": "Residents argued that the facility would exacerbate existing strains on the water network."
+    },
+    {
+     "word": "permit",
+     "thai": "อนุญาต",
+     "level": "B2",
+     "example": "Changes to the spatial development plan to permit data centers remain live."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 9,
+   "ts": "2026-10-10T02:09:52.529356+07:00",
+   "title": "Sponsored: Lithium-Ion vs Lead-Acid battery technology: A comprehensive overview of fire risks",
+   "link": "https://www.datacenterdynamics.com/en/opinions/lithium-ion-vs-lead-acid-battery-technology-a-comprehensive-overview-of-fire-risks/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Compares fire risks and thermal runaway in Lithium-Ion versus Lead-Acid batteries used in data center UPS systems.",
+   "summary": "The article explains the fire safety differences between Lithium-Ion and Lead-Acid batteries in backup power systems. It highlights that Lithium-Ion batteries carry a higher risk of thermal runaway, which requires careful management near critical infrastructure.",
+   "vocab": [
+    {
+     "word": "flammability",
+     "thai": "ความไวไฟ",
+     "level": "C1",
+     "example": "A key advantage of Lead-Acid chemistry is its limited intrinsic flammability and predictable failure behavior."
+    },
+    {
+     "word": "dissipate",
+     "thai": "สลายไป, กระจายออก",
+     "level": "C1",
+     "example": "Heat generation can exceed the rate at which it can dissipate."
+    },
+    {
+     "word": "propagate",
+     "thai": "แพร่ขยาย, ลุกลาม",
+     "level": "C1",
+     "example": "Thermal runaway can propagate from one cell to others."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 10,
+   "ts": "2026-10-10T02:09:52.529397+07:00",
+   "title": "Starlink expands its ground stations in Spain to seven",
+   "link": "https://www.datacenterdynamics.com/en/news/starlink-expands-its-ground-stations-in-spain-to-seven/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers Starlink expanding ground station infrastructure and its growing integration with data center PoPs.",
+   "summary": "Starlink is expanding its ground station network in Spain to support higher-capacity satellites. This growth connects satellite constellations directly with data center points of presence to handle rising internet traffic.",
+   "vocab": [
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียม",
+     "level": "C1",
+     "example": "A LEO constellation does not operate in isolation in space."
+    },
+    {
+     "word": "convergence",
+     "thai": "การบรรจบกัน, การหลอมรวม",
+     "level": "C1",
+     "example": "It also highlights convergence with 5G networks and the development of direct-to-device connections."
+    },
+    {
+     "word": "terrestrial",
+     "thai": "บนพื้นโลก",
+     "level": "C1",
+     "example": "The most significant development is precisely this convergence between space-based and terrestrial infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 11,
+   "ts": "2026-10-10T02:09:52.529424+07:00",
+   "title": "How colocation providers find and reclaim stranded power capacity",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/how-colocation-providers-find-and-reclaim-stranded-power-capacity/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly relevant to data center operators looking to reclaim stranded power capacity for high-density AI workloads.",
+   "summary": "Colocation providers are facing grid delays and high-density AI workloads that strand up to 60% of facility power capacity. Using full-chain telemetry allows operators to safely reclaim this hidden headroom without costly infrastructure upgrades.",
+   "vocab": [
+    {
+     "word": "headroom",
+     "thai": "พื้นที่ว่างส่วนเกิน (สำหรับรองรับภาระงาน)",
+     "level": "C1",
+     "example": "Legacy spreadsheets and isolated meters can't locate or validate this headroom."
+    },
+    {
+     "word": "telemetry",
+     "thai": "ระบบส่งข้อมูลทางไกล (เพื่อการวัดและติดตาม)",
+     "level": "C1",
+     "example": "This whitepaper shows how full-chain telemetry delivers the real-time proof."
+    },
+    {
+     "word": "defensible",
+     "thai": "ซึ่งสามารถอธิบายหรือพิสูจน์ความถูกต้องได้",
+     "level": "B2",
+     "example": "Why unifying BMS, PDU, and BMC telemetry enables defensible planning."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 12,
+   "ts": "2026-10-10T02:09:52.529449+07:00",
+   "title": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major news about a massive 710MW data center project in Texas linked to Anthropic and CoreWeave.",
+   "summary": "A proposal for a massive $366 million data center project has been filed in Cedar Creek, Texas, to support AI workloads. The campus plans to use dedicated natural gas turbines to provide hundreds of megawatts of IT capacity.",
+   "vocab": [
+    {
+     "word": "influx",
+     "thai": "การไหลทะลักเข้ามาจำนวนมาก",
+     "level": "C1",
+     "example": "Texas as a whole has seen a massive influx of data center projects in recent years."
+    },
+    {
+     "word": "audit",
+     "thai": "การตรวจสอบบัญชีหรือระบบ",
+     "level": "B2",
+     "example": "Governor Greg Abbott halted all new data center permits until it completes a large-scale audit."
+    },
+    {
+     "word": "hyperscaler",
+     "thai": "ผู้ให้บริการคลาวด์หรือศูนย์ข้อมูลขนาดใหญ่",
+     "level": "C2",
+     "example": "The group was founded in 2019 and focuses on developing build-to-suit powered shells for hyperscalers."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 13,
+   "ts": "2026-10-10T02:09:52.529475+07:00",
+   "title": "When noise ordinances can't keep up with data centers",
+   "link": "https://www.datacenterdynamics.com/en/opinions/when-noise-ordinances-cant-keep-up-with-data-centers/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Addresses regulatory noise constraints that impact data center planning and deployment approvals.",
+   "summary": "Data center developers face increasingly strict and inconsistent local noise regulations that fail to match modern equipment standards. Navigating these complex decibel limits and tonal penalties requires careful mitigation planning.",
+   "vocab": [
+    {
+     "word": "ordinance",
+     "thai": "ข้อบัญญัติท้องถิ่น",
+     "level": "C1",
+     "example": "The regulatory environment around it is changing faster than most developers realize."
+    },
+    {
+     "word": "permissive",
+     "thai": "ที่ยอมให้ได้ง่าย, ผ่อนปรน",
+     "level": "C1",
+     "example": "It operates under a fixed limit of 60 dBA, a considerably more permissive number on paper."
+    },
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทา, การลดความรุนแรง",
+     "level": "C1",
+     "example": "It requires many of the same mitigation measures as the first: enclosure ratings and barrier walls."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 14,
+   "ts": "2026-10-10T02:09:52.529524+07:00",
+   "title": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier",
+   "link": "https://www.theregister.com/networks/2026/10/09/spacex-to-buy-key-spectrum-that-could-help-starlink-mobile-become-major-us-cell-carrier/5302393",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on SpaceX acquiring spectrum for Starlink Mobile, relevant to telecommunications infrastructure.",
+   "summary": "SpaceX is set to purchase crucial wireless spectrum to help Starlink Mobile expand as a major cellular carrier in the US. This acquisition will improve direct satellite-to-device connectivity options.",
+   "vocab": [
+    {
+     "word": "spectrum",
+     "thai": "คลื่นความถี่",
+     "level": "C1",
+     "example": "SpaceX to buy key spectrum that could help Starlink Mobile become major US cell carrier."
+    },
+    {
+     "word": "carrier",
+     "thai": "ผู้ให้บริการโครงข่ายโทรคมนาคม",
+     "level": "B2",
+     "example": "Help Starlink Mobile become a major US cell carrier."
+    },
+    {
+     "word": "acquisition",
+     "thai": "การได้มาซึ่งกรรมสิทธิ์",
+     "level": "B2",
+     "example": "The acquisition of the wireless spectrum strengthens their network coverage."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 15,
+   "ts": "2026-10-10T02:09:52.529557+07:00",
+   "title": "Growing pains: how distributed AI training changes the network between datacenters",
+   "link": "https://www.theregister.com/networks/2026/10/09/sponsored-growing-pains-how-distributed-ai-training-changes-the-network-between-datacenters/5301554",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Deep dive into distributed AI training network architectures, interconnects, and synchronization challenges across datacenters.",
+   "summary": "Large-scale AI training now spans multiple data centers, creating massive network synchronization and bursty traffic challenges. Hyperscalers must handle these 'incast' bottlenecks as training clusters grow to thousands of GPUs.",
+   "vocab": [
+    {
+     "word": "synchronization",
+     "thai": "การทำให้ประสานเวลากัน",
+     "level": "C1",
+     "example": "Different GPUs cannot work entirely independently: at various points they must exchange results and synchronize."
+    },
+    {
+     "word": "interconnect",
+     "thai": "ระบบเชื่อมต่อเครือข่ายระหว่างกัน",
+     "level": "C1",
+     "example": "Meta has built high-capacity datacenter interconnects to support model training."
+    },
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด (จุดที่ทำให้การทำงานช้าลง)",
+     "level": "B2",
+     "example": "This can lead to problems where many senders converge on the same destination and create a bottleneck."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 16,
+   "ts": "2026-10-10T02:10:04.691894+07:00",
+   "title": "Global PC shipments crater 20% as rising prices hammer demand",
+   "link": "https://www.theregister.com/personal-tech/2026/10/09/global-pc-shipments-crater-20-as-rising-prices-hammer-demand/5302264",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on general PC hardware shipment drops, which has limited direct impact on server infrastructure operations.",
+   "summary": "Global personal computer shipments dropped significantly due to rising prices affecting consumer demand. This downturn reflects broader economic pressures on hardware markets.",
+   "vocab": [
+    {
+     "word": "crater",
+     "thai": "ดิ่งลงอย่างรุนแรง",
+     "level": "C1",
+     "example": "Global PC shipments crater 20% as rising prices hammer demand."
+    },
+    {
+     "word": "hammer",
+     "thai": "ส่งผลกระทบอย่างหนัก",
+     "level": "B2",
+     "example": "Rising prices hammer demand across the global hardware market."
+    },
+    {
+     "word": "downturn",
+     "thai": "ภาวะตกต่ำ",
+     "level": "B2",
+     "example": "The hardware market faces a significant downturn."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 17,
+   "ts": "2026-10-10T02:10:04.691954+07:00",
+   "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+   "link": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Cloudflare releases a multimodal decision model with API access, relevant for developers building automated infrastructure workflows.",
+   "summary": "Cloudflare introduced Clef-omni, a new open-weight decision model capable of processing audio, video, text, and images simultaneously. The update allows developers to handle multiple data modalities within a single API call.",
+   "vocab": [
+    {
+     "word": "multimodality",
+     "thai": "ความสามารถในการรองรับข้อมูลหลายรูปแบบ",
+     "level": "C1",
+     "example": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash."
+    },
+    {
+     "word": "paradigm",
+     "thai": "กระบวนทัศน์",
+     "level": "B2",
+     "example": "This changes the paradigm for decision models which have been largely text-only."
+    },
+    {
+     "word": "performant",
+     "thai": "มีประสิทธิภาพสูงในการทำงาน",
+     "level": "C1",
+     "example": "We were able to ship performant, high-quality, open-weight models for the community."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 18,
+   "ts": "2026-10-10T02:10:04.691975+07:00",
+   "title": "M7.6 Earthquake in Panama",
+   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "A major earthquake in Panama could potentially impact local data center facilities and regional network connectivity.",
+   "summary": "A magnitude 7.6 earthquake has struck Panama, triggering real-time monitoring alerts across seismic networks. Authorities and operators are checking for potential impacts on local infrastructure.",
+   "vocab": [
+    {
+     "word": "seismic",
+     "thai": "เกี่ยวกับแผ่นดินไหว",
+     "level": "B2",
+     "example": "The earthquake triggered alerts across real-time seismic monitoring services."
+    },
+    {
+     "word": "magnitude",
+     "thai": "ขนาด (ความรุนแรงของแผ่นดินไหว)",
+     "level": "B2",
+     "example": "The M7.6 earthquake caused widespread shaking in the region."
+    },
+    {
+     "word": "monitoring",
+     "thai": "การเฝ้าติดตาม",
+     "level": "B1",
+     "example": "Real-time notifications and feeds help track seismic events."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 9,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 19,
+   "ts": "2026-10-10T02:10:04.691996+07:00",
+   "title": "TypeSafe a Raises $870M at a $7.5B",
+   "link": "https://typesafe.ai/blog/series-ai",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Major venture funding for an AI infrastructure provider directly concerns scalable compute and enterprise deployment trends.",
+   "summary": "AI infrastructure startup TypeSafe has raised $870 million in a Series A round at a $7.5 billion valuation. The company plans to expand its machine-native models and enterprise infrastructure offerings.",
+   "vocab": [
+    {
+     "word": "valuation",
+     "thai": "มูลค่าประเมินของบริษัท",
+     "level": "B2",
+     "example": "TypeSafe raised $870M at a $7.5B valuation led by Andreessen Horowitz."
+    },
+    {
+     "word": "enterprise",
+     "thai": "ระดับองค์กรธุรกิจ",
+     "level": "B2",
+     "example": "We will be adding all the enterprise features you have been asking us for."
+    },
+    {
+     "word": "participation",
+     "thai": "การมีส่วนร่วม",
+     "level": "B2",
+     "example": "The funding round saw participation from Sequoia Capital and other key investors."
+    }
+   ],
+   "status": "night",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  }
+ ],
+ "next_id": 20,
  "vocab": [],
  "feedback": {
   "liked": [],
