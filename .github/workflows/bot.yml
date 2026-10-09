@@ -3,7 +3,7 @@ name: tech-news-bot
 on:
   schedule:
     # GitHub cron uses UTC. Thailand = UTC+7.
-    - cron: "0 * * * *"      # alert: every hour
+    - cron: "0 */2 * * *"      # alert: every hour
     - cron: "5 1 * * *"      # digest: 08:05 Thailand time
     - cron: "10 2 * * 0"     # weekly: Sunday 09:10 Thailand time (week in review)
     - cron: "15 13 * * *"    # quiz: 20:15 Thailand time every day
