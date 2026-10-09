@@ -99,7 +99,27 @@
   "https://typesafe.ai/blog/series-ai",
   "https://minesweeper.mikelacher.com/",
   "https://blog.bawolf.com/p/you-might-want-to-try-being-less",
-  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/"
+  "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+  "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+  "https://carrierexplode.com/",
+  "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+  "https://www.japaninsides.com/the-sushi-king-who-went-to-somalia-how-japans-most-famous-tuna-buyer-says-he-turned-pirates-into-fishermen-55344",
+  "https://oss.lsantos.dev/proton-drive-linux-fs/",
+  "https://animationobsessive.substack.com/p/wallace-and-gromit-90-alone",
+  "https://borretti.me/article/no-man-is-an-island",
+  "https://readrare.com/",
+  "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+  "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+  "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+  "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+  "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+  "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+  "https://arstechnica.com/health/2026/10/rfk-jr-still-eager-to-fund-vaccine-trial-that-would-expose-babies-to-deadly-virus/",
+  "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/",
+  "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+  "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
+  "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
+  "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
  ],
  "stories": [
   {
@@ -604,7 +624,10 @@
    "impact": 4,
    "urgency": 4,
    "scale": 5,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/"
+   ]
   },
   {
    "id": 15,
@@ -676,7 +699,10 @@
    "impact": 2,
    "urgency": 3,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "extra_links": [
+    "https://arstechnica.com/information-technology/2026/10/pc-shipments-fall-20-1-percent-in-sharpest-decline-since-q1-2023/"
+   ]
   },
   {
    "id": 17,
@@ -785,9 +811,333 @@
    "urgency": 7,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 20,
+   "ts": "2026-10-10T06:42:12.163412+07:00",
+   "title": "AWS AgentCore security undone by prompt requesting credentials",
+   "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical zero-day and security vulnerabilities directly affect cloud servers, infrastructure, and enterprise software operations.",
+   "summary": "Recent security disclosures highlight zero-day vulnerabilities in enterprise software and severe cloud credential exposure risks. These flaws require immediate patching and vigilance from infrastructure operations teams.",
+   "vocab": [
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่านหรือโทเค็น)",
+     "level": "B2",
+     "example": "AWS AgentCore security undone by prompt requesting credentials."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อนหรือช่องโหว่ทางความปลอดภัย",
+     "level": "B2",
+     "example": "Security Microsoft patches failed to fix on-prem SharePoint under zero-day attack."
+    },
+    {
+     "word": "bolster",
+     "thai": "เสริมสร้าง หรือสนับสนุน",
+     "level": "C1",
+     "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 21,
+   "ts": "2026-10-10T06:42:12.163450+07:00",
+   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "link": "https://carrierexplode.com/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Provides detailed decoding of mobile carrier settings and APNs, useful for niche networking but low direct operational impact.",
+   "summary": "A new tool decodes and compares carrier settings, APNs, and networking configurations across major smartphones. It provides structured JSON data and APIs for developers analyzing mobile network behaviors.",
+   "vocab": [
+    {
+     "word": "backend",
+     "thai": "ระบบเบื้องหลัง (ส่วนประมวลผลของแอปพลิเคชัน)",
+     "level": "B2",
+     "example": "carrier-explode 2.0 is out with a much improved backend."
+    },
+    {
+     "word": "firmware",
+     "thai": "ชุดคำสั่งฝังตัวในฮาร์ดแวร์",
+     "level": "B2",
+     "example": "Carrier settings from iPhone, Pixel and Galaxy firmware, decoded and compared."
+    },
+    {
+     "word": "dataset",
+     "thai": "ชุดข้อมูล",
+     "level": "B2",
+     "example": "Get it all as JSON from the API, or as a daily CC0 dataset."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 22,
+   "ts": "2026-10-10T06:42:12.163488+07:00",
+   "title": "Show HN: Proton Drive for Linux",
+   "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces a FUSE virtual filesystem for Linux, relevant to systems administrators and DevOps tool usage.",
+   "summary": "A new open-source tool allows Linux users to mount Proton Drive as a local filesystem using FUSE. It downloads files on demand to save local disk space and bandwidth.",
+   "vocab": [
+    {
+     "word": "filesystem",
+     "thai": "ระบบไฟล์",
+     "level": "B2",
+     "example": "A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux."
+    },
+    {
+     "word": "bandwidth",
+     "thai": "แบนด์วิดท์ ปริมาณรับส่งข้อมูลเครือข่าย",
+     "level": "B2",
+     "example": "This is a lazy approach that saves bandwidth and disk space."
+    },
+    {
+     "word": "daemon",
+     "thai": "โปรแกรมเบื้องหลังที่ทำงานอัตโนมัติในยูนิกซ์",
+     "level": "C1",
+     "example": "Reads and writes go through the kernel's FUSE layer to the mount daemon."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 23,
+   "ts": "2026-10-10T06:42:12.163510+07:00",
+   "title": "No Man Is an Island",
+   "link": "https://borretti.me/article/no-man-is-an-island",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Thought-provoking essay on how AI impacts software engineering discourse and developer skill acquisition, relevant to engineering leaders.",
+   "summary": "An opinion piece argues that reliance on AI coding agents diminishes rigorous technical learning and community discourse among developers. It warns that deep software engineering competencies may degrade over time.",
+   "vocab": [
+    {
+     "word": "competency",
+     "thai": "สมรรถนะ ความสามารถ",
+     "level": "C1",
+     "example": "Software engineering competencies may degrade over time."
+    },
+    {
+     "word": "diminish",
+     "thai": "ลดลง ทำให้ลดน้อยลง",
+     "level": "C1",
+     "example": "Reliance on AI coding agents diminishes rigorous technical learning."
+    },
+    {
+     "word": "discourse",
+     "thai": "การสนทนาแลกเปลี่ยนความคิดเห็นเชิงวิชาการ",
+     "level": "C1",
+     "example": "The discourse around software engineering has gotten dumber."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 24,
+   "ts": "2026-10-10T06:42:12.163523+07:00",
+   "title": "Show HN: The rarest tech books and docs you've probably never read",
+   "link": "https://readrare.com/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Curated collection of historical technical documents and internal memos from major tech firms, interesting for infrastructure historians and architects.",
+   "summary": "A newly published index compiles rare technical memos, internal handbooks, and forgotten documentation from major tech pioneers. These historical resources are made available for free study.",
+   "vocab": [
+    {
+     "word": "compilation",
+     "thai": "การรวบรวมข้อมูล",
+     "level": "B2",
+     "example": "A newly published index compiles rare technical memos."
+    },
+    {
+     "word": "documentation",
+     "thai": "เอกสารคู่มือ เอกสารประกอบ",
+     "level": "B2",
+     "example": "Forgotten documentation from major tech pioneers."
+    },
+    {
+     "word": "pioneer",
+     "thai": "ผู้บุกเบิก",
+     "level": "B2",
+     "example": "Internal memos from the people who built Apple and Google."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 25,
+   "ts": "2026-10-10T06:42:25.664038+07:00",
+   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Ukrainian drone strikes knocked down major Russian data centers hosting AI supercomputers, directly impacting infrastructure operations and cloud availability.",
+   "summary": "Ukrainian drone strikes hit two data center facilities operated by Russian tech giant Yandex, damaging supercomputers used for AI training. The attack caused widespread disruptions to online services, media platforms, and digital banking applications across Russia.",
+   "vocab": [
+    {
+     "word": "symmetrical",
+     "thai": "สมมาตร, ซึ่งเทียบเท่ากัน",
+     "level": "B2",
+     "example": "Another data center was hit as well—our symmetrical response."
+    },
+    {
+     "word": "acknowledge",
+     "thai": "ยอมรับ",
+     "level": "B2",
+     "example": "Yandex said no employees were hurt but acknowledged disruptions to some services."
+    },
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 26,
+   "ts": "2026-10-10T06:42:25.664089+07:00",
+   "title": "NASA issues long-awaited call to industry for private space stations",
+   "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "NASA issued a request for proposals to build commercial space stations to replace the ISS, which falls outside terrestrial data center and cloud infrastructure.",
+   "summary": "NASA released a long-awaited solicitation for private companies to design and develop commercial space stations in low-Earth orbit. The future stations will succeed the International Space Station to support ongoing scientific research and astronaut training.",
+   "vocab": [
+    {
+     "word": "solicitation",
+     "thai": "การขอร้อง, การเชิญชวนยื่นข้อเสนอ",
+     "level": "C1",
+     "example": "NASA’s solicitation can be found here, and industry responses are due back in December."
+    },
+    {
+     "word": "contractor",
+     "thai": "ผู้รับเหมา",
+     "level": "B2",
+     "example": "NASA plans to select two or more contractors in this phase of the competition."
+    },
+    {
+     "word": "provision",
+     "thai": "ข้อกำหนด, บทบัญญัติ",
+     "level": "B2",
+     "example": "One of the most closely watched elements was its provisions for crewed transportation."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 27,
+   "ts": "2026-10-10T06:42:25.664118+07:00",
+   "title": "AI coding agents generate more code, but not more software",
+   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "A major study reveals how AI coding tools create code review bottlenecks, directly affecting DevOps workflows and engineering efficiency.",
+   "summary": "A comprehensive study of hundreds of firms found that while AI coding agents increase the volume of generated code, they do not improve overall software output. Human code reviews become major bottlenecks, absorbing all time saved during the initial coding phase.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด, จุดที่ทำให้งานชะลอ",
+     "level": "C1",
+     "example": "Human code review forms a significant bottleneck for the overall efficiency of AI coding tools."
+    },
+    {
+     "word": "encompass",
+     "thai": "ครอบคลุม",
+     "level": "C1",
+     "example": "That data encompasses 300 million individual work events across major software development firms."
+    },
+    {
+     "word": "autonomous",
+     "thai": "อัตโนมัติ, ทำงานได้เอง",
+     "level": "B2",
+     "example": "AI coding agents primarily write and submit code autonomously based on prompts."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 28,
+   "ts": "2026-10-10T06:42:34.481315+07:00",
+   "title": "Microsoft barred from sponsoring foreign workers for US residency",
+   "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Immigration policy changes affect tech employers and workforce planning, though indirectly related to server or data center operations.",
+   "summary": "The US government has temporarily barred major technology and outsourcing companies from sponsoring foreign workers for permanent residency. Officials claim the current immigration programs have been heavily abused.",
+   "vocab": [
+    {
+     "word": "permanent",
+     "thai": "ถาวร",
+     "level": "B2",
+     "example": "Donald Trump’s administration has temporarily banned Microsoft, Adobe, and several other tech companies from sponsoring workers for permanent US residency."
+    },
+    {
+     "word": "unwarranted",
+     "thai": "ไม่สมควร, ไม่มีเหตุผลอันสมควร",
+     "level": "C1",
+     "example": "Referring to Vance’s remarks, it said such descriptions are unwarranted and ignore the fact that Indian professionals are highly educated."
+    },
+    {
+     "word": "infringe",
+     "thai": "ละเมิด",
+     "level": "C1",
+     "example": "A federal judge ruled the fee amounted to an unauthorized tax and infringed on Congress’ authority to raise funds."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 20,
+ "next_id": 29,
  "vocab": [],
  "feedback": {
   "liked": [],
