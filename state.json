@@ -119,7 +119,16 @@
   "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
   "https://arstechnica.com/gadgets/2026/10/your-artwork-could-be-featured-in-the-next-debian-release/",
   "https://arstechnica.com/tech-policy/2026/10/starlink-spectrum-deal-boosts-musk-plan-to-beat-att-t-mobile-and-verizon/",
-  "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/"
+  "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
+  "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4-tb-of-onedrive-storage/5302380",
+  "https://rea.tools/",
+  "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+  "https://lwn.net/Articles/1055211/",
+  "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+  "https://www.nber.org/papers/w35854",
+  "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+  "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+  "https://atarimuseum.nl/atari-falcon/"
  ],
  "stories": [
   {
@@ -368,11 +377,13 @@
      "example": "What excites me is the chance to broaden my horizons and solve complex problems."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 8,
+   "sent_ts": "2026-10-10T10:11:38.893117+07:00"
   },
   {
    "id": 8,
@@ -548,11 +559,13 @@
      "example": "The group was founded in 2019 and focuses on developing build-to-suit powered shells for hyperscalers."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 9,
+   "sent_ts": "2026-10-10T10:11:39.475436+07:00"
   },
   {
    "id": 13,
@@ -659,11 +672,13 @@
      "example": "This can lead to problems where many senders converge on the same destination and create a bottleneck."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 10,
+   "sent_ts": "2026-10-10T10:11:40.088294+07:00"
   },
   {
    "id": 16,
@@ -806,11 +821,13 @@
      "example": "The funding round saw participation from Sequoia Capital and other key investors."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 6,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 11,
+   "sent_ts": "2026-10-10T10:11:40.680004+07:00"
   },
   {
    "id": 20,
@@ -842,11 +859,13 @@
      "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 12,
+   "sent_ts": "2026-10-10T10:11:41.271739+07:00"
   },
   {
    "id": 21,
@@ -1022,7 +1041,7 @@
      "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
@@ -1094,7 +1113,7 @@
      "example": "AI coding agents primarily write and submit code autonomously based on prompts."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
@@ -1135,10 +1154,413 @@
    "urgency": 7,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 29,
+   "ts": "2026-10-10T10:14:55.500770+07:00",
+   "title": "Microsoft 365 subscribers set to lose up to 4 TB of OneDrive storage",
+   "link": "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4-tb-of-onedrive-storage/5302380",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft changes to OneDrive storage limits affect a broad user base but have limited direct impact on data center infrastructure operations.",
+   "summary": "Microsoft 365 subscribers are set to lose up to 4 TB of shared OneDrive storage under upcoming policy updates. This reduction forces heavy cloud users to re-evaluate their long-term data retention and storage management strategies.",
+   "vocab": [
+    {
+     "word": "subscriber",
+     "thai": "ผู้สมัครสมาชิก",
+     "level": "B2",
+     "example": "Microsoft 365 subscribers are set to lose up to 4 TB of OneDrive storage."
+    },
+    {
+     "word": "retention",
+     "thai": "การเก็บรักษาไว้",
+     "level": "C1",
+     "example": "This reduction forces heavy cloud users to re-evaluate their long-term data retention."
+    },
+    {
+     "word": "upcoming",
+     "thai": "ที่จะมาถึง",
+     "level": "B2",
+     "example": "Under upcoming policy updates, users will see storage changes."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 30,
+   "ts": "2026-10-10T10:14:55.500813+07:00",
+   "title": "REA Reverse – Engineer Anything",
+   "link": "https://rea.tools/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Reverse engineering tooling for coding agents is relevant to DevOps and software development workflows.",
+   "summary": "A new tool named REA allows coding agents to inspect and reverse engineer running software programs. It helps developers understand internal program mechanics and modify application behavior automatically.",
+   "vocab": [
+    {
+     "word": "inspect",
+     "thai": "ตรวจสอบ",
+     "level": "B2",
+     "example": "REA gives your agent the tools to inspect a program and explain what it does."
+    },
+    {
+     "word": "mechanics",
+     "thai": "กลไกการทำงาน",
+     "level": "B2",
+     "example": "It helps developers understand internal program mechanics."
+    },
+    {
+     "word": "reproduce",
+     "thai": "ทำซ้ำ, จำลอง",
+     "level": "B2",
+     "example": "To reproduce its acceleration, we need the rule in the running game."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 31,
+   "ts": "2026-10-10T10:14:55.500840+07:00",
+   "title": "Can you use autoregressive diffusion to generate market data?",
+   "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Advanced generative modeling of financial data is interesting for machine learning specialists but tangential to core infrastructure.",
+   "summary": "Researchers have explored using autoregressive diffusion models to synthesize continuous and discrete market data events. The study highlights the challenges of capturing the jagged distribution of real-world exchange activity.",
+   "vocab": [
+    {
+     "word": "synthesize",
+     "thai": "สังเคราะห์",
+     "level": "C1",
+     "example": "Imagine a model that could synthesize book events."
+    },
+    {
+     "word": "distribution",
+     "thai": "การแจกแจง",
+     "level": "B2",
+     "example": "In practice the distributions are spiky around whole-number times."
+    },
+    {
+     "word": "sequential",
+     "thai": "ตามลำดับ",
+     "level": "C1",
+     "example": "Diffusion models represent sequential, multimodal data in various regimes."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 32,
+   "ts": "2026-10-10T10:14:55.500862+07:00",
+   "title": "Compiling Rust to readable C with Eurydice",
+   "link": "https://lwn.net/Articles/1055211/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Compiling Rust to C impacts high-assurance software development and compliance workflows used in infrastructure components.",
+   "summary": "A new compiler tool called Eurydice translates Rust code into readable C code to support legacy verification pipelines. This helps high-assurance projects integrate modern languages while utilizing existing C-based compliance tools.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Existing verification and compliance tools expect C."
+    },
+    {
+     "word": "preservation",
+     "thai": "การรักษาไว้",
+     "level": "C1",
+     "example": "Eurydice is concerned with preserving the overall structure of the code."
+    },
+    {
+     "word": "intermediate",
+     "thai": "ขั้นกลาง",
+     "level": "B2",
+     "example": "Take a Rust program and convert it into an intermediate representation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 33,
+   "ts": "2026-10-10T10:14:55.500885+07:00",
+   "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+   "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Crucial open-source software maintainer statistics directly relate to server infrastructure security and supply chain risk.",
+   "summary": "Recent data analysis reveals that nearly half of critical open-source software projects rely on just one or two active maintainers. This heavy concentration of labor poses ongoing security and operational risks for global digital infrastructure.",
+   "vocab": [
+    {
+     "word": "concentration",
+     "thai": "การกระจุกตัว, ความหนาแน่น",
+     "level": "B2",
+     "example": "This heavy concentration of labor poses ongoing security risks."
+    },
+    {
+     "word": "maintainer",
+     "thai": "ผู้ดูแลรักษาซอฟต์แวร์",
+     "level": "C1",
+     "example": "He is an open source maintainer, and he is far from the only one."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อน, ช่องโหว่",
+     "level": "C1",
+     "example": "The analysis found no new funding after the previous security vulnerability."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 34,
+   "ts": "2026-10-10T10:14:55.500912+07:00",
+   "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
+   "link": "https://www.nber.org/papers/w35854",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Economic studies on wealth taxation in Norway have minimal direct bearing on server operations or infrastructure management.",
+   "summary": "A recent economic working paper investigates the effects of Norway's wealth and dividend tax reforms between 2021 and 2025. The study concludes that short-run economic costs regarding billionaire migration and firm investments were limited.",
+   "vocab": [
+    {
+     "word": "imposing",
+     "thai": "การกำหนดใช้ (ภาษีหรือกฎหมาย)",
+     "level": "C1",
+     "example": "Whether imposing higher taxes on business owners adversely affects business activity."
+    },
+    {
+     "word": "exodus",
+     "thai": "การอพยพออกครั้งใหญ่",
+     "level": "C1",
+     "example": "The reforms spurred international debate and an exodus of Norwegian billionaires."
+    },
+    {
+     "word": "exempt",
+     "thai": "ได้รับการยกเว้น",
+     "level": "C1",
+     "example": "We compare firms owned by Norwegian individuals with firms owned by tax-exempt entities."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 35,
+   "ts": "2026-10-10T10:14:55.500951+07:00",
+   "title": "Has the Autonomous Trucking Revolution Arrived?",
+   "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Autonomous trucking developments affect logistics and supply chains, which indirectly impact hardware shipping and facility operations.",
+   "summary": "The autonomous trucking industry faces a mix of safety pressures, regulatory scrutiny, and labor shortages. While startups push toward commercial deployment, questions remain over whether technology alone can solve systemic road safety issues.",
+   "vocab": [
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "The trucking industry faces intense regulatory scrutiny."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "B2",
+     "example": "Autonomous vehicle companies are ready for commercial deployment."
+    },
+    {
+     "word": "systemic",
+     "thai": "เกี่ยวกับระบบ",
+     "level": "C1",
+     "example": "Questions remain over whether technology can solve systemic road safety issues."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 29,
- "vocab": [],
+ "next_id": 36,
+ "vocab": [
+  {
+   "word": "commissioning",
+   "thai": "กระบวนการตรวจสอบและทดสอบระบบก่อนเปิดใช้งานจริง",
+   "level": "C1",
+   "example": "Michael Roberson was in charge of end-to-end infrastructure commissioning.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stint",
+   "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
+   "level": "C1",
+   "example": "He left this April for a three-month stint at Fluidstack.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "broaden",
+   "thai": "ขยายให้กว้างขึ้น",
+   "level": "B2",
+   "example": "What excites me is the chance to broaden my horizons and solve complex problems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "influx",
+   "thai": "การไหลทะลักเข้ามาจำนวนมาก",
+   "level": "C1",
+   "example": "Texas as a whole has seen a massive influx of data center projects in recent years.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "audit",
+   "thai": "การตรวจสอบบัญชีหรือระบบ",
+   "level": "B2",
+   "example": "Governor Greg Abbott halted all new data center permits until it completes a large-scale audit.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hyperscaler",
+   "thai": "ผู้ให้บริการคลาวด์หรือศูนย์ข้อมูลขนาดใหญ่",
+   "level": "C2",
+   "example": "The group was founded in 2019 and focuses on developing build-to-suit powered shells for hyperscalers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synchronization",
+   "thai": "การทำให้ประสานเวลากัน",
+   "level": "C1",
+   "example": "Different GPUs cannot work entirely independently: at various points they must exchange results and synchronize.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interconnect",
+   "thai": "ระบบเชื่อมต่อเครือข่ายระหว่างกัน",
+   "level": "C1",
+   "example": "Meta has built high-capacity datacenter interconnects to support model training.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bottleneck",
+   "thai": "คอขวด (จุดที่ทำให้การทำงานช้าลง)",
+   "level": "B2",
+   "example": "This can lead to problems where many senders converge on the same destination and create a bottleneck.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "valuation",
+   "thai": "มูลค่าประเมินของบริษัท",
+   "level": "B2",
+   "example": "TypeSafe raised $870M at a $7.5B valuation led by Andreessen Horowitz.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enterprise",
+   "thai": "ระดับองค์กรธุรกิจ",
+   "level": "B2",
+   "example": "We will be adding all the enterprise features you have been asking us for.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "participation",
+   "thai": "การมีส่วนร่วม",
+   "level": "B2",
+   "example": "The funding round saw participation from Sequoia Capital and other key investors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "credential",
+   "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่านหรือโทเค็น)",
+   "level": "B2",
+   "example": "AWS AgentCore security undone by prompt requesting credentials.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vulnerability",
+   "thai": "จุดอ่อนหรือช่องโหว่ทางความปลอดภัย",
+   "level": "B2",
+   "example": "Security Microsoft patches failed to fix on-prem SharePoint under zero-day attack.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bolster",
+   "thai": "เสริมสร้าง หรือสนับสนุน",
+   "level": "C1",
+   "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  }
+ ],
  "feedback": {
   "liked": [],
   "disliked": []
