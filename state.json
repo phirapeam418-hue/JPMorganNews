@@ -151,7 +151,17 @@
   "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
   "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
   "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
-  "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
+  "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/",
+  "https://patkerr.co.uk/2d-vehicles/",
+  "https://www.thomas-huehn.com/knuth-reward-check/",
+  "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+  "https://epoch.ai/publications/innovationeval",
+  "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+  "https://lightbulbcomputer.com/",
+  "https://www.opengroup.org//openbrand/register/",
+  "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+  "https://cerncourier.com/how-strong-is-the-strong-interaction/",
+  "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
  ],
  "stories": [
   {
@@ -1769,9 +1779,45 @@
    "urgency": 6,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 45,
+   "ts": "2026-10-11T03:50:57.009953+07:00",
+   "title": "Why DuckDB 2.0 is faster",
+   "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "DuckDB performance improvements over object storage directly benefit cloud data pipelines and operations.",
+   "summary": "DuckDB 2.0 introduces asynchronous I/O to improve query throughput when reading Parquet data files directly from AWS S3. Decoupling downloads from decoding maximizes thread utilization and significantly reduces query latency across large data pipelines.",
+   "vocab": [
+    {
+     "word": "caveat",
+     "thai": "ข้อควรระวังหรือข้อจำกัด",
+     "level": "C1",
+     "example": "Quick caveat: as I said in the introduction, this is my home internet to us-east-1, so both numbers are slow."
+    },
+    {
+     "word": "decode",
+     "thai": "ถอดรหัสข้อมูล",
+     "level": "B2",
+     "example": "For every row group DuckDB downloads the bytes, decodes the Parquet, and counts votes."
+    },
+    {
+     "word": "idle",
+     "thai": "ว่างหรือไม่ทำงาน",
+     "level": "B2",
+     "example": "While a worker waits its CPU is idle, and while it decodes it has no download in flight."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 45,
+ "next_id": 46,
  "vocab": [
   {
    "word": "commissioning",
