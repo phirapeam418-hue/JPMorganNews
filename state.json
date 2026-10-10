@@ -1788,7 +1788,7 @@
    "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
    "level": "C1",
    "example": "He left this April for a three-month stint at Fluidstack.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -1828,7 +1828,7 @@
    "thai": "ผู้ให้บริการคลาวด์หรือศูนย์ข้อมูลขนาดใหญ่",
    "level": "C2",
    "example": "The group was founded in 2019 and focuses on developing build-to-suit powered shells for hyperscalers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -1838,7 +1838,7 @@
    "thai": "การทำให้ประสานเวลากัน",
    "level": "C1",
    "example": "Different GPUs cannot work entirely independently: at various points they must exchange results and synchronize.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -1898,7 +1898,7 @@
    "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่านหรือโทเค็น)",
    "level": "B2",
    "example": "AWS AgentCore security undone by prompt requesting credentials.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -1988,7 +1988,7 @@
    "thai": "ผู้ดูแลรักษาซอฟต์แวร์",
    "level": "C1",
    "example": "He is an open source maintainer, and he is far from the only one.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2149,7 +2149,28 @@
   "disliked": []
  },
  "tg_offset": 57700419,
- "polls": {},
+ "polls": {
+  "6221885664472859370": {
+   "word": "hyperscaler",
+   "correct": 0
+  },
+  "6221885664472859371": {
+   "word": "maintainer",
+   "correct": 2
+  },
+  "6221885664472859372": {
+   "word": "stint",
+   "correct": 2
+  },
+  "6221885664472859373": {
+   "word": "synchronization",
+   "correct": 1
+  },
+  "6221885664472859374": {
+   "word": "credential",
+   "correct": 1
+  }
+ },
  "fail": {},
  "level": "B2",
  "answers": []
