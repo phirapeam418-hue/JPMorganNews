@@ -128,7 +128,18 @@
   "https://www.nber.org/papers/w35854",
   "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
   "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-  "https://atarimuseum.nl/atari-falcon/"
+  "https://atarimuseum.nl/atari-falcon/",
+  "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
+  "https://www.theregister.com/columnists/2026/10/10/ec-users-should-be-afraid-of-a-us-kill-switch-not-some-new-software/5301875",
+  "https://www.theregister.com/software/2026/10/10/stack-overflow-survey-finds-devs-hooked-on-ai-but-not-totally-sold-on-its-judgment/5301662",
+  "https://www.theregister.com/ai-and-ml/2026/10/10/microsoft-leans-on-open-weight-model-from-chinese-ai-lab-to-challenge-jev/5302473",
+  "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+  "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+  "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+  "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
+  "https://typeincube.com/",
+  "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+  "https://www.kyushu-u.ac.jp/en/researches/view/414/"
  ],
  "stories": [
   {
@@ -1422,9 +1433,117 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 36,
+   "ts": "2026-10-10T17:15:37.907370+07:00",
+   "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
+   "link": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Directly targets data center power delivery delays and on-site generation partnerships for AI workloads.",
+   "summary": "Wärtsilä, Schneider Electric, and Stanley Consultants partnered to create an integrated power delivery model for US data centers. The initiative aims to bypass grid delays by coordinating modular power plants, electrical infrastructure, and facility design.",
+   "vocab": [
+    {
+     "word": "interconnection",
+     "thai": "การเชื่อมต่อโครงข่ายระบบไฟฟ้า",
+     "level": "C1",
+     "example": "Lengthy grid interconnection timelines are slowing down new data center projects."
+    },
+    {
+     "word": "complementary",
+     "thai": "ที่เกื้อหนุนกันหรือส่งเสริมกัน",
+     "level": "C1",
+     "example": "By bringing our complementary capabilities together from the outset, we can simplify execution."
+    },
+    {
+     "word": "sequential",
+     "thai": "ที่เป็นไปตามลำดับขั้นตอน",
+     "level": "B2",
+     "example": "The combined approach can accelerate project schedules compared to traditional, sequential delivery models."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 37,
+   "ts": "2026-10-10T17:15:37.907509+07:00",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "High-severity client CVE enabling account takeover and file extraction via IPC parsing flaws, relevant to enterprise workstation security.",
+   "summary": "A vulnerability in Telegram Desktop allowed attackers to read local files and hijack accounts through crafted links and IPC injection. Telegram patched the issue in version 7.2.9 by improving separator handling.",
+   "vocab": [
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจหรือที่กำหนดโดยอิสระ",
+     "level": "B2",
+     "example": "The flaw lets one clicked link read arbitrary files off the disk."
+    },
+    {
+     "word": "exfiltrate",
+     "thai": "ลักลอบดึงข้อมูลออกไป",
+     "level": "C2",
+     "example": "The vulnerability allowed session files to be exfiltrated to an attacker-controlled chat."
+    },
+    {
+     "word": "redundant",
+     "thai": "ซ้ำซ้อนหรือไม่จำเป็น",
+     "level": "B2",
+     "example": "Telegram itself has to work out that the new process is redundant."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 38,
+   "ts": "2026-10-10T17:15:37.907536+07:00",
+   "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
+   "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Detailed benchmarks of WSL3 showing major memory bandwidth and kernel IPC improvements for Windows-based developers.",
+   "summary": "Independent benchmarks show WSL 3 delivers up to 60 percent higher memory bandwidth and lower IPC latency compared to WSL 2. These performance gains stem from updating to Linux kernel 6.18 and optimizing Hyper-V dynamic memory reclamation.",
+   "vocab": [
+    {
+     "word": "empirical",
+     "thai": "เชิงประจักษ์ (ได้จากการทดลองหรือสังเกตจริง)",
+     "level": "C1",
+     "example": "Here is what the empirical numbers look like across kernel primitives and memory bandwidth."
+    },
+    {
+     "word": "granularity",
+     "thai": "ระดับความละเอียดของข้อมูลหรือการทำงาน",
+     "level": "C1",
+     "example": "Raising the page reporting granularity reduces hypervisor trap frequency."
+    },
+    {
+     "word": "overhead",
+     "thai": "ภาระงานส่วนเกินหรือทรัพยากรที่ต้องเสียไปในการจัดการ",
+     "level": "C1",
+     "example": "The patch helps decrease page-table walking overhead during memory access."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 36,
+ "next_id": 39,
  "vocab": [
   {
    "word": "commissioning",
