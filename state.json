@@ -139,7 +139,19 @@
   "https://wiki.cateat.fish/art:computers_cannot_make_decisions",
   "https://typeincube.com/",
   "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-  "https://www.kyushu-u.ac.jp/en/researches/view/414/"
+  "https://www.kyushu-u.ac.jp/en/researches/view/414/",
+  "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
+  "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
+  "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
+  "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
+  "https://www.thomas-huehn.com/knuth-reward-check",
+  "https://github.com/rociiu/talorys",
+  "https://ndstudio.gov/posts/say-hello-to-rampart",
+  "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+  "https://conversableeconomist.com/2026/09/28/i-would-like-the-value-of-my-home-to-rise-while-my-property-taxes-fall/",
+  "https://theverifiedpost.com/article/whooping-cranes-ultralight-costumed-pilots-operation-migration",
+  "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+  "https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/"
  ],
  "stories": [
   {
@@ -1541,9 +1553,225 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 39,
+   "ts": "2026-10-10T23:34:26.235494+07:00",
+   "title": "Sponsored: Why do liquid-cooled AI data centers require different backup power strategy?",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-do-liquid-cooled-ai-data-centers-require-different-backup-power-strategy/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly tackles critical power and liquid cooling challenges for high-density AI data centers.",
+   "summary": "AI workloads create massive power fluctuations and require liquid cooling, which introduces heavy inductive electrical loads. Traditional backup power systems must adapt with hybrid architectures and specialized UPS configurations to maintain reliability.",
+   "vocab": [
+    {
+     "word": "intermittent",
+     "thai": "เป็นพักๆ หรือไม่สม่ำเสมอ",
+     "level": "C1",
+     "example": "AI data centers feature a highly volatile, intermittent load profile."
+    },
+    {
+     "word": "volatile",
+     "thai": "เปลี่ยนแปลงอย่างรวดเร็วและคาดเดาได้ยาก",
+     "level": "C1",
+     "example": "AI data centers feature a highly volatile, intermittent load profile with massive power swings."
+    },
+    {
+     "word": "inductive",
+     "thai": "ที่เกิดจากการเหนี่ยวนำทางแม่เหล็กไฟฟ้า",
+     "level": "C2",
+     "example": "Liquid cooling systems introduce heavy inductive loads that require high inrush currents."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 40,
+   "ts": "2026-10-10T23:34:26.235531+07:00",
+   "title": "Cipher extends Barber Lake data center lease commitments to 20 years",
+   "link": "https://www.datacenterdynamics.com/en/news/cipher-extends-barber-lake-data-center-lease-commitments-to-20-years/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports major long-term capacity leasing and construction timelines for a 300MW Texas AI data center campus.",
+   "summary": "Cipher Digital expanded long-term lease commitments to 20 years at its Barber Lake campus in Texas, raising contracted revenue to over $9 billion. The 300MW facility faces slightly revised delivery dates between late 2026 and early 2027 due to evolving design requirements.",
+   "vocab": [
+    {
+     "word": "amend",
+     "thai": "แก้ไขเพิ่มเติม (ข้อตกลงหรือกฎหมาย)",
+     "level": "C1",
+     "example": "The agreements amend AI cloud provider Fluidstack's existing lease."
+    },
+    {
+     "word": "overrun",
+     "thai": "ค่าใช้จ่ายที่เกินงบประมาณ",
+     "level": "C1",
+     "example": "The tenant will reimburse half of further overruns through additional rent."
+    },
+    {
+     "word": "enduring",
+     "thai": "ยั่งยืนหรือคงทน",
+     "level": "C2",
+     "example": "Adding contracted revenue reflects the enduring value of the infrastructure we are building."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 41,
+   "ts": "2026-10-10T23:34:26.235552+07:00",
+   "title": "Two characters open up a world of typosquatting opportunities in Chromium browsers",
+   "link": "https://www.theregister.com/security/2026/10/10/two-characters-open-up-a-world-of-typosquatting-opportunities-in-chromium-browsers/5302383",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Snippet digest containing multiple unrelated tech snippets, mainly browser and developer news rather than ops.",
+   "summary": "A tech news round-up covers browser typosquatting vulnerabilities, security breaches, and updates from open-source projects. These varied stories highlight ongoing security challenges and infrastructure investments across several vendors.",
+   "vocab": [
+    {
+     "word": "fortify",
+     "thai": "เสริมกำลังหรือทำให้แข็งแกร่งขึ้น",
+     "level": "C1",
+     "example": "GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers."
+    },
+    {
+     "word": "lifeline",
+     "thai": "สิ่งช่วยเหลือที่ช่วยให้รอดพ้นวิกฤต",
+     "level": "C1",
+     "example": "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line."
+    },
+    {
+     "word": "humane",
+     "thai": "มีมนุษยธรรม",
+     "level": "B2",
+     "example": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 42,
+   "ts": "2026-10-10T23:34:26.235588+07:00",
+   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "link": "https://github.com/rociiu/talorys",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Showcases a serverless edge architecture using Cloudflare Workers and Durable Objects for personal AI agents.",
+   "summary": "Talorys is an open-source personal AI assistant designed to run completely inside a free Cloudflare account using serverless Workers and Durable Objects. It eliminates dedicated backend servers by storing state in SQLite and scheduling tasks natively on the edge.",
+   "vocab": [
+    {
+     "word": "recurring",
+     "thai": "เกิดขึ้นซ้ำๆ หรือตามรอบเวลา",
+     "level": "B2",
+     "example": "The platform handles one-time and recurring reminders via background alarms."
+    },
+    {
+     "word": "durable",
+     "thai": "คงทนหรืออยู่ได้ยาวนาน",
+     "level": "C1",
+     "example": "The system retains durable personal facts and preferences across sessions."
+    },
+    {
+     "word": "provision",
+     "thai": "จัดเตรียมหรือติดตั้งทรัพยากร",
+     "level": "C1",
+     "example": "Talorys does not provision R2, D1, KV, or any paid service."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 43,
+   "ts": "2026-10-10T23:34:26.235602+07:00",
+   "title": "Rampart: Browser native on-device PII radaction",
+   "link": "https://ndstudio.gov/posts/say-hello-to-rampart",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Presents a client-side PII filtering tool, relevant to security but focused on browser endpoints rather than servers.",
+   "summary": "Rampart is an open-source browser-native tool that redacts sensitive personal data locally before it reaches remote AI servers. It combines regular expressions with small language models to protect user privacy without relying on backend inspection.",
+   "vocab": [
+    {
+     "word": "redact",
+     "thai": "เซ็นเซอร์หรือปกปิดข้อมูลที่เป็นความลับ",
+     "level": "C1",
+     "example": "Rampart redacts PII on-device so it does not have to leave your machine."
+    },
+    {
+     "word": "deterministic",
+     "thai": "ที่ให้ผลลัพธ์แน่นอนตามกฎเกณฑ์",
+     "level": "C2",
+     "example": "The first layer is deterministic and fast, relying on regular expressions."
+    },
+    {
+     "word": "insider",
+     "thai": "คนวงใน",
+     "level": "B2",
+     "example": "Cloud services carry internal security risks such as zero-day bugs and insider threats."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 44,
+   "ts": "2026-10-10T23:34:26.235613+07:00",
+   "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+   "link": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Microsoft introduces containerized execution boundaries to prevent rogue AI agents from damaging system configs.",
+   "summary": "Microsoft launched Microsoft Execution Containers (MXC) to isolate autonomous AI agents and restrict their operational access to systems and networks. This container-based boundary protects critical server environments from unauthorized or accidental changes made by dynamic AI workflows.",
+   "vocab": [
+    {
+     "word": "containment",
+     "thai": "การควบคุมหรือการจำกัดขอบเขตไม่ให้แพร่กระจาย",
+     "level": "C1",
+     "example": "Containment creates a managed boundary so the agent cannot modify host files."
+    },
+    {
+     "word": "enforce",
+     "thai": "บังคับใช้ (กฎ ระเบียบ นโยบาย)",
+     "level": "B2",
+     "example": "MXC uses the appropriate container to enforce those policies at runtime."
+    },
+    {
+     "word": "unrestricted",
+     "thai": "ไร้ข้อจำกัดหรือไม่มีการควบคุม",
+     "level": "B2",
+     "example": "Giving agents unrestricted access risks severe operational damage."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 39,
+ "next_id": 45,
  "vocab": [
   {
    "word": "commissioning",
