@@ -161,7 +161,7 @@
      "example": "Soluna expects the expanded deployment to provide significant hash rate."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 3,
@@ -197,11 +197,13 @@
      "example": "None of it would have been possible without the relentless curiosity and execution rigor."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 17,
+   "sent_ts": "2026-10-10T13:58:38.544939+07:00"
   },
   {
    "id": 3,
@@ -233,7 +235,7 @@
      "example": "The carrier finally finalized its UK merger with Three last year."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -269,7 +271,7 @@
      "example": "It was identified as the fourth such mining operation uncovered in the area."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 5,
    "scale": 3,
@@ -305,7 +307,7 @@
      "example": "The city aims to move toward the model of an eco-sustainable and intelligent city."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -341,11 +343,13 @@
      "example": "Our continued investment in Japan reflects both our confidence and commitment."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 18,
+   "sent_ts": "2026-10-10T13:58:39.044754+07:00"
   },
   {
    "id": 7,
@@ -415,7 +419,7 @@
      "example": "Changes to the spatial development plan to permit data centers remain live."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -451,11 +455,13 @@
      "example": "Thermal runaway can propagate from one cell to others."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 19,
+   "sent_ts": "2026-10-10T13:58:39.544602+07:00"
   },
   {
    "id": 10,
@@ -487,7 +493,7 @@
      "example": "The most significant development is precisely this convergence between space-based and terrestrial infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -523,11 +529,13 @@
      "example": "Why unifying BMS, PDU, and BMC telemetry enables defensible planning."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 20,
+   "sent_ts": "2026-10-10T13:58:40.050992+07:00"
   },
   {
    "id": 12,
@@ -597,7 +605,7 @@
      "example": "It requires many of the same mitigation measures as the first: enclosure ratings and barrier walls."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
@@ -633,7 +641,7 @@
      "example": "The acquisition of the wireless spectrum strengthens their network coverage."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 5,
@@ -710,7 +718,7 @@
      "example": "The hardware market faces a significant downturn."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 3,
    "scale": 6,
@@ -749,11 +757,13 @@
      "example": "We were able to ship performant, high-quality, open-weight models for the community."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 7,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 21,
+   "sent_ts": "2026-10-10T13:58:40.535788+07:00"
   },
   {
    "id": 18,
@@ -785,7 +795,7 @@
      "example": "Real-time notifications and feeds help track seismic events."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 9,
    "scale": 6,
@@ -897,7 +907,7 @@
      "example": "Get it all as JSON from the API, or as a daily CC0 dataset."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -933,7 +943,7 @@
      "example": "Reads and writes go through the kernel's FUSE layer to the mount daemon."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -969,7 +979,7 @@
      "example": "The discourse around software engineering has gotten dumber."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -1005,7 +1015,7 @@
      "example": "Internal memos from the people who built Apple and Google."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -1041,11 +1051,13 @@
      "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 14,
+   "sent_ts": "2026-10-10T13:58:37.024299+07:00"
   },
   {
    "id": 26,
@@ -1077,7 +1089,7 @@
      "example": "One of the most closely watched elements was its provisions for crewed transportation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 3,
    "scale": 5,
@@ -1113,11 +1125,13 @@
      "example": "AI coding agents primarily write and submit code autonomously based on prompts."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 15,
+   "sent_ts": "2026-10-10T13:58:37.530438+07:00"
   },
   {
    "id": 28,
@@ -1149,7 +1163,7 @@
      "example": "A federal judge ruled the fee amounted to an unauthorized tax and infringed on Congress’ authority to raise funds."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 7,
    "scale": 6,
@@ -1185,7 +1199,7 @@
      "example": "Under upcoming policy updates, users will see storage changes."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -1221,7 +1235,7 @@
      "example": "To reproduce its acceleration, we need the rule in the running game."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
@@ -1257,7 +1271,7 @@
      "example": "Diffusion models represent sequential, multimodal data in various regimes."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -1293,7 +1307,7 @@
      "example": "Take a Rust program and convert it into an intermediate representation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
@@ -1329,11 +1343,13 @@
      "example": "The analysis found no new funding after the previous security vulnerability."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 16,
+   "sent_ts": "2026-10-10T13:58:38.051382+07:00"
   },
   {
    "id": 34,
@@ -1365,7 +1381,7 @@
      "example": "We compare firms owned by Norwegian individuals with firms owned by tax-exempt entities."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
@@ -1401,7 +1417,7 @@
      "example": "Questions remain over whether technology can solve systemic road safety issues."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -1555,6 +1571,226 @@
    "thai": "เสริมสร้าง หรือสนับสนุน",
    "level": "C1",
    "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "symmetrical",
+   "thai": "สมมาตร, ซึ่งเทียบเท่ากัน",
+   "level": "B2",
+   "example": "Another data center was hit as well—our symmetrical response.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "acknowledge",
+   "thai": "ยอมรับ",
+   "level": "B2",
+   "example": "Yandex said no employees were hurt but acknowledged disruptions to some services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disruption",
+   "thai": "การหยุดชะงัก",
+   "level": "B2",
+   "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "encompass",
+   "thai": "ครอบคลุม",
+   "level": "C1",
+   "example": "That data encompasses 300 million individual work events across major software development firms.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "autonomous",
+   "thai": "อัตโนมัติ, ทำงานได้เอง",
+   "level": "B2",
+   "example": "AI coding agents primarily write and submit code autonomously based on prompts.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concentration",
+   "thai": "การกระจุกตัว, ความหนาแน่น",
+   "level": "B2",
+   "example": "This heavy concentration of labor poses ongoing security risks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "maintainer",
+   "thai": "ผู้ดูแลรักษาซอฟต์แวร์",
+   "level": "C1",
+   "example": "He is an open source maintainer, and he is far from the only one.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resilient",
+   "thai": "มีความยืดหยุ่นและทนทาน",
+   "level": "C1",
+   "example": "From laying the groundwork for a resilient global fabric, Koley built modern infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tenure",
+   "thai": "วาระการดำรงตำแหน่ง",
+   "level": "C1",
+   "example": "Bikash Koley spent more than 16 years at the company across two tenures.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "rigor",
+   "thai": "ความเข้มงวด ความถี่ถ้วน",
+   "level": "C1",
+   "example": "None of it would have been possible without the relentless curiosity and execution rigor.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "distributed",
+   "thai": "กระจายตัว",
+   "level": "B2",
+   "example": "As customer requirements become more distributed and complex, local scale matters.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ecosystem",
+   "thai": "ระบบนิเวศทางธุรกิจหรือเทคโนโลยี",
+   "level": "B2",
+   "example": "Realizing that potential will require an ecosystem that can support AI businesses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reflects",
+   "thai": "สะท้อนถึง",
+   "level": "B2",
+   "example": "Our continued investment in Japan reflects both our confidence and commitment.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "flammability",
+   "thai": "ความไวไฟ",
+   "level": "C1",
+   "example": "A key advantage of Lead-Acid chemistry is its limited intrinsic flammability and predictable failure behavior.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dissipate",
+   "thai": "สลายไป, กระจายออก",
+   "level": "C1",
+   "example": "Heat generation can exceed the rate at which it can dissipate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propagate",
+   "thai": "แพร่ขยาย, ลุกลาม",
+   "level": "C1",
+   "example": "Thermal runaway can propagate from one cell to others.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "headroom",
+   "thai": "พื้นที่ว่างส่วนเกิน (สำหรับรองรับภาระงาน)",
+   "level": "C1",
+   "example": "Legacy spreadsheets and isolated meters can't locate or validate this headroom.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "telemetry",
+   "thai": "ระบบส่งข้อมูลทางไกล (เพื่อการวัดและติดตาม)",
+   "level": "C1",
+   "example": "This whitepaper shows how full-chain telemetry delivers the real-time proof.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "defensible",
+   "thai": "ซึ่งสามารถอธิบายหรือพิสูจน์ความถูกต้องได้",
+   "level": "B2",
+   "example": "Why unifying BMS, PDU, and BMC telemetry enables defensible planning.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "multimodality",
+   "thai": "ความสามารถในการรองรับข้อมูลหลายรูปแบบ",
+   "level": "C1",
+   "example": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "paradigm",
+   "thai": "กระบวนทัศน์",
+   "level": "B2",
+   "example": "This changes the paradigm for decision models which have been largely text-only.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "performant",
+   "thai": "มีประสิทธิภาพสูงในการทำงาน",
+   "level": "C1",
+   "example": "We were able to ship performant, high-quality, open-weight models for the community.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
