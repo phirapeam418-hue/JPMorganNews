@@ -198,7 +198,16 @@
   "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
   "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
   "https://www.playgrnd.tools/",
-  "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
+  "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/",
+  "https://cartographers-nk.wonyoung.so/",
+  "https://twitter.com/karpathy/status/2109361546505966046",
+  "https://theonion.com/archivehunt/",
+  "https://datacenters.google/locations/",
+  "https://pub.sakana.ai/mass/",
+  "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
+  "https://royfish.dev/fingerprints-are-the-new-cookies",
+  "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+  "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now"
  ],
  "stories": [
   {
@@ -2122,9 +2131,45 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 53,
+   "ts": "2026-10-12T06:18:28.728184+07:00",
+   "title": "Google Data Centers around the world",
+   "link": "https://datacenters.google/locations/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "The document lists Google data center community statistics and heat recovery initiatives across global locations.",
+   "summary": "Google published promotional metrics about its global data center footprints, highlighting local job creation and community sustainability programs. While largely public relations material, it offers high-level visibility into facility locations and district heat recovery projects.",
+   "vocab": [
+    {
+     "word": "initiative",
+     "thai": "โครงการริเริ่ม",
+     "level": "B2",
+     "example": "The Ministry and Google Cloud launched a joint initiative to help organizations identify real-world challenges."
+    },
+    {
+     "word": "precision",
+     "thai": "ความแม่นยำ",
+     "level": "B2",
+     "example": "Google is investing in Chile to implement precision irrigation management systems."
+    },
+    {
+     "word": "recovery",
+     "thai": "การนำกลับมาใช้ประโยชน์ใหม่",
+     "level": "B2",
+     "example": "The Hamina data center achieved an 80% heat recovery rate."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 1,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 53,
+ "next_id": 54,
  "vocab": [
   {
    "word": "commissioning",
