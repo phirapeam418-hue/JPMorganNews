@@ -161,7 +161,12 @@
   "https://www.opengroup.org//openbrand/register/",
   "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
   "https://cerncourier.com/how-strong-is-the-strong-interaction/",
-  "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger"
+  "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+  "https://nishtahir.com/build-your-own-decision-model/",
+  "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
+  "https://housing.over.pizza/",
+  "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+  "https://ghuntley.com/unikernels/"
  ],
  "stories": [
   {
@@ -1774,11 +1779,13 @@
      "example": "Giving agents unrestricted access risks severe operational damage."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 28,
+   "sent_ts": "2026-10-11T07:34:30.574464+07:00"
   },
   {
    "id": 45,
@@ -1815,9 +1822,81 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 46,
+   "ts": "2026-10-11T07:35:10.332086+07:00",
+   "title": "Five months treating bugs like patients and coding agents like a medical team",
+   "link": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "It presents an interesting agent-driven DevOps case study, but focuses primarily on application software engineering.",
+   "summary": "Cockroach Labs used an automated multi-agent framework to add database migration support in just two days. The team structured the AI agent workflow like a teaching hospital to ensure testing quality and minimize human intervention.",
+   "vocab": [
+    {
+     "word": "decompose",
+     "thai": "แยกย่อยออกเป็นส่วนๆ",
+     "level": "B2",
+     "example": "A planning agent decided it was too large and decomposed it into fifteen sub-issues."
+    },
+    {
+     "word": "escalate",
+     "thai": "ส่งต่อเรื่องขึ้นไประดับสูงกว่า",
+     "level": "B2",
+     "example": "Reviewers rejected work multiple times and nine issues were escalated."
+    },
+    {
+     "word": "prominent",
+     "thai": "มีชื่อเสียง / โดดเด่น",
+     "level": "B2",
+     "example": "Mount Sinai is a prominent teaching hospital in both Toronto and New York."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 47,
+   "ts": "2026-10-11T07:35:10.332125+07:00",
+   "title": "Unikernels were hard. key word: were",
+   "link": "https://ghuntley.com/unikernels/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Unikernels offer substantial server security and efficiency benefits that are relevant to infrastructure architecture.",
+   "summary": "The author argues that unikernels are becoming practical again because AI makes building specialized application libraries much easier. Removing the traditional operating system layer shrinks the server attack surface and prevents attackers from easily obtaining a shell.",
+   "vocab": [
+    {
+     "word": "friction",
+     "thai": "อุปสรรค / ความยากลำบาก",
+     "level": "B2",
+     "example": "The friction that made unikernels hard is gone."
+    },
+    {
+     "word": "dogma",
+     "thai": "ความเชื่อที่ยึดถือต่อกันมาโดยไม่มีข้อสงสัย",
+     "level": "C2",
+     "example": "Cognitively, get rid of the dogma that they are hard."
+    },
+    {
+     "word": "exfiltration",
+     "thai": "การลักลอบดึงข้อมูลออกไป",
+     "level": "C1",
+     "example": "That shell acts as an easy tool for data exfiltration."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
   }
  ],
- "next_id": 46,
+ "next_id": 48,
  "vocab": [
   {
    "word": "commissioning",
@@ -2184,6 +2263,36 @@
    "thai": "มีประสิทธิภาพสูงในการทำงาน",
    "level": "C1",
    "example": "We were able to ship performant, high-quality, open-weight models for the community.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "containment",
+   "thai": "การควบคุมหรือการจำกัดขอบเขตไม่ให้แพร่กระจาย",
+   "level": "C1",
+   "example": "Containment creates a managed boundary so the agent cannot modify host files.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enforce",
+   "thai": "บังคับใช้ (กฎ ระเบียบ นโยบาย)",
+   "level": "B2",
+   "example": "MXC uses the appropriate container to enforce those policies at runtime.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unrestricted",
+   "thai": "ไร้ข้อจำกัดหรือไม่มีการควบคุม",
+   "level": "B2",
+   "example": "Giving agents unrestricted access risks severe operational damage.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
