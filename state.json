@@ -2124,7 +2124,7 @@
    "thai": "การตรวจสอบบัญชีหรือระบบ",
    "level": "B2",
    "example": "Governor Greg Abbott halted all new data center permits until it completes a large-scale audit.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2324,7 +2324,7 @@
    "thai": "ความเข้มงวด ความถี่ถ้วน",
    "level": "C1",
    "example": "None of it would have been possible without the relentless curiosity and execution rigor.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2484,7 +2484,7 @@
    "thai": "เป็นพักๆ หรือไม่สม่ำเสมอ",
    "level": "C1",
    "example": "AI data centers feature a highly volatile, intermittent load profile.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2514,7 +2514,7 @@
    "thai": "ตามอำเภอใจหรือที่กำหนดโดยอิสระ",
    "level": "B2",
    "example": "The flaw lets one clicked link read arbitrary files off the disk.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2704,7 +2704,7 @@
    "thai": "คงทนหรืออยู่ได้ยาวนาน",
    "level": "C1",
    "example": "The system retains durable personal facts and preferences across sessions.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -2725,7 +2725,28 @@
   "disliked": []
  },
  "tg_offset": 57700424,
- "polls": {},
+ "polls": {
+  "6224137464286544530": {
+   "word": "audit",
+   "correct": 0
+  },
+  "6224137464286544531": {
+   "word": "rigor",
+   "correct": 2
+  },
+  "6224137464286544532": {
+   "word": "durable",
+   "correct": 2
+  },
+  "6224137464286544533": {
+   "word": "arbitrary",
+   "correct": 3
+  },
+  "6224137464286544534": {
+   "word": "intermittent",
+   "correct": 0
+  }
+ },
  "fail": {},
  "level": "B2",
  "answers": []
