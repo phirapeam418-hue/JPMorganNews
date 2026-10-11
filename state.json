@@ -173,7 +173,21 @@
   "https://www.nature.com/articles/s41586-026-11111-4",
   "https://hangul.ink/blog/hangul-day",
   "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
-  "https://github.com/moritzwilksch/diffle"
+  "https://github.com/moritzwilksch/diffle",
+  "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+  "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+  "https://www.theregister.com/networks/2026/10/11/hpes-networking-boss-says-ai-will-handle-all-trouble-tickets-without-humans-in-two-years/5302179",
+  "https://www.theregister.com/science/2026/10/11/researchers-work-out-how-to-control-2d-semiconductor-growth-for-future-chips/5301666",
+  "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+  "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+  "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+  "https://lineageos.org/Changelog-32/",
+  "https://nitter.net",
+  "https://verdagon.dev/blog/valen-group-borrowing",
+  "https://ircv3.net/",
+  "https://jobs.ashbyhq.com/weave-os",
+  "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+  "https://hexrat.cc/pages/blog/2026_10_07"
  ],
  "stories": [
   {
@@ -1953,9 +1967,117 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 7
+  },
+  {
+   "id": 49,
+   "ts": "2026-10-11T21:44:47.529212+07:00",
+   "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
+   "link": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The story covers data center capacity conversion and power expansion for AI workloads, but commercial operations will not start until late 2026.",
+   "summary": "Hyperscale Data plans to spin off its Bitcoin mining business into a subsidiary to focus its Michigan site on AI workloads. The company secured an initial 20MW agreement with a cloud customer and aims to scale the campus up to 300MW.",
+   "vocab": [
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทย่อย",
+     "level": "B2",
+     "example": "Hyperscale Data plans to form a new subsidiary to hold its Bitcoin mining operations."
+    },
+    {
+     "word": "restructuring",
+     "thai": "การปรับโครงสร้างองค์กร",
+     "level": "C1",
+     "example": "The proposed restructuring follows the shutdown of Bitcoin mining at the facility."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Any transaction would require board approval and compliance with applicable legal requirements."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 50,
+   "ts": "2026-10-11T21:44:47.529264+07:00",
+   "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
+   "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Autonomous AI attacks on industrial control systems pose severe security risks to data center power, cooling, and facility infrastructure.",
+   "summary": "A Booz Allen study showed that advanced AI agents can autonomously breach industrial control networks and manipulate physical equipment within minutes. This capability highlights critical risks for operational technology that manages power and cooling systems.",
+   "vocab": [
+    {
+     "word": "operational",
+     "thai": "เชิงปฏิบัติการ",
+     "level": "B2",
+     "example": "Autonomous AI systems are capable of finding and attacking critical operational technology."
+    },
+    {
+     "word": "perimeter",
+     "thai": "แนวป้องกันรอบนอก",
+     "level": "C1",
+     "example": "The models progressed from a perimeter compromise to actions inside an industrial network."
+    },
+    {
+     "word": "persistence",
+     "thai": "ความต่อเนื่องยาวนานในระบบ",
+     "level": "C1",
+     "example": "AI agents can operate with a speed, persistence, and engineering-level precision."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 51,
+   "ts": "2026-10-11T21:44:47.529417+07:00",
+   "title": "The tilde in your PATH may not be your HOME",
+   "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "The post explains a subtle shell quoting behavior affecting environment variable expansion in Linux system administration.",
+   "summary": "Quoting a tilde inside shell PATH definitions prevents the shell from expanding it to the user home directory. Sysadmins and DevOps engineers should explicitly use the HOME variable to avoid broken binary lookups.",
+   "vocab": [
+    {
+     "word": "suspicious",
+     "thai": "น่าสงสัย",
+     "level": "B2",
+     "example": "The sandbox tool warned that entries in the path looked suspicious."
+    },
+    {
+     "word": "expansion",
+     "thai": "การขยายหรือการแจกแจงค่า",
+     "level": "B2",
+     "example": "Tilde expansion happens only in unquoted command line inputs."
+    },
+    {
+     "word": "fragile",
+     "thai": "เปราะบางหรือเกิดข้อผิดพลาดได้ง่าย",
+     "level": "C1",
+     "example": "Relying on unquoted variable assignments is fragile because spaces can break them."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 49,
+ "next_id": 52,
  "vocab": [
   {
    "word": "commissioning",
