@@ -187,7 +187,18 @@
   "https://ircv3.net/",
   "https://jobs.ashbyhq.com/weave-os",
   "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-  "https://hexrat.cc/pages/blog/2026_10_07"
+  "https://hexrat.cc/pages/blog/2026_10_07",
+  "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
+  "https://nanolathe.gg",
+  "https://www.nyc.gov/main/click-to-cancel",
+  "https://www.ways-of-seeing.com/ch1",
+  "https://github.com/rogerbinns/apsw",
+  "https://medium.com/@timventura/akhetonics-photonic-computing-1-000x-faster-cpus-b9e91c470079",
+  "http://epestr.com/blog/reverse-engineering-a-commercial-spatial-audio-effect/",
+  "https://news.mit.edu/2026/shape-sensing-sheet-digitally-tracks-movement-bends-twists-1008",
+  "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+  "https://www.playgrnd.tools/",
+  "https://arstechnica.com/culture/2026/10/prime-video-unveils-blade-runner-2099-full-trailer-at-nycc/"
  ],
  "stories": [
   {
@@ -2075,9 +2086,45 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 52,
+   "ts": "2026-10-12T02:48:25.697653+07:00",
+   "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
+   "link": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts data center operations by introducing legal energy efficiency targets and fines for legacy facilities.",
+   "summary": "New building regulations in the United States and Europe are establishing mandatory efficiency and emissions standards for data centers. Facilities that fail to track and improve their Power Usage Effectiveness could soon face substantial financial fines.",
+   "vocab": [
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "A growing number of emissions requirements are bringing that inefficiency under greater regulatory scrutiny."
+    },
+    {
+     "word": "obligation",
+     "thai": "ข้อผูกพันหรือหน้าที่",
+     "level": "B2",
+     "example": "That shift turns efficiency in existing facilities from a good intention into an obligation with a deadline."
+    },
+    {
+     "word": "benchmarking",
+     "thai": "การเทียบเคียงสมรรถนะตามมาตรฐาน",
+     "level": "B2",
+     "example": "More than 50 US states and cities now have benchmarking or performance requirements for large buildings."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 52,
+ "next_id": 53,
  "vocab": [
   {
    "word": "commissioning",
