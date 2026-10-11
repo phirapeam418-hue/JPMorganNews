@@ -166,7 +166,14 @@
   "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6",
   "https://housing.over.pizza/",
   "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
-  "https://ghuntley.com/unikernels/"
+  "https://ghuntley.com/unikernels/",
+  "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+  "https://ratfactor.com/cards/git-commit-size",
+  "https://github.com/othermod/PSPi-Version-6",
+  "https://www.nature.com/articles/s41586-026-11111-4",
+  "https://hangul.ink/blog/hangul-day",
+  "https://celld.dev/docs/engineering/deterministic-simulation-testing/",
+  "https://github.com/moritzwilksch/diffle"
  ],
  "stories": [
   {
@@ -1910,9 +1917,45 @@
    "credibility": 7,
    "msg_id": 33,
    "sent_ts": "2026-10-11T14:04:13.316472+07:00"
+  },
+  {
+   "id": 48,
+   "ts": "2026-10-11T15:00:52.691946+07:00",
+   "title": "Decade-old RAM is making a comeback",
+   "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Severe memory price hikes are forcing hardware manufacturers back to DDR4 support, impacting procurement planning.",
+   "summary": "Motherboard and CPU vendors are reintroducing support for older DDR4 platforms due to steep DDR5 price spikes. While targeted at desktop users, the persistent memory shortage reflects broader hardware supply pressures affecting infrastructure budgets.",
+   "vocab": [
+    {
+     "word": "backtrack",
+     "thai": "การเปลี่ยนการตัดสินใจกลับไปใช้แบบเดิม",
+     "level": "C1",
+     "example": "This backtrack stems from LGA 1700's cross-compatibility with both kinds of RAM."
+    },
+    {
+     "word": "disparity",
+     "thai": "ความแตกต่างอย่างมาก",
+     "level": "C1",
+     "example": "I recently saw the price disparity first-hand while shopping around for new RAM."
+    },
+    {
+     "word": "abruptly",
+     "thai": "อย่างกะทันหัน",
+     "level": "B2",
+     "example": "Shopping around for new RAM after a DDR4 kit abruptly died on me."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
   }
  ],
- "next_id": 48,
+ "next_id": 49,
  "vocab": [
   {
    "word": "commissioning",
