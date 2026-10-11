@@ -1491,11 +1491,13 @@
      "example": "The combined approach can accelerate project schedules compared to traditional, sequential delivery models."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 34,
+   "sent_ts": "2026-10-11T14:04:13.881035+07:00"
   },
   {
    "id": 37,
@@ -1527,11 +1529,13 @@
      "example": "Telegram itself has to work out that the new process is redundant."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 31,
+   "sent_ts": "2026-10-11T14:04:11.737018+07:00"
   },
   {
    "id": 38,
@@ -1563,11 +1567,13 @@
      "example": "The patch helps decrease page-table walking overhead during memory access."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 35,
+   "sent_ts": "2026-10-11T14:04:14.442488+07:00"
   },
   {
    "id": 39,
@@ -1599,11 +1605,13 @@
      "example": "Liquid cooling systems introduce heavy inductive loads that require high inrush currents."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 30,
+   "sent_ts": "2026-10-11T14:04:11.169188+07:00"
   },
   {
    "id": 40,
@@ -1635,11 +1643,13 @@
      "example": "Adding contracted revenue reflects the enduring value of the infrastructure we are building."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 32,
+   "sent_ts": "2026-10-11T14:04:12.743988+07:00"
   },
   {
    "id": 41,
@@ -1671,11 +1681,13 @@
      "example": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 4,
    "scale": 6,
-   "credibility": 6
+   "credibility": 6,
+   "msg_id": 36,
+   "sent_ts": "2026-10-11T14:04:15.004281+07:00"
   },
   {
    "id": 42,
@@ -1707,11 +1719,13 @@
      "example": "Talorys does not provision R2, D1, KV, or any paid service."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 37,
+   "sent_ts": "2026-10-11T14:04:15.543920+07:00"
   },
   {
    "id": 43,
@@ -1743,7 +1757,7 @@
      "example": "Cloud services carry internal security risks such as zero-day bugs and insider threats."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -1817,7 +1831,7 @@
      "example": "While a worker waits its CPU is idle, and while it decodes it has no download in flight."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -1853,7 +1867,7 @@
      "example": "Mount Sinai is a prominent teaching hospital in both Toronto and New York."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -1889,11 +1903,13 @@
      "example": "That shell acts as an easy tool for data exfiltration."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 33,
+   "sent_ts": "2026-10-11T14:04:13.316472+07:00"
   }
  ],
  "next_id": 48,
@@ -2293,6 +2309,246 @@
    "thai": "ไร้ข้อจำกัดหรือไม่มีการควบคุม",
    "level": "B2",
    "example": "Giving agents unrestricted access risks severe operational damage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intermittent",
+   "thai": "เป็นพักๆ หรือไม่สม่ำเสมอ",
+   "level": "C1",
+   "example": "AI data centers feature a highly volatile, intermittent load profile.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "volatile",
+   "thai": "เปลี่ยนแปลงอย่างรวดเร็วและคาดเดาได้ยาก",
+   "level": "C1",
+   "example": "AI data centers feature a highly volatile, intermittent load profile with massive power swings.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inductive",
+   "thai": "ที่เกิดจากการเหนี่ยวนำทางแม่เหล็กไฟฟ้า",
+   "level": "C2",
+   "example": "Liquid cooling systems introduce heavy inductive loads that require high inrush currents.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arbitrary",
+   "thai": "ตามอำเภอใจหรือที่กำหนดโดยอิสระ",
+   "level": "B2",
+   "example": "The flaw lets one clicked link read arbitrary files off the disk.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exfiltrate",
+   "thai": "ลักลอบดึงข้อมูลออกไป",
+   "level": "C2",
+   "example": "The vulnerability allowed session files to be exfiltrated to an attacker-controlled chat.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "redundant",
+   "thai": "ซ้ำซ้อนหรือไม่จำเป็น",
+   "level": "B2",
+   "example": "Telegram itself has to work out that the new process is redundant.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "amend",
+   "thai": "แก้ไขเพิ่มเติม (ข้อตกลงหรือกฎหมาย)",
+   "level": "C1",
+   "example": "The agreements amend AI cloud provider Fluidstack's existing lease.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overrun",
+   "thai": "ค่าใช้จ่ายที่เกินงบประมาณ",
+   "level": "C1",
+   "example": "The tenant will reimburse half of further overruns through additional rent.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enduring",
+   "thai": "ยั่งยืนหรือคงทน",
+   "level": "C2",
+   "example": "Adding contracted revenue reflects the enduring value of the infrastructure we are building.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "friction",
+   "thai": "อุปสรรค / ความยากลำบาก",
+   "level": "B2",
+   "example": "The friction that made unikernels hard is gone.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dogma",
+   "thai": "ความเชื่อที่ยึดถือต่อกันมาโดยไม่มีข้อสงสัย",
+   "level": "C2",
+   "example": "Cognitively, get rid of the dogma that they are hard.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exfiltration",
+   "thai": "การลักลอบดึงข้อมูลออกไป",
+   "level": "C1",
+   "example": "That shell acts as an easy tool for data exfiltration.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interconnection",
+   "thai": "การเชื่อมต่อโครงข่ายระบบไฟฟ้า",
+   "level": "C1",
+   "example": "Lengthy grid interconnection timelines are slowing down new data center projects.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "complementary",
+   "thai": "ที่เกื้อหนุนกันหรือส่งเสริมกัน",
+   "level": "C1",
+   "example": "By bringing our complementary capabilities together from the outset, we can simplify execution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sequential",
+   "thai": "ที่เป็นไปตามลำดับขั้นตอน",
+   "level": "B2",
+   "example": "The combined approach can accelerate project schedules compared to traditional, sequential delivery models.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "empirical",
+   "thai": "เชิงประจักษ์ (ได้จากการทดลองหรือสังเกตจริง)",
+   "level": "C1",
+   "example": "Here is what the empirical numbers look like across kernel primitives and memory bandwidth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "granularity",
+   "thai": "ระดับความละเอียดของข้อมูลหรือการทำงาน",
+   "level": "C1",
+   "example": "Raising the page reporting granularity reduces hypervisor trap frequency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overhead",
+   "thai": "ภาระงานส่วนเกินหรือทรัพยากรที่ต้องเสียไปในการจัดการ",
+   "level": "C1",
+   "example": "The patch helps decrease page-table walking overhead during memory access.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fortify",
+   "thai": "เสริมกำลังหรือทำให้แข็งแกร่งขึ้น",
+   "level": "C1",
+   "example": "GPUzilla prepares to fortify Uncle Sam's arsenal with at least seven AI-optimized supers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lifeline",
+   "thai": "สิ่งช่วยเหลือที่ช่วยให้รอดพ้นวิกฤต",
+   "level": "C1",
+   "example": "Shopify extends lifeline to Tailwind as vibe coding erodes web dev platform's bottom line.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "humane",
+   "thai": "มีมนุษยธรรม",
+   "level": "B2",
+   "example": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "recurring",
+   "thai": "เกิดขึ้นซ้ำๆ หรือตามรอบเวลา",
+   "level": "B2",
+   "example": "The platform handles one-time and recurring reminders via background alarms.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "durable",
+   "thai": "คงทนหรืออยู่ได้ยาวนาน",
+   "level": "C1",
+   "example": "The system retains durable personal facts and preferences across sessions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "provision",
+   "thai": "จัดเตรียมหรือติดตั้งทรัพยากร",
+   "level": "C1",
+   "example": "Talorys does not provision R2, D1, KV, or any paid service.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
