@@ -2602,29 +2602,8 @@
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700419,
- "polls": {
-  "6221885664472859370": {
-   "word": "hyperscaler",
-   "correct": 0
-  },
-  "6221885664472859371": {
-   "word": "maintainer",
-   "correct": 2
-  },
-  "6221885664472859372": {
-   "word": "stint",
-   "correct": 2
-  },
-  "6221885664472859373": {
-   "word": "synchronization",
-   "correct": 1
-  },
-  "6221885664472859374": {
-   "word": "credential",
-   "correct": 1
-  }
- },
+ "tg_offset": 57700424,
+ "polls": {},
  "fail": {},
  "level": "B2",
  "answers": []
