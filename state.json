@@ -215,7 +215,31 @@
   "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
   "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
   "https://tedhaley.ca/pensieve/",
-  "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/"
+  "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/",
+  "https://www.datacenterdynamics.com/en/news/serverfarm-tops-out-first-data-center-at-arkansas-campus/",
+  "https://www.datacenterdynamics.com/en/news/telia-outlines-plans-to-cut-900-jobs-as-part-of-100m-cost-savings-strategy/",
+  "https://www.datacenterdynamics.com/en/news/former-hut-8-executive-takes-ceo-role-at-fortitude-mining-holdings/",
+  "https://www.datacenterdynamics.com/en/news/five-building-data-center-campus-proposed-in-metter-georgia/",
+  "https://www.datacenterdynamics.com/en/news/photonic-quantum-startup-quanfluence-raises-10m-for-full-stack-architecture-development/",
+  "https://www.datacenterdynamics.com/en/news/number-of-data-center-fires-and-power-failures-has-doubled-since-2024/",
+  "https://www.datacenterdynamics.com/en/news/googles-global-head-of-advanced-energy-departs-company/",
+  "https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/",
+  "https://www.datacenterdynamics.com/en/news/oratomic-raises-775m-for-development-of-fault-tolerant-quantum-computer/",
+  "https://www.datacenterdynamics.com/en/news/astranis-secures-468m-credit-line-to-ramp-geo-satellite-production-at-california-factory/",
+  "https://www.datacenterdynamics.com/en/whitepapers/north-america-data-center-report-midyear-2026/",
+  "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/",
+  "https://www.datacenterdynamics.com/en/product-news/faster-cleaner-data-centers-that-withstand-scrutiny/",
+  "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
+  "https://www.theregister.com/devops/2026/10/12/when-you-just-need-to-build-a-tiny-desktop-app-tinyjs/5302502",
+  "https://www.theregister.com/columnists/2026/10/12/celebrating-the-brilliant-pragmatism-of-tcp/ip-the-wiring-of-the-world/5302202",
+  "https://www.theregister.com/os-platforms/2026/10/12/raspberry-pi-desktop-catches-up-with-debian-13-after-4-year-wait/5301693",
+  "https://www.theregister.com/systems/2026/10/12/to-save-paper-mainframe-tech-ruined-a-week-of-work/5301546",
+  "https://www.bbc.com/news/articles/c64g1l5389kvo",
+  "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+  "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+  "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+  "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+  "https://github.com/Geramy/LemonSeed-Studio"
  ],
  "stories": [
   {
@@ -2225,9 +2249,371 @@
    "credibility": 9,
    "msg_id": 48,
    "sent_ts": "2026-10-12T14:16:49.209230+07:00"
+  },
+  {
+   "id": 55,
+   "ts": "2026-10-12T18:26:39.765876+07:00",
+   "title": "Serverfarm tops out first data center at Arkansas campus",
+   "link": "https://www.datacenterdynamics.com/en/news/serverfarm-tops-out-first-data-center-at-arkansas-campus/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It reports a routine construction milestone for a large regional data center campus.",
+   "summary": "Serverfarm has placed the final structural beam on the first building of its new 432MW campus in Arkansas. The multi-building project will expand regional colocation and cloud capacity over the coming years.",
+   "vocab": [
+    {
+     "word": "comprise",
+     "thai": "ประกอบด้วย",
+     "level": "B2",
+     "example": "At full build-out, the campus is set to comprise four buildings."
+    },
+    {
+     "word": "surfaced",
+     "thai": "ปรากฏขึ้นหรือเป็นที่เปิดเผย",
+     "level": "C1",
+     "example": "News that the company was looking to develop in the area surfaced last year."
+    },
+    {
+     "word": "capacity",
+     "thai": "ความจุหรือกำลังการผลิต",
+     "level": "B2",
+     "example": "The facility is set to offer 108MW of capacity across 300,000 square feet."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 56,
+   "ts": "2026-10-12T18:26:39.765949+07:00",
+   "title": "Telia outlines plans to cut 900 jobs as part of $100m cost-savings strategy",
+   "link": "https://www.datacenterdynamics.com/en/news/telia-outlines-plans-to-cut-900-jobs-as-part-of-100m-cost-savings-strategy/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The announcement covers corporate telecom layoffs that have limited direct impact on day-to-day data center facilities.",
+   "summary": "Nordic telecommunications operator Telia plans to cut 900 jobs to reduce annual costs by roughly 100 million dollars. The workforce reductions are part of a strategy to shift operational focus directly to country-level units.",
+   "vocab": [
+    {
+     "word": "localize",
+     "thai": "ปรับให้เข้ากับท้องถิ่น",
+     "level": "C1",
+     "example": "The cuts are part of intentions to localize its operations further."
+    },
+    {
+     "word": "empower",
+     "thai": "ให้อำนาจหรือเสริมสร้างขีดความสามารถ",
+     "level": "B2",
+     "example": "We want to empower our countries more and get the utmost from our teams."
+    },
+    {
+     "word": "sharpen",
+     "thai": "พัฒนาให้เฉียบคมหรือเพิ่มขีดความสามารถ",
+     "level": "B2",
+     "example": "The goal is to sharpen the company's edge in a very competitive market."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 57,
+   "ts": "2026-10-12T18:26:39.766047+07:00",
+   "title": "Number of data center fires and power failures has doubled since 2024",
+   "link": "https://www.datacenterdynamics.com/en/news/number-of-data-center-fires-and-power-failures-has-doubled-since-2024/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "The report identifies critical reliability and fire safety risks concentrated in UPS battery rooms and backup generators.",
+   "summary": "A global safety registry reported that data center fires and power interruptions have doubled since 2024. Most identified failure events originated in battery rooms, uninterruptible power systems, or backup generator sets.",
+   "vocab": [
+    {
+     "word": "register",
+     "thai": "บัญชีบันทึกหรือทะเบียนข้อมูล",
+     "level": "B2",
+     "example": "The Energy Incident Register tracks data center incidents from public reporting."
+    },
+    {
+     "word": "incidence",
+     "thai": "อัตราการเกิดเหตุการณ์",
+     "level": "C1",
+     "example": "The country saw the highest incidence rate of power failures in the region."
+    },
+    {
+     "word": "classified",
+     "thai": "ถูกจัดประเภท",
+     "level": "B2",
+     "example": "Many thermal events were classified as major industrial accidents."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 58,
+   "ts": "2026-10-12T18:26:39.766073+07:00",
+   "title": "Google's global head of advanced energy departs company",
+   "link": "https://www.datacenterdynamics.com/en/news/googles-global-head-of-advanced-energy-departs-company/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Google's leadership departure highlights shifts in hyperscale power strategy and clean energy procurement.",
+   "summary": "Michael Terrell has stepped down as Google's global head of advanced energy after 19 years at the company. During his time there, he drove pioneering deals for next-generation geothermal and small modular nuclear reactors.",
+   "vocab": [
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดหา",
+     "level": "C1",
+     "example": "The team helped pioneer clean energy procurement for large corporate facilities."
+    },
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "B2",
+     "example": "Google deployed unprecedented amounts of renewable generation and battery storage."
+    },
+    {
+     "word": "catalyzing",
+     "thai": "การกระตุ้นหรือเร่งให้เกิดผล",
+     "level": "C1",
+     "example": "The program focused on catalyzing emerging technologies like geothermal and nuclear."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 59,
+   "ts": "2026-10-12T18:26:39.766097+07:00",
+   "title": "Third strike on Yandex data center in Russia",
+   "link": "https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Drone strikes against Yandex facilities demonstrate catastrophic physical infrastructure vulnerability and caused active multi-zone cloud outages.",
+   "summary": "A Ukrainian drone strike hit a third Yandex data center within a week, forcing the site to halt operations and causing broad cloud outages. The outage disabled more than 80 digital services and produced a severe drop in outbound network traffic.",
+   "vocab": [
+    {
+     "word": "integrity",
+     "thai": "ความสมบูรณ์ถูกต้องของข้อมูล",
+     "level": "B2",
+     "example": "Engineers verified the integrity of the data and confirmed no records were lost."
+    },
+    {
+     "word": "originating",
+     "thai": "ที่มีต้นกำเนิดมาจาก",
+     "level": "B2",
+     "example": "Network monitors detected an abrupt decline in automated traffic originating from the region."
+    },
+    {
+     "word": "resume",
+     "thai": "กลับมาเริ่มต้นดำเนินการใหม่",
+     "level": "B2",
+     "example": "The cloud provider has not shared an exact date when full operations will resume."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 53,
+   "sent_ts": "2026-10-12T18:26:40.266792+07:00"
+  },
+  {
+   "id": 60,
+   "ts": "2026-10-12T18:28:19.595613+07:00",
+   "title": "North America data center report: Midyear 2026",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/north-america-data-center-report-midyear-2026/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Market report highlighting severe regional grid delays and shifting capacity trends across North America.",
+   "summary": "JLL released its midyear 2026 report showing that rapid AI demand and grid connection queues are straining North American data center capacity. The findings help infrastructure leaders understand where development is moving as traditional power hubs face shortages.",
+   "vocab": [
+    {
+     "word": "scramble",
+     "thai": "แย่งชิงหรือเร่งรีบแข่งขัน",
+     "level": "B2",
+     "example": "Multi-year grid queues have pushed capacity to its limit, leaving developers scrambling for available power."
+    },
+    {
+     "word": "pivot",
+     "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
+     "level": "B2",
+     "example": "Industry leaders must rethink traditional growth playbooks and pivot toward emerging regional hubs."
+    },
+    {
+     "word": "occupier",
+     "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
+     "level": "B2",
+     "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 61,
+   "ts": "2026-10-12T18:28:19.595660+07:00",
+   "title": "Sponsored: Making every watt work",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored article detailing dynamic power spikes in AI racks and methods to avoid stranded facility capacity.",
+   "summary": "The article explains how dynamic AI workloads trigger rapid millisecond power swings that traditional rack PDUs struggle to handle. Implementing intelligent monitoring at the rack level helps operators avoid thermal spikes and use provisioned power effectively.",
+   "vocab": [
+    {
+     "word": "fluctuation",
+     "thai": "ความผันผวนหรือการขึ้นลงอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "AI workloads introduce rapid fluctuations in power demand across the facility."
+    },
+    {
+     "word": "stranded",
+     "thai": "ติดค้างหรือไม่สามารถนำไปใช้ประโยชน์ได้",
+     "level": "B2",
+     "example": "Power becomes stranded because something further downstream cannot respond quickly enough."
+    },
+    {
+     "word": "downstream",
+     "thai": "ในระดับปลายน้ำหรือขั้นตอนถัดไป",
+     "level": "B2",
+     "example": "Power is wasted when equipment downstream cannot adapt to sudden computing demands."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 62,
+   "ts": "2026-10-12T18:28:19.595695+07:00",
+   "title": "Sponsored: Faster, cleaner data centers that withstand scrutiny",
+   "link": "https://www.datacenterdynamics.com/en/product-news/faster-cleaner-data-centers-that-withstand-scrutiny/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored piece exploring gas-grid biomethane as an alternative to decade-long UK electricity connection queues.",
+   "summary": "With UK grid connection wait times reaching over ten years, developers are evaluating piped biomethane to power new data centers sooner. This approach offers a faster bridge to clean on-site generation while addressing local environmental scrutiny.",
+   "vocab": [
+    {
+     "word": "viability",
+     "thai": "ความเป็นไปได้หรือความอยู่รอดของโครงการ",
+     "level": "C1",
+     "example": "Waiting for a grid connection risks losing customers and threatens the viability of the project."
+    },
+    {
+     "word": "compromise",
+     "thai": "การประนีประนอมหรือการยอมแลกบางสิ่ง",
+     "level": "B2",
+     "example": "Each of these routes forces a difficult compromise between deployment speed and sustainability."
+    },
+    {
+     "word": "illustrative",
+     "thai": "ที่เป็นตัวอย่างเพื่อความเข้าใจ",
+     "level": "C1",
+     "example": "Take an illustrative example where a data center developer partners with a renewable gas producer."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 6
+  },
+  {
+   "id": 63,
+   "ts": "2026-10-12T18:28:19.595732+07:00",
+   "title": "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
+   "link": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Podcast overview covering ShinyHunters extortion arrests and AI models finding zero-day exploits in the wild.",
+   "summary": "The FBI arrested a third individual linked to the ShinyHunters extortion crew following significant breaches of government systems. At the same time, security teams are assessing how autonomous AI models are beginning to uncover software vulnerabilities that humans missed.",
+   "vocab": [
+    {
+     "word": "co-conspirator",
+     "thai": "ผู้สมรู้ร่วมคิดในการกระทำผิด",
+     "level": "C1",
+     "example": "Agents in the field arrested another suspected co-conspirator of the extortion group."
+    },
+    {
+     "word": "extortion",
+     "thai": "การกรรโชกทรัพย์",
+     "level": "C1",
+     "example": "The FBI continues its crusade against the cyber extortion crew."
+    },
+    {
+     "word": "cryptic",
+     "thai": "คลุมเครือหรือมีเงื่อนงำ",
+     "level": "B2",
+     "example": "The FBI director put out a cryptic message regarding the recent arrest."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 64,
+   "ts": "2026-10-12T18:29:11.343288+07:00",
+   "title": "Postgres isn't slow, your storage is",
+   "link": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly addresses database scaling, I/O latency, and NVMe vs cloud block storage architectures in production environments.",
+   "summary": "A technical benchmark analysis demonstrates that many common PostgreSQL performance problems at scale stem from storage throughput limits rather than engine flaws. It shows that moving high-throughput workloads to local NVMe storage resolves queuing delays and unpredictable tail latencies.",
+   "vocab": [
+    {
+     "word": "ingestion",
+     "thai": "การรับข้อมูลเข้าสู่ระบบเพื่อประมวลผลหรือจัดเก็บ",
+     "level": "C1",
+     "example": "Ingestion pipelines heavy on updates can stretch from seconds to minutes."
+    },
+    {
+     "word": "concurrency",
+     "thai": "การประมวลผลหรือการทำงานพร้อมกันหลายรายการ",
+     "level": "C1",
+     "example": "Issues appear when the database handles high concurrency and throughput."
+    },
+    {
+     "word": "compound",
+     "thai": "ทำให้ปัญหาทวีความรุนแรงยิ่งขึ้น",
+     "level": "C1",
+     "example": "A growing replication lag can compound the existing storage bottleneck."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 55,
+ "next_id": 65,
  "vocab": [
   {
    "word": "commissioning",
@@ -3074,6 +3460,36 @@
    "thai": "การนำกลับมาใช้ประโยชน์ใหม่",
    "level": "B2",
    "example": "The Hamina data center achieved an 80% heat recovery rate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "integrity",
+   "thai": "ความสมบูรณ์ถูกต้องของข้อมูล",
+   "level": "B2",
+   "example": "Engineers verified the integrity of the data and confirmed no records were lost.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "originating",
+   "thai": "ที่มีต้นกำเนิดมาจาก",
+   "level": "B2",
+   "example": "Network monitors detected an abrupt decline in automated traffic originating from the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resume",
+   "thai": "กลับมาเริ่มต้นดำเนินการใหม่",
+   "level": "B2",
+   "example": "The cloud provider has not shared an exact date when full operations will resume.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
