@@ -1990,11 +1990,13 @@
      "example": "Shopping around for new RAM after a DDR4 kit abruptly died on me."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 49,
+   "sent_ts": "2026-10-12T14:16:49.691004+07:00"
   },
   {
    "id": 49,
@@ -2026,11 +2028,13 @@
      "example": "Any transaction would require board approval and compliance with applicable legal requirements."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 50,
+   "sent_ts": "2026-10-12T14:16:50.172029+07:00"
   },
   {
    "id": 50,
@@ -2062,11 +2066,13 @@
      "example": "AI agents can operate with a speed, persistence, and engineering-level precision."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 46,
+   "sent_ts": "2026-10-12T14:16:48.239419+07:00"
   },
   {
    "id": 51,
@@ -2098,11 +2104,13 @@
      "example": "Relying on unquoted variable assignments is fragile because spaces can break them."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 51,
+   "sent_ts": "2026-10-12T14:16:50.647934+07:00"
   },
   {
    "id": 52,
@@ -2134,11 +2142,13 @@
      "example": "More than 50 US states and cities now have benchmarking or performance requirements for large buildings."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 47,
+   "sent_ts": "2026-10-12T14:16:48.723736+07:00"
   },
   {
    "id": 53,
@@ -2170,11 +2180,13 @@
      "example": "The Hamina data center achieved an 80% heat recovery rate."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 1,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 52,
+   "sent_ts": "2026-10-12T14:16:51.151767+07:00"
   },
   {
    "id": 54,
@@ -2206,11 +2218,13 @@
      "example": "As we continue our long-term work in the region, we are advancing our landscaping and biodiversity plans."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 48,
+   "sent_ts": "2026-10-12T14:16:49.209230+07:00"
   }
  ],
  "next_id": 55,
@@ -2850,6 +2864,216 @@
    "thai": "จัดเตรียมหรือติดตั้งทรัพยากร",
    "level": "C1",
    "example": "Talorys does not provision R2, D1, KV, or any paid service.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "operational",
+   "thai": "เชิงปฏิบัติการ",
+   "level": "B2",
+   "example": "Autonomous AI systems are capable of finding and attacking critical operational technology.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "perimeter",
+   "thai": "แนวป้องกันรอบนอก",
+   "level": "C1",
+   "example": "The models progressed from a perimeter compromise to actions inside an industrial network.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "persistence",
+   "thai": "ความต่อเนื่องยาวนานในระบบ",
+   "level": "C1",
+   "example": "AI agents can operate with a speed, persistence, and engineering-level precision.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scrutiny",
+   "thai": "การตรวจสอบอย่างละเอียด",
+   "level": "C1",
+   "example": "A growing number of emissions requirements are bringing that inefficiency under greater regulatory scrutiny.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "obligation",
+   "thai": "ข้อผูกพันหรือหน้าที่",
+   "level": "B2",
+   "example": "That shift turns efficiency in existing facilities from a good intention into an obligation with a deadline.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "benchmarking",
+   "thai": "การเทียบเคียงสมรรถนะตามมาตรฐาน",
+   "level": "B2",
+   "example": "More than 50 US states and cities now have benchmarking or performance requirements for large buildings.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "oversight",
+   "thai": "การมองข้ามหรือข้อผิดพลาดโดยไม่ตั้งใจ",
+   "level": "C1",
+   "example": "The Finnish Association for Nature Conservation blamed the oversights on the overheated market.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "preparatory",
+   "thai": "ซึ่งเป็นการเตรียมการเบื้องต้น",
+   "level": "B2",
+   "example": "Google has gone ahead with extensive preparatory measures, including removing trees.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "biodiversity",
+   "thai": "ความหลากหลายทางชีวภาพ",
+   "level": "B2",
+   "example": "As we continue our long-term work in the region, we are advancing our landscaping and biodiversity plans.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backtrack",
+   "thai": "การเปลี่ยนการตัดสินใจกลับไปใช้แบบเดิม",
+   "level": "C1",
+   "example": "This backtrack stems from LGA 1700's cross-compatibility with both kinds of RAM.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disparity",
+   "thai": "ความแตกต่างอย่างมาก",
+   "level": "C1",
+   "example": "I recently saw the price disparity first-hand while shopping around for new RAM.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "abruptly",
+   "thai": "อย่างกะทันหัน",
+   "level": "B2",
+   "example": "Shopping around for new RAM after a DDR4 kit abruptly died on me.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "subsidiary",
+   "thai": "บริษัทย่อย",
+   "level": "B2",
+   "example": "Hyperscale Data plans to form a new subsidiary to hold its Bitcoin mining operations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "restructuring",
+   "thai": "การปรับโครงสร้างองค์กร",
+   "level": "C1",
+   "example": "The proposed restructuring follows the shutdown of Bitcoin mining at the facility.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compliance",
+   "thai": "การปฏิบัติตามกฎระเบียบ",
+   "level": "C1",
+   "example": "Any transaction would require board approval and compliance with applicable legal requirements.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "suspicious",
+   "thai": "น่าสงสัย",
+   "level": "B2",
+   "example": "The sandbox tool warned that entries in the path looked suspicious.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expansion",
+   "thai": "การขยายหรือการแจกแจงค่า",
+   "level": "B2",
+   "example": "Tilde expansion happens only in unquoted command line inputs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fragile",
+   "thai": "เปราะบางหรือเกิดข้อผิดพลาดได้ง่าย",
+   "level": "C1",
+   "example": "Relying on unquoted variable assignments is fragile because spaces can break them.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "initiative",
+   "thai": "โครงการริเริ่ม",
+   "level": "B2",
+   "example": "The Ministry and Google Cloud launched a joint initiative to help organizations identify real-world challenges.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "precision",
+   "thai": "ความแม่นยำ",
+   "level": "B2",
+   "example": "Google is investing in Chile to implement precision irrigation management systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "recovery",
+   "thai": "การนำกลับมาใช้ประโยชน์ใหม่",
+   "level": "B2",
+   "example": "The Hamina data center achieved an 80% heat recovery rate.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
