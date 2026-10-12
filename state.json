@@ -207,7 +207,15 @@
   "https://www.inc.com/chloe-rosenberg/a-remote-employee-refused-160-webcam-photos-a-day-her-employer-fired-her/91415963",
   "https://royfish.dev/fingerprints-are-the-new-cookies",
   "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
-  "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now"
+  "https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now",
+  "https://github.com/storytold/wordcraft",
+  "https://www.americanscientist.org/article/whatever-became-of-holography",
+  "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+  "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+  "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+  "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+  "https://tedhaley.ca/pensieve/",
+  "https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/"
  ],
  "stories": [
   {
@@ -2167,9 +2175,45 @@
    "urgency": 1,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 54,
+   "ts": "2026-10-12T10:10:08.007118+07:00",
+   "title": "Google is illegaly cutting forest to build data centers",
+   "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Regulatory shutdown of massive data center construction projects for a major hyperscaler directly impacts data center capacity planning.",
+   "summary": "Finnish environmental regulators ordered Google to pause construction on two major data center sites after clear-cutting hundreds of hectares without environmental permits. This regulatory intervention highlights the intense permitting scrutiny and capacity delays facing European hyperscale expansions.",
+   "vocab": [
+    {
+     "word": "oversight",
+     "thai": "การมองข้ามหรือข้อผิดพลาดโดยไม่ตั้งใจ",
+     "level": "C1",
+     "example": "The Finnish Association for Nature Conservation blamed the oversights on the overheated market."
+    },
+    {
+     "word": "preparatory",
+     "thai": "ซึ่งเป็นการเตรียมการเบื้องต้น",
+     "level": "B2",
+     "example": "Google has gone ahead with extensive preparatory measures, including removing trees."
+    },
+    {
+     "word": "biodiversity",
+     "thai": "ความหลากหลายทางชีวภาพ",
+     "level": "B2",
+     "example": "As we continue our long-term work in the region, we are advancing our landscaping and biodiversity plans."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 54,
+ "next_id": 55,
  "vocab": [
   {
    "word": "commissioning",
