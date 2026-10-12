@@ -3377,7 +3377,7 @@
    "thai": "อัตโนมัติ, ทำงานได้เอง",
    "level": "B2",
    "example": "AI coding agents primarily write and submit code autonomously based on prompts.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -3527,7 +3527,7 @@
    "thai": "ความสามารถในการรองรับข้อมูลหลายรูปแบบ",
    "level": "C1",
    "example": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -3537,7 +3537,7 @@
    "thai": "กระบวนทัศน์",
    "level": "B2",
    "example": "This changes the paradigm for decision models which have been largely text-only.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -3727,7 +3727,7 @@
    "thai": "ที่เป็นไปตามลำดับขั้นตอน",
    "level": "B2",
    "example": "The combined approach can accelerate project schedules compared to traditional, sequential delivery models.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -3867,7 +3867,7 @@
    "thai": "ข้อผูกพันหรือหน้าที่",
    "level": "B2",
    "example": "That shift turns efficiency in existing facilities from a good intention into an obligation with a deadline.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -4087,6 +4087,26 @@
   },
   "6224137464286544534": {
    "word": "intermittent",
+   "correct": 0
+  },
+  "6226735343975007710": {
+   "word": "paradigm",
+   "correct": 0
+  },
+  "6226735343975007711": {
+   "word": "multimodality",
+   "correct": 2
+  },
+  "6226735343975007712": {
+   "word": "obligation",
+   "correct": 2
+  },
+  "6226735343975007713": {
+   "word": "autonomous",
+   "correct": 1
+  },
+  "6226735343975007714": {
+   "word": "sequential",
    "correct": 0
   }
  },
