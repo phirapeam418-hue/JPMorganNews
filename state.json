@@ -263,7 +263,31 @@
   "https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643",
   "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
   "https://www.theregister.com/saas/2026/10/12/ucla-settles-oracle-erp-dispute-with-31m-in-credits-and-131m-wiped-off-the-bill/5302520",
-  "https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542"
+  "https://www.theregister.com/applications/2026/10/12/microsoft-giveth-and-microsoft-taketh-away-copilot-edition/5302542",
+  "https://www.theregister.com/personal-tech/2026/10/12/london-cabbies-want-sadiq-khan-to-slam-the-brakes-on-robotaxis/5302595",
+  "https://www.theregister.com/offbeat/2026/10/12/pigeon-powered-internet-packet-goes-under-the-hammer-at-christies/5302526",
+  "https://blog.cloudflare.com/transformers-on-logpush/",
+  "https://z.ai/blog/glm-legal",
+  "https://jsomers.net/e-coli-chemotaxis/",
+  "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+  "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+  "https://prophitt.me/writing/a-modern-web-app-in-c",
+  "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+  "https://app.getsupers.com/auto-research",
+  "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+  "https://github.com/prabanta-dev/janas",
+  "https://news.ycombinator.com/item?id=50059096",
+  "https://phreak.ing/",
+  "https://github.com/h0m3us3r/w1700k-sdr",
+  "https://www.markround.com/blog/2026/zx-spectrum-intro",
+  "https://doi.org/10.1111/acel.70751",
+  "https://www.bbc.com/news/articles/c620r33plgppo",
+  "https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/",
+  "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+  "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
+  "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
+  "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
+  "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
  ],
  "stories": [
   {
@@ -2456,7 +2480,8 @@
    "msg_id": 53,
    "sent_ts": "2026-10-12T18:26:40.266792+07:00",
    "extra_links": [
-    "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577"
+    "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
+    "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
    ]
   },
   {
@@ -3178,9 +3203,117 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 80,
+   "ts": "2026-10-13T09:49:54.574226+07:00",
+   "title": "Filter, reshape, and redact logs before export with Transformers",
+   "link": "https://blog.cloudflare.com/transformers-on-logpush/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "In-pipeline SQL log transformation simplifies observability architectures and cuts downstream SIEM storage costs.",
+   "summary": "Cloudflare launched Transformers for Logpush, allowing operators to filter, redact, and reshape log streams using SQL before export. This removes the need for intermediary processing services and lowers data ingestion expenses.",
+   "vocab": [
+    {
+     "word": "redact",
+     "thai": "ปกปิดข้อมูลสำคัญ",
+     "level": "C1",
+     "example": "Teams define a SQL query to filter records, redact sensitive data, and reshape the output."
+    },
+    {
+     "word": "discard",
+     "thai": "ทิ้งหรือไม่นำมาใช้",
+     "level": "B2",
+     "example": "Teams pay to ingest records they discard as soon as they arrive."
+    },
+    {
+     "word": "predictable",
+     "thai": "คาดการณ์ได้",
+     "level": "B2",
+     "example": "The embedded SQL engine keeps performance and resource use predictable."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 81,
+   "ts": "2026-10-13T09:49:54.574312+07:00",
+   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+   "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Intel's air-cooled 480GB inference GPU directly influences server hardware procurement, cooling requirements, and AI rack density.",
+   "summary": "Intel unveiled the D270 data center GPU accelerator featuring up to 480 GB of LPDDR5X memory tailored for agentic AI workloads. It operates at 350 watts with passive air cooling in PCIe slots, avoiding expensive liquid-cooling retrofits.",
+   "vocab": [
+    {
+     "word": "concurrent",
+     "thai": "ที่เกิดขึ้นพร้อมกัน",
+     "level": "B2",
+     "example": "The card is built for handling larger contexts and more concurrent sessions."
+    },
+    {
+     "word": "retrofit",
+     "thai": "การดัดแปลงติดตั้งอุปกรณ์ใหม่ในระบบเดิม",
+     "level": "C1",
+     "example": "Passive cooling ensures no liquid-cooling retrofit is needed in existing racks."
+    },
+    {
+     "word": "sustain",
+     "thai": "รักษาไว้หรือประคับประคอง",
+     "level": "B2",
+     "example": "Keep agents resident to help sustain throughput across the agentic loop."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 82,
+   "ts": "2026-10-13T09:50:59.399770+07:00",
+   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+   "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "While this cyberattack hit commercial refrigeration rather than data centers, it demonstrates serious operational technology risks relevant to critical facility cooling systems.",
+   "summary": "Hackers targeted industrial refrigeration controllers across several European supermarket chains, forcing units into continuous defrosting cycles at high temperatures. The incident caused inventory loss and forced retailers to temporarily shut down IT systems.",
+   "vocab": [
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "C1",
+     "example": "An unprecedented cyberattack cripples supermarket fridges across Europe."
+    },
+    {
+     "word": "mobilized",
+     "thai": "ถูกระดมกำลัง",
+     "level": "B2",
+     "example": "Teams had been mobilized to fix the issue and promised an investigation."
+    },
+    {
+     "word": "malfunction",
+     "thai": "การทำงานผิดปกติ",
+     "level": "C1",
+     "example": "Several supermarket chains have been hit with a malfunction due to a cybersecurity incident."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
   }
  ],
- "next_id": 80,
+ "next_id": 83,
  "vocab": [
   {
    "word": "commissioning",
