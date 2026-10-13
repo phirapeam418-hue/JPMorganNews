@@ -4997,7 +4997,7 @@
    "thai": "ยอมรับ",
    "level": "B2",
    "example": "Yandex said no employees were hurt but acknowledged disruptions to some services.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -5037,7 +5037,7 @@
    "thai": "การกระจุกตัว, ความหนาแน่น",
    "level": "B2",
    "example": "This heavy concentration of labor poses ongoing security risks.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -5607,7 +5607,7 @@
    "thai": "การปรับโครงสร้างองค์กร",
    "level": "C1",
    "example": "The proposed restructuring follows the shutdown of Bitcoin mining at the facility.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -5707,7 +5707,7 @@
    "thai": "กลับมาเริ่มต้นดำเนินการใหม่",
    "level": "B2",
    "example": "The cloud provider has not shared an exact date when full operations will resume.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -6047,7 +6047,7 @@
    "thai": "ความซับซ้อน",
    "level": "B2",
    "example": "High-density AI-ready data centers are driving up complexity at the facility level.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -6134,6 +6134,26 @@
   "6226735343975007714": {
    "word": "sequential",
    "correct": 0
+  },
+  "6228485749306557969": {
+   "word": "acknowledge",
+   "correct": 2
+  },
+  "6228485749306557970": {
+   "word": "resume",
+   "correct": 3
+  },
+  "6228485749306557971": {
+   "word": "complexity",
+   "correct": 0
+  },
+  "6228485749306557972": {
+   "word": "concentration",
+   "correct": 3
+  },
+  "6228485749306557973": {
+   "word": "restructuring",
+   "correct": 3
   }
  },
  "fail": {},
