@@ -311,7 +311,31 @@
   "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
   "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
   "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
-  "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
+  "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/",
+  "https://www.datacenterdynamics.com/en/news/quantum-firm-d-wave-signs-quantum-chip-manufacturing-agreement-with-skywater-technologies/",
+  "https://www.datacenterdynamics.com/en/news/airtrunk-to-delay-ipo-amid-rising-interest-rates-report/",
+  "https://www.datacenterdynamics.com/en/news/google-data-center-strategic-sourcing-exec-heads-to-openai/",
+  "https://www.datacenterdynamics.com/en/analysis/goodman-group-ceo-greg-goodman-data-center/",
+  "https://www.datacenterdynamics.com/en/news/scaleway-plans-gpu-cluster-deployments-in-sweden-and-copenhagen/",
+  "https://www.datacenterdynamics.com/en/news/microchip-technology-updates-its-networking-and-storage-products-to-better-support-ai-and-hpc-workloads/",
+  "https://www.datacenterdynamics.com/en/whitepapers/fire-protection-in-data-center-construction/",
+  "https://www.datacenterdynamics.com/en/news/jio-proposes-1600-satellites-23-ground-stations-for-sovereign-indian-connectivity/",
+  "https://www.datacenterdynamics.com/en/news/simple-mining-buys-sphere-3d-cryptomine-grows-iowa-footprint-to-160mw/",
+  "https://www.datacenterdynamics.com/en/opinions/changing-perceptions-reflections-on-yotta-2026/",
+  "https://www.datacenterdynamics.com/en/news/ferc-approves-pjms-request-to-create-data-center-database/",
+  "https://www.datacenterdynamics.com/en/news/legrand-to-integrate-karman-ai-platform-into-data-center-pdus-and-power-shelves/",
+  "https://www.datacenterdynamics.com/en/news/naver-cloud-and-fpt-partner-on-ai-buildout-in-asia-pacific/",
+  "https://www.datacenterdynamics.com/en/news/microscan-plans-rs-35bn-subsea-cable-landing-station-in-alibaug-india/",
+  "https://www.datacenterdynamics.com/en/news/amazon-ring-exec-heads-to-blue-origin-to-lead-terawave-network/",
+  "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+  "https://www.theregister.com/saas/2026/10/13/microsoft-celebrates-end-of-office-2021-ltsc-with-ms-365-outage/5302848",
+  "https://www.theregister.com/os-platforms/2026/10/13/netbsd-may-have-found-a-new-role-the-ai-free-foss-os/5302818",
+  "https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802",
+  "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+  "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
+  "https://blog.cloudflare.com/d1-control-plane/",
+  "https://blog.cloudflare.com/rewinding-the-exponential/",
+  "https://deepmind.google/models/gemini/"
  ],
  "stories": [
   {
@@ -3350,7 +3374,10 @@
    "impact": 4,
    "urgency": 5,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
+   ]
   },
   {
    "id": 83,
@@ -4081,9 +4108,729 @@
    "urgency": 9,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 103,
+   "ts": "2026-10-14T01:39:17.670267+07:00",
+   "title": "D-Wave signs quantum chip manufacturing deal with SkyWater Technologies",
+   "link": "https://www.datacenterdynamics.com/en/news/quantum-firm-d-wave-signs-quantum-chip-manufacturing-agreement-with-skywater-technologies/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Quantum chip manufacturing agreements impact hardware supply chains for specialized compute infrastructure.",
+   "summary": "Quantum firm D-Wave has signed a multi-year manufacturing agreement with chipmaker SkyWater Technologies. The deal ensures production continuity for specialized superconducting quantum processors at SkyWater's Minnesota facility.",
+   "vocab": [
+    {
+     "word": "continuity",
+     "thai": "ความต่อเนื่อง",
+     "level": "C1",
+     "example": "This agreement provides continuity with an experienced manufacturing team."
+    },
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือกัน",
+     "level": "B2",
+     "example": "The deal demonstrates the value of close collaboration between quantum innovators and manufacturers."
+    },
+    {
+     "word": "fabrication",
+     "thai": "การสร้างหรือการผลิต",
+     "level": "C1",
+     "example": "SkyWater has previously fabricated D-Wave’s Advantage2 processors at its Minnesotan facility."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 104,
+   "ts": "2026-10-14T01:39:17.670299+07:00",
+   "title": "AirTrunk to delay IPO amid rising interest rates - report",
+   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-to-delay-ipo-amid-rising-interest-rates-report/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Market conditions delaying major data center IPOs reflect financing trends affecting infrastructure expansion capital.",
+   "summary": "Australian data center operator AirTrunk has delayed its planned initial public offering into 2027 due to high interest rates and market volatility. Several other regional digital infrastructure listings have similarly faced delays or cancellations amid weak investor demand.",
+   "vocab": [
+    {
+     "word": "volatility",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "AirTrunk plans to push its initial public offering into 2027 due to high interest rates and market volatility."
+    },
+    {
+     "word": "demand",
+     "thai": "ความต้องการ",
+     "level": "B2",
+     "example": "Firmus canceled its IPO due to a lack of investor demand."
+    },
+    {
+     "word": "yield",
+     "thai": "ผลตอบแทนจากการลงทุน",
+     "level": "C1",
+     "example": "AirTrunk has considered raising its REIT yield by 0.5 percentage points."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 105,
+   "ts": "2026-10-14T01:39:17.670318+07:00",
+   "title": "Google data center strategic sourcing exec heads to OpenAI",
+   "link": "https://www.datacenterdynamics.com/en/news/google-data-center-strategic-sourcing-exec-heads-to-openai/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Executive talent moves between major cloud providers and AI leaders directly influence hyperscale infrastructure strategies.",
+   "summary": "A former Google strategic sourcing executive has joined OpenAI to manage supply chains for high-speed interconnects and rack power. The hire highlights the aggressive push by AI labs to secure specialized data center hardware engineering talent.",
+   "vocab": [
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "At OpenAI she will focus on strategic sourcing for high-speed interconnect and rack power."
+    },
+    {
+     "word": "stint",
+     "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
+     "level": "C1",
+     "example": "Prior to her lengthy stint at Google, she worked in supply chain roles."
+    },
+    {
+     "word": "infrastructure",
+     "thai": "โครงสร้างพื้นฐาน",
+     "level": "B2",
+     "example": "She will help build and scale the infrastructure behind its products."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 106,
+   "ts": "2026-10-14T01:39:17.670335+07:00",
+   "title": "It's all good, man: Goodman Group CEO on his firm's global ambitions",
+   "link": "https://www.datacenterdynamics.com/en/analysis/goodman-group-ceo-greg-goodman-data-center/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Major real estate developers scaling multi-gigawatt data center pipelines heavily influence global site availability.",
+   "summary": "Commercial real estate firm Goodman Group has significantly increased its market valuation as it expands its global data center pipeline. The company now holds a massive power bank to support digital infrastructure projects across Australasia, Europe, and Asia.",
+   "vocab": [
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "C1",
+     "example": "Goodman Group has seen its valuation soar in recent years."
+    },
+    {
+     "word": "pipeline",
+     "thai": "โครงการที่กำลังดำเนินการอยู่",
+     "level": "B2",
+     "example": "The breakdown of Goodman Group’s data center pipeline shows a massive power bank."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ซึ่งทำงานได้เองโดยอัตโนมัติ",
+     "level": "C1",
+     "example": "AI is driving productivity in warehouses with autonomous forklifts and robotics."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 107,
+   "ts": "2026-10-14T01:39:17.670350+07:00",
+   "title": "Scaleway plans GPU cluster deployments in Sweden and Copenhagen",
+   "link": "https://www.datacenterdynamics.com/en/news/scaleway-plans-gpu-cluster-deployments-in-sweden-and-copenhagen/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "New European AI supercomputer and GPU cluster deployments directly expand high-performance infrastructure capacity.",
+   "summary": "Scaleway has announced plans to deploy new AMD and Nvidia-powered AI supercomputing clusters in Sweden and Copenhagen. These facilities will provide European enterprises and startups with large-scale GPU capacity for demanding machine learning workloads.",
+   "vocab": [
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "C1",
+     "example": "Scaleway has revealed plans to deploy GPU capacity in Copenhagen and Sweden."
+    },
+    {
+     "word": "milestone",
+     "thai": "เหตุการณ์สำคัญ",
+     "level": "B2",
+     "example": "Doing it from Sweden makes this milestone particularly meaningful."
+    },
+    {
+     "word": "clarification",
+     "thai": "การชี้แจงเพิ่มเติม",
+     "level": "C1",
+     "example": "DCD has reached out for clarification on how this differs from other zones."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 108,
+   "ts": "2026-10-14T01:39:17.670369+07:00",
+   "title": "Microchip Technology updates its networking and storage products to better support AI and HPC workloads",
+   "link": "https://www.datacenterdynamics.com/en/news/microchip-technology-updates-its-networking-and-storage-products-to-better-support-ai-and-hpc-workloads/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "New PCIe switches, SSD controllers, and storage accelerators directly target server hardware and high-performance computing efficiency.",
+   "summary": "Microchip Technology has updated its networking and storage product lines with new PCIe 6.0 switches and advanced SSD controllers. These hardware updates are engineered to optimize performance, virtualization, and security for data-intensive AI and HPC workloads.",
+   "vocab": [
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มผลิตภัณฑ์หรือบริการ",
+     "level": "B2",
+     "example": "Microchip has expanded its data center solutions portfolio."
+    },
+    {
+     "word": "resiliency",
+     "thai": "ความยืดหยุ่นและการฟื้นตัวเร็ว",
+     "level": "C1",
+     "example": "Self-encrypting drives were added for increased resiliency and security."
+    },
+    {
+     "word": "distributed",
+     "thai": "แบบกระจายศูนย์",
+     "level": "B2",
+     "example": "Platforms are designed for today’s increasingly distributed and data-intensive computing environments."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 109,
+   "ts": "2026-10-14T01:39:17.670383+07:00",
+   "title": "Fire protection in data center construction",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/fire-protection-in-data-center-construction/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "High-density AI rack fire safety and construction compliance directly impact data center facility design and risk management.",
+   "summary": "Legacy data center fire safety codes are struggling to keep pace with high-density AI server racks and liquid cooling systems. A newly released whitepaper offers engineering guidance to help facility builders address sandwich panels and strict European regulations.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Facilities face costly compliance failures and downtime if codes are ignored."
+    },
+    {
+     "word": "deflection",
+     "thai": "การแอ่นตัวหรือการโก่งตัว",
+     "level": "C2",
+     "example": "Legacy fire codes fail to address structural deflection."
+    },
+    {
+     "word": "safeguard",
+     "thai": "ปกป้องคุ้มครอง",
+     "level": "C1",
+     "example": "Adapting modular builds satisfies insurers and safeguards service level agreements."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 110,
+   "ts": "2026-10-14T01:39:17.670405+07:00",
+   "title": "Jio proposes 1,600 satellites, 23 ground stations for sovereign Indian connectivity",
+   "link": "https://www.datacenterdynamics.com/en/news/jio-proposes-1600-satellites-23-ground-stations-for-sovereign-indian-connectivity/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Large-scale satellite constellation and ground station proposals affect national network infrastructure and telecommunications policy.",
+   "summary": "Reliance Jio has proposed building a massive satellite constellation and ground station network across India to deliver sovereign connectivity. The announcement comes amid ongoing regulatory disputes between the Indian government and foreign satellite providers like SpaceX.",
+   "vocab": [
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียม",
+     "level": "C1",
+     "example": "Jio unveiled plans to operate a constellation of around 1,600 satellites."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎระเบียบข้อบังคับ",
+     "level": "C1",
+     "example": "Musk accused certain actors of hostility within India’s regulatory regime."
+    },
+    {
+     "word": "monopolistic",
+     "thai": "ในลักษณะผูกขาด",
+     "level": "C1",
+     "example": "Musk accused critics of maintaining a monopolistic chokehold over the market."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 111,
+   "ts": "2026-10-14T01:40:33.350201+07:00",
+   "title": "FERC approves PJM's request to create data center database",
+   "link": "https://www.datacenterdynamics.com/en/news/ferc-approves-pjms-request-to-create-data-center-database/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "It details a major regulatory decision affecting data center planning and power tracking across the largest US data center markets.",
+   "summary": "Regulators approved PJM's request to establish a tracking database for data center power demand across its regional grid. However, officials rejected a controversial proposal that would have allowed the grid operator to cut power to data centers during peak demand.",
+   "vocab": [
+    {
+     "word": "curtailment",
+     "thai": "การตัดทอนหรือการจำกัดการใช้ไฟฟ้า",
+     "level": "C1",
+     "example": "The regulatory body said PJM could submit a revised curtailment plan to manage demand."
+    },
+    {
+     "word": "grapple",
+     "thai": "พยายามรับมือหรือจัดการกับปัญหา",
+     "level": "B2",
+     "example": "PJM has been grappling with huge data center demand across its regional footprint."
+    },
+    {
+     "word": "disturbance",
+     "thai": "ความปั่นป่วนหรือการรบกวนระบบ",
+     "level": "B2",
+     "example": "Grid reliability issues included a large-scale voltage disturbance in July."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 112,
+   "ts": "2026-10-14T01:40:33.350226+07:00",
+   "title": "Legrand to integrate Karman AI platform into data center PDUs and power shelves",
+   "link": "https://www.datacenterdynamics.com/en/news/legrand-to-integrate-karman-ai-platform-into-data-center-pdus-and-power-shelves/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "It announces a direct product enhancement for data center power distribution units aimed at eliminating stranded power for AI racks.",
+   "summary": "Legrand is integrating Karman's AI software into its rack power distribution units and power shelves to optimize electrical capacity. This technology helps operators reclaim unused power and run more AI compute without upgrading their electrical connections.",
+   "vocab": [
+    {
+     "word": "untapped",
+     "thai": "ที่ยังไม่ได้นำมาใช้ประโยชน์",
+     "level": "C1",
+     "example": "A large portion of provisioned power in data centers currently goes untapped."
+    },
+    {
+     "word": "resiliency",
+     "thai": "ความทนทานและความสามารถในการฟื้นตัว",
+     "level": "C1",
+     "example": "Managing distributed energy resources enhances resiliency and offsets costly investments."
+    },
+    {
+     "word": "embed",
+     "thai": "ฝังหรือติดตั้งผนวกลงไป",
+     "level": "B2",
+     "example": "By embedding Karman into Legrand’s power distribution products, operators can utilize stranded power immediately."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 113,
+   "ts": "2026-10-14T01:40:33.350241+07:00",
+   "title": "Naver Cloud and FPT partner on AI buildout in Asia Pacific",
+   "link": "https://www.datacenterdynamics.com/en/news/naver-cloud-and-fpt-partner-on-ai-buildout-in-asia-pacific/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "It reports an international partnership between two Asian tech providers expanding regional AI cloud and data center facilities.",
+   "summary": "Naver Cloud and Vietnam's FPT have signed an agreement to expand artificial intelligence infrastructure across the Asia-Pacific region. The companies plan to combine their cloud platforms and supercomputing facilities to offer enterprise AI services.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การประมวลผลอนุมานของปัญญาประดิษฐ์",
+     "level": "C1",
+     "example": "They will conduct technical programs to optimize GPU infrastructure and inference performance."
+    },
+    {
+     "word": "collaboration",
+     "thai": "ความร่วมมือ",
+     "level": "B2",
+     "example": "Through this collaboration, Naver Cloud can combine its AI models with FPT's enterprise reach."
+    },
+    {
+     "word": "respective",
+     "thai": "ของแต่ละฝ่าย",
+     "level": "B2",
+     "example": "The two companies signed an agreement to expand their respective AI data center businesses."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 114,
+   "ts": "2026-10-14T01:40:33.350255+07:00",
+   "title": "Microscan plans Rs 3.5bn subsea cable landing station in Alibaug, India",
+   "link": "https://www.datacenterdynamics.com/en/news/microscan-plans-rs-35bn-subsea-cable-landing-station-in-alibaug-india/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It covers plans for a new subsea cable landing station that will improve network resilience for data centers around Mumbai.",
+   "summary": "Indian fiber provider Microscan plans to build a 36-million-dollar subsea cable landing station in Alibaug near Mumbai. The facility aims to increase network redundancy by offering an alternative landing site to the crowded Versova corridor.",
+   "vocab": [
+    {
+     "word": "diversify",
+     "thai": "เพิ่มความหลากหลายหรือกระจายความเสี่ยง",
+     "level": "B2",
+     "example": "The new cable landing station will help diversify landing points in the area."
+    },
+    {
+     "word": "carrier",
+     "thai": "ผู้ให้บริการโครงข่ายโทรคมนาคม",
+     "level": "B2",
+     "example": "The company will invest in the project and target hyperscalers, telecom carriers, and cable owners."
+    },
+    {
+     "word": "stretch",
+     "thai": "ช่วงระยะทางหรือแนวยาว",
+     "level": "B2",
+     "example": "Currently, 15 of 17 international cables land within a six-kilometer stretch."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 115,
+   "ts": "2026-10-14T01:40:33.350269+07:00",
+   "title": "Amazon Ring exec heads to Blue Origin to lead TeraWave network",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-ring-exec-heads-to-blue-origin-to-lead-terawave-network/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It reports an executive appointment at Blue Origin to lead a future satellite communications network aimed at data centers.",
+   "summary": "Blue Origin has hired former Amazon executive Leticia Ambriz to lead its TeraWave satellite communication network. The planned satellite constellation aims to provide high-speed orbital connectivity for enterprise data centers starting in 2027.",
+   "vocab": [
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียมที่โคจรร่วมกัน",
+     "level": "C1",
+     "example": "The constellation will only be able to serve a max customer base of around 100,000."
+    },
+    {
+     "word": "appoint",
+     "thai": "แต่งตั้งให้ดำรงตำแหน่ง",
+     "level": "B2",
+     "example": "Blue Origin has appointed a new director for its TeraWave global communications network."
+    },
+    {
+     "word": "ambitious",
+     "thai": "ที่มีความมุ่งมั่นสูงหรือทะเยอทะยาน",
+     "level": "B2",
+     "example": "She expressed excitement to help turn ambitious vision and goals into reality."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 116,
+   "ts": "2026-10-14T01:40:33.350285+07:00",
+   "title": "Cheap Chinese and open source LLMs could trigger trillion-dollar AI infrastructure 'reset'",
+   "link": "https://www.theregister.com/paas-and-iaas/2026/10/13/cheap-chinese-and-open-source-llms-could-trigger-trillion-dollar-ai-infrastructure-reset/5302774",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "It is an editorial digest containing multiple news snippets, including high-profile semiconductor packaging deals and a Microsoft SharePoint zero-day flaw.",
+   "summary": "The Register's news roundup highlights key developments including a two-billion-dollar semiconductor packaging deal between TSMC and GlobalFoundries. It also warns system administrators that recent Microsoft security patches failed to stop an active zero-day exploit in on-premises SharePoint.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "ส่งเสริมหรือเสริมความแข็งแกร่ง",
+     "level": "C1",
+     "example": "TSMC taps GlobalFoundries to bolster US domestic silicon production in a $2B deal."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การตรวจตราหรือการสอดแนม",
+     "level": "B2",
+     "example": "Security teams observed that China upgraded its smartphone surveillance tools."
+    },
+    {
+     "word": "arsenal",
+     "thai": "คลังอาวุธหรือชุดเครื่องมือที่มี",
+     "level": "C1",
+     "example": "The supplier prepares to reinforce the government's computing arsenal with new supercomputers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 117,
+   "ts": "2026-10-14T01:41:43.183348+07:00",
+   "title": "Microsoft celebrates end of Office 2021 LTSC with MS 365 outage",
+   "link": "https://www.theregister.com/saas/2026/10/13/microsoft-celebrates-end-of-office-2021-ltsc-with-ms-365-outage/5302848",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": true,
+   "reason": "Microsoft 365 cloud service outages directly disrupt workplace operations across many enterprises.",
+   "summary": "Microsoft suffered a service disruption affecting Microsoft 365 users right as Office 2021 LTSC reached end of support. Cloud-dependent business environments experienced access issues during this operational downtime.",
+   "vocab": [
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "A sudden cloud outage caused disruption across multiple offices."
+    },
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูล",
+     "level": "B2",
+     "example": "Attackers disguised as technical support launched phishing attacks to steal credentials."
+    },
+    {
+     "word": "arsenal",
+     "thai": "คลังอาวุธหรือทรัพยากร",
+     "level": "C1",
+     "example": "The company added high-performance servers to its operational arsenal."
+    }
+   ],
+   "status": "night",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 118,
+   "ts": "2026-10-14T01:41:43.183395+07:00",
+   "title": "Microsoft plans multi-gigawatt rollout of next-gen Azure Maia AI accelerator racks",
+   "link": "https://www.theregister.com/systems/2026/10/13/microsoft-plans-multi-gigawatt-rollout-of-next-gen-azure-maia-ai-accelerator-racks/5302802",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Multi-gigawatt deployment plans for AI accelerator racks signal major capacity and power demands in cloud data centers.",
+   "summary": "Microsoft is preparing a massive multi-gigawatt rollout of next-generation Azure Maia AI accelerator server racks. This expansion highlights rapid growth in high-density power and cooling requirements for cloud facilities.",
+   "vocab": [
+    {
+     "word": "rollout",
+     "thai": "การเปิดตัวหรือเริ่มใช้งานจริง",
+     "level": "B2",
+     "example": "The company planned a multi-gigawatt rollout of specialized server racks."
+    },
+    {
+     "word": "accelerator",
+     "thai": "อุปกรณ์เร่งความเร็วประมวลผล",
+     "level": "B2",
+     "example": "The new hardware accelerator offloads heavy computational tasks from standard processors."
+    },
+    {
+     "word": "domestic",
+     "thai": "ภายในประเทศ",
+     "level": "B2",
+     "example": "Packaging technology is essential to the domestic production of advanced semiconductors."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 119,
+   "ts": "2026-10-14T01:41:43.183412+07:00",
+   "title": "AI bubble could burst and take global economy with it, IMF warns",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/ai-bubble-could-burst-and-take-global-economy-with-it-imf-warns/5302781",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Macroeconomic commentary about an AI market bubble provides context but carries no immediate technical infrastructure impact.",
+   "summary": "The IMF has warned that excessive market speculation around artificial intelligence could lead to a crash affecting the global economy. This high-level financial risk creates strategic uncertainty for future capital spending on data center capacity.",
+   "vocab": [
+    {
+     "word": "speculation",
+     "thai": "การเก็งกำไร",
+     "level": "B2",
+     "example": "Heavy financial speculation in tech stocks created concerns about market stability."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การสอดส่องดูแลหรือตรวจตรา",
+     "level": "B2",
+     "example": "Security researchers uncovered upgraded surveillance tools deployed on mobile networks."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "The cybersecurity firm reached a multi-billion dollar valuation after its latest investment."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 7
+  },
+  {
+   "id": 120,
+   "ts": "2026-10-14T01:41:43.183445+07:00",
+   "title": "Under the hood, off the hot path: How D1 scales to millions of databases",
+   "link": "https://blog.cloudflare.com/d1-control-plane/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Technical architecture deep-dive on scaling control planes and distributed databases offers strong insights for DevOps and cloud engineers.",
+   "summary": "Cloudflare shared technical architectural details on scaling its D1 serverless SQLite database control plane to handle millions of active instances. By decoupling metadata management from the hot query path, they avoided centralized bottlenecks under rapid tenant growth.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด, อุปสรรคที่ทำให้การทำงานช้าลง",
+     "level": "B2",
+     "example": "Decoupling the control plane prevented a centralized bottleneck during query processing."
+    },
+    {
+     "word": "idempotency",
+     "thai": "คุณสมบัติที่การทำซ้ำให้ผลลัพธ์เหมือนเดิมโดยไม่เกิดผลข้างเคียง",
+     "level": "C1",
+     "example": "Engineers designed distributed operations with idempotency in mind to tolerate connection drops."
+    },
+    {
+     "word": "tenet",
+     "thai": "หลักการ, ข้อบัญญัติ",
+     "level": "C2",
+     "example": "Resilience under failure was a guiding tenet for the new infrastructure design."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 121,
+   "ts": "2026-10-14T01:41:43.183459+07:00",
+   "title": "Rewinding the exponential: How we keep hardware usage down",
+   "link": "https://blog.cloudflare.com/rewinding-the-exponential/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Practical engineering methods for scaling high-throughput pipelines while curbing server hardware growth directly assist data platform operators.",
+   "summary": "Cloudflare documented engineering optimizations that allowed its data pipeline to handle two billion events per second while deferring hardware expansion. Techniques such as splitting monolithic schemas, migrating to zstd compression, and edge aggregation preserved critical network and compute resources.",
+   "vocab": [
+    {
+     "word": "monolithic",
+     "thai": "ที่รวมเป็นโครงสร้างขนาดใหญ่ก้อนเดียว",
+     "level": "C1",
+     "example": "Breaking up the monolithic schema significantly lowered backbone network usage."
+    },
+    {
+     "word": "congestion",
+     "thai": "ความแออัด (เช่น เครือข่าย)",
+     "level": "B2",
+     "example": "Higher compression ratios helped alleviate network congestion across core switches."
+    },
+    {
+     "word": "pipeline",
+     "thai": "ท่อส่งหรือกระบวนการประมวลผลข้อมูล",
+     "level": "B2",
+     "example": "The team introduced intermediate aggregation stages into the data pipeline."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 122,
+   "ts": "2026-10-14T01:41:43.183469+07:00",
+   "title": "Gemini 4 Argon",
+   "link": "https://deepmind.google/models/gemini/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Announcement of a frontier LLM model shows software refactoring and coding capabilities, but operational infra changes are secondary.",
+   "summary": "Google introduced Gemini 4 Argon, highlighting its capabilities in large-scale codebase refactoring, vulnerability remediation, and simulation. The model assisted developers in refactoring millions of lines of legacy code inside Chromium without breaking core browser operations.",
+   "vocab": [
+    {
+     "word": "refactor",
+     "thai": "ปรับโครงสร้างโค้ดโดยไม่เปลี่ยนผลลัพธ์การทำงาน",
+     "level": "C1",
+     "example": "Automated tools helped the engineering team finish an architectural refactor across hundreds of files."
+    },
+    {
+     "word": "remediation",
+     "thai": "การเยียวยาหรือการแก้ไขช่องโหว่",
+     "level": "C1",
+     "example": "The model achieved benchmark-leading scores for vulnerability remediation in source repositories."
+    },
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่นและคืนสภาพได้เร็ว, ทนทาน",
+     "level": "B2",
+     "example": "Systems must remain resilient against unexpected prompt injection attacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 103,
+ "next_id": 123,
  "vocab": [
   {
    "word": "commissioning",
