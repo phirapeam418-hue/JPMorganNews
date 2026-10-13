@@ -287,7 +287,31 @@
   "https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/",
   "https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/",
   "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
-  "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
+  "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
+  "https://www.datacenterdynamics.com/en/news/ntt-to-build-63bn-data-center-for-anthropic-in-japan-report/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-unveils-azure-maia-300-says-chip-will-be-its-primary-inference-system/",
+  "https://www.datacenterdynamics.com/en/news/vivopower-starts-construction-at-42mw-mo-i-rana-data-center-in-norway/",
+  "https://www.datacenterdynamics.com/en/news/oracle-trucks-in-gas-to-support-operations-at-utah-and-texas-data-centers-report/",
+  "https://www.datacenterdynamics.com/en/news/t-mobile-cto-warns-spacex-that-it-takes-more-than-just-spectrum-to-build-a-network/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-talk-critical-power-architectures-for-ai-data-centers-with-mehdi-rajehi-abb/",
+  "https://www.datacenterdynamics.com/en/news/chemical-firm-turns-data-center-operator-proposes-500mw-site-in-maharashtra-india/",
+  "https://www.datacenterdynamics.com/en/news/arvica-cloud-plans-liquid-cooled-modular-data-center-in-queensland-australia/",
+  "https://www.datacenterdynamics.com/en/product-news/veir-raises-110-million-series-c-to-accelerate-commercialization-of-superconducting-power-delivery-technology-for-ai-data-centers/",
+  "https://www.datacenterdynamics.com/en/marketwatch/cutting-through-the-noise-turning-operational-complexity-into-actionable-insight/",
+  "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726",
+  "https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583",
+  "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
+  "https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635",
+  "https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622",
+  "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
+  "https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172",
+  "https://github.com/rust-lang/rust/issues/164250",
+  "https://pdftomp3.com/connect-ai/",
+  "https://www.thehistoryblog.com/archives/77107",
+  "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+  "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+  "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+  "https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/"
  ],
  "stories": [
   {
@@ -3327,9 +3351,739 @@
    "urgency": 5,
    "scale": 5,
    "credibility": 9
+  },
+  {
+   "id": 83,
+   "ts": "2026-10-13T18:16:13.993805+07:00",
+   "title": "NTT to build $6.3bn data center for Anthropic in Japan - report",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-to-build-63bn-data-center-for-anthropic-in-japan-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major multi-gigawatt AI infrastructure investment directly impacts data center capacity planning and cloud expansion.",
+   "summary": "NTT is planning to build a massive 500MW data center in Japan specifically for AI company Anthropic. The project is expected to be finalized by 2026 and operational by 2028.",
+   "vocab": [
+    {
+     "word": "finalizing",
+     "thai": "ทำให้เสร็จสมบูรณ์",
+     "level": "B2",
+     "example": "NTT Data Group is finalizing an agreement with Anthropic."
+    },
+    {
+     "word": "publication",
+     "thai": "สิ่งพิมพ์, สำนักข่าว",
+     "level": "B2",
+     "example": "Neither company provided a comment to the publication."
+    },
+    {
+     "word": "sparse",
+     "thai": "เบาบาง, มีน้อย",
+     "level": "C1",
+     "example": "Details were very sparse, and no further updates have been provided yet."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 69,
+   "sent_ts": "2026-10-13T18:16:14.488921+07:00"
+  },
+  {
+   "id": 84,
+   "ts": "2026-10-13T18:16:14.489236+07:00",
+   "title": "Microsoft unveils Azure Maia 300, says chip will be its “primary inference system”",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-unveils-azure-maia-300-says-chip-will-be-its-primary-inference-system/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Announcing a new generation of custom AI inference chips and multi-gigawatt deployments directly shapes future data center hardware standards.",
+   "summary": "Microsoft has unveiled its upcoming Azure Maia 300 chip designed for advanced AI reasoning tasks. The new hardware aims to deliver significantly higher energy efficiency and rack-scale performance starting in 2027.",
+   "vocab": [
+    {
+     "word": "successor",
+     "thai": "ผู้สืบทอด, รุ่นถัดไป",
+     "level": "B2",
+     "example": "with its successor, Maia 300, slated for deployment in 2027."
+    },
+    {
+     "word": "comprising",
+     "thai": "ประกอบด้วย",
+     "level": "B2",
+     "example": "comprising 216GB HBM3e at 7Tbps and 272MB of on-chip SRAM."
+    },
+    {
+     "word": "aggregate",
+     "thai": "รวมทั้งหมด",
+     "level": "C1",
+     "example": "delivering 27.6TB of high-bandwidth memory and 1.7Pbps of aggregate HBM bandwidth."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 70,
+   "sent_ts": "2026-10-13T18:16:15.004617+07:00"
+  },
+  {
+   "id": 85,
+   "ts": "2026-10-13T18:16:15.004878+07:00",
+   "title": "VivoPower starts construction at 42MW Mo i Rana data center in Norway",
+   "link": "https://www.datacenterdynamics.com/en/news/vivopower-starts-construction-at-42mw-mo-i-rana-data-center-in-norway/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Conversion of a crypto site to an AI data center with heat reuse highlights emerging trends in sustainable infrastructure design.",
+   "summary": "VivoPower has begun construction on a 42MW data center in Norway using a former cryptocurrency mining facility. The project plans to capture waste heat for local district heating systems.",
+   "vocab": [
+    {
+     "word": "demolishing",
+     "thai": "รื้อถอน, ทำลาย",
+     "level": "B2",
+     "example": "The works will include demolishing existing structures and enabling works."
+    },
+    {
+     "word": "conversion",
+     "thai": "การแปลงสภาพ",
+     "level": "B2",
+     "example": "According to Vivo, the data center conversion is being completed with the aim of capturing waste heat."
+    },
+    {
+     "word": "independently",
+     "thai": "อย่างอิสระ",
+     "level": "B2",
+     "example": "to hold and independently capitalize the non-Nordic AI data center portfolio."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 86,
+   "ts": "2026-10-13T18:16:15.004914+07:00",
+   "title": "Oracle trucks in gas to support operations at Utah and Texas data centers - report",
+   "link": "https://www.datacenterdynamics.com/en/news/oracle-trucks-in-gas-to-support-operations-at-utah-and-texas-data-centers-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Power and cooling constraints causing extreme workarounds like trucked gas directly impact data center reliability and operations.",
+   "summary": "Oracle has resorted to trucking in compressed natural gas to keep its data centers running due to prolonged pipeline delays. The company faces similar power infrastructure hurdles at multiple massive sites.",
+   "vocab": [
+    {
+     "word": "workaround",
+     "thai": "วิธีแก้ปัญหาเฉพาะหน้า",
+     "level": "C1",
+     "example": "Oracle has maintained operations by trucking in compressed natural gas as a workaround to pipeline delays."
+    },
+    {
+     "word": "stalled",
+     "thai": "หยุดชะงัก",
+     "level": "B2",
+     "example": "The company is considering the same model for its stalled Project Jupiter data center."
+    },
+    {
+     "word": "forfeit",
+     "thai": "สละสิทธิ์, ยอมเสียสิทธิ์",
+     "level": "C1",
+     "example": "the cloud giant is seeking to delay the payments, rather than forfeit its tenancy."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 8,
+   "msg_id": 71,
+   "sent_ts": "2026-10-13T18:16:15.544187+07:00"
+  },
+  {
+   "id": 87,
+   "ts": "2026-10-13T18:16:15.544465+07:00",
+   "title": "T-Mobile CTO warns SpaceX that it takes more than just spectrum to build a network",
+   "link": "https://www.datacenterdynamics.com/en/news/t-mobile-cto-warns-spacex-that-it-takes-more-than-just-spectrum-to-build-a-network/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Telecom strategy and satellite broadband spectrum deals affect networking landscape but have limited direct impact on server/data center infrastructure.",
+   "summary": "T-Mobile's technology chief has publicly warned SpaceX that acquiring spectrum is not enough to build a reliable nationwide wireless network. The comments follow SpaceX's major spectrum acquisitions for its Starlink mobile initiative.",
+   "vocab": [
+    {
+     "word": "emboldened",
+     "thai": "มีความกล้ามากขึ้น, ฮึกเหิม",
+     "level": "C1",
+     "example": "These announcements have emboldened Musk and SpaceX."
+    },
+    {
+     "word": "fundamental",
+     "thai": "พื้นฐาน, สำคัญอย่างยิ่ง",
+     "level": "B2",
+     "example": "it doesn't change the fundamental physics of satellite signals."
+    },
+    {
+     "word": "relentless",
+     "thai": "ที่ไม่ลดละ, อย่างต่อเนื่อง",
+     "level": "C1",
+     "example": "Building a network takes years of engineering and relentless execution."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 88,
+   "ts": "2026-10-13T18:16:15.544507+07:00",
+   "title": "DCD Talk: Critical power architectures for AI data centers with Mehdi Rajehi, ABB",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-talk-critical-power-architectures-for-ai-data-centers-with-mehdi-rajehi-abb/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Discussion on critical power architectures provides general insights into power management for AI clusters.",
+   "summary": "ABB experts discuss next-generation power architectures needed to scale modern AI data centers efficiently. The conversation focuses on medium voltage and DC power solutions.",
+   "vocab": [
+    {
+     "word": "architectures",
+     "thai": "สถาปัตยกรรม (ระบบ)",
+     "level": "B2",
+     "example": "how next-generation power architectures are enabling scalable AI data centers."
+    },
+    {
+     "word": "enabling",
+     "thai": "ทำให้สามารถทำได้",
+     "level": "B2",
+     "example": "power architectures are enabling scalable AI data centers."
+    },
+    {
+     "word": "scalable",
+     "thai": "ที่สามารถขยายขนาดได้",
+     "level": "B2",
+     "example": "enabling scalable AI data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 89,
+   "ts": "2026-10-13T18:16:15.544536+07:00",
+   "title": "Chemical firm turns data center operator, proposes 500MW site in Maharashtra, India",
+   "link": "https://www.datacenterdynamics.com/en/news/chemical-firm-turns-data-center-operator-proposes-500mw-site-in-maharashtra-india/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Large chemical firm pivoting to build a massive 500MW hyperscale facility contributes to regional data center capacity growth.",
+   "summary": "An Indian chemical company plans to diversify into data center operations by investing $3.3 billion in a 500MW facility in Maharashtra. The project aims to utilize modular construction and green energy.",
+   "vocab": [
+    {
+     "word": "presumptive",
+     "thai": "ที่น่าจะเป็น, ที่ถูกคาดหมายว่าจะเป็น",
+     "level": "C1",
+     "example": "A chemical company turned presumptive data center operator is set to build a 500MW site."
+    },
+    {
+     "word": "facilitate",
+     "thai": "อำนวยความสะดวก",
+     "level": "B2",
+     "example": "the state government will facilitate coordination on applicable permissions."
+    },
+    {
+     "word": "resilient",
+     "thai": "มีความยืดหยุ่น, ทนทาน",
+     "level": "C1",
+     "example": "The facility will contribute to a more secure, resilient and sovereign digital infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 90,
+   "ts": "2026-10-13T18:16:15.544564+07:00",
+   "title": "Arvica Cloud plans liquid-cooled modular data center in Queensland, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/arvica-cloud-plans-liquid-cooled-modular-data-center-in-queensland-australia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Liquid-cooled modular edge data center plans for high-density GPUs directly relate to modern cooling and infrastructure trends.",
+   "summary": "Arvica Cloud is planning a modular, liquid-cooled edge data center in Australia to support upcoming high-density AI hardware. The compact facility aims for high energy efficiency using advanced cooling distribution units.",
+   "vocab": [
+    {
+     "word": "accommodate",
+     "thai": "รองรับ, จัดให้พอดี",
+     "level": "B2",
+     "example": "designed to accommodate next-generation GPU hardware with liquid cooling."
+    },
+    {
+     "word": "supplementary",
+     "thai": "ที่เป็นส่วนเสริม",
+     "level": "C1",
+     "example": "The company will deploy coolant distribution units alongside supplementary air cooling."
+    },
+    {
+     "word": "upgradeability",
+     "thai": "ความสามารถในการอัปเกรด",
+     "level": "C1",
+     "example": "Competition in AI infrastructure is shifting from GPU counts toward energy efficiency and upgradeability."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 91,
+   "ts": "2026-10-13T18:16:26.592413+07:00",
+   "title": "Sponsored: VEIR raises $110 million Series C to accelerate commercialization of superconducting power delivery technology for AI data centers",
+   "link": "https://www.datacenterdynamics.com/en/product-news/veir-raises-110-million-series-c-to-accelerate-commercialization-of-superconducting-power-delivery-technology-for-ai-data-centers/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly covers superconducting power delivery technology to address AI data center power constraints.",
+   "summary": "A U.S. startup raised $110 million to scale manufacturing of superconducting power delivery systems for AI data centers. This technology aims to solve massive power density challenges by moving more electricity through smaller footprints.",
+   "vocab": [
+    {
+     "word": "accelerate",
+     "thai": "เร่งความเร็ว",
+     "level": "B2",
+     "example": "VEIR raises $110 million Series C to accelerate commercialization of superconducting power delivery technology."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "B2",
+     "example": "The company will use the new capital to transition from technology validation to commercial deployment."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "C1",
+     "example": "Power delivery is emerging as one of the critical constraints on how densely AI compute can scale."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 92,
+   "ts": "2026-10-13T18:16:26.592453+07:00",
+   "title": "Sponsored: Cutting through the noise: Turning operational complexity into actionable insight",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/cutting-through-the-noise-turning-operational-complexity-into-actionable-insight/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Focuses on modern DCIM and operational complexity in high-density AI data centers.",
+   "summary": "Modern AI-ready data centers are driving up operational complexity, making advanced DCIM tools vital to manage cooling, power, and risks. Operators face severe blind spots when compute demands outpace traditional building management systems.",
+   "vocab": [
+    {
+     "word": "complexity",
+     "thai": "ความซับซ้อน",
+     "level": "B2",
+     "example": "High-density AI-ready data centers are driving up complexity at the facility level."
+    },
+    {
+     "word": "proactive",
+     "thai": "เชิงรุก",
+     "level": "C1",
+     "example": "The ability to manage and respond proactively to potential threats has become a defining operational challenge."
+    },
+    {
+     "word": "holistic",
+     "thai": "แบบองค์รวม",
+     "level": "C1",
+     "example": "Making a holistic, streamlined view of end-to-end operations fundamental to long-term success."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 72,
+   "sent_ts": "2026-10-13T18:16:27.072950+07:00"
+  },
+  {
+   "id": 93,
+   "ts": "2026-10-13T18:16:27.073108+07:00",
+   "title": "'123456' password linked to Denmark data breach affecting 8.8M people",
+   "link": "https://www.theregister.com/security/2026/10/13/123456-password-linked-to-denmark-data-breach-affecting-88m-people/5302726",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Reports on a massive data breach involving simple passwords affecting millions of users.",
+   "summary": "A massive data breach in Denmark exposed millions of records linked to extremely weak passwords. Cybersecurity authorities continue to warn against using basic credentials that leave systems vulnerable to automated attacks.",
+   "vocab": [
+    {
+     "word": "vulnerable",
+     "thai": "เสี่ยงต่ออันตราย",
+     "level": "B2",
+     "example": "Weak credentials leave systems vulnerable to automated attacks."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่าน)",
+     "level": "C1",
+     "example": "Simple password practices create severe risks regarding compromised credentials."
+    },
+    {
+     "word": "exposure",
+     "thai": "การเปิดเผย, การรั่วไหล",
+     "level": "B2",
+     "example": "The data breach led to widespread exposure of personal information."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 73,
+   "sent_ts": "2026-10-13T18:16:27.575162+07:00"
+  },
+  {
+   "id": 94,
+   "ts": "2026-10-13T18:16:27.575448+07:00",
+   "title": "European datacenter boom threatens higher energy bills unless governments intervene",
+   "link": "https://www.theregister.com/on-prem/2026/10/13/european-datacenter-boom-threatens-higher-energy-bills-unless-governments-intervene/5302583",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Addresses the macro energy impact of the European data center boom on public utility bills.",
+   "summary": "The rapid proliferation of data centers across Europe threatens to significantly increase regional energy bills. Experts warn that unless governments intervene, local power grids will struggle with the surging demand.",
+   "vocab": [
+    {
+     "word": "proliferation",
+     "thai": "การแพร่ขยายอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "The rapid proliferation of data centers threatens higher energy bills."
+    },
+    {
+     "word": "intervene",
+     "thai": "เข้าแทรกแซง, เข้ามาจัดการ",
+     "level": "B2",
+     "example": "European datacenter boom threatens higher energy bills unless governments intervene."
+    },
+    {
+     "word": "surge",
+     "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Local power grids will struggle with the surging demand from new facilities."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 95,
+   "ts": "2026-10-13T18:16:27.575489+07:00",
+   "title": "Owner of fashion brands Hobbs and Whistles joins autumn pwned collection",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/13/owner-of-fashion-brands-hobbs-and-whistles-joins-autumn-pwned-collection/5302752",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers a commercial data breach affecting retail brands.",
+   "summary": "Major fashion brands have been caught up in a fresh wave of corporate data compromises. Cybersecurity researchers track these incidents to highlight ongoing threats to retail supply chains.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "การถูกเจาะระบบ, การทำให้เสียหาย",
+     "level": "B2",
+     "example": "Fashion brands have been caught up in a fresh wave of corporate data compromises."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "Researchers track these security incidents to highlight ongoing retail threats."
+    },
+    {
+     "word": "remediate",
+     "thai": "แก้ไขเยียวยา",
+     "level": "C1",
+     "example": "Firms must act swiftly to remediate vulnerabilities after a breach."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 96,
+   "ts": "2026-10-13T18:16:27.575526+07:00",
+   "title": "UK Cabinet Office takes £7.8M hit to kill off recruitment system",
+   "link": "https://www.theregister.com/public-sector/2026/10/13/uk-cabinet-office-takes-78m-hit-to-kill-off-recruitment-system/5302635",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Details government IT project cancellations and financial penalties in the UK.",
+   "summary": "The UK Cabinet Office wrote off millions of pounds after scrapping a failed recruitment software deployment. The department faced additional financial penalties for failing to meet strategic technology standards.",
+   "vocab": [
+    {
+     "word": "abandon",
+     "thai": "ยกเลิก, ละทิ้ง",
+     "level": "B2",
+     "example": "The department was told to abandon the system to comply with strategy."
+    },
+    {
+     "word": "penalty",
+     "thai": "บทลงโทษ, ค่าปรับ",
+     "level": "B2",
+     "example": "The agency faces a heavy financial penalty for the administrative shambles."
+    },
+    {
+     "word": "deficit",
+     "thai": "การขาดดุล, ยอดขาด",
+     "level": "B2",
+     "example": "Failed software projects can create a substantial budget deficit."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 97,
+   "ts": "2026-10-13T18:16:27.575556+07:00",
+   "title": "Intel optimizes IPv6 networking into nothingness, say users",
+   "link": "https://www.theregister.com/networks/2026/10/13/intel-optimizes-ipv6-networking-into-nothingness-say-users/5302622",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Discusses networking software optimization issues affecting IPv6 performance.",
+   "summary": "Users report that recent Intel driver updates severely degrade IPv6 networking performance. Administrators are scrambling to find workarounds to restore expected network throughput.",
+   "vocab": [
+    {
+     "word": "degrade",
+     "thai": "ลดประสิทธิภาพลง",
+     "level": "B2",
+     "example": "Recent network driver updates severely degrade IPv6 networking performance."
+    },
+    {
+     "word": "throughput",
+     "thai": "ปริมาณงานที่ระบบประมวลผลได้",
+     "level": "C1",
+     "example": "Administrators are trying to restore expected network throughput."
+    },
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทาปัญหา",
+     "level": "C1",
+     "example": "Engineers are seeking a quick mitigation for the routing bug."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 98,
+   "ts": "2026-10-13T18:16:27.575586+07:00",
+   "title": "Home Office asylum AI flunks one in five accuracy checks",
+   "link": "https://www.theregister.com/public-sector/2026/10/13/home-office-asylum-ai-flunks-one-in-five-accuracy-checks/5302649",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights accuracy flaws in government AI processing systems.",
+   "summary": "An official evaluation revealed that a government immigration AI system produced a high rate of errors. Critics argue that relying on flawed automation worsens bureaucratic processing delays.",
+   "vocab": [
+    {
+     "word": "evaluation",
+     "thai": "การประเมินผล",
+     "level": "B2",
+     "example": "An official evaluation revealed that the immigration AI system produced errors."
+    },
+    {
+     "word": "bureaucratic",
+     "thai": "เกี่ยวกับระบบราชการ",
+     "level": "C1",
+     "example": "Flawed automation worsens bureaucratic processing delays."
+    },
+    {
+     "word": "discrepancy",
+     "thai": "ความไม่สอดคล้องกัน, ความแตกต่าง",
+     "level": "C1",
+     "example": "The audit found a significant discrepancy in the automated decisions."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 99,
+   "ts": "2026-10-13T18:16:39.519153+07:00",
+   "title": "VMware is pushing so many patches, it thinks users need new tools to manage the flood",
+   "link": "https://www.theregister.com/virtualization/2026/10/13/vmware-is-pushing-so-many-patches-it-thinks-users-need-new-tools-to-manage-the-flood-1/5302172",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "VMware update fatigue highlights ongoing operational overhead for server and infrastructure administrators.",
+   "summary": "VMware users face an overwhelming number of security patches and updates. Administrators need better management tools to handle this constant software maintenance.",
+   "vocab": [
+    {
+     "word": "reckon",
+     "thai": "คิดว่า, คาดการณ์",
+     "level": "B2",
+     "example": "Virtzilla reckons it's OK to pay for MFA."
+    },
+    {
+     "word": "flood",
+     "thai": "ปริมาณมหาศาล, น้ำท่วม",
+     "level": "B2",
+     "example": "It thinks users need new tools to manage the flood."
+    },
+    {
+     "word": "patch",
+     "thai": "แพตช์, โปรแกรมแก้ไข",
+     "level": "B2",
+     "example": "VMware is pushing so many patches."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 100,
+   "ts": "2026-10-13T18:16:39.519190+07:00",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "link": "https://github.com/rust-lang/rust/issues/164250",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "A significant soundness bug in the Rust borrow checker impacts developers working on systems software and secure DevOps toolchains.",
+   "summary": "Researchers found an eleven-year-old soundness bug in the Rust borrow checker. This flaw allows struct lifetime requirements to be bypassed under certain conditions.",
+   "vocab": [
+    {
+     "word": "unsoundness",
+     "thai": "ความไม่สมบูรณ์ทางตรรกะ, ข้อบกพร่อง",
+     "level": "C1",
+     "example": "11 year old unsoundness bugs found in Rust borrow checker."
+    },
+    {
+     "word": "bypass",
+     "thai": "หลีกเลี่ยง, ข้าม",
+     "level": "B2",
+     "example": "Struct's lifetime requirements can be bypassed via covariant field assignment."
+    },
+    {
+     "word": "assumes",
+     "thai": "สันนิษฐาน, อนุमान",
+     "level": "B2",
+     "example": "Code in here has access to a non-static string but assumes that it's a static string."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 101,
+   "ts": "2026-10-13T18:16:39.519250+07:00",
+   "title": "Document Review with Unsiloed and TypeSafe Jev",
+   "link": "https://www.unsiloed.ai/blog/document-review-unsiloed-typesafe-jev",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Document review tools and OCR error handling are relevant to automated data extraction pipelines in enterprise software.",
+   "summary": "A combination of tools helps check for OCR failures by separating extracted document data from type-safe validation questions. This process catches implausible values and stained text before data moves downstream.",
+   "vocab": [
+    {
+     "word": "pipeline",
+     "thai": "ท่อส่งข้อมูล, กระบวนการอัตโนมัติ",
+     "level": "B2",
+     "example": "An extraction pipeline can read a value correctly and still pass bad data downstream."
+    },
+    {
+     "word": "ambiguous",
+     "thai": "กำกวม, ไม่ชัดเจน",
+     "level": "B2",
+     "example": "Confidence scores help identify ambiguous readings."
+    },
+    {
+     "word": "implausible",
+     "thai": "ไม่น่าเชื่อถือ, ไม่สมเหตุสมผล",
+     "level": "C1",
+     "example": "Separate uncertain readings from implausible values."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 102,
+   "ts": "2026-10-13T18:16:39.519290+07:00",
+   "title": "Crypto thieves sell hardware wallets with secret eSIM",
+   "link": "https://www.heise.de/en/news/Crypto-thieves-sell-hardware-wallets-with-secret-eSIM-11485188.html",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "A severe hardware security vulnerability involving tampered crypto wallets with embedded eSIMs impacts hardware security and asset protection.",
+   "summary": "Attackers have been selling modified hardware wallets containing hidden LTE modems and secret eSIMs that intercept seed phrases. Over $90 million in cryptocurrency has been stolen through this physical supply chain attack.",
+   "vocab": [
+    {
+     "word": "intercept",
+     "thai": "ดักจับ",
+     "level": "B2",
+     "example": "Unknown individuals have succeeded in intercepting and manipulating the offline wallets."
+    },
+    {
+     "word": "perpetrator",
+     "thai": "ผู้กระทำความผิด, อาชญากร",
+     "level": "C1",
+     "example": "This is exactly what the perpetrators are doing."
+    },
+    {
+     "word": "deplete",
+     "thai": "ทำให้หมดสิ้น, สูญเสีย",
+     "level": "C1",
+     "example": "Wallets have been collectively depleted of approximately 93 million US dollars."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 83,
+ "next_id": 103,
  "vocab": [
   {
    "word": "commissioning",
@@ -4446,6 +5200,146 @@
    "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
    "level": "B2",
    "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "finalizing",
+   "thai": "ทำให้เสร็จสมบูรณ์",
+   "level": "B2",
+   "example": "NTT Data Group is finalizing an agreement with Anthropic.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "publication",
+   "thai": "สิ่งพิมพ์, สำนักข่าว",
+   "level": "B2",
+   "example": "Neither company provided a comment to the publication.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sparse",
+   "thai": "เบาบาง, มีน้อย",
+   "level": "C1",
+   "example": "Details were very sparse, and no further updates have been provided yet.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "successor",
+   "thai": "ผู้สืบทอด, รุ่นถัดไป",
+   "level": "B2",
+   "example": "with its successor, Maia 300, slated for deployment in 2027.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "comprising",
+   "thai": "ประกอบด้วย",
+   "level": "B2",
+   "example": "comprising 216GB HBM3e at 7Tbps and 272MB of on-chip SRAM.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "aggregate",
+   "thai": "รวมทั้งหมด",
+   "level": "C1",
+   "example": "delivering 27.6TB of high-bandwidth memory and 1.7Pbps of aggregate HBM bandwidth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "workaround",
+   "thai": "วิธีแก้ปัญหาเฉพาะหน้า",
+   "level": "C1",
+   "example": "Oracle has maintained operations by trucking in compressed natural gas as a workaround to pipeline delays.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stalled",
+   "thai": "หยุดชะงัก",
+   "level": "B2",
+   "example": "The company is considering the same model for its stalled Project Jupiter data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "forfeit",
+   "thai": "สละสิทธิ์, ยอมเสียสิทธิ์",
+   "level": "C1",
+   "example": "the cloud giant is seeking to delay the payments, rather than forfeit its tenancy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "complexity",
+   "thai": "ความซับซ้อน",
+   "level": "B2",
+   "example": "High-density AI-ready data centers are driving up complexity at the facility level.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proactive",
+   "thai": "เชิงรุก",
+   "level": "C1",
+   "example": "The ability to manage and respond proactively to potential threats has become a defining operational challenge.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "holistic",
+   "thai": "แบบองค์รวม",
+   "level": "C1",
+   "example": "Making a holistic, streamlined view of end-to-end operations fundamental to long-term success.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vulnerable",
+   "thai": "เสี่ยงต่ออันตราย",
+   "level": "B2",
+   "example": "Weak credentials leave systems vulnerable to automated attacks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exposure",
+   "thai": "การเปิดเผย, การรั่วไหล",
+   "level": "B2",
+   "example": "The data breach led to widespread exposure of personal information.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
