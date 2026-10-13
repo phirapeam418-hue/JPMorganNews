@@ -335,7 +335,31 @@
   "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784",
   "https://blog.cloudflare.com/d1-control-plane/",
   "https://blog.cloudflare.com/rewinding-the-exponential/",
-  "https://deepmind.google/models/gemini/"
+  "https://deepmind.google/models/gemini/",
+  "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
+  "https://www.theregister.com/security/2026/10/13/claude-submitted-fake-murder-tip-to-philly-police-during-summertime-testing/5302842",
+  "https://www.theregister.com/ai-and-ml/2026/10/13/anthropic-conjures-another-threat-that-doesnt-exist-yet-to-stoke-fears-of-ai-apocalypse/5302866",
+  "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+  "https://guitoro.com/",
+  "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+  "https://www.anthropic.com/engineering/redesigning-source-control",
+  "https://www.apple.com/apple-homeview/",
+  "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+  "https://alpha-nist.github.io/",
+  "https://www.firefox.com/en-US/enterprise/",
+  "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+  "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
+  "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+  "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+  "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
+  "https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/",
+  "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+  "https://arstechnica.com/tech-policy/2026/10/trumps-taxpayer-funded-ads-kept-airing-on-tv-the-day-after-judge-blocked-them/",
+  "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+  "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
+  "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
+  "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+  "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
  ],
  "stories": [
   {
@@ -4107,7 +4131,10 @@
    "impact": 8,
    "urgency": 9,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
+   ]
   },
   {
    "id": 103,
@@ -4827,10 +4854,229 @@
    "impact": 4,
    "urgency": 2,
    "scale": 6,
+   "credibility": 8,
+   "extra_links": [
+    "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+   ]
+  },
+  {
+   "id": 123,
+   "ts": "2026-10-14T06:32:00.978660+07:00",
+   "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a summary digest page covering various AI, infosec, and open-source updates with low immediate operational urgency.",
+   "summary": "A tech news digest covers several industry events, including AI computing initiatives, packaging deals, and security vulnerabilities. These aggregated summaries highlight ongoing trends in AI infrastructure and enterprise security without providing deep operational detail on a single event.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "ส่งเสริมหรือเสริมกำลัง",
+     "level": "C1",
+     "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "C1",
+     "example": "US takes down Iranian propaganda sites."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำมาใช้หรือเริ่มใช้งาน",
+     "level": "B2",
+     "example": "Increasing awareness and adoption, followed by increasing donations."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 124,
+   "ts": "2026-10-14T06:32:00.978736+07:00",
+   "title": "OpenAI engineer arrested in bugging of executive conference room",
+   "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Corporate espionage directly targeting an AI market leader highlights insider threats and physical security around critical AI infrastructure and research.",
+   "summary": "A software engineer at OpenAI was arrested by federal authorities for planting a concealed listening device in an executive conference room. The incident underscores growing physical security and insider espionage risks facing premier artificial intelligence organizations.",
+   "vocab": [
+    {
+     "word": "intercept",
+     "thai": "ดักจับหรือสกัดกั้น",
+     "level": "B2",
+     "example": "He was charged with using or attempting to use a device to intercept oral communications."
+    },
+    {
+     "word": "unattended",
+     "thai": "ซึ่งไม่มีผู้ดูแลหรือปล่อยทิ้งไว้",
+     "level": "B2",
+     "example": "Federal prosecutors say an employee left another unattended in his bag."
+    },
+    {
+     "word": "counterintelligence",
+     "thai": "การต่อต้านการจารกรรม",
+     "level": "C1",
+     "example": "FBI Director said protecting AI innovation is among the bureau's highest counterintelligence priorities."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 125,
+   "ts": "2026-10-14T06:32:00.978786+07:00",
+   "title": "Redesigning source control at Anthropic",
+   "link": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Valuable technical insight into custom developer tooling, monorepo architecture, and CI/CD scaling issues caused by AI-generated code volume.",
+   "summary": "Anthropic developed a proprietary version control system named Scion after Git could no longer handle tens of thousands of automated daily code commits. This development highlights new architectural scaling pressures that high-frequency AI coding places on developer infrastructure and CI pipelines.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "จุดคอขวดหรืออุปสรรคที่ทำให้กระบวนการล่าช้า",
+     "level": "B2",
+     "example": "Coding is no longer the bottleneck to building systems or doing research."
+    },
+    {
+     "word": "autonomously",
+     "thai": "อย่างอิสระหรือโดยอัตโนมัติ",
+     "level": "C1",
+     "example": "Claude is able to autonomously iterate on research loops and build new services."
+    },
+    {
+     "word": "latent",
+     "thai": "ที่แฝงอยู่หรือไม่ปรากฏชัด",
+     "level": "C2",
+     "example": "The latent demand for merging code is practically infinite."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 126,
+   "ts": "2026-10-14T06:33:35.865934+07:00",
+   "title": "Firefox Enterprise",
+   "link": "https://www.firefox.com/en-US/enterprise/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Offers an on-premise browser management option relevant to enterprise security and access control infrastructure.",
+   "summary": "Mozilla announced Firefox Enterprise, enabling organizations to deploy and manage web browsers on their own infrastructure. The platform helps enterprise administrators enforce security policies and protect internal apps without complex remote access tools.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อำนาจควบคุมตนเอง",
+     "level": "C1",
+     "example": "Bring deployment and data sovereignty under your control."
+    },
+    {
+     "word": "converge",
+     "thai": "บรรจบกัน",
+     "level": "C1",
+     "example": "The browser is where work, data, identity, and AI converge."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความสามารถในการฟื้นตัวและรับมือกับปัญหา",
+     "level": "C1",
+     "example": "Firefox Enterprise adds browser diversity to improve overall resilience."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 127,
+   "ts": "2026-10-14T06:33:35.865989+07:00",
+   "title": "The United Kingdom generates less electricity per person than in the 1970s",
+   "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Energy consumption and generation trends are relevant context for data center power availability and grid capacity in the UK.",
+   "summary": "Per-capita electricity generation in the United Kingdom has dropped by a third since its peak in the early 2000s. While energy efficiency gains explain much of the decline, rising power imports and industrial shifts also contributed.",
+   "vocab": [
+    {
+     "word": "deindustrialization",
+     "thai": "การลดลงของภาคอุตสาหกรรม",
+     "level": "C1",
+     "example": "The most common explanation for the demand decline is deindustrialization."
+    },
+    {
+     "word": "incandescent",
+     "thai": "แบบหลอดไส้ร้อนสว่าง",
+     "level": "C1",
+     "example": "Efficiency improved with the shift from incandescent bulbs to LEDs."
+    },
+    {
+     "word": "sectoral",
+     "thai": "ทางภาคส่วนเฉพาะ",
+     "level": "C1",
+     "example": "Sectoral data from the agency confirms that industrial electricity consumption fell."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 128,
+   "ts": "2026-10-14T06:35:19.122690+07:00",
+   "title": "Topgolf saved over $11.3 million after leaving VMware",
+   "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Enterprise migration away from VMware due to Broadcom's price spikes is directly relevant to data center operators managing hypervisors.",
+   "summary": "Topgolf saved over 11 million dollars by migrating 12,000 virtual machines off VMware to VergeIO's hyperconverged platform. The shift was driven by steep price increases and aggressive licensing changes after Broadcom acquired VMware.",
+   "vocab": [
+    {
+     "word": "perpetual",
+     "thai": "ตลอดชีพหรือถาวร",
+     "level": "C1",
+     "example": "Broadcom decided to stop selling VMware perpetual licenses to customers."
+    },
+    {
+     "word": "bundle",
+     "thai": "มัดรวมหรือรวมกลุ่มสินค้า",
+     "level": "B2",
+     "example": "The company chose to bundle software products into fewer and more expensive packages."
+    },
+    {
+     "word": "replication",
+     "thai": "การทำสำเนาข้อมูลหรือการจำลองข้อมูลข้ามระบบ",
+     "level": "C1",
+     "example": "The platform avoids separate tools for data protection, replication, and multi-site management."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 123,
+ "next_id": 129,
  "vocab": [
   {
    "word": "commissioning",
