@@ -2328,7 +2328,7 @@
      "example": "The facility is set to offer 108MW of capacity across 300,000 square feet."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -2364,7 +2364,7 @@
      "example": "The goal is to sharpen the company's edge in a very competitive market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
@@ -2400,11 +2400,13 @@
      "example": "Many thermal events were classified as major industrial accidents."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 61,
+   "sent_ts": "2026-10-13T14:38:57.161632+07:00"
   },
   {
    "id": 58,
@@ -2436,11 +2438,13 @@
      "example": "The program focused on catalyzing emerging technologies like geothermal and nuclear."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 67,
+   "sent_ts": "2026-10-13T14:39:00.210692+07:00"
   },
   {
    "id": 59,
@@ -2514,11 +2518,13 @@
      "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 68,
+   "sent_ts": "2026-10-13T14:39:00.737426+07:00"
   },
   {
    "id": 61,
@@ -2550,7 +2556,7 @@
      "example": "Power is wasted when equipment downstream cannot adapt to sudden computing demands."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -2586,7 +2592,7 @@
      "example": "Take an illustrative example where a data center developer partners with a renewable gas producer."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -2622,7 +2628,7 @@
      "example": "The FBI director put out a cryptic message regarding the recent arrest."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -2658,7 +2664,7 @@
      "example": "A growing replication lag can compound the existing storage bottleneck."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -2694,7 +2700,7 @@
      "example": "The trust is looking to potentially redevelop around ten industrial sites for data center use."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -2730,7 +2736,7 @@
      "example": "We look forward to continuing our work together on this ambitious project."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -2766,7 +2772,7 @@
      "example": "He instructed others to create invoices using fictitious business names."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -2802,7 +2808,7 @@
      "example": "Repair work may cause temporary local interruptions in network access."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -2838,7 +2844,7 @@
      "example": "Similar measures are being introduced as backlash against data centers grows."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -2874,11 +2880,13 @@
      "example": "The trays allow cold plates to be swapped out without any unwanted spillage."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 62,
+   "sent_ts": "2026-10-13T14:38:57.660304+07:00"
   },
   {
    "id": 71,
@@ -2910,11 +2918,13 @@
      "example": "It also marks somewhat of a departure from Nvidia’s traditional reliance on Arm designs."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 63,
+   "sent_ts": "2026-10-13T14:38:58.173260+07:00"
   },
   {
    "id": 72,
@@ -2946,7 +2956,7 @@
      "example": "The local operator can maintain a margin, bypassing any subjective valuation procedures."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -2982,7 +2992,7 @@
      "example": "That limits transmission inland over the overcrowded electricity grid."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -3018,7 +3028,7 @@
      "example": "The company has worked with AMD across its hardware and software stack."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
@@ -3054,7 +3064,7 @@
      "example": "By adding five facilities, we are expanding our nationwide footprint."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -3090,7 +3100,7 @@
      "example": "Automated coding workflows erode the revenue of traditional developer platforms."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 8,
@@ -3126,11 +3136,13 @@
      "example": "Advanced silicon interposer technology is crucial for modern AI accelerator packaging."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 64,
+   "sent_ts": "2026-10-13T14:38:58.665388+07:00"
   },
   {
    "id": 78,
@@ -3162,7 +3174,7 @@
      "example": "Ubuntu interim releases showcase experimental tools before long-term support versions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -3198,7 +3210,7 @@
      "example": "The browser arrived with a significant reskin to modernize its visual interface."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 6,
@@ -3234,11 +3246,13 @@
      "example": "The embedded SQL engine keeps performance and resource use predictable."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 65,
+   "sent_ts": "2026-10-13T14:38:59.174218+07:00"
   },
   {
    "id": 81,
@@ -3270,11 +3284,13 @@
      "example": "Keep agents resident to help sustain throughput across the agentic loop."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 66,
+   "sent_ts": "2026-10-13T14:38:59.688324+07:00"
   },
   {
    "id": 82,
@@ -3306,7 +3322,7 @@
      "example": "Several supermarket chains have been hit with a malfunction due to a cybersecurity incident."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 5,
    "scale": 5,
@@ -4194,18 +4210,254 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "register",
+   "thai": "บัญชีบันทึกหรือทะเบียนข้อมูล",
+   "level": "B2",
+   "example": "The Energy Incident Register tracks data center incidents from public reporting.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incidence",
+   "thai": "อัตราการเกิดเหตุการณ์",
+   "level": "C1",
+   "example": "The country saw the highest incidence rate of power failures in the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "classified",
+   "thai": "ถูกจัดประเภท",
+   "level": "B2",
+   "example": "Many thermal events were classified as major industrial accidents.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "busbar",
+   "thai": "ตัวนำจ่ายกระแสไฟฟ้าแรงสูง (บัสบาร์)",
+   "level": "C1",
+   "example": "The designs include a liquid-cooled 5,000 amp busbar built for higher-power systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proprietary",
+   "thai": "ที่เป็นกรรมสิทธิ์เฉพาะ",
+   "level": "C1",
+   "example": "Equipment makers can build a supply chain instead of waiting for a singular proprietary spec.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spillage",
+   "thai": "การรั่วไหลหรือหกเลอะเทอะ",
+   "level": "C1",
+   "example": "The trays allow cold plates to be swapped out without any unwanted spillage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hegemony",
+   "thai": "การมีอำนาจครอบงำหรือเป็นผู้นำแต่เพียงผู้เดียว",
+   "level": "C2",
+   "example": "Nvidia has been gearing up to take on the CPU hegemony of AMD and Intel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discrete",
+   "thai": "แยกออกจากกันอย่างชัดเจน, เป็นเอกเทศ",
+   "level": "C1",
+   "example": "The discrete system placed next to an NVL72 is separated from the core platform.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "departure",
+   "thai": "การเบี่ยงเบนหรือเปลี่ยนแนวทางไปจากเดิม",
+   "level": "B2",
+   "example": "It also marks somewhat of a departure from Nvidia’s traditional reliance on Arm designs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unveil",
+   "thai": "เปิดตัวหรือเผยแพร่ให้เห็นเป็นครั้งแรก",
+   "level": "B2",
+   "example": "AMD unveils Helion racks for AI agents at the annual OCP summit.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "harden",
+   "thai": "เสริมความแข็งแกร่งหรือเพิ่มความปลอดภัย",
+   "level": "C1",
+   "example": "Engineers work to harden critical servers against targeted exploitation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interposer",
+   "thai": "แผ่นเชื่อมประสานระหว่างชิป",
+   "level": "C2",
+   "example": "Advanced silicon interposer technology is crucial for modern AI accelerator packaging.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "redact",
+   "thai": "ปกปิดข้อมูลสำคัญ",
+   "level": "C1",
+   "example": "Teams define a SQL query to filter records, redact sensitive data, and reshape the output.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discard",
+   "thai": "ทิ้งหรือไม่นำมาใช้",
+   "level": "B2",
+   "example": "Teams pay to ingest records they discard as soon as they arrive.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "predictable",
+   "thai": "คาดการณ์ได้",
+   "level": "B2",
+   "example": "The embedded SQL engine keeps performance and resource use predictable.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concurrent",
+   "thai": "ที่เกิดขึ้นพร้อมกัน",
+   "level": "B2",
+   "example": "The card is built for handling larger contexts and more concurrent sessions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retrofit",
+   "thai": "การดัดแปลงติดตั้งอุปกรณ์ใหม่ในระบบเดิม",
+   "level": "C1",
+   "example": "Passive cooling ensures no liquid-cooling retrofit is needed in existing racks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sustain",
+   "thai": "รักษาไว้หรือประคับประคอง",
+   "level": "B2",
+   "example": "Keep agents resident to help sustain throughput across the agentic loop.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "procurement",
+   "thai": "การจัดซื้อจัดหา",
+   "level": "C1",
+   "example": "The team helped pioneer clean energy procurement for large corporate facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unprecedented",
+   "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+   "level": "B2",
+   "example": "Google deployed unprecedented amounts of renewable generation and battery storage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "catalyzing",
+   "thai": "การกระตุ้นหรือเร่งให้เกิดผล",
+   "level": "C1",
+   "example": "The program focused on catalyzing emerging technologies like geothermal and nuclear.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scramble",
+   "thai": "แย่งชิงหรือเร่งรีบแข่งขัน",
+   "level": "B2",
+   "example": "Multi-year grid queues have pushed capacity to its limit, leaving developers scrambling for available power.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pivot",
+   "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
+   "level": "B2",
+   "example": "Industry leaders must rethink traditional growth playbooks and pivot toward emerging regional hubs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "occupier",
+   "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
+   "level": "B2",
+   "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700424,
+ "tg_offset": 57700425,
  "polls": {
-  "6224137464286544530": {
-   "word": "audit",
-   "correct": 0
-  },
   "6224137464286544531": {
    "word": "rigor",
    "correct": 2
