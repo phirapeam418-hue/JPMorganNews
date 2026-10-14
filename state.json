@@ -6436,7 +6436,7 @@
    "thai": "เสริมสร้าง หรือสนับสนุน",
    "level": "C1",
    "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -7396,7 +7396,7 @@
    "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
    "level": "B2",
    "example": "Industry leaders must rethink traditional growth playbooks and pivot toward emerging regional hubs.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -7686,7 +7686,7 @@
    "thai": "รื้อถอน, ทำลาย",
    "level": "B2",
    "example": "The works will include demolishing existing structures and enabling works.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -7736,7 +7736,7 @@
    "thai": "การถูกเจาะระบบ, การทำให้เสียหาย",
    "level": "B2",
    "example": "Fashion brands have been caught up in a fresh wave of corporate data compromises.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -7836,7 +7836,7 @@
    "thai": "ความต้องการ",
    "level": "B2",
    "example": "Firmus canceled its IPO due to a lack of investor demand.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -8109,6 +8109,26 @@
   "6228485749306557973": {
    "word": "restructuring",
    "correct": 3
+  },
+  "6232989348933927697": {
+   "word": "demand",
+   "correct": 0
+  },
+  "6232989348933927698": {
+   "word": "bolster",
+   "correct": 2
+  },
+  "6232989348933927699": {
+   "word": "pivot",
+   "correct": 3
+  },
+  "6232989348933927700": {
+   "word": "demolishing",
+   "correct": 0
+  },
+  "6232989348933927701": {
+   "word": "compromise",
+   "correct": 1
   }
  },
  "fail": {},
