@@ -3521,11 +3521,13 @@
      "example": "to hold and independently capitalize the non-Nordic AI data center portfolio."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 86,
+   "sent_ts": "2026-10-14T13:03:33.503169+07:00"
   },
   {
    "id": 86,
@@ -3595,7 +3597,7 @@
      "example": "Building a network takes years of engineering and relentless execution."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 8,
@@ -3631,7 +3633,7 @@
      "example": "enabling scalable AI data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -3667,7 +3669,7 @@
      "example": "The facility will contribute to a more secure, resilient and sovereign digital infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
@@ -3703,7 +3705,7 @@
      "example": "Competition in AI infrastructure is shifting from GPU counts toward energy efficiency and upgradeability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 5,
@@ -3739,11 +3741,13 @@
      "example": "Power delivery is emerging as one of the critical constraints on how densely AI compute can scale."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 87,
+   "sent_ts": "2026-10-14T13:03:33.997592+07:00"
   },
   {
    "id": 92,
@@ -3851,11 +3855,13 @@
      "example": "Local power grids will struggle with the surging demand from new facilities."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 84,
+   "sent_ts": "2026-10-14T13:03:32.431010+07:00"
   },
   {
    "id": 95,
@@ -3887,11 +3893,13 @@
      "example": "Firms must act swiftly to remediate vulnerabilities after a breach."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 88,
+   "sent_ts": "2026-10-14T13:03:34.483422+07:00"
   },
   {
    "id": 96,
@@ -3923,7 +3931,7 @@
      "example": "Failed software projects can create a substantial budget deficit."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 4,
@@ -3959,11 +3967,13 @@
      "example": "Engineers are seeking a quick mitigation for the routing bug."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 89,
+   "sent_ts": "2026-10-14T13:03:34.981243+07:00"
   },
   {
    "id": 98,
@@ -3995,7 +4005,7 @@
      "example": "The audit found a significant discrepancy in the automated decisions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 6,
@@ -4031,7 +4041,7 @@
      "example": "VMware is pushing so many patches."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -4067,11 +4077,13 @@
      "example": "Code in here has access to a non-static string but assumes that it's a static string."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 90,
+   "sent_ts": "2026-10-14T13:03:35.476566+07:00"
   },
   {
    "id": 101,
@@ -4103,7 +4115,7 @@
      "example": "Separate uncertain readings from implausible values."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -4139,14 +4151,16 @@
      "example": "Wallets have been collectively depleted of approximately 93 million US dollars."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 9,
    "scale": 7,
    "credibility": 9,
    "extra_links": [
     "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/"
-   ]
+   ],
+   "msg_id": 85,
+   "sent_ts": "2026-10-14T13:03:32.925051+07:00"
   },
   {
    "id": 103,
@@ -4178,7 +4192,7 @@
      "example": "SkyWater has previously fabricated D-Wave’s Advantage2 processors at its Minnesotan facility."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -4214,11 +4228,13 @@
      "example": "AirTrunk has considered raising its REIT yield by 0.5 percentage points."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 91,
+   "sent_ts": "2026-10-14T13:03:35.970046+07:00"
   },
   {
    "id": 105,
@@ -4250,7 +4266,7 @@
      "example": "She will help build and scale the infrastructure behind its products."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 7,
    "scale": 5,
@@ -4286,7 +4302,7 @@
      "example": "AI is driving productivity in warehouses with autonomous forklifts and robotics."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
@@ -4398,7 +4414,7 @@
      "example": "Adapting modular builds satisfies insurers and safeguards service level agreements."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
@@ -4434,7 +4450,7 @@
      "example": "Musk accused critics of maintaining a monopolistic chokehold over the market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 8,
@@ -4470,7 +4486,7 @@
      "example": "Grid reliability issues included a large-scale voltage disturbance in July."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 8,
@@ -4506,7 +4522,7 @@
      "example": "By embedding Karman into Legrand’s power distribution products, operators can utilize stranded power immediately."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 6,
@@ -4542,7 +4558,7 @@
      "example": "The two companies signed an agreement to expand their respective AI data center businesses."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -4578,7 +4594,7 @@
      "example": "Currently, 15 of 17 international cables land within a six-kilometer stretch."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -4614,7 +4630,7 @@
      "example": "She expressed excitement to help turn ambitious vision and goals into reality."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -4650,7 +4666,7 @@
      "example": "The supplier prepares to reinforce the government's computing arsenal with new supercomputers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 8,
@@ -4724,7 +4740,7 @@
      "example": "Packaging technology is essential to the domestic production of advanced semiconductors."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
@@ -4760,7 +4776,7 @@
      "example": "The cybersecurity firm reached a multi-billion dollar valuation after its latest investment."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 8,
@@ -4796,7 +4812,7 @@
      "example": "Resilience under failure was a guiding tenet for the new infrastructure design."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -4832,7 +4848,7 @@
      "example": "The team introduced intermediate aggregation stages into the data pipeline."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 2,
    "scale": 7,
@@ -4868,7 +4884,7 @@
      "example": "Systems must remain resilient against unexpected prompt injection attacks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -4907,7 +4923,7 @@
      "example": "Increasing awareness and adoption, followed by increasing donations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -4943,7 +4959,7 @@
      "example": "FBI Director said protecting AI innovation is among the bureau's highest counterintelligence priorities."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -4979,7 +4995,7 @@
      "example": "The latent demand for merging code is practically infinite."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 6,
@@ -5018,7 +5034,7 @@
      "example": "Firefox Enterprise adds browser diversity to improve overall resilience."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -5054,7 +5070,7 @@
      "example": "Sectoral data from the agency confirms that industrial electricity consumption fell."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -5090,7 +5106,7 @@
      "example": "The platform avoids separate tools for data protection, replication, and multi-site management."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 7,
@@ -5126,7 +5142,7 @@
      "example": "Rather than passively waiting for user prompts, bots aim to be digital workers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -5162,7 +5178,7 @@
      "example": "Users can speak to the hub to control smart home accessories."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 5,
    "scale": 4,
@@ -5198,7 +5214,7 @@
      "example": "The cooling effect is accepted, but the global fallout is less certain."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 8,
@@ -6532,6 +6548,236 @@
    "thai": "คลังอาวุธหรือทรัพยากร",
    "level": "C1",
    "example": "The company added high-performance servers to its operational arsenal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proliferation",
+   "thai": "การแพร่ขยายอย่างรวดเร็ว",
+   "level": "C1",
+   "example": "The rapid proliferation of data centers threatens higher energy bills.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intervene",
+   "thai": "เข้าแทรกแซง, เข้ามาจัดการ",
+   "level": "B2",
+   "example": "European datacenter boom threatens higher energy bills unless governments intervene.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "surge",
+   "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "Local power grids will struggle with the surging demand from new facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intercept",
+   "thai": "ดักจับ",
+   "level": "B2",
+   "example": "Unknown individuals have succeeded in intercepting and manipulating the offline wallets.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "perpetrator",
+   "thai": "ผู้กระทำความผิด, อาชญากร",
+   "level": "C1",
+   "example": "This is exactly what the perpetrators are doing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deplete",
+   "thai": "ทำให้หมดสิ้น, สูญเสีย",
+   "level": "C1",
+   "example": "Wallets have been collectively depleted of approximately 93 million US dollars.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "demolishing",
+   "thai": "รื้อถอน, ทำลาย",
+   "level": "B2",
+   "example": "The works will include demolishing existing structures and enabling works.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conversion",
+   "thai": "การแปลงสภาพ",
+   "level": "B2",
+   "example": "According to Vivo, the data center conversion is being completed with the aim of capturing waste heat.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "independently",
+   "thai": "อย่างอิสระ",
+   "level": "B2",
+   "example": "to hold and independently capitalize the non-Nordic AI data center portfolio.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accelerate",
+   "thai": "เร่งความเร็ว",
+   "level": "B2",
+   "example": "VEIR raises $110 million Series C to accelerate commercialization of superconducting power delivery technology.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "constraint",
+   "thai": "ข้อจำกัด",
+   "level": "C1",
+   "example": "Power delivery is emerging as one of the critical constraints on how densely AI compute can scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compromise",
+   "thai": "การถูกเจาะระบบ, การทำให้เสียหาย",
+   "level": "B2",
+   "example": "Fashion brands have been caught up in a fresh wave of corporate data compromises.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incident",
+   "thai": "เหตุการณ์",
+   "level": "B2",
+   "example": "Researchers track these security incidents to highlight ongoing retail threats.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "remediate",
+   "thai": "แก้ไขเยียวยา",
+   "level": "C1",
+   "example": "Firms must act swiftly to remediate vulnerabilities after a breach.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "degrade",
+   "thai": "ลดประสิทธิภาพลง",
+   "level": "B2",
+   "example": "Recent network driver updates severely degrade IPv6 networking performance.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "throughput",
+   "thai": "ปริมาณงานที่ระบบประมวลผลได้",
+   "level": "C1",
+   "example": "Administrators are trying to restore expected network throughput.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mitigation",
+   "thai": "การบรรเทาปัญหา",
+   "level": "C1",
+   "example": "Engineers are seeking a quick mitigation for the routing bug.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unsoundness",
+   "thai": "ความไม่สมบูรณ์ทางตรรกะ, ข้อบกพร่อง",
+   "level": "C1",
+   "example": "11 year old unsoundness bugs found in Rust borrow checker.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bypass",
+   "thai": "หลีกเลี่ยง, ข้าม",
+   "level": "B2",
+   "example": "Struct's lifetime requirements can be bypassed via covariant field assignment.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "assumes",
+   "thai": "สันนิษฐาน, อนุमान",
+   "level": "B2",
+   "example": "Code in here has access to a non-static string but assumes that it's a static string.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "volatility",
+   "thai": "ความผันผวน",
+   "level": "C1",
+   "example": "AirTrunk plans to push its initial public offering into 2027 due to high interest rates and market volatility.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "demand",
+   "thai": "ความต้องการ",
+   "level": "B2",
+   "example": "Firmus canceled its IPO due to a lack of investor demand.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "yield",
+   "thai": "ผลตอบแทนจากการลงทุน",
+   "level": "C1",
+   "example": "AirTrunk has considered raising its REIT yield by 0.5 percentage points.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
