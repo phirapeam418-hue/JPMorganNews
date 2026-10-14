@@ -432,7 +432,31 @@
   "https://github.com/bealesh/neckbeard",
   "https://petal.live/",
   "https://www.kenklippenstein.com/p/how-the-military-will-hack-the-election",
-  "https://frankforce.com/littlejs-is-2d-and-3d-now/"
+  "https://frankforce.com/littlejs-is-2d-and-3d-now/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-powering-data-centers-at-scale-with-hans-obermillacher-panduit/",
+  "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+  "https://www.theregister.com/offbeat/2026/10/14/chaos-ensues-when-ai-interviewer-meets-ai-interviewee/5303144",
+  "https://www.theregister.com/ai-and-ml/2026/10/14/linux-kernel-devs-drop-obligatory-confession-of-ai-tool-usage/5303140",
+  "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+  "https://blog.cloudflare.com/yandex-outage/",
+  "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+  "https://anoma.ly/notes/opencode-2-0/",
+  "https://typesafe.ai/blog/jev-1-14",
+  "https://tinylittleoffice.com/",
+  "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+  "https://mapwriting.substack.com/p/dentists",
+  "https://nytpu.com/gemlog/2026-03-18",
+  "https://sunshowers.io/posts/anthropic-mononoke/",
+  "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+  "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+  "https://arstechnica.com/gaming/2026/10/programming-is-hard-epic-games-leans-on-vibe-coding-for-its-new-launcher-app/",
+  "https://arstechnica.com/gadgets/2026/10/nato-may-redeploy-anti-drone-defenses-as-attacks-sink-more-black-sea-shipping/",
+  "https://arstechnica.com/space/2026/10/nasas-embattled-venus-missions-are-back-on-track-after-cancellation-threat/",
+  "https://arstechnica.com/tech-policy/2026/10/schools-libraries-plead-with-fcc-to-scrap-idea-of-killing-2b-broadband-program/",
+  "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
+  "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+  "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
+  "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
  ],
  "stories": [
   {
@@ -6887,9 +6911,261 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 6
+  },
+  {
+   "id": 176,
+   "ts": "2026-10-15T05:49:47.492194+07:00",
+   "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
+   "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "An actively exploited zero-day privilege escalation vulnerability affecting Cisco enterprise appliances.",
+   "summary": "Attackers are actively exploiting a zero-day vulnerability in Cisco email security appliances to gain root access. Both Cisco and CISA have issued urgent warnings requiring immediate patching and network defense audits.",
+   "vocab": [
+    {
+     "word": "crims",
+     "thai": "อาชญากร (คำสแลง)",
+     "level": "C2",
+     "example": "Cisco make-me-root email bug exploited as a 0-day by unknown crims."
+    },
+    {
+     "word": "exploited",
+     "thai": "ถูกใช้ประโยชน์ในทางมิชอบหรือเจาะระบบ",
+     "level": "B2",
+     "example": "A critical vulnerability was exploited as a 0-day in wild attacks."
+    },
+    {
+     "word": "sound the alarm",
+     "thai": "ส่งสัญญาณเตือนภัยเร่งด่วน",
+     "level": "B2",
+     "example": "Both Switchzilla and CISA sound the alarm over the flaw."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 177,
+   "ts": "2026-10-15T05:49:47.492285+07:00",
+   "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
+   "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Security researchers utilized AI agents to uncover a significant browser exploit affecting a vast user base.",
+   "summary": "Security researchers at Xbow received a $250,000 bounty after demonstrating a browser vulnerability impacting over one billion users. The team used automated AI workflows to discover the flaw in under a week.",
+   "vocab": [
+    {
+     "word": "bounty",
+     "thai": "เงินรางวัลตอบแทนสำหรับการค้นหาช่องโหว่",
+     "level": "B2",
+     "example": "Xbow earned a $250K bug bounty for their security work."
+    },
+    {
+     "word": "lousy",
+     "thai": "แย่มากหรือไร้ค่า",
+     "level": "C1",
+     "example": "All the AI model got was a lousy t-shirt."
+    },
+    {
+     "word": "exploit",
+     "thai": "โค้ดหรือวิธีการเจาะระบบ",
+     "level": "B2",
+     "example": "Researchers spent 6 days doing their work and built an exploit."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 178,
+   "ts": "2026-10-15T05:49:47.492301+07:00",
+   "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+   "link": "https://blog.cloudflare.com/yandex-outage/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": true,
+   "reason": "Detailed network and cloud outage analysis following physical strikes on major Russian data center infrastructure.",
+   "summary": "Drone attacks on Yandex data centers caused severe disruptions, dropping network traffic by up to 99 percent across their search and cloud ASNs. Cloudflare traffic analysis revealed that malicious bot traffic did not cease, but instead rapidly migrated to other cloud hosts.",
+   "vocab": [
+    {
+     "word": "plummeted",
+     "thai": "ดิ่งลงฮวบอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Traffic plummeted to 99% below baseline for Yandex Search."
+    },
+    {
+     "word": "culminated",
+     "thai": "ถึงจุดสูงสุดหรือลงเอยที่จุดสำคัญ",
+     "level": "C1",
+     "example": "This culminated in a near-total collapse of the Yandex network on October 11."
+    },
+    {
+     "word": "migrated",
+     "thai": "ย้ายตำแหน่งหรือถ่ายโอนไปยังระบบอื่น",
+     "level": "B2",
+     "example": "High-volume automation simply migrated to other hosting providers."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 179,
+   "ts": "2026-10-15T05:49:47.492345+07:00",
+   "title": "OpenCode 2.0",
+   "link": "https://anoma.ly/notes/opencode-2-0/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "A major architectural update to an AI-assisted development and orchestration platform used by engineers.",
+   "summary": "OpenCode has launched version 2.0 with an overhauled background client-server architecture and an embedded JavaScript interpreter. The release simplifies local tool composition and supports asynchronous background agents for complex coding workflows.",
+   "vocab": [
+    {
+     "word": "overhaul",
+     "thai": "การยกเครื่องหรือปรับปรุงระบบครั้งใหญ่",
+     "level": "C1",
+     "example": "OpenCode 2.0 is a major overhaul of the agent framework."
+    },
+    {
+     "word": "haphazardly",
+     "thai": "อย่างไม่เป็นระเบียบหรือส่งเดช",
+     "level": "C1",
+     "example": "The old API grew haphazardly as we learned what agents should be."
+    },
+    {
+     "word": "orchestration",
+     "thai": "การจัดการควบคุมระบบงานประสานกันอย่างมีระบบ",
+     "level": "C1",
+     "example": "The latest batch of models are incredibly good at task orchestration."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 180,
+   "ts": "2026-10-15T05:50:26.107196+07:00",
+   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
+   "link": "https://typesafe.ai/blog/jev-1-14",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Releases experimental API features and multimodality updates for an AI model, relevant to AI infrastructure developers.",
+   "summary": "An AI firm released a new version of its model with experimental features like image support and bounding boxes. These features are placed in a danger zone because they are less reliable for production automation.",
+   "vocab": [
+    {
+     "word": "multimodality",
+     "thai": "ความสามารถในการประมวลผลข้อมูลหลายรูปแบบ (เช่น ข้อความและภาพ)",
+     "level": "C1",
+     "example": "Not only are we enabling multimodality for future Jev models, we're enabling it for the current Jev."
+    },
+    {
+     "word": "decomposition",
+     "thai": "การแยกย่อยปัญหาออกเป็นส่วนเล็กๆ",
+     "level": "C1",
+     "example": "Breaking down questions into the simplest possible decompositions helps a lot."
+    },
+    {
+     "word": "reliability",
+     "thai": "ความน่าเชื่อถือและความเสถียรของระบบ",
+     "level": "B2",
+     "example": "A huge debate we've been having is on the balance between reliability and creativity."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 181,
+   "ts": "2026-10-15T05:50:26.107250+07:00",
+   "title": "Passkeys are not a trap",
+   "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses security mechanics, passkeys, and attestation standards relevant to authentication systems.",
+   "summary": "An analysis refutes claims that passkeys are a trap designed to lock users into strict operating systems. It explains that standard consumer passkeys do not send hardware attestation data to websites.",
+   "vocab": [
+    {
+     "word": "attestation",
+     "thai": "การรับรองความถูกต้องของฮาร์ดแวร์หรือซอฟต์แวร์ด้วยใบรับรองดิจิทัล",
+     "level": "C1",
+     "example": "The post makes what appears to be one central claim: Passkeys support something called attestation."
+    },
+    {
+     "word": "cryptographic",
+     "thai": "เกี่ยวกับการเข้ารหัสลับ",
+     "level": "C1",
+     "example": "It lets a website ask for cryptographic proof of what made the passkey."
+    },
+    {
+     "word": "vendor",
+     "thai": "ผู้ขายหรือผู้ผลิตผลิตภัณฑ์",
+     "level": "B2",
+     "example": "With a certificate chain from the vendor to back it up."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 182,
+   "ts": "2026-10-15T05:50:26.107356+07:00",
+   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Reports a major operational security incident affecting hundreds of commercial refrigeration and IoT systems, directly concerning infrastructure security.",
+   "summary": "Poor cybersecurity practices allowed attackers to hack internet-connected controllers across hundreds of supermarkets in France. The attackers raised refrigeration temperatures, causing food spoilage and electrical fires.",
+   "vocab": [
+    {
+     "word": "spoilage",
+     "thai": "การเน่าเสียของอาหารหรือสินค้า",
+     "level": "C1",
+     "example": "Causing spoilage of untold tons of perishables and, in some cases, fires."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อนหรือช่องโหว่ด้านความปลอดภัย",
+     "level": "B2",
+     "example": "Contained critical vulnerabilities that allow attackers to remotely log in."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ (เช่น ชื่อผู้ใช้และรหัสผ่าน)",
+     "level": "B2",
+     "example": "Danfoss controllers used a credential that changes each day."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 176,
+ "next_id": 183,
  "vocab": [
   {
    "word": "commissioning",
