@@ -359,7 +359,19 @@
   "https://arstechnica.com/gadgets/2026/10/skydances-discovery-prices-increase-by-up-to-20-percent/",
   "https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/",
   "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
-  "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+  "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+  "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943",
+  "https://www.theregister.com/public-sector/2026/10/13/cisa-director-touts-private-partnerships-after-agency-killed-many/5302920",
+  "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+  "https://pulseos.finance",
+  "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+  "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+  "https://blumify.io/people",
+  "https://www.cphiri.dev/presentations/recreational-programming",
+  "https://lab.specr.net/rigged-draw/",
+  "https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/",
+  "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+  "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/"
  ],
  "stories": [
   {
@@ -4310,11 +4322,13 @@
      "example": "DCD has reached out for clarification on how this differs from other zones."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 80,
+   "sent_ts": "2026-10-14T09:33:55.961350+07:00"
   },
   {
    "id": 108,
@@ -4346,11 +4360,13 @@
      "example": "Platforms are designed for today’s increasingly distributed and data-intensive computing environments."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 81,
+   "sent_ts": "2026-10-14T09:33:56.581155+07:00"
   },
   {
    "id": 109,
@@ -4670,11 +4686,13 @@
      "example": "The company added high-performance servers to its operational arsenal."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 5,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 82,
+   "sent_ts": "2026-10-14T09:33:57.241012+07:00"
   },
   {
    "id": 118,
@@ -4965,7 +4983,10 @@
    "impact": 7,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943"
+   ]
   },
   {
    "id": 126,
@@ -5074,9 +5095,117 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 129,
+   "ts": "2026-10-14T09:35:36.720232+07:00",
+   "title": "OpenAI's dot assistant burned 300K+ tokens in a day without a single prompt",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/openais-dot-assistant-burned-300k-tokens-in-a-day-without-a-single-prompt/5302913",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Autonomous AI agents consuming hundreds of thousands of tokens unprompted highlight cost and resource control risks.",
+   "summary": "Testing revealed that OpenAI's experimental autonomous agent consumed over 300,000 tokens in a single day without any user prompts. Infrastructure teams managing AI systems must carefully monitor autonomous agents to prevent runaway API expenses and unmonitored queries.",
+   "vocab": [
+    {
+     "word": "survey",
+     "thai": "สำรวจหรือตรวจสอบภาพรวม",
+     "level": "B2",
+     "example": "The bot quickly went into research mode, collecting data and surveying systems."
+    },
+    {
+     "word": "akin",
+     "thai": "คล้ายคลึงหรือเปรียบเสมือน",
+     "level": "C1",
+     "example": "The agent collects all of these data points into something akin to a daily journal entry."
+    },
+    {
+     "word": "passively",
+     "thai": "อย่างตั้งรับหรือไม่โต้ตอบ",
+     "level": "B2",
+     "example": "Rather than passively waiting for user prompts, bots aim to be digital workers."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 130,
+   "ts": "2026-10-14T09:37:17.682989+07:00",
+   "title": "Apple’s first smart display is the 7-inch HomeView for $299",
+   "link": "https://arstechnica.com/apple/2026/10/apple-homeview-smart-home-hub-opens-for-preorders-at-299/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "This is consumer smart home hardware, which has no relevance to enterprise data centers or servers.",
+   "summary": "Apple has opened preorders for its new 7-inch HomeView smart display and home hub. The device integrates with Apple Intelligence and manages smart home accessories.",
+   "vocab": [
+    {
+     "word": "simultaneously",
+     "thai": "พร้อมๆ กัน",
+     "level": "B2",
+     "example": "HomeView can show a livestream for up to nine video feeds simultaneously."
+    },
+    {
+     "word": "integrated",
+     "thai": "ที่รวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "HomeView uses its integrated camera to identify who is using it."
+    },
+    {
+     "word": "accessory",
+     "thai": "อุปกรณ์เสริม",
+     "level": "B2",
+     "example": "Users can speak to the hub to control smart home accessories."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 5,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 131,
+   "ts": "2026-10-14T09:37:17.683034+07:00",
+   "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+   "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "This is a climate change and geoengineering simulation report, interesting for macro trends but not direct data center operations.",
+   "summary": "Researchers and officials recently took part in a simulation to test geopolitical responses to solar radiation modification. The speculative technology aims to cool the planet by reflecting sunlight, but carries severe unknown risks.",
+   "vocab": [
+    {
+     "word": "speculative",
+     "thai": "ที่เป็นการคาดเดา",
+     "level": "C1",
+     "example": "Solar radiation modification was long a speculative niche of climate science."
+    },
+    {
+     "word": "convene",
+     "thai": "ประชุมร่วมกัน",
+     "level": "C1",
+     "example": "Foreign-relations experts and scientists convened in a meeting room in London."
+    },
+    {
+     "word": "fallout",
+     "thai": "ผลกระทบอันไม่พึงประสงค์",
+     "level": "C1",
+     "example": "The cooling effect is accepted, but the global fallout is less certain."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
   }
  ],
- "next_id": 129,
+ "next_id": 132,
  "vocab": [
   {
    "word": "commissioning",
@@ -6333,6 +6462,76 @@
    "thai": "การเปิดเผย, การรั่วไหล",
    "level": "B2",
    "example": "The data breach led to widespread exposure of personal information.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deployment",
+   "thai": "การนำไปใช้งานจริง",
+   "level": "C1",
+   "example": "Scaleway has revealed plans to deploy GPU capacity in Copenhagen and Sweden.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "milestone",
+   "thai": "เหตุการณ์สำคัญ",
+   "level": "B2",
+   "example": "Doing it from Sweden makes this milestone particularly meaningful.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "clarification",
+   "thai": "การชี้แจงเพิ่มเติม",
+   "level": "C1",
+   "example": "DCD has reached out for clarification on how this differs from other zones.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "portfolio",
+   "thai": "กลุ่มผลิตภัณฑ์หรือบริการ",
+   "level": "B2",
+   "example": "Microchip has expanded its data center solutions portfolio.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resiliency",
+   "thai": "ความยืดหยุ่นและการฟื้นตัวเร็ว",
+   "level": "C1",
+   "example": "Self-encrypting drives were added for increased resiliency and security.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "phishing",
+   "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูล",
+   "level": "B2",
+   "example": "Attackers disguised as technical support launched phishing attacks to steal credentials.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arsenal",
+   "thai": "คลังอาวุธหรือทรัพยากร",
+   "level": "C1",
+   "example": "The company added high-performance servers to its operational arsenal.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
