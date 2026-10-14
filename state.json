@@ -384,7 +384,31 @@
   "https://felixrieseberg.com/",
   "https://kristaps.bsd.lv/kcgi/",
   "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-  "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/"
+  "https://marcpaul.io/logs/same-job-two-engines-innodb-and-iceberg-internals/",
+  "https://www.datacenterdynamics.com/en/whitepapers/new-standards-new-era/",
+  "https://www.datacenterdynamics.com/en/news/iurc-approves-aes-indiana-plan-for-13bn-solar-storage-and-transmission-project-for-google-data-center-in-monrovia/",
+  "https://www.datacenterdynamics.com/en/news/iren-targets-900mw-data-center-campus-in-wagga-wagga-australia/",
+  "https://www.datacenterdynamics.com/en/news/orange-and-equitix-join-pisces-subsea-cable-consortium/",
+  "https://www.datacenterdynamics.com/en/news/soluna-files-to-build-112mw-data-center-building-in-willacy-texas/",
+  "https://www.datacenterdynamics.com/en/news/u-mobile-partners-with-hlgy-energy-to-deploy-5g-supported-smart-solar-farms-across-malaysia/",
+  "https://www.datacenterdynamics.com/en/news/submer-partners-with-bsnl-for-data-center-development-in-india/",
+  "https://www.datacenterdynamics.com/en/news/colt-relativity-networks-nps-deliver-hollow-core-fiber-proof-of-concept-on-london-network/",
+  "https://www.datacenterdynamics.com/en/news/digi-power-x-secures-200m-in-debt-financing-for-alabama-data-center-project/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-acquires-600-acres-of-land-for-data-center-in-woodward-iowa/",
+  "https://www.datacenterdynamics.com/en/news/thailands-gulf-sets-up-new-data-center-focused-holding-company/",
+  "https://www.datacenterdynamics.com/en/news/uk-based-ai-infrastructure-gorilla-technology-group-to-enter-us-market-with-proposed-6mw-data-center-acquisition/",
+  "https://www.datacenterdynamics.com/en/news/aether-infrastructure-buys-old-gearbox-factory-in-strasbourg-france-for-ai-data-center/",
+  "https://www.datacenterdynamics.com/en/news/oregon-govenor-tina-kotek-asks-state-environmental-regulator-to-pause-permits-introducing-de-facto-data-center-moratorium/",
+  "https://www.datacenterdynamics.com/en/news/sberbank-data-center-in-russia-struck-by-ukrainian-military/",
+  "https://www.theregister.com/os-platforms/2026/10/14/tiny11-puts-windows-11-on-a-diet-without-the-powershell-workout/5303034",
+  "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
+  "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+  "https://www.theregister.com/devops/2026/10/14/python-315-goes-global-with-utf-8-support/5302966",
+  "https://www.theregister.com/offbeat/2026/10/14/welcome-to-the-lovely-landlocked-land-of-luxembork-where-the-fares-are-free-and-the-terminals-are-techno/5301418",
+  "https://www.theregister.com/channel/2026/10/14/kpmg-tech-and-data-boss-tells-staff-facing-the-boot-hes-getting-promoted/5302761",
+  "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000",
+  "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856",
+  "https://blog.cloudflare.com/hyperdrive-mysql/"
  ],
  "stories": [
   {
@@ -4976,7 +5000,10 @@
    "impact": 6,
    "urgency": 4,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000"
+   ]
   },
   {
    "id": 125,
@@ -5345,7 +5372,8 @@
    "extra_links": [
     "https://www.theregister.com/public-sector/2026/10/14/uk-government-chases-ai-while-aging-it-leaves-it-exposed-pac-chair-warns/5302674",
     "https://www.theregister.com/columnists/2026/10/14/it-wont-kill-you-or-humanity-to-get-off-the-ai-upgrade-treadmill/5301778",
-    "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939"
+    "https://www.theregister.com/cyber-crime/2026/10/14/ransomware-gets-personal-we-know-where-you-are-kind-of-stuff/5302939",
+    "https://www.theregister.com/on-prem/2026/10/14/the-ai-math-isnt-mathing-as-infrastructure-spending-forecast-to-outstrip-expected-revenue/5302856"
    ]
   },
   {
@@ -5529,9 +5557,739 @@
    "urgency": 5,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 140,
+   "ts": "2026-10-14T21:47:50.961731+07:00",
+   "title": "New standards. New era.",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/new-standards-new-era/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Outlines industry standards for secure IT asset disposal and data sanitization.",
+   "summary": "The guide compares NIST SP 800-88r2 and IEEE 2883-2022 standards for sanitizing modern storage devices. It helps organizations safely erase sensitive data while supporting sustainability and compliance goals.",
+   "vocab": [
+    {
+     "word": "sanitize",
+     "thai": "ทำให้สะอาด, ลบข้อมูลอย่างปลอดภัย",
+     "level": "C1",
+     "example": "Organizations need to understand how to sanitize different storage devices securely."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับข้อบังคับของกฎหมาย",
+     "level": "B2",
+     "example": "Assess data classification, device type, and regulatory requirements before choosing a method."
+    },
+    {
+     "word": "classification",
+     "thai": "การจัดประเภท",
+     "level": "B2",
+     "example": "Assess data classification and risk when choosing a sanitization method."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 141,
+   "ts": "2026-10-14T21:47:50.961786+07:00",
+   "title": "IURC approves AES Indiana plan for $1.3bn solar, storage, and transmission project for Google data center in Monrovia",
+   "link": "https://www.datacenterdynamics.com/en/news/iurc-approves-aes-indiana-plan-for-13bn-solar-storage-and-transmission-project-for-google-data-center-in-monrovia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts data center power infrastructure with a major utility-scale renewable energy project for Google.",
+   "summary": "Regulators approved a $1.3 billion solar and battery project funded entirely by Google to power a new data center in Indiana. The agreement protects regular ratepayers from cost increases under a new state law.",
+   "vocab": [
+    {
+     "word": "transmission",
+     "thai": "การส่ง (กระแสไฟฟ้าหรือสัญญาณ)",
+     "level": "B2",
+     "example": "AES Indiana will construct a solar and transmission project to power a Google data center."
+    },
+    {
+     "word": "statutory",
+     "thai": "ตามข้อบัญญัติของกฎหมาย",
+     "level": "C1",
+     "example": "Not only does this agreement satisfy the statutory requirement, it exceeds it substantially."
+    },
+    {
+     "word": "substation",
+     "thai": "สถานีไฟฟ้าย่อย",
+     "level": "C1",
+     "example": "A 10-mile power line connects the project to an on-site substation near the data center."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 94,
+   "sent_ts": "2026-10-14T21:47:51.616964+07:00"
+  },
+  {
+   "id": 142,
+   "ts": "2026-10-14T21:47:51.617242+07:00",
+   "title": "Iren targets 900MW data center campus in Wagga Wagga, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/iren-targets-900mw-data-center-campus-in-wagga-wagga-australia/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Details massive new global AI and cloud data center campus plans with substantial power requirements.",
+   "summary": "Iren announced plans for a massive 900MW data center campus in New South Wales, Australia, targeting a grid connection by 2029. The multi-billion dollar project will feature closed-loop cooling and dedicated renewable energy.",
+   "vocab": [
+    {
+     "word": "stimulus",
+     "thai": "สิ่งกระตุ้น",
+     "level": "C1",
+     "example": "Redbank has the potential to create local jobs and economic stimulus for the area."
+    },
+    {
+     "word": "allude",
+     "thai": "กล่าวถึงเป็นนัย",
+     "level": "C2",
+     "example": "The company alluded to a potential expansion to Australia earlier this year."
+    },
+    {
+     "word": "renderings",
+     "thai": "ภาพจำลองทางสถาปัตยกรรม",
+     "level": "B2",
+     "example": "Site renderings suggest at least four buildings of varying sizes and an on-site substation."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 143,
+   "ts": "2026-10-14T21:47:51.617274+07:00",
+   "title": "Orange and Equitix join Pisces subsea cable consortium",
+   "link": "https://www.datacenterdynamics.com/en/news/orange-and-equitix-join-pisces-subsea-cable-consortium/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Important subsea cable networking news linking Ireland and continental Europe to support growing AI traffic.",
+   "summary": "Orange and Equitix joined a joint venture to deploy the Pisces subsea cable connecting Ireland to France, Spain, and Portugal. The high-capacity network aims to improve European digital resilience and support AI workloads.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทร่วมทุน",
+     "level": "C1",
+     "example": "Orange has joined a consortium to deploy a new subsea cable linking Ireland to Europe."
+    },
+    {
+     "word": "continental",
+     "thai": "เกี่ยวกับทวีปใหญ่",
+     "level": "B2",
+     "example": "The project will establish a direct digital connection between Ireland and continental Europe."
+    },
+    {
+     "word": "stakeholder",
+     "thai": "ผู้มีส่วนได้ส่วนเสีย",
+     "level": "B2",
+     "example": "Building trusted routes in partnership with like-minded stakeholders is the backbone of Europe's future."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 144,
+   "ts": "2026-10-14T21:47:51.617298+07:00",
+   "title": "Soluna files to build 112MW data center building in Willacy, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/soluna-files-to-build-112mw-data-center-building-in-willacy-texas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers significant new data center construction plans tied to renewable energy in Texas.",
+   "summary": "Soluna filed plans to build a 112MW data center in Willacy, Texas, as an extension of its renewable-powered computing projects. The privately funded facility will sit adjacent to clean energy generation assets.",
+   "vocab": [
+    {
+     "word": "stipulate",
+     "thai": "ระบุเงื่อนไข",
+     "level": "C1",
+     "example": "The filing stipulates that the data center will cost approximately $471.8 million to construct."
+    },
+    {
+     "word": "adjoining",
+     "thai": "ติดกัน, อยู่ติดกับ",
+     "level": "B2",
+     "example": "The campus is expected to sit adjacent to two other projects on the site."
+    },
+    {
+     "word": "definitive",
+     "thai": "ที่เป็นขั้นสุดท้าย, แน่ชัด",
+     "level": "C1",
+     "example": "Soluna subsequently confirmed that a definitive joint venture agreement was signed."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 145,
+   "ts": "2026-10-14T21:47:51.617321+07:00",
+   "title": "U Mobile partners with HLGY Energy to deploy 5G-supported smart solar farms across Malaysia",
+   "link": "https://www.datacenterdynamics.com/en/news/u-mobile-partners-with-hlgy-energy-to-deploy-5g-supported-smart-solar-farms-across-malaysia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Explores telecom networking infrastructure and automation applications for smart solar energy farms.",
+   "summary": "U Mobile partnered with HLGY Energy to use 5G networks and AI for monitoring and managing solar farms in Malaysia. The collaboration aims to enable automated drone inspections and digital monitoring of electrical equipment.",
+   "vocab": [
+    {
+     "word": "autonomous",
+     "thai": "ทำงานได้เองโดยอัตโนมัติ",
+     "level": "B2",
+     "example": "This collaboration will enable automated drone inspections and smart CCTV surveillance."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวัง, การสอดส่อง",
+     "level": "B2",
+     "example": "The partnership will focus on utilizing drones and AI-powered surveillance systems."
+    },
+    {
+     "word": "inverter",
+     "thai": "เครื่องแปลงกระแสไฟฟ้า",
+     "level": "C1",
+     "example": "U Mobile will track the performance of solar inverters and photovoltaic arrays."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 146,
+   "ts": "2026-10-14T21:47:51.617345+07:00",
+   "title": "Submer partners with BSNL for data center development in India",
+   "link": "https://www.datacenterdynamics.com/en/news/submer-partners-with-bsnl-for-data-center-development-in-india/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Focuses on sovereign AI cloud infrastructure and edge data center development in India.",
+   "summary": "Submer partnered with Indian telco BSNL to explore developing sovereign, AI-ready data centers and edge infrastructure across India. The initiative evaluates transforming existing telecom real estate into distributed computing hubs.",
+   "vocab": [
+    {
+     "word": "sovereign",
+     "thai": "ที่เป็นอิสระ, ที่เป็นของรัฐชาติ",
+     "level": "C1",
+     "example": "The companies agreed to explore the development of sovereign, AI-ready data center infrastructure."
+    },
+    {
+     "word": "suitability",
+     "thai": "ความเหมาะสม",
+     "level": "B2",
+     "example": "The firms will evaluate the suitability of existing premises for transformation into edge infrastructure."
+    },
+    {
+     "word": "distributed",
+     "thai": "แบบกระจายศูนย์",
+     "level": "B2",
+     "example": "The project aims to build distributed Edge infrastructure to support digital priorities."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 147,
+   "ts": "2026-10-14T21:47:51.617369+07:00",
+   "title": "Colt, Relativity Networks, NPS deliver hollow-core fiber proof of concept on London network",
+   "link": "https://www.datacenterdynamics.com/en/news/colt-relativity-networks-nps-deliver-hollow-core-fiber-proof-of-concept-on-london-network/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights cutting-edge networking technology (hollow-core fiber) that significantly reduces latency for data center workloads.",
+   "summary": "Colt, Relativity Networks, and NPS successfully tested hollow-core fiber networking in central London, achieving lower latency. The air-filled fiber technology is designed to accelerate demanding AI, cloud, and financial workloads.",
+   "vocab": [
+    {
+     "word": "latency",
+     "thai": "ความหน่วงของเวลาในการส่งข้อมูล",
+     "level": "C1",
+     "example": "ChronoCore HCF is tipped to reduce latency by around 30 percent."
+    },
+    {
+     "word": "dispersion",
+     "thai": "การกระจายตัว",
+     "level": "C1",
+     "example": "The design allows for higher capacity with minimized chromatic dispersion."
+    },
+    {
+     "word": "transformational",
+     "thai": "ที่เปลี่ยนแปลงไปในทางที่ดีขึ้นอย่างมาก",
+     "level": "C1",
+     "example": "Hollow core fiber is seen as a potentially transformational upgrade from traditional fiber."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 148,
+   "ts": "2026-10-14T21:48:02.890644+07:00",
+   "title": "Digi Power X secures $200m in debt financing for Alabama data center project",
+   "link": "https://www.datacenterdynamics.com/en/news/digi-power-x-secures-200m-in-debt-financing-for-alabama-data-center-project/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Securing significant debt financing allows the 40MW Alabama data center project to proceed for AI workloads.",
+   "summary": "Digi Power X has secured $200 million in debt financing to build a 40MW AI data center in Alabama. The facility, fully leased by Cerebras, aims to complete its phases by early 2027.",
+   "vocab": [
+    {
+     "word": "syndicated",
+     "thai": "ที่ร่วมกันปล่อยกู้โดยสถาบันการเงินหลายแห่ง",
+     "level": "C1",
+     "example": "The funding has been syndicated by Goldman Sachs and is being provided by a major lending institution."
+    },
+    {
+     "word": "moratorium",
+     "thai": "คำสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "Plans have been impacted by a local data center moratorium signed into law in June 2026."
+    },
+    {
+     "word": "incrementally",
+     "thai": "ทีละน้อย, เพิ่มขึ้นทีละส่วน",
+     "level": "C1",
+     "example": "Phase two will deliver 25MW incrementally for a total capacity of 40MW."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 149,
+   "ts": "2026-10-14T21:48:02.890685+07:00",
+   "title": "Microsoft acquires 600 acres of land for data center in Woodward, Iowa",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-acquires-600-acres-of-land-for-data-center-in-woodward-iowa/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft's massive land acquisition in Iowa indicates future cloud and storage data center expansion.",
+   "summary": "Microsoft bought 600 acres of land in Iowa for a future cloud and data center campus, though construction is still years away. The project faced some local pushback from residents during public meetings.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การได้มาซึ่งทรัพย์สินหรือกิจการ",
+     "level": "B2",
+     "example": "Microsoft has acquired 600 acres of land for a potential data center campus."
+    },
+    {
+     "word": "ordinance",
+     "thai": "เทศบัญญัติ, กฎหมายท้องถิ่น",
+     "level": "C1",
+     "example": "The council waived the usual additional readings of the ordinance."
+    },
+    {
+     "word": "undecided",
+     "thai": "ยังไม่ได้ตัดสินใจ",
+     "level": "B2",
+     "example": "While the land was acquired for a campus, plans remain largely undecided."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 150,
+   "ts": "2026-10-14T21:48:02.890713+07:00",
+   "title": "Thailand’s Gulf sets up new data center-focused holding company",
+   "link": "https://www.datacenterdynamics.com/en/news/thailands-gulf-sets-up-new-data-center-focused-holding-company/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Gulf's new holding company structure supports major multi-megawatt data center developments in Southeast Asia.",
+   "summary": "Thai energy firm Gulf has established a new holding company specifically to manage its growing data center investments. The firm is partnering with major tech giants like Google and Microsoft for regional expansions.",
+   "vocab": [
+    {
+     "word": "holding company",
+     "thai": "บริษัทโฮลดิ้ง (บริษัทแม่ที่ถือหุ้นในบริษัทอื่น)",
+     "level": "B2",
+     "example": "Thai energy company Gulf has set up a new holding company for its data center investments."
+    },
+    {
+     "word": "established",
+     "thai": "ก่อตั้งขึ้น, ที่ได้รับการยอมรับ",
+     "level": "B2",
+     "example": "The newly established GEDC will take a 70 percent stake in the project."
+    },
+    {
+     "word": "stake",
+     "thai": "สัดส่วนการถือหุ้น",
+     "level": "B2",
+     "example": "To date, the company has invested in data centers through GSA Holdings Limited and holds stakes in multiple projects."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 151,
+   "ts": "2026-10-14T21:48:02.890738+07:00",
+   "title": "UK-based AI infrastructure firm Gorilla Technology Group to enter US market with proposed 6MW data center acquisition",
+   "link": "https://www.datacenterdynamics.com/en/news/uk-based-ai-infrastructure-gorilla-technology-group-to-enter-us-market-with-proposed-6mw-data-center-acquisition/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Gorilla Technology's US market entry targets 100MW of AI infrastructure capacity.",
+   "summary": "UK-based Gorilla Technology is acquiring an operational 6MW colocation facility to anchor its entry into the US market. The company plans to scale the site's capacity to 36MW to support next-generation GPUs.",
+   "vocab": [
+    {
+     "word": "timetable",
+     "thai": "กำหนดเวลา, ตารางเวลา",
+     "level": "B2",
+     "example": "The company has obtained written support for another 30MW with an 18-month delivery timetable."
+    },
+    {
+     "word": "objective",
+     "thai": "เป้าหมาย, วัตถุประสงค์",
+     "level": "B2",
+     "example": "Our objective is to control more of the infrastructure stack supporting our customers."
+    },
+    {
+     "word": "evaluation",
+     "thai": "การประเมินผล",
+     "level": "B2",
+     "example": "The deal is subject to due diligence, including infrastructure assessment and evaluation."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 152,
+   "ts": "2026-10-14T21:48:02.890759+07:00",
+   "title": "Aether Infrastructure buys old gearbox factory in Strasbourg, France, for AI data center",
+   "link": "https://www.datacenterdynamics.com/en/news/aether-infrastructure-buys-old-gearbox-factory-in-strasbourg-france-for-ai-data-center/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "European consortium acquires an industrial site for a major AI data center and modular manufacturing hub.",
+   "summary": "Aether Infrastructures has agreed to buy a former gearbox factory in France to build a 25MW AI data center and module assembly plant. The project forms part of broader European efforts to boost local supercomputing capacity.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทที่ร่วมทุนกัน",
+     "level": "C1",
+     "example": "French AI consortium Aether Infrastructures has agreed to buy a site in Strasbourg."
+    },
+    {
+     "word": "prefabricated",
+     "thai": "ที่สร้างสำเร็จรูปมาจากโรงงาน",
+     "level": "C1",
+     "example": "The prefabricated modules will then be deployed on the site."
+    },
+    {
+     "word": "disclosed",
+     "thai": "เปิดเผยข้อมูล",
+     "level": "B2",
+     "example": "The size of each module has not been disclosed by the company."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 153,
+   "ts": "2026-10-14T21:48:02.890783+07:00",
+   "title": "Oregon Govenor Tina Kotek asks state environmental regulator to pause permits, introducing de facto data center moratorium",
+   "link": "https://www.datacenterdynamics.com/en/news/oregon-govenor-tina-kotek-asks-state-environmental-regulator-to-pause-permits-introducing-de-facto-data-center-moratorium/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Oregon's governor halts environmental permits, imposing a de facto moratorium on new data center projects.",
+   "summary": "Oregon Governor Tina Kotek has ordered state regulators to pause issuing air and water pollution permits for data centers until July 2027. The move effectively halts new data center development while the state evaluates environmental and resource impacts.",
+   "vocab": [
+    {
+     "word": "discretion",
+     "thai": "ดุลพินิจ",
+     "level": "C1",
+     "example": "I am asking you to exercise your existing administrative authority and discretion to pause processing."
+    },
+    {
+     "word": "monumental",
+     "thai": "ยิ่งใหญ่, สำคัญมาก",
+     "level": "C1",
+     "example": "This is a monumental moment for the Oregonians who oppose water-intensive facilities."
+    },
+    {
+     "word": "regulator",
+     "thai": "หน่วยงานกำกับดูแล",
+     "level": "B2",
+     "example": "Oregon Governor Tina Kotek has ordered the state’s environmental regulators to temporarily stop permits."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 95,
+   "sent_ts": "2026-10-14T21:48:03.550036+07:00"
+  },
+  {
+   "id": 154,
+   "ts": "2026-10-14T21:48:03.550222+07:00",
+   "title": "Sberbank data center in Russia struck by Ukrainian military",
+   "link": "https://www.datacenterdynamics.com/en/news/sberbank-data-center-in-russia-struck-by-ukrainian-military/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Military strikes continue to target major Russian banking and cloud data center infrastructure.",
+   "summary": "Sberbank confirmed that a Ukrainian drone strike hit its major data center facility in Balakovo, Russia. Although banking services reportedly continue operating normally, the attack highlights ongoing physical security risks to regional server infrastructure.",
+   "vocab": [
+    {
+     "word": "interruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "All Sberbank systems and services are operating normally and without interruption."
+    },
+    {
+     "word": "ongoing",
+     "thai": "ที่ยังคงดำเนินอยู่",
+     "level": "B2",
+     "example": "The attack is the latest facility to be struck in the ongoing conflict between Russia and Ukraine."
+    },
+    {
+     "word": "deputy",
+     "thai": "รองหัวหน้า, รองผู้บริหาร",
+     "level": "B2",
+     "example": "Said Sber's first deputy chairman of the management board, Alexander Vedyakhin."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 9,
+   "scale": 6,
+   "credibility": 8,
+   "msg_id": 96,
+   "sent_ts": "2026-10-14T21:48:04.179545+07:00"
+  },
+  {
+   "id": 155,
+   "ts": "2026-10-14T21:48:04.179874+07:00",
+   "title": "Tiny11 puts Windows 11 on a diet without the PowerShell workout",
+   "link": "https://www.theregister.com/os-platforms/2026/10/14/tiny11-puts-windows-11-on-a-diet-without-the-powershell-workout/5303034",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Various security advisories, hardware deals, and open-source news impact server administrators and enterprise tech.",
+   "summary": "Recent tech news covers security patches for SharePoint, hardware packaging partnerships between TSMC and GlobalFoundries, and various open-source updates. These stories provide ongoing context for enterprise IT and infrastructure professionals.",
+   "vocab": [
+    {
+     "word": "advisory",
+     "thai": "ประกาศคำเตือน (ด้านความปลอดภัย)",
+     "level": "B2",
+     "example": "Security teams issued an advisory regarding the unpatched zero-day vulnerabilities."
+    },
+    {
+     "word": "fortify",
+     "thai": "เสริมความแข็งแกร่ง",
+     "level": "C1",
+     "example": "Nvidia helps fortify the country's scientific computing arsenal with AI-optimized systems."
+    },
+    {
+     "word": "persistence",
+     "thai": "ความคงทน, ความต่อเนื่อง",
+     "level": "C1",
+     "example": "Persistent AI agents appeal to developers, though practical enterprise demand remains unclear."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 156,
+   "ts": "2026-10-14T21:48:18.223188+07:00",
+   "title": "Cisco, Nvidia team up to build fatter, faster pluggable",
+   "link": "https://www.theregister.com/networks/2026/10/14/cisco-nvidia-team-up-to-build-fatter-faster-pluggable/5302970",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Directly covers major hardware advancements in optical networking and silicon packaging crucial for high-performance AI data centers.",
+   "summary": "Cisco and Nvidia are collaborating to develop high-speed optical transceivers capable of 12.8 Tbps, while TSMC partners with GlobalFoundries to boost silicon packaging. These hardware upgrades are essential for scaling the massive network bandwidth required by modern AI data centers.",
+   "vocab": [
+    {
+     "word": "collaborating",
+     "thai": "ร่วมมือกัน",
+     "level": "B2",
+     "example": "Cisco and Nvidia are collaborating to develop high-speed optical transceivers."
+    },
+    {
+     "word": "transceivers",
+     "thai": "อุปกรณ์รับส่งสัญญาณ",
+     "level": "C1",
+     "example": "Cisco's new USFP targets 12.8 Tbps in a single optical pluggable transceiver."
+    },
+    {
+     "word": "essential",
+     "thai": "จำเป็นอย่างยิ่ง",
+     "level": "B2",
+     "example": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 97,
+   "sent_ts": "2026-10-14T21:48:18.852081+07:00"
+  },
+  {
+   "id": 157,
+   "ts": "2026-10-14T21:48:18.852242+07:00",
+   "title": "US tech giants warn Europe that ditching US tech giants could cost €115B",
+   "link": "https://www.theregister.com/paas-and-iaas/2026/10/14/us-tech-giants-warn-europe-that-ditching-us-tech-giants-could-cost-115b/5303031",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Geopolitical and regulatory news affecting major tech firms, but less direct impact on day-to-day data center infrastructure operations.",
+   "summary": "US technology giants have warned European regulators that phasing out American tech services could incur massive financial costs. The warning highlights ongoing tensions regarding digital sovereignty and cross-border tech dependencies.",
+   "vocab": [
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎข้อบังคับ",
+     "level": "C1",
+     "example": "US tech giants warn European regulators that ditching US tech could cost billions."
+    },
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย",
+     "level": "C1",
+     "example": "The debate highlights concerns over digital sovereignty in Europe."
+    },
+    {
+     "word": "dependency",
+     "thai": "การพึ่งพากัน",
+     "level": "B2",
+     "example": "Cross-border tech dependencies create complex political challenges."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 158,
+   "ts": "2026-10-14T21:48:18.852274+07:00",
+   "title": "Python 3.15 goes global with UTF-8 support",
+   "link": "https://www.theregister.com/devops/2026/10/14/python-315-goes-global-with-utf-8-support/5302966",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Updates to core programming languages matter for DevOps and software tooling, though of moderate operational impact.",
+   "summary": "Python 3.15 introduces native global UTF-8 support, modernizing text encoding across the ecosystem. This update helps developers handle international character sets more reliably in scripts and applications.",
+   "vocab": [
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ทางเทคโนโลยี)",
+     "level": "B2",
+     "example": "Python 3.15 improves text handling across the entire software ecosystem."
+    },
+    {
+     "word": "native",
+     "thai": "ที่มีมาในตัวระบบ",
+     "level": "B2",
+     "example": "Python 3.15 goes global with native UTF-8 support."
+    },
+    {
+     "word": "modernizing",
+     "thai": "ทำให้ทันสมัย",
+     "level": "B2",
+     "example": "The release focuses on modernizing string encoding mechanisms."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 159,
+   "ts": "2026-10-14T21:48:18.852393+07:00",
+   "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
+   "link": "https://blog.cloudflare.com/hyperdrive-mysql/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "Highly relevant technical deep-dive into database connection pooling, caching bugs, and edge network scaling for cloud operations.",
+   "summary": "Cloudflare has officially released general availability for MySQL support in its Hyperdrive connection pooler after resolving critical character encoding and caching bugs. The update ensures stable, low-latency database connectivity for distributed serverless workers.",
+   "vocab": [
+    {
+     "word": "availability",
+     "thai": "ความพร้อมใช้งาน",
+     "level": "B2",
+     "example": "The service met its production availability target of 99.99%."
+    },
+    {
+     "word": "distributed",
+     "thai": "แบบกระจายศูนย์",
+     "level": "B2",
+     "example": "Hyperdrive is a distributed database connection pooler."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วง",
+     "level": "C1",
+     "example": "Caching common queries reduces latency and load on the origin database."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 10,
+   "msg_id": 98,
+   "sent_ts": "2026-10-14T21:48:19.472034+07:00"
   }
  ],
- "next_id": 140,
+ "next_id": 160,
  "vocab": [
   {
    "word": "commissioning",
@@ -7152,13 +7910,153 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "transmission",
+   "thai": "การส่ง (กระแสไฟฟ้าหรือสัญญาณ)",
+   "level": "B2",
+   "example": "AES Indiana will construct a solar and transmission project to power a Google data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "statutory",
+   "thai": "ตามข้อบัญญัติของกฎหมาย",
+   "level": "C1",
+   "example": "Not only does this agreement satisfy the statutory requirement, it exceeds it substantially.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "substation",
+   "thai": "สถานีไฟฟ้าย่อย",
+   "level": "C1",
+   "example": "A 10-mile power line connects the project to an on-site substation near the data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discretion",
+   "thai": "ดุลพินิจ",
+   "level": "C1",
+   "example": "I am asking you to exercise your existing administrative authority and discretion to pause processing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "monumental",
+   "thai": "ยิ่งใหญ่, สำคัญมาก",
+   "level": "C1",
+   "example": "This is a monumental moment for the Oregonians who oppose water-intensive facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "regulator",
+   "thai": "หน่วยงานกำกับดูแล",
+   "level": "B2",
+   "example": "Oregon Governor Tina Kotek has ordered the state’s environmental regulators to temporarily stop permits.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interruption",
+   "thai": "การหยุดชะงัก",
+   "level": "B2",
+   "example": "All Sberbank systems and services are operating normally and without interruption.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ongoing",
+   "thai": "ที่ยังคงดำเนินอยู่",
+   "level": "B2",
+   "example": "The attack is the latest facility to be struck in the ongoing conflict between Russia and Ukraine.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deputy",
+   "thai": "รองหัวหน้า, รองผู้บริหาร",
+   "level": "B2",
+   "example": "Said Sber's first deputy chairman of the management board, Alexander Vedyakhin.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "collaborating",
+   "thai": "ร่วมมือกัน",
+   "level": "B2",
+   "example": "Cisco and Nvidia are collaborating to develop high-speed optical transceivers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "transceivers",
+   "thai": "อุปกรณ์รับส่งสัญญาณ",
+   "level": "C1",
+   "example": "Cisco's new USFP targets 12.8 Tbps in a single optical pluggable transceiver.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "essential",
+   "thai": "จำเป็นอย่างยิ่ง",
+   "level": "B2",
+   "example": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "availability",
+   "thai": "ความพร้อมใช้งาน",
+   "level": "B2",
+   "example": "The service met its production availability target of 99.99%.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "latency",
+   "thai": "ความหน่วง",
+   "level": "C1",
+   "example": "Caching common queries reduces latency and load on the origin database.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700425,
+ "tg_offset": 57700426,
  "polls": {
   "6224137464286544531": {
    "word": "rigor",
@@ -7195,10 +8093,6 @@
   "6226735343975007714": {
    "word": "sequential",
    "correct": 0
-  },
-  "6228485749306557969": {
-   "word": "acknowledge",
-   "correct": 2
   },
   "6228485749306557970": {
    "word": "resume",
