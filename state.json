@@ -467,7 +467,27 @@
   "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
   "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
   "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+  "https://www.datacenterdynamics.com/en/news/powerhouse-big-watt-secure-approval-for-1gw-behind-the-meter-campus-in-taylor-texas/",
+  "https://www.datacenterdynamics.com/en/news/australias-subco-to-deploy-new-fiber-route-linking-sydney-and-melbourne/",
+  "https://www.datacenterdynamics.com/en/news/us-dod-seeks-partner-to-build-4bn-mission-critical-facility-and-data-center-in-alabama/",
+  "https://www.datacenterdynamics.com/en/news/starling-bank-to-train-transactional-foundation-model-on-civos-uk-sovereign-cloud-platform/",
+  "https://www.datacenterdynamics.com/en/news/united-overseas-bank-taps-aws-for-hybrid-cloud-strategy/",
+  "https://www.datacenterdynamics.com/en/news/lightedgelumen-occupied-data-center-in-austin-texas-up-for-sale/",
+  "https://www.datacenterdynamics.com/en/news/brightray-looks-to-expand-into-us-with-10mw-prefab-data-center-project-in-indiana/",
+  "https://www.datacenterdynamics.com/en/marketwatch/what-really-breaks-at-128k-approaching-fiber-architectures-at-scale/",
+  "https://www.datacenterdynamics.com/en/news/photonics-quantum-firm-orca-computing-deploys-pt-3-system-at-digital-realtys-lhr19-data-center/",
+  "https://www.theregister.com/offbeat/2026/10/15/royal-navy-goes-fishing-for-suppliers-to-build-its-type-93-robot-submarine/5303038",
+  "https://www.theregister.com/security/2026/10/15/metropolitan-polices-unchecked-use-of-shoplifting-platform-lands-force-in-trouble-with-data-watchdog/5303061",
+  "https://www.theregister.com/ai-and-ml/2026/10/15/jev-and-other-decision-models-can-still-be-tricked-with-prompt-injection/5303184",
+  "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+  "https://jackantico.io/garmin-mcp",
+  "https://indigene.app/",
+  "https://github.com/awslabs/aidlc-workflows",
+  "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
+  "https://kennedn.com/blog/posts/glitching/",
+  "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
+  "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html"
  ],
  "stories": [
   {
@@ -7344,9 +7364,409 @@
    "urgency": 3,
    "scale": 8,
    "credibility": 8
+  },
+  {
+   "id": 187,
+   "ts": "2026-10-15T15:40:55.400310+07:00",
+   "title": "PowerHouse & Big Watt secure approval for 1GW behind-the-meter campus in Taylor, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/powerhouse-big-watt-secure-approval-for-1gw-behind-the-meter-campus-in-taylor-texas/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major 1GW behind-the-meter data center campus approval directly impacts massive AI infrastructure and power planning.",
+   "summary": "PowerHouse and Big Watt Digital received unanimous approval to build a 664-acre, 1GW data center campus in Taylor, Texas, powered by a dedicated 750MW natural gas plant. The massive facility is designed to bypass grid constraints and provide dedicated power for the expanding AI economy.",
+   "vocab": [
+    {
+     "word": "unanimously",
+     "thai": "อย่างเป็นเอกฉันท์",
+     "level": "B2",
+     "example": "Taylor City Council unanimously approved the proposals last week."
+    },
+    {
+     "word": "dedicated",
+     "thai": "เฉพาะกิจ, อุทิศให้",
+     "level": "B2",
+     "example": "The campus is designed to deliver up to 1GW of data center capacity using dedicated, behind-the-meter power."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "C1",
+     "example": "By pairing digital infrastructure with dedicated power, we are addressing one of the biggest constraints facing data center development."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 119,
+   "sent_ts": "2026-10-15T15:40:56.001941+07:00"
+  },
+  {
+   "id": 188,
+   "ts": "2026-10-15T15:40:56.002106+07:00",
+   "title": "Australia's SubCo to deploy new fiber route linking Sydney and Melbourne",
+   "link": "https://www.datacenterdynamics.com/en/news/australias-subco-to-deploy-new-fiber-route-linking-sydney-and-melbourne/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "New terrestrial fiber route construction enhances regional networking and route diversity between major markets.",
+   "summary": "Australian firm SubCo announced a new 850km terrestrial fiber network connecting Sydney and Melbourne to provide critical domestic route diversity. The company is also considering procuring its own cable-laying vessel to support future subsea infrastructure projects.",
+   "vocab": [
+    {
+     "word": "terrestrial",
+     "thai": "บนบก",
+     "level": "C1",
+     "example": "SubCo is planning a new terrestrial fiber route linking Sydney and Melbourne."
+    },
+    {
+     "word": "diversity",
+     "thai": "ความหลากหลาย (ในที่นี้หมายถึงเส้นทางสำรอง)",
+     "level": "B2",
+     "example": "The route will provide critical domestic route diversity on a brand new, independent path."
+    },
+    {
+     "word": "procure",
+     "thai": "จัดหา, จัดซื้อ",
+     "level": "C1",
+     "example": "The company could look to procure its own cable-laying vessel."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 189,
+   "ts": "2026-10-15T15:40:56.002132+07:00",
+   "title": "US DoD seeks partner to build $4bn \"mission critical facility\" and data center in Alabama",
+   "link": "https://www.datacenterdynamics.com/en/news/us-dod-seeks-partner-to-build-4bn-mission-critical-facility-and-data-center-in-alabama/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "A $4B mission-critical military data center project represents massive scale and specialized infrastructure requirements.",
+   "summary": "The US Department of Defense published an advance notice seeking a contractor to build a $4 billion command and control center and data center in Alabama. The 700,000 sq ft secure facility will house the US Space Command and require advanced electromagnetic shielding.",
+   "vocab": [
+    {
+     "word": "intention",
+     "thai": "ความตั้งใจ",
+     "level": "B2",
+     "example": "The notice reveals its intention to develop a mission-critical command and control center."
+    },
+    {
+     "word": "redant",
+     "thai": "ที่มีสำรองไว้เผื่อฉุกเฉิน",
+     "level": "B2",
+     "example": "The facility will need to feature radio frequency shielding and redundant infrastructure."
+    },
+    {
+     "word": "relocation",
+     "thai": "การย้ายที่ตั้ง",
+     "level": "B2",
+     "example": "The relocation of US Space Command headquarters has been in the works since 2021."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 190,
+   "ts": "2026-10-15T15:40:56.002149+07:00",
+   "title": "Starling Bank to train transactional foundation model on Civo's UK sovereign cloud platform",
+   "link": "https://www.datacenterdynamics.com/en/news/starling-bank-to-train-transactional-foundation-model-on-civos-uk-sovereign-cloud-platform/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Combines financial AI model training with regional sovereign cloud infrastructure and high-performance Nvidia hardware.",
+   "summary": "Starling Bank is partnering with Civo to train a transactional foundation model using private data and Nvidia hardware on a UK sovereign cloud. This initiative aims to meet regulatory requirements while reducing reliance on a small number of global hyper-scalers.",
+   "vocab": [
+    {
+     "word": "anonymize",
+     "thai": "ทำให้ไม่ระบุตัวตน",
+     "level": "C1",
+     "example": "Starling will train a model based on proprietary data from more than 15 billion anonymized transactions."
+    },
+    {
+     "word": "rely",
+     "thai": "พึ่งพา",
+     "level": "B2",
+     "example": "The plan warns against relying on a small number of global providers."
+    },
+    {
+     "word": "concentration",
+     "thai": "การกระจุกตัว",
+     "level": "B2",
+     "example": "European companies need to diversify their suppliers and reduce concentration risk."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 191,
+   "ts": "2026-10-15T15:40:56.002163+07:00",
+   "title": "United Overseas Bank taps AWS for hybrid cloud strategy",
+   "link": "https://www.datacenterdynamics.com/en/news/united-overseas-bank-taps-aws-for-hybrid-cloud-strategy/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Major regional bank adopting a hybrid cloud strategy with AWS directly impacts enterprise cloud and security architecture.",
+   "summary": "United Overseas Bank has partnered with AWS to establish a dedicated hybrid cloud environment in Singapore. The isolated setup allows the bank to comply with strict local regulations while leveraging advanced AWS AI and data analytics tools.",
+   "vocab": [
+    {
+     "word": "jurisdiction",
+     "thai": "เขตอำนาจศาล หรือพื้นที่ควบคุมตามกฎหมาย",
+     "level": "C1",
+     "example": "An isolated cloud extension can be deployed in certain jurisdictions to meet regulatory requirements."
+    },
+    {
+     "word": "responsive",
+     "thai": "ตอบสนองได้ดี",
+     "level": "B2",
+     "example": "AI can help us become a more adaptive, intelligent, and responsive organization."
+    },
+    {
+     "word": "enhance",
+     "thai": "ทำให้ดีขึ้น, เสริม",
+     "level": "B2",
+     "example": "This collaboration reflects our intent to accelerate innovation and enhance customer experiences."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 192,
+   "ts": "2026-10-15T15:40:56.002178+07:00",
+   "title": "LightEdge/Lumen-occupied data center in Austin, Texas, up for sale",
+   "link": "https://www.datacenterdynamics.com/en/news/lightedgelumen-occupied-data-center-in-austin-texas-up-for-sale/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Real estate listing for smaller multi-tenant data centers in Texas and Kansas has limited broad operational impact.",
+   "summary": "A leased data center in Austin, Texas, occupied by Lumen and LightEdge, has been put up for sale by Colliers. Additionally, a smaller vacant operational data center in Newton, Kansas, is listed for $2.75 million.",
+   "vocab": [
+    {
+     "word": "vacant",
+     "thai": "ว่าง, ไม่มีผู้ใช้",
+     "level": "B2",
+     "example": "The single-story facility is described as a vacant operational data center."
+    },
+    {
+     "word": "robust",
+     "thai": "แข็งแกร่ง, ทนทาน",
+     "level": "B2",
+     "example": "The facility features robust utility service and redundant power systems."
+    },
+    {
+     "word": "proximity",
+     "thai": "ความใกล้เคียง",
+     "level": "C1",
+     "example": "Its central location provides convenient proximity to regional markets."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 193,
+   "ts": "2026-10-15T15:40:56.002193+07:00",
+   "title": "BrightRay looks to expand into US with 10MW prefab data center project in Indiana",
+   "link": "https://www.datacenterdynamics.com/en/news/brightray-looks-to-expand-into-us-with-10mw-prefab-data-center-project-in-indiana/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Prefabricated modular data center deployment strategies for high-density AI hardware affect fast-track infrastructure timelines.",
+   "summary": "Malaysian prefabricated data center firm BrightRay has signed an agreement for a 10MW AI data center project in Indiana. The facility will use modular construction methods to quickly host advanced Nvidia hardware within a one-year delivery window.",
+   "vocab": [
+    {
+     "word": "prefabricated",
+     "thai": "สำเร็จรูป (สร้างล่วงหน้าจากโรงงาน)",
+     "level": "B2",
+     "example": "BrightRay is set to work on its first US project using a prefabricated data center solution."
+    },
+    {
+     "word": "definitive",
+     "thai": "ที่เป็นที่สุด, แน่นอน, สมบูรณ์",
+     "level": "C1",
+     "example": "The project will be delivered within 12 months of a definitive contract."
+    },
+    {
+     "word": "implementation",
+     "thai": "การนำไปปฏิบัติ",
+     "level": "C1",
+     "example": "We look forward to working further with our partner on implementation arrangements."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 194,
+   "ts": "2026-10-15T15:40:56.002210+07:00",
+   "title": "Sponsored: What really breaks at 128K: Approaching fiber architectures at scale",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/what-really-breaks-at-128k-approaching-fiber-architectures-at-scale/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Deep dive into fiber architectures and physical scalability limits for massive 128K AI training clusters.",
+   "summary": "Industry experts discuss the severe physical and networking bottlenecks that occur when scaling AI training clusters from 16K to 128K nodes. The exponential increase in required fiber counts and multi-tier fabric complexity forces a shift away from traditional single-building designs.",
+   "vocab": [
+    {
+     "word": "skyrocket",
+     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "As demand skyrockets, architectures within the data center are becoming much more complex."
+    },
+    {
+     "word": "variable",
+     "thai": "ตัวแปร",
+     "level": "B2",
+     "example": "Fiber count becomes a design-limiting variable at training-cluster scale."
+    },
+    {
+     "word": "synchronous",
+     "thai": "พร้อมเพรียงกัน, ซิงโครนัส",
+     "level": "C1",
+     "example": "The first thing about model training is that it is a synchronous process."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 120,
+   "sent_ts": "2026-10-15T15:40:56.575339+07:00"
+  },
+  {
+   "id": 195,
+   "ts": "2026-10-15T15:41:08.225405+07:00",
+   "title": "Photonics quantum firm Orca Computing deploys PT-3 system at Digital Realty’s LHR19 data center",
+   "link": "https://www.datacenterdynamics.com/en/news/photonics-quantum-firm-orca-computing-deploys-pt-3-system-at-digital-realtys-lhr19-data-center/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "This article discusses the deployment of a photonic quantum computer inside a commercial data center, highlighting its power and cooling efficiency.",
+   "summary": "Orca Computing has deployed its new PT-3 photonic quantum computer inside Digital Realty's data center in London. The modular system operates at room temperature and consumes low power, making it easier to integrate alongside standard server hardware.",
+   "vocab": [
+    {
+     "word": "modular",
+     "thai": "ที่เป็นโมดูล, แยกส่วนประกอบได้",
+     "level": "B2",
+     "example": "The PT-3 is modular and upgradable, weighing around 800kg."
+    },
+    {
+     "word": "integrate",
+     "thai": "รวมเข้าด้วยกัน, ผสาน",
+     "level": "B2",
+     "example": "The system has been designed to integrate with existing high-performance computing environments."
+    },
+    {
+     "word": "predecessor",
+     "thai": "รุ่นก่อนหน้า",
+     "level": "C1",
+     "example": "Like its predecessors, the PT-3 has been designed to work alongside standard hardware."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 196,
+   "ts": "2026-10-15T15:41:08.225436+07:00",
+   "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+   "link": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An engineer documents a deep troubleshooting journey regarding network packet corruption and firmware lifecycle issues.",
+   "summary": "An administrator experienced random network transfer failures and TLS decryption errors over an unsupported Wi-Fi access point. The issue highlighted risks associated with buying hardware before standards are finalized and using end-of-life firmware.",
+   "vocab": [
+    {
+     "word": "corruption",
+     "thai": "ความเสียหายของข้อมูล",
+     "level": "C1",
+     "example": "Tracking down the corruption took a long time across multiple operating system switches."
+    },
+    {
+     "word": "firmware",
+     "thai": "เฟิร์มแวร์",
+     "level": "B2",
+     "example": "The device had zero firmware updates since it was shipped."
+    },
+    {
+     "word": "retransmission",
+     "thai": "การส่งข้อมูลซ้ำ",
+     "level": "C1",
+     "example": "Wireshark showed zero bad checksums and zero retransmissions initially."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 197,
+   "ts": "2026-10-15T15:41:08.225450+07:00",
+   "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+   "link": "https://github.com/awslabs/aidlc-workflows",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces a new DevOps workflow tool designed to integrate various AI coding assistants into structured delivery pipelines.",
+   "summary": "A new framework named AI-DLC turns popular AI coding assistants into structured, verifiable software-delivery workflows. It operates natively across multiple CLI and IDE harness environments to streamline development tasks.",
+   "vocab": [
+    {
+     "word": "framework",
+     "thai": "โครงสร้างพื้นฐาน, กรอบงาน",
+     "level": "B2",
+     "example": "The installer sets up everything the AI workflow framework needs to run smoothly."
+    },
+    {
+     "word": "interactive",
+     "thai": "แบบโต้ตอบ",
+     "level": "B2",
+     "example": "Running the command without specific arguments starts the interactive setup."
+    },
+    {
+     "word": "verify",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "The system turns coding assistants into structured and verifiable workflows."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 187,
+ "next_id": 198,
  "vocab": [
   {
    "word": "commissioning",
@@ -9383,6 +9803,56 @@
    "thai": "ที่เปลี่ยนแปลงไปในทางที่ดีขึ้นอย่างมาก",
    "level": "C1",
    "example": "Hollow core fiber is seen as a potentially transformational upgrade from traditional fiber.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unanimously",
+   "thai": "อย่างเป็นเอกฉันท์",
+   "level": "B2",
+   "example": "Taylor City Council unanimously approved the proposals last week.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dedicated",
+   "thai": "เฉพาะกิจ, อุทิศให้",
+   "level": "B2",
+   "example": "The campus is designed to deliver up to 1GW of data center capacity using dedicated, behind-the-meter power.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "skyrocket",
+   "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+   "level": "C1",
+   "example": "As demand skyrockets, architectures within the data center are becoming much more complex.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "variable",
+   "thai": "ตัวแปร",
+   "level": "B2",
+   "example": "Fiber count becomes a design-limiting variable at training-cluster scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synchronous",
+   "thai": "พร้อมเพรียงกัน, ซิงโครนัส",
+   "level": "C1",
+   "example": "The first thing about model training is that it is a synchronous process.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
