@@ -487,7 +487,31 @@
   "https://www.wowhaus.co.uk/2026/10/12/donaldson-futuro-house-in-idyllwild-california-usa/",
   "https://kennedn.com/blog/posts/glitching/",
   "https://ei3lh.eu/2026/10/11/the-toftwood-male-voice-choir-a-mystery-pressed-in-vinyl/",
-  "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html"
+  "https://phys.org/news/2026-08-sticky-alpine-darwin-year-carnivorous.html",
+  "https://www.datacenterdynamics.com/en/magazines/the-energy-sustainability-supplement-2026/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-joins-the-earthshot-prize-as-new-founding-member/",
+  "https://www.datacenterdynamics.com/en/product-news/nvent-and-amd-collaborate-on-cooling-for-amd-helios-rackscale-solution/",
+  "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
+  "https://www.datacenterdynamics.com/en/news/celestica-debuts-liquid-cooled-cpo-switch-for-ai-fabrics/",
+  "https://www.datacenterdynamics.com/en/news/virginia-senator-proposes-three-year-state-wide-data-center-moratorium/",
+  "https://www.datacenterdynamics.com/en/news/meta-under-investigation-regarding-alleged-tax-filings-claiming-data-center-projects-qualify-for-research-credits/",
+  "https://www.datacenterdynamics.com/en/news/russia-could-deploy-ai-data-centers-in-belarus-and-kazakhstan-as-local-capacity-struggles/",
+  "https://www.datacenterdynamics.com/en/news/siemens-makes-strategic-investment-in-energy-infrastructure-firm-skeleton-technologies-to-bolster-ai-data-center-offering/",
+  "https://www.datacenterdynamics.com/en/news/city-of-new-york-awards-nyu-292m-to-establish-a-quantum-fabrication-facility/",
+  "https://www.datacenterdynamics.com/en/news/meta-supply-chain-and-capacity-manager-surafell-kebede-joins-anthropic/",
+  "https://www.datacenterdynamics.com/en/news/ctrls-plans-150mw-data-center-in-bihar-india/",
+  "https://www.datacenterdynamics.com/en/whitepapers/warm-water-ready/",
+  "https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260",
+  "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
+  "https://www.theregister.com/science/2026/10/15/rocket-lab-pushes-back-first-neutron-launch-to-2027/5303224",
+  "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
+  "https://www.theregister.com/security/2026/10/15/legal-aid-agency-hackers-made-off-with-records-dating-back-to-1978/5303243",
+  "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
+  "https://www.theregister.com/on-prem/2026/10/15/japanese-consortium-bets-on-building-bobbing-bit-barns/5303191",
+  "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
+  "https://blog.cloudflare.com/deploy-with-void/",
+  "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+  "https://libreboot.org/news/libreboot2610.html"
  ],
  "stories": [
   {
@@ -7764,9 +7788,847 @@
    "urgency": 5,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 198,
+   "ts": "2026-10-15T21:32:05.036537+07:00",
+   "title": "The Energy & Sustainability Supplement",
+   "link": "https://www.datacenterdynamics.com/en/magazines/the-energy-sustainability-supplement-2026/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly addresses power and sustainability challenges facing modern data center operators.",
+   "summary": "Data center operators are exploring radical new infrastructure and energy strategies to cope with extreme AI power demands. The new supplement highlights innovative approaches like greenhouse waste heat reuse, wave-powered ocean craft, and iron-air battery storage.",
+   "vocab": [
+    {
+     "word": "scarcity",
+     "thai": "ความขาดแคลน",
+     "level": "B2",
+     "example": "Hemmed in by severe land shortages, water scarcity, crippling grid congestion, and mounting regulatory scrutiny..."
+    },
+    {
+     "word": "pioneering",
+     "thai": "ที่เป็นผู้บุกเบิก, นวัตกรรมใหม่",
+     "level": "C1",
+     "example": "Our latest Energy & Sustainability Supplement explores the pioneering technologies and frameworks redefining sustainable compute."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ที่ทำงานได้เองโดยอัตโนมัติ",
+     "level": "B2",
+     "example": "Panthalassa deploys autonomous, wave-powered ocean craft for AI inference."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 121,
+   "sent_ts": "2026-10-15T21:32:05.587364+07:00"
+  },
+  {
+   "id": 199,
+   "ts": "2026-10-15T21:32:05.587633+07:00",
+   "title": "Nvidia joins The Earthshot Prize as new founding member",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-joins-the-earthshot-prize-as-new-founding-member/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers Nvidia's partnership with an environmental prize, providing resources for climate tech initiatives.",
+   "summary": "Nvidia has become a founding partner of The Earthshot Prize to support climate and environmental innovators with free computing power and resources. While the initiative backs green technology, critics and activist investors continue to pressure Nvidia regarding its massive energy and emissions footprint.",
+   "vocab": [
+    {
+     "word": "regenerate",
+     "thai": "ฟื้นฟู, ทำให้กลับมาสมบูรณ์อีกครั้ง",
+     "level": "C1",
+     "example": "The initiative offers five separate prizes, including Protect and Restore Nature, Clean Our Air, Revive Our Oceans, Build a Waste-Free World, and Fix Our Climate."
+    },
+    {
+     "word": "prosper",
+     "thai": "เจริญรุ่งเรือง",
+     "level": "B2",
+     "example": "...help create a future where humanity and our planet thrive together."
+    },
+    {
+     "word": "contend",
+     "thai": "โต้แย้ง, ยืนยัน",
+     "level": "C1",
+     "example": "This has led some critics, such as Greenpeace, to contend that the company is not doing enough to mitigate its climate impact."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 200,
+   "ts": "2026-10-15T21:32:05.587675+07:00",
+   "title": "Sponsored: nVent and AMD collaborate on cooling for AMD Helios rackscale solution",
+   "link": "https://www.datacenterdynamics.com/en/product-news/nvent-and-amd-collaborate-on-cooling-for-amd-helios-rackscale-solution/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Announces rack-level cooling solutions specifically built for high-density AI infrastructure deployments.",
+   "summary": "nVent and AMD are collaborating to integrate nVent's rear door heat exchanger into the AMD Helios rackscale AI platform. The joint solution aims to provide efficient room-neutral cooling for high-density server configurations.",
+   "vocab": [
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือกัน",
+     "level": "B2",
+     "example": "nVent and AMD today announced a collaboration to bring rack-level cooling to the AMD Helios Rackscale solution."
+    },
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ, การรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "It is fully-integrated with the AMD Helios platform and offers intelligent cooling with no wasted watts."
+    },
+    {
+     "word": "architecture",
+     "thai": "สถาปัตยกรรม (ทางระบบคอมพิวเตอร์)",
+     "level": "B2",
+     "example": "AMD Helios brings those elements together in an open, standards-based architecture designed to help customers scale."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 122,
+   "sent_ts": "2026-10-15T21:32:06.075627+07:00"
+  },
+  {
+   "id": 201,
+   "ts": "2026-10-15T21:32:06.075935+07:00",
+   "title": "Oracle renews attempts to secure natural gas pipeline approval for Project Jupiter data center - report",
+   "link": "https://www.datacenterdynamics.com/en/news/oracle-renews-attempts-to-secure-natural-gas-pipeline-approval-for-project-jupiter-data-center-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts massive data center power provisioning and regulatory approval for on-site energy generation.",
+   "summary": "Oracle is urging federal regulators to expedite approval for a natural gas pipeline extension needed to power its massive New Mexico data center campus. The project faces resistance from environmental groups and state officials over water usage and emissions concerns.",
+   "vocab": [
+    {
+     "word": "expedite",
+     "thai": "เร่งรัด, ทำให้เร็วขึ้น",
+     "level": "C1",
+     "example": "According to Bloomberg, the cloud computing firm asked the Federal Energy Regulatory Commission to expedite approval of the pipeline."
+    },
+    {
+     "word": "forfeit",
+     "thai": "ต้องสูญเสียสิทธิ์, ยอมสละ",
+     "level": "C2",
+     "example": "...which would allow the firm to delay the payments it would have to make, rather than forfeit its tenancy."
+    },
+    {
+     "word": "evaluation",
+     "thai": "การประเมินผล",
+     "level": "B2",
+     "example": "...asking the agency to evaluate the combined footprint of the data center and the pipeline before granting approval."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 123,
+   "sent_ts": "2026-10-15T21:32:06.572489+07:00"
+  },
+  {
+   "id": 202,
+   "ts": "2026-10-15T21:32:06.572777+07:00",
+   "title": "Celestica debuts liquid-cooled CPO switch for AI fabrics",
+   "link": "https://www.datacenterdynamics.com/en/news/celestica-debuts-liquid-cooled-cpo-switch-for-ai-fabrics/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Introduces advanced liquid-cooled networking hardware designed to reduce power consumption in AI data centers.",
+   "summary": "Celestica has launched a liquid-cooled co-packaged optics network switch aimed at improving bandwidth and energy efficiency in large AI clusters. The switch uses Broadcom silicon and is built to address thermal and power constraints in modern cloud fabrics.",
+   "vocab": [
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "C1",
+     "example": "AI infrastructure is driving unprecedented demand for bandwidth, while power, thermal management, latency, and reach are becoming increasingly important constraints."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "C1",
+     "example": "Moving co-packaged optics from an advanced architecture to a production-ready system requires collaboration across silicon and optical engines."
+    },
+    {
+     "word": "compact",
+     "thai": "มีขนาดกะทัดรัด",
+     "level": "B2",
+     "example": "The DS6005 brings co-packaged optics and liquid cooling together in a compact platform designed to help customers build scalable AI fabrics."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 124,
+   "sent_ts": "2026-10-15T21:32:07.070159+07:00"
+  },
+  {
+   "id": 203,
+   "ts": "2026-10-15T21:32:07.070444+07:00",
+   "title": "Virginia senator proposes three-year state-wide data center moratorium",
+   "link": "https://www.datacenterdynamics.com/en/news/virginia-senator-proposes-three-year-state-wide-data-center-moratorium/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Proposes a multi-year statewide data center moratorium in the world's largest data center market.",
+   "summary": "A Virginia senator has introduced a bill proposing a three-year state-wide moratorium on approving new data center planning applications. The move aims to give lawmakers time to establish regulations to protect local power grids, ratepayers, and water supplies.",
+   "vocab": [
+    {
+     "word": "enact",
+     "thai": "ตราเป็นกฎหมาย",
+     "level": "C1",
+     "example": "If enacted, it would stop state agencies from approving data center planning applications for three years."
+    },
+    {
+     "word": "staggering",
+     "thai": "น่าตกใจ, มหาศาล",
+     "level": "C1",
+     "example": "...while we don’t have anywhere near the infrastructure needed to meet the staggering electricity demands of these massive facilities."
+    },
+    {
+     "word": "backlash",
+     "thai": "กระแสต่อต้านอย่างรุนแรง",
+     "level": "C1",
+     "example": "Northern Virginia has been at the heart of the data center industry for years, but the region is experiencing a backlash against new AI projects."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 125,
+   "sent_ts": "2026-10-15T21:32:07.574130+07:00"
+  },
+  {
+   "id": 204,
+   "ts": "2026-10-15T21:32:07.574427+07:00",
+   "title": "Meta under investigation regarding alleged tax filings claiming data center projects qualify for research credits",
+   "link": "https://www.datacenterdynamics.com/en/news/meta-under-investigation-regarding-alleged-tax-filings-claiming-data-center-projects-qualify-for-research-credits/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights US Senate financial inquiries into corporate tax filings regarding massive AI data center investments.",
+   "summary": "US Senate Democrats are investigating Meta's federal tax filings over claims that its costly AI data centers qualify for research and development tax credits. Lawmakers question whether standard commercial infrastructure buildouts violate the legal intent of these innovation incentives.",
+   "vocab": [
+    {
+     "word": "liability",
+     "thai": "ความรับผิดชอบทางกฎหมาย/การเงิน",
+     "level": "B2",
+     "example": "While it remains unclear exactly how Meta was able to reduce its federal tax liability by over $6.6 billion..."
+    },
+    {
+     "word": "corroborate",
+     "thai": "สนับสนุน, ยืนยันความถูกต้อง",
+     "level": "C2",
+     "example": "...based on an assessment of whether our available documentation corroborating the nature of our activities will be sufficient."
+    },
+    {
+     "word": "justification",
+     "thai": "การให้เหตุผลสนับสนุน",
+     "level": "C1",
+     "example": "...and a request for justification for each year’s research credit claims."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 205,
+   "ts": "2026-10-15T21:32:07.574462+07:00",
+   "title": "Russia could deploy AI data centers in Belarus and Kazakhstan as local capacity struggles",
+   "link": "https://www.datacenterdynamics.com/en/news/russia-could-deploy-ai-data-centers-in-belarus-and-kazakhstan-as-local-capacity-struggles/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers geographic expansion and power bottleneck issues for Russian data center and cloud infrastructure.",
+   "summary": "Russia is reportedly planning to deploy AI data centers in Belarus and Kazakhstan due to severe domestic power capacity shortages and grid connection blocks in Moscow. Stalling infrastructure projects highlight the growing strain on local utility networks.",
+   "vocab": [
+    {
+     "word": "consultation",
+     "thai": "การปรึกษาหารือ",
+     "level": "B2",
+     "example": "As reported by Russian news organization RBC, consultations are currently taking place within the Russian Ministry of Digital Development."
+    },
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "Authorities in Moscow have discussed plans to increase the region’s strategic reserve of energy capacity from 12 percent to 15 percent."
+    },
+    {
+     "word": "stall",
+     "thai": "ชะงักงัน, หยุดชะงัก",
+     "level": "B2",
+     "example": "Overall, data center developments in Russia have slowed, with nearly a third of announced projects stalling."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 206,
+   "ts": "2026-10-15T21:32:21.030312+07:00",
+   "title": "Siemens makes strategic investment in energy infrastructure firm Skeleton Technologies to bolster AI data center offering",
+   "link": "https://www.datacenterdynamics.com/en/news/siemens-makes-strategic-investment-in-energy-infrastructure-firm-skeleton-technologies-to-bolster-ai-data-center-offering/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts data center power infrastructure and cooling strategies for AI workloads.",
+   "summary": "Siemens is investing in Skeleton Technologies to utilize supercapacitors for smoothing out massive power swings in AI data centers. This partnership aims to relieve grid constraints and protect electrical equipment from sudden load fluctuations.",
+   "vocab": [
+    {
+     "word": "fluctuation",
+     "thai": "การขึ้นๆ ลงๆ, ความผันผวน",
+     "level": "C1",
+     "example": "The system is designed to handle sharp load fluctuations in grids and AI data centers."
+    },
+    {
+     "word": "exclusive",
+     "thai": "เฉพาะตัว, ผูกขาด",
+     "level": "B2",
+     "example": "The Estonian provider secured a strategic investment and exclusive partnership with Siemens."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่น, ความสามารถในการฟื้นตัว",
+     "level": "C1",
+     "example": "New power solutions are developed to improve resilience in modern data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 207,
+   "ts": "2026-10-15T21:32:21.030359+07:00",
+   "title": "City of New York awards NYU $29.2m to establish a Quantum Fabrication Facility",
+   "link": "https://www.datacenterdynamics.com/en/news/city-of-new-york-awards-nyu-292m-to-establish-a-quantum-fabrication-facility/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Relates to advanced quantum hardware research, which is still far from immediate data center operations.",
+   "summary": "New York City is awarding NYU nearly $30 million to build a new Quantum Fabrication Facility for chip testing and startup incubation. The center will provide local students and companies with advanced manufacturing resources over the next decade.",
+   "vocab": [
+    {
+     "word": "fabrication",
+     "thai": "การสร้าง, การผลิต",
+     "level": "C1",
+     "example": "New York University will establish a Quantum Fabrication Facility for advanced manufacturing."
+    },
+    {
+     "word": "incubate",
+     "thai": "ฟักตัว, สนับสนุนการเติบโตของธุรกิจใหม่",
+     "level": "C1",
+     "example": "The facility will offer resources to help startups incubate and commercialize their technology."
+    },
+    {
+     "word": "subatomic",
+     "thai": "ระดับอนุภาคย่อยของอะตอม",
+     "level": "C2",
+     "example": "New technologies are being developed at subatomic levels that we can only glimpse."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 208,
+   "ts": "2026-10-15T21:32:21.030386+07:00",
+   "title": "Meta supply chain and capacity manager Surafell Kebede joins Anthropic",
+   "link": "https://www.datacenterdynamics.com/en/news/meta-supply-chain-and-capacity-manager-surafell-kebede-joins-anthropic/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers high-level personnel movement and massive infrastructure lease commitments in the AI sector.",
+   "summary": "Anthropic has hired Meta's former supply chain and capacity manager to help scale its massive data center operations. The AI firm continues to aggressively expand its infrastructure team amid billions in compute capacity investments.",
+   "vocab": [
+    {
+     "word": "stint",
+     "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
+     "level": "C1",
+     "example": "Kebede was also the supply chain lead during a five-and-a-half year stint at Meta."
+    },
+    {
+     "word": "pledge",
+     "thai": "สัญญา, ให้คำมั่น",
+     "level": "B2",
+     "example": "The company has pledged to invest $50 billion in data centers in the US."
+    },
+    {
+     "word": "commitments",
+     "thai": "พันธะสัญญา, ข้อผูกพัน",
+     "level": "B2",
+     "example": "The firm secured massive infrastructure lease commitments over the past year."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 209,
+   "ts": "2026-10-15T21:32:21.030410+07:00",
+   "title": "CtrlS plans 150MW data center in Bihar, India",
+   "link": "https://www.datacenterdynamics.com/en/news/ctrls-plans-150mw-data-center-in-bihar-india/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports on major hyperscale data center expansion plans in a developing regional market.",
+   "summary": "CtrlS Datacenters is planning a new 150MW hyperscale facility in the Indian state of Bihar with a $1 billion investment. This initiative follows the inauguration of a smaller regional campus designed to support local digital infrastructure.",
+   "vocab": [
+    {
+     "word": "inaugurate",
+     "thai": "ทำพิธีเปิดอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The campus in Bihar was officially inaugurated in the presence of the chief minister."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ทางธุรกิจหรือเทคโนโลยี)",
+     "level": "B2",
+     "example": "The company is committed to building a robust IT ecosystem through its future-ready datacenters."
+    },
+    {
+     "word": "conducive",
+     "thai": "เอื้ออำนวย",
+     "level": "C1",
+     "example": "The government created a conducive policy environment for industrial investments."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 210,
+   "ts": "2026-10-15T21:32:21.030434+07:00",
+   "title": "Warm-water ready",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/warm-water-ready/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly relevant to data center cooling, power efficiency, and hardware thermal management for high-density GPUs.",
+   "summary": "A recent whitepaper compares two-phase direct-to-chip cooling against conventional single-phase systems on Nvidia B200 servers. The benchmarks show significant temperature drops and potential energy savings using warmer facility water.",
+   "vocab": [
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน, การทดสอบมาตรฐาน",
+     "level": "B2",
+     "example": "The benchmark reveals how the cooling system delivers improved thermal performance."
+    },
+    {
+     "word": "headroom",
+     "thai": "ระยะเผื่อ, พื้นที่ว่างสำหรับการเติบโตหรือรองรับภาระ",
+     "level": "C1",
+     "example": "The system provides greater operating headroom under demanding AI workloads."
+    },
+    {
+     "word": "downstream",
+     "thai": "ส่วนปลายน้ำ, ทางทิศทางไหลออก",
+     "level": "B2",
+     "example": "Tests showed lower temperatures at the downstream GPU cold plate."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 211,
+   "ts": "2026-10-15T21:32:21.030462+07:00",
+   "title": "TSMC sends scouts to check whether America's datacenters can deliver",
+   "link": "https://www.theregister.com/systems/2026/10/15/tsmc-sends-scouts-to-check-whether-americas-datacenters-can-deliver/5303260",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Touches on critical data center capacity readiness, Microsoft SharePoint zero-days, and high-speed networking standards.",
+   "summary": "TSMC is auditing American data center infrastructure and power supplies to support its massive manufacturing expansion budgets. Meanwhile, security researchers warn of ongoing zero-day attacks targeting on-premises Microsoft SharePoint servers.",
+   "vocab": [
+    {
+     "word": "scout",
+     "thai": "ผู้สำรวจ, หน่วยลาดตระเวน",
+     "level": "B2",
+     "example": "TSMC sends scouts to check whether America's datacenters can deliver."
+    },
+    {
+     "word": "obligatory",
+     "thai": "ที่เป็นข้อบังคับ, จำต้องทำ",
+     "level": "C1",
+     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
+    },
+    {
+     "word": "harden",
+     "thai": "ทำให้มั่นคงปลอดภัย, ป้องกันการเจาะระบบ",
+     "level": "B2",
+     "example": "The project enlists hackers to help harden critical infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 212,
+   "ts": "2026-10-15T21:32:21.030490+07:00",
+   "title": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms",
+   "link": "https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Focuses on social media moderation rather than cloud infrastructure or core server operations.",
+   "summary": "Platform X has purged thousands of accounts linked to suspected foreign meddling ahead of upcoming elections. The platform aims to prevent coordinated inauthentic behavior and platform manipulation.",
+   "vocab": [
+    {
+     "word": "purge",
+     "thai": "การกวาดล้าง, การกำจัดออกครั้งใหญ่",
+     "level": "C1",
+     "example": "X purges 13,000 accounts linked to suspected meddling ahead of US midterms."
+    },
+    {
+     "word": "meddling",
+     "thai": "การสอดแนม, การแทรกแซง",
+     "level": "B2",
+     "example": "Accounts were linked to suspected meddling in political events."
+    },
+    {
+     "word": "inauthentic",
+     "thai": "ไม่แท้จริง, ของปลอม",
+     "level": "C1",
+     "example": "Platforms target inauthentic accounts used for automated manipulation."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 213,
+   "ts": "2026-10-15T21:32:36.737203+07:00",
+   "title": "OpenAI claims 100-plus secret files followed ex-employee back to Apple",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/15/openai-claims-100-plus-secret-files-followed-ex-employee-back-to-apple/5303202",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers recent developments in AI tooling and infosec vulnerabilities relevant to infrastructure teams.",
+   "summary": "Recent industry updates highlight new AI assistant behaviors, hardware speed milestones, and ongoing software vulnerabilities. These updates help infrastructure and security teams monitor emerging operational risks.",
+   "vocab": [
+    {
+     "word": "obligatory",
+     "thai": "ที่เป็นข้อบังคับ",
+     "level": "B2",
+     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่คงอยู่ต่อเนื่อง",
+     "level": "B2",
+     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
+    },
+    {
+     "word": "reskin",
+     "thai": "การเปลี่ยนรูปลักษณ์ภายนอก",
+     "level": "C1",
+     "example": "Yet another new version of Firefox, with a significant reskin."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 214,
+   "ts": "2026-10-15T21:32:36.737248+07:00",
+   "title": "Legal Aid Agency hackers made off with records dating back to 1978",
+   "link": "https://www.theregister.com/security/2026/10/15/legal-aid-agency-hackers-made-off-with-records-dating-back-to-1978/5303243",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports on a significant data breach affecting historical records, impacting data security operations.",
+   "summary": "Hackers compromised the Legal Aid Agency and stole extensive records dating back decades. This data breach highlights persistent vulnerabilities in public sector data security.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "การทำให้เสื่อมเสียหรือถูกเจาะระบบ",
+     "level": "B2",
+     "example": "Hackers made off with records dating back to 1978 after a major system breach."
+    },
+    {
+     "word": "extensive",
+     "thai": "กว้างขวาง มากมาย",
+     "level": "B2",
+     "example": "The stolen records contain extensive historical data."
+    },
+    {
+     "word": "breach",
+     "thai": "การบุกรุก การละเมิด",
+     "level": "B2",
+     "example": "The security breach compromised sensitive agency records."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 215,
+   "ts": "2026-10-15T21:32:36.737279+07:00",
+   "title": "US Air Force pilots used malware-laden USB drives to plan Afghanistan missions",
+   "link": "https://www.theregister.com/security/2026/10/15/us-air-force-pilots-used-malware-laden-usb-drives-to-plan-afghanistan-missions/5303156",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly concerns critical infrastructure security and operational vulnerabilities via USB vectors.",
+   "summary": "US Air Force pilots inadvertently used malware-laden USB drives for mission planning tasks. This security failure underscores the persistent risks of physical media in high-security environments.",
+   "vocab": [
+    {
+     "word": "inadvertently",
+     "thai": "โดยไม่ตั้งใจ",
+     "level": "C1",
+     "example": "Pilots inadvertently used compromised media for flight operations."
+    },
+    {
+     "word": "vector",
+     "thai": "ช่องทาง เวกเตอร์",
+     "level": "C1",
+     "example": "Physical storage acts as an attack vector for isolated networks."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขเยียวยา",
+     "level": "C1",
+     "example": "Rapid remediation is required after discovering malware on operational drives."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 216,
+   "ts": "2026-10-15T21:32:36.737310+07:00",
+   "title": "Japanese consortium bets on building bobbing bit barns",
+   "link": "https://www.theregister.com/on-prem/2026/10/15/japanese-consortium-bets-on-building-bobbing-bit-barns/5303191",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Explores innovative data center cooling and physical infrastructure concepts in Japan.",
+   "summary": "A Japanese consortium is exploring floating data center designs to address land and cooling constraints. Such alternative infrastructure models offer creative solutions for future data center scaling.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "สมาคมกลุ่มบริษัท",
+     "level": "C1",
+     "example": "A Japanese consortium bets on building bobbing bit barns."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Floating structures help bypass land constraints in urban areas."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "Floating data centers provide an alternative to traditional real estate."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 217,
+   "ts": "2026-10-15T21:32:36.737338+07:00",
+   "title": "UK keeps AI safeguards in the maybe pile for Cyber Security BIll",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/15/uk-keeps-ai-safeguards-in-the-maybe-pile-for-cyber-security-bill/5303026",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Involves cybersecurity legislation and regulatory oversight affecting enterprise operations.",
+   "summary": "The UK government has deferred mandatory AI safeguards within its upcoming Cyber Security Bill. This regulatory ambiguity leaves companies navigating compliance requirements without fixed standards.",
+   "vocab": [
+    {
+     "word": "ambiguity",
+     "thai": "ความคลุมเครือ",
+     "level": "C1",
+     "example": "Regulatory ambiguity creates challenges for compliance teams."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "B2",
+     "example": "Firms must ensure strict compliance with emerging cybersecurity rules."
+    },
+    {
+     "word": "defer",
+     "thai": "เลื่อนออกไป",
+     "level": "B2",
+     "example": "Lawmakers chose to defer AI safeguards until further notice."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 218,
+   "ts": "2026-10-15T21:32:36.737369+07:00",
+   "title": "Deploy with Void",
+   "link": "https://blog.cloudflare.com/deploy-with-void/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Introduces new developer tools, deployment workflows, and Cloudflare integration for full-stack apps.",
+   "summary": "Cloudflare and VoidZero have open-sourced a unified toolchain and platform for deploying full-stack apps. This release simplifies resource provisioning and internal app deployment securely.",
+   "vocab": [
+    {
+     "word": "provisioning",
+     "thai": "การจัดสรรทรัพยากรระบบ",
+     "level": "C1",
+     "example": "The CLI handles resource provisioning and app deployment."
+    },
+    {
+     "word": "unified",
+     "thai": "ที่เป็นหนึ่งเดียวกัน",
+     "level": "B2",
+     "example": "The release provides a unified workflow for developers."
+    },
+    {
+     "word": "streamline",
+     "thai": "ทำให้มีประสิทธิภาพและเรียบง่ายขึ้น",
+     "level": "C1",
+     "example": "Tools like this streamline internal application deployment."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 219,
+   "ts": "2026-10-15T21:32:36.737407+07:00",
+   "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
+   "link": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Details major search engine and web discovery updates involving Cloudflare infrastructure data.",
+   "summary": "Cloudflare and OpenAI shared positive results from a research pilot improving AI web discovery. The collaboration helps search crawlers index millions of new pages more efficiently.",
+   "vocab": [
+    {
+     "word": "discoverability",
+     "thai": "ความสามารถในการค้นพบเจอ",
+     "level": "C1",
+     "example": "Improving discoverability helps users find relevant web content."
+    },
+    {
+     "word": "collaborative",
+     "thai": "ที่ร่วมมือกัน",
+     "level": "B2",
+     "example": "The collaborative pilot indexed hundreds of millions of new pages."
+    },
+    {
+     "word": "crawler",
+     "thai": "โปรแกรมดึงข้อมูลเว็บ",
+     "level": "C1",
+     "example": "The search crawler indexes web pages based on helpfulness signals."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 220,
+   "ts": "2026-10-15T21:32:36.737430+07:00",
+   "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+   "link": "https://libreboot.org/news/libreboot2610.html",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Announces open-source boot firmware updates with extended hardware support and policy changes.",
+   "summary": "Libreboot 26.10 has been released with full UEFI support and expanded compatibility for Chromebook boards. The new version also introduces strict open-source community guidelines regarding AI tools.",
+   "vocab": [
+    {
+     "word": "payload",
+     "thai": "เพย์โหลด โค้ดหรือส่วนบรรทุกในทางเทคนิค",
+     "level": "C1",
+     "example": "We now use EDK2 as the default payload for booting."
+    },
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "The release adds full UEFI support for better hardware compatibility."
+    },
+    {
+     "word": "deprecate",
+     "thai": "เลิกสนับสนุน (ในซอฟต์แวร์)",
+     "level": "C2",
+     "example": "Bare metal SeaBIOS and GRUB are now deprecated."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 10
   }
  ],
- "next_id": 198,
+ "next_id": 221,
  "vocab": [
   {
    "word": "commissioning",
@@ -9853,6 +10715,116 @@
    "thai": "พร้อมเพรียงกัน, ซิงโครนัส",
    "level": "C1",
    "example": "The first thing about model training is that it is a synchronous process.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scarcity",
+   "thai": "ความขาดแคลน",
+   "level": "B2",
+   "example": "Hemmed in by severe land shortages, water scarcity, crippling grid congestion, and mounting regulatory scrutiny...",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pioneering",
+   "thai": "ที่เป็นผู้บุกเบิก, นวัตกรรมใหม่",
+   "level": "C1",
+   "example": "Our latest Energy & Sustainability Supplement explores the pioneering technologies and frameworks redefining sustainable compute.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "collaboration",
+   "thai": "การร่วมมือกัน",
+   "level": "B2",
+   "example": "nVent and AMD today announced a collaboration to bring rack-level cooling to the AMD Helios Rackscale solution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "integration",
+   "thai": "การบูรณาการ, การรวมเข้าด้วยกัน",
+   "level": "B2",
+   "example": "It is fully-integrated with the AMD Helios platform and offers intelligent cooling with no wasted watts.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "architecture",
+   "thai": "สถาปัตยกรรม (ทางระบบคอมพิวเตอร์)",
+   "level": "B2",
+   "example": "AMD Helios brings those elements together in an open, standards-based architecture designed to help customers scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expedite",
+   "thai": "เร่งรัด, ทำให้เร็วขึ้น",
+   "level": "C1",
+   "example": "According to Bloomberg, the cloud computing firm asked the Federal Energy Regulatory Commission to expedite approval of the pipeline.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "evaluation",
+   "thai": "การประเมินผล",
+   "level": "B2",
+   "example": "...asking the agency to evaluate the combined footprint of the data center and the pipeline before granting approval.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compact",
+   "thai": "มีขนาดกะทัดรัด",
+   "level": "B2",
+   "example": "The DS6005 brings co-packaged optics and liquid cooling together in a compact platform designed to help customers build scalable AI fabrics.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enact",
+   "thai": "ตราเป็นกฎหมาย",
+   "level": "C1",
+   "example": "If enacted, it would stop state agencies from approving data center planning applications for three years.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "staggering",
+   "thai": "น่าตกใจ, มหาศาล",
+   "level": "C1",
+   "example": "...while we don’t have anywhere near the infrastructure needed to meet the staggering electricity demands of these massive facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backlash",
+   "thai": "กระแสต่อต้านอย่างรุนแรง",
+   "level": "C1",
+   "example": "Northern Virginia has been at the heart of the data center industry for years, but the region is experiencing a backlash against new AI projects.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
