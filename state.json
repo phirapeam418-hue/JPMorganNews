@@ -535,7 +535,31 @@
   "https://www.theregister.com/hpc/2026/10/15/partner-content-when-faster-supercomputers-arent-enough/5302562",
   "https://www.theregister.com/security/2026/10/15/spyware-vendors-found-a-way-to-make-targeted-ads-even-worse/5303334",
   "https://www.theregister.com/security/2026/10/15/bank-of-america-had-to-bring-in-1000-contractors-to-patch-all-the-bugs-mythos-identified/5303275",
-  "https://blog.cloudflare.com/programmable-gateway-dlp/"
+  "https://blog.cloudflare.com/programmable-gateway-dlp/",
+  "https://www.theregister.com/offbeat/2026/10/15/give-him-a-hand-dev-publishes-25-year-old-palm-os-tools-to-github/5303443",
+  "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
+  "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
+  "https://www.theregister.com/devops/2026/10/15/24000-ai-experiment-ports-typescript-compiler-to-rust/5303409",
+  "https://research.meta.ai/blog/muse-spark-open",
+  "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+  "https://already-clean.goodfire.com/",
+  "https://boldagents.co/blog/call-center-jobs-declining-14000-calls-humans-outperform-ai",
+  "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+  "https://github.com/fyzugx/DEsk",
+  "https://www.krea.ai/krea-3",
+  "https://zachlandes.com/trolley-problem/",
+  "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+  "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+  "https://fortran-lang.org/news/2026/09-15-Fortran-birthday/",
+  "https://philzimmermann.com/EN/essays/WhyIWrotePGP.html",
+  "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+  "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+  "https://www.seriouseats.com/biscoff-history-12168161",
+  "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+  "https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/",
+  "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+  "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+  "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/"
  ],
  "stories": [
   {
@@ -9228,7 +9252,11 @@
    "impact": 4,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "extra_links": [
+    "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+    "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/"
+   ]
   },
   {
    "id": 237,
@@ -9301,9 +9329,81 @@
    "urgency": 6,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 239,
+   "ts": "2026-10-16T05:46:29.941524+07:00",
+   "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Indirect prompt injection in HTTP headers introduces a security threat to automated AI web agents and scraping pipelines.",
+   "summary": "Attackers are embedding prompt injection instructions inside HTTP headers to manipulate automated AI agents that browse the web. Systems parsing external web data must implement stronger validation to avoid executing malicious hidden instructions.",
+   "vocab": [
+    {
+     "word": "indirect",
+     "thai": "ทางอ้อม",
+     "level": "B2",
+     "example": "Indirect prompt injection starts turning up in webpage headers."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "C1",
+     "example": "The deal went at equivalent of $3.5B+ valuation for the entire firm."
+    },
+    {
+     "word": "persistent",
+     "thai": "ซึ่งคงอยู่ต่อเนื่อง",
+     "level": "B2",
+     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 240,
+   "ts": "2026-10-16T05:46:29.941573+07:00",
+   "title": "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
+   "link": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Industrial refrigeration attacks illustrate operational technology vulnerabilities that closely mirror critical data center cooling systems.",
+   "summary": "Researchers warned about vulnerabilities in supermarket industrial cooling controls months before French grocery chains suffered cyberattacks. The incident highlights the growing operational risks when connecting temperature control systems directly to networks.",
+   "vocab": [
+    {
+     "word": "harden",
+     "thai": "เสริมความปลอดภัยให้แข็งแกร่ง",
+     "level": "B2",
+     "example": "The project enlists hackers to harden critical infrastructure."
+    },
+    {
+     "word": "defrost",
+     "thai": "ละลายน้ำแข็ง",
+     "level": "B2",
+     "example": "Researchers warned attackers could defrost the food months before French supermarkets got hit."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความช่วยเหลือหรือระดมกำลัง",
+     "level": "B2",
+     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
   }
  ],
- "next_id": 239,
+ "next_id": 241,
  "vocab": [
   {
    "word": "commissioning",
