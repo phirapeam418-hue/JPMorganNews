@@ -456,7 +456,18 @@
   "https://arstechnica.com/tech-policy/2026/10/georgia-man-sues-flock-sheriffs-office-over-alleged-alpr-fueled-retaliation/",
   "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
   "https://arstechnica.com/culture/2026/10/greta-gerwig-channels-bowie-in-psychedelic-the-magicians-nephew-trailer/",
-  "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/"
+  "https://arstechnica.com/science/2026/10/researchers-use-ai-to-design-proteins-that-cut-up-other-proteins/",
+  "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+  "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+  "https://sebsite.pw/w/20261012-notstdc.html",
+  "https://catchabird.com",
+  "https://news.ycombinator.com/item?id=50067325",
+  "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+  "https://arstechnica.com/gaming/2026/10/legendary-fps-level-designer-richard-levelord-gray-passes-away-at-68/",
+  "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+  "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+  "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+  "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
  ],
  "stories": [
   {
@@ -6582,11 +6593,13 @@
      "example": "Teams must quickly remediate the security flaw."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 105,
+   "sent_ts": "2026-10-15T09:14:33.610941+07:00"
   },
   {
    "id": 167,
@@ -6654,11 +6667,13 @@
      "example": "Better technical oversight can prevent unauthorized access."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 106,
+   "sent_ts": "2026-10-15T09:14:34.174044+07:00"
   },
   {
    "id": 169,
@@ -6690,11 +6705,13 @@
      "example": "Connections can be reused for subsequent requests."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 107,
+   "sent_ts": "2026-10-15T09:14:34.784791+07:00"
   },
   {
    "id": 170,
@@ -6762,11 +6779,13 @@
      "example": "Modern warfare can deliberately disrupt communications systems."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 108,
+   "sent_ts": "2026-10-15T09:14:35.337893+07:00"
   },
   {
    "id": 172,
@@ -6798,11 +6817,13 @@
      "example": "Oracle sued Wisconsin's Public Service Commission over a rule that could force it to post more than $7 billion in collateral."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 109,
+   "sent_ts": "2026-10-15T09:14:35.909963+07:00"
   },
   {
    "id": 173,
@@ -6834,7 +6855,7 @@
      "example": "The tool inverts the roles between humans and coding agents."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
@@ -6942,7 +6963,7 @@
      "example": "Both Switchzilla and CISA sound the alarm over the flaw."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 9,
    "scale": 7,
@@ -7014,7 +7035,7 @@
      "example": "High-volume automation simply migrated to other hosting providers."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
@@ -7158,14 +7179,158 @@
      "example": "Danfoss controllers used a credential that changes each day."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 183,
+   "ts": "2026-10-15T09:16:31.325983+07:00",
+   "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
+   "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "This is a confirmed physical security and insider threat breach at a top AI firm, which is relevant for infrastructure security teams.",
+   "summary": "Federal authorities arrested an OpenAI engineer for planting an encrypted listening device inside an executive conference room. The case emphasizes the serious physical security and insider threat risks facing major tech companies.",
+   "vocab": [
+    {
+     "word": "espionage",
+     "thai": "การจารกรรม",
+     "level": "C1",
+     "example": "The engineer was investigated for alleged corporate espionage."
+    },
+    {
+     "word": "retrieve",
+     "thai": "ไปเอาคืนมา / กู้คืน",
+     "level": "B2",
+     "example": "CCTV footage allegedly showed the engineer attempting to retrieve the recording device that same day."
+    },
+    {
+     "word": "confidential",
+     "thai": "เป็นความลับ",
+     "level": "B2",
+     "example": "Leadership met to discuss highly confidential information, including technical progress and partnerships."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 184,
+   "ts": "2026-10-15T09:16:31.326039+07:00",
+   "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "The story reports policy-driven network throttling on satellite links, illustrating connectivity reliability risks with commercial providers.",
+   "summary": "Starlink has enforced unexpected network speed caps on terminals in Ukraine, disrupting military hardware traveling faster than 160 km/h. This event demonstrates the vulnerability of relying on private satellite providers for mission-critical connectivity.",
+   "vocab": [
+    {
+     "word": "throttling",
+     "thai": "การจำกัดความเร็ว / การควบคุมปริมาณการส่งข้อมูล",
+     "level": "B2",
+     "example": "Ukraine was blindsided by Starlink throttling restrictions and intelligence gaps."
+    },
+    {
+     "word": "coincidental",
+     "thai": "ซึ่งบังเอิญเกิดขึ้นพร้อมกัน",
+     "level": "B2",
+     "example": "It is clear that this action is not coincidental and is related to the current political situation."
+    },
+    {
+     "word": "concession",
+     "thai": "การยอมผ่อนปรน / การยอมอ่อนข้อ",
+     "level": "C1",
+     "example": "The government faces mounting pressure to make concessions to end the war."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 185,
+   "ts": "2026-10-15T09:16:59.497848+07:00",
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights an experimental cyber threat where lightweight AI models autonomously coordinate and replicate across edge IoT hardware.",
+   "summary": "Anthropic researchers demonstrated that lightweight AI models can distribute workloads across low-cost IoT devices. Although practical attacks remain difficult today, the findings warn that autonomous AI worms could target edge hardware in the near future.",
+   "vocab": [
+    {
+     "word": "usher",
+     "thai": "นำเข้าสู่หรือเปิดฉาก",
+     "level": "C1",
+     "example": "Advances in small AI models could soon usher in a new era of self-replicating malware."
+    },
+    {
+     "word": "propagate",
+     "thai": "แพร่กระจาย",
+     "level": "C1",
+     "example": "Eventually, the capability could enable computer worms, which propagate without requiring human interaction."
+    },
+    {
+     "word": "fruition",
+     "thai": "การบรรลุผลสำเร็จ",
+     "level": "C1",
+     "example": "An experiment revealed significant challenges in bringing such an AI malware replicator to fruition."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 186,
+   "ts": "2026-10-15T09:16:59.497889+07:00",
+   "title": "The Internet’s undersea backbone is slipping into the danger zone",
+   "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Examines physical security risks and geopolitical sabotage targeting the undersea fiber cables that carry global data center traffic.",
+   "summary": "A new book details the rising danger of intentional anchor-dragging attacks and sabotage against undersea telecommunications cables. Because these lines carry the vast majority of international internet traffic, maritime conflicts pose significant risks to global connectivity.",
+   "vocab": [
+    {
+     "word": "maritime",
+     "thai": "ทางทะเลหรือเกี่ยวกับการเดินเรือ",
+     "level": "B2",
+     "example": "She leads the Threats to the Global Maritime Order Initiative."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียดถี่ถ้วน",
+     "level": "C1",
+     "example": "International tension has led to increased scrutiny of cable-cutting incidents."
+    },
+    {
+     "word": "sever",
+     "thai": "ตัดขาด",
+     "level": "C1",
+     "example": "The captain was convicted of severing an undersea telecommunications cable."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
   }
  ],
- "next_id": 183,
+ "next_id": 187,
  "vocab": [
   {
    "word": "commissioning",
@@ -8922,6 +9087,96 @@
    "thai": "ความหน่วง",
    "level": "C1",
    "example": "Caching common queries reduces latency and load on the origin database.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exploit",
+   "thai": "ใช้ประโยชน์ / ช่องโหว่ที่ถูกใช้โจมตี",
+   "level": "B2",
+   "example": "Researchers confirmed in-the-wild attacks using this exploit.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "governance",
+   "thai": "การกำกับดูแลกิจการ",
+   "level": "C1",
+   "example": "Strong governance is required for deploying enterprise AI tools.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "drastic",
+   "thai": "รุนแรง / อย่างมาก",
+   "level": "B2",
+   "example": "The update results in a drastic performance improvement.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "subsequent",
+   "thai": "ตามมา / ภายหลัง",
+   "level": "B2",
+   "example": "Connections can be reused for subsequent requests.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "archipelago",
+   "thai": "หมู่เกาะ",
+   "level": "C1",
+   "example": "The Matsu Islands are an archipelago of 36 islands in the East China Sea.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "catastrophic",
+   "thai": "ที่เป็นหายนะ",
+   "level": "B2",
+   "example": "In such a catastrophic scenario, some communities would be totally isolated.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deliberately",
+   "thai": "อย่างจงใจ",
+   "level": "B2",
+   "example": "Modern warfare can deliberately disrupt communications systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "offload",
+   "thai": "ถ่ายโอนภาระออกไป",
+   "level": "C1",
+   "example": "Banks are now trying to offload the AI data center debt they just underwrote.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "collateral",
+   "thai": "หลักประกัน",
+   "level": "C1",
+   "example": "Oracle sued Wisconsin's Public Service Commission over a rule that could force it to post more than $7 billion in collateral.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
