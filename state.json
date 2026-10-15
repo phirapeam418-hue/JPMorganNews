@@ -8725,7 +8725,7 @@
    "thai": "มูลค่าประเมินของบริษัท",
    "level": "B2",
    "example": "TypeSafe raised $870M at a $7.5B valuation led by Andreessen Horowitz.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -8935,7 +8935,7 @@
    "thai": "แพร่ขยาย, ลุกลาม",
    "level": "C1",
    "example": "Thermal runaway can propagate from one cell to others.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -10045,7 +10045,7 @@
    "thai": "อย่างอิสระ",
    "level": "B2",
    "example": "to hold and independently capitalize the non-Nordic AI data center portfolio.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -10435,7 +10435,7 @@
    "thai": "หมู่เกาะ",
    "level": "C1",
    "example": "The Matsu Islands are an archipelago of 36 islands in the East China Sea.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -10545,7 +10545,7 @@
    "thai": "การเน่าเสียของอาหารหรือสินค้า",
    "level": "C1",
    "example": "Causing spoilage of untold tons of perishables and, in some cases, fires.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -10907,6 +10907,26 @@
   },
   "6232989348933927701": {
    "word": "compromise",
+   "correct": 1
+  },
+  "6235624457398911654": {
+   "word": "propagate",
+   "correct": 3
+  },
+  "6235624457398911655": {
+   "word": "valuation",
+   "correct": 1
+  },
+  "6235624457398911656": {
+   "word": "archipelago",
+   "correct": 2
+  },
+  "6235624457398911657": {
+   "word": "independently",
+   "correct": 1
+  },
+  "6235624457398911658": {
+   "word": "spoilage",
    "correct": 1
   }
  },
