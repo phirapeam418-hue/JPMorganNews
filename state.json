@@ -572,7 +572,16 @@
   "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
   "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
   "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-  "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/"
+  "https://arstechnica.com/science/2026/10/seabirds-forests-and-coral-could-help-save-sinking-islands/",
+  "https://www.datacenterdynamics.com/en/marketwatch/the-future-of-data-center-efficiency-starts-with-pipes/",
+  "https://www.theregister.com/software/2026/10/16/open-source-sovereignty-gets-down-to-the-boring-business-of-making-it-work/5303206",
+  "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864",
+  "https://www.youtube.com/watch?v=sjNpfz4UzqU",
+  "https://www.cnn.com/2026/10/13/us/nyc-horse-carriage-ban",
+  "https://lwn.net/Articles/1097760/",
+  "https://danieltemkin.com/esolangs/folders",
+  "https://www.polygon.com/order-of-the-sinking-star-impressions/",
+  "https://www.bipm.org/en/cgpm-2026/resolution-5"
  ],
  "stories": [
   {
@@ -9764,9 +9773,86 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 250,
+   "ts": "2026-10-16T15:35:58.762388+07:00",
+   "title": "Open source sovereignty gets down to the boring business of making it work",
+   "link": "https://www.theregister.com/software/2026/10/16/open-source-sovereignty-gets-down-to-the-boring-business-of-making-it-work/5303206",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This digest touches on critical infrastructure and server vulnerabilities, but provides only superficial headlines.",
+   "summary": "A tech news roundup highlights topics ranging from next-generation 12.8 Tbps optical pluggables to zero-day exploits hitting on-premises SharePoint servers. It also notes emerging open-source desktop developments and AI tool adoption among kernel developers.",
+   "vocab": [
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวังหรือการสอดแนม",
+     "level": "B2",
+     "example": "The security bulletin reported that foreign actors upgraded their smartphone surveillance tools."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่คงอยู่อย่างต่อเนื่องหรือถาวร",
+     "level": "B2",
+     "example": "Persistent agents appeal to AI companies despite technical difficulties."
+    },
+    {
+     "word": "interim",
+     "thai": "ชั่วคราวหรือระยะสั้นระหว่างช่วงเวลา",
+     "level": "B2",
+     "example": "Ubuntu interim releases are getting interesting again with new desktop features."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/security/2026/10/16/user-refused-to-change-her-password-because-everyone-already-knew-it/5301864"
+   ]
+  },
+  {
+   "id": 251,
+   "ts": "2026-10-16T15:36:29.048434+07:00",
+   "title": "BIPM decides to stop adding leap seconds to UTC",
+   "link": "https://www.bipm.org/en/cgpm-2026/resolution-5",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "The decision to halt leap seconds directly impacts network synchronization and data center operations globally.",
+   "summary": "Global authorities have decided to stop adding leap seconds to Coordinated Universal Time (UTC) by 2035. This change ensures continuous timekeeping, which is vital for preventing synchronization errors in critical network and server infrastructure.",
+   "vocab": [
+    {
+     "word": "continuity",
+     "thai": "ความต่อเนื่อง",
+     "level": "B2",
+     "example": "Technical actions are needed to ensure the continuity of UTC."
+    },
+    {
+     "word": "underlying",
+     "thai": "ที่เป็นพื้นฐาน / เบื้องหลัง",
+     "level": "B2",
+     "example": "This affects the software underlying operational systems."
+    },
+    {
+     "word": "disseminate",
+     "thai": "เผยแพร่ / แจกจ่าย",
+     "level": "C1",
+     "example": "Systems allow for the possibility to disseminate the increased difference between time scales."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 10,
+   "msg_id": 146,
+   "sent_ts": "2026-10-16T15:36:29.767097+07:00"
   }
  ],
- "next_id": 250,
+ "next_id": 252,
  "vocab": [
   {
    "word": "commissioning",
@@ -12273,6 +12359,36 @@
    "thai": "ใบรับรอง",
    "level": "B2",
    "example": "the regional Internet registries began issuing RPKI certificates in 2011.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "continuity",
+   "thai": "ความต่อเนื่อง",
+   "level": "B2",
+   "example": "Technical actions are needed to ensure the continuity of UTC.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "underlying",
+   "thai": "ที่เป็นพื้นฐาน / เบื้องหลัง",
+   "level": "B2",
+   "example": "This affects the software underlying operational systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disseminate",
+   "thai": "เผยแพร่ / แจกจ่าย",
+   "level": "C1",
+   "example": "Systems allow for the possibility to disseminate the increased difference between time scales.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
