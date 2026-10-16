@@ -11185,7 +11185,7 @@
    "thai": "บริษัทย่อย",
    "level": "B2",
    "example": "Hyperscale Data plans to form a new subsidiary to hold its Bitcoin mining operations.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -11245,7 +11245,7 @@
    "thai": "โครงการริเริ่ม",
    "level": "B2",
    "example": "The Ministry and Google Cloud launched a joint initiative to help organizations identify real-world challenges.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -11565,7 +11565,7 @@
    "thai": "เบาบาง, มีน้อย",
    "level": "C1",
    "example": "Details were very sparse, and no further updates have been provided yet.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -11655,7 +11655,7 @@
    "thai": "แบบองค์รวม",
    "level": "C1",
    "example": "Making a holistic, streamlined view of end-to-end operations fundamental to long-term success.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -12725,7 +12725,7 @@
    "thai": "จำแนกประเภท",
    "level": "B2",
    "example": "The distance definition cannot classify the interesting cases.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -13178,6 +13178,26 @@
   "6235624457398911658": {
    "word": "spoilage",
    "correct": 1
+  },
+  "6237663548957262608": {
+   "word": "holistic",
+   "correct": 2
+  },
+  "6237663548957262609": {
+   "word": "subsidiary",
+   "correct": 1
+  },
+  "6237663548957262610": {
+   "word": "classify",
+   "correct": 3
+  },
+  "6237663548957262611": {
+   "word": "initiative",
+   "correct": 2
+  },
+  "6237663548957262612": {
+   "word": "sparse",
+   "correct": 3
   }
  },
  "fail": {
