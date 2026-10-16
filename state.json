@@ -621,7 +621,31 @@
   "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
   "https://github.com/cobanov/PS5LM",
   "https://www.mercor.com/research/labor-index/benchmark-map/",
-  "https://machinelearning.apple.com/research/mlx-distributed-inference"
+  "https://machinelearning.apple.com/research/mlx-distributed-inference",
+  "https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580",
+  "https://www.theregister.com/ai-and-ml/2026/10/16/new-online-tool-will-check-lawyers-sloppy-ai-written-briefs-since-they-cant-seem-to-be-bothered/5303589",
+  "https://www.anthropic.com/research/ecdsa-curve-origins",
+  "https://bfl.ai/blog/flux-3-image-klein",
+  "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+  "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+  "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+  "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+  "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+  "https://claude.dev/blog/solving-code-review-at-anthropic/",
+  "https://github.com/home-assistant/home-assistant.io/issues/49314",
+  "https://alexwang.ai/posts/associative-memory/",
+  "https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/",
+  "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+  "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+  "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+  "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+  "https://arstechnica.com/tech-policy/2026/10/polymarket-saw-600-million-in-election-trades-after-the-elections-were-over/",
+  "https://arstechnica.com/cars/2026/10/tesla-turns-to-50-year-old-stunt-technology-as-it-tries-to-roadster-again/",
+  "https://arstechnica.com/tech-policy/2026/10/romance-scam-doc-super-scam-me-takes-viewers-deep-into-love-bombing-terrain/",
+  "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+  "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+  "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+  "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/"
  ],
  "stories": [
   {
@@ -11052,9 +11076,585 @@
    "urgency": 5,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 284,
+   "ts": "2026-10-17T05:20:15.268139+07:00",
+   "title": "Ubuntu Stonking Stingray swims into spotlight with pre-release kernel",
+   "link": "https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Ubuntu's new pre-release kernel and TSMC's infrastructure evaluations affect server operations and hardware deployment.",
+   "summary": "Ubuntu has released a new beta kernel with advanced features, while TSMC scouts data center readiness and power supplies for future chip expansions. These updates highlight ongoing developments in server OS engineering and infrastructure capacity planning.",
+   "vocab": [
+    {
+     "word": "evaluation",
+     "thai": "การประเมิน",
+     "level": "B2",
+     "example": "In internal evaluations, the model ranks first in text-to-image generation."
+    },
+    {
+     "word": "expansion",
+     "thai": "การขยาย",
+     "level": "B2",
+     "example": "Silicon giant budgets up to $64B for expansion while keeping an eye on construction."
+    },
+    {
+     "word": "contributor",
+     "thai": "ผู้มีส่วนร่วม",
+     "level": "B2",
+     "example": "Torvalds says contributors must understand their code, whatever tools they use."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 285,
+   "ts": "2026-10-17T05:20:15.268220+07:00",
+   "title": "Claude reveals ECDSA curve origins",
+   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Resolves a decades-old cryptographic mystery regarding widely used ECDSA standards affecting server security.",
+   "summary": "Researchers have uncovered the exact origins of the seeds used in standard ECDSA elliptic curves, solving a long-standing cryptographic mystery. The investigation revealed the parameters were generated using a standard random-number generator rather than hidden backdoors.",
+   "vocab": [
+    {
+     "word": "cryptographic",
+     "thai": "เกี่ยวกับการเข้ารหัสลับ",
+     "level": "C1",
+     "example": "ECDSA is one of our most widely used cryptographic standards."
+    },
+    {
+     "word": "speculation",
+     "thai": "การคาดเดา",
+     "level": "B2",
+     "example": "Readers should take this as a fun closing chapter and the end of years of speculation."
+    },
+    {
+     "word": "parameter",
+     "thai": "พารามิเตอร์, ตัวแปรควบคุม",
+     "level": "B2",
+     "example": "The specifications published a seed parameter whose hash value is used to define the curve."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 286,
+   "ts": "2026-10-17T05:20:15.268247+07:00",
+   "title": "FLUX 3 Image Klein",
+   "link": "https://bfl.ai/blog/flux-3-image-klein",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "A new open-weights AI model optimized for local consumer GPUs impacts AI deployment strategies.",
+   "summary": "A new 5.6-billion parameter open weights model for text-to-image generation has been released with optimizations for local hardware. The model enables efficient on-device execution and fine-tuning across various consumer GPUs.",
+   "vocab": [
+    {
+     "word": "optimization",
+     "thai": "การปรับให้เหมาะสม",
+     "level": "C1",
+     "example": "The model was optimized for consumer GPUs to improve performance."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งาน",
+     "level": "B2",
+     "example": "Teams with local deployment requirements can evaluate the model on their own infrastructure."
+    },
+    {
+     "word": "resolution",
+     "thai": "ความละเอียด",
+     "level": "B2",
+     "example": "It supports native high-resolution image generation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 287,
+   "ts": "2026-10-17T05:20:15.268285+07:00",
+   "title": "Designing more efficient quantum circuits with Claude",
+   "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Major AI infrastructure and algorithm advancement utilizing Claude to design efficient quantum circuits.",
+   "summary": "AI assistant Claude has successfully designed quantum circuits that significantly outperform previously published configurations for complex algorithms. These efficiency gains could accelerate the practical arrival of useful quantum computing applications.",
+   "vocab": [
+    {
+     "word": "simulation",
+     "thai": "การจำลอง",
+     "level": "B2",
+     "example": "We gave Claude plain-language specifications for physics simulation and number theory."
+    },
+    {
+     "word": "configuration",
+     "thai": "การปรับแต่งโครงสร้าง",
+     "level": "C1",
+     "example": "Claude found designs that improve on the best published circuits."
+    },
+    {
+     "word": "disturbance",
+     "thai": "การรบกวน",
+     "level": "C1",
+     "example": "A tiny disturbance can nudge a qubit’s state and cause errors."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 288,
+   "ts": "2026-10-17T05:20:15.268305+07:00",
+   "title": "C++26: The New Debugging Header",
+   "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Standardization of a C++ debugging header directly impacts software development, DevOps tools, and systems programming.",
+   "summary": "The upcoming C++26 standard introduces a unified debugging header that standardizes breakpoint and debugger detection functions. This change eliminates the need for projects to maintain custom platform-specific debugging macros.",
+   "vocab": [
+    {
+     "word": "standardization",
+     "thai": "การกำหนดมาตรฐาน",
+     "level": "C1",
+     "example": "The platform knowledge was well-known but lacked formal standardization."
+    },
+    {
+     "word": "unconditional",
+     "thai": "แบบไม่มีเงื่อนไข",
+     "level": "C1",
+     "example": "std::breakpoint() is an unconditional breakpoint that halts execution."
+    },
+    {
+     "word": "mechanism",
+     "thai": "กลไก",
+     "level": "B2",
+     "example": "How this works under the hood varies depending on the platform's mechanism."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 289,
+   "ts": "2026-10-17T05:20:27.169359+07:00",
+   "title": "How the Claude Code team does code review",
+   "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers high-volume AI code generation and automated code review workflows, relevant to DevOps and software engineering practices.",
+   "summary": "The Claude Code team explains how they handle massive volumes of AI-generated code by shifting reviews to automated systems. This approach preserves human attention for complex problems without increasing software incidents.",
+   "vocab": [
+    {
+     "word": "imprecise",
+     "thai": "ไม่แม่นยำ",
+     "level": "C1",
+     "example": "We think did a human read the code? is an imprecise proxy for what could go wrong."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "This catches routine mistakes and saves team attention for higher-level questions and scrutiny."
+    },
+    {
+     "word": "percentile",
+     "thai": "เปอร์เซ็นไทล์",
+     "level": "C1",
+     "example": "To measure human time, we track human approvals per PR median and 95th percentile."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 290,
+   "ts": "2026-10-17T05:20:27.169397+07:00",
+   "title": "I never authorized an integration that scans my secrets",
+   "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Addresses security vulnerabilities, password scanning without explicit opt-in, and server-side privacy concerns.",
+   "summary": "Home Assistant users raised privacy concerns after discovering a built-in feature that checks local passwords against leaked database lists. Maintainers clarified that the system uses local hashing to protect user data, but acknowledged the feature should have been transparent.",
+   "vocab": [
+    {
+     "word": "dismissive",
+     "thai": "ที่ดูถูก, ที่ไม่ใส่ใจ",
+     "level": "C1",
+     "example": "I want to follow up because my earlier replies were more dismissive than this deserved."
+    },
+    {
+     "word": "transparent",
+     "thai": "โปร่งใส",
+     "level": "B2",
+     "example": "To be transparent, this check isn't new and has been part of the Supervisor for years."
+    },
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่าน)",
+     "level": "B2",
+     "example": "As a red teamer, I can give you a list about how I could abuse this to loot credentials."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 291,
+   "ts": "2026-10-17T05:20:27.169423+07:00",
+   "title": "You could have invented transformers from memory",
+   "link": "https://alexwang.ai/posts/associative-memory/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Explains the fundamental memory architecture of large language models and transformers, relevant to AI infrastructure.",
+   "summary": "A technical post explores how different neural network layers function as memory stores by analyzing linear maps, MLPs, and self-attention. It demonstrates how these architectures scale in capacity and information recall.",
+   "vocab": [
+    {
+     "word": "intuition",
+     "thai": "สัญชาตญาณ, ความเข้าใจโดยสามัญสำนึก",
+     "level": "B2",
+     "example": "In this post, I will go through an intuitive way to look at linear maps and self-attention."
+    },
+    {
+     "word": "accumulate",
+     "thai": "สะสม",
+     "level": "B2",
+     "example": "The most basic memory store is linear: it simply accumulates memories via outer products."
+    },
+    {
+     "word": "unbounded",
+     "thai": "ไม่จำกัด",
+     "level": "C1",
+     "example": "Self-attention has very good recall and can store a potentially unbounded number of memories."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 292,
+   "ts": "2026-10-17T05:20:27.169486+07:00",
+   "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
+   "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Addresses software licensing, digital rights, and server dependency issues affecting consumer tech and gaming services.",
+   "summary": "A US representative proposed a new bill requiring companies to sell video games as owned property rather than temporary licenses. The legislation aims to prevent games from becoming permanently unplayable when publishers shut down authentication servers.",
+   "vocab": [
+    {
+     "word": "consumer",
+     "thai": "ผู้บริโภค",
+     "level": "B2",
+     "example": "A new bill aims to ensure that buying a video game gives the consumer ownership."
+    },
+    {
+     "word": "discontinue",
+     "thai": "ยุติ, เลิกผลิต",
+     "level": "B2",
+     "example": "Some consumers have been protesting Sony’s announcement that it plans to discontinue releases."
+    },
+    {
+     "word": "preservation",
+     "thai": "การอนุรักษ์, การรักษาไว้",
+     "level": "B2",
+     "example": "The argument is that physical discs aid with long-term preservation of games."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 293,
+   "ts": "2026-10-17T05:20:27.169515+07:00",
+   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
+   "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers a significant security and privacy bug in smart glasses hardware that secretly recorded user conversations.",
+   "summary": "Meta smart glasses suffered from a firmware bug that caused them to record private conversations without user prompts. Although Meta stated the issue has been resolved, the incident highlights ongoing privacy concerns regarding wearable devices.",
+   "vocab": [
+    {
+     "word": "consent",
+     "thai": "ความยินยอม",
+     "level": "B2",
+     "example": "Some users reported online that their smart glasses were recording without their consent."
+    },
+    {
+     "word": "replicate",
+     "thai": "ทำซ้ำ",
+     "level": "C1",
+     "example": "Android Authority said it was unable to replicate the problem before Meta fixed it."
+    },
+    {
+     "word": "inconspicuous",
+     "thai": "ที่ไม่สะดุดตา",
+     "level": "C1",
+     "example": "Meta’s glasses pushed privacy boundaries further with their more inconspicuous look."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 294,
+   "ts": "2026-10-17T05:20:27.169546+07:00",
+   "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
+   "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses FDA policy shifts regarding unproven drug compounds, which is outside core IT and data center operations.",
+   "summary": "The FDA is reviewing a proposed policy that would grant enforcement discretion for certain unproven peptide drugs. Despite warnings from staff scientists regarding safety risks, the drugs remain popular among wellness movements.",
+   "vocab": [
+    {
+     "word": "efficacy",
+     "thai": "ประสิทธิภาพ (ของยา)",
+     "level": "C1",
+     "example": "FDA scientists found that the drugs have not been sufficiently studied to establish safety and efficacy."
+    },
+    {
+     "word": "discretion",
+     "thai": "ดุลพินิจ",
+     "level": "C1",
+     "example": "The proposal would give the FDA enforcement discretion on certain peptide drugs."
+    },
+    {
+     "word": "customized",
+     "thai": "ที่ปรับแต่งตามความต้องการ",
+     "level": "B2",
+     "example": "Compounding pharmacies make customized formulas for specialized drugs."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 295,
+   "ts": "2026-10-17T05:20:39.113503+07:00",
+   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Meta's new commercial terms allow automated scraping of linked websites for AI training, raising significant legal and operational concerns for web publishers.",
+   "summary": "Meta is updating its commercial terms to let automated bots crawl and scrape linked websites for AI training without allowing businesses to opt out. This move forces website owners to choose between accepting AI data harvesting or abandoning Meta business accounts.",
+   "vocab": [
+    {
+     "word": "infer",
+     "thai": "อนุมาน, สรุป",
+     "level": "C1",
+     "example": "Notably, there is no mention of AI, but it’s inferred from a single use of the word 'train'."
+    },
+    {
+     "word": "supplemental",
+     "thai": "ที่เป็นส่วนเสริม",
+     "level": "C1",
+     "example": "These terms apply alongside any other applicable supplemental terms."
+    },
+    {
+     "word": "commercial",
+     "thai": "เชิงพาณิชย์",
+     "level": "B2",
+     "example": "Meta may soon update its commercial terms to require business accounts to allow AI training."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 296,
+   "ts": "2026-10-17T05:20:39.113619+07:00",
+   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
+   "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Evaluates high-end client hardware running local LLMs and ARM architecture, relevant to workstation and developer tooling.",
+   "summary": "Microsoft's new Surface Laptop Ultra combines powerful Nvidia graphics with ARM architecture to handle local AI models and demanding workloads. While reviewers praise its high-end performance, the steep price tag and memory configuration raise questions for power users.",
+   "vocab": [
+    {
+     "word": "prospective",
+     "thai": "ที่อาจเกิดขึ้นในอนาคต, ที่คาดหวังไว้",
+     "level": "C1",
+     "example": "Prospective buyers should note that the lower-specced model ships with Windows 11 Home."
+    },
+    {
+     "word": "configuration",
+     "thai": "การจัดรูปแบบ, โครงสร้างระบบ",
+     "level": "C1",
+     "example": "Depending on your selected processor and memory configuration, MSRP can reach high levels."
+    },
+    {
+     "word": "competently",
+     "thai": "อย่างมีความสามารถ, อย่างเหมาะสม",
+     "level": "B2",
+     "example": "The question isn't whether it can achieve things competently, but whether it provides a compelling reason to switch."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 297,
+   "ts": "2026-10-17T05:20:39.113650+07:00",
+   "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
+   "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers space launch capacity and commercial space partnerships affecting satellite infrastructure deployment.",
+   "summary": "Reflect Orbital has contracted with Indian launch provider Skyroot Aerospace to secure orbital deployment for its proposed in-space mirror constellation. This move highlights growing concerns among satellite operators regarding a looming shortage of launch capacity in the United States.",
+   "vocab": [
+    {
+     "word": "illumination",
+     "thai": "การให้แสงสว่าง",
+     "level": "C1",
+     "example": "The business model involves beaming sunlight to the ground for power generation and illumination."
+    },
+    {
+     "word": "procure",
+     "thai": "จัดหามา",
+     "level": "C1",
+     "example": "Companies often procure additional launch services to ensure payload delivery."
+    },
+    {
+     "word": "capacity",
+     "thai": "ความจุ, กำลังการผลิต",
+     "level": "B2",
+     "example": "Satellite operators fear a coming under-supply of launch capacity in the United States."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 298,
+   "ts": "2026-10-17T05:20:39.113698+07:00",
+   "title": "Blue Origin is going all in on the New Glenn rocket",
+   "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Details major aerospace manufacturing and launch infrastructure expansion investments in Florida.",
+   "summary": "Blue Origin is aggressively expanding its Florida launch and manufacturing facilities to support over 100 heavy-lift New Glenn rocket flights annually by the end of the decade. The multibillion-dollar investment includes new launch pads, landing ships, and payload processing integration bays.",
+   "vocab": [
+    {
+     "word": "expansion",
+     "thai": "การขยายตัว",
+     "level": "B2",
+     "example": "Blue Origin announced a major expansion of its already considerable Florida launch facilities."
+    },
+    {
+     "word": "refurbish",
+     "thai": "ปรับปรุงใหม่, ซ่อมแซม",
+     "level": "C1",
+     "example": "Blue Origin is the largest employer to manufacture, launch, and refurbish rockets on the Space Coast."
+    },
+    {
+     "word": "supersede",
+     "thai": "แทนที่, เข้ามาแทน",
+     "level": "C1",
+     "example": "That would seem to be a reference to superseding the 800-pound gorilla on the Florida Space Coast."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 299,
+   "ts": "2026-10-17T05:20:39.113730+07:00",
+   "title": "Googlebook review: Android on a laptop is still Android",
+   "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Reviews new operating system hardware adaptation targeted at laptops, relevant to end-user computing environments.",
+   "summary": "Google's new 'Googlebooks' initiative attempts to bring native Android applications and premium hardware form factors to the laptop market. While the hardware matches high-end Windows devices, the software experience still closely resembles a stretched mobile operating system.",
+   "vocab": [
+    {
+     "word": "entrench",
+     "thai": "ฝังรากลึก, ตั้งมั่น",
+     "level": "C1",
+     "example": "These platforms are entrenched with decades of software and UI conventions."
+    },
+    {
+     "word": "adapt",
+     "thai": "ปรับ, ดัดแปลง",
+     "level": "B2",
+     "example": "Android was designed for phones, but Google keeps trying to adapt the OS to larger machines."
+    },
+    {
+     "word": "convention",
+     "thai": "ธรรมเนียมปฏิบัติ, ข้อตกลง",
+     "level": "B2",
+     "example": "The dominant operating systems rely heavily on traditional software conventions."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 284,
+ "next_id": 300,
  "vocab": [
   {
    "word": "commissioning",
