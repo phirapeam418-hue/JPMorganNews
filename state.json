@@ -597,7 +597,31 @@
   "https://www.datacenterdynamics.com/en/news/axe-compute-selects-penguin-solutions-for-ai-platform/",
   "https://www.datacenterdynamics.com/en/whitepapers/improving-data-center-resilience-with-intelligent-safety-solutions/",
   "https://www.datacenterdynamics.com/en/news/pure-dc-completes-installation-of-final-transformer-at-90mw-brent-cross-data-center/",
-  "https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487"
+  "https://www.theregister.com/security/2026/10/16/attack-on-bae-managed-system-disrupts-us-bankruptcy-courts/5303487",
+  "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
+  "https://www.datacenterdynamics.com/en/news/googles-deepmind-hiring-for-nuclear-expert/",
+  "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
+  "https://www.datacenterdynamics.com/en/news/stranded-natural-gas-could-power-offshore-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
+  "https://www.datacenterdynamics.com/en/news/meeza-and-microsoft-launch-sovereign-private-cloud-in-qatar/",
+  "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/",
+  "https://www.datacenterdynamics.com/en/news/spacexs-starlink-encourages-every-satellite-operator-to-share-data-with-stargaze-platform-for-safety/",
+  "https://www.datacenterdynamics.com/en/news/indias-odisha-govt-approves-1862m-data-center-project/",
+  "https://www.datacenterdynamics.com/en/news/uk-council-launches-heat-network-feasibility-study-for-proposed-data-centers-near-didcot-power-station-in-oxfordshire/",
+  "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503",
+  "https://www.theregister.com/ai-and-ml/2026/10/16/sponsored-global-data-centers-weighs-the-price-tag-of-not-building-fast-enough/5303402",
+  "https://www.theregister.com/cyber-crime/2026/10/16/uncle-scam-wants-you-to-cough-up-your-cash-and-personal-data-fbi-warns-ahead-of-midterms/5303512",
+  "https://www.theregister.com/software/2026/10/16/british-watchdog-seeks-tougher-terms-around-microsofts-dominance-of-business-software/5303520",
+  "https://www.theregister.com/ai-and-ml/2026/10/16/want-your-ai-chats-to-stay-private-brave-tees-up-end-to-end-encryption/5303462",
+  "https://www.theregister.com/public-sector/2026/10/16/capita-set-to-miss-legal-deadline-on-93000-civil-servants-pension-fixes-claims-union/5303500",
+  "https://www.theregister.com/os-platforms/2026/10/16/microsoft-bringing-defender-to-linux-desktops-repeat-microsoft-bringing-defender-to-linux-desktops/5303477",
+  "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+  "https://www.theregister.com/security/2026/10/16/thief-snatches-school-snappers-sd-cards-in-smash-grab/5303379",
+  "https://blog.cloudflare.com/verified-bots-accountability/",
+  "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+  "https://github.com/cobanov/PS5LM",
+  "https://www.mercor.com/research/labor-index/benchmark-map/",
+  "https://machinelearning.apple.com/research/mlx-distributed-inference"
  ],
  "stories": [
   {
@@ -10416,9 +10440,621 @@
    "urgency": 8,
    "scale": 9,
    "credibility": 9
+  },
+  {
+   "id": 267,
+   "ts": "2026-10-17T02:10:29.729317+07:00",
+   "title": "DCN Warsaw 2026: Poland deserves a greater share of global data center capacity",
+   "link": "https://www.datacenterdynamics.com/en/analysis/dcn-warsaw-2026-poland-deserves-a-greater-share-of-global-data-center-capacity/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Poland's data center market and energy transition offer strategic expansion insights but require no immediate operational actions.",
+   "summary": "Industry leaders in Poland are advocating for major data center growth as the national power grid shifts away from coal toward renewables and nuclear energy. This transformation positions the country as an attractive destination to alleviate capacity shortages across Europe.",
+   "vocab": [
+    {
+     "word": "wean",
+     "thai": "ค่อยๆ เลิกหรือลดการพึ่งพา",
+     "level": "C1",
+     "example": "The country's energy sector is undergoing a massive transformation and is weaning itself off fossil fuels."
+    },
+    {
+     "word": "tangible",
+     "thai": "จับต้องได้หรือชัดเจน",
+     "level": "B2",
+     "example": "Progress has been tangible as renewable electricity generation exceeded coal for the first time."
+    },
+    {
+     "word": "accommodate",
+     "thai": "รองรับ",
+     "level": "B2",
+     "example": "The transmission operator has a strategy aiming to accommodate digital infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 268,
+   "ts": "2026-10-17T02:10:29.729374+07:00",
+   "title": "Elisa to switch off Estonian 2G network in 2028",
+   "link": "https://www.datacenterdynamics.com/en/news/elisa-to-switch-off-estonian-2g-network-in-2028/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The planned 2G network shutdown in Estonia affects legacy IoT systems by 2028, requiring forward planning for regional cellular telemetry.",
+   "summary": "Estonian operator Elisa announced it will sunset its 30-year-old 2G network in 2028 to reallocate spectrum to 4G and 5G. The change will mainly impact legacy IoT systems like smart meters and alarms that still rely on 2G connectivity.",
+   "vocab": [
+    {
+     "word": "obsolete",
+     "thai": "ล้าสมัยหรือเลิกใช้แล้ว",
+     "level": "B2",
+     "example": "Elisa described its 2G service as obsolete while stating that it will refarm the frequencies."
+    },
+    {
+     "word": "divert",
+     "thai": "เบี่ยงเบนหรือเปลี่ยนทิศทาง",
+     "level": "B2",
+     "example": "The company diverts its focus to its 4G and 5G networks."
+    },
+    {
+     "word": "refarm",
+     "thai": "จัดสรรคลื่นความถี่ใหม่เพื่อเทคโนโลยีที่ทันสมัยกว่า",
+     "level": "C1",
+     "example": "The telco stated that it will refarm the frequencies to develop more modern mobile networks."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 269,
+   "ts": "2026-10-17T02:10:29.729414+07:00",
+   "title": "Optical switching startup Salience Labs raises $125m with AMD and Intel participating in round",
+   "link": "https://www.datacenterdynamics.com/en/news/optical-switching-startup-salience-labs-raises-125m-with-amd-and-intel-participating-in-round/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Advanced optical circuit switching addresses critical latency and bandwidth bottlenecks in AI data center clusters.",
+   "summary": "Photonic chip startup Salience Labs secured $125 million in Series B funding with backing from Intel Capital and AMD Ventures. The capital will accelerate the commercial deployment of optical circuit switches designed to improve efficiency in massive AI data centers.",
+   "vocab": [
+    {
+     "word": "photonic",
+     "thai": "ที่เกี่ยวกับระบบแสงหรือการใช้แสงส่งข้อมูล",
+     "level": "C1",
+     "example": "Salience Labs raised funding to support the development of photonic chips for AI data center connectivity."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วงเวลาในการส่งข้อมูล",
+     "level": "B2",
+     "example": "When deploying optical connectivity, what matters most to customers is utilization and latency."
+    },
+    {
+     "word": "dwindling",
+     "thai": "ลดน้อยลงเรื่อยๆ",
+     "level": "C1",
+     "example": "If you look at who has actually shown working silicon, it becomes a dwindling number."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 270,
+   "ts": "2026-10-17T02:10:29.729433+07:00",
+   "title": "Meeza and Microsoft launch sovereign private cloud in Qatar",
+   "link": "https://www.datacenterdynamics.com/en/news/meeza-and-microsoft-launch-sovereign-private-cloud-in-qatar/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Meeza and Microsoft launched an Azure Local-based sovereign cloud in Qatar, reflecting growing hybrid cloud architectures for regulated markets.",
+   "summary": "Microsoft and Qatari data center provider Meeza launched a sovereign private cloud service powered by Azure Local hardware. The offering allows government and enterprise customers to keep sensitive workloads within local borders while still leveraging Azure tools.",
+   "vocab": [
+    {
+     "word": "differentiator",
+     "thai": "จุดเด่นที่สร้างความแตกต่าง",
+     "level": "C1",
+     "example": "Our key differentiator is our ability to bring the entire technology ecosystem together."
+    },
+    {
+     "word": "residency",
+     "thai": "ถิ่นที่ตั้งของข้อมูลตามข้อกำหนดทางกฎหมาย",
+     "level": "B2",
+     "example": "The service ensures local data residency and compliance for government workloads."
+    },
+    {
+     "word": "hybrid",
+     "thai": "แบบผสมผสาน",
+     "level": "B2",
+     "example": "This offering supports each organization's broader hybrid cloud strategy."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 271,
+   "ts": "2026-10-17T02:10:29.729452+07:00",
+   "title": "LightEdge eyes data center project outside Des Moines, Iowa",
+   "link": "https://www.datacenterdynamics.com/en/news/lightedge-eyes-data-center-project-outside-des-moines-iowa/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "LightEdge is expanding colocation capacity in Iowa with up to 46MW of power, though scaling will occur gradually over several years.",
+   "summary": "Colocation provider LightEdge has acquired land near Des Moines, Iowa, for a new data center facility that could scale up to 46MW. The project plans to use a closed-loop cooling design to save water and will grow gradually based on tenant demand.",
+   "vocab": [
+    {
+     "word": "colocation",
+     "thai": "บริการเช่าพื้นที่วางเครื่องเซิร์ฟเวอร์ในศูนย์ข้อมูล",
+     "level": "B2",
+     "example": "LightEdge signed a letter of intent for a colocation data center facility."
+    },
+    {
+     "word": "incentive",
+     "thai": "สิ่งจูงใจ (เช่น สิทธิประโยชน์ทางภาษี)",
+     "level": "B2",
+     "example": "The company will not be seeking any tax incentives from the city."
+    },
+    {
+     "word": "gradually",
+     "thai": "อย่างค่อยเป็นค่อยไป",
+     "level": "B2",
+     "example": "The facility will begin with a smaller power load that could gradually scale over many years."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 272,
+   "ts": "2026-10-17T02:10:29.729477+07:00",
+   "title": "SpaceX’s Starlink encourages every satellite operator to share data with Stargaze platform, for safety",
+   "link": "https://www.datacenterdynamics.com/en/news/spacexs-starlink-encourages-every-satellite-operator-to-share-data-with-stargaze-platform-for-safety/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Starlink's orbital tracking initiative relates to satellite fleet management and space safety, holding low operational relevance for terrestrial data centers.",
+   "summary": "Starlink is encouraging satellite operators worldwide to contribute orbital tracking data to its Stargaze collision-avoidance platform. However, concerns remain regarding data privacy and the proprietary control SpaceX maintains over the aggregated information.",
+   "vocab": [
+    {
+     "word": "maneuver",
+     "thai": "การเคลื่อนที่หลบหลีกหรือการบังคับทิศทาง",
+     "level": "B2",
+     "example": "Not sharing satellite maneuvers ahead of time can result in dangerous close approaches."
+    },
+    {
+     "word": "proprietary",
+     "thai": "ที่เป็นกรรมสิทธิ์เฉพาะหรือมีการสงวนลิขสิทธิ์",
+     "level": "C1",
+     "example": "Stargaze will compile a proprietary map of all orbiting satellites."
+    },
+    {
+     "word": "suboptimal",
+     "thai": "ต่ำกว่าระดับที่เหมาะสมที่สุดหรือไม่เต็มประสิทธิภาพ",
+     "level": "C1",
+     "example": "The sensors are designed to measure stars, making them suboptimal for tracking satellites."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 273,
+   "ts": "2026-10-17T02:12:52.716087+07:00",
+   "title": "UK council launches heat network feasibility study for proposed data centers near Didcot Power Station in Oxfordshire",
+   "link": "https://www.datacenterdynamics.com/en/news/uk-council-launches-heat-network-feasibility-study-for-proposed-data-centers-near-didcot-power-station-in-oxfordshire/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The story examines district heating regulations and waste heat feasibility for large data center developments including AWS.",
+   "summary": "A local council in the UK has commissioned a feasibility study to explore using waste heat from planned data centers for district heating. The project evaluates whether large developments, including an Amazon Web Services site, can provide heat to nearby communities.",
+   "vocab": [
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้",
+     "level": "B2",
+     "example": "The council has launched a heat network feasibility study for data center developments."
+    },
+    {
+     "word": "adjacent",
+     "thai": "ติดกัน หรือ อยู่ใกล้เคียงกัน",
+     "level": "B2",
+     "example": "The developments are located adjacent to the Didcot Power Station."
+    },
+    {
+     "word": "overarching",
+     "thai": "ครอบคลุมทั้งหมด หรือ ที่สำคัญที่สุด",
+     "level": "C1",
+     "example": "According to the council, the study has several overarching aims."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 274,
+   "ts": "2026-10-17T02:12:52.716122+07:00",
+   "title": "Networking problems after the October 2026 Windows update? NTLM might be to blame",
+   "link": "https://www.theregister.com/security/2026/10/16/networking-problems-after-the-october-2026-windows-update-ntlm-might-be-to-blame/5303503",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Networking and authentication issues caused by Windows updates directly affect enterprise system operations.",
+   "summary": "Recent Windows updates appear to be causing unexpected network connectivity problems related to legacy NTLM authentication. Operations teams running Windows servers may need to monitor authentication traffic and prepare alternative configurations.",
+   "vocab": [
+    {
+     "word": "interim",
+     "thai": "ชั่วคราว หรือ ในช่วงเวลาเปลี่ยนผ่าน",
+     "level": "B2",
+     "example": "Ubuntu interim releases are getting interesting again."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวัง หรือ การสอดแนม",
+     "level": "B2",
+     "example": "New tools have been created to expand smartphone surveillance."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่คงอยู่อย่างต่อเนื่อง หรือ ที่ไม่ยอมแพ้",
+     "level": "B2",
+     "example": "Persistent software agents appeal to AI companies looking for automation."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 275,
+   "ts": "2026-10-17T02:12:52.716146+07:00",
+   "title": "NTT Global Data Centers weighs the price tag of not building fast enough",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/16/sponsored-global-data-centers-weighs-the-price-tag-of-not-building-fast-enough/5303402",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "The report highlights the operational and financial risks global operators face when data center construction fails to keep pace with demand.",
+   "summary": "NTT Global Data Centers is assessing the high commercial cost of not building out facility capacity fast enough. As demand surges from hyperscalers and AI firms, delays in power delivery and construction can lead to lost market share.",
+   "vocab": [
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "The company was sold at an equivalent multi-billion dollar valuation."
+    },
+    {
+     "word": "equivalent",
+     "thai": "สิ่งที่เท่าเทียมกัน หรือ มีค่าเสมอกัน",
+     "level": "B2",
+     "example": "The deal closed at the equivalent of a three billion dollar market price."
+    },
+    {
+     "word": "reskin",
+     "thai": "การปรับปรุงหน้าตาส่วนต่อประสานใหม่",
+     "level": "C1",
+     "example": "The browser arrived with a significant visual reskin."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 276,
+   "ts": "2026-10-17T02:12:52.716190+07:00",
+   "title": "British watchdog seeks tougher terms around Microsoft's dominance of business software",
+   "link": "https://www.theregister.com/software/2026/10/16/british-watchdog-seeks-tougher-terms-around-microsofts-dominance-of-business-software/5303520",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Antitrust scrutiny into Microsoft business software affects enterprise licensing, cloud migration, and vendor lock-in.",
+   "summary": "A UK competition watchdog is pushing for stricter rules to limit Microsoft's dominance over corporate enterprise software. Any regulatory changes could alter cloud software pricing models and cross-platform flexibility for IT operations.",
+   "vocab": [
+    {
+     "word": "dominance",
+     "thai": "การครอบงำ หรือ ความมีอิทธิพลเหนือตลาด",
+     "level": "B2",
+     "example": "Regulators seek tougher rules around the tech firm's market dominance."
+    },
+    {
+     "word": "watchdog",
+     "thai": "หน่วยงานกำกับดูแล หรือ องค์กรตรวจสอบ",
+     "level": "B2",
+     "example": "A British watchdog wants fairer competition in enterprise software."
+    },
+    {
+     "word": "humane",
+     "thai": "ที่มีมนุษยธรรม หรือ เห็นอกเห็นใจผู้อื่น",
+     "level": "B2",
+     "example": "The author advocated for humane work that respects developer well-being."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 277,
+   "ts": "2026-10-17T02:13:41.656406+07:00",
+   "title": "Microsoft bringing Defender to Linux desktops. Repeat: Microsoft bringing Defender to Linux desktops",
+   "link": "https://www.theregister.com/os-platforms/2026/10/16/microsoft-bringing-defender-to-linux-desktops-repeat-microsoft-bringing-defender-to-linux-desktops/5303477",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft is officially bringing its Defender security tool to Linux desktops, which impacts enterprise endpoint management.",
+   "summary": "Microsoft has announced that Windows Defender will soon be available for Linux desktop environments. This expansion helps system administrators secure multi-platform enterprise networks using a single vendor tool.",
+   "vocab": [
+    {
+     "word": "environment",
+     "thai": "สภาพแวดล้อม",
+     "level": "B2",
+     "example": "This expansion helps system administrators secure multi-platform enterprise networks."
+    },
+    {
+     "word": "expansion",
+     "thai": "การขยายตัว",
+     "level": "B2",
+     "example": "This expansion helps system administrators secure multi-platform networks."
+    },
+    {
+     "word": "available",
+     "thai": "ที่มีอยู่, หาได้",
+     "level": "B2",
+     "example": "Microsoft announced that Windows Defender will soon be available for Linux."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 278,
+   "ts": "2026-10-17T02:13:41.656442+07:00",
+   "title": "Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+   "link": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Postgres database release delayed due to bug finding, affecting database administrators and developers.",
+   "summary": "The release of Postgres 19 has been postponed after AI-assisted code reviews uncovered numerous hidden bugs. This delay highlights how advanced automated testing can catch deep software flaws before production deployment.",
+   "vocab": [
+    {
+     "word": "postpone",
+     "thai": "เลื่อนออกไป",
+     "level": "B2",
+     "example": "The release of Postgres 19 has been postponed after bug reviews."
+    },
+    {
+     "word": "uncover",
+     "thai": "เปิดเผย, ค้นพบ",
+     "level": "B2",
+     "example": "AI-assisted reviews uncovered numerous hidden bugs."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "C1",
+     "example": "This helps catch software flaws before production deployment."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 279,
+   "ts": "2026-10-17T02:13:41.656485+07:00",
+   "title": "Continuous accountability for Verified bots",
+   "link": "https://blog.cloudflare.com/verified-bots-accountability/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Cloudflare introduces a trust and accountability system for web crawlers and verified bots, relevant to web infrastructure.",
+   "summary": "Cloudflare has launched a continuous accountability system to evaluate whether verified bots respect website preferences. The tool measures crawler behavior to help maintain network trust and server resource limits.",
+   "vocab": [
+    {
+     "word": "evaluate",
+     "thai": "ประเมินผล",
+     "level": "B2",
+     "example": "The system evaluates whether verified bots respect website preferences."
+    },
+    {
+     "word": "maintain",
+     "thai": "รักษาไว้",
+     "level": "B2",
+     "example": "This helps maintain network trust and server resource limits."
+    },
+    {
+     "word": "preference",
+     "thai": "ความชื่นชอบ, การเลือก",
+     "level": "B2",
+     "example": "Bots must respect website owner preferences."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 280,
+   "ts": "2026-10-17T02:13:41.656502+07:00",
+   "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+   "link": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "New FCC rules prompt eBay to restrict certain radio equipment listings, affecting hardware supply chains.",
+   "summary": "eBay is restricting listings for specific radio transmitting hardware to comply with new FCC supply chain security rules. However, gear dedicated exclusively to amateur radio operators is exempt from the policy.",
+   "vocab": [
+    {
+     "word": "comply",
+     "thai": "ปฏิบัติตาม",
+     "level": "B2",
+     "example": "eBay restricts listings to comply with new FCC rules."
+    },
+    {
+     "word": "restrict",
+     "thai": "จำกัด",
+     "level": "B2",
+     "example": "The online marketplace has imposed new restrictions on equipment."
+    },
+    {
+     "word": "exempt",
+     "thai": "ได้รับการยกเว้น",
+     "level": "C1",
+     "example": "Amateur radio gear is exempt from the new policy."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 281,
+   "ts": "2026-10-17T02:13:41.656519+07:00",
+   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+   "link": "https://github.com/cobanov/PS5LM",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Running local AI models natively on jailbroken PS5 hardware via llama.cpp, relevant to localized AI compute experiments.",
+   "summary": "Developers can now run large language models natively on a jailbroken PlayStation 5 using GPU acceleration. The setup turns the console into a local private model server for home or small network use.",
+   "vocab": [
+    {
+     "word": "acceleration",
+     "thai": "การเร่งความเร็ว",
+     "level": "C1",
+     "example": "The tool uses GPU acceleration on the console."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "This provides a local alternative to cloud-based servers."
+    },
+    {
+     "word": "configure",
+     "thai": "กำหนดค่า",
+     "level": "B2",
+     "example": "Users can configure the hardware to serve local network requests."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 282,
+   "ts": "2026-10-17T02:13:41.656535+07:00",
+   "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+   "link": "https://www.mercor.com/research/labor-index/benchmark-map/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Research mapping AI benchmark coverage against actual workforce tasks, relevant to macro AI adoption trends.",
+   "summary": "A new research study shows that 90 percent of US working hours involve tasks poorly covered by current AI benchmarks. This gap makes it difficult to accurately evaluate how well AI models perform real-world jobs.",
+   "vocab": [
+    {
+     "word": "comprehensive",
+     "thai": "ครอบคลุม",
+     "level": "B2",
+     "example": "The benchmark map aims to be a comprehensive resource."
+    },
+    {
+     "word": "accurate",
+     "thai": "ถูกต้องแม่นยำ",
+     "level": "B2",
+     "example": "This makes it difficult to accurately evaluate model performance."
+    },
+    {
+     "word": "significant",
+     "thai": "สำคัญ, มีนัยสำคัญ",
+     "level": "B2",
+     "example": "There is a significant gap in current testing methods."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 283,
+   "ts": "2026-10-17T02:13:41.656550+07:00",
+   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+   "link": "https://machinelearning.apple.com/research/mlx-distributed-inference",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Apple ML research details running massive local LLMs using MLX and RDMA on Mac Studio hardware, relevant to local AI infrastructure.",
+   "summary": "Apple machine learning researchers have demonstrated how to run massive frontier-class models locally using Mac Studio clusters. The setup leverages unified memory architecture and RDMA over Thunderbolt for high-throughput inference.",
+   "vocab": [
+    {
+     "word": "demonstrate",
+     "thai": "สาธิต, แสดงให้เห็น",
+     "level": "B2",
+     "example": "Researchers demonstrated how to run massive models locally."
+    },
+    {
+     "word": "leverage",
+     "thai": "ใช้ประโยชน์จาก",
+     "level": "C1",
+     "example": "The framework leverages the unified memory architecture."
+    },
+    {
+     "word": "cluster",
+     "thai": "กลุ่มคอมพิวเตอร์ที่เชื่อมต่อกัน",
+     "level": "B2",
+     "example": "Running models on a cluster of multiple Mac Studios."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 267,
+ "next_id": 284,
  "vocab": [
   {
    "word": "commissioning",
@@ -13201,7 +13837,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
