@@ -659,7 +659,20 @@
   "https://llmspeed.dev/",
   "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
   "https://dune.fandom.com/wiki/Butlerian_Jihad",
-  "https://adepts.of0x.cc/eufy-homestation2-firmware/"
+  "https://adepts.of0x.cc/eufy-homestation2-firmware/",
+  "https://www.datacenterdynamics.com/en/news/googles-emea-energy-team-hiring-for-range-of-new-positions/",
+  "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
+  "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+  "https://www.datacenterdynamics.com/en/news/everton-football-club-launches-mvno-service/",
+  "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+  "https://www.theregister.com/personal-tech/2026/10/17/amazon-wants-you-to-bee-lieve-wearable-ai-can-recall-it-all-for-you/5303569",
+  "https://www.theregister.com/science/2026/10/17/get-in-the-bin-uk-space-agency-wants-public-to-name-its-debris-removal-mission/5303555",
+  "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+  "https://humanpro.co/articles/we-still-use-paper/",
+  "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+  "https://news.ycombinator.com/item?id=50089577",
+  "https://www.lf-lang.org/",
+  "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
  ],
  "stories": [
   {
@@ -11835,9 +11848,194 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 304,
+   "ts": "2026-10-17T18:49:46.577232+07:00",
+   "title": "Why data sovereignty is about control, not geography",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "An analytical piece on data sovereignty versus residency, offering strategic insight for cloud deployments rather than breaking operational news.",
+   "summary": "The article explains why storing data within local borders does not guarantee legal sovereignty under laws like the US CLOUD Act. It argues that organizations must focus on robust access control and encryption rather than just physical server location.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อำนาจอธิปไตยหรือสิทธิ์ในการควบคุมเบ็ดเสร็จ",
+     "level": "C1",
+     "example": "Data sovereignty is a control requirement, determining legal and operational authority."
+    },
+    {
+     "word": "compel",
+     "thai": "บังคับหรือสั่งให้กระทำ",
+     "level": "B2",
+     "example": "The US CLOUD Act grants authorities the power to compel companies to produce data."
+    },
+    {
+     "word": "jurisdiction",
+     "thai": "เขตอำนาจศาลหรืออำนาจทางกฎหมาย",
+     "level": "C1",
+     "example": "An organization hosting workloads in Europe may still be subject to foreign jurisdiction."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 305,
+   "ts": "2026-10-17T18:49:46.577270+07:00",
+   "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
+   "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on local government pushback halting a major 576MW Italian data center project over environmental and grid concerns.",
+   "summary": "Municipal authorities in Moncalieri have paused approvals for what was planned to be Italy's largest data center campus, a 576MW facility. The mayor halted the project due to unresolved concerns regarding power consumption, environmental impact, and local job creation.",
+   "vocab": [
+    {
+     "word": "proponent",
+     "thai": "ผู้เสนอหรือผู้สนับสนุนโครงการ",
+     "level": "C1",
+     "example": "The mayor will discuss concerns with his majority before responding to project proponents."
+    },
+    {
+     "word": "mitigate",
+     "thai": "บรรเทาหรือลดผลกระทบเชิงลบ",
+     "level": "B2",
+     "example": "The developer failed to mitigate issues relating to the project's impact on public health."
+    },
+    {
+     "word": "stringent",
+     "thai": "เข้มงวดหรือกวดขันอย่างยิ่ง",
+     "level": "C1",
+     "example": "Regional authorities proposed a law designed to be more stringent than neighboring regulations."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 306,
+   "ts": "2026-10-17T18:49:46.577315+07:00",
+   "title": "Cybercrims go beyond stealing data to attack physical building systems",
+   "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts infrastructure facilities by highlighting rising cyberattacks and ransomware targeting Building Automation Systems (BAS) and HVAC controls.",
+   "summary": "Cybercriminals are increasingly targeting physical building automation systems such as HVAC, door locks, and refrigeration to extort organizations. These operational technology attacks directly threaten data center physical security and environmental controls.",
+   "vocab": [
+    {
+     "word": "spoil",
+     "thai": "เน่าเสียหรือทำให้เสียหาย",
+     "level": "B2",
+     "example": "The attack altered refrigeration temperatures, spoiling food across hundreds of stores."
+    },
+    {
+     "word": "extortion",
+     "thai": "การกรรโชกทรัพย์หรือการบีบบังคับรีดไถ",
+     "level": "C1",
+     "example": "Hitting physical systems turns up the pressure on executives to pay an extortion demand."
+    },
+    {
+     "word": "intrusion",
+     "thai": "การบุกรุกหรือการลักลอบเจาะเข้าระบบ",
+     "level": "B2",
+     "example": "Not all digital intrusions remain in cyberspace without affecting the real world."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8,
+   "msg_id": 170,
+   "sent_ts": "2026-10-17T18:49:47.131433+07:00"
+  },
+  {
+   "id": 307,
+   "ts": "2026-10-17T18:49:47.131594+07:00",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Technical release information and API routing metrics for an efficient new MoE inference model relevant to AI infrastructure sizing and hosting.",
+   "summary": "DeepSeek has introduced its V4.1 Flash snapshot, an asymmetric Mixture-of-Experts model designed for cost-efficient long-context inference and agentic workloads. The model substantially cuts KV cache memory consumption, lowering hosting and computational footprints for AI deployments.",
+   "vocab": [
+    {
+     "word": "asymmetric",
+     "thai": "ไม่สมมาตรหรือไม่เท่ากันสองด้าน",
+     "level": "C1",
+     "example": "The model uses an asymmetric parameter split between input and output to lower compute requirements."
+    },
+    {
+     "word": "throughput",
+     "thai": "ปริมาณงานหรือข้อมูลที่ประมวลผลได้ต่อหน่วยเวลา",
+     "level": "B2",
+     "example": "Throughput measures how quickly the inference server outputs generated tokens."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วงเวลาหรือระยะเวลาตอบสนองของระบบ",
+     "level": "B2",
+     "example": "Round-trip latency remains low across all benchmarked inference endpoints."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8,
+   "extra_links": [
+    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
+   ]
+  },
+  {
+   "id": 308,
+   "ts": "2026-10-17T18:50:41.078375+07:00",
+   "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
+   "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "OpenRewrite is moving recipe modules to a new repository requiring authentication, which can break CI/CD pipelines if unaddressed.",
+   "summary": "OpenRewrite modules are transitioning away from Maven Central to the Code Genome Project repository, requiring user authentication to download. DevOps engineers using these modules must update their build scripts and credential settings to keep automation working.",
+   "vocab": [
+    {
+     "word": "authentication",
+     "thai": "การยืนยันตัวตน",
+     "level": "B2",
+     "example": "Downloads require authentication, so add the repository and credentials to your build to resolve them."
+    },
+    {
+     "word": "dependency",
+     "thai": "ส่วนประกอบที่ต้องพึ่งพาในการทำงานของโปรแกรม",
+     "level": "B2",
+     "example": "Keep Maven Central configured alongside it, since OpenRewrite's transitive dependencies still resolve from there."
+    },
+    {
+     "word": "explicit",
+     "thai": "ที่ระบุไว้อย่างชัดเจน",
+     "level": "B2",
+     "example": "The use of the bill of materials means that a developer will only need to specify explicit versions of the BOM."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
   }
  ],
- "next_id": 304,
+ "next_id": 309,
  "vocab": [
   {
    "word": "commissioning",
@@ -14744,6 +14942,36 @@
    "thai": "ข้ามชาติ",
    "level": "B2",
    "example": "Qatari multinational telecommunications firm Ooredoo Group.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spoil",
+   "thai": "เน่าเสียหรือทำให้เสียหาย",
+   "level": "B2",
+   "example": "The attack altered refrigeration temperatures, spoiling food across hundreds of stores.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "extortion",
+   "thai": "การกรรโชกทรัพย์หรือการบีบบังคับรีดไถ",
+   "level": "C1",
+   "example": "Hitting physical systems turns up the pressure on executives to pay an extortion demand.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intrusion",
+   "thai": "การบุกรุกหรือการลักลอบเจาะเข้าระบบ",
+   "level": "B2",
+   "example": "Not all digital intrusions remain in cyberspace without affecting the real world.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
