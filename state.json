@@ -653,7 +653,13 @@
   "https://www.flexport.com/company/careers/",
   "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
   "https://eli.thegreenplace.net/2026/monte-carlo-simulations/",
-  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
+  "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+  "https://www.paperinstruments.com/ultramarine",
+  "https://www.sfchronicle.com/california/article/yosemite-national-park-highway-140-22463847.php",
+  "https://llmspeed.dev/",
+  "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+  "https://dune.fandom.com/wiki/Butlerian_Jihad",
+  "https://adepts.of0x.cc/eufy-homestation2-firmware/"
  ],
  "stories": [
   {
@@ -11793,9 +11799,45 @@
    "credibility": 9,
    "msg_id": 160,
    "sent_ts": "2026-10-17T08:59:44.934248+07:00"
+  },
+  {
+   "id": 303,
+   "ts": "2026-10-17T13:39:11.656984+07:00",
+   "title": "0/1 Knapsack Problem in PyTorch",
+   "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses PyTorch memory allocation tuning that reduces peak RAM by 20x during memory planning for large ML models.",
+   "summary": "A developer outlined a configuration change in PyTorch's activation memory solver using an optimized 0/1 knapsack algorithm. This configuration modification significantly reduces peak RAM consumption during graph compilation for complex AI models.",
+   "vocab": [
+    {
+     "word": "optimal",
+     "thai": "เหมาะสมที่สุด",
+     "level": "B2",
+     "example": "Alternatively, you can use some heuristics, but then your solution might not be optimal."
+    },
+    {
+     "word": "computation",
+     "thai": "การคำนวณประมวลผล",
+     "level": "B2",
+     "example": "When PyTorch builds a computation graph of your ML model, it tries many different things."
+    },
+    {
+     "word": "heuristics",
+     "thai": "หลักเกณฑ์การแก้ปัญหาแบบศึกษาสำรวจหรือประเมินคร่าวๆ",
+     "level": "C1",
+     "example": "Alternatively, you can use some heuristics to pick the items."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 303,
+ "next_id": 304,
  "vocab": [
   {
    "word": "commissioning",
