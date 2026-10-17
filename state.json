@@ -687,7 +687,16 @@
   "https://www.artie.com/careers",
   "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
   "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-  "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague"
+  "https://www.historytoday.com/archive/history-matters/tudor-life-time-plague",
+  "https://www.nature.com/articles/d41586-026-03266-x",
+  "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+  "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+  "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+  "https://pele.run/",
+  "https://github.com/valimised/ivxv",
+  "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+  "https://www.numismaticnews.net/gold-now-top-u-s-export",
+  "https://courk.cc/rp2350-challenge-laser"
  ],
  "stories": [
   {
@@ -12192,9 +12201,45 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 313,
+   "ts": "2026-10-18T04:51:25.239958+07:00",
+   "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+   "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Deprecation of legacy web standards affects web developers and internal tooling interfaces, but has minimal direct impact on core infrastructure.",
+   "summary": "Major web browsers like Chrome and Edge are planning to drop native support for XSLT transformations. This deprecation could break legacy web applications and internal tools that still rely on client-side XML styling.",
+   "vocab": [
+    {
+     "word": "break",
+     "thai": "ทำให้หยุดทำงานหรือใช้งานไม่ได้",
+     "level": "B2",
+     "example": "Chrome and Edge are removing XSLT: what breaks and what does not."
+    },
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "Removing older standards can cause compatibility issues with legacy web pages."
+    },
+    {
+     "word": "deprecation",
+     "thai": "การยกเลิกการสนับสนุน",
+     "level": "C1",
+     "example": "Developers must prepare for the deprecation of XSLT in modern web browsers."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 7
   }
  ],
- "next_id": 313,
+ "next_id": 314,
  "vocab": [
   {
    "word": "commissioning",
