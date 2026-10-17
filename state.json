@@ -12165,7 +12165,7 @@
    "thai": "คอขวด (จุดที่ทำให้การทำงานช้าลง)",
    "level": "B2",
    "example": "This can lead to problems where many senders converge on the same destination and create a bottleneck.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -12215,7 +12215,7 @@
    "thai": "จุดอ่อนหรือช่องโหว่ทางความปลอดภัย",
    "level": "B2",
    "example": "Security Microsoft patches failed to fix on-prem SharePoint under zero-day attack.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -12725,7 +12725,7 @@
    "thai": "เชิงปฏิบัติการ",
    "level": "B2",
    "example": "Autonomous AI systems are capable of finding and attacking critical operational technology.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -13565,7 +13565,7 @@
    "thai": "ปริมาณงานที่ระบบประมวลผลได้",
    "level": "C1",
    "example": "Administrators are trying to restore expected network throughput.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -14325,7 +14325,7 @@
    "thai": "นิรนาม ไม่อحي่ระบุชื่อ",
    "level": "B2",
    "example": "An anonymous developer was evaluating thousands of acres of land.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -15138,6 +15138,26 @@
   "6237663548957262612": {
    "word": "sparse",
    "correct": 3
+  },
+  "6242167148584634224": {
+   "word": "operational",
+   "correct": 2
+  },
+  "6242167148584634225": {
+   "word": "throughput",
+   "correct": 0
+  },
+  "6242167148584634226": {
+   "word": "vulnerability",
+   "correct": 2
+  },
+  "6242167148584634227": {
+   "word": "bottleneck",
+   "correct": 3
+  },
+  "6242167148584634228": {
+   "word": "anonymous",
+   "correct": 2
   }
  },
  "fail": {
