@@ -672,7 +672,14 @@
   "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
   "https://news.ycombinator.com/item?id=50089577",
   "https://www.lf-lang.org/",
-  "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module"
+  "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
+  "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+  "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+  "https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/",
+  "https://www.newyorker.com/magazine/2026/10/19/the-first-candid",
+  "https://en.wikipedia.org/wiki/Orbital_angular_momentum_of_light",
+  "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+  "https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/"
  ],
  "stories": [
   {
@@ -12033,9 +12040,45 @@
    "urgency": 5,
    "scale": 5,
    "credibility": 9
+  },
+  {
+   "id": 309,
+   "ts": "2026-10-17T21:36:18.342020+07:00",
+   "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
+   "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Global renewable power capacity trends and battery storage growth matter for long-term data center energy procurement.",
+   "summary": "A new global industry report shows that monthly solar and wind generation have both surpassed nuclear power output for the first time. Rapid solar expansion and falling battery storage costs continue to outpace stagnant nuclear capacity additions worldwide.",
+   "vocab": [
+    {
+     "word": "sobering",
+     "thai": "ทำให้ได้สติหรือตาสว่าง",
+     "level": "C1",
+     "example": "The reality of the nuclear industry on the ground is quite sobering for those who expected to find a booming sector."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งหรือนำมาเริ่มใช้งาน",
+     "level": "B2",
+     "example": "Grid-scale battery deployment accelerated sharply in 2025."
+    },
+    {
+     "word": "cumulative",
+     "thai": "ที่สะสมรวมกัน",
+     "level": "B2",
+     "example": "More than 78% of cumulative battery energy storage system capacity was installed between 2023 and 2025."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 9,
+   "credibility": 8
   }
  ],
- "next_id": 309,
+ "next_id": 310,
  "vocab": [
   {
    "word": "commissioning",
