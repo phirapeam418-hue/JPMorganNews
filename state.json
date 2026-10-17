@@ -696,7 +696,12 @@
   "https://github.com/valimised/ivxv",
   "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
   "https://www.numismaticnews.net/gold-now-top-u-s-export",
-  "https://courk.cc/rp2350-challenge-laser"
+  "https://courk.cc/rp2350-challenge-laser",
+  "https://www.cjr.org/the-interview/nicole-noren-espn-producer-quit-protest-sports-betting-gambling-addiction-draftkings-im-not-going-to-have-blood-on-my-hands.php",
+  "https://openjdk.org/projects/jdk/28/",
+  "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
+  "https://celphase.github.io/duck-pond/",
+  "https://github.com/openai/codex/issues/25921"
  ],
  "stories": [
   {
@@ -12237,9 +12242,81 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 7
+  },
+  {
+   "id": 314,
+   "ts": "2026-10-18T06:37:07.951172+07:00",
+   "title": "JDK 28",
+   "link": "https://openjdk.org/projects/jdk/28/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "An early-access notice for a future Java release carries minor long-term software relevance but no immediate operational impact.",
+   "summary": "The OpenJDK community has opened the mainline development and released early-access binaries for JDK 28. While important for development roadmaps, this early stage does not require immediate action from operations teams.",
+   "vocab": [
+    {
+     "word": "enhancement",
+     "thai": "การปรับปรุงหรือพัฒนาเพิ่มเติม",
+     "level": "B2",
+     "example": "The main line is open for bug fixes, small enhancements, and JEPs as proposed."
+    },
+    {
+     "word": "binary",
+     "thai": "ไฟล์โปรแกรมที่คอมไพล์แล้ว",
+     "level": "B2",
+     "example": "Early-access binaries, under the GPL, are available here."
+    },
+    {
+     "word": "specify",
+     "thai": "ระบุอย่างละเอียดหรือเจาะจง",
+     "level": "B2",
+     "example": "This release will be the Reference Implementation as specified by JSR 403."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 315,
+   "ts": "2026-10-18T06:37:07.951243+07:00",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
+   "link": "https://github.com/openai/codex/issues/25921",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "A developer workstation bug report involving unbounded disk growth caused by crash dump files in an AI desktop client.",
+   "summary": "A bug in the OpenAI Codex Desktop app causes crash dump files to continuously accumulate, consuming gigabytes of disk space each day. Engineers running the tool should monitor their local storage until a cleanup fix is delivered.",
+   "vocab": [
+    {
+     "word": "unbounded",
+     "thai": "ไร้ขีดจำกัดหรือไม่สิ้นสุด",
+     "level": "C1",
+     "example": "Crashpad is continuously generating pending dump pairs, causing unbounded local disk growth."
+    },
+    {
+     "word": "accumulate",
+     "thai": "สะสมหรือพอกพูน",
+     "level": "B2",
+     "example": "Pending Crashpad reports accumulate rapidly and consume multiple GB of local disk space."
+    },
+    {
+     "word": "stale",
+     "thai": "ตกค้างหรือล้าสมัย",
+     "level": "B2",
+     "example": "This appears to be active dump generation rather than stale one-time leftovers."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
   }
  ],
- "next_id": 314,
+ "next_id": 316,
  "vocab": [
   {
    "word": "commissioning",
@@ -15186,40 +15263,8 @@
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700430,
+ "tg_offset": 57700439,
  "polls": {
-  "6226735343975007710": {
-   "word": "paradigm",
-   "correct": 0
-  },
-  "6226735343975007711": {
-   "word": "multimodality",
-   "correct": 2
-  },
-  "6226735343975007712": {
-   "word": "obligation",
-   "correct": 2
-  },
-  "6226735343975007713": {
-   "word": "autonomous",
-   "correct": 1
-  },
-  "6226735343975007714": {
-   "word": "sequential",
-   "correct": 0
-  },
-  "6228485749306557970": {
-   "word": "resume",
-   "correct": 3
-  },
-  "6228485749306557971": {
-   "word": "complexity",
-   "correct": 0
-  },
-  "6228485749306557972": {
-   "word": "concentration",
-   "correct": 3
-  },
   "6228485749306557973": {
    "word": "restructuring",
    "correct": 3
@@ -15283,10 +15328,6 @@
   "6237663548957262612": {
    "word": "sparse",
    "correct": 3
-  },
-  "6242167148584634224": {
-   "word": "operational",
-   "correct": 2
   },
   "6242167148584634225": {
    "word": "throughput",
