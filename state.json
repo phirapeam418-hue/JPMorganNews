@@ -12799,7 +12799,7 @@
    "thai": "สลายไป, กระจายออก",
    "level": "C1",
    "example": "Heat generation can exceed the rate at which it can dissipate.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -12919,7 +12919,7 @@
    "thai": "เปลี่ยนแปลงอย่างรวดเร็วและคาดเดาได้ยาก",
    "level": "C1",
    "example": "AI data centers feature a highly volatile, intermittent load profile with massive power swings.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -13079,7 +13079,7 @@
    "thai": "ภาระงานส่วนเกินหรือทรัพยากรที่ต้องเสียไปในการจัดการ",
    "level": "C1",
    "example": "The patch helps decrease page-table walking overhead during memory access.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -14849,7 +14849,7 @@
    "thai": "เกณฑ์มาตรฐาน, การทดสอบมาตรฐาน",
    "level": "B2",
    "example": "The benchmark reveals how the cooling system delivers improved thermal performance.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -15539,7 +15539,7 @@
    "thai": "สายหลัก (ซอร์สโค้ดหลัก)",
    "level": "C1",
    "example": "There were 16,418 non-merge commits brought into the mainline for the 7.2 release.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -15730,6 +15730,26 @@
   "6242167148584634228": {
    "word": "anonymous",
    "correct": 2
+  },
+  "6244466802923930617": {
+   "word": "benchmark",
+   "correct": 3
+  },
+  "6244466802923930618": {
+   "word": "dissipate",
+   "correct": 0
+  },
+  "6244466802923930619": {
+   "word": "overhead",
+   "correct": 1
+  },
+  "6244466802923930620": {
+   "word": "volatile",
+   "correct": 1
+  },
+  "6244466802923930621": {
+   "word": "mainline",
+   "correct": 3
   }
  },
  "fail": {
