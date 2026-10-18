@@ -11878,11 +11878,13 @@
      "example": "Alternatively, you can use some heuristics to pick the items."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 185,
+   "sent_ts": "2026-10-18T12:46:34.087390+07:00"
   },
   {
    "id": 304,
@@ -11914,7 +11916,7 @@
      "example": "An organization hosting workloads in Europe may still be subject to foreign jurisdiction."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -11950,7 +11952,7 @@
      "example": "Regional authorities proposed a law designed to be more stringent than neighboring regulations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -12024,14 +12026,16 @@
      "example": "Round-trip latency remains low across all benchmarked inference endpoints."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
    "credibility": 8,
    "extra_links": [
     "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-   ]
+   ],
+   "msg_id": 178,
+   "sent_ts": "2026-10-18T12:46:30.645424+07:00"
   },
   {
    "id": 308,
@@ -12063,11 +12067,13 @@
      "example": "The use of the bill of materials means that a developer will only need to specify explicit versions of the BOM."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 179,
+   "sent_ts": "2026-10-18T12:46:31.141806+07:00"
   },
   {
    "id": 309,
@@ -12099,11 +12105,13 @@
      "example": "More than 78% of cumulative battery energy storage system capacity was installed between 2023 and 2025."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 180,
+   "sent_ts": "2026-10-18T12:46:31.621324+07:00"
   },
   {
    "id": 310,
@@ -12135,11 +12143,13 @@
      "example": "Replacing aging cooling infrastructure is a conspicuous and fundable initiative."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 181,
+   "sent_ts": "2026-10-18T12:46:32.111317+07:00"
   },
   {
    "id": 311,
@@ -12171,11 +12181,13 @@
      "example": "He was the biggest contributor of commits to the 7.2 release."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 182,
+   "sent_ts": "2026-10-18T12:46:32.593494+07:00"
   },
   {
    "id": 312,
@@ -12207,11 +12219,13 @@
      "example": "An internal model that was highly persistent attempted multiple ways to reach the data."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 183,
+   "sent_ts": "2026-10-18T12:46:33.096964+07:00"
   },
   {
    "id": 313,
@@ -12243,11 +12257,13 @@
      "example": "Developers must prepare for the deprecation of XSLT in modern web browsers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 4,
    "scale": 7,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 184,
+   "sent_ts": "2026-10-18T12:46:33.601301+07:00"
   },
   {
    "id": 314,
@@ -12279,7 +12295,7 @@
      "example": "This release will be the Reference Implementation as specified by JSR 403."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -12315,7 +12331,7 @@
      "example": "This appears to be active dump generation rather than stale one-time leftovers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -15259,6 +15275,206 @@
    "thai": "การบุกรุกหรือการลักลอบเจาะเข้าระบบ",
    "level": "B2",
    "example": "Not all digital intrusions remain in cyberspace without affecting the real world.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "asymmetric",
+   "thai": "ไม่สมมาตรหรือไม่เท่ากันสองด้าน",
+   "level": "C1",
+   "example": "The model uses an asymmetric parameter split between input and output to lower compute requirements.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "authentication",
+   "thai": "การยืนยันตัวตน",
+   "level": "B2",
+   "example": "Downloads require authentication, so add the repository and credentials to your build to resolve them.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dependency",
+   "thai": "ส่วนประกอบที่ต้องพึ่งพาในการทำงานของโปรแกรม",
+   "level": "B2",
+   "example": "Keep Maven Central configured alongside it, since OpenRewrite's transitive dependencies still resolve from there.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "explicit",
+   "thai": "ที่ระบุไว้อย่างชัดเจน",
+   "level": "B2",
+   "example": "The use of the bill of materials means that a developer will only need to specify explicit versions of the BOM.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sobering",
+   "thai": "ทำให้ได้สติหรือตาสว่าง",
+   "level": "C1",
+   "example": "The reality of the nuclear industry on the ground is quite sobering for those who expected to find a booming sector.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cumulative",
+   "thai": "ที่สะสมรวมกัน",
+   "level": "B2",
+   "example": "More than 78% of cumulative battery energy storage system capacity was installed between 2023 and 2025.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accumulate",
+   "thai": "สะสม, พอกพูน",
+   "level": "B2",
+   "example": "It doesn't announce itself; it accumulates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exacerbate",
+   "thai": "ทำให้แย่ลง, ซ้ำเติม",
+   "level": "C1",
+   "example": "Strategic inefficiencies exacerbate the physical ones.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conspicuous",
+   "thai": "ที่เห็นได้ชัดเจน, โดดเด่น",
+   "level": "C1",
+   "example": "Replacing aging cooling infrastructure is a conspicuous and fundable initiative.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mainline",
+   "thai": "สายหลัก (ซอร์สโค้ดหลัก)",
+   "level": "C1",
+   "example": "There were 16,418 non-merge commits brought into the mainline for the 7.2 release.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "subsystem",
+   "thai": "ระบบย่อย",
+   "level": "C1",
+   "example": "He contributed fixes throughout the networking and crypto subsystems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contributor",
+   "thai": "ผู้มีส่วนร่วม, ผู้เขียนโค้ดสนับสนุน",
+   "level": "B2",
+   "example": "He was the biggest contributor of commits to the 7.2 release.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unauthorized",
+   "thai": "ที่ไม่ได้รับอนุญาต",
+   "level": "B2",
+   "example": "The model downloaded 24 years of unauthorized hospital bed data from a government website.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "persistent",
+   "thai": "ที่ดื้อดึง, พยายามต่อเนื่องไม่ยอมแพ้",
+   "level": "B2",
+   "example": "An internal model that was highly persistent attempted multiple ways to reach the data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "break",
+   "thai": "ทำให้หยุดทำงานหรือใช้งานไม่ได้",
+   "level": "B2",
+   "example": "Chrome and Edge are removing XSLT: what breaks and what does not.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compatibility",
+   "thai": "ความเข้ากันได้",
+   "level": "B2",
+   "example": "Removing older standards can cause compatibility issues with legacy web pages.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deprecation",
+   "thai": "การยกเลิกการสนับสนุน",
+   "level": "C1",
+   "example": "Developers must prepare for the deprecation of XSLT in modern web browsers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "optimal",
+   "thai": "เหมาะสมที่สุด",
+   "level": "B2",
+   "example": "Alternatively, you can use some heuristics, but then your solution might not be optimal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "computation",
+   "thai": "การคำนวณประมวลผล",
+   "level": "B2",
+   "example": "When PyTorch builds a computation graph of your ML model, it tries many different things.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "heuristics",
+   "thai": "หลักเกณฑ์การแก้ปัญหาแบบศึกษาสำรวจหรือประเมินคร่าวๆ",
+   "level": "C1",
+   "example": "Alternatively, you can use some heuristics to pick the items.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
