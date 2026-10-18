@@ -704,7 +704,18 @@
   "https://github.com/openai/codex/issues/25921",
   "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
   "https://github.com/vacuula/vacuula",
-  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+  "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
+  "https://sphinx-six-theta.vercel.app/",
+  "https://webmasters.stackexchange.com/questions/88659/how-can-cloudflare-offer-a-free-cdn-with-unlimited-bandwidth/88685#88685",
+  "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+  "https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/",
+  "https://tkgally.github.io/500-clocks/",
+  "https://www.davidpriver.com/Fun-Extending-the-C-Preprocessor.html",
+  "https://knowledge.edge-online.com/p/the-game-industry-is-broken-can-we-fix-it-tim-sweeney-edge-crash",
+  "https://www.propublica.org/article/ap3-oath-keepers-militia-mole",
+  "https://nltimes.nl/2026/10/15/world-first-southern-ground-hornbill-gets-3d-printed-beak-prostheses-artis-zoo",
+  "https://lpviz.net/"
  ],
  "stories": [
   {
@@ -12336,9 +12347,45 @@
    "urgency": 3,
    "scale": 4,
    "credibility": 8
+  },
+  {
+   "id": 316,
+   "ts": "2026-10-18T13:59:56.383804+07:00",
+   "title": "Cloud-first served its purpose. Now it's time for workload-first",
+   "link": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Workload placement and cloud repatriation directly impact enterprise infrastructure architecture and data center planning.",
+   "summary": "Enterprise IT strategies are shifting from an automatic cloud-first mindset to a workload-first approach that balances cloud, on-premises, and mainframes. This matters because regulatory rules like the EU Data Act and rising costs require operators to justify where each system runs.",
+   "vocab": [
+    {
+     "word": "nuanced",
+     "thai": "ละเอียดอ่อนและซับซ้อนขึ้น",
+     "level": "C1",
+     "example": "Today, the conversations I am having with business leaders are becoming more nuanced."
+    },
+    {
+     "word": "interoperability",
+     "thai": "ความสามารถในการทำงานร่วมกันระหว่างระบบ",
+     "level": "C1",
+     "example": "It obliges providers to support functional interoperability through standardized interfaces."
+    },
+    {
+     "word": "repatriation",
+     "thai": "การย้ายระบบกลับจากคลาวด์มายังศูนย์ข้อมูลภายใน",
+     "level": "C1",
+     "example": "Cost is often presented as the primary driver behind workload repatriation."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 316,
+ "next_id": 317,
  "vocab": [
   {
    "word": "commissioning",
