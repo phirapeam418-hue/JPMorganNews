@@ -742,7 +742,13 @@
   "https://www.anthropic.com/news/public-benefit-fund",
   "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
   "https://www.youtube.com/watch?v=QH_LPimUJMs",
-  "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
+  "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+  "https://arxiv.org/abs/2610.18861",
+  "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+  "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+  "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+  "https://blog.picheta.me/post/killswitch-lang/",
+  "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/"
  ],
  "stories": [
   {
@@ -12627,9 +12633,45 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 323,
+   "ts": "2026-10-19T05:01:36.930064+07:00",
+   "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+   "link": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "It discloses an unpatched remote code execution bug affecting millions of Broadcom-based Wi-Fi access points and routers.",
+   "summary": "Security researchers demonstrated an unauthenticated remote exploit affecting Broadcom Wi-Fi parsers on millions of network routers. Most affected devices remain unpatched because the vendor never assigned a CVE or coordinated firmware updates.",
+   "vocab": [
+    {
+     "word": "proprietary",
+     "thai": "ที่เป็นกรรมสิทธิ์เฉพาะหรือทางการค้า",
+     "level": "C1",
+     "example": "The vulnerability resides in Broadcom's proprietary implementation of wireless protocols."
+    },
+    {
+     "word": "radius",
+     "thai": "รัศมีหรือขอบเขตผลกระทบ",
+     "level": "B2",
+     "example": "Researchers distributed scanning rules to measure the blast radius of the flaw."
+    },
+    {
+     "word": "proximity",
+     "thai": "ความใกล้ชิดหรือระยะประชิด",
+     "level": "C1",
+     "example": "Attackers can compromise the device over long distances without close physical proximity."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 323,
+ "next_id": 324,
  "vocab": [
   {
    "word": "commissioning",
