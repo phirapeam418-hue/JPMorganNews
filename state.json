@@ -723,7 +723,18 @@
   "https://teal-language.org/",
   "https://www.regexmarblerun.com/",
   "https://github.com/0x23/MicroManipulatorStepper",
-  "https://www.anthropic.com/research/employment-at-anthropic"
+  "https://www.anthropic.com/research/employment-at-anthropic",
+  "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+  "https://developer.apple.com/forums/verify-human/verify.html?next=/forums/thread/850550",
+  "https://github.com/VikOlliver/RepRapMicron/wiki",
+  "https://karrisaarinen.com/posts/someone-behind-the-software/",
+  "https://www.iwm.org.uk/history/iwm/cwr/telephone",
+  "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+  "https://legendofhyrule.com/",
+  "https://www.vals.ai/blogs/impossible-refund",
+  "https://www.thing.net/~rdom/ecd/EDTECD.html",
+  "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
  ],
  "stories": [
   {
@@ -12500,9 +12511,81 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 9
+  },
+  {
+   "id": 320,
+   "ts": "2026-10-19T00:00:24.239540+07:00",
+   "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly analyzes how massive AI hardware demands are forcing data centers to co-design compute, power, cooling, and networking together.",
+   "summary": "AI workloads are ending the era where processors, networks, and data center facilities could be upgraded independently. Modern AI clusters now require tightly coupled co-design across hardware, power delivery, and cooling systems to prevent stranded capital.",
+   "vocab": [
+    {
+     "word": "coupled",
+     "thai": "ที่เชื่อมโยงกันอย่างใกล้ชิด",
+     "level": "B2",
+     "example": "AI infrastructure is now operating more as a tightly coupled system."
+    },
+    {
+     "word": "stranded",
+     "thai": "ที่ถูกทิ้งไว้โดยไม่เกิดประโยชน์หรือติดค้าง",
+     "level": "B2",
+     "example": "Hence, idle accelerators represent stranded capital and wasted energy."
+    },
+    {
+     "word": "synchronization",
+     "thai": "การทำให้สอดคล้องกันตามเวลาหรือจังหวะ",
+     "level": "C1",
+     "example": "Every training iteration requires continuous movement and synchronization of model parameters."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 321,
+   "ts": "2026-10-19T00:00:53.368789+07:00",
+   "title": "Websites are closing their doors to AI agents",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Web platforms are actively blocking automated AI agents, which impacts bot management systems and edge traffic filtering.",
+   "summary": "Major internet services including Amazon, Delta, and JPMorgan Chase are actively blocking automated AI agents from accessing their platforms. These restrictions threaten the usability of autonomous AI tools and spark debates over web scraping and access rights.",
+   "vocab": [
+    {
+     "word": "scour",
+     "thai": "ค้นหาอย่างละเอียดถี่ถ้วน",
+     "level": "C1",
+     "example": "Companies promise their agents can scour the internet on your behalf."
+    },
+    {
+     "word": "wrath",
+     "thai": "ความโกรธจัด",
+     "level": "C2",
+     "example": "The virtual assistant faced the wrath of major retailers blocking automated visits."
+    },
+    {
+     "word": "perceived",
+     "thai": "ที่ถูกมองหรือรับรู้",
+     "level": "B2",
+     "example": "Blocking access could reduce the perceived value of autonomous assistants."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
   }
  ],
- "next_id": 320,
+ "next_id": 322,
  "vocab": [
   {
    "word": "commissioning",
