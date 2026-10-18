@@ -701,7 +701,10 @@
   "https://openjdk.org/projects/jdk/28/",
   "https://thunk.blog/posts/types-of-types-haskell-kind-system/",
   "https://celphase.github.io/duck-pond/",
-  "https://github.com/openai/codex/issues/25921"
+  "https://github.com/openai/codex/issues/25921",
+  "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+  "https://github.com/vacuula/vacuula",
+  "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
  ],
  "stories": [
   {
@@ -11475,7 +11478,10 @@
    "impact": 4,
    "urgency": 4,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
+   ]
   },
   {
    "id": 293,
