@@ -734,7 +734,15 @@
   "https://www.vals.ai/blogs/impossible-refund",
   "https://www.thing.net/~rdom/ecd/EDTECD.html",
   "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
-  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+  "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+  "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+  "https://www.getlazarus.org/dynamic/",
+  "https://github.com/ardiri/palmos-lemmings",
+  "https://mitos.computer/",
+  "https://www.anthropic.com/news/public-benefit-fund",
+  "https://www.peterp.me/articles/personal-software-factories-are-a-waste-of-time/",
+  "https://www.youtube.com/watch?v=QH_LPimUJMs",
+  "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
  ],
  "stories": [
   {
@@ -12583,9 +12591,45 @@
    "urgency": 4,
    "scale": 8,
    "credibility": 8
+  },
+  {
+   "id": 322,
+   "ts": "2026-10-19T02:50:35.650599+07:00",
+   "title": "Anthropic gives outside AI watchdog “employee-like” access",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "External auditing of frontier AI models touches governance and security, but does not immediately alter daily data center operations.",
+   "summary": "Anthropic has granted independent watchdog organization METR internal access to evaluate frontier AI models for safety and security risks. This move tests whether third-party oversight modeled after financial sector supervision can effectively manage catastrophic AI risks.",
+   "vocab": [
+    {
+     "word": "embedded",
+     "thai": "ที่ฝังตัวอยู่ภายในหรือประจำการร่วมด้วย",
+     "level": "C1",
+     "example": "METR now has a team embedded in the Claude maker's office with access to internal systems."
+    },
+    {
+     "word": "accountable",
+     "thai": "มีความรับผิดชอบที่สามารถตรวจสอบได้",
+     "level": "B2",
+     "example": "We want to be publicly accountable for the decisions we are making."
+    },
+    {
+     "word": "safeguard",
+     "thai": "มาตรการป้องกันความปลอดภัย",
+     "level": "B2",
+     "example": "As models become more powerful, they require stronger safeguards and risk assessments."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 322,
+ "next_id": 323,
  "vocab": [
   {
    "word": "commissioning",
