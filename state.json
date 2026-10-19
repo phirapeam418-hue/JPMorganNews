@@ -12418,11 +12418,13 @@
      "example": "Cost is often presented as the primary driver behind workload repatriation."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 195,
+   "sent_ts": "2026-10-19T13:03:24.543476+07:00"
   },
   {
    "id": 317,
@@ -12454,11 +12456,13 @@
      "example": "OpenAI dots inspire open source imitators amid technical difficulties."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 4,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 196,
+   "sent_ts": "2026-10-19T13:03:25.122950+07:00"
   },
   {
    "id": 318,
@@ -12490,11 +12494,13 @@
      "example": "The query is forwarded with its search syntax intact."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 197,
+   "sent_ts": "2026-10-19T13:03:25.720847+07:00"
   },
   {
    "id": 319,
@@ -12526,11 +12532,13 @@
      "example": "As jobs evolve, the company has prioritized internal redeployments."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 201,
+   "sent_ts": "2026-10-19T13:03:28.090943+07:00"
   },
   {
    "id": 320,
@@ -12562,11 +12570,13 @@
      "example": "Every training iteration requires continuous movement and synchronization of model parameters."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 198,
+   "sent_ts": "2026-10-19T13:03:26.304241+07:00"
   },
   {
    "id": 321,
@@ -12598,11 +12608,13 @@
      "example": "Blocking access could reduce the perceived value of autonomous assistants."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 199,
+   "sent_ts": "2026-10-19T13:03:26.885573+07:00"
   },
   {
    "id": 322,
@@ -12634,7 +12646,7 @@
      "example": "As models become more powerful, they require stronger safeguards and risk assessments."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -12670,11 +12682,13 @@
      "example": "Attackers can compromise the device over long distances without close physical proximity."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 194,
+   "sent_ts": "2026-10-19T13:03:23.955240+07:00"
   },
   {
    "id": 324,
@@ -12706,11 +12720,13 @@
      "example": "The Franklin project enlists hackers to harden critical infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 200,
+   "sent_ts": "2026-10-19T13:03:27.491442+07:00"
   }
  ],
  "next_id": 325,
@@ -15854,21 +15870,197 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "radius",
+   "thai": "รัศมีหรือขอบเขตผลกระทบ",
+   "level": "B2",
+   "example": "Researchers distributed scanning rules to measure the blast radius of the flaw.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proximity",
+   "thai": "ความใกล้ชิดหรือระยะประชิด",
+   "level": "C1",
+   "example": "Attackers can compromise the device over long distances without close physical proximity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "nuanced",
+   "thai": "ละเอียดอ่อนและซับซ้อนขึ้น",
+   "level": "C1",
+   "example": "Today, the conversations I am having with business leaders are becoming more nuanced.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interoperability",
+   "thai": "ความสามารถในการทำงานร่วมกันระหว่างระบบ",
+   "level": "C1",
+   "example": "It obliges providers to support functional interoperability through standardized interfaces.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "repatriation",
+   "thai": "การย้ายระบบกลับจากคลาวด์มายังศูนย์ข้อมูลภายใน",
+   "level": "C1",
+   "example": "Cost is often presented as the primary driver behind workload repatriation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "surveillance",
+   "thai": "การเฝ้าระวังหรือการสอดแนม",
+   "level": "B2",
+   "example": "China upgrades smartphone surveillance tools.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "imitator",
+   "thai": "ผู้ลอกเลียนแบบ",
+   "level": "B2",
+   "example": "OpenAI dots inspire open source imitators amid technical difficulties.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retrieve",
+   "thai": "ค้นคืนหรือดึงข้อมูล",
+   "level": "B2",
+   "example": "Fetch API retrieves a single web page and returns its content as Markdown.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "schema",
+   "thai": "โครงสร้างข้อมูล",
+   "level": "B2",
+   "example": "See the reference for the complete request and response schemas.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intact",
+   "thai": "สมบูรณ์หรืออยู่ในสภาพเดิม",
+   "level": "B2",
+   "example": "The query is forwarded with its search syntax intact.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "coupled",
+   "thai": "ที่เชื่อมโยงกันอย่างใกล้ชิด",
+   "level": "B2",
+   "example": "AI infrastructure is now operating more as a tightly coupled system.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stranded",
+   "thai": "ที่ถูกทิ้งไว้โดยไม่เกิดประโยชน์หรือติดค้าง",
+   "level": "B2",
+   "example": "Hence, idle accelerators represent stranded capital and wasted energy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scour",
+   "thai": "ค้นหาอย่างละเอียดถี่ถ้วน",
+   "level": "C1",
+   "example": "Companies promise their agents can scour the internet on your behalf.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "wrath",
+   "thai": "ความโกรธจัด",
+   "level": "C2",
+   "example": "The virtual assistant faced the wrath of major retailers blocking automated visits.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "perceived",
+   "thai": "ที่ถูกมองหรือรับรู้",
+   "level": "B2",
+   "example": "Blocking access could reduce the perceived value of autonomous assistants.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enlist",
+   "thai": "ขอความช่วยเหลือหรือเกณฑ์กำลัง",
+   "level": "C1",
+   "example": "The Franklin project enlists hackers to harden critical infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "diffuse",
+   "thai": "แพร่กระจาย",
+   "level": "C1",
+   "example": "As AI agents diffused through the company, output rose significantly.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "redeployment",
+   "thai": "การโยกย้ายหรือจัดสรรตำแหน่งใหม่",
+   "level": "C1",
+   "example": "As jobs evolve, the company has prioritized internal redeployments.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700439,
+ "tg_offset": 57700440,
  "polls": {
   "6228485749306557973": {
    "word": "restructuring",
    "correct": 3
-  },
-  "6232989348933927697": {
-   "word": "demand",
-   "correct": 0
   },
   "6232989348933927698": {
    "word": "bolster",
