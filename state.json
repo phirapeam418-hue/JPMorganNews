@@ -794,7 +794,31 @@
   "https://www.theregister.com/offbeat/2026/10/19/dr-garry-hunt-talks-to-us-about-the-astonishing-voyager-probes/5303632",
   "https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250",
   "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
-  "https://marc.info/?l=openbsd-ports&m=179236125692175"
+  "https://marc.info/?l=openbsd-ports&m=179236125692175",
+  "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+  "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974",
+  "https://www.theregister.com/ai-and-ml/2026/10/19/maxwell-gives-sub-optimal-code-a-runtime-glow-up/5303961",
+  "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+  "https://www.theregister.com/ai-and-ml/2026/10/19/write-bot-resistant-code-with-killswitch-a-programming-language-designed-to-confuse-llms/5303919",
+  "https://www.theregister.com/off-prem/2026/10/19/europes-cloud-sovereignty-rules-could-do-more-harm-than-good/5303890",
+  "https://www.theregister.com/os-platforms/2026/10/19/red-hat-helps-teach-about-tech-writing/5303868",
+  "https://www.theregister.com/offbeat/2026/10/19/in-space-weve-gone-from-exploration-to-exploitation-says-original-voyager-team-member/5303632",
+  "https://blog.cloudflare.com/obsessive-inference-optimization/",
+  "https://blog.cloudflare.com/clairic-extraction-model/",
+  "https://josie.lol/blog/linux-rtx-spark",
+  "https://www.minimax.io/blog/minimax-m31f",
+  "https://www.youtube.com/watch?v=Ndftcft6XhU",
+  "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+  "https://github.com/kksimp/Mac.apk",
+  "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+  "https://bsd.network/@brynet/117407035545900963",
+  "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+  "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+  "https://mistral.ai/news/timestral/",
+  "https://starcraft-shooter-2026.pages.dev/",
+  "https://spectrum.ieee.org/alternatives-to-animal-testing",
+  "https://thefloatingcontinent.com/blog/credit-is-due/",
+  "https://evidence.dev/jobs"
  ],
  "stories": [
   {
@@ -13131,7 +13155,10 @@
    "impact": 8,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974"
+   ]
   },
   {
    "id": 335,
@@ -13816,9 +13843,333 @@
    "urgency": 5,
    "scale": 4,
    "credibility": 8
+  },
+  {
+   "id": 354,
+   "ts": "2026-10-20T04:50:57.204684+07:00",
+   "title": "Grocery giant Ahold Delhaize confirms cyberattack forced US and European systems offline",
+   "link": "https://www.theregister.com/security/2026/10/19/grocery-giant-ahold-delhaize-confirms-cyberattack-forced-us-and-european-systems-offline/5303970",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "A confirmed cyberattack knocked enterprise systems offline for an international retail giant, demonstrating real-world operational security risks.",
+   "summary": "Retail conglomerate Ahold Delhaize suffered a cyberattack that forced several IT systems offline across the US and Europe. The disruption highlights the ongoing risks ransomware and network intrusions pose to enterprise infrastructure.",
+   "vocab": [
+    {
+     "word": "equivalent",
+     "thai": "เท่ากัน / มีค่าเท่ากัน",
+     "level": "B2",
+     "example": "The firm was sold at the equivalent of a multi-billion dollar valuation."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำมาปรับใช้",
+     "level": "B2",
+     "example": "The operating system saw increasing awareness and adoption among users."
+    },
+    {
+     "word": "awareness",
+     "thai": "ความตระหนักรู้",
+     "level": "B2",
+     "example": "Raising security awareness helps employees spot suspicious incoming messages."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 355,
+   "ts": "2026-10-20T04:50:57.204773+07:00",
+   "title": "Security patches need patches now that attackers have AI",
+   "link": "https://www.theregister.com/patches/2026/10/19/security-patches-need-patches-now-that-attackers-have-ai/5303927",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "AI-accelerated vulnerability exploitation shortens patching windows, directly threatening server operations and enterprise cybersecurity defenses.",
+   "summary": "Security researchers point out that attackers are now using AI to analyze software patches and rapidly find remaining flaws. As a result, infrastructure administrators must accelerate their patching cadence to prevent automated zero-day attacks.",
+   "vocab": [
+    {
+     "word": "stable",
+     "thai": "มั่นคง / มีเสถียรภาพ",
+     "level": "B2",
+     "example": "Information security remains an attractive field for a long, stable career."
+    },
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางไซเบอร์เพื่อขโมยข้อมูล",
+     "level": "B2",
+     "example": "Attackers pose as official technical support agents to launch phishing attacks."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "The cybersecurity firm reached a multi-billion dollar valuation after its recent acquisition."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 7
+  },
+  {
+   "id": 356,
+   "ts": "2026-10-20T04:50:57.204809+07:00",
+   "title": "Europe’s cloud sovereignty rules could do more harm than good",
+   "link": "https://www.theregister.com/off-prem/2026/10/19/europes-cloud-sovereignty-rules-could-do-more-harm-than-good/5303890",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Cloud sovereignty regulations heavily influence cloud architecture, multi-region deployments, and compliance requirements in European data centers.",
+   "summary": "Critics warn that stringent European cloud sovereignty mandates could inadvertently harm regional competitiveness and inflate IT costs. The debate forces infrastructure architects to balance strict data residency compliance with cloud capability.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย",
+     "level": "C1",
+     "example": "European cloud sovereignty rules aim to keep user data under local jurisdiction."
+    },
+    {
+     "word": "harm",
+     "thai": "อันตราย / ความเสียหาย",
+     "level": "B2",
+     "example": "Poorly planned regulations could do more harm than good to tech adoption."
+    },
+    {
+     "word": "debate",
+     "thai": "การถกเถียง / การอภิปราย",
+     "level": "B2",
+     "example": "Policy makers continue an active debate on data privacy and foreign cloud providers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 357,
+   "ts": "2026-10-20T04:51:54.708995+07:00",
+   "title": "Cutting our inference bill by 68% by being obsessive about optimization",
+   "link": "https://blog.cloudflare.com/obsessive-inference-optimization/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Provides actionable production insights on optimizing token usage and reducing cloud AI inference expenses in DevOps workflows.",
+   "summary": "Cloudflare reduced the running costs of its automated code review agent by 68% while speeding up review times. They achieved these savings by optimizing prompt structures, switching model tiers, and refactoring their internal review framework.",
+   "vocab": [
+    {
+     "word": "palatable",
+     "thai": "ที่พอรับได้หรือน่าพอใจ",
+     "level": "C1",
+     "example": "When we previously blogged about our AI code reviewer in April, an average review cost a palatable $1.19."
+    },
+    {
+     "word": "intensive",
+     "thai": "เข้มข้นหรือละเอียดถี่ถ้วน",
+     "level": "B2",
+     "example": "The same risk tiers decided how intensive of a review we gave."
+    },
+    {
+     "word": "canary",
+     "thai": "ระบบหรือสภาพแวดล้อมที่ใช้ทดสอบซอฟต์แวร์กลุ่มเล็กก่อนปล่อยจริง",
+     "level": "B2",
+     "example": "We ran every review in every canary repo on both v1 and v2 in a comparative shadow mode."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 358,
+   "ts": "2026-10-20T04:51:54.709032+07:00",
+   "title": "Introducing Clairic, a new System One class of extraction models",
+   "link": "https://blog.cloudflare.com/clairic-extraction-model/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Cloudflare announced an extraction model on Workers AI that provides lower-cost, lower-latency structured data processing.",
+   "summary": "Cloudflare launched a preview of Clairic, a specialized extraction model designed to pull structured values from unstructured inputs. Unlike traditional LLMs, it operates in a single pass without generative token overhead, reducing operational costs and latency on Workers AI.",
+   "vocab": [
+    {
+     "word": "unstructured",
+     "thai": "ที่ไม่มีโครงสร้างแน่นอน",
+     "level": "B2",
+     "example": "Clairic is an extraction model that is able to extract values from unstructured inputs."
+    },
+    {
+     "word": "deliberate",
+     "thai": "รอบคอบหรือผ่านการไตร่ตรองอย่างละเอียด",
+     "level": "B2",
+     "example": "This contrasts a System Two model that is capable of deliberate reasoning."
+    },
+    {
+     "word": "niche",
+     "thai": "เฉพาะกลุ่มหรือตลาดเฉพาะ",
+     "level": "B2",
+     "example": "It is priced accessibly given its niche domain."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 359,
+   "ts": "2026-10-20T04:51:54.709056+07:00",
+   "title": "MiniMax M3.1 Flash",
+   "link": "https://www.minimax.io/blog/minimax-m31f",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Launches a fast, cost-effective LLM targeting agentic coding and security automation, relevant to AI deployment teams.",
+   "summary": "MiniMax released M3.1 Flash, an AI model offering higher token throughput and lower inference prices for agentic tasks. It benchmarks competitively in software engineering, complex workflows, and automated cybersecurity assessments.",
+   "vocab": [
+    {
+     "word": "generational",
+     "thai": "ก้าวกระโดดข้ามยุคหรือเชิงรุ่น",
+     "level": "C1",
+     "example": "M3.1 Flash delivers a generational leap in agentic tasks, coding, and cybersecurity."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐานเปรียบเทียบสมรรถนะ",
+     "level": "B2",
+     "example": "M3.1 Flash improves across a broad range of benchmarks."
+    },
+    {
+     "word": "penetration",
+     "thai": "การเจาะระบบเพื่อทดสอบความปลอดภัย",
+     "level": "C1",
+     "example": "The model performed strongly in code auditing, vulnerability patching, and penetration testing."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 360,
+   "ts": "2026-10-20T04:51:54.709078+07:00",
+   "title": "The reverts will continue until morale improves",
+   "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "PostgreSQL is a foundational database in enterprise infrastructure, and multiple reverted beta features affect future upgrade roadmaps.",
+   "summary": "A PostgreSQL committer detailed why an unusually large batch of major features was reverted from the PostgreSQL 19 beta. The decision stemmed from architectural bugs, LLM-assisted code reviews exposing subtle edge cases, and maintainers prioritizing recent security vulnerabilities.",
+   "vocab": [
+    {
+     "word": "extrapolate",
+     "thai": "คาดการณ์หรืออนุมานจากข้อเท็จจริงที่มีอยู่",
+     "level": "C2",
+     "example": "I’ll try to extrapolate a little bit to similarly affected work that I was not actively involved in."
+    },
+    {
+     "word": "defect",
+     "thai": "ข้อบกพร่องหรือจุดตำหนิ",
+     "level": "B2",
+     "example": "Some of the reverted features had significant architectural defects that would have been hard to fix quickly."
+    },
+    {
+     "word": "corollary",
+     "thai": "ผลสืบเนื่องหรือข้อสรุปที่ตามมาโดยตรง",
+     "level": "C2",
+     "example": "A corollary of that is that this situation is not due to vibe coding."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 361,
+   "ts": "2026-10-20T04:52:36.889934+07:00",
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "link": "https://bsd.network/@brynet/117407035545900963",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "OpenBSD OS updates introduce relevant hypervisor SMP upgrades and GPU memory mapping, though it remains a niche operating system in production enterprise environments.",
+   "summary": "The upcoming OpenBSD 8.0 release will include updated DRM graphics drivers from Linux 6.18, expanding support for Intel Arc GPUs and large VRAM mapping. Additionally, its hypervisor vmm now supports symmetric multiprocessing with up to 64 virtual CPUs per guest machine.",
+   "vocab": [
+    {
+     "word": "toolchain",
+     "thai": "ชุดเครื่องมือสำหรับพัฒนาซอฟต์แวร์",
+     "level": "C1",
+     "example": "This makes OpenBSD the only operating system to support sparc64 with a modern toolchain."
+    },
+    {
+     "word": "virtual",
+     "thai": "เสมือนจริง",
+     "level": "B2",
+     "example": "Increased kernel virtual addresses allow mapping more than 4G of VRAM."
+    },
+    {
+     "word": "accelerated",
+     "thai": "เร่งความเร็วแล้ว",
+     "level": "B2",
+     "example": "Accelerated swap encryption on amd64 and arm64 uses AES CPU instructions."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 362,
+   "ts": "2026-10-20T04:52:36.889980+07:00",
+   "title": "Timestral: Mistral's time-series foundation models",
+   "link": "https://mistral.ai/news/timestral/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Mistral released lightweight time-series AI models useful for telemetry, capacity planning, and observability forecasting in infrastructure stacks.",
+   "summary": "Mistral AI unveiled Timestral, a family of open-weight foundation models explicitly engineered to forecast multivariate time-series data. The models can run efficiently on CPUs to assist with enterprise tasks like sensor telemetry, observability analysis, and capacity forecasting.",
+   "vocab": [
+    {
+     "word": "multivariate",
+     "thai": "ตัวแปรพหุหรือหลายตัวแปร",
+     "level": "C1",
+     "example": "Timestral delivers probabilistic, multivariate forecasts across diverse operational datasets."
+    },
+    {
+     "word": "observability",
+     "thai": "ความสามารถในการตรวจสอบและสังเกตสถานะระบบ",
+     "level": "C1",
+     "example": "Time series is one of the most common data types in enterprise, from sensor telemetry to observability metrics."
+    },
+    {
+     "word": "volatility",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "Finance and infrastructure teams track volatility across resources to inform planning."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 354,
+ "next_id": 363,
  "vocab": [
   {
    "word": "commissioning",
