@@ -770,7 +770,31 @@
   "https://www.construction-physics.com/p/how-to-train-your-robot",
   "https://crystl.dev/guides/tmux-for-ai-agents/",
   "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
-  "https://contextfirst.blog/superlite-hand-an-agent-a-spec/"
+  "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+  "https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/",
+  "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/",
+  "https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/",
+  "https://www.datacenterdynamics.com/en/news/russian-official-proposes-data-centers-in-disused-coal-mines-to-protect-from-drone-strikes/",
+  "https://www.datacenterdynamics.com/en/news/400mw-data-center-eyed-at-old-navy-cyber-site-in-san-diego-california/",
+  "https://www.datacenterdynamics.com/en/opinions/power-alone-wont-unlock-the-next-generation-of-ai-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/anthropic-named-as-customer-of-everwinds-data-center-project-in-nova-scotia/",
+  "https://www.datacenterdynamics.com/en/news/google-explores-data-center-site-in-roanoke-county-virginia/",
+  "https://www.datacenterdynamics.com/en/news/european-telco-heavyweights-explore-joint-mss-spectrum-bid-for-d2d-services/",
+  "https://www.datacenterdynamics.com/en/opinions/data-center-siting-in-the-ai-era-a-smarter-approach-to-environmental-and-community-impact/",
+  "https://www.datacenterdynamics.com/en/news/stack-files-for-second-building-at-lancaster-campus-texas/",
+  "https://www.datacenterdynamics.com/en/whitepapers/maximizing-efficiency-and-security-through-global-vendor-consolidation-in-it-asset-disposition/",
+  "https://www.datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation/",
+  "https://www.datacenterdynamics.com/en/news/apax-partners-to-take-full-ownership-of-dutch-telco-odido/",
+  "https://www.datacenterdynamics.com/en/news/curtis-hall-proposes-temporary-499mw-gas-power-plant-for-cardiff-data-center-campus-report/",
+  "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872",
+  "https://www.theregister.com/legal/2026/10/19/saps-signavio-hit-with-function-injunction-in-germany/5303835",
+  "https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724",
+  "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+  "https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771",
+  "https://www.theregister.com/offbeat/2026/10/19/dr-garry-hunt-talks-to-us-about-the-astonishing-voyager-probes/5303632",
+  "https://www.theregister.com/offbeat/2026/10/19/museum-exhibit-reveals-the-intricate-workings-of-a-knackered-dell/5303250",
+  "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+  "https://marc.info/?l=openbsd-ports&m=179236125692175"
  ],
  "stories": [
   {
@@ -12704,7 +12728,10 @@
    "scale": 7,
    "credibility": 8,
    "msg_id": 194,
-   "sent_ts": "2026-10-19T13:03:23.955240+07:00"
+   "sent_ts": "2026-10-19T13:03:23.955240+07:00",
+   "extra_links": [
+    "https://www.theregister.com/networks/2026/10/19/broadcom-wi-fi-bug-turns-sweet-16-still-lets-strangers-hijack-your-router/5303771"
+   ]
   },
   {
    "id": 324,
@@ -13033,9 +13060,765 @@
    "urgency": 3,
    "scale": 4,
    "credibility": 7
+  },
+  {
+   "id": 333,
+   "ts": "2026-10-19T23:42:25.967341+07:00",
+   "title": "Authorities in Lithuania foil arson plot against Starlink satellite gateway station",
+   "link": "https://www.datacenterdynamics.com/en/news/authorities-in-lithuania-foil-arson-plot-against-starlink-satellite-gateway-station/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports physical attacks on satellite internet ground stations used for critical infrastructure.",
+   "summary": "Authorities in Lithuania stopped an arson attack on a warehouse storing Starlink satellite equipment. The incident is part of a wider pattern of physical security threats against critical communication infrastructure.",
+   "vocab": [
+    {
+     "word": "perpetrator",
+     "thai": "ผู้กระทำความผิด",
+     "level": "C1",
+     "example": "At around 2 am, perpetrators attempted to burn the satellite antennas and control unit."
+    },
+    {
+     "word": "stifle",
+     "thai": "ยับยั้ง, ขัดขวาง",
+     "level": "C1",
+     "example": "The report claims that the limits stifled Ukraine’s drone defenses."
+    },
+    {
+     "word": "investigation",
+     "thai": "การสอบสวน",
+     "level": "B2",
+     "example": "An investigation into the attempted attack in Lithuania is underway."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 334,
+   "ts": "2026-10-19T23:42:25.967387+07:00",
+   "title": "Amazon and AEP to explore deployment of up to 960MW of X-energy SMRs in Indiana",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-and-aep-to-explore-deployment-of-up-to-960mw-of-x-energy-smrs-in-indiana/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major clean energy partnership for SMR nuclear power to support massive data center capacity.",
+   "summary": "Amazon has partnered with American Electric Power to deploy up to 960MW of small modular nuclear reactors in Indiana. The project will supply carbon-free energy directly to Amazon data centers and the local power grid.",
+   "vocab": [
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งาน",
+     "level": "B2",
+     "example": "Amazon has teamed up with American Electric Power to explore the deployment of almost 960MW of small modular reactor capacity."
+    },
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือ",
+     "level": "B2",
+     "example": "As part of the collaboration, the companies aim to mobilize up to $50 billion in investments."
+    },
+    {
+     "word": "intervention",
+     "thai": "การเข้าแทรกแซง",
+     "level": "C1",
+     "example": "The company claims its fuel and helium coolant prevent a meltdown without requiring active systems or human intervention."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 335,
+   "ts": "2026-10-19T23:42:25.967419+07:00",
+   "title": "Canada puts out Advanced Procurement Notice for data center in Ontario",
+   "link": "https://www.datacenterdynamics.com/en/news/canada-puts-out-advanced-procurement-notice-for-data-center-in-ontario/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Government procurement notice for a large 60MW secure data center facility in Canada.",
+   "summary": "Defence Construction Canada has issued an advanced procurement notice for a billion-dollar data center project in Ontario. The 60MW facility will support government technology modernization and operational security.",
+   "vocab": [
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "Defence Construction Canada has put out a public Advanced Procurement Notice for a data center project."
+    },
+    {
+     "word": "onboarding",
+     "thai": "การนำเข้ามาใช้งานหรือเข้าร่วม",
+     "level": "B2",
+     "example": "This data center of 60MW will enable the onboarding of next-generation capabilities."
+    },
+    {
+     "word": "possess",
+     "thai": "ครอบครอง, มี",
+     "level": "B2",
+     "example": "The company that gets the contract will have to possess security clearance."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 336,
+   "ts": "2026-10-19T23:42:25.967450+07:00",
+   "title": "Russian official proposes data centers in disused coal mines to protect from drone strikes",
+   "link": "https://www.datacenterdynamics.com/en/news/russian-official-proposes-data-centers-in-disused-coal-mines-to-protect-from-drone-strikes/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Proposes unusual underground data center architectures to mitigate ongoing drone attack risks.",
+   "summary": "A Russian regional official has suggested building data centers inside depleted coal mines to protect them from drone strikes. The subterranean location would also leverage natural water sources for cheaper cooling.",
+   "vocab": [
+    {
+     "word": "depleted",
+     "thai": "ที่ถูกใช้จนหมดไป",
+     "level": "C1",
+     "example": "Kemerovo region governor Ilya Seredyuk proposed putting data centers inside depleted open-pit coal mines."
+    },
+    {
+     "word": "subterranean",
+     "thai": "ใต้ดิน",
+     "level": "C1",
+     "example": "Their depth would allow for standing pit water and subterranean aquifers to be used as natural chillers."
+    },
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "Recent drone attacks on data centers owned by Yandex have resulted in disruption for Russian services."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 337,
+   "ts": "2026-10-19T23:42:25.967478+07:00",
+   "title": "400MW data center eyed at old Navy cyber site in San Diego, California",
+   "link": "https://www.datacenterdynamics.com/en/news/400mw-data-center-eyed-at-old-navy-cyber-site-in-san-diego-california/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Early-stage proposal for a massive 400MW data center development on a former Navy site in California.",
+   "summary": "A real estate firm is exploring the development of a 400MW data center on a former Navy cybersecurity site in San Diego. Local officials have raised transparency concerns, arguing the land should instead be used for housing.",
+   "vocab": [
+    {
+     "word": "affiliate",
+     "thai": "บริษัทในเครือ",
+     "level": "C1",
+     "example": "Edgemoor Infrastructure and Real Estate is an affiliate of Clark Construction."
+    },
+    {
+     "word": "stakeholder",
+     "thai": "ผู้มีส่วนได้ส่วนเสีย",
+     "level": "B2",
+     "example": "We remain committed to working with the Navy and other key stakeholders throughout this process."
+    },
+    {
+     "word": "redevelop",
+     "thai": "พัฒนาใหม่",
+     "level": "B2",
+     "example": "The Navy announced plans to redevelop NAVWAR headquarters in 2022."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 338,
+   "ts": "2026-10-19T23:42:25.967539+07:00",
+   "title": "Power alone won't unlock the next generation of AI data centers",
+   "link": "https://www.datacenterdynamics.com/en/opinions/power-alone-wont-unlock-the-next-generation-of-ai-data-centers/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Analyzes the crucial operational challenge of power variability and grid flexibility for AI data centers.",
+   "summary": "Industry data shows that electricity connection requests have surged significantly due to data center demand. Operators are learning that managing rapid power fluctuations from AI workloads is just as critical as raw energy volume.",
+   "vocab": [
+    {
+     "word": "intertwined",
+     "thai": "เกี่ยวพันกันอย่างใกล้ชิด",
+     "level": "C1",
+     "example": "Data security and energy security are increasingly intertwined."
+    },
+    {
+     "word": "fluctuation",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "Meta has documented fluctuations of this nature while training its Llama models."
+    },
+    {
+     "word": "underlying",
+     "thai": "ที่เป็นพื้นฐาน, เบื้องหลัง",
+     "level": "B2",
+     "example": "The underlying load profile can be far more variable than that of previous generations."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 339,
+   "ts": "2026-10-19T23:42:25.967572+07:00",
+   "title": "Anthropic named as customer of EverWind's data center project in Nova Scotia",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-named-as-customer-of-everwinds-data-center-project-in-nova-scotia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major multi-billion dollar green energy data center commitment by Anthropic for AI workloads.",
+   "summary": "Anthropic has signed a 20-year lease for a massive green energy data center campus in Nova Scotia, Canada. Backed by a $10 billion private investment, the project will expand renewable wind generation to power future AI operations.",
+   "vocab": [
+    {
+     "word": "ambition",
+     "thai": "ความทะเยอทะยาน, เป้าหมายอันยิ่งใหญ่",
+     "level": "B2",
+     "example": "This announcement highlights the role Nova Scotians can play in driving Canada’s renewed economic ambitions."
+    },
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มธุรกิจหรือทรัพย์สินทั้งหมด",
+     "level": "B2",
+     "example": "EverWind will advance its onshore wind portfolio in Nova Scotia."
+    },
+    {
+     "word": "transmission",
+     "thai": "การส่ง (กระแสไฟฟ้าหรือสัญญาณ)",
+     "level": "B2",
+     "example": "These developments will connect via the Strait Crossing Transmission Line Project."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 340,
+   "ts": "2026-10-19T23:42:25.967598+07:00",
+   "title": "Google explores data center site in Roanoke County, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/google-explores-data-center-site-in-roanoke-county-virginia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Google evaluates a new regional data center campus location in Virginia.",
+   "summary": "Google is performing due diligence to potentially build a new data center campus at an industrial park in Roanoke County, Virginia. Local residents have expressed concerns regarding potential noise, vibrations, and resource consumption.",
+   "vocab": [
+    {
+     "word": "evaluation",
+     "thai": "การประเมิน",
+     "level": "B2",
+     "example": "Google is exploring a data center site in Roanoke County."
+    },
+    {
+     "word": "consumption",
+     "thai": "การบริโภค, การใช้ประโยชน์",
+     "level": "B2",
+     "example": "Locals noted that the project could cause noise and use water resources."
+    },
+    {
+     "word": "acquire",
+     "thai": "ได้มา, จัดซื้อ",
+     "level": "B2",
+     "example": "Prologis previously signed an agreement to acquire 94 acres of land in the tech park."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 341,
+   "ts": "2026-10-19T23:42:38.782066+07:00",
+   "title": "European telco heavyweights explore joint MSS spectrum bid for D2D services",
+   "link": "https://www.datacenterdynamics.com/en/news/european-telco-heavyweights-explore-joint-mss-spectrum-bid-for-d2d-services/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "European telecom giants exploring a joint satellite spectrum bid impacts connectivity and telecom infrastructure markets.",
+   "summary": "Four major European mobile operators signed a letter of intent to jointly bid for mobile satellite services spectrum. The move aims to improve regional connectivity resilience and compete with external satellite providers.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทหรือองค์กรที่ร่วมมือกัน",
+     "level": "C1",
+     "example": "The carriers were plotting to create a consortium to bid on satellite spectrum."
+    },
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย",
+     "level": "C1",
+     "example": "The initiative seeks to strengthen Europe's sovereignty in critical connectivity infrastructure."
+    },
+    {
+     "word": "governance",
+     "thai": "การกำกับดูแล",
+     "level": "B2",
+     "example": "The joint bid would ensure responsible European governance of key space infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 342,
+   "ts": "2026-10-19T23:42:38.782107+07:00",
+   "title": "Sponsored: Data center siting in the AI era: A smarter approach to environmental and community impact",
+   "link": "https://www.datacenterdynamics.com/en/opinions/data-center-siting-in-the-ai-era-a-smarter-approach-to-environmental-and-community-impact/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Offers operational and environmental guidance on data center site selection, highly relevant to infrastructure planning.",
+   "summary": "A new guide highlights the importance of early environmental, legal, and community assessments for AI data center siting. Proper planning in land acquisition and acoustics helps avoid costly project delays.",
+   "vocab": [
+    {
+     "word": "comprehensive",
+     "thai": "ครอบคลุม",
+     "level": "B2",
+     "example": "A comprehensive approach to environmental considerations can reduce risk."
+    },
+    {
+     "word": "acquisition",
+     "thai": "การได้มาซึ่ง (ที่ดินหรือกิจการ)",
+     "level": "C1",
+     "example": "Missteps in land acquisition and environmental review can hurt project success."
+    },
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้",
+     "level": "C1",
+     "example": "Appropriate action was taken to evaluate parcels for feasibility before capital was committed."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 343,
+   "ts": "2026-10-19T23:42:38.782133+07:00",
+   "title": "Stack files for second building at Lancaster campus, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/stack-files-for-second-building-at-lancaster-campus-texas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details major new data center campus developments and massive capacity filings in Texas, directly relevant to infrastructure operations.",
+   "summary": "Stack Infrastructure and PowerHouse have filed applications for massive new data center buildings in Texas. These projects represent hundreds of megawatts of expanding capacity to support growing regional demand.",
+   "vocab": [
+    {
+     "word": "affiliate",
+     "thai": "บริษัทในเครือ",
+     "level": "C1",
+     "example": "An affiliate linked to Stack Infrastructure has filed an application for a new data center."
+    },
+    {
+     "word": "portfolio",
+     "thai": "พอร์ตโฟลิโอ, กลุ่มทรัพย์สิน",
+     "level": "B2",
+     "example": "PowerHouse says its portfolio and pipeline totals more than 8GW of capacity."
+    },
+    {
+     "word": "pipeline",
+     "thai": "โครงการที่กำลังดำเนินการอยู่ในอนาคต",
+     "level": "B2",
+     "example": "The referenced filings are part of ongoing development planning across their pipeline."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 344,
+   "ts": "2026-10-19T23:42:38.782165+07:00",
+   "title": "Maximizing efficiency and security through global vendor consolidation in IT Asset Disposition",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/maximizing-efficiency-and-security-through-global-vendor-consolidation-in-it-asset-disposition/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Focuses on IT Asset Disposition and hardware security compliance, touching server infrastructure lifecycle management.",
+   "summary": "A new guide explores how global IT asset disposition consolidation can improve security and regulatory compliance. Streamlining asset disposal with a single vendor helps organizations minimize data breach risks.",
+   "vocab": [
+    {
+     "word": "consolidation",
+     "thai": "การควบรวมกิจการหรือกระบวนการเข้าด้วยกัน",
+     "level": "C1",
+     "example": "Consolidating IT asset disposition services can help organizations standardize processes."
+    },
+    {
+     "word": "disposition",
+     "thai": "การจำหน่ายจ่ายโอน (ทรัพย์สิน)",
+     "level": "C1",
+     "example": "Fragmented processes can increase risks in asset disposition tracking."
+    },
+    {
+     "word": "oversight",
+     "thai": "การควบคุมดูแล",
+     "level": "C1",
+     "example": "A single global vendor can help strengthen oversight across the asset lifecycle."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 345,
+   "ts": "2026-10-19T23:42:38.782202+07:00",
+   "title": "AI chip startup Tenstorrent raises $1.5bn at $6.2bn valuation",
+   "link": "https://www.datacenterdynamics.com/en/news/ai-chip-startup-tenstorrent-raises-15bn-at-62bn-valuation/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A major funding round and valuation surge for an AI chip startup directly impacts AI hardware and server infrastructure options.",
+   "summary": "AI chip startup Tenstorrent has raised $1.5 billion in a Series E funding round, valuing the company at $6.2 billion. The funds will be used to scale manufacturing of its RISC-V processors and servers.",
+   "vocab": [
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่าบริษัท",
+     "level": "C1",
+     "example": "The round more than doubles the company's previous valuation."
+    },
+    {
+     "word": "accelerator",
+     "thai": "ฮาร์ดแวร์เร่งความเร็ว (เช่น ชิป AI)",
+     "level": "B2",
+     "example": "Tenstorrent builds scalable artificial intelligence accelerators to compete with Nvidia."
+    },
+    {
+     "word": "participation",
+     "thai": "การมีส่วนร่วม",
+     "level": "B2",
+     "example": "The round saw participation from several major venture funds and institutional investors."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 346,
+   "ts": "2026-10-19T23:42:38.782231+07:00",
+   "title": "Apax Partners to take full ownership of Dutch telco Odido",
+   "link": "https://www.datacenterdynamics.com/en/news/apax-partners-to-take-full-ownership-of-dutch-telco-odido/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A major European telecom acquisition affects regional telecom market structure but has minimal direct impact on server infrastructure operations.",
+   "summary": "Apax Partners has reached an agreement to acquire Warburg Pincus's stake in Dutch telecommunications operator Odido. The transaction will give Apax full ownership as the carrier continues expanding its fiber and 5G networks.",
+   "vocab": [
+    {
+     "word": "stake",
+     "thai": "ส่วนแบ่งความเป็นเจ้าของ",
+     "level": "B2",
+     "example": "Apax has struck an agreement to acquire the stake of co-investor Warburg Pincus."
+    },
+    {
+     "word": "standalone",
+     "thai": "ที่เป็นอิสระ, ดำเนินการเองได้",
+     "level": "C1",
+     "example": "It has become a strong, standalone operator with an excellent team."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎข้อบังคับ",
+     "level": "B2",
+     "example": "The deal requires approval from regulatory authorities before completion."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 347,
+   "ts": "2026-10-19T23:42:38.782259+07:00",
+   "title": "Curtis Hall proposes temporary 49.9MW gas power plant for Cardiff data center campus - report",
+   "link": "https://www.datacenterdynamics.com/en/news/curtis-hall-proposes-temporary-499mw-gas-power-plant-for-cardiff-data-center-campus-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly addresses power constraints, grid connection delays, and temporary fossil-fuel generation solutions for a data center campus.",
+   "summary": "A developer in Cardiff has proposed building a temporary 49.9MW natural gas power plant to fast-track energy for a planned data center. The move addresses lengthy local grid connection delays while drawing environmental criticism.",
+   "vocab": [
+    {
+     "word": "ancillary",
+     "thai": "ที่เป็นส่วนประกอบเสริม, สนับสนุน",
+     "level": "C1",
+     "example": "The planning documents outline a temporary ancillary energy center consisting of gas turbines."
+    },
+    {
+     "word": "circumvent",
+     "thai": "หลีกเลี่ยงกฎหรือข้อจำกัด",
+     "level": "C1",
+     "example": "Critics assert the capacity is an attempt to circumvent planning permission thresholds."
+    },
+    {
+     "word": "scrutinize",
+     "thai": "ตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Council members have called for the Welsh government to scrutinize the plans."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 348,
+   "ts": "2026-10-19T23:42:38.782291+07:00",
+   "title": "Uber dodges £340M cabbie lawsuit after drivers miss legal deadline",
+   "link": "https://www.theregister.com/offbeat/2026/10/19/uber-dodges-340m-cabbie-lawsuit-after-drivers-miss-legal-deadline/5303872",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "A roundup containing various tech and infosec developments, including hardware, kernel changes, and cybersecurity updates.",
+   "summary": "The latest tech news roundup covers developments like Nvidia AI hardware, kernel updates, and cybersecurity patches. It also highlights infrastructure initiatives and open-source software updates.",
+   "vocab": [
+    {
+     "word": "obsolescence",
+     "thai": "ความล้าสมัย",
+     "level": "C1",
+     "example": "Kernel developers continue to refine systems to prevent code decay and tool issues."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "B2",
+     "example": "Silicon giants are tracking the deployment capacity of data centers globally."
+    },
+    {
+     "word": "encryption",
+     "thai": "การเข้ารหัสข้อมูล",
+     "level": "B2",
+     "example": "Browser makers are utilizing trusted hardware to provide end-to-end encryption."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 349,
+   "ts": "2026-10-19T23:42:50.969388+07:00",
+   "title": "SAP's Signavio hit with function injunction in Germany",
+   "link": "https://www.theregister.com/legal/2026/10/19/saps-signavio-hit-with-function-injunction-in-germany/5303835",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "General tech and software news with moderate relevance to infrastructure and dev tools.",
+   "summary": "Various tech updates cover legal rulings, security patches, and open-source releases across the industry. These changes influence how developers manage software deployment and security compliance.",
+   "vocab": [
+    {
+     "word": "injunction",
+     "thai": "คำสั่งศาล (ห้ามกระทำชั่วคราว)",
+     "level": "C1",
+     "example": "SAP's Signavio hit with function injunction in Germany."
+    },
+    {
+     "word": "obligatory",
+     "thai": "ที่เป็นข้อบังคับ",
+     "level": "B2",
+     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
+    },
+    {
+     "word": "reskin",
+     "thai": "การเปลี่ยนหน้าตาหรืออินเทอร์เฟซ",
+     "level": "C1",
+     "example": "Yet another new version of Firefox, with a significant reskin."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 350,
+   "ts": "2026-10-19T23:42:50.969432+07:00",
+   "title": "Admin: 'I spent all weekend on my servers' after Microsoft breaks Exchange Server with October updates",
+   "link": "https://www.theregister.com/software/2026/10/19/admin-i-spent-all-weekend-on-my-servers-after-microsoft-breaks-exchange-server-with-october-updates/5303724",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts administrators handling on-premise Exchange server updates and stability issues.",
+   "summary": "Microsoft's latest October updates broke Exchange Server instances, forcing administrators to spend their weekends fixing systems. Such faulty patches highlight ongoing risks in enterprise infrastructure maintenance.",
+   "vocab": [
+    {
+     "word": "administer",
+     "thai": "จัดการ, บริหารระบบ",
+     "level": "B2",
+     "example": "I spent all weekend on my servers after Microsoft broke Exchange Server."
+    },
+    {
+     "word": "malfunction",
+     "thai": "การทำงานผิดปกติ",
+     "level": "B2",
+     "example": "The update caused a major malfunction in the mail server environment."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขปัญหา",
+     "level": "C1",
+     "example": "Admins required urgent remediation steps to restore email services."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 351,
+   "ts": "2026-10-19T23:42:50.969466+07:00",
+   "title": "Microsoft abandons UK AI supercomputer as grid struggles to keep up",
+   "link": "https://www.theregister.com/on-prem/2026/10/19/microsoft-abandons-uk-ai-supercomputer-as-grid-struggles-to-keep-up/5303824",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Major news regarding power grid bottlenecks and AI data center infrastructure constraints.",
+   "summary": "Microsoft has abandoned its flagship AI supercomputer project in Essex because the local power grid cannot supply enough energy. This delay underscores how power availability is now blocking large-scale data center expansion.",
+   "vocab": [
+    {
+     "word": "abandon",
+     "thai": "ละทิ้ง, เลิกทำ",
+     "level": "B2",
+     "example": "Microsoft abandons UK AI supercomputer as grid struggles to keep up."
+    },
+    {
+     "word": "flagship",
+     "thai": "โครงการสำคัญที่สุด, เรือธง",
+     "level": "B2",
+     "example": "Tech giant walks away from flagship Essex project."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "C1",
+     "example": "Power connection delays create a severe infrastructure constraint."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 352,
+   "ts": "2026-10-19T23:42:50.969623+07:00",
+   "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+   "link": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical infrastructure security advisory regarding Citrix NetScaler vulnerabilities and defense strategies.",
+   "summary": "Following major vulnerabilities in Citrix NetScaler, security experts recommend deploying web application firewalls and strict access controls. These measures help protect authentication gateways from unauthenticated remote command execution.",
+   "vocab": [
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Publicly accessible authentication pages all deserve the same scrutiny."
+    },
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "Applying updates can result in downtime or cause disruptions to employees."
+    },
+    {
+     "word": "unauthenticated",
+     "thai": "ที่ไม่ได้ยืนยันตัวตน",
+     "level": "C1",
+     "example": "The flaw allows unauthenticated command execution on affected appliances."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 353,
+   "ts": "2026-10-19T23:42:50.969646+07:00",
+   "title": "Wine Ported to OpenBSD",
+   "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Interesting OS porting news for Unix/BSD administrators and enthusiasts.",
+   "summary": "Developers have successfully ported Wine to OpenBSD, allowing several 64-bit Windows applications to run on the platform. This collaborative effort opens new compatibility possibilities for alternative operating systems.",
+   "vocab": [
+    {
+     "word": "collective",
+     "thai": "ที่เป็นการร่วมมือกัน",
+     "level": "B2",
+     "example": "This has been a collective effort by the development team."
+    },
+    {
+     "word": "emulate",
+     "thai": "จำลองการทำงาน",
+     "level": "C1",
+     "example": "We are emulating the prefix on commands since we cannot set gsbase."
+    },
+    {
+     "word": "limitation",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Biggest limitation is that WoW64 does not work yet."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 4,
+   "credibility": 8
   }
  ],
- "next_id": 333,
+ "next_id": 354,
  "vocab": [
   {
    "word": "commissioning",
@@ -16482,7 +17265,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
