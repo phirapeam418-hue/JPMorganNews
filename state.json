@@ -748,7 +748,13 @@
   "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
   "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
   "https://blog.picheta.me/post/killswitch-lang/",
-  "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/"
+  "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+  "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
+  "https://colo.to/cyberspace.html",
+  "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+  "https://www.maddox.pro/?p=448",
+  "https://github.com/finereli/whatsapp-mcp",
+  "https://unsung.aresluna.org/traditional-but-puzzling/"
  ],
  "stories": [
   {
@@ -12669,9 +12675,45 @@
    "urgency": 6,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 324,
+   "ts": "2026-10-19T09:16:14.078066+07:00",
+   "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
+   "link": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "This is a roundup including TSMC's review of US datacenter power and active zero-day attacks on on-prem SharePoint.",
+   "summary": "The Register published a roundup highlighting TSMC assessing US datacenter power readiness and ongoing zero-day attacks hitting on-premises Microsoft SharePoint servers. These updates are directly relevant to enterprise infrastructure security and cloud capacity planning.",
+   "vocab": [
+    {
+     "word": "surveillance",
+     "thai": "การสอดแนมหรือเฝ้าระวัง",
+     "level": "B2",
+     "example": "China upgrades smartphone surveillance tools across various regions."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "The cybersecurity firm went at an equivalent of a $3.5B valuation."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความช่วยเหลือหรือเกณฑ์กำลัง",
+     "level": "C1",
+     "example": "The Franklin project enlists hackers to harden critical infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 324,
+ "next_id": 325,
  "vocab": [
   {
    "word": "commissioning",
