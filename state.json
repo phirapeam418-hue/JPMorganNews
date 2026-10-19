@@ -13925,7 +13925,7 @@
    "thai": "ระดับองค์กรธุรกิจ",
    "level": "B2",
    "example": "We will be adding all the enterprise features you have been asking us for.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -14995,7 +14995,7 @@
    "thai": "รวมทั้งหมด",
    "level": "C1",
    "example": "delivering 27.6TB of high-bandwidth memory and 1.7Pbps of aggregate HBM bandwidth.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -15375,7 +15375,7 @@
    "thai": "ผลตอบแทนจากการลงทุน",
    "level": "C1",
    "example": "AirTrunk has considered raising its REIT yield by 0.5 percentage points.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -16145,7 +16145,7 @@
    "thai": "การขึ้นๆ ลงๆ, ความผันผวน",
    "level": "C1",
    "example": "The system is designed to handle sharp load fluctuations in grids and AI data centers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -16925,7 +16925,7 @@
    "thai": "การยกเลิกการสนับสนุน",
    "level": "C1",
    "example": "Developers must prepare for the deprecation of XSLT in modern web browsers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17261,6 +17261,26 @@
   },
   "6244466802923930621": {
    "word": "mainline",
+   "correct": 3
+  },
+  "6246584625527784352": {
+   "word": "enterprise",
+   "correct": 2
+  },
+  "6246584625527784353": {
+   "word": "aggregate",
+   "correct": 0
+  },
+  "6246584625527784354": {
+   "word": "yield",
+   "correct": 3
+  },
+  "6246584625527784355": {
+   "word": "deprecation",
+   "correct": 3
+  },
+  "6246584625527784356": {
+   "word": "fluctuation",
    "correct": 3
   }
  },
