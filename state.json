@@ -754,7 +754,23 @@
   "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
   "https://www.maddox.pro/?p=448",
   "https://github.com/finereli/whatsapp-mcp",
-  "https://unsung.aresluna.org/traditional-but-puzzling/"
+  "https://unsung.aresluna.org/traditional-but-puzzling/",
+  "https://www.datacenterdynamics.com/en/product-news/mission-critical-supply-to-meet-national-demand/",
+  "https://www.datacenterdynamics.com/en/marketwatch/slow-data-center-evolution-will-turn-into-massive-ai-inspired-transformation-in-next-25-years/",
+  "https://www.datacenterdynamics.com/en/whitepapers/successful-project-handover-for-data-centers/",
+  "https://www.theregister.com/legal/2026/10/19/microsofts-second-hand-licensing-appeal-gets-the-brush-off/5303718",
+  "https://www.theregister.com/columnists/2026/10/19/ais-epic-cash-call-is-matched-only-by-its-ability-to-strangle-revenue-streams/5303493",
+  "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+  "https://www.theregister.com/software/2026/10/19/engineer-was-so-sick-of-office-pranks-he-wiped-his-antagonists-disk/5302162",
+  "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+  "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+  "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+  "https://lwn.net/Articles/1101143/",
+  "https://phys.org/news/2026-10-rabbits-medieval-royal-luxury-england.html",
+  "https://www.construction-physics.com/p/how-to-train-your-robot",
+  "https://crystl.dev/guides/tmux-for-ai-agents/",
+  "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+  "https://contextfirst.blog/superlite-hand-an-agent-a-spec/"
  ],
  "stories": [
   {
@@ -12727,9 +12743,299 @@
    "credibility": 8,
    "msg_id": 200,
    "sent_ts": "2026-10-19T13:03:27.491442+07:00"
+  },
+  {
+   "id": 325,
+   "ts": "2026-10-19T16:26:48.441152+07:00",
+   "title": "Successful project handover for data centers",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/successful-project-handover-for-data-centers/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It addresses critical operational readiness and asset management handovers in data center facilities.",
+   "summary": "Rapid data center construction often leaves operations teams with incomplete equipment records, hindering long-term asset management. The whitepaper recommends enforcing data standards early and capturing digital commissioning records before official handover.",
+   "vocab": [
+    {
+     "word": "handover",
+     "thai": "การส่งมอบงานหรือสถานที่",
+     "level": "B2",
+     "example": "Operations teams face major challenges during data center handover."
+    },
+    {
+     "word": "custody",
+     "thai": "การดูแลควบคุมหรือความรับผิดชอบ",
+     "level": "C1",
+     "example": "Asset data accuracy is required for the transfer of care, custody, and control."
+    },
+    {
+     "word": "compress",
+     "thai": "บีบอัดหรือย่นระยะเวลา",
+     "level": "B2",
+     "example": "Design and build schedules are increasingly compressed into months."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 326,
+   "ts": "2026-10-19T16:26:48.441248+07:00",
+   "title": "AI inference is running into a memory bottleneck. Huawei wants to tackle it with OceanStor M900",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/19/sponsored-ai-inference-is-running-into-a-memory-bottleneck-huawei-wants-to-tackle-it-with-oceanstor-m900/5303543",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "It highlights storage hardware solutions aimed at resolving memory bottlenecks in AI inference environments.",
+   "summary": "Growing AI inference workloads are increasingly hitting memory bandwidth limitations in modern compute clusters. Huawei is positioning its OceanStor M900 storage system to address these data transfer bottlenecks.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวดหรือจุดติดขัด",
+     "level": "B2",
+     "example": "AI inference is running into a serious memory bottleneck."
+    },
+    {
+     "word": "tackle",
+     "thai": "จัดการหรือแก้ไขปัญหา",
+     "level": "B2",
+     "example": "The hardware vendor plans to tackle latency with new storage designs."
+    },
+    {
+     "word": "scout",
+     "thai": "ผู้สำรวจหรือการสอดแนมข้อมูล",
+     "level": "B2",
+     "example": "The company sends scouts to verify datacenter readiness."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 327,
+   "ts": "2026-10-19T16:26:48.441295+07:00",
+   "title": "ConnectWise turns off its SaaS-y backup, security, and management services to probe security SNAFU",
+   "link": "https://www.theregister.com/security/2026/10/19/connectwise-turns-off-its-saas-y-backup-security-and-management-services-to-probe-security-snafu/5303758",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "ConnectWise suspended remote management and backup services due to a security incident, directly affecting operational tools.",
+   "summary": "ConnectWise shut down several cloud-based backup, security, and remote management services to investigate an undisclosed security flaw. Infrastructure teams relying on these platforms face temporary downtime and must monitor vendor advisories.",
+   "vocab": [
+    {
+     "word": "probe",
+     "thai": "ตรวจสอบหรือสืบสวนหาความจริง",
+     "level": "B2",
+     "example": "The provider shut down services to probe a potential security flaw."
+    },
+    {
+     "word": "snafu",
+     "thai": "ความวุ่นวายโกลาหลหรือข้อผิดพลาดร้ายแรง",
+     "level": "C2",
+     "example": "Engineers worked urgently to resolve the unexpected security snafu."
+    },
+    {
+     "word": "harden",
+     "thai": "เสริมความปลอดภัยให้รัดกุมยิ่งขึ้น",
+     "level": "B2",
+     "example": "Security researchers volunteered to harden critical infrastructure against attacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 328,
+   "ts": "2026-10-19T16:29:26.513385+07:00",
+   "title": "ICANN vows to work faster, improve transparency",
+   "link": "https://www.theregister.com/networks/2026/10/19/icann-vows-to-work-faster-improve-transparency/5303751",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Administrative governance changes at ICANN have minimal direct impact on daily data center operations.",
+   "summary": "ICANN has pledged to accelerate its decision-making processes and increase operational transparency across its committees. While positive for global internet policy, this update does not require immediate operational changes for systems engineers.",
+   "vocab": [
+    {
+     "word": "transparency",
+     "thai": "ความโปร่งใส",
+     "level": "B2",
+     "example": "ICANN vows to work faster, improve transparency."
+    },
+    {
+     "word": "obligatory",
+     "thai": "ซึ่งเป็นข้อบังคับ",
+     "level": "B2",
+     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
+    },
+    {
+     "word": "confession",
+     "thai": "การสารภาพ",
+     "level": "B2",
+     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 329,
+   "ts": "2026-10-19T16:29:26.513438+07:00",
+   "title": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking",
+   "link": "https://www.theregister.com/virtualization/2026/10/19/linux-kvm-guest-host-escape-rated-critical-may-represent-a-new-way-to-attack-penguin-powered-networking/5303744",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A critical Linux KVM guest-to-host escape directly threatens multi-tenant cloud and hypervisor infrastructure.",
+   "summary": "A newly reported critical vulnerability in Linux KVM allows malicious guest virtual machines to escape host confinement. Data center and cloud operations teams should monitor patch releases closely to protect multi-tenant infrastructure.",
+   "vocab": [
+    {
+     "word": "critical",
+     "thai": "วิกฤต",
+     "level": "B2",
+     "example": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking."
+    },
+    {
+     "word": "majority",
+     "thai": "ส่วนใหญ่",
+     "level": "B2",
+     "example": "EQT buys majority share in Swiss cybersecurity biz Acronis."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "C1",
+     "example": "Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 202,
+   "sent_ts": "2026-10-19T16:29:27.168397+07:00"
+  },
+  {
+   "id": 330,
+   "ts": "2026-10-19T16:29:27.168745+07:00",
+   "title": "Linux 7.3 Released",
+   "link": "https://lwn.net/Articles/1101143/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "The new Linux kernel release introduces server scheduling and virtualization enhancements that infrastructure operators must track.",
+   "summary": "Linus Torvalds has released Linux kernel 7.3, featuring massive contributions and core improvements like VM working-set tracking. The release also brings sched_ext subscheduler enhancements that help fine-tune workload performance on large servers.",
+   "vocab": [
+    {
+     "word": "cease",
+     "thai": "ยุติ",
+     "level": "B2",
+     "example": "Will wonders never cease?"
+    },
+    {
+     "word": "wits",
+     "thai": "สติปัญญา",
+     "level": "C1",
+     "example": "This week I somehow kept my wits together long enough to keep track of the day of the week."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "Significant changes include alternative data-stream support in the ntfs3 filesystem."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 331,
+   "ts": "2026-10-19T16:29:27.168796+07:00",
+   "title": "How to Train Your Robot",
+   "link": "https://www.construction-physics.com/p/how-to-train-your-robot",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "The article discusses the theoretical scaling limits of robotics training data rather than server or data center infrastructure.",
+   "summary": "The author examines how machine learning scaling laws apply to physical robotics and why collecting training data remains difficult. Unlike language models that train on vast web text, robotics AI currently lacks large-scale datasets.",
+   "vocab": [
+    {
+     "word": "influential",
+     "thai": "มีอิทธิพล",
+     "level": "B2",
+     "example": "Gwern’s influential 2020 essay argues that recent advances in AI have been the result of scale."
+    },
+    {
+     "word": "predictably",
+     "thai": "อย่างที่คาดเดาได้",
+     "level": "B2",
+     "example": "ML models improve steadily and predictably as you train them on more data."
+    },
+    {
+     "word": "equivalent",
+     "thai": "สิ่งที่เทียบเท่า",
+     "level": "B2",
+     "example": "There’s no equivalent stock of good, public robot training data."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 332,
+   "ts": "2026-10-19T16:29:27.168821+07:00",
+   "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+   "link": "https://crystl.dev/guides/tmux-for-ai-agents/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "It offers practical terminal session management advice for developers and DevOps using AI coding agents.",
+   "summary": "This technical guide explains how to manage autonomous coding agents using tmux sessions and Git worktrees. It shows how scripting terminal sessions enables reliable multi-agent workflows without lost connections.",
+   "vocab": [
+    {
+     "word": "detachable",
+     "thai": "ซึ่งถอดแยกออกได้",
+     "level": "C1",
+     "example": "tmux runs your AI coding agents in named, detachable sessions that survive a closed terminal."
+    },
+    {
+     "word": "orchestration",
+     "thai": "การประสานจัดการระบบ",
+     "level": "C1",
+     "example": "This is why tmux keeps showing up in agent-orchestration scripts."
+    },
+    {
+     "word": "isolate",
+     "thai": "แยกออกจากกัน",
+     "level": "B2",
+     "example": "The whole move to isolate this task and give it its own session takes one command."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 7
   }
  ],
- "next_id": 325,
+ "next_id": 333,
  "vocab": [
   {
    "word": "commissioning",
@@ -16050,6 +16356,26 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "critical",
+   "thai": "วิกฤต",
+   "level": "B2",
+   "example": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "majority",
+   "thai": "ส่วนใหญ่",
+   "level": "B2",
+   "example": "EQT buys majority share in Swiss cybersecurity biz Acronis.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -16156,7 +16482,7 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 1
  },
  "level": "B2",
  "answers": []
