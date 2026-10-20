@@ -898,7 +898,31 @@
   "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
   "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
   "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
-  "https://mistral.ai/news/voxtral-3/"
+  "https://mistral.ai/news/voxtral-3/",
+  "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+  "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+  "https://permit.petercai.com/",
+  "https://stevekrouse.com/ends",
+  "https://github.com/google-pytorch/torch_tpu",
+  "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+  "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
+  "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
+  "https://www.youtube.com/watch?v=zcWkApGjyGM",
+  "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+  "https://emudhra.we-have-a-problem.com/",
+  "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/",
+  "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+  "https://www.bolkunov.com/p/on-ai-writing",
+  "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+  "https://arstechnica.com/health/2026/10/cops-raid-office-of-rfk-jr-allies-planning-unethical-vaccine-trial-on-babies/",
+  "https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/",
+  "https://arstechnica.com/gadgets/2026/10/justwatch-which-tackles-streaming-fragmentation-launches-own-streaming-service/",
+  "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+  "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+  "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+  "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+  "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+  "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
  ],
  "stories": [
   {
@@ -15906,9 +15930,340 @@
    "urgency": 6,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 408,
+   "ts": "2026-10-21T05:49:27.681191+07:00",
+   "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
+   "link": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Provides valuable insight into large-scale AI hardware reliability strategies and datacenter redundancy at Meta.",
+   "summary": "Meta keeps tens of thousands of Nvidia GPUs idle in its Prometheus supercluster to immediately replace failing nodes during training. This redundancy highlights the operational challenges and high costs of maintaining uptime in massive AI compute clusters.",
+   "vocab": [
+    {
+     "word": "idle",
+     "thai": "ไม่ได้ใช้งาน / ว่าง",
+     "level": "B2",
+     "example": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster."
+    },
+    {
+     "word": "harden",
+     "thai": "เสริมสร้างความปลอดภัยให้เข้มแข็งขึ้น",
+     "level": "B2",
+     "example": "The project enlists hackers to harden critical infrastructure against threats."
+    },
+    {
+     "word": "reskin",
+     "thai": "การปรับเปลี่ยนหน้าตาของระบบภายนอก",
+     "level": "C1",
+     "example": "Yet another new version of Firefox arrives with a significant reskin."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9,
+   "extra_links": [
+    "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
+   ]
+  },
+  {
+   "id": 409,
+   "ts": "2026-10-21T05:49:27.681242+07:00",
+   "title": "8 eMudhra certificates are compromised. Here's what you need to know",
+   "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "A major PKI security failure allows domain impersonation and directly requires infrastructure teams to patch clients and trust stores.",
+   "summary": "Cloudflare warned that private keys for eight eMudhra intermediate certificates were compromised, allowing attackers to forge certificates and intercept traffic. The company has deployed mitigations across its network and urged customers to immediately update client tools and trust configurations.",
+   "vocab": [
+    {
+     "word": "compromised",
+     "thai": "ถูกละเมิดความปลอดภัย / ถูกเจาะระบบ",
+     "level": "B2",
+     "example": "Private keys associated with eight eMudhra intermediate certificates were compromised."
+    },
+    {
+     "word": "impersonate",
+     "thai": "แอบอ้าง / ปลอมแปลงเป็น",
+     "level": "B2",
+     "example": "An attacker can create a forged certificate and use it to impersonate servers."
+    },
+    {
+     "word": "intercept",
+     "thai": "ดักจับข้อมูล / สกัดกั้น",
+     "level": "B2",
+     "example": "The forged certificate could be used to intercept or modify traffic."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 10,
+   "extra_links": [
+    "https://emudhra.we-have-a-problem.com/",
+    "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+   ]
+  },
+  {
+   "id": 410,
+   "ts": "2026-10-21T05:49:27.681290+07:00",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "link": "https://github.com/google-pytorch/torch_tpu",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to AI infrastructure and cloud computing teams utilizing Google Cloud TPUs for model training.",
+   "summary": "Google has open-sourced TorchTPU, providing native PyTorch execution and distributed training features on TPU hardware. This makes it easier for infrastructure and ML teams to run PyTorch graph mode workloads efficiently without complex framework translation.",
+   "vocab": [
+    {
+     "word": "compilation",
+     "thai": "การรวบรวมและแปลงโค้ดเป็นภาษาเครื่อง",
+     "level": "B2",
+     "example": "It includes a compilation cache for optimized execution of XLA computations."
+    },
+    {
+     "word": "execution",
+     "thai": "การประมวลผล / การรันโปรแกรม",
+     "level": "B2",
+     "example": "The backend supports graph mode execution via torch.compile."
+    },
+    {
+     "word": "degrade",
+     "thai": "ทำให้ประสิทธิภาพลดลง",
+     "level": "B2",
+     "example": "Unoptimized compiler builds can degrade model performance significantly."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 411,
+   "ts": "2026-10-21T05:51:39.478911+07:00",
+   "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
+   "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "The report discusses corporate board restructuring and potential mergers rather than operational technical news.",
+   "summary": "Elon Musk suggested merging Tesla and SpaceX to consolidate development in computing, chip design, and robotics. Independent director committees have been created at both firms, though no agreement has been reached.",
+   "vocab": [
+    {
+     "word": "consolidation",
+     "thai": "การรวมกิจการหรือรวมหน่วยงานเข้าด้วยกัน",
+     "level": "C1",
+     "example": "The executive proposed the consolidation of his business empire through a formal merger."
+    },
+    {
+     "word": "merit",
+     "thai": "ข้อดีหรือประโยชน์",
+     "level": "B2",
+     "example": "Leadership believes there is substantial merit to combining the operations of both firms."
+    },
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียมเครือข่าย",
+     "level": "B2",
+     "example": "Both companies hope to benefit from shared orbital connectivity and the satellite constellation."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 412,
+   "ts": "2026-10-21T05:52:08.603879+07:00",
+   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Relevant to data privacy, web scraping policies, and tech giant terms of service updates affecting web publishers.",
+   "summary": "Meta has removed the word 'train' from its commercial terms of service following backlash from legal experts regarding web data scraping. Critics argue that the updated wording still does not go far enough to protect publishers from invasive data collection.",
+   "vocab": [
+    {
+     "word": "quell",
+     "thai": "ระงับ, ปราบปราม",
+     "level": "C2",
+     "example": "Hoping to quell criticism, Meta has dropped the word."
+    },
+    {
+     "word": "sweeping",
+     "thai": "กว้างขวาง, ครอบคลุม",
+     "level": "C1",
+     "example": "The tech giant's sweeping new commercial terms raised legal concerns."
+    },
+    {
+     "word": "supersede",
+     "thai": "แทนที่, มีอำนาจเหนือกว่า",
+     "level": "C1",
+     "example": "These updates don't give us new rights that supersede those preferences."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 413,
+   "ts": "2026-10-21T05:52:08.603910+07:00",
+   "title": "Gemini's Personal Intelligence is coming to cars",
+   "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses AI assistant feature rollouts into automotive operating systems and connected applications.",
+   "summary": "Google is rolling out Personal Intelligence for Gemini to Android Auto and vehicles with Google built-in. The optional feature leverages user data from connected apps to provide contextual answers while driving.",
+   "vocab": [
+    {
+     "word": "differentiator",
+     "thai": "จุดเด่นที่ทำให้แตกต่าง",
+     "level": "C1",
+     "example": "Google sees Personal Intelligence as a differentiator versus other AI systems."
+    },
+    {
+     "word": "leverage",
+     "thai": "ใช้ประโยชน์จาก",
+     "level": "C1",
+     "example": "It can also leverage visual analysis to find locations."
+    },
+    {
+     "word": "formulate",
+     "thai": "สร้างขึ้น, กำหนด",
+     "level": "C1",
+     "example": "Allowing its AI to pull in more of your data to formulate answers."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 414,
+   "ts": "2026-10-21T05:52:08.603931+07:00",
+   "title": "OpenBSD 8.0 arrives with security record still intact",
+   "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts server operating systems, security patching, and infrastructure virtualization stacks.",
+   "summary": "OpenBSD 8.0 has been released with major updates, including expanded virtual address space, Intel Arc graphics support, and virtualization stack improvements. The project maintains its famous security record with very few default remote vulnerabilities in decades.",
+   "vocab": [
+    {
+     "word": "semiannual",
+     "thai": "เกิดขึ้นปีละสองครั้ง",
+     "level": "C1",
+     "example": "Continuing its schedule of semiannual releases dating back to 1996."
+    },
+    {
+     "word": "retire",
+     "thai": "เลิกใช้งาน, ปลดระวาง",
+     "level": "B2",
+     "example": "The new OpenBSD also retires support for Loongson architecture."
+    },
+    {
+     "word": "stack",
+     "thai": "ชุดซอฟต์แวร์หรือระบบ",
+     "level": "B2",
+     "example": "Improvements to the vmm/vmd virtualization stack."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 415,
+   "ts": "2026-10-21T05:52:08.604010+07:00",
+   "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
+   "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Relates to hardware supply chains, networking equipment manufacturing, and regulatory compliance.",
+   "summary": "TP-Link plans to assemble Wi-Fi routers in the United States starting by 2027 to comply with regulatory bans. The company has partnered with Keytronic to manufacture advanced networking gear domestically.",
+   "vocab": [
+    {
+     "word": "appease",
+     "thai": "เอาใจ, ทำให้สงบ",
+     "level": "C1",
+     "example": "TP-Link tries to appease Trump admin with a pledge to assemble routers."
+    },
+    {
+     "word": "domestic",
+     "thai": "ภายในประเทศ",
+     "level": "B2",
+     "example": "Keytronic agreed to become a primary domestic manufacturing partner."
+    },
+    {
+     "word": "exemption",
+     "thai": "การได้รับการยกเว้น",
+     "level": "C1",
+     "example": "The FCC has given exemptions to a number of prominent router makers."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 416,
+   "ts": "2026-10-21T05:52:08.604032+07:00",
+   "title": "Does anyone actually want to win the medium-lift race in the United States?",
+   "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses aerospace infrastructure, satellite launch schedules, and data center transport networks.",
+   "summary": "The United States is facing a transition period as older medium-lift rockets are retired and new vehicles come online. Satellite operators face uncertainty regarding launch availability between 2027 and 2030 as current options change.",
+   "vocab": [
+    {
+     "word": "cadence",
+     "thai": "จังหวะ, ความถี่",
+     "level": "C2",
+     "example": "Scaling up their launch cadence remains uncertain."
+    },
+    {
+     "word": "variant",
+     "thai": "รูปแบบย่อย, ตัวแปร",
+     "level": "B2",
+     "example": "The initial 100-series variant of the Antares rocket."
+    },
+    {
+     "word": "manifest",
+     "thai": "รายการบรรทุก, บัญชีสินค้าหรือภารกิจ",
+     "level": "C1",
+     "example": "Larger rockets have stacked manifests and are expensive."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 408,
+ "next_id": 417,
  "vocab": [
   {
    "word": "commissioning",
