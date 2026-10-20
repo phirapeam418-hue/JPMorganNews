@@ -818,7 +818,26 @@
   "https://starcraft-shooter-2026.pages.dev/",
   "https://spectrum.ieee.org/alternatives-to-animal-testing",
   "https://thefloatingcontinent.com/blog/credit-is-due/",
-  "https://evidence.dev/jobs"
+  "https://evidence.dev/jobs",
+  "https://ipinfo.io/blog/france-fridges-hack",
+  "https://openrouter.ai/rankings",
+  "https://calabro.io/ohbf",
+  "https://www.funwithcomputervision.com/weball/",
+  "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+  "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+  "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+  "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+  "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+  "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+  "https://arstechnica.com/science/2026/10/startup-taps-underwater-volcano-as-energy-source-in-proof-point-test/",
+  "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+  "https://arstechnica.com/gaming/2026/10/ai-game-clones-are-making-indie-developers-afraid-to-show-their-work/",
+  "https://arstechnica.com/tech-policy/2026/10/huge-dmv-data-breach-impacted-current-and-former-florida-residents/",
+  "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+  "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
+  "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
+  "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
+  "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
  ],
  "stories": [
   {
@@ -13151,14 +13170,16 @@
      "example": "The company claims its fuel and helium coolant prevent a meltdown without requiring active systems or human intervention."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 8,
    "credibility": 9,
    "extra_links": [
     "https://www.theregister.com/offbeat/2026/10/19/amazon-makes-vague-commitment-to-unproven-nuclear-tech-to-power-indiana-datacenters/5303974"
-   ]
+   ],
+   "msg_id": 209,
+   "sent_ts": "2026-10-20T07:47:37.992547+07:00"
   },
   {
    "id": 335,
@@ -13298,11 +13319,13 @@
      "example": "The underlying load profile can be far more variable than that of previous generations."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 210,
+   "sent_ts": "2026-10-20T07:47:38.478291+07:00"
   },
   {
    "id": 339,
@@ -13334,11 +13357,13 @@
      "example": "These developments will connect via the Strait Crossing Transmission Line Project."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 211,
+   "sent_ts": "2026-10-20T07:47:38.986968+07:00"
   },
   {
    "id": 340,
@@ -13550,11 +13575,13 @@
      "example": "The round saw participation from several major venture funds and institutional investors."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 212,
+   "sent_ts": "2026-10-20T07:47:39.479491+07:00"
   },
   {
    "id": 346,
@@ -13730,11 +13757,13 @@
      "example": "Admins required urgent remediation steps to restore email services."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 213,
+   "sent_ts": "2026-10-20T07:47:39.967647+07:00"
   },
   {
    "id": 351,
@@ -13766,7 +13795,7 @@
      "example": "Power connection delays create a severe infrastructure constraint."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
@@ -13802,7 +13831,7 @@
      "example": "The flaw allows unauthenticated command execution on affected appliances."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
@@ -14167,9 +14196,225 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 363,
+   "ts": "2026-10-20T07:48:17.811849+07:00",
+   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+   "link": "https://ipinfo.io/blog/france-fridges-hack",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Although this attack targeted supermarket chillers, it highlights major operational security risks with exposed industrial cooling controllers.",
+   "summary": "Hackers compromised internet-connected Danfoss cooling controllers across hundreds of French supermarkets, causing defrost cycles and food spoilage. The event shows the danger of exposing facility management and cooling systems directly to the open internet.",
+   "vocab": [
+    {
+     "word": "sweep",
+     "thai": "การสำรวจหรือกวาดตรวจอย่างละเอียด",
+     "level": "B2",
+     "example": "In the sweep that ran on October 6 and 7, five days before the attack, 2,528 addresses showed a Danfoss dashboard."
+    },
+    {
+     "word": "restrict",
+     "thai": "จำกัด",
+     "level": "B2",
+     "example": "It told operators to disconnect them or restrict who can reach them."
+    },
+    {
+     "word": "investigation",
+     "thai": "การสืบสวนสอบสวน",
+     "level": "B2",
+     "example": "Nobody has said who did it or how they got in, and the prosecutor's office has opened an investigation."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 364,
+   "ts": "2026-10-20T07:48:17.811896+07:00",
+   "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+   "link": "https://openrouter.ai/rankings",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a statistical trend on LLM API usage, which is relevant to AI capacity planning but has no immediate operational impact.",
+   "summary": "OpenRouter telemetry indicates that developer token consumption has begun to level off across several popular AI models. These usage patterns help infrastructure teams understand developer demand and shifts between different model providers.",
+   "vocab": [
+    {
+     "word": "plateau",
+     "thai": "คงที่หรือหยุดการเติบโตหลังจากเพิ่มขึ้น",
+     "level": "C1",
+     "example": "Token-maxxing is dead, OpenRouter's token usage plateaus."
+    },
+    {
+     "word": "aggregate",
+     "thai": "รวบรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Usage is aggregated into daily buckets in UTC and totalled per model variant."
+    },
+    {
+     "word": "verbosity",
+     "thai": "การใช้คำฟุ่มเฟือยหรือความยาวของข้อความ",
+     "level": "C1",
+     "example": "Models differ in verbosity and tokenization, so a higher token total shows how much a model is used."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 365,
+   "ts": "2026-10-20T07:48:17.811922+07:00",
+   "title": "One Hash Bloom Filters",
+   "link": "https://calabro.io/ohbf",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "This technical write-up describes practical database optimizations useful for backend and systems engineering, but requires no urgent operational action.",
+   "summary": "Bluesky explained how utilizing optimized bloom filters in front of their database saves millions of expensive disk operations per second. This architecture technique is useful for infrastructure teams aiming to scale distributed databases cheaply.",
+   "vocab": [
+    {
+     "word": "probabilistic",
+     "thai": "ตามหลักความน่าจะเป็น",
+     "level": "C1",
+     "example": "A bloom filter is a probabilistic data structure that allows you to quickly answer set membership questions."
+    },
+    {
+     "word": "substantial",
+     "thai": "มากมายหรือมีนัยสำคัญ",
+     "level": "B2",
+     "example": "This saves substantial amounts of very slow disk IO."
+    },
+    {
+     "word": "derive",
+     "thai": "คำนวณหรือได้มา",
+     "level": "C1",
+     "example": "If you derive the i-th location through a specific formula, the false positive rate is effectively unchanged."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 366,
+   "ts": "2026-10-20T07:48:17.812033+07:00",
+   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "This report highlights severe physical and insider security vulnerabilities at a leading frontier AI lab.",
+   "summary": "A federal court refused bail to a former OpenAI engineer charged with planting physical surveillance bugs inside private company conference rooms. The case illustrates the serious physical security and insider espionage risks surrounding advanced AI development.",
+   "vocab": [
+    {
+     "word": "brazenly",
+     "thai": "อย่างไม่เกรงกลัวหรืออย่างโจ่งแจ้ง",
+     "level": "C2",
+     "example": "The government argued that the defendant brazenly spied on OpenAI for personal gain."
+    },
+    {
+     "word": "compensation",
+     "thai": "ค่าตอบแทนหรือผลประโยชน์ตอบแทน",
+     "level": "B2",
+     "example": "He received significant compensation from a decade of high-tech employment in the Bay Area."
+    },
+    {
+     "word": "confront",
+     "thai": "เผชิญหน้าหรือซักไซ้ไล่เลียง",
+     "level": "B2",
+     "example": "The official helped coordinate a flight shortly after the employer confronted him."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 367,
+   "ts": "2026-10-20T07:49:14.015354+07:00",
+   "title": "PSA: Patch your Plex media server before someone hacks it",
+   "link": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Attackers are actively exploiting a severe vulnerability chain against Plex servers, which sysadmins often run or encounter on home networks.",
+   "summary": "Security researchers discovered active exploitation of a four-vulnerability exploit chain in Plex Media Server called Plex2Shell. Attackers are currently using remote code execution to install cryptocurrency miners and residential proxies.",
+   "vocab": [
+    {
+     "word": "severity",
+     "thai": "ระดับความรุนแรง",
+     "level": "B2",
+     "example": "One of the vulnerabilities carried a severity rating of 8.6 out of 10."
+    },
+    {
+     "word": "simulate",
+     "thai": "จำลอง",
+     "level": "B2",
+     "example": "Within a day, the researcher began seeing active scanning of the simulated Plex server."
+    },
+    {
+     "word": "anonymize",
+     "thai": "ทำให้ไม่สามารถระบุตัวตนได้",
+     "level": "C1",
+     "example": "Residential proxy software allows attackers to anonymize their malicious internet activity."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 368,
+   "ts": "2026-10-20T07:49:14.015481+07:00",
+   "title": "Disney found a way to buy Character.AI without buying its lawsuits",
+   "link": "https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "The corporate restructuring reveals how big tech acquires AI startup talent and IP through bankruptcy while avoiding liabilities.",
+   "summary": "Disney acquired Character.AI's key staff and technology licenses through a strategic bankruptcy proceeding while avoiding its ongoing safety lawsuits. This transaction represents a creative reverse acquihire designed to bypass regulatory hurdles and legal liabilities.",
+   "vocab": [
+    {
+     "word": "harbinger",
+     "thai": "สัญญาณบอกเหตุล่วงหน้า",
+     "level": "C2",
+     "example": "Some saw the fall of the chatbot platform as a harbinger for the AI industry."
+    },
+    {
+     "word": "liability",
+     "thai": "ภาระผูกพันหรือความรับผิดชอบตามกฎหมาย",
+     "level": "C1",
+     "example": "The deal allowed the buyer to avoid the startup's legal liabilities and obligations."
+    },
+    {
+     "word": "orchestrate",
+     "thai": "วางแผนและจัดการอย่างรอบคอบ",
+     "level": "C1",
+     "example": "The move is a twist on deals where a buyer carefully orchestrates transactions to hire staff."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 363,
+ "next_id": 369,
  "vocab": [
   {
    "word": "commissioning",
@@ -17506,6 +17751,76 @@
    "thai": "ส่วนใหญ่",
    "level": "B2",
    "example": "EQT buys majority share in Swiss cybersecurity biz Acronis.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intervention",
+   "thai": "การเข้าแทรกแซง",
+   "level": "C1",
+   "example": "The company claims its fuel and helium coolant prevent a meltdown without requiring active systems or human intervention.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intertwined",
+   "thai": "เกี่ยวพันกันอย่างใกล้ชิด",
+   "level": "C1",
+   "example": "Data security and energy security are increasingly intertwined.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ambition",
+   "thai": "ความทะเยอทะยาน, เป้าหมายอันยิ่งใหญ่",
+   "level": "B2",
+   "example": "This announcement highlights the role Nova Scotians can play in driving Canada’s renewed economic ambitions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accelerator",
+   "thai": "ฮาร์ดแวร์เร่งความเร็ว (เช่น ชิป AI)",
+   "level": "B2",
+   "example": "Tenstorrent builds scalable artificial intelligence accelerators to compete with Nvidia.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "administer",
+   "thai": "จัดการ, บริหารระบบ",
+   "level": "B2",
+   "example": "I spent all weekend on my servers after Microsoft broke Exchange Server.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "malfunction",
+   "thai": "การทำงานผิดปกติ",
+   "level": "B2",
+   "example": "The update caused a major malfunction in the mail server environment.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "remediation",
+   "thai": "การแก้ไขปัญหา",
+   "level": "C1",
+   "example": "Admins required urgent remediation steps to restore email services.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
