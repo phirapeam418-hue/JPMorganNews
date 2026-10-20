@@ -837,7 +837,20 @@
   "https://arstechnica.com/space/2026/10/a-chinese-rocket-deorbited-over-minnesota-and-left-this-in-a-farmers-cornfield/",
   "https://arstechnica.com/culture/2026/10/review-lanterns-is-a-truly-unique-twist-on-the-superhero-genre/",
   "https://arstechnica.com/gadgets/2026/10/diy-vr-how-to-build-your-own-headset-and-why-you-probably-wont-want-to/",
-  "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/"
+  "https://arstechnica.com/gadgets/2026/10/trans-pacific-journey-tested-stratospheric-cell-tower-concept-in-japan/",
+  "https://www.theregister.com/personal-tech/2026/10/20/sony-updates-the-walkman-as-a-5900-gold-plated-mp3-player/5304051",
+  "https://www.theregister.com/legal/2026/10/20/david-beckham-was-briefly-the-worlds-second-worst-manga-pirate/5304044",
+  "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+  "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+  "https://github.com/tywr/Nordwand-Mono",
+  "https://www.openbsd.org/80.html",
+  "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+  "https://deathplanswitch.com/",
+  "https://github.com/golang/go/issues/82345",
+  "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
+  "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+  "https://cretezy.com/2026/ad-free-android-tv",
+  "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
  ],
  "stories": [
   {
@@ -14428,9 +14441,194 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 369,
+   "ts": "2026-10-20T13:52:51.944302+07:00",
+   "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
+   "link": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "WHOIS changes affect domain operations and network governance, but this is early testing.",
+   "summary": "ICANN is evaluating technical mechanisms to grant law enforcement access to redacted WHOIS registration records. This could shift domain privacy standards and investigative processes for network operators in the future.",
+   "vocab": [
+    {
+     "word": "enforcement",
+     "thai": "การบังคับใช้ (กฎหมาย)",
+     "level": "B2",
+     "example": "ICANN is testing tech to let law enforcement access non-public WHOIS info."
+    },
+    {
+     "word": "reskin",
+     "thai": "การปรับเปลี่ยนหน้าตาภายนอกของโปรแกรม",
+     "level": "B2",
+     "example": "Firefox 157 arrives with a significant reskin of its user interface."
+    },
+    {
+     "word": "duty of care",
+     "thai": "หน้าที่ความรับผิดชอบตามกฎหมายหรือจริยธรรมในการดูแลความปลอดภัยผู้อื่น",
+     "level": "C1",
+     "example": "The guidelines advocate for humane work that considers a dev's duty of care."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 370,
+   "ts": "2026-10-20T13:52:51.944335+07:00",
+   "title": "DeepSeek deep-sixed at all US federal civilian agencies",
+   "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Federal bans on specific AI tools highlight geopolitical compliance risks for government infrastructure.",
+   "summary": "US civilian federal agencies have been ordered to remove and block the DeepSeek AI tool from government systems. The ban underscores intensifying compliance requirements around foreign AI models in public-sector environments.",
+   "vocab": [
+    {
+     "word": "deep-six",
+     "thai": "ทิ้ง ทำลาย หรือยกเลิกเด็ดขาด",
+     "level": "C2",
+     "example": "DeepSeek was deep-sixed at all US federal civilian agencies."
+    },
+    {
+     "word": "civilian",
+     "thai": "พลเรือน (ที่ไม่เกี่ยวกับทหาร)",
+     "level": "B2",
+     "example": "The directive applies across all federal civilian agencies."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "C1",
+     "example": "The US took down several foreign propaganda sites during the coordinated security operation."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
+   ]
+  },
+  {
+   "id": 371,
+   "ts": "2026-10-20T13:52:51.944367+07:00",
+   "title": "OpenBSD 8.0",
+   "link": "https://www.openbsd.org/80.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An OS major release is notable for BSD server hosts, though general enterprise footprint is modest.",
+   "summary": "OpenBSD version 8.0 has officially been released with updated architecture images and package trees. It provides an updated foundation for administrators maintaining security-hardened Unix network nodes and firewalls.",
+   "vocab": [
+    {
+     "word": "applicable",
+     "thai": "ที่นำมาใช้ได้ หรือที่มีผลบังคับใช้",
+     "level": "B2",
+     "example": "All applicable copyrights and credits are listed in the distribution archive."
+    },
+    {
+     "word": "comprehensive",
+     "thai": "ครอบคลุมและละเอียดถี่ถ้วน",
+     "level": "B2",
+     "example": "For a comprehensive list of improvements, consult the project changelog."
+    },
+    {
+     "word": "mirror",
+     "thai": "เซิร์ฟเวอร์สำรองที่คัดลอกข้อมูลไว้ตรงกัน",
+     "level": "B2",
+     "example": "Download the boot images directly from an official mirror site."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 372,
+   "ts": "2026-10-20T13:52:51.944384+07:00",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Exposes prompt engineering practices and compliance risks in customer-facing support AI.",
+   "summary": "Investigations revealed WhatsApp embedded hidden prompts instructing its support AI to omit data privacy laws and regulator contacts. The discovery illustrates governance challenges when relying on LLMs for customer compliance workflows.",
+   "vocab": [
+    {
+     "word": "regulator",
+     "thai": "หน่วยงานกำกับดูแล",
+     "level": "C1",
+     "example": "The hidden prompt instructed the AI not to recommend contacting a data protection regulator."
+    },
+    {
+     "word": "deactivate",
+     "thai": "ปิดการใช้งานหรือระงับการทำงาน",
+     "level": "B2",
+     "example": "The system will purge records 30 days after an account is deactivated."
+    },
+    {
+     "word": "supervisory",
+     "thai": "ที่มีอำนาจกำกับดูแลตรวจสอบ",
+     "level": "C1",
+     "example": "Users retain the right to escalate complaints to a supervisory authority."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 373,
+   "ts": "2026-10-20T13:54:53.988119+07:00",
+   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+   "link": "https://github.com/golang/go/issues/82345",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Security update in the Go standard library distrusting intermediate CAs directly affects Go-based infrastructure and network services.",
+   "summary": "The Go language team issued an urgent security update to distrust intermediate certificates from Certificate Authority eMudhra. Infrastructure engineers running Go-based services should patch quickly to avoid certificate validation issues or security risks.",
+   "vocab": [
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทาความเสียหายหรือความเสี่ยง",
+     "level": "B2",
+     "example": "Verify provides mitigation for security concerns with a specific Certificate Authority."
+    },
+    {
+     "word": "distrust",
+     "thai": "การไม่ไว้วางใจหรือไม่ยอมรับความน่าเชื่อถือ",
+     "level": "C1",
+     "example": "Go will reject certificate chains containing distrusted intermediates."
+    },
+    {
+     "word": "intermediate",
+     "thai": "ซึ่งอยู่ระหว่างกลาง",
+     "level": "B2",
+     "example": "We are blocking trust in a small set of intermediate certificates."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 223,
+   "sent_ts": "2026-10-20T13:54:54.619834+07:00"
   }
  ],
- "next_id": 369,
+ "next_id": 374,
  "vocab": [
   {
    "word": "commissioning",
@@ -17991,18 +18189,34 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "distrust",
+   "thai": "การไม่ไว้วางใจหรือไม่ยอมรับความน่าเชื่อถือ",
+   "level": "C1",
+   "example": "Go will reject certificate chains containing distrusted intermediates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intermediate",
+   "thai": "ซึ่งอยู่ระหว่างกลาง",
+   "level": "B2",
+   "example": "We are blocking trust in a small set of intermediate certificates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
   "liked": [],
   "disliked": []
  },
- "tg_offset": 57700440,
+ "tg_offset": 57700441,
  "polls": {
-  "6228485749306557973": {
-   "word": "restructuring",
-   "correct": 3
-  },
   "6232989348933927698": {
    "word": "bolster",
    "correct": 2
