@@ -16173,7 +16173,7 @@
    "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
    "level": "B2",
    "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -16303,7 +16303,7 @@
    "thai": "เสี่ยงต่ออันตราย",
    "level": "B2",
    "example": "Weak credentials leave systems vulnerable to automated attacks.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -16733,7 +16733,7 @@
    "thai": "หน่วยงานกำกับดูแล",
    "level": "B2",
    "example": "Oregon Governor Tina Kotek has ordered the state’s environmental regulators to temporarily stop permits.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17533,7 +17533,7 @@
    "thai": "โครงสร้างพื้นฐาน",
    "level": "B2",
    "example": "Piles on yet another piece of infrastructure.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17673,7 +17673,7 @@
    "thai": "การลอบทำลายทรัพย์สินหรือระบบโครงสร้างพื้นฐาน",
    "level": "B2",
    "example": "He took a dig at the National Security Council's preparedness for sabotage attempts.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18786,6 +18786,26 @@
   "6246584625527784356": {
    "word": "fluctuation",
    "correct": 3
+  },
+  "6248836425341469382": {
+   "word": "infrastructure",
+   "correct": 1
+  },
+  "6248836425341469383": {
+   "word": "regulator",
+   "correct": 3
+  },
+  "6248836425341469384": {
+   "word": "sabotage",
+   "correct": 3
+  },
+  "6248836425341469385": {
+   "word": "vulnerable",
+   "correct": 2
+  },
+  "6248836425341469386": {
+   "word": "occupier",
+   "correct": 1
   }
  },
  "fail": {
