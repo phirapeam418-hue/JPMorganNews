@@ -12844,7 +12844,7 @@
      "example": "Design and build schedules are increasingly compressed into months."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
@@ -12880,7 +12880,7 @@
      "example": "The company sends scouts to verify datacenter readiness."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -12916,11 +12916,13 @@
      "example": "Security researchers volunteered to harden critical infrastructure against attacks."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 217,
+   "sent_ts": "2026-10-20T12:55:53.475787+07:00"
   },
   {
    "id": 328,
@@ -12952,7 +12954,7 @@
      "example": "Linux kernel devs drop obligatory confession of AI tool usage."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -13026,11 +13028,13 @@
      "example": "Significant changes include alternative data-stream support in the ntfs3 filesystem."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 218,
+   "sent_ts": "2026-10-20T12:55:54.025776+07:00"
   },
   {
    "id": 331,
@@ -13062,7 +13066,7 @@
      "example": "There’s no equivalent stock of good, public robot training data."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -13098,7 +13102,7 @@
      "example": "The whole move to isolate this task and give it its own session takes one command."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -13134,11 +13138,13 @@
      "example": "An investigation into the attempted attack in Lithuania is underway."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 6,
    "scale": 4,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 221,
+   "sent_ts": "2026-10-20T12:55:55.686823+07:00"
   },
   {
    "id": 334,
@@ -13211,11 +13217,13 @@
      "example": "The company that gets the contract will have to possess security clearance."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 222,
+   "sent_ts": "2026-10-20T12:55:56.236196+07:00"
   },
   {
    "id": 336,
@@ -13247,7 +13255,7 @@
      "example": "Recent drone attacks on data centers owned by Yandex have resulted in disruption for Russian services."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 4,
@@ -13283,7 +13291,7 @@
      "example": "The Navy announced plans to redevelop NAVWAR headquarters in 2022."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -13395,7 +13403,7 @@
      "example": "Prologis previously signed an agreement to acquire 94 acres of land in the tech park."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -13431,7 +13439,7 @@
      "example": "The joint bid would ensure responsible European governance of key space infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 7,
@@ -13467,7 +13475,7 @@
      "example": "Appropriate action was taken to evaluate parcels for feasibility before capital was committed."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -13503,7 +13511,7 @@
      "example": "The referenced filings are part of ongoing development planning across their pipeline."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -13539,7 +13547,7 @@
      "example": "A single global vendor can help strengthen oversight across the asset lifecycle."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -13613,7 +13621,7 @@
      "example": "The deal requires approval from regulatory authorities before completion."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -13649,7 +13657,7 @@
      "example": "Council members have called for the Welsh government to scrutinize the plans."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 5,
@@ -13685,7 +13693,7 @@
      "example": "Browser makers are utilizing trusted hardware to provide end-to-end encryption."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -13721,7 +13729,7 @@
      "example": "Yet another new version of Firefox, with a significant reskin."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -13795,11 +13803,13 @@
      "example": "Power connection delays create a severe infrastructure constraint."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 215,
+   "sent_ts": "2026-10-20T12:55:52.326678+07:00"
   },
   {
    "id": 352,
@@ -13831,11 +13841,13 @@
      "example": "The flaw allows unauthenticated command execution on affected appliances."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 216,
+   "sent_ts": "2026-10-20T12:55:52.924675+07:00"
   },
   {
    "id": 353,
@@ -13867,7 +13879,7 @@
      "example": "Biggest limitation is that WoW64 does not work yet."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 4,
@@ -13903,11 +13915,13 @@
      "example": "Raising security awareness helps employees spot suspicious incoming messages."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 219,
+   "sent_ts": "2026-10-20T12:55:54.578702+07:00"
   },
   {
    "id": 355,
@@ -13939,11 +13953,13 @@
      "example": "The cybersecurity firm reached a multi-billion dollar valuation after its recent acquisition."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 220,
+   "sent_ts": "2026-10-20T12:55:55.135452+07:00"
   },
   {
    "id": 356,
@@ -13975,7 +13991,7 @@
      "example": "Policy makers continue an active debate on data privacy and foreign cloud providers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -14011,7 +14027,7 @@
      "example": "We ran every review in every canary repo on both v1 and v2 in a comparative shadow mode."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -14047,7 +14063,7 @@
      "example": "It is priced accessibly given its niche domain."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -14083,7 +14099,7 @@
      "example": "The model performed strongly in code auditing, vulnerability patching, and penetration testing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -14119,7 +14135,7 @@
      "example": "A corollary of that is that this situation is not due to vibe coding."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 8,
@@ -14155,7 +14171,7 @@
      "example": "Accelerated swap encryption on amd64 and arm64 uses AES CPU instructions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -14191,7 +14207,7 @@
      "example": "Finance and infrastructure teams track volatility across resources to inform planning."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -14227,7 +14243,7 @@
      "example": "Nobody has said who did it or how they got in, and the prosecutor's office has opened an investigation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -14263,7 +14279,7 @@
      "example": "Models differ in verbosity and tokenization, so a higher token total shows how much a model is used."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -14299,7 +14315,7 @@
      "example": "If you derive the i-th location through a specific formula, the false positive rate is effectively unchanged."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -14335,7 +14351,7 @@
      "example": "The official helped coordinate a flight shortly after the employer confronted him."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 3,
@@ -14371,7 +14387,7 @@
      "example": "Residential proxy software allows attackers to anonymize their malicious internet activity."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 7,
    "scale": 5,
@@ -14407,7 +14423,7 @@
      "example": "The move is a twist on deals where a buyer carefully orchestrates transactions to hire staff."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -17821,6 +17837,156 @@
    "thai": "การแก้ไขปัญหา",
    "level": "C1",
    "example": "Admins required urgent remediation steps to restore email services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "abandon",
+   "thai": "ละทิ้ง, เลิกทำ",
+   "level": "B2",
+   "example": "Microsoft abandons UK AI supercomputer as grid struggles to keep up.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "flagship",
+   "thai": "โครงการสำคัญที่สุด, เรือธง",
+   "level": "B2",
+   "example": "Tech giant walks away from flagship Essex project.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unauthenticated",
+   "thai": "ที่ไม่ได้ยืนยันตัวตน",
+   "level": "C1",
+   "example": "The flaw allows unauthenticated command execution on affected appliances.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "probe",
+   "thai": "ตรวจสอบหรือสืบสวนหาความจริง",
+   "level": "B2",
+   "example": "The provider shut down services to probe a potential security flaw.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "snafu",
+   "thai": "ความวุ่นวายโกลาหลหรือข้อผิดพลาดร้ายแรง",
+   "level": "C2",
+   "example": "Engineers worked urgently to resolve the unexpected security snafu.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cease",
+   "thai": "ยุติ",
+   "level": "B2",
+   "example": "Will wonders never cease?",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "wits",
+   "thai": "สติปัญญา",
+   "level": "C1",
+   "example": "This week I somehow kept my wits together long enough to keep track of the day of the week.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alternative",
+   "thai": "ทางเลือก",
+   "level": "B2",
+   "example": "Significant changes include alternative data-stream support in the ntfs3 filesystem.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "equivalent",
+   "thai": "เท่ากัน / มีค่าเท่ากัน",
+   "level": "B2",
+   "example": "The firm was sold at the equivalent of a multi-billion dollar valuation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "awareness",
+   "thai": "ความตระหนักรู้",
+   "level": "B2",
+   "example": "Raising security awareness helps employees spot suspicious incoming messages.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stable",
+   "thai": "มั่นคง / มีเสถียรภาพ",
+   "level": "B2",
+   "example": "Information security remains an attractive field for a long, stable career.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stifle",
+   "thai": "ยับยั้ง, ขัดขวาง",
+   "level": "C1",
+   "example": "The report claims that the limits stifled Ukraine’s drone defenses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "investigation",
+   "thai": "การสอบสวน",
+   "level": "B2",
+   "example": "An investigation into the attempted attack in Lithuania is underway.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "onboarding",
+   "thai": "การนำเข้ามาใช้งานหรือเข้าร่วม",
+   "level": "B2",
+   "example": "This data center of 60MW will enable the onboarding of next-generation capabilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "possess",
+   "thai": "ครอบครอง, มี",
+   "level": "B2",
+   "example": "The company that gets the contract will have to possess security clearance.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
