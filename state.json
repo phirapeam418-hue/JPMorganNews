@@ -850,7 +850,31 @@
   "https://janmichalek.com/blog/vite-plus-agentni-vyvoj?lang=en",
   "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
   "https://cretezy.com/2026/ad-free-android-tv",
-  "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/"
+  "https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/",
+  "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
+  "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
+  "https://www.datacenterdynamics.com/en/whitepapers/data-centers-transform-communities-heres-how-to-prove-it-before-breaking-ground/",
+  "https://www.datacenterdynamics.com/en/news/anthropic-and-nscale-in-talks-for-second-45bn-deal-report/",
+  "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
+  "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-22mw-data-center-in-ankara-t%C3%BCrkiye/",
+  "https://www.datacenterdynamics.com/en/news/google-backed-symbiosis-coalition-signs-320000-ton-carbon-removal-deal-with-agroforestry-firm-working-trees/",
+  "https://www.datacenterdynamics.com/en/news/google-expands-partnership-with-entergy-arkansas-will-fund-renewable-energy-and-grid-upgrades-for-west-memphis-data-center/",
+  "https://www.datacenterdynamics.com/en/news/1gw-data-center-proposed-alongside-solar-farm-in-norfolk-uk/",
+  "https://www.datacenterdynamics.com/en/product-news/ablecom-releases-whitepaper-introducing-high-efficiency-rdhx-liquid-cooling-solution/",
+  "https://www.datacenterdynamics.com/en/marketwatch/building-a-battery-ecosystem-for-ai-data-centers/",
+  "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+  "https://www.theregister.com/security/2026/10/20/bullhorn-sees-red-after-cyberattack-knocks-recruitment-platform-offline/5304114",
+  "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
+  "https://www.theregister.com/public-sector/2026/10/20/whitehall-shuts-the-front-door-on-digital-id-but-leaves-the-back-open/5304100",
+  "https://www.theregister.com/ai-and-ml/2026/10/20/uk-finance-watchdog-wants-firms-to-report-ai-failures-and-close-calls/5304078",
+  "https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084",
+  "https://www.theregister.com/networks/2026/10/20/londons-mobile-networks-fall-to-bottom-of-europes-capital-league/5303800",
+  "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601",
+  "https://blog.cloudflare.com/typescript-rust-port/",
+  "https://github.com/deepseek-ai/DeepInfer",
+  "https://github.com/microg/GmsCore/wiki",
+  "https://www.science.org/doi/10.1126/science.ael8752",
+  "https://k.sosnierz.me/08-11-24/"
  ],
  "stories": [
   {
@@ -14626,9 +14650,413 @@
    "credibility": 9,
    "msg_id": 223,
    "sent_ts": "2026-10-20T13:54:54.619834+07:00"
+  },
+  {
+   "id": 374,
+   "ts": "2026-10-20T20:12:48.431402+07:00",
+   "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
+   "link": "https://www.datacenterdynamics.com/en/news/ballistic-strike-in-kyiv-ukraine-leaves-datagroup-data-center-inoperable/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports physical destruction of an active telecom data center via missile strike, showing severe physical security risks in conflict zones.",
+   "summary": "A Russian ballistic missile attack in Kyiv completely disabled a data center operated by Ukrainian telecom company Datagroup, making repair impossible. Customers are being transitioned to backup sites, highlighting extreme physical threat models for infrastructure operators in contested regions.",
+   "vocab": [
+    {
+     "word": "inoperable",
+     "thai": "ใช้งานไม่ได้ / ใช้การไม่ได้",
+     "level": "C1",
+     "example": "A ballistic attack struck a data center in Kyiv, rendering the site inoperable."
+    },
+    {
+     "word": "mitigating",
+     "thai": "การบรรเทาหรือลดผลกระทบ",
+     "level": "B2",
+     "example": "Russian officials have been discussing mitigating measures for attacks on its data centers."
+    },
+    {
+     "word": "escalation",
+     "thai": "การเพิ่มความรุนแรงขึ้น",
+     "level": "C1",
+     "example": "The conflict between Ukraine and Russia has seen significant escalation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 375,
+   "ts": "2026-10-20T20:12:48.431451+07:00",
+   "title": "Google experiences \"service disruption\" in UK cloud region",
+   "link": "https://www.datacenterdynamics.com/en/news/google-experiences-service-disruption-in-uk-cloud-region/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Ongoing active cloud region outage in Google Cloud affecting major services and enterprise banking apps.",
+   "summary": "Google Cloud's europe-west2 region in London experienced widespread service disruptions, causing network failures and high error rates. The incident has taken down major banking and delivery services across the UK, requiring urgent incident response and traffic rerouting by cloud engineers.",
+   "vocab": [
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก / ความขัดข้อง",
+     "level": "B2",
+     "example": "Google experiences service disruption in UK cloud region."
+    },
+    {
+     "word": "intermittent",
+     "thai": "เป็นระยะๆ / ไม่สม่ำเสมอ",
+     "level": "C1",
+     "example": "Users are experiencing elevated errors and intermittent network failures."
+    },
+    {
+     "word": "elevate",
+     "thai": "เพิ่มสูงขึ้น",
+     "level": "B2",
+     "example": "Users are experiencing elevate errors and network failures."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 224,
+   "sent_ts": "2026-10-20T20:12:49.082923+07:00",
+   "extra_links": [
+    "https://www.theregister.com/paas-and-iaas/2026/10/20/google-cloud-says-a-power-event-caused-todays-outage/5304160",
+    "https://www.theregister.com/paas-and-iaas/2026/10/20/google-clouds-london-zones-takes-a-nap-multiple-services-disrupted/5304084"
+   ]
+  },
+  {
+   "id": 376,
+   "ts": "2026-10-20T20:12:49.083195+07:00",
+   "title": "Anthropic and Nscale in talks for second $45bn deal - report",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-and-nscale-in-talks-for-second-45bn-deal-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Massive compute leasing deal for 460MW of next-gen Nvidia chips between Anthropic and Nscale.",
+   "summary": "Anthropic is negotiating a reported $45 billion deal with Nscale to lease 460MW of compute capacity powered by Nvidia Vera Rubin chips. The agreement would secure massive future compute resources at Nscale's developing mega-campus in West Virginia.",
+   "vocab": [
+    {
+     "word": "capacity",
+     "thai": "ความจุ / กำลังการผลิต",
+     "level": "B2",
+     "example": "Anthropic is in talks to lease more compute capacity from Nscale."
+    },
+    {
+     "word": "under-development",
+     "thai": "อยู่ระหว่างการพัฒนา",
+     "level": "B2",
+     "example": "The agreement would see Anthropic take up space at Nscale's under-development campus."
+    },
+    {
+     "word": "confidential",
+     "thai": "ที่เป็นความลับ",
+     "level": "B2",
+     "example": "Anthropic confidentially filed for its planned IPO."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 377,
+   "ts": "2026-10-20T20:12:49.083221+07:00",
+   "title": "Enersense and Betolar Oyj to develop security solutions for substations and data centers across the Baltics",
+   "link": "https://www.datacenterdynamics.com/en/news/enersense-and-betolar-oyj-to-develop-security-solutions-for-substations-and-data-centers-across-the-baltics/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights physical security trends against drone attacks and sabotage for data centers and substations.",
+   "summary": "Finnish firms Enersense and Betolar have partnered to deploy physical defense systems, including anti-drone nets and fortified walls, for substations and data centers. This initiative addresses growing European concerns over sabotage and targeted attacks against critical physical utility infrastructure.",
+   "vocab": [
+    {
+     "word": "sabotage",
+     "thai": "การวินาศกรรม / การบ่อนทำลาย",
+     "level": "C1",
+     "example": "The partnership will protect critical substation infrastructure from attacks and sabotage."
+    },
+    {
+     "word": "substation",
+     "thai": "สถานีไฟฟ้าย่อย",
+     "level": "B2",
+     "example": "The agreement covers substations and other power grid solutions for data centers."
+    },
+    {
+     "word": "enhance",
+     "thai": "เสริม / ทำให้ดีขึ้น",
+     "level": "B2",
+     "example": "Customers seek innovative solutions to enhance reliability of energy networks."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 378,
+   "ts": "2026-10-20T20:12:49.083243+07:00",
+   "title": "Digital Realty breaks ground on 22MW data center in Ankara, Türkiye",
+   "link": "https://www.datacenterdynamics.com/en/news/digital-realty-breaks-ground-on-22mw-data-center-in-ankara-t%C3%BCrkiye/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Standard commercial data center construction announcement in a secondary market.",
+   "summary": "Digital Realty has broken ground on a 22MW data center facility in Ankara, Turkey, in a joint venture with Rönesans Infrastructure. The facility is scheduled to open in 2028 as part of a larger plan to deploy up to 200MW in the region.",
+   "vocab": [
+    {
+     "word": "crossroads",
+     "thai": "จุดเชื่อมต่อ / ทางแยกสำคัญ",
+     "level": "C1",
+     "example": "Türkiye is strategically positioned at the crossroads of Europe, the Middle East, and Asia."
+    },
+    {
+     "word": "facility",
+     "thai": "สถานที่หรืออาคารอำนวยความสะดวก",
+     "level": "B2",
+     "example": "Digital Realty has started work on its new facility in Ankara."
+    },
+    {
+     "word": "venture",
+     "thai": "กิจการร่วมค้าหรือการลงทุนร่วม",
+     "level": "B2",
+     "example": "The two companies' joint venture is targeting up to 200MW."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 379,
+   "ts": "2026-10-20T20:12:49.083283+07:00",
+   "title": "Google expands partnership with Entergy Arkansas, will fund renewable energy and grid upgrades for West Memphis data center",
+   "link": "https://www.datacenterdynamics.com/en/news/google-expands-partnership-with-entergy-arkansas-will-fund-renewable-energy-and-grid-upgrades-for-west-memphis-data-center/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details power purchase agreements and local grid upgrades needed to support a large 600MW data center.",
+   "summary": "Google will fund a 440MW solar purchase agreement, 1.4GWh of battery storage, and substation upgrades with Entergy Arkansas to power its upcoming 600MW West Memphis facility. The revised deal directly covers grid infrastructure expenses following regulatory pushback over utility customer costs.",
+   "vocab": [
+    {
+     "word": "upgrade",
+     "thai": "การยกระดับหรือปรับปรุงให้ดีขึ้น",
+     "level": "B2",
+     "example": "Google will fund grid upgrades to support its under-development data center."
+    },
+    {
+     "word": "integrate",
+     "thai": "เชื่อมโยง / ผสานรวม",
+     "level": "B2",
+     "example": "The substation is being built specifically to integrate power for technology expansions."
+    },
+    {
+     "word": "transparency",
+     "thai": "ความโปร่งใส",
+     "level": "B2",
+     "example": "Entergy will submit a filing that follows the commission's transparency recommendations."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 380,
+   "ts": "2026-10-20T20:15:57.746568+07:00",
+   "title": "1GW data center proposed alongside solar farm in Norfolk, UK",
+   "link": "https://www.datacenterdynamics.com/en/news/1gw-data-center-proposed-alongside-solar-farm-in-norfolk-uk/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It details an early-stage proposal for a massive 1GW renewable-powered data center campus planned for 2032.",
+   "summary": "Evolution Power Limited has proposed a 1GW data center campus paired with a 1.3GW solar farm in Norfolk, UK. The project includes closed-loop cooling and battery storage, though it faces long planning timelines and local community opposition.",
+   "vocab": [
+    {
+     "word": "sparse",
+     "thai": "เบาบางหรือมีอยู่น้อย",
+     "level": "B2",
+     "example": "Details of the data center element are sparse at present."
+    },
+    {
+     "word": "industrialization",
+     "thai": "การพัฒนาสู่ระบบอุตสาหกรรม",
+     "level": "B2",
+     "example": "The development could represent further large-scale industrialization of the landscape."
+    },
+    {
+     "word": "consultation",
+     "thai": "การปรึกษาหารือสาธารณะ",
+     "level": "B2",
+     "example": "Community consultation on the project is running until November 26."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 381,
+   "ts": "2026-10-20T20:15:57.746730+07:00",
+   "title": "Microsoft admits that Always On VPN problems were not fixed in the October Security Update",
+   "link": "https://www.theregister.com/os-platforms/2026/10/20/microsoft-admits-that-always-on-vpn-problems-were-not-fixed-in-the-october-security-update/5304063",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Unresolved Windows VPN connectivity issues directly disrupt remote network administration and enterprise access.",
+   "summary": "Microsoft acknowledged that its latest monthly security update failed to fix known issues in Always On VPN. Network administrators must continue relying on manual workarounds while waiting for a working patch.",
+   "vocab": [
+    {
+     "word": "zero-day",
+     "thai": "ช่องโหว่ความปลอดภัยที่ยังไม่มีการปล่อยแพตช์แก้ไข",
+     "level": "B2",
+     "example": "SharePoint is now under active zero-day attack."
+    },
+    {
+     "word": "harden",
+     "thai": "เสริมสร้างความปลอดภัยให้เข้มแข็งขึ้น",
+     "level": "B2",
+     "example": "The initiative enlists hackers to harden critical enterprise infrastructure."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "The cybersecurity firm was acquired at an impressive multibillion-dollar valuation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 382,
+   "ts": "2026-10-20T20:17:12.225796+07:00",
+   "title": "Why cyber resilience is now a boardroom priority for UK public services",
+   "link": "https://www.theregister.com/security/2026/10/20/partner-content-why-cyber-resilience-is-now-a-boardroom-priority-for-uk-public-services/5301601",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "High-level governance and policy piece about UK public sector cyber security rather than actionable infra operations.",
+   "summary": "UK public sector organizations are shifting cybersecurity responsibility to executive boardrooms following severe ransomware attacks and policy overhauls. Infrastructure teams will face tighter regulatory compliance and incident reporting mandates.",
+   "vocab": [
+    {
+     "word": "inflection point",
+     "thai": "จุดเปลี่ยนสำคัญ",
+     "level": "C2",
+     "example": "The UK public sector has reached a cyber resilience inflection point."
+    },
+    {
+     "word": "redistribute",
+     "thai": "จัดสรรหรือกระจายใหม่",
+     "level": "B2",
+     "example": "Responsibilities are now being redistributed across other parts of Whitehall."
+    },
+    {
+     "word": "obligation",
+     "thai": "ภาระหน้าที่หรือข้อผูกพัน",
+     "level": "B2",
+     "example": "Cyber resilience is no longer an option, but a leadership obligation."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 383,
+   "ts": "2026-10-20T20:17:12.225829+07:00",
+   "title": "Introducing tsrs: a Port of TypeScript to Rust",
+   "link": "https://blog.cloudflare.com/typescript-rust-port/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Relevant to DevOps and development toolchains, showcasing significant compiler speed and memory improvements.",
+   "summary": "Cloudflare and collaborators introduced tsrs, an open-source Rust port of the TypeScript compiler that delivers up to 8x faster performance. This tooling enhancement can significantly accelerate CI/CD build pipelines and local developer workflows.",
+   "vocab": [
+    {
+     "word": "incubate",
+     "thai": "บ่มเพาะหรือพัฒนาในระยะเริ่มต้น",
+     "level": "C1",
+     "example": "They are incubating tsrs as part of the Oxc compiler toolchain."
+    },
+    {
+     "word": "collaboration",
+     "thai": "ความร่วมมือ",
+     "level": "B2",
+     "example": "We are doing this work in close collaboration with the TypeScript team."
+    },
+    {
+     "word": "faithful",
+     "thai": "ซื่อตรงตามต้นฉบับหรือแม่นยำ",
+     "level": "B2",
+     "example": "TypeScript in Rust aims to be a faithful port of the original compiler."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 384,
+   "ts": "2026-10-20T20:17:12.225846+07:00",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "link": "https://github.com/deepseek-ai/DeepInfer",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts AI infrastructure operations with a high-performance open-source inference engine.",
+   "summary": "DeepSeek has open-sourced DeepInfer, the inference engine running its production services on Nvidia SM100 GPUs and Ascend NPUs. Infrastructure engineers serving large language models gain access to optimized kernels, disaggregated batching, and structured decoding.",
+   "vocab": [
+    {
+     "word": "disaggregation",
+     "thai": "การแยกส่วนประกอบออกจากกัน",
+     "level": "C2",
+     "example": "The service relies on prefill and decode disaggregation for efficiency."
+    },
+    {
+     "word": "asynchronous",
+     "thai": "ที่ไม่ประสานเวลาพร้อมกัน (ทำงานแบบอะซิงโครนัส)",
+     "level": "C1",
+     "example": "Asynchronous scheduling overlaps CPU batch preparation with device execution."
+    },
+    {
+     "word": "deterministic",
+     "thai": "ที่ให้ผลลัพธ์แน่นอนตายตัวเมื่อปัจจัยนำเข้าเหมือนเดิม",
+     "level": "C1",
+     "example": "Deterministic sampling ensures identical outputs for identical input tokens."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 225,
+   "sent_ts": "2026-10-20T20:17:12.894201+07:00"
   }
  ],
- "next_id": 374,
+ "next_id": 385,
  "vocab": [
   {
    "word": "commissioning",
@@ -18205,6 +18633,36 @@
    "thai": "ซึ่งอยู่ระหว่างกลาง",
    "level": "B2",
    "example": "We are blocking trust in a small set of intermediate certificates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "elevate",
+   "thai": "เพิ่มสูงขึ้น",
+   "level": "B2",
+   "example": "Users are experiencing elevate errors and network failures.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disaggregation",
+   "thai": "การแยกส่วนประกอบออกจากกัน",
+   "level": "C2",
+   "example": "The service relies on prefill and decode disaggregation for efficiency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "asynchronous",
+   "thai": "ที่ไม่ประสานเวลาพร้อมกัน (ทำงานแบบอะซิงโครนัส)",
+   "level": "C1",
+   "example": "Asynchronous scheduling overlaps CPU batch preparation with device execution.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
