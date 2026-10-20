@@ -874,7 +874,31 @@
   "https://github.com/deepseek-ai/DeepInfer",
   "https://github.com/microg/GmsCore/wiki",
   "https://www.science.org/doi/10.1126/science.ael8752",
-  "https://k.sosnierz.me/08-11-24/"
+  "https://k.sosnierz.me/08-11-24/",
+  "https://www.datacenterdynamics.com/en/news/orange-says-au-revoir-to-2g-network-in-france/",
+  "https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/",
+  "https://www.datacenterdynamics.com/en/news/amazon-pledges-16bn-investment-in-germany-in-2027/",
+  "https://www.datacenterdynamics.com/en/news/nexfibre-rejects-fundamentally-flawed-cma-verdict-on-2bn-netomnia-acquisition/",
+  "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
+  "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+  "https://www.datacenterdynamics.com/en/news/ovhcloud-has-110mw-of-data-center-capacity-up-for-grabs/",
+  "https://www.datacenterdynamics.com/en/news/veon-to-acquire-rival-perfectum-in-207m-uzbek-consolidation-push/",
+  "https://www.datacenterdynamics.com/en/news/chief-telecom-breaks-ground-on-16mw-data-center-in-taiwan/",
+  "https://www.datacenterdynamics.com/en/news/bostons-towardex-sets-up-direct-interconnection-to-de-cixs-new-york-internet-exchange/",
+  "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
+  "https://www.datacenterdynamics.com/en/news/south-korean-cloud-provider-elice-goes-public-on-kosdaq/",
+  "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
+  "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
+  "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
+  "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+  "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+  "https://www.theregister.com/ai-and-ml/2026/10/20/onedrive-loses-bunch-of-copilot-shortcuts-in-file-explorer-clear-out/5304149",
+  "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+  "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
+  "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
+  "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
+  "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+  "https://mistral.ai/news/voxtral-3/"
  ],
  "stories": [
   {
@@ -15054,9 +15078,837 @@
    "credibility": 9,
    "msg_id": 225,
    "sent_ts": "2026-10-20T20:17:12.894201+07:00"
+  },
+  {
+   "id": 385,
+   "ts": "2026-10-21T01:11:52.988706+07:00",
+   "title": "Orange says au revoir to 2G network in France",
+   "link": "https://www.datacenterdynamics.com/en/news/orange-says-au-revoir-to-2g-network-in-france/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Orange has completed the shutdown of its 2G network in France to improve efficiency and reallocate frequencies for 4G and 5G.",
+   "summary": "Orange has finished shutting down its 2G mobile network across mainland France to save energy and shift resources to newer technologies. The company is helping remaining users migrate before moving on to eventually sunset its 3G network in 2028.",
+   "vocab": [
+    {
+     "word": "operational",
+     "thai": "ที่ใช้งานได้",
+     "level": "B2",
+     "example": "The shutdown was concluded today in the last 43 departments of mainland France where this technology was still operational."
+    },
+    {
+     "word": "reallocate",
+     "thai": "จัดสรรใหม่",
+     "level": "C1",
+     "example": "Orange will reallocate the 5MHz of frequencies dedicated to its modern technologies."
+    },
+    {
+     "word": "migrating",
+     "thai": "ย้ายระบบ",
+     "level": "B2",
+     "example": "Orange has been preparing customers to support them in migrating their equipment."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 386,
+   "ts": "2026-10-21T01:11:52.988739+07:00",
+   "title": "Cable theft causes Openreach broadband outage for thousands in Thurnscoe, UK",
+   "link": "https://www.datacenterdynamics.com/en/news/cable-theft-causes-openreach-broadband-outage-for-thousands-in-thurnscoe-uk/",
+   "source": "DCD",
+   "score": 8,
+   "watch": true,
+   "reason": "Copper cable theft has caused a significant broadband outage for thousands of Openreach customers in the UK.",
+   "summary": "Thieves stealing copper cables in a UK village have caused a widespread internet and phone outage for Openreach customers. Openreach is working to repair the damage while struggling with ongoing metal thefts that disrupt thousands of users.",
+   "vocab": [
+    {
+     "word": "disrupted",
+     "thai": "ถูกขัดจังหวะ",
+     "level": "B2",
+     "example": "Phone and internet services have been disrupted for customers in the South Yorkshire village."
+    },
+    {
+     "word": "downtime",
+     "thai": "ช่วงเวลาที่ระบบใช้งานไม่ได้",
+     "level": "B2",
+     "example": "Openreach apologized for the downtime, noting that it is working to repair the damage."
+    },
+    {
+     "word": "viability",
+     "thai": "ความสามารถในการดำเนินการได้",
+     "level": "C1",
+     "example": "CityFibre's latest accounts and debt restructuring raise further questions about its financial viability."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 387,
+   "ts": "2026-10-21T01:11:52.988780+07:00",
+   "title": "Amazon pledges €16bn investment in Germany in 2027",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-pledges-16bn-investment-in-germany-in-2027/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Amazon has pledged a major 16 billion euro infrastructure investment in Germany, heavily focusing on data centers and AI.",
+   "summary": "Amazon plans to invest 16 billion euros in Germany to expand its cloud region, AI infrastructure, and satellite internet services. A significant portion of these funds will directly support the AWS European cloud footprint.",
+   "vocab": [
+    {
+     "word": "pledges",
+     "thai": "ให้คำมั่นสัญญา",
+     "level": "B2",
+     "example": "Amazon pledges €16bn investment in Germany in 2027."
+    },
+    {
+     "word": "footprint",
+     "thai": "พื้นที่ครอบคลุม",
+     "level": "B2",
+     "example": "The company will use the investment to expand data centers and its European cloud footprint."
+    },
+    {
+     "word": "incentive",
+     "thai": "สิ่งจูงใจ",
+     "level": "B2",
+     "example": "These investments strengthen Germany's position in international technology competition."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 388,
+   "ts": "2026-10-21T01:11:52.988835+07:00",
+   "title": "Nexfibre rejects \"fundamentally flawed\" CMA verdict on £2bn Netomnia acquisition",
+   "link": "https://www.datacenterdynamics.com/en/news/nexfibre-rejects-fundamentally-flawed-cma-verdict-on-2bn-netomnia-acquisition/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Nexfibre rejects the UK competition regulator's findings regarding its acquisition of Netomnia, leaving the multibillion-dollar deal in doubt.",
+   "summary": "Nexfibre and its backers have criticized the UK CMA's interim report as fundamentally flawed regarding their planned acquisition of Netomnia. The parties refuse to submit remedies, arguing the regulator's market assumptions are unrealistic.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "B2",
+     "example": "Regulators are probing the viability of the acquisition to ensure it doesn't reduce competition."
+    },
+    {
+     "word": "assumption",
+     "thai": "สมมติฐาน",
+     "level": "B2",
+     "example": "The assumption that CityFibre will acquire Netomnia is not a credible basis."
+    },
+    {
+     "word": "restructuring",
+     "thai": "การปรับโครงสร้าง",
+     "level": "B2",
+     "example": "CityFibre's latest accounts and debt restructuring raise further questions."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 389,
+   "ts": "2026-10-21T01:11:52.988861+07:00",
+   "title": "San Francisco shopping mall targeted for potential data center",
+   "link": "https://www.datacenterdynamics.com/en/news/san-francisco-shopping-mall-targeted-for-potential-data-center/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "A vacant San Francisco shopping mall is being evaluated for conversion into a large data center facility.",
+   "summary": "Developers are exploring the former San Francisco shopping mall site to build a large data center for an unnamed AI lab. The proposal arrives amid broader local debates and a temporary municipal moratorium on new data center permits.",
+   "vocab": [
+    {
+     "word": "vacant",
+     "thai": "ว่างเปล่า",
+     "level": "B2",
+     "example": "A vacant mall in San Francisco is being eyed for a potential data center development."
+    },
+    {
+     "word": "moratorium",
+     "thai": "คำสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "San Francisco officials approved a 45-day data center moratorium."
+    },
+    {
+     "word": "evaluating",
+     "thai": "ประเมิน",
+     "level": "B2",
+     "example": "The property was being evaluated for a project that would include a data center."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 390,
+   "ts": "2026-10-21T01:11:52.988886+07:00",
+   "title": "Closing the Loop: Are closed-loop systems the solution to data centers' water woes?",
+   "link": "https://www.datacenterdynamics.com/en/analysis/closed-loop-cooling-data-center-gradiant/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "The article examines the severe water usage challenges facing data centers and the growing shift toward closed-loop cooling systems.",
+   "summary": "Data centers face mounting public scrutiny and regulatory pressure over their massive water consumption for cooling systems. Operators are increasingly looking at closed-loop water reuse technologies to mitigate local shortages and environmental concerns.",
+   "vocab": [
+    {
+     "word": "appliance",
+     "thai": "อุปกรณ์เครื่องใช้",
+     "level": "B2",
+     "example": "Most cooling technology needs clean potable water to operate."
+    },
+    {
+     "word": "proliferate",
+     "thai": "แพร่ขยายอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "As data centers continue to proliferate in scale and number, water demand seems only likely to rise."
+    },
+    {
+     "word": "scarcity",
+     "thai": "ความขาดแคลน",
+     "level": "B2",
+     "example": "This is perpetuating an already existing water-scarcity crisis."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 391,
+   "ts": "2026-10-21T01:11:52.988913+07:00",
+   "title": "OVHcloud has 110MW of data center capacity up for grabs",
+   "link": "https://www.datacenterdynamics.com/en/news/ovhcloud-has-110mw-of-data-center-capacity-up-for-grabs/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "OVHcloud reports significant available data center capacity and outlines its cautious capital expenditure strategy for AI deployment.",
+   "summary": "During an earnings call, OVHcloud revealed it has 110MW of unallocated data center capacity ready to support future expansion. The company maintains a disciplined financial approach while preparing to adopt advanced GPU hardware.",
+   "vocab": [
+    {
+     "word": "conservative",
+     "thai": "ที่ระมัดระวัง",
+     "level": "B2",
+     "example": "This is a much more conservative approach to the data center and AI buildout."
+    },
+    {
+     "word": "component",
+     "thai": "ส่วนประกอบ",
+     "level": "B2",
+     "example": "Each server is costing more because of component inflation."
+    },
+    {
+     "word": "guidance",
+     "thai": "คำแนะนำหรือการคาดการณ์ทางธุรกิจ",
+     "level": "B2",
+     "example": "That said, Klaba was unwilling to provide guidance on 2027 capex."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 392,
+   "ts": "2026-10-21T01:11:52.988937+07:00",
+   "title": "Veon to acquire rival Perfectum in $207m Uzbek consolidation push",
+   "link": "https://www.datacenterdynamics.com/en/news/veon-to-acquire-rival-perfectum-in-207m-uzbek-consolidation-push/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Veon is expanding its presence in Uzbekistan through the acquisition of mobile operator Perfectum.",
+   "summary": "Telecom operator Veon has agreed to acquire Perfectum in Uzbekistan to consolidate its network footprint and spectrum assets. The deal will bolster Veon's capabilities to deploy advanced 4G and 5G infrastructure across the country.",
+   "vocab": [
+    {
+     "word": "consolidation",
+     "thai": "การรวมกิจการหรือรวมเข้าด้วยกัน",
+     "level": "C1",
+     "example": "Veon to acquire rival Perfectum in $207m Uzbek consolidation push."
+    },
+    {
+     "word": "bolsters",
+     "thai": "เสริมสร้าง",
+     "level": "C1",
+     "example": "The deal bolsters its spectrum and network assets to support network development."
+    },
+    {
+     "word": "tangible",
+     "thai": "ที่จับต้องได้หรือเห็นผลจริง",
+     "level": "C1",
+     "example": "Our priority is to integrate these assets and translate them into tangible improvements."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 393,
+   "ts": "2026-10-21T01:12:13.045776+07:00",
+   "title": "Chief Telecom breaks ground on 16MW data center in Taiwan",
+   "link": "https://www.datacenterdynamics.com/en/news/chief-telecom-breaks-ground-on-16mw-data-center-in-taiwan/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly reports on new data center infrastructure development with advanced cooling support.",
+   "summary": "Chief Telecom has started construction on a 16MW data center in Taiwan's Huwei Park with expected completion in 2028. The facility will support both air and water-cooled technologies to meet growing regional demand.",
+   "vocab": [
+    {
+     "word": "prospective",
+     "thai": "ที่คาดหวังไว้, ที่มีแนวโน้ม",
+     "level": "B2",
+     "example": "Chief said it had letters of intent signed by prospective clients."
+    },
+    {
+     "word": "approximately",
+     "thai": "ประมาณ, ราวๆ",
+     "level": "B2",
+     "example": "The total investment for this project is approximately NT$3.3 billion."
+    },
+    {
+     "word": "facility",
+     "thai": "สิ่งอำนวยความสะดวก, สถานที่",
+     "level": "B2",
+     "example": "Chief Telecom has broken ground on a new facility."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 394,
+   "ts": "2026-10-21T01:12:13.045848+07:00",
+   "title": "Boston's Towardex sets up direct interconnection to DE-CIX's New York Internet Exchange",
+   "link": "https://www.datacenterdynamics.com/en/news/bostons-towardex-sets-up-direct-interconnection-to-de-cixs-new-york-internet-exchange/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers important network interconnect infrastructure updates improving regional data routing.",
+   "summary": "Towardex partnered with DE-CIX to link Boston's Hub Express System directly to the New York Internet Exchange. This setup allows network operators to bypass traditional carrier hotels and reduce cross-connect costs.",
+   "vocab": [
+    {
+     "word": "interconnection",
+     "thai": "การเชื่อมต่อถึงกัน",
+     "level": "C1",
+     "example": "Towardex sets up direct interconnection to DE-CIX's New York Internet Exchange."
+    },
+    {
+     "word": "inefficiency",
+     "thai": "ความไม่มีประสิทธิภาพ",
+     "level": "C1",
+     "example": "Jun and Schoch acted due to their frustrations at the inefficiencies of networking."
+    },
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "C1",
+     "example": "The interconnection will enable providers access to unparalleled speed and lower latency."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 395,
+   "ts": "2026-10-21T01:12:13.045877+07:00",
+   "title": "xMems solid-state cooling chips for data centers and Edge devices go into production",
+   "link": "https://www.datacenterdynamics.com/en/news/xmems-solid-state-cooling-chips-for-data-centers-and-edge-devices-go-into-production/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Presents novel solid-state chip cooling technology applicable to edge servers and data centers.",
+   "summary": "xMems Labs has entered mass production for solid-state cooling chips aimed at edge devices and data center components. The chips use ultrasonic modulation to generate airflow and reduce hardware temperatures.",
+   "vocab": [
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิม",
+     "level": "B2",
+     "example": "Edge AI systems are creating thermal requirements that conventional cooling technologies cannot address."
+    },
+    {
+     "word": "modulation",
+     "thai": "การปรับเปลี่ยนสัญญาณ",
+     "level": "C1",
+     "example": "It works by using ultrasonic modulation to create airflow across its silicon cooling chip."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งาน",
+     "level": "C1",
+     "example": "The XMC-4800 could be deployed to provide additional cooling to components."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 396,
+   "ts": "2026-10-21T01:12:13.045903+07:00",
+   "title": "South Korean cloud provider Elice goes public on Kosdaq",
+   "link": "https://www.datacenterdynamics.com/en/news/south-korean-cloud-provider-elice-goes-public-on-kosdaq/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on cloud provider financial and infrastructure expansion moves in South Korea.",
+   "summary": "South Korean cloud and AI provider Elice has gone public on the Kosdaq stock market after raising funds. The company plans to use its modular data center designs to build new AI infrastructure facilities.",
+   "vocab": [
+    {
+     "word": "unwavering",
+     "thai": "แน่วแน่, ไม่สั่นคลอน",
+     "level": "C1",
+     "example": "We’ve come this far thanks to the unwavering trust of our customers."
+    },
+    {
+     "word": "modular",
+     "thai": "ที่เป็นโมดูล, ประกอบด้วยส่วนย่อย",
+     "level": "B2",
+     "example": "The company has a modular containerized data center offering."
+    },
+    {
+     "word": "roadmap",
+     "thai": "แผนงาน",
+     "level": "B2",
+     "example": "Elice offers access to GPUs from Nvidia with hardware from another vendor on the roadmap."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 397,
+   "ts": "2026-10-21T01:12:13.045929+07:00",
+   "title": "Blackstone closes latest energy transition fund at $8.7bn, backs several data center focused energy firms",
+   "link": "https://www.datacenterdynamics.com/en/news/blackstone-closes-latest-energy-transition-fund-at-87bn-backs-several-data-center-focused-energy-firms/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights major financial investments into energy and liquid cooling infrastructure for data centers.",
+   "summary": "Blackstone has closed its latest energy transition fund at $8.7 billion to back low-carbon power and data center cooling suppliers. The fund targets growing electricity demands by investing in critical energy infrastructure.",
+   "vocab": [
+    {
+     "word": "oversubscribed",
+     "thai": "ที่มีผู้จองซื้อเกินจำนวน",
+     "level": "C1",
+     "example": "The oversubscribed fund seeks to support energy companies that deliver low-carbon energy at scale."
+    },
+    {
+     "word": "resiliency",
+     "thai": "ความยืดหยุ่นในการฟื้นตัว",
+     "level": "C1",
+     "example": "The fund has also acquired three companies that focus on energy efficiency and resiliency."
+    },
+    {
+     "word": "predecessor",
+     "thai": "รุ่นก่อน, ผู้ดำรงตำแหน่งก่อนหน้า",
+     "level": "C1",
+     "example": "This included a deal to sell mature investments undertaken by its predecessor funds."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 398,
+   "ts": "2026-10-21T01:12:13.045958+07:00",
+   "title": "Sponsored: The importance of power quality in data centers: 4 critical areas to keep in mind",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-importance-of-power-quality-in-data-centers-4-critical-areas-to-keep-in-mind/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Explains critical power quality challenges and harmonic disturbances affecting data center HVAC and servers.",
+   "summary": "Maintaining high power quality is crucial for data centers as artificial intelligence workloads drive up electrical demands. Electrical harmonics from modern HVAC variable frequency drives can cause equipment overheating if left unmanaged.",
+   "vocab": [
+    {
+     "word": "harmonic",
+     "thai": "ฮาร์มอนิก, คลื่นแทรกซ้อน",
+     "level": "C1",
+     "example": "VFDs and EC fans introduce electrical harmonics into the power system."
+    },
+    {
+     "word": "disturbance",
+     "thai": "ความปั่นป่วน, การรบกวน",
+     "level": "B2",
+     "example": "In some cases, these disturbances can affect neighboring facilities connected to the same infrastructure."
+    },
+    {
+     "word": "robust",
+     "thai": "แข็งแกร่ง, ทนทาน",
+     "level": "B2",
+     "example": "NIST stresses the importance of robust resilience planning to maintain operations."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 399,
+   "ts": "2026-10-21T01:12:13.045985+07:00",
+   "title": "Developer looks to convert hotel basement into data center in Lancashire, UK",
+   "link": "https://www.datacenterdynamics.com/en/news/developer-looks-to-convert-hotel-basement-into-data-center-in-lancashire-uk/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Details an unusual real estate conversion project turning a hotel basement into a local data center.",
+   "summary": "Real Big Group received approval to convert a hotel basement in Lancashire into a 16 million dollar data center. The underground facility will utilize a closed-loop cooling system and rooftop telecom antennas.",
+   "vocab": [
+    {
+     "word": "conversion",
+     "thai": "การแปลง, การปรับเปลี่ยน",
+     "level": "B2",
+     "example": "Real Big Group has filed for a change of use of the Brunlea Hotel to include a data center."
+    },
+    {
+     "word": "underground",
+     "thai": "ใต้ดิน",
+     "level": "B2",
+     "example": "The company is looking to convert the hotel’s underground car park into a data center."
+    },
+    {
+     "word": "redevelopment",
+     "thai": "การพัฒนาใหม่",
+     "level": "B2",
+     "example": "Plans emerged for a major redevelopment of the building to relaunch the site."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 400,
+   "ts": "2026-10-21T01:12:13.046013+07:00",
+   "title": "Palo Alto's firewall OS has been under attack from multiple ransomware groups since June",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/20/palo-altos-firewall-os-has-been-under-attack-from-multiple-ransomware-groups-since-june/5304226",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": true,
+   "reason": "Covers multiple urgent enterprise security vulnerabilities, ransomware campaigns, and infrastructure hardening projects.",
+   "summary": "Palo Alto firewall operating systems have faced ongoing ransomware attacks since June, while Microsoft patches failed to secure on-prem SharePoint deployments. Meanwhile, security teams and hackers are working to harden critical infrastructure at DEF CON.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อน, ช่องโหว่",
+     "level": "C1",
+     "example": "Palo Alto's firewall OS has been under attack from multiple ransomware groups."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขปัญหา",
+     "level": "C1",
+     "example": "Microsoft patches failed to fix on-prem SharePoint, requiring further remediation."
+    },
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางอินเทอร์เน็ต",
+     "level": "B2",
+     "example": "Russians are posing as Signal support to launch phishing attacks."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 401,
+   "ts": "2026-10-21T01:12:34.070200+07:00",
+   "title": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'",
+   "link": "https://www.theregister.com/security/2026/10/20/swamped-curl-maintainers-take-low-level-flaws-public-to-survive-vulnerability-avalanche/5304198",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Core open source tool maintainers are overwhelmed by security vulnerability reports, highlighting widespread maintenance burnout.",
+   "summary": "The maintainers of the curl data transfer tool have made low-level security flaws public to cope with a massive wave of vulnerability reports. This highlights the growing pressure and burnout faced by developers maintaining essential internet infrastructure.",
+   "vocab": [
+    {
+     "word": "avalanche",
+     "thai": "ปริมาณมหาศาล (ที่ถาโถมเข้ามา)",
+     "level": "C1",
+     "example": "Swamped curl maintainers take low-level flaws public to survive vulnerability 'avalanche'."
+    },
+    {
+     "word": "maintainer",
+     "thai": "ผู้ดูแลรักษา (ซอฟต์แวร์)",
+     "level": "B2",
+     "example": "Swamped curl maintainers take low-level flaws public."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อนหรือช่องโหว่ด้านความปลอดภัย",
+     "level": "B2",
+     "example": "Survive vulnerability avalanche."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 402,
+   "ts": "2026-10-21T01:12:34.070275+07:00",
+   "title": "openEuler brings China's enterprise Linux ambitions to the desktop",
+   "link": "https://www.theregister.com/os-platforms/2026/10/20/openeuler-brings-chinas-enterprise-linux-ambitions-to-the-desktop/5304145",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "An enterprise Linux distribution expands to desktop environments, relevant for Linux administrators but not urgent.",
+   "summary": "The openEuler project is expanding its enterprise-focused Linux distribution into the desktop space. This move aims to increase adoption and build a stronger desktop ecosystem rooted in Chinese enterprise technologies.",
+   "vocab": [
+    {
+     "word": "distribution",
+     "thai": "รุ่นหรือชุดของระบบปฏิบัติการลินุกซ์ที่จัดทำขึ้น",
+     "level": "B2",
+     "example": "An enterprise Linux distribution expands to the desktop."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ทางเทคโนโลยี)",
+     "level": "B2",
+     "example": "A stronger desktop ecosystem."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปติดตั้งใช้งาน",
+     "level": "B2",
+     "example": "Deployment across enterprise environments."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 403,
+   "ts": "2026-10-21T01:12:34.070317+07:00",
+   "title": "How going dual-native means VM/container co-existence and sovereign security in the AI era",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/20/sponsored-how-going-dual-native-means-vm/container-co-existence-and-sovereign-security-in-the-ai-era/5303862",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly addresses infrastructure fragmentation, VM and container co-existence, and agentic AI scalability for operations teams.",
+   "summary": "Enterprise IT environments face a significant divide as legacy workloads remain on virtual machines while new AI and agentic applications move straight to containers. This infrastructure fragmentation causes resource silos, stranded capacity, and operational bottlenecks.",
+   "vocab": [
+    {
+     "word": "fragmentation",
+     "thai": "การกระจัดกระจายหรือไม่เป็นอันหนึ่งอันเดียวกัน",
+     "level": "C1",
+     "example": "VM/container infrastructure fragmentation can create an operations bottleneck."
+    },
+    {
+     "word": "heterogeneous",
+     "thai": "ที่มีความหลากหลายหรือแตกต่างกันในระบบ",
+     "level": "C1",
+     "example": "Modern enterprise environments have become innately heterogeneous."
+    },
+    {
+     "word": "bottleneck",
+     "thai": "จุดคอขวดหรืออุปสรรคที่ทำให้กระบวนการช้าลง",
+     "level": "B2",
+     "example": "Create an operations bottleneck for agentic AI."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 404,
+   "ts": "2026-10-21T01:12:34.070353+07:00",
+   "title": "Enterprises blow nearly a third of software budgets on upgrades they never asked for",
+   "link": "https://www.theregister.com/software/2026/10/20/enterprises-blow-nearly-a-third-of-software-budgets-on-upgrades-they-never-asked-for/5304181",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Financial news regarding enterprise software budgets, offering general industry context rather than technical urgency.",
+   "summary": "A large portion of enterprise software budgets is reportedly spent on mandatory upgrades that organizations never requested. This highlights ongoing challenges in IT cost management and software licensing negotiations.",
+   "vocab": [
+    {
+     "word": "mandatory",
+     "thai": "ที่เป็นข้อบังคับ",
+     "level": "B2",
+     "example": "Mandatory software upgrades."
+    },
+    {
+     "word": "negotiation",
+     "thai": "การเจรจาต่อรอง",
+     "level": "B2",
+     "example": "Software licensing negotiation."
+    },
+    {
+     "word": "expenditure",
+     "thai": "ค่าใช้จ่าย",
+     "level": "C1",
+     "example": "Managing IT expenditure effectively."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 405,
+   "ts": "2026-10-21T01:12:34.070378+07:00",
+   "title": "HPE to launch AI straight to the Moon",
+   "link": "https://www.theregister.com/science/2026/10/20/hpe-to-launch-ai-straight-to-the-moon/5303983",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Major AI infrastructure news covering HPE sending orbital compute and AI systems to the Moon.",
+   "summary": "HPE is preparing to launch its fourth-generation Spaceborne Computer to the Moon aboard a lunar rover later this year. The system will run specialized AI models and high-performance computing benchmarks in a harsh lunar environment.",
+   "vocab": [
+    {
+     "word": "orbital",
+     "thai": "ที่เกี่ยวกับวงโคจรรอบโลกหรืออวกาศ",
+     "level": "C1",
+     "example": "HPE has been building orbital compute platforms."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐานหรือชุดทดสอบประสิทธิภาพ",
+     "level": "B2",
+     "example": "Run several high performance computing benchmarks."
+    },
+    {
+     "word": "dissipate",
+     "thai": "ระบายออกหรือกระจาย (ความร้อน/พลังงาน)",
+     "level": "C1",
+     "example": "The rover's radiators can only dissipate so much heat."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 406,
+   "ts": "2026-10-21T01:12:34.070412+07:00",
+   "title": "'Password1' and a forgotten test account land Welsh outfits in hot water",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/20/password1-and-a-forgotten-test-account-land-welsh-outfits-in-hot-water/5304139",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": true,
+   "reason": "Security vulnerability incident involving weak credentials and forgotten test accounts in public sector infrastructure.",
+   "summary": "Public sector organizations in Wales faced severe scrutiny after leaving simple default passwords and forgotten test accounts active on systems. This security lapse underscores the constant risk of basic misconfigurations in enterprise networks.",
+   "vocab": [
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Land Welsh outfits in hot water and intense scrutiny."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลรับรองการเข้าใช้งาน (เช่น รหัสผ่าน)",
+     "level": "B2",
+     "example": "Weak credentials left exposed."
+    },
+    {
+     "word": "misconfiguration",
+     "thai": "การตั้งค่าระบบที่ไม่ถูกต้อง",
+     "level": "C1",
+     "example": "Risks of basic misconfigurations in networks."
+    }
+   ],
+   "status": "night",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 407,
+   "ts": "2026-10-21T01:12:34.070433+07:00",
+   "title": "Voxtral 3",
+   "link": "https://mistral.ai/news/voxtral-3/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Major AI infrastructure and multilingual voice model release from Mistral with sovereign deployment support.",
+   "summary": "Mistral has introduced Voxtral 3, a new family of state-of-the-art speech models and a voice agent SDK designed for real-time multilingual conversations. It supports secure, sovereign deployment on private infrastructure for contact centers and virtual assistants.",
+   "vocab": [
+    {
+     "word": "transcription",
+     "thai": "การแปลงเสียงพูดเป็นข้อความ",
+     "level": "B2",
+     "example": "Accurate transcription across 50+ languages."
+    },
+    {
+     "word": "sovereignty",
+     "thai": "ความเป็นอธิปไตยหรือการควบคุมข้อมูลด้วยตนเอง",
+     "level": "C1",
+     "example": "It ensures data sovereignty while delivering low-latency interactions."
+    },
+    {
+     "word": "pipeline",
+     "thai": "ชุดกระบวนการทำงานที่ต่อเนื่องกัน",
+     "level": "B2",
+     "example": "A single real-time streaming pipeline."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 385,
+ "next_id": 408,
  "vocab": [
   {
    "word": "commissioning",
