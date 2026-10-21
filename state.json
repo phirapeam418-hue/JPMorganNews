@@ -933,7 +933,20 @@
   "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
   "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
   "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
-  "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
+  "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+  "https://www.datacenterdynamics.com/en/product-news/shadeform-launches-flex-vms-turning-any-bare-metal-gpu-cluster-into-marketplace-ready-cloud-capacity/",
+  "https://www.datacenterdynamics.com/en/marketwatch/the-metric-that-matters-why-ai-data-centers-should-be-measured-in-value-not-volume/",
+  "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
+  "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344",
+  "https://www.joshwcomeau.com/css/interop-2027/",
+  "https://news-web.php.net/php.announce/509",
+  "https://maevyn.codes/decoherence",
+  "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+  "https://mariusbancila.ro/blog/2026/10/18/composite-objects-and-cpp26-the-stdpolymorphic-type/",
+  "https://beyondloom.com/blog/fouryearsdecker.html",
+  "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
+  "https://github.com/timriker/bzo",
+  "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
  ],
  "stories": [
   {
@@ -16371,9 +16384,199 @@
    "urgency": 6,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 419,
+   "ts": "2026-10-21T15:58:56.265902+07:00",
+   "title": "Sponsored: Shadeform launches Flex VMs, turning any bare-metal GPU cluster into marketplace-ready cloud capacity",
+   "link": "https://www.datacenterdynamics.com/en/product-news/shadeform-launches-flex-vms-turning-any-bare-metal-gpu-cluster-into-marketplace-ready-cloud-capacity/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Announces a new virtualization and marketplace layer for GPU clusters, directly impacting AI infrastructure capacity management.",
+   "summary": "Shadeform has launched Flex VMs, a platform that turns bare-metal GPU clusters into single-tenant virtual machines for instant cloud reselling. The tool aims to help data center operators monetize idle compute capacity with minimal manual overhead.",
+   "vocab": [
+    {
+     "word": "virtualization",
+     "thai": "การจำลองเสมือน",
+     "level": "B2",
+     "example": "Shadeform launched Flex VMs, a virtualization layer that can take any GPU cluster."
+    },
+    {
+     "word": "utilization",
+     "thai": "การใช้ประโยชน์",
+     "level": "B2",
+     "example": "Shadeform's current roster of Flex VMs has achieved more than 95 percent utilization."
+    },
+    {
+     "word": "monetize",
+     "thai": "สร้างรายได้",
+     "level": "C1",
+     "example": "The tool helps data center operators monetize idle compute capacity."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 420,
+   "ts": "2026-10-21T15:58:56.265951+07:00",
+   "title": "Sponsored: The metric that matters: Why AI data centers should be measured in value, not volume",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/the-metric-that-matters-why-ai-data-centers-should-be-measured-in-value-not-volume/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Examines extreme power and cooling limits for next-generation AI data centers, directly addressing core infrastructure concerns.",
+   "summary": "Single-chip power consumption is projected to reach 3,000 watts, rendering traditional air cooling obsolete. Industry experts argue that data centers must refocus on energy conversion efficiency and adopt advanced direct liquid cooling.",
+   "vocab": [
+    {
+     "word": "consumption",
+     "thai": "การบริโภค, การใช้",
+     "level": "B2",
+     "example": "That's where single-chip power consumption is heading."
+    },
+    {
+     "word": "obsolete",
+     "thai": "ล้าสมัย",
+     "level": "B2",
+     "example": "Traditional air cooling methods are becoming obsolete."
+    },
+    {
+     "word": "efficiency",
+     "thai": "ประสิทธิภาพ",
+     "level": "B2",
+     "example": "Data centers must focus heavily on energy conversion efficiency."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 246,
+   "sent_ts": "2026-10-21T15:58:56.779703+07:00"
+  },
+  {
+   "id": 421,
+   "ts": "2026-10-21T15:58:56.779878+07:00",
+   "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
+   "link": "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers a diverse tech news roundup including security patches, open-source developments, and hardware updates.",
+   "summary": "This week's tech news covers discussions on government venture funding in the UK, unpatched on-prem SharePoint zero-day attacks, and new FOSS releases. Various updates span security vulnerabilities, hardware benchmarking, and browser changes.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อน, ช่องโหว่",
+     "level": "B2",
+     "example": "Security teams work hard to patch any newly discovered vulnerability."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน",
+     "level": "B2",
+     "example": "New hardware releases often include a detailed performance benchmark."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำไปใช้",
+     "level": "B2",
+     "example": "The open-source project is seeing increasing adoption worldwide."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344"
+   ]
+  },
+  {
+   "id": 422,
+   "ts": "2026-10-21T15:58:56.779908+07:00",
+   "title": "The Future of CSS",
+   "link": "https://www.joshwcomeau.com/css/interop-2027/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses upcoming web standards and CSS features, relevant to web developers but low impact for core infrastructure operations.",
+   "summary": "Browser vendors are collaborating on upcoming web standards and proposing new features like CSS functions and advanced corner styling. These additions aim to bring more native programming logic and layout power directly into stylesheets.",
+   "vocab": [
+    {
+     "word": "specification",
+     "thai": "รายละเอียดเฉพาะ",
+     "level": "B2",
+     "example": "Developers follow the official specification when building web applications."
+    },
+    {
+     "word": "implementation",
+     "thai": "การนำไปปฏิบัติ",
+     "level": "B2",
+     "example": "The new feature requires browser implementation before it can be used widely."
+    },
+    {
+     "word": "syntax",
+     "thai": "ไวยากรณ์ (ในโปรแกรม)",
+     "level": "C1",
+     "example": "The proposed syntax allows developers to write custom functions inside CSS."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 423,
+   "ts": "2026-10-21T15:58:56.779933+07:00",
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+   "link": "https://news-web.php.net/php.announce/509",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Reports an upcoming critical PHP security release and current gateway outages on PHP infrastructure.",
+   "summary": "PHP.net experienced origin server connection failures alongside announcements for critical security releases. Administrators should monitor server status and prepare for upcoming vulnerability patches.",
+   "vocab": [
+    {
+     "word": "administrator",
+     "thai": "ผู้ดูแลระบบ",
+     "level": "B2",
+     "example": "If you are the administrator, please check your origin server status."
+    },
+    {
+     "word": "availability",
+     "thai": "ความพร้อมใช้งาน",
+     "level": "B2",
+     "example": "Server availability can be affected by unexpected gateway errors."
+    },
+    {
+     "word": "gateway",
+     "thai": "เกตเวย์, ประตูเชื่อมต่อเครือข่าย",
+     "level": "B2",
+     "example": "The proxy returned a 502 Bad Gateway error when reaching the origin server."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 7,
+   "msg_id": 247,
+   "sent_ts": "2026-10-21T15:58:57.278819+07:00",
+   "extra_links": [
+    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+   ]
   }
  ],
- "next_id": 419,
+ "next_id": 424,
  "vocab": [
   {
    "word": "commissioning",
@@ -20270,6 +20473,56 @@
    "thai": "คำแนะนำหรือการคาดการณ์ทางธุรกิจ",
    "level": "B2",
    "example": "That said, Klaba was unwilling to provide guidance on 2027 capex.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consumption",
+   "thai": "การบริโภค, การใช้",
+   "level": "B2",
+   "example": "That's where single-chip power consumption is heading.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "obsolete",
+   "thai": "ล้าสมัย",
+   "level": "B2",
+   "example": "Traditional air cooling methods are becoming obsolete.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "efficiency",
+   "thai": "ประสิทธิภาพ",
+   "level": "B2",
+   "example": "Data centers must focus heavily on energy conversion efficiency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "administrator",
+   "thai": "ผู้ดูแลระบบ",
+   "level": "B2",
+   "example": "If you are the administrator, please check your origin server status.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "gateway",
+   "thai": "เกตเวย์, ประตูเชื่อมต่อเครือข่าย",
+   "level": "B2",
+   "example": "The proxy returned a 502 Bad Gateway error when reaching the origin server.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
