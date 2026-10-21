@@ -18207,7 +18207,7 @@
    "thai": "คาดการณ์ได้",
    "level": "B2",
    "example": "The embedded SQL engine keeps performance and resource use predictable.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18747,7 +18747,7 @@
    "thai": "อย่างหลีกเลี่ยงไม่ได้",
    "level": "B2",
    "example": "Power constraints have inevitably resulted in a significant gap in grid infrastructure worldwide.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19087,7 +19087,7 @@
    "thai": "ส่งสัญญาณเตือนภัยเร่งด่วน",
    "level": "B2",
    "example": "Both Switchzilla and CISA sound the alarm over the flaw.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19147,7 +19147,7 @@
    "thai": "ภาพจำลองทางสถาปัตยกรรม",
    "level": "B2",
    "example": "Site renderings suggest at least four buildings of varying sizes and an on-site substation.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19637,7 +19637,7 @@
    "thai": "โปรแกรมดึงข้อมูลเว็บ",
    "level": "C1",
    "example": "The search crawler indexes web pages based on helpfulness signals.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21309,6 +21309,26 @@
   },
   "6248836425341469386": {
    "word": "occupier",
+   "correct": 1
+  },
+  "6253398384984458071": {
+   "word": "crawler",
+   "correct": 2
+  },
+  "6253398384984458072": {
+   "word": "sound the alarm",
+   "correct": 2
+  },
+  "6253398384984458073": {
+   "word": "inevitably",
+   "correct": 2
+  },
+  "6253398384984458074": {
+   "word": "renderings",
+   "correct": 2
+  },
+  "6253398384984458075": {
+   "word": "predictable",
    "correct": 1
   }
  },
