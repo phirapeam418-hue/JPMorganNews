@@ -922,7 +922,18 @@
   "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
   "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
   "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-  "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/"
+  "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
+  "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312",
+  "https://www.theregister.com/cyber-crime/2026/10/20/auto-tech-startup-claims-it-traced-hack-attempt-back-to-rivals-ip-address/5304281",
+  "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+  "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+  "https://www.thebeliever.net/the-other-epidemic/",
+  "https://unsung.aresluna.org/good-type-against-all-odds/",
+  "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
+  "https://arstechnica.com/science/2026/10/quantum-error-correction-goes-well-beyond-breakeven/",
+  "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
+  "https://arstechnica.com/cars/2026/10/polestar-tries-to-quantify-what-its-like-to-drive-a-performance-car/",
+  "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/"
  ],
  "stories": [
   {
@@ -15169,11 +15180,13 @@
      "example": "CityFibre's latest accounts and debt restructuring raise further questions about its financial viability."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 6,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 232,
+   "sent_ts": "2026-10-21T09:24:08.771633+07:00"
   },
   {
    "id": 387,
@@ -15205,11 +15218,13 @@
      "example": "These investments strengthen Germany's position in international technology competition."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 233,
+   "sent_ts": "2026-10-21T09:24:09.394524+07:00"
   },
   {
    "id": 388,
@@ -15313,11 +15328,13 @@
      "example": "This is perpetuating an already existing water-scarcity crisis."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 234,
+   "sent_ts": "2026-10-21T09:24:10.012413+07:00"
   },
   {
    "id": 391,
@@ -15601,11 +15618,13 @@
      "example": "NIST stresses the importance of robust resilience planning to maintain operations."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 235,
+   "sent_ts": "2026-10-21T09:24:10.627763+07:00"
   },
   {
    "id": 399,
@@ -15673,11 +15692,13 @@
      "example": "Russians are posing as Signal support to launch phishing attacks."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 236,
+   "sent_ts": "2026-10-21T09:24:11.246917+07:00"
   },
   {
    "id": 401,
@@ -15781,7 +15802,7 @@
      "example": "Create an operations bottleneck for agentic AI."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 7,
    "scale": 8,
@@ -15889,7 +15910,7 @@
      "example": "Risks of basic misconfigurations in networks."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 6,
    "urgency": 7,
    "scale": 5,
@@ -16000,14 +16021,15 @@
      "example": "The forged certificate could be used to intercept or modify traffic."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
    "credibility": 10,
    "extra_links": [
     "https://emudhra.we-have-a-problem.com/",
-    "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/"
+    "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+    "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
    ]
   },
   {
@@ -16261,9 +16283,81 @@
    "urgency": 5,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 417,
+   "ts": "2026-10-21T09:24:54.357514+07:00",
+   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+   "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "The story exposes criminal collusion inside incident response firms, which impacts security policy rather than daily infrastructure operations.",
+   "summary": "Investigators revealed that executives at ransomware negotiation firms allegedly helped operate extortion platforms for the ShinyHunters cybercrime syndicate. The findings expose serious conflicts of interest that organizations must evaluate when preparing incident response strategies.",
+   "vocab": [
+    {
+     "word": "negotiator",
+     "thai": "ผู้เจรจาต่อรอง",
+     "level": "B2",
+     "example": "Feds suspect ransom negotiator ran ShinyHunters extortion site."
+    },
+    {
+     "word": "taunt",
+     "thai": "เยาะเย้ย / ท้าทาย",
+     "level": "C1",
+     "example": "ShinyHunters hacked the FBI recruitment website and taunted the agency by threatening to publish the stolen files."
+    },
+    {
+     "word": "unravel",
+     "thai": "คลี่คลาย / แยกแยะเงื่อนงำ",
+     "level": "C1",
+     "example": "Authorities said the messages were the key to unraveling a murder-for-hire plot."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 418,
+   "ts": "2026-10-21T09:25:16.073464+07:00",
+   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+   "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Information leakage flaws in generative AI tools are an important security and privacy concern for enterprise IT environments.",
+   "summary": "Security researchers found that shared links from Meta's Muse AI agent could be uncovered easily using public DNS searches, exposing private user and company data. Meta has temporarily disabled the sharing feature while it reviews the issue.",
+   "vocab": [
+    {
+     "word": "enumerate",
+     "thai": "แจกแจงหรือระบุรายการทั้งหมด",
+     "level": "C1",
+     "example": "Researchers said they were able to enumerate 6,800 links Muse users created for sharing."
+    },
+    {
+     "word": "precaution",
+     "thai": "การป้องกันไว้ล่วงหน้า",
+     "level": "B2",
+     "example": "Muse seems to take the same precautions as other online services."
+    },
+    {
+     "word": "confidential",
+     "thai": "ที่เป็นความลับ",
+     "level": "B2",
+     "example": "The links exposed a candidate's notes preparing for a confidential executive-search call."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 417,
+ "next_id": 419,
  "vocab": [
   {
    "word": "commissioning",
@@ -19870,6 +19964,116 @@
    "thai": "ที่ไม่ประสานเวลาพร้อมกัน (ทำงานแบบอะซิงโครนัส)",
    "level": "C1",
    "example": "Asynchronous scheduling overlaps CPU batch preparation with device execution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disrupted",
+   "thai": "ถูกขัดจังหวะ",
+   "level": "B2",
+   "example": "Phone and internet services have been disrupted for customers in the South Yorkshire village.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "downtime",
+   "thai": "ช่วงเวลาที่ระบบใช้งานไม่ได้",
+   "level": "B2",
+   "example": "Openreach apologized for the downtime, noting that it is working to repair the damage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "viability",
+   "thai": "ความสามารถในการดำเนินการได้",
+   "level": "C1",
+   "example": "CityFibre's latest accounts and debt restructuring raise further questions about its financial viability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pledges",
+   "thai": "ให้คำมั่นสัญญา",
+   "level": "B2",
+   "example": "Amazon pledges €16bn investment in Germany in 2027.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "footprint",
+   "thai": "พื้นที่ครอบคลุม",
+   "level": "B2",
+   "example": "The company will use the investment to expand data centers and its European cloud footprint.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incentive",
+   "thai": "สิ่งจูงใจ",
+   "level": "B2",
+   "example": "These investments strengthen Germany's position in international technology competition.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "appliance",
+   "thai": "อุปกรณ์เครื่องใช้",
+   "level": "B2",
+   "example": "Most cooling technology needs clean potable water to operate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proliferate",
+   "thai": "แพร่ขยายอย่างรวดเร็ว",
+   "level": "C1",
+   "example": "As data centers continue to proliferate in scale and number, water demand seems only likely to rise.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "harmonic",
+   "thai": "ฮาร์มอนิก, คลื่นแทรกซ้อน",
+   "level": "C1",
+   "example": "VFDs and EC fans introduce electrical harmonics into the power system.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disturbance",
+   "thai": "ความปั่นป่วน, การรบกวน",
+   "level": "B2",
+   "example": "In some cases, these disturbances can affect neighboring facilities connected to the same infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "robust",
+   "thai": "แข็งแกร่ง, ทนทาน",
+   "level": "B2",
+   "example": "NIST stresses the importance of robust resilience planning to maintain operations.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
