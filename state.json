@@ -970,7 +970,31 @@
   "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
   "https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106",
   "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
-  "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253"
+  "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253",
+  "https://www.datacenterdynamics.com/en/news/singaporean-tech-company-sea-ltd-launches-neocloud-subsidiary/",
+  "https://www.datacenterdynamics.com/en/news/memphis-data-center-moratorium-xai-elon-musk/",
+  "https://www.datacenterdynamics.com/en/news/startup-neocloud-aolani-signs-loi-for-500mw-of-capacity-in-malaysia/",
+  "https://www.datacenterdynamics.com/en/news/bt-bolsters-5g-standalone-footprint-confirms-ai-ran-trials-with-nokia-nvidia/",
+  "https://www.datacenterdynamics.com/en/news/russian-forces-destroy-gigacenter-data-center-in-kyiv-ukraine/",
+  "https://www.datacenterdynamics.com/en/news/vantage-signs-1gw-solid-state-transformer-supply-deal-with-heron-power/",
+  "https://www.datacenterdynamics.com/en/news/sc-capital-partners-invests-in-40mw-data-center-in-pohang-south-korea/",
+  "https://www.datacenterdynamics.com/en/news/tata-power-eyes-28gw-of-generation-transmission-and-distribution-for-indian-data-center-sector/",
+  "https://www.datacenterdynamics.com/en/news/vultr-to-deploy-20mw-amd-mi355x-cluster-in-chennai-india/",
+  "https://www.datacenterdynamics.com/en/opinions/from-power-to-ai-readiness-the-architecture-decisions-behind-terawulfs-ai-and-high-performance-computing-campus/",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552",
+  "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
+  "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+  "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
+  "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+  "https://blog.cloudflare.com/full-transaction-waf/",
+  "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+  "https://blog.cloudflare.com/webmcp-commerce/",
+  "https://docs.mistral.ai/models/mistral-large-4-0",
+  "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+  "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+  "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
  ],
  "stories": [
   {
@@ -16596,7 +16620,10 @@
    "msg_id": 247,
    "sent_ts": "2026-10-21T15:58:57.278819+07:00",
    "extra_links": [
-    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+    "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
+    "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+    "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
    ]
   },
   {
@@ -17178,9 +17205,732 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 440,
+   "ts": "2026-10-22T02:46:13.985310+07:00",
+   "title": "Singaporean tech company Sea Ltd. launches neocloud subsidiary",
+   "link": "https://www.datacenterdynamics.com/en/news/singaporean-tech-company-sea-ltd-launches-neocloud-subsidiary/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Sea Ltd launching a major cloud subsidiary impacts cloud market dynamics and regional infrastructure demand.",
+   "summary": "Singaporean tech company Sea Ltd. has launched a new cloud business unit called Sea Cloud to offer its internal platform capabilities externally. The platform has powered its major digital services for over a decade and has been upgraded recently to handle massive AI workloads.",
+   "vocab": [
+    {
+     "word": "dubbed",
+     "thai": "ที่ถูกเรียกว่า",
+     "level": "B2",
+     "example": "A new cloud-focused business unit dubbed Sea Cloud."
+    },
+    {
+     "word": "backbone",
+     "thai": "กระดูกสันหลัง หรือโครงสร้างหลัก",
+     "level": "B2",
+     "example": "It is the backbone powering Garena, Shopee, and Monee’s scale."
+    },
+    {
+     "word": "accommodate",
+     "thai": "รองรับ หรือจัดให้เหมาะสม",
+     "level": "B2",
+     "example": "Our technology architecture has been designed to scale to accommodate the large amounts of data."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 441,
+   "ts": "2026-10-22T02:46:13.985356+07:00",
+   "title": "Memphis councilors reject 18-month data center moratorium",
+   "link": "https://www.datacenterdynamics.com/en/news/memphis-data-center-moratorium-xai-elon-musk/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Local regulatory moratoriums and protests directly affect data center site selection and deployment timelines.",
+   "summary": "Memphis councilors rejected an 18-month data center moratorium, opting instead for a short 135-day pause while a study reviews digital infrastructure impacts. The city has seen intense local opposition and protests regarding massive AI and cloud facilities operated by companies like xAI.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การระงับชั่วคราว",
+     "level": "C1",
+     "example": "Proposals for a data center moratorium of up to 18 months have been rejected."
+    },
+    {
+     "word": "enact",
+     "thai": "ตราเป็นกฎหมาย หรือบังคับใช้",
+     "level": "C1",
+     "example": "Councilors were split 6-6 on whether to enact the data center ban."
+    },
+    {
+     "word": "backlash",
+     "thai": "กระแสต่อต้านอย่างรุนแรง",
+     "level": "C1",
+     "example": "Data center moratoriums have become commonplace as backlash against AI grows."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 442,
+   "ts": "2026-10-22T02:46:13.985383+07:00",
+   "title": "Startup neocloud Aolani signs LOI for 500MW of capacity in Malaysia",
+   "link": "https://www.datacenterdynamics.com/en/news/startup-neocloud-aolani-signs-loi-for-500mw-of-capacity-in-malaysia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A 500MW capacity agreement in Malaysia significantly scales regional AI infrastructure deployments.",
+   "summary": "Singaporean startup neocloud Aolani has signed a Letter of Intent for 500MW of data center capacity in Malaysia to support future AI factories. This deal brings the company's total planned capacity to 580MW as it deploys tens of thousands of Nvidia GPUs.",
+   "vocab": [
+    {
+     "word": "catalyse",
+     "thai": "เร่งปฏิกิริยา หรือกระตุ้น",
+     "level": "C1",
+     "example": "Using local compute to catalyse development of the local AI ecosystem."
+    },
+    {
+     "word": "democratise",
+     "thai": "ทำให้ทุกคนเข้าถึงได้ง่าย",
+     "level": "C1",
+     "example": "Working with local partners to further democratise access to compute."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งและนำไปใช้งานจริง",
+     "level": "B2",
+     "example": "Aolani will own the AI infrastructure and handle the deployment and operation."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 443,
+   "ts": "2026-10-22T02:46:13.985412+07:00",
+   "title": "BT bolsters 5G Standalone footprint, confirms AI-RAN trials with Nokia, Nvidia",
+   "link": "https://www.datacenterdynamics.com/en/news/bt-bolsters-5g-standalone-footprint-confirms-ai-ran-trials-with-nokia-nvidia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "AI-RAN trials and 5G network expansion affect telecommunications infrastructure and edge computing strategies.",
+   "summary": "BT has expanded its 5G Standalone network to over 80 percent of the UK population and announced upcoming AI-RAN trials with Nokia and Nvidia. These trials aim to test how artificial intelligence can make live mobile networks more responsive and efficient.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "เสริมสร้าง หรือสนับสนุน",
+     "level": "C1",
+     "example": "BT bolsters 5G Standalone footprint, confirms AI-RAN trials with Nokia, Nvidia."
+    },
+    {
+     "word": "pioneer",
+     "thai": "ผู้บุกเบิก",
+     "level": "B2",
+     "example": "Working with AI-RAN pioneers Nvidia and Nokia."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน",
+     "level": "B2",
+     "example": "40 percent more capacity than its previous 2Gbps benchmark."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 444,
+   "ts": "2026-10-22T02:46:13.985437+07:00",
+   "title": "Russian forces destroy GigaCenter data center in Kyiv, Ukraine",
+   "link": "https://www.datacenterdynamics.com/en/news/russian-forces-destroy-gigacenter-data-center-in-kyiv-ukraine/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Direct military destruction of a data center is a severe infrastructure outage and geopolitical security event.",
+   "summary": "A Russian military strike critically damaged and permanently disabled the GigaCenter data center facility in Kyiv, Ukraine. While cloud services remain functional through decentralized backups, the physical site and local network nodes suffered direct hits.",
+   "vocab": [
+    {
+     "word": "redundancy",
+     "thai": "ระบบสำรองเพื่อความปลอดภัย",
+     "level": "C1",
+     "example": "Thanks to geographical redundancy, all GigaTrans services continue to work."
+    },
+    {
+     "word": "indefinitely",
+     "thai": "อย่างไม่มีกำหนดเวลาสิ้นสุด",
+     "level": "B2",
+     "example": "We are forced to stop our work indefinitely."
+    },
+    {
+     "word": "decentralized",
+     "thai": "ซึ่งกระจายศูนย์กลางออกไป",
+     "level": "C1",
+     "example": "Services continue to operate normally on backup decentralized sites."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 10,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 445,
+   "ts": "2026-10-22T02:46:13.985460+07:00",
+   "title": "Vantage signs 1GW solid-state transformer supply deal with Heron Power",
+   "link": "https://www.datacenterdynamics.com/en/news/vantage-signs-1gw-solid-state-transformer-supply-deal-with-heron-power/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A 1GW power hardware supply deal directly addresses critical data center power delivery and cooling constraints for AI.",
+   "summary": "Data center firm Vantage has signed an agreement with Heron Power to secure over 1GW of solid-state transformers for its hyperscale portfolio. The hardware aims to simplify power conversion from the grid to high-density 800 VDC AI server racks.",
+   "vocab": [
+    {
+     "word": "architecture",
+     "thai": "โครงสร้างพื้นฐานหรือสถาปัตยกรรมระบบ",
+     "level": "B2",
+     "example": "By simplifying the electrical architecture and integrating power conversion."
+    },
+    {
+     "word": "variable",
+     "thai": "ที่เปลี่ยนแปลงได้ง่าย",
+     "level": "B2",
+     "example": "Designed to address the challenges of AI racks, which have more variable loads."
+    },
+    {
+     "word": "repeatable",
+     "thai": "สามารถทำซ้ำได้มาตรฐานเดียวกัน",
+     "level": "C1",
+     "example": "Moving 800 VDC from a concept to a repeatable, deployed platform."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 446,
+   "ts": "2026-10-22T02:46:13.985482+07:00",
+   "title": "SC Capital Partners invests in 40MW data center in Pohang, South Korea",
+   "link": "https://www.datacenterdynamics.com/en/news/sc-capital-partners-invests-in-40mw-data-center-in-pohang-south-korea/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "New international investments in high-density AI data centers expand regional cloud capacity footprints.",
+   "summary": "Singaporean investment firm SC Capital Partners has invested in a 40MW AI data center project in Pohang, South Korea, developed with NeoAI Cloud. The facility will feature liquid cooling to support upcoming high-performance Nvidia hardware architectures.",
+   "vocab": [
+    {
+     "word": "underlying",
+     "thai": "ที่เป็นรากฐานอยู่เบื้องหลัง",
+     "level": "B2",
+     "example": "The development benefits from strong underlying fundamentals."
+    },
+    {
+     "word": "favorable",
+     "thai": "ที่เป็นประโยชน์หรือเอื้ออำนวย",
+     "level": "B2",
+     "example": "Contributing to a favorable environment for the sector."
+    },
+    {
+     "word": "joint",
+     "thai": "ที่ทำร่วมกัน",
+     "level": "B2",
+     "example": "Launched it in 2023 as a joint venture with Abner Investments."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 447,
+   "ts": "2026-10-22T02:46:13.985507+07:00",
+   "title": "Tata Power eyes 2.8GW of generation, transmission, and distribution for Indian data center sector",
+   "link": "https://www.datacenterdynamics.com/en/news/tata-power-eyes-28gw-of-generation-transmission-and-distribution-for-indian-data-center-sector/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Large-scale utility and grid expansion plans are vital to support massive upcoming data center power loads.",
+   "summary": "Tata Power has announced plans to develop more than 2.8GW of green energy, transmission, and distribution projects to meet India's rapid data center growth. The initiative includes major grid upgrades in Mumbai to handle surging power demands from hyperscalers.",
+   "vocab": [
+    {
+     "word": "conglomerate",
+     "thai": "กลุ่มบริษัทขนาดใหญ่",
+     "level": "C1",
+     "example": "Power arm of the massive Indian multinational conglomerate Tata."
+    },
+    {
+     "word": "pipeline",
+     "thai": "โครงการหรือแผนงานที่กำลังดำเนินการ",
+     "level": "B2",
+     "example": "The pipeline comprises about 430MW of upcoming load on its distribution network."
+    },
+    {
+     "word": "surge",
+     "thai": "การพุ่งสูงขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Grid upgrades to handle surging power demands from hyperscalers."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 448,
+   "ts": "2026-10-22T02:46:26.401171+07:00",
+   "title": "Vultr to deploy 20MW AMD MI355X cluster in Chennai, India",
+   "link": "https://www.datacenterdynamics.com/en/news/vultr-to-deploy-20mw-amd-mi355x-cluster-in-chennai-india/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Vultr's deployment of a major AMD GPU cluster in India expands regional AI infrastructure availability.",
+   "summary": "Vultr is deploying a 20MW cluster of AMD Instinct GPUs in Chennai, India, to meet local AI training and inference demand. This expansion gives enterprises in the region high-performance hardware closer to home.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อำนาจอธิปไตย",
+     "level": "C1",
+     "example": "Enterprises need infrastructure they can access locally to meet data sovereignty requirements."
+    },
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือ",
+     "level": "B2",
+     "example": "Through our collaboration with Vultr, we are expanding access to AMD compute."
+    },
+    {
+     "word": "disclose",
+     "thai": "เปิดเผย",
+     "level": "C1",
+     "example": "The company has not disclosed which data center the capacity will be deployed in."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 449,
+   "ts": "2026-10-22T02:46:26.401225+07:00",
+   "title": "Sponsored: From power to AI readiness: The architecture decisions behind TeraWulf’s AI and high-performance computing campus",
+   "link": "https://www.datacenterdynamics.com/en/opinions/from-power-to-ai-readiness-the-architecture-decisions-behind-terawulfs-ai-and-high-performance-computing-campus/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly relevant to data center power, cooling architecture, and rapid AI campus scaling.",
+   "summary": "TeraWulf details the architectural and cooling strategies used to rapidly scale its Lake Mariner data center campus. The project highlights how aligning power availability with advanced thermal management accelerates AI infrastructure deployment.",
+   "vocab": [
+    {
+     "word": "operationalize",
+     "thai": "ทำให้สามารถปฏิบัติงานได้จริง",
+     "level": "C1",
+     "example": "The competitive advantage lies in how quickly operators can operationalize that power."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "C1",
+     "example": "Access to power has become one of the biggest constraints on new AI data center development."
+    },
+    {
+     "word": "deviation",
+     "thai": "การเบี่ยงเบน",
+     "level": "C1",
+     "example": "Every infrastructure dependency was important, because any deviation could delay the project."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 450,
+   "ts": "2026-10-22T02:46:26.401261+07:00",
+   "title": "Nvidia woos wary Europeans with more open weights models",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-woos-wary-europeans-with-more-open-weights-models/5304552",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers major AI hardware vendor strategies and open-weight model developments.",
+   "summary": "Nvidia is releasing new open weights models to appeal to European markets and advance agentic workflows. Meanwhile, industry discussions highlight containerized data centers and modular deployment concepts.",
+   "vocab": [
+    {
+     "word": "keynote",
+     "thai": "การปาฐกถาหลัก",
+     "level": "B2",
+     "example": "Containerized datacenters and androids featured in the Berlin keynote."
+    },
+    {
+     "word": "subsidy",
+     "thai": "เงินอุดหนุน",
+     "level": "C1",
+     "example": "Researchers say public subsidies for AI should be repaid in wellbeing."
+    },
+    {
+     "word": "syntax",
+     "thai": "ไวยากรณ์ (ในที่นี้หมายถึงโครงสร้างโค้ด)",
+     "level": "C1",
+     "example": "Domain expertise will matter more than syntax, and yes, that means documentation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 451,
+   "ts": "2026-10-22T02:46:26.401311+07:00",
+   "title": "LiteLLM supply chain attack hoovers up passwords and secrets",
+   "link": "https://www.theregister.com/security/2026/10/21/litellm-supply-chain-attack-hoovers-up-passwords-and-secrets/5304548",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A critical software supply chain attack directly threatens credentials and system security.",
+   "summary": "A supply chain attack on LiteLLM has been reported for stealing sensitive passwords and secrets. This incident poses severe risks to DevOps pipelines and environments utilizing the affected tool.",
+   "vocab": [
+    {
+     "word": "supply chain",
+     "thai": "ห่วงโซ่อุปทาน",
+     "level": "B2",
+     "example": "LiteLLM supply chain attack hoovers up passwords and secrets."
+    },
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ",
+     "level": "B2",
+     "example": "Attackers target credentials to gain unauthorized access to cloud services."
+    },
+    {
+     "word": "compromise",
+     "thai": "การถูกเจาะระบบ / ทำให้เสียหาย",
+     "level": "B2",
+     "example": "Vulnerable packages can compromise the entire server infrastructure."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 8,
+   "extra_links": [
+    "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/"
+   ]
+  },
+  {
+   "id": 452,
+   "ts": "2026-10-22T02:46:26.401351+07:00",
+   "title": "AI will eat a fifth of tech budgets in 2027, but don't expect it to pay for itself",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/ai-will-eat-a-fifth-of-tech-budgets-in-2027-but-dont-expect-it-to-pay-for-itself/5304466",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Addresses enterprise IT budgeting and financial viability for major infrastructure investments.",
+   "summary": "Reports indicate that AI spending will consume a significant portion of tech budgets by 2027, though immediate financial returns remain uncertain. Organizations are urged to carefully evaluate their infrastructure investments.",
+   "vocab": [
+    {
+     "word": "allocation",
+     "thai": "การจัดสรร",
+     "level": "C1",
+     "example": "Budget allocation for AI projects continues to rise across enterprises."
+    },
+    {
+     "word": "return",
+     "thai": "ผลตอบแทน",
+     "level": "B2",
+     "example": "Companies want to ensure a positive return on their heavy infrastructure spending."
+    },
+    {
+     "word": "projection",
+     "thai": "การคาดการณ์",
+     "level": "B2",
+     "example": "Financial projections suggest high hardware costs will persist for years."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 453,
+   "ts": "2026-10-22T02:46:26.401384+07:00",
+   "title": "Signal bug could keep your mic - and camera - on after hangup",
+   "link": "https://www.theregister.com/security/2026/10/21/signal-bug-could-keep-your-mic-and-camera-on-after-hangup/5304528",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A severe security vulnerability affecting communication software privacy controls.",
+   "summary": "A discovered bug in Signal could potentially leave microphones and cameras active after a call has ended. Users and administrators are advised to apply updates immediately to prevent privacy breaches.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่",
+     "level": "B2",
+     "example": "This security vulnerability affects application permissions and user privacy."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขปัญหา",
+     "level": "C1",
+     "example": "Rapid remediation is required to close the security gap."
+    },
+    {
+     "word": "confidentiality",
+     "thai": "การรักษาความลับ",
+     "level": "C1",
+     "example": "The software bug threatens the confidentiality of user communications."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 454,
+   "ts": "2026-10-22T02:46:26.401415+07:00",
+   "title": "OpenBSD 8.0 beefs up virtual machines and gets a taste of Wine",
+   "link": "https://www.theregister.com/os-platforms/2026/10/21/openbsd-80-beefs-up-virtual-machines-and-gets-a-taste-of-wine/5304430",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Provides updates on operating system virtualization capabilities and server maintenance.",
+   "summary": "The latest release of OpenBSD introduces enhanced virtual machine support and new compatibility layers. These updates improve virtualization performance for system administrators.",
+   "vocab": [
+    {
+     "word": "virtualization",
+     "thai": "การจำลองเสมือน",
+     "level": "B2",
+     "example": "OpenBSD beefs up virtual machines and expands system capabilities."
+    },
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "New features improve compatibility with various software packages."
+    },
+    {
+     "word": "maintenance",
+     "thai": "การบำรุงรักษา",
+     "level": "B2",
+     "example": "Routine maintenance helps keep server operating systems secure and stable."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 455,
+   "ts": "2026-10-22T02:46:39.702621+07:00",
+   "title": "Jensen Huang sends in the robot ducks to sell Nvidia's AI-everywhere vision",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/jensen-huang-sends-in-the-robot-ducks-to-sell-nvidias-ai-everywhere-vision/5304472",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Nvidia announces new AI models, containerized data centers, and edge infrastructure strategies at a Berlin event.",
+   "summary": "Nvidia showcased new containerized data center designs and AI workflow models at its Berlin keynote presentation. The announcements highlight Nvidia's ongoing expansion into edge infrastructure and enterprise AI hardware deployments.",
+   "vocab": [
+    {
+     "word": "keynote",
+     "thai": "ปาฐกถาหลัก",
+     "level": "B2",
+     "example": "Jensen Huang delivered the keynote address outlining Nvidia's vision for AI infrastructure."
+    },
+    {
+     "word": "protester",
+     "thai": "ผู้ประท้วง",
+     "level": "B2",
+     "example": "Environmental protesters briefly interrupted the tech conference in Berlin."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งและใช้งาน",
+     "level": "B2",
+     "example": "Modular hardware designs aim to accelerate data center deployments significantly."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 456,
+   "ts": "2026-10-22T02:46:39.702679+07:00",
+   "title": "Introducing full transaction detection for Cloudflare WAF",
+   "link": "https://blog.cloudflare.com/full-transaction-waf/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "Cloudflare launches full transaction detection in its WAF to analyze HTTP requests and responses together, addressing advanced exploits.",
+   "summary": "Cloudflare has introduced full transaction detection to its web application firewall, allowing it to inspect both incoming requests and server responses. This capability helps block sophisticated exploits and zero-day vulnerabilities more effectively.",
+   "vocab": [
+    {
+     "word": "malicious",
+     "thai": "ที่เป็นอันตราย",
+     "level": "B2",
+     "example": "The security tool evaluates each HTTP request to determine if it is malicious."
+    },
+    {
+     "word": "inspection",
+     "thai": "การตรวจสอบ",
+     "level": "B2",
+     "example": "Request inspection remains an essential defense against common web attacks."
+    },
+    {
+     "word": "parameter",
+     "thai": "พารามิเตอร์, ตัวแปรควบคุม",
+     "level": "B2",
+     "example": "Custom rules let teams create policies using parameters like IP addresses and headers."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 457,
+   "ts": "2026-10-22T02:46:39.702791+07:00",
+   "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+   "link": "https://blog.cloudflare.com/webmcp-commerce/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Cloudflare and Commerce.com partner to implement WebMCP browser standards to help AI shopping agents interact with online storefronts.",
+   "summary": "Cloudflare and Commerce.com are integrating Google's WebMCP experimental browser standard to support automated AI shopping agents. This edge-level solution provides structured tools for agents without requiring merchants to rewrite their websites.",
+   "vocab": [
+    {
+     "word": "innocuous",
+     "thai": "ไม่เป็นอันตราย, เล็กน้อย",
+     "level": "C1",
+     "example": "Even an innocuous theme change on a website can break traditional AI shopping scripts."
+    },
+    {
+     "word": "experimental",
+     "thai": "เกี่ยวกับการทดลอง",
+     "level": "B2",
+     "example": "WebMCP is currently an experimental browser standard available behind flags."
+    },
+    {
+     "word": "merchant",
+     "thai": "พ่อค้าแม่ค้า, ผู้ขาย",
+     "level": "B2",
+     "example": "The platform allows merchants to keep control of their checkout process during agentic shopping."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 458,
+   "ts": "2026-10-22T02:46:39.702819+07:00",
+   "title": "Mistral Large 4",
+   "link": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Mistral releases Mistral Large 4, an open-weight multimodal model featuring a large context window and Mixture-of-Experts architecture.",
+   "summary": "Mistral has announced the public preview of Mistral Large 4, a state-of-the-art open-weight multimodal model. It utilizes a Mixture-of-Experts architecture with 52 billion active parameters and a 1-million token context window.",
+   "vocab": [
+    {
+     "word": "architecture",
+     "thai": "โครงสร้างสถาปัตยกรรม",
+     "level": "B2",
+     "example": "The model features a granular Mixture-of-Experts architecture for improved performance."
+    },
+    {
+     "word": "granular",
+     "thai": "ที่มีรายละเอียดมาก",
+     "level": "C1",
+     "example": "A granular approach to parameter management helps optimize model efficiency."
+    },
+    {
+     "word": "preview",
+     "thai": "การแสดงตัวอย่างก่อนเปิดตัวจริง",
+     "level": "B2",
+     "example": "The new AI model is currently available for public preview."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 459,
+   "ts": "2026-10-22T02:46:39.702916+07:00",
+   "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+   "link": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Deep dive into Windows 11 containing legacy Windows 95 memory management code via the EmulateHeap compatibility fix.",
+   "summary": "Technical investigation reveals that Windows 11 still includes compiled source code from the Windows 95 kernel. This legacy component is used by a compatibility feature called EmulateHeap to support very old applications.",
+   "vocab": [
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "The application compatibility framework helps older software run on modern operating systems."
+    },
+    {
+     "word": "quirk",
+     "thai": "ลักษณะเฉพาะตัว, ข้อพิลึก",
+     "level": "C1",
+     "example": "Some older programs relied on the specific quirks of the Windows 95 heap manager."
+    },
+    {
+     "word": "recompile",
+     "thai": "คอมไพล์โปรแกรมใหม่",
+     "level": "C1",
+     "example": "Microsoft had to recompile the old heap manager source code for use in modern Windows."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 10
   }
  ],
- "next_id": 440,
+ "next_id": 460,
  "vocab": [
   {
    "word": "commissioning",
