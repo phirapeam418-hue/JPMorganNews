@@ -994,7 +994,31 @@
   "https://docs.mistral.ai/models/mistral-large-4-0",
   "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
   "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-  "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/"
+  "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/openclaw-creator-says-he-spent-10-million-in-tokens-last-month/5304573",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/reach-new-heights-of-laziness-by-burning-tokens-to-let-an-ai-tap-your-smartphone-screen-for-you/5304567",
+  "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+  "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+  "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+  "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+  "https://claude.com/product/claude-duet",
+  "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+  "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+  "https://google.github.io/styleguide/rustguide.html",
+  "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+  "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+  "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+  "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+  "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+  "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+  "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+  "https://arstechnica.com/culture/2026/10/the-new-human-crafted-apple-music-brand-matters-in-an-ai-world/",
+  "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/",
+  "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+  "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+  "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+  "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+  "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/"
  ],
  "stories": [
   {
@@ -17928,9 +17952,627 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 10
+  },
+  {
+   "id": 460,
+   "ts": "2026-10-22T05:53:37.702173+07:00",
+   "title": "Railway Security Disclosure",
+   "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "A major cloud and platform security incident involving compromised environment variables directly threatens infrastructure credentials.",
+   "summary": "Cloud provider Railway suffered a security breach where encrypted environment variables and secrets may have been accessed. Users are strongly advised to roll all API keys and credentials immediately.",
+   "vocab": [
+    {
+     "word": "anomalous",
+     "thai": "ผิดปกติ",
+     "level": "C1",
+     "example": "Railway detected anomalous activity involving systems that store customer environment variables."
+    },
+    {
+     "word": "proactively",
+     "thai": "อย่างเชิงรุก",
+     "level": "B2",
+     "example": "We have notified these upstream providers to revoke all keys proactively."
+    },
+    {
+     "word": "precaution",
+     "thai": "การป้องกันล่วงหน้า",
+     "level": "B2",
+     "example": "We are recommending that all users take these actions as a precaution."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 10,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 461,
+   "ts": "2026-10-22T05:53:37.702228+07:00",
+   "title": "GitLab Critical Patch Release",
+   "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "source": "Hacker News",
+   "score": 10,
+   "watch": false,
+   "reason": "A critical severity zero-day vulnerability in self-managed DevOps tools requires immediate patching to prevent remote code execution.",
+   "summary": "GitLab has released urgent security patches to fix a critical integer overflow vulnerability in its regular expression compiler. Unauthenticated attackers could potentially execute arbitrary code on affected self-managed servers.",
+   "vocab": [
+    {
+     "word": "remediate",
+     "thai": "แก้ไขปัญหา",
+     "level": "C1",
+     "example": "GitLab has remediated an issue that could have allowed an unauthenticated user to execute arbitrary code."
+    },
+    {
+     "word": "hygiene",
+     "thai": "สุขอนามัย (ความสะอาดปลอดภัยในระบบ)",
+     "level": "B2",
+     "example": "To maintain good security hygiene, it is highly recommended that all customers upgrade."
+    },
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจ (ไม่เจาะจง)",
+     "level": "C1",
+     "example": "An unauthenticated user could execute arbitrary code on the GitLab server."
+    }
+   ],
+   "status": "night",
+   "impact": 10,
+   "urgency": 10,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 462,
+   "ts": "2026-10-22T05:53:37.702254+07:00",
+   "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+   "link": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical cryptographic failure affecting certificate authorities directly impacts internet-wide trust and secure server infrastructure.",
+   "summary": "Security researchers discovered that several certificate authority private keys issued by eMudhra were trivially weak single-byte numbers. Major browser vendors quickly blocked the compromised certificates to protect web security.",
+   "vocab": [
+    {
+     "word": "inherently",
+     "thai": "โดยธรรมชาติของมัน",
+     "level": "C1",
+     "example": "They are inherently weak single-byte keys that anyone can factor."
+    },
+    {
+     "word": "factor",
+     "thai": "แยกตัวประกอบ",
+     "level": "B2",
+     "example": "They are inherently weak single-byte keys that anyone can factor."
+    },
+    {
+     "word": "brute-force",
+     "thai": "การลองผิดลองถูกทุกความเป็นไปได้",
+     "level": "B2",
+     "example": "I pulled all 16 certificates and brute-forced them."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 463,
+   "ts": "2026-10-22T05:53:37.702274+07:00",
+   "title": "Claude Duet",
+   "link": "https://claude.com/product/claude-duet",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Announcement of a new AI assistant tool aimed at productivity, with minor direct relevance to systems operations.",
+   "summary": "Anthropic introduced Claude Duet, a proactive AI assistant designed to handle background tasks and manage workflows across connected apps. The tool operates in a cloud environment and alerts users only when important decisions are needed.",
+   "vocab": [
+    {
+     "word": "proactive",
+     "thai": "ที่กระทำก่อนโดยไม่ต้องรอให้เกิดปัญหา",
+     "level": "B2",
+     "example": "Claude Duet is a proactive agent that understands what needs your attention."
+    },
+    {
+     "word": "standalone",
+     "thai": "ที่ทำงานด้วยตัวเองได้โดยไม่ต้องพึ่งพาผู้อื่น",
+     "level": "B2",
+     "example": "Claude Duet is a standalone app for iOS and Android."
+    },
+    {
+     "word": "miscalibrate",
+     "thai": "ประเมินค่าผิดพลาด",
+     "level": "C1",
+     "example": "It may misread a thread or miscalibrate what’s urgent."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 464,
+   "ts": "2026-10-22T05:53:37.702295+07:00",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "A massive legal penalty for a major tech company regarding data privacy does not directly change day-to-day infrastructure work.",
+   "summary": "A New Mexico court ordered Meta to pay a $25 billion penalty following a trial over data privacy violations tied to the Cambridge Analytica scandal. Meta criticized the ruling and stated its intention to appeal the decision.",
+   "vocab": [
+    {
+     "word": "liable",
+     "thai": "ที่มีความรับผิดชอบตามกฎหมาย",
+     "level": "B2",
+     "example": "A jury found the social media giant liable for misleading state citizens."
+    },
+    {
+     "word": "transgression",
+     "thai": "การกระทำผิดกฎ",
+     "level": "C1",
+     "example": "Each transgression carrying a civil penalty as high as $5,000."
+    },
+    {
+     "word": "accrue",
+     "thai": "สะสมเพิ่มขึ้นตามเวลา",
+     "level": "C1",
+     "example": "Interest on the penalty shall accrue at the rate of 15% each year."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 465,
+   "ts": "2026-10-22T05:53:51.934058+07:00",
+   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+   "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "This security advisory details critical remote code execution vulnerabilities in PHP, directly affecting server operations.",
+   "summary": "Two critical vulnerabilities in PHP web runtimes allow unauthenticated attackers to execute arbitrary code or cause service outages. System administrators must promptly update to patched versions to protect their applications.",
+   "vocab": [
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจ / ไม่แน่นอน",
+     "level": "C1",
+     "example": "A remote caller can send crafted web requests to affected PHP workers and execute arbitrary code."
+    },
+    {
+     "word": "unauthenticated",
+     "thai": "ไม่ได้ยืนยันตัวตน",
+     "level": "C1",
+     "example": "This issue is accessible remotely by an actor without authentication."
+    },
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทาผลกระทบ",
+     "level": "C1",
+     "example": "Upgrading immediately to a patched PHP release is the only complete fix, though configuration changes may reduce impact."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 10,
+   "extra_links": [
+    "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+   ]
+  },
+  {
+   "id": 466,
+   "ts": "2026-10-22T05:53:51.934095+07:00",
+   "title": "Google's Rust Style Guide",
+   "link": "https://google.github.io/styleguide/rustguide.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This is an internal style guide for Google's Rust usage, which is useful for developers but has low immediate operational impact.",
+   "summary": "Google published its internal style guide for the Rust programming language to ensure code consistency and readability. The guidelines help streamline large-scale codebase refactoring and maintain high software quality across teams.",
+   "vocab": [
+    {
+     "word": "consistency",
+     "thai": "ความสอดคล้อง / ความเป็นระเบียบเรียบร้อยเดียวกัน",
+     "level": "B2",
+     "example": "In addition to bringing consistency to our Rust code, style guidance also helps establish a standard of quality."
+    },
+    {
+     "word": "refactor",
+     "thai": "ปรับปรุงโครงสร้างโค้ด",
+     "level": "C1",
+     "example": "Large codebases occasionally need to run codebase-spanning refactorings that are assisted by tooling."
+    },
+    {
+     "word": "deviate",
+     "thai": "เบี่ยงเบน / แตกต่างออกไป",
+     "level": "C1",
+     "example": "Why does the guidance in this style guide deviate from regular Rust style rules?"
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 467,
+   "ts": "2026-10-22T05:53:51.934120+07:00",
+   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+   "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "The release of DuckDB 2.0.0 LTS introduces new server protocols and async features relevant to database administrators.",
+   "summary": "DuckDB released version 2.0.0 LTS codenamed 'Cinnamon Teal,' marking its largest feature update to date. The new release adds native client-server protocols, asynchronous I/O, and improved database ergonomics.",
+   "vocab": [
+    {
+     "word": "ergonomics",
+     "thai": "หลักการออกแบบที่ใช้งานง่ายสะดวกสบาย",
+     "level": "C1",
+     "example": "It also introduces the new CONNECT statement that allows attaching and switching to a remote database in a single command for better ergonomics."
+    },
+    {
+     "word": "substantially",
+     "thai": "อย่างมาก / เป็นสำคัญ",
+     "level": "B2",
+     "example": "DuckDB 2.0.0 ships a polished version of the Quack protocol with substantial performance and stability improvements."
+    },
+    {
+     "word": "transition",
+     "thai": "การเปลี่ยนผ่าน",
+     "level": "B2",
+     "example": "To ensure a smooth transition, we extended the support period of DuckDB 1.5."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 468,
+   "ts": "2026-10-22T05:53:51.934159+07:00",
+   "title": "EA is shutting down BioWare",
+   "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "The closure of BioWare and mass layoffs at EA are major gaming industry news items, but outside core infrastructure or DevOps operations.",
+   "summary": "Electronic Arts has confirmed the shutdown of legendary game studio BioWare alongside hundreds of corporate layoffs. The closure also halts early development on the next planned installment in the Mass Effect franchise.",
+   "vocab": [
+    {
+     "word": "franchise",
+     "thai": "แฟรนไชส์ / ชุดผลงานต่อเนื่อง",
+     "level": "B2",
+     "example": "2017’s Mass Effect: Andromeda was widely seen as a misstep for that franchise."
+    },
+    {
+     "word": "expectations",
+     "thai": "ความคาดหวัง",
+     "level": "B2",
+     "example": "EA laid off some BioWare staff after Dragon Age: The Veilguard missed sales expectations."
+    },
+    {
+     "word": "spokesperson",
+     "thai": "โฆษก",
+     "level": "B2",
+     "example": "Amazon MGM Studios spokesperson Nate Kirtman declined to comment."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 10,
+   "extra_links": [
+    "https://arstechnica.com/gaming/2026/10/rip-bioware-ea-shuts-down-storied-rpg-studio-after-over-three-decades/"
+   ]
+  },
+  {
+   "id": 469,
+   "ts": "2026-10-22T05:53:51.934186+07:00",
+   "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+   "link": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Microsoft introducing metered hourly pricing for cloud gaming is consumer gaming news rather than infrastructure or data center operations.",
+   "summary": "Microsoft is rolling out a la carte cloud playtime pricing for Xbox Insiders to stream games they already own. Users can purchase hourly packages ranging from 24 to 40 cents per hour depending on the bundle size.",
+   "vocab": [
+    {
+     "word": "introductory",
+     "thai": "สำหรับการเปิดตัวครั้งแรก",
+     "level": "B2",
+     "example": "The introductory launch pricing for Xbox’s Cloud Playtime purchases is now available to testers."
+    },
+    {
+     "word": "proposition",
+     "thai": "ข้อเสนอ / ข้อเสนอทางธุรกิจ",
+     "level": "C1",
+     "example": "That made the overall value proposition quite different compared to other streaming services."
+    },
+    {
+     "word": "subscriber",
+     "thai": "ผู้สมัครสมาชิก",
+     "level": "B2",
+     "example": "Microsoft severely limited the game-streaming buffet available to Game Pass subscribers."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 470,
+   "ts": "2026-10-22T05:53:51.934211+07:00",
+   "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
+   "link": "https://arstechnica.com/information-technology/2026/10/survey-enterprises-waste-28-percent-of-software-budgets-on-unwanted-upgrades/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "This survey report highlights enterprise IT budget inefficiencies and vendor upgrade pressures, touching on infrastructure software management.",
+   "summary": "A new survey indicates that large enterprises spend significant portions of their IT budgets on unwanted software upgrades and licensing changes. Many IT leaders feel forced into these purchases to maintain vital vendor support despite expected performance drawbacks.",
+   "vocab": [
+    {
+     "word": "detrimental",
+     "thai": "เป็นอันตราย / ส่งผลเสีย",
+     "level": "C1",
+     "example": "Often, those firms’ IT heads think those changes are detrimental."
+    },
+    {
+     "word": "negotiation",
+     "thai": "การเจรจาต่อรอง",
+     "level": "B2",
+     "example": "Seventy-six percent say their organization has very little real leverage in negotiations."
+    },
+    {
+     "word": "rational",
+     "thai": "มีเหตุผล",
+     "level": "B2",
+     "example": "Saying yes to an unwanted upgrade is often a rational response to protect running systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 471,
+   "ts": "2026-10-22T05:54:06.374756+07:00",
+   "title": "Tesla profits drop 43% in Q3",
+   "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Financial earnings report for Tesla, low direct impact on data center infrastructure operations.",
+   "summary": "Tesla reported a 43 percent drop in net profit for the third quarter of 2026 due to rising operating expenses and capital investments. Despite steady overall revenue, declining automotive and energy storage margins highlight financial pressures on the company.",
+   "vocab": [
+    {
+     "word": "projection",
+     "thai": "การคาดการณ์",
+     "level": "B2",
+     "example": "Tesla beat analyst projections despite selling fewer cars."
+    },
+    {
+     "word": "expenditure",
+     "thai": "รายจ่าย",
+     "level": "C1",
+     "example": "Capital expenditures were up by 110 percent."
+    },
+    {
+     "word": "decline",
+     "thai": "การลดลง",
+     "level": "B2",
+     "example": "Revenue fell 16 percent year over year."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 472,
+   "ts": "2026-10-22T05:54:06.374916+07:00",
+   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Major cloud and AI infrastructure news as OpenAI frontier models launch on Google Cloud.",
+   "summary": "OpenAI's latest GPT models are expanding to Google Cloud and Google's agent-powered coding tool, Antigravity. Enterprise customers will soon be able to run advanced LLMs directly on Google infrastructure using existing spending commitments.",
+   "vocab": [
+    {
+     "word": "assortment",
+     "thai": "การรวบรวมหลากหลาย",
+     "level": "C1",
+     "example": "Adding to its 200-plus options, the garden offers an assortment of open models."
+    },
+    {
+     "word": "latency",
+     "thai": "เวลาหน่วง",
+     "level": "C2",
+     "example": "Dynamically moving workloads based on performance, latency, and efficiency."
+    },
+    {
+     "word": "commitment",
+     "thai": "ข้อผูกพัน",
+     "level": "B2",
+     "example": "Businesses with established Google Cloud spending commitments."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 473,
+   "ts": "2026-10-22T05:54:06.374951+07:00",
+   "title": "Report: Musk ordered Starlink slowdown in Ukraine, then blamed it on Trump",
+   "link": "https://arstechnica.com/tech-policy/2026/10/report-says-musk-not-trump-ordered-starlink-throttling-that-blindsided-ukraine/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Concerns critical satellite networking infrastructure, connectivity restrictions, and geopolitics.",
+   "summary": "Reports indicate that Elon Musk ordered a speed restriction on Ukraine's military-grade Starlink network to limit drone performance. The sudden throttling sparked confusion and operational challenges for Ukrainian forces on the ground.",
+   "vocab": [
+    {
+     "word": "restriction",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Ukrainian officials are objecting to new restrictions on Starshield."
+    },
+    {
+     "word": "variant",
+     "thai": "รุ่นย่อย",
+     "level": "B2",
+     "example": "The military variant of the Starlink satellite service."
+    },
+    {
+     "word": "interchangeably",
+     "thai": "ใช้แทนกันได้",
+     "level": "C1",
+     "example": "The Starlink and Starshield names are often used interchangeably."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 8,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 474,
+   "ts": "2026-10-22T05:54:06.374982+07:00",
+   "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+   "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts data center environmental compliance, legal liabilities, and local operations.",
+   "summary": "A federal judge rejected an attempt by the Trump administration to let the EPA unilaterally dismiss citizen lawsuits over data center pollution. The ruling allows the NAACP's lawsuit against xAI's unpermitted gas turbines in Memphis to proceed.",
+   "vocab": [
+    {
+     "word": "injunction",
+     "thai": "คำสั่งศาลห้ามชั่วคราว",
+     "level": "C2",
+     "example": "The lawsuit sought an injunction requiring xAI to use better pollution controls."
+    },
+    {
+     "word": "unilateral",
+     "thai": "ฝ่ายเดียว",
+     "level": "C1",
+     "example": "The EPA does not have the power to unilaterally dismiss lawsuits."
+    },
+    {
+     "word": "provision",
+     "thai": "บทบัญญัติ",
+     "level": "B2",
+     "example": "A provision granting citizens a right to sue."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 475,
+   "ts": "2026-10-22T05:54:06.375012+07:00",
+   "title": "Does opting out of smart TV tracking work? Research finds “suspicious” traffic.",
+   "link": "https://arstechnica.com/gadgets/2026/10/does-opting-out-of-smart-tv-tracking-work-research-finds-suspicious-traffic/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Reveals privacy vulnerabilities, unexpected network traffic, and telemetry leaks in major OS platforms.",
+   "summary": "Researchers discovered that smart TVs running Samsung Tizen and Vizio OS continue sending tracking data to automatic content recognition endpoints even after users opt out. The persistent network traffic raises significant privacy concerns for consumers.",
+   "vocab": [
+    {
+     "word": "methodology",
+     "thai": "ระเบียบวิธีวิจัย",
+     "level": "C1",
+     "example": "Our methodology is designed to be reusable."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่คงอยู่ต่อเนื่อง",
+     "level": "B2",
+     "example": "Exhibited ACR-like behavior across additional usage scenarios."
+    },
+    {
+     "word": "endpoint",
+     "thai": "จุดสิ้นสุดปลายทาง",
+     "level": "C1",
+     "example": "Sending data to automatic content recognition endpoints."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 476,
+   "ts": "2026-10-22T05:54:06.375037+07:00",
+   "title": "SpaceX to attempt Starship catch on next flight, with eye on rapid cadence increase",
+   "link": "https://arstechnica.com/space/2026/10/spacex-will-attempt-to-reach-weekly-starship-launches-by-early-2027/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Major AI infrastructure news covering massive compute rollouts and physical rocket launches.",
+   "summary": "SpaceX revealed ambitious plans to deploy up to 10 GW of ground-based AI compute capacity by 2027. Meanwhile, the company is preparing for its next Starship flight to attempt catching both rocket stages with launch tower arms.",
+   "vocab": [
+    {
+     "word": "iteration",
+     "thai": "รอบการพัฒนา",
+     "level": "C1",
+     "example": "In its current iteration, SpaceX is largely a data company."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎระเบียบ",
+     "level": "B2",
+     "example": "One of the big hurdles is regulatory approval from the FAA."
+    },
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียม",
+     "level": "C1",
+     "example": "The Starlink Internet constellation and Starmind data center constellation."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9
   }
  ],
- "next_id": 460,
+ "next_id": 477,
  "vocab": [
   {
    "word": "commissioning",
