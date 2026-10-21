@@ -946,7 +946,31 @@
   "https://beyondloom.com/blog/fouryearsdecker.html",
   "https://www.dorchester3d.com/printing/blog/2020/11/zx-spectrum-next-laptop-version-2",
   "https://github.com/timriker/bzo",
-  "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
+  "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+  "https://www.datacenterdynamics.com/en/news/water-harvesting-firm-aquaria-launches-pilot-for-modular-onsite-water-supply-system-for-data-center-sector/",
+  "https://www.datacenterdynamics.com/en/news/amazon-withdraws-application-for-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+  "https://www.datacenterdynamics.com/en/news/northc-breaks-ground-on-data-center-in-geneva-switzerland/",
+  "https://www.datacenterdynamics.com/en/news/att-copper-retirement-pushes-on-as-carrier-reveals-just-1-still-using-legacy-technology/",
+  "https://www.datacenterdynamics.com/en/news/duos-secures-cloud-provider-as-customer-for-20mw-of-data-center-capacity/",
+  "https://www.datacenterdynamics.com/en/news/virgin-media-o2/",
+  "https://www.datacenterdynamics.com/en/news/atnorth-tops-out-latest-data-center-in-espoo-finland/",
+  "https://www.datacenterdynamics.com/en/news/equinix-epic-ai-data-center-colocation/",
+  "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
+  "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
+  "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
+  "https://www.datacenterdynamics.com/en/news/ntt-and-docomo-to-pilot-ai-controlled-base-stations-to-boost-renewable-use-and-support-demand-response/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-gtc-berlin-keynote-disrupted-by-greenpeace-activists/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
+  "https://www.datacenterdynamics.com/en/news/aselan-declares-198-satellite-astralink-constellation-for-sovereign-turkish-connectivity/",
+  "https://www.theregister.com/saas/2026/10/21/onedrive-gives-macs-a-million-things-to-keep-in-sync/5304442",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/ai-cuts-coding-time-but-its-also-filling-open-sources-inbox-with-crap/5304389",
+  "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+  "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+  "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+  "https://www.theregister.com/security/2026/10/21/eu-wants-bookingcom-to-check-out-of-its-scam-problem/5304413",
+  "https://www.theregister.com/offbeat/2026/10/21/java-crashes-the-departure-board-at-tyne-and-wear-metro/5304106",
+  "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+  "https://www.theregister.com/offbeat/2026/10/21/happiness-is-the-next-ai-kpi-if-oxford-boffins-have-their-way/5304253"
  ],
  "stories": [
   {
@@ -16574,9 +16598,589 @@
    "extra_links": [
     "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/"
    ]
+  },
+  {
+   "id": 424,
+   "ts": "2026-10-21T21:46:01.643235+07:00",
+   "title": "Water harvesting firm Aquaria launches pilot for modular onsite water supply system for data center sector",
+   "link": "https://www.datacenterdynamics.com/en/news/water-harvesting-firm-aquaria-launches-pilot-for-modular-onsite-water-supply-system-for-data-center-sector/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Water scarcity and utility connection delays are major hurdles for data center construction, though this atmospheric solution is still in its pilot phase.",
+   "summary": "Aquaria has launched a pilot program for a modular system that generates cooling water directly from ambient air. This technology aims to help data center developers bypass local water restrictions and utility moratoriums.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "More than 15 states weigh bans or moratoriums for new data centers this year."
+    },
+    {
+     "word": "retrofit",
+     "thai": "ดัดแปลงหรือติดตั้งส่วนประกอบเพิ่มเติมในระบบเดิม",
+     "level": "C1",
+     "example": "The company also said that the system can be retrofitted onto existing facilities."
+    },
+    {
+     "word": "circularity",
+     "thai": "การหมุนเวียนทรัพยากรเพื่อนำกลับมาใช้ใหม่",
+     "level": "C1",
+     "example": "Companies have developed systems to support more efficient water circularity and use."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 425,
+   "ts": "2026-10-21T21:46:01.643285+07:00",
+   "title": "Amazon withdraws application for data center campus at GWU site in Ashburn, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-withdraws-application-for-data-center-campus-at-gwu-site-in-ashburn-virginia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Amazon dropping an 800,000-square-foot campus in Loudoun County illustrates growing community pushback in the world's most critical data center hub.",
+   "summary": "Amazon has agreed to withdraw its proposal to build a data center campus on university land in Loudoun County, Virginia. Instead of pursuing legal action, the company will dedicate land to local housing and community facilities.",
+   "vocab": [
+    {
+     "word": "collaborative",
+     "thai": "ที่เกิดจากความร่วมมือกัน",
+     "level": "B2",
+     "example": "Through our collaborative conversations, Amazon has agreed to withdraw its proposed application."
+    },
+    {
+     "word": "forego",
+     "thai": "สละสิทธิ์หรือละเว้น",
+     "level": "C1",
+     "example": "Amazon has agreed to forego any legal action to realize data center development on this site."
+    },
+    {
+     "word": "attainable",
+     "thai": "ที่สามารถเอื้อมถึงหรือเข้าถึงได้",
+     "level": "B2",
+     "example": "Amazon has further committed to rezone the remainder of the land for attainable and market-rate housing."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 426,
+   "ts": "2026-10-21T21:46:01.643334+07:00",
+   "title": "AT&T copper retirement pushes on as carrier reveals just 1% still using legacy technology",
+   "link": "https://www.datacenterdynamics.com/en/news/att-copper-retirement-pushes-on-as-carrier-reveals-just-1-still-using-legacy-technology/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The retirement of legacy copper networks alters long-term enterprise connectivity options, but it is an ongoing multi-year transition.",
+   "summary": "AT&T revealed that only one percent of its eligible customer base still relies on legacy copper voice connections as it shifts users to fiber. The carrier plans to retire the vast majority of its copper footprint by 2029 to cut maintenance costs and prevent theft.",
+   "vocab": [
+    {
+     "word": "reiterate",
+     "thai": "กล่าวย้ำซ้ำ",
+     "level": "C1",
+     "example": "AT&T has reiterated the importance of its copper retirement plans."
+    },
+    {
+     "word": "prolonged",
+     "thai": "ยืดเยื้อหรือยาวนาน",
+     "level": "B2",
+     "example": "Outdated technology takes longer to repair, leading to prolonged disruptions for customers."
+    },
+    {
+     "word": "oblige",
+     "thai": "บังคับหรือกำหนดให้ปฏิบัติตาม",
+     "level": "B2",
+     "example": "It is obliged to continue to provide copper services in the state by the utilities commission."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 427,
+   "ts": "2026-10-21T21:46:01.643360+07:00",
+   "title": "Duos secures cloud provider as customer for 20MW of data center capacity",
+   "link": "https://www.datacenterdynamics.com/en/news/duos-secures-cloud-provider-as-customer-for-20mw-of-data-center-capacity/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The 20MW contract validates demand for edge colocation, but deployment is scheduled years out in 2027.",
+   "summary": "Duos Technologies has secured a 10-year colocation contract for 20 megawatts worth over 400 million dollars with a publicly traded cloud provider. The deployment is slated for mid-2027 as Duos expands its focus onto modular edge data centers.",
+   "vocab": [
+    {
+     "word": "colocation",
+     "thai": "การเช่าพื้นที่วางเซิร์ฟเวอร์ในศูนย์ข้อมูลส่วนกลาง",
+     "level": "C1",
+     "example": "Duos announced the signing of a new ten-year colocation agreement for 20MW of facility load."
+    },
+    {
+     "word": "pivot",
+     "thai": "การเปลี่ยนทิศทางหรือกลยุทธ์ทางธุรกิจ",
+     "level": "B2",
+     "example": "Duos, which previously developed rail technology, pivoted into data centers in 2024."
+    },
+    {
+     "word": "differentiate",
+     "thai": "สร้างความโดดเด่นหรือสร้างความแตกต่าง",
+     "level": "B2",
+     "example": "Our modular architecture continues to differentiate Duos in the marketplace."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 428,
+   "ts": "2026-10-21T21:46:01.643387+07:00",
+   "title": "European Commission accuses KKR of misleading EU regulators over €22bn Italian NetCo deal",
+   "link": "https://www.datacenterdynamics.com/en/news/virgin-media-o2/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Antitrust enforcement regarding European wholesale broadband infrastructure has indirect effects on carrier market dynamics, but little direct impact on DC operations.",
+   "summary": "The European Commission has accused private equity firm KKR of submitting misleading information regarding wholesale network pricing during its takeover of Telecom Italia's fixed-line assets. Regulators claim KKR breached commitments by raising access rates for third-party broadband operators.",
+   "vocab": [
+    {
+     "word": "unilaterally",
+     "thai": "โดยฝ่ายเดียวโดยไม่ปรึกษาหรือตกลงร่วมกัน",
+     "level": "C1",
+     "example": "Third-party operators said FiberCop unilaterally increased the price they paid under existing agreements."
+    },
+    {
+     "word": "negligently",
+     "thai": "อย่างประมาทเลินเล่อ",
+     "level": "C1",
+     "example": "The Commission took the view that KKR, at least negligently, submitted incorrect information."
+    },
+    {
+     "word": "allegation",
+     "thai": "ข้อกล่าวหา",
+     "level": "C1",
+     "example": "We will vigorously challenge these preliminary allegations in our response to the Statement of Objections."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 429,
+   "ts": "2026-10-21T21:46:01.643414+07:00",
+   "title": "atNorth tops out latest data center in Espoo, Finland",
+   "link": "https://www.datacenterdynamics.com/en/news/atnorth-tops-out-latest-data-center-in-espoo-finland/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This report documents a routine construction milestone for an existing facility expansion without operational disruption or novel technology.",
+   "summary": "Nordic operator atNorth has reached the structural topping-out phase for its FIN02 data center expansion near Helsinki. The 100-million-euro project will bring the site to 40 megawatts of capacity by late 2027.",
+   "vocab": [
+    {
+     "word": "topping out",
+     "thai": "พิธีวางคานหรือโครงสร้างชั้นบนสุดของอาคาร",
+     "level": "B2",
+     "example": "The company this week announced the topping out of its FIN02 expansion in Espoo."
+    },
+    {
+     "word": "outfit",
+     "thai": "องค์กรหรือหน่วยงาน",
+     "level": "B2",
+     "example": "Kerfi was a Swedish outfit with roots in a Nokia spin-off called Datapoint."
+    },
+    {
+     "word": "spin-off",
+     "thai": "บริษัทหรือกิจการที่แยกตัวออกมาเป็นอิสระ",
+     "level": "B2",
+     "example": "The business originated as a corporate spin-off before being merged into the group."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 430,
+   "ts": "2026-10-21T21:46:01.643438+07:00",
+   "title": "Equinix EPIC: Colo giant launches liquid-cooled testing environment for AI workloads",
+   "link": "https://www.datacenterdynamics.com/en/news/equinix-epic-ai-data-center-colocation/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Liquid cooling test facilities in primary colocation hubs allow infrastructure teams to validate high-density AI systems before production deployment.",
+   "summary": "Equinix has launched liquid-cooled testing centers across London, Paris, Frankfurt, and Osaka to help enterprises deploy high-density AI clusters. Infrastructure teams can test real-world CPU and GPU workloads and troubleshoot operational challenges before rolling them out broadly.",
+   "vocab": [
+    {
+     "word": "validation",
+     "thai": "การทดสอบและตรวจสอบความถูกต้องของระบบ",
+     "level": "C1",
+     "example": "The offering builds on its Solution Validation Centers, launched in 2024."
+    },
+    {
+     "word": "foray",
+     "thai": "การก้าวเข้าสู่ขอบเขตหรือบทบาทใหม่",
+     "level": "C2",
+     "example": "It marks Equinix’s latest foray into high-density AI infrastructure."
+    },
+    {
+     "word": "concept",
+     "thai": "แนวคิดหรือเค้าโครงเบื้องต้น",
+     "level": "B2",
+     "example": "We are working to accelerate the path from concept to production for our customers."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 248,
+   "sent_ts": "2026-10-21T21:46:02.428559+07:00"
+  },
+  {
+   "id": 431,
+   "ts": "2026-10-21T21:46:55.275668+07:00",
+   "title": "Crusoe plans Spark Liquid modular data center to support latest Nvidia GPUs",
+   "link": "https://www.datacenterdynamics.com/en/news/crusoe-plans-spark-liquid-modular-data-center-to-support-latest-nvidia-gpus/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts AI infrastructure operators looking at high-density modular liquid cooling solutions for next-gen Nvidia GPUs.",
+   "summary": "Crusoe has introduced Spark Liquid, a modular data center that supports up to 3.5MW per system using closed-loop liquid cooling. Designed for Nvidia's GB300 and Vera Rubin platforms, it enables rapid deployment of high-density AI clusters without continuous water consumption.",
+   "vocab": [
+    {
+     "word": "modular",
+     "thai": "ซึ่งประกอบด้วยชิ้นส่วนมาตรฐานที่ถอดประกอบได้",
+     "level": "B2",
+     "example": "Crusoe has developed a liquid-cooled version of its modular data center offering."
+    },
+    {
+     "word": "density",
+     "thai": "ความหนาแน่น",
+     "level": "B2",
+     "example": "It's a five-fold increase in computing density compared to the air-cooled version."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วงเวลา",
+     "level": "B2",
+     "example": "Certain verticals like physical AI are always looking at improving latency."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 432,
+   "ts": "2026-10-21T21:46:55.275711+07:00",
+   "title": "President Trump: Data center firms should offer local residents dividends to get communities on-side",
+   "link": "https://www.datacenterdynamics.com/en/news/president-trump-data-center-firms-should-offer-local-residents-dividends-to-get-communities-on-side/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights community opposition tactics and political discourse affecting data center siting and development costs in the US.",
+   "summary": "President Trump suggested data center operators pay direct financial dividends to local community members to counter public opposition to new builds. While not legally mandated, several developers have already begun offering cash credits or payments to secure local zoning approvals.",
+   "vocab": [
+    {
+     "word": "dividend",
+     "thai": "เงินปันผลหรือผลตอบแทน",
+     "level": "B2",
+     "example": "Data center firms should offer local residents dividends to get communities on-side."
+    },
+    {
+     "word": "opposition",
+     "thai": "การต่อต้านหรือคัดค้าน",
+     "level": "B2",
+     "example": "Offering cash is spurred by widespread growing opposition to data center developments."
+    },
+    {
+     "word": "mandate",
+     "thai": "ออกคำสั่งหรือบังคับใช้ตามกฎหมาย",
+     "level": "C1",
+     "example": "President Trump did not mention any future plans around potentially mandating community payouts."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 433,
+   "ts": "2026-10-21T21:46:55.275739+07:00",
+   "title": "Hitachi Energy teams up with Ansaldo to develop integrated power solutions for data center sector and grid",
+   "link": "https://www.datacenterdynamics.com/en/news/hitachi-energy-teams-up-with-ansaldo-to-develop-integrated-power-solutions-for-data-center-sector-and-grid/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Addresses large-scale power availability and grid interconnect solutions vital for growing hyperscale data center operations.",
+   "summary": "Hitachi Energy has partnered with Ansaldo Energia to build integrated power generation and grid transmission systems for data centers. The initiative aims to alleviate severe power delivery bottlenecks and accelerate time-to-power for energy-intensive AI facilities.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่นและคืนสภาพได้เร็ว",
+     "level": "C1",
+     "example": "We help customers unlock new capacity and build resilient energy systems."
+    },
+    {
+     "word": "complementary",
+     "thai": "ซึ่งส่งเสริมหรือเติมเต็มซึ่งกันและกัน",
+     "level": "C1",
+     "example": "By combining our complementary strengths, we accelerate time to power."
+    },
+    {
+     "word": "outpace",
+     "thai": "แซงหน้าหรือขยายตัวเร็วกว่า",
+     "level": "C1",
+     "example": "Power demand continues to outpace available infrastructure across the sector."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 434,
+   "ts": "2026-10-21T21:46:55.275765+07:00",
+   "title": "NTT and Docomo to pilot AI-controlled base stations to boost renewable use and support demand response",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-and-docomo-to-pilot-ai-controlled-base-stations-to-boost-renewable-use-and-support-demand-response/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Showcases edge workload shifting and battery storage management techniques that could apply to distributed data center grids.",
+   "summary": "NTT and Docomo are piloting an AI-powered system that dynamically shifts communications workloads and controls battery storage at base stations to maximize renewable energy use. The proof-of-concept could eventually be expanded to data centers to balance grid demand during supply crunches.",
+   "vocab": [
+    {
+     "word": "demonstration",
+     "thai": "การสาธิตหรือทดสอบนำร่อง",
+     "level": "B2",
+     "example": "The companies have launched a joint demonstration to verify the new technology's effectiveness."
+    },
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิมหรือตามแบบแผน",
+     "level": "B2",
+     "example": "Conventional base stations have generally used independently controlled communications equipment."
+    },
+    {
+     "word": "continuity",
+     "thai": "ความต่อเนื่อง",
+     "level": "C1",
+     "example": "The project will seek to improve the continuity of communications services during disasters."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 435,
+   "ts": "2026-10-21T21:46:55.275817+07:00",
+   "title": "Nvidia launches DSX POD, claims the Vera-Rubin reference architecture will make AI data centers more water and energy efficient",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-launches-dsx-pod-claims-the-vera-rubin-reference-architecture-will-make-ai-data-centers-more-water-and-energy-efficient/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Announces major reference architecture (DSX POD) directly influencing future AI data center cooling, power budgeting, and modular builds.",
+   "summary": "Nvidia introduced DSX POD, a modular containerized architecture for Vera Rubin AI clusters that cuts deployment time down to 14 days. The design uses closed-loop liquid cooling with dry coolers to eliminate water waste and incorporates software to adjust power use dynamically with the electrical grid.",
+   "vocab": [
+    {
+     "word": "architecture",
+     "thai": "สถาปัตยกรรมโครงสร้างระบบ",
+     "level": "B2",
+     "example": "Nvidia claimed its DSX reference architecture will make facilities more water-efficient."
+    },
+    {
+     "word": "evaporation",
+     "thai": "การระเหยกลายเป็นไอ",
+     "level": "B2",
+     "example": "The design combines closed-loop liquid cooling with heat rejection that avoids evaporation."
+    },
+    {
+     "word": "provision",
+     "thai": "จัดสรรหรือเตรียมสำรองไว้",
+     "level": "C1",
+     "example": "It dynamically allocates power within an AI data center's provisioned budget."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 249,
+   "sent_ts": "2026-10-21T21:46:55.787310+07:00"
+  },
+  {
+   "id": 436,
+   "ts": "2026-10-21T21:47:59.498778+07:00",
+   "title": "AI has 'potential' to turn script kiddies into sophisticated infrastructure attackers",
+   "link": "https://www.theregister.com/security/2026/10/21/ai-has-potential-to-turn-script-kiddies-into-sophisticated-infrastructure-attackers/5304297",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "AI tools lowering the barrier for complex cyberattacks directly threatens infrastructure security.",
+   "summary": "Security analysts warn that generative AI could help unskilled hackers execute advanced attacks against enterprise infrastructure. Operations teams must prepare defenses against automated attacks that were previously limited to elite cybercriminals.",
+   "vocab": [
+    {
+     "word": "sophisticated",
+     "thai": "ซับซ้อนและมีทักษะสูง",
+     "level": "B2",
+     "example": "AI has potential to turn script kiddies into sophisticated infrastructure attackers."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "B2",
+     "example": "Law enforcement took down several foreign propaganda sites."
+    },
+    {
+     "word": "ransomware",
+     "thai": "มัลแวร์เรียกค่าไถ่",
+     "level": "B2",
+     "example": "Ten years since the first corporate ransomware, experts see no end in sight."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 437,
+   "ts": "2026-10-21T21:47:59.498816+07:00",
+   "title": "Nvidia <span class=\"t42\">picks OpenShell to </span>tame AI gents",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/21/nvidia-picks-openshell-to-tame-ai-gents/5304319",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Management tooling for AI agents affects teams operating specialized AI clusters and runtime environments.",
+   "summary": "Nvidia is adopting OpenShell to securely manage and isolate autonomous AI agents. This development provides infrastructure operators with better controls as agent-based workloads enter production environments.",
+   "vocab": [
+    {
+     "word": "tame",
+     "thai": "ควบคุมหรือจัดการให้อยู่ในระเบียบ",
+     "level": "B2",
+     "example": "Nvidia picks OpenShell to tame AI agents."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่คงอยู่ตลอดหรือทำงานต่อเนื่อง",
+     "level": "B2",
+     "example": "Persistent agents appeal to AI companies, but enterprise demand is still developing."
+    },
+    {
+     "word": "interim",
+     "thai": "ชั่วคราวหรือระหว่างกาล",
+     "level": "B2",
+     "example": "Ubuntu interim releases are getting interesting again for early adopters."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 438,
+   "ts": "2026-10-21T21:47:59.498844+07:00",
+   "title": "Nvidia's grand plan for speeding up datacenter deployments: AI trailer parks",
+   "link": "https://www.theregister.com/on-prem/2026/10/21/nvidias-grand-plan-for-speeding-up-datacenter-deployments-ai-trailer-parks/5304303",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Modular data center architecture directly concerns data center facility planning, deployment timelines, and power/cooling design.",
+   "summary": "Nvidia is promoting modular data center pods to cut AI infrastructure construction time from six months down to two weeks. This prefabricated approach could dramatically change how operators expand high-density GPU computing capacity.",
+   "vocab": [
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งหรือเริ่มใช้งานระบบ",
+     "level": "B2",
+     "example": "Modular bit barns could speed up deployments from six months to just two weeks."
+    },
+    {
+     "word": "modular",
+     "thai": "แบบแยกส่วนประกอบได้",
+     "level": "B2",
+     "example": "The company relies on modular designs to scale facilities quickly."
+    },
+    {
+     "word": "boast",
+     "thai": "คุยโม้หรือโอ้อวดสรรพคุณ",
+     "level": "B2",
+     "example": "Suppliers boast that pre-built modules will transform data center construction."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 439,
+   "ts": "2026-10-21T21:47:59.498912+07:00",
+   "title": "The spec is the new code, so brush up on your prose, says Kaseya CTO",
+   "link": "https://www.theregister.com/software/2026/10/21/the-spec-is-the-new-code-so-brush-up-on-your-prose-says-kaseya-cto/5304002",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Software engineering philosophy on AI prompting vs coding syntax is distant from daily data center operations.",
+   "summary": "The chief technology officer at Kaseya stated that writing clear technical specifications will soon matter more than coding syntax as AI writes code. This trend suggests engineering teams must place a higher priority on documentation and precise requirements.",
+   "vocab": [
+    {
+     "word": "expertise",
+     "thai": "ความรู้ความเชี่ยวชาญเฉพาะทาง",
+     "level": "B2",
+     "example": "Domain expertise and clear writing will matter more than programming syntax."
+    },
+    {
+     "word": "stake",
+     "thai": "สัดส่วนการลงทุนหรือหุ้นส่วน",
+     "level": "B2",
+     "example": "Governments should take an active stake in promising technology firms."
+    },
+    {
+     "word": "documentation",
+     "thai": "เอกสารกำกับระบบหรือคู่มือการใช้งาน",
+     "level": "B2",
+     "example": "Clear writing will become more important, and that means maintaining proper documentation."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 424,
+ "next_id": 440,
  "vocab": [
   {
    "word": "commissioning",
@@ -20523,6 +21127,46 @@
    "thai": "เกตเวย์, ประตูเชื่อมต่อเครือข่าย",
    "level": "B2",
    "example": "The proxy returned a 502 Bad Gateway error when reaching the origin server.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "validation",
+   "thai": "การทดสอบและตรวจสอบความถูกต้องของระบบ",
+   "level": "C1",
+   "example": "The offering builds on its Solution Validation Centers, launched in 2024.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "foray",
+   "thai": "การก้าวเข้าสู่ขอบเขตหรือบทบาทใหม่",
+   "level": "C2",
+   "example": "It marks Equinix’s latest foray into high-density AI infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concept",
+   "thai": "แนวคิดหรือเค้าโครงเบื้องต้น",
+   "level": "B2",
+   "example": "We are working to accelerate the path from concept to production for our customers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "evaporation",
+   "thai": "การระเหยกลายเป็นไอ",
+   "level": "B2",
+   "example": "The design combines closed-loop liquid cooling with heat rejection that avoids evaporation.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
