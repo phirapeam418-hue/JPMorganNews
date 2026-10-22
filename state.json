@@ -1069,7 +1069,31 @@
   "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
   "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
   "https://blog.cloudflare.com/k-isms/",
-  "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
+  "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+  "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
+  "https://www.datacenterdynamics.com/en/news/ibm-infrastructure-revenue-bounces-back-after-q2-drop/",
+  "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
+  "https://www.datacenterdynamics.com/en/analysis/a-new-neocloud-for-the-agentic-edge/",
+  "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
+  "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
+  "https://www.datacenterdynamics.com/en/news/dell-unveils-nvidia-vera-cpu-offerings-launches-its-first-groq-3-lpu-rack-scale-inference-solution/",
+  "https://www.datacenterdynamics.com/en/news/iraq-establishes-first-new-satellite-gateway-since-2003-supporting-security-aviation/",
+  "https://www.datacenterdynamics.com/en/news/att-ceo-john-stankey-not-getting-twisted-over-spacexs-spectrum-salvo/",
+  "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
+  "https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/",
+  "https://www.datacenterdynamics.com/en/whitepapers/avar-and-the-pursuit-of-operational-resilience/",
+  "https://www.datacenterdynamics.com/en/opinions/europes-ai-opportunity-will-be-defined-by-securing-delivery/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
+  "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
+  "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
+  "https://www.theregister.com/applications/2026/10/22/apple-app-store-review-process-hits-a-traffic-jam/5304802",
+  "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
+  "https://quad9.net/news/blog/au-revoir-france/",
+  "https://github.com/NVIDIA/OpenShell",
+  "https://github.com/oosexgang/hackios-xnu-kernel",
+  "https://www.taler.net/en/news/2026-13.html",
+  "https://pwn.watch/",
+  "https://jamesyu.org/award-winning-ai-literature/"
  ],
  "stories": [
   {
@@ -19846,10 +19870,769 @@
    "scale": 7,
    "credibility": 10,
    "msg_id": 273,
-   "sent_ts": "2026-10-22T21:51:23.427403+07:00"
+   "sent_ts": "2026-10-22T21:51:23.427403+07:00",
+   "extra_links": [
+    "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848"
+   ]
+  },
+  {
+   "id": 510,
+   "ts": "2026-10-23T02:37:33.560221+07:00",
+   "title": "Microsoft files for data center campus in Floyd County, Georgia",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-data-center-campus-in-floyd-county-georgia/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Microsoft has filed plans for a massive new 422MW data center campus in Georgia, directly impacting infrastructure planning.",
+   "summary": "Microsoft is planning a large three-building data center campus in Floyd County, Georgia, aiming for completion by 2032. The facility will require significant power capacity to support the company's growing cloud operations.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การได้มา",
+     "level": "B2",
+     "example": "Microsoft made an early property acquisition to secure land for the campus."
+    },
+    {
+     "word": "parcel",
+     "thai": "แปลงที่ดิน",
+     "level": "C1",
+     "example": "The company submitted an application for a large land parcel."
+    },
+    {
+     "word": "incorporate",
+     "thai": "รวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "The new site will incorporate several developments across the region."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 511,
+   "ts": "2026-10-23T02:37:33.560258+07:00",
+   "title": "IBM infrastructure revenue bounces back after Q2 drop",
+   "link": "https://www.datacenterdynamics.com/en/news/ibm-infrastructure-revenue-bounces-back-after-q2-drop/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "IBM reported its Q3 2026 financial results, showing growth in infrastructure revenue following a previous slump.",
+   "summary": "IBM's latest quarterly earnings reveal a rebound in infrastructure revenue after a challenging previous quarter. Mainframe demand remains steady across major enterprise sectors like banking and retail.",
+   "vocab": [
+    {
+     "word": "preliminary",
+     "thai": "เบื้องต้น",
+     "level": "B2",
+     "example": "The CEO shared preliminary financial results with investors."
+    },
+    {
+     "word": "shortfall",
+     "thai": "ยอดที่ขาดมือ",
+     "level": "C1",
+     "example": "The previous drop was mostly down to a shortfall in the infrastructure segment."
+    },
+    {
+     "word": "traction",
+     "thai": "ความนิยม, การตอบรับ",
+     "level": "B2",
+     "example": "Sovereign AI is beginning to gain traction among enterprise clients."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 512,
+   "ts": "2026-10-23T02:37:33.560276+07:00",
+   "title": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches Vera CPU rack",
+   "link": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "HPE expanded its Private Cloud AI offerings with mixed Nvidia hardware and new Vera CPU racks, directly affecting AI infrastructure.",
+   "summary": "Hewlett Packard Enterprise has updated its Private Cloud AI solution to support mixed Nvidia hardware configurations. The release includes a liquid-cooled Vera CPU rack designed to accelerate agentic AI workloads.",
+   "vocab": [
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มผลิตภัณฑ์",
+     "level": "B2",
+     "example": "HPE expanded its infrastructure portfolio to include new CPU racks."
+    },
+    {
+     "word": "utilization",
+     "thai": "การใช้ประโยชน์",
+     "level": "C1",
+     "example": "Scheduler software helps improve GPU utilization across different projects."
+    },
+    {
+     "word": "transparency",
+     "thai": "ความโปร่งใส",
+     "level": "B2",
+     "example": "Organizations require high standards of data security and transparency."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 513,
+   "ts": "2026-10-23T02:37:33.560291+07:00",
+   "title": "A new neocloud for the agentic Edge",
+   "link": "https://www.datacenterdynamics.com/en/analysis/a-new-neocloud-for-the-agentic-edge/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Private equity firms are funding a new edge neocloud using novel SambaNova chips for low-latency inference.",
+   "summary": "A new neocloud provider named Vector Core Compute has secured massive funding to build edge data centers. The venture aims to utilize custom AI chips for low-latency agentic AI applications close to customers.",
+   "vocab": [
+    {
+     "word": "spawn",
+     "thai": "ก่อให้เกิด",
+     "level": "C1",
+     "example": "Generative AI spawned a new generation of compute providers."
+    },
+    {
+     "word": "genesis",
+     "thai": "จุดเริ่มต้น",
+     "level": "C1",
+     "example": "That specific requirement was the genesis of the new hardware stack."
+    },
+    {
+     "word": "intentionally",
+     "thai": "โดยเจตนา",
+     "level": "B2",
+     "example": "The system is intentionally purpose-built to meet enterprise needs."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 514,
+   "ts": "2026-10-23T02:37:33.560306+07:00",
+   "title": "Arbol launches moratorium risk insurance coverage",
+   "link": "https://www.datacenterdynamics.com/en/news/arbol-launches-moratorium-risk-insurance-coverage/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A new insurance product covers data center moratorium risks, directly affecting real estate development and operations.",
+   "summary": "Arbol has launched an insurance line to protect developers against government moratoriums on data center construction. Public opposition and resource concerns have led hundreds of local and state authorities to pause new builds.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การระงับชั่วคราว",
+     "level": "C1",
+     "example": "Insurance covers financial losses from a sudden government moratorium."
+    },
+    {
+     "word": "suspend",
+     "thai": "ระงับชั่วคราว",
+     "level": "B2",
+     "example": "The action resulted in the suspension of data center construction."
+    },
+    {
+     "word": "litigate",
+     "thai": "ดำเนินคดี",
+     "level": "C2",
+     "example": "Developers have traditionally had to lobby or litigate these halts."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 515,
+   "ts": "2026-10-23T02:37:33.560319+07:00",
+   "title": "Google signs 1GW virtual power plant deal with Voltus",
+   "link": "https://www.datacenterdynamics.com/en/news/google-signs-1gw-virtual-power-plant-deal-with-voltus/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Google partnered with Voltus for a massive 1GW virtual power plant deal to manage grid capacity for data centers.",
+   "summary": "Google has expanded its agreement with Voltus to create a 1-gigawatt virtual power plant across the PJM region. The project uses decentralized industrial and residential assets to reduce grid stress during peak demand.",
+   "vocab": [
+    {
+     "word": "decentralized",
+     "thai": "แบบกระจายศูนย์",
+     "level": "C1",
+     "example": "The system acts as a decentralized power plant to balance the grid."
+    },
+    {
+     "word": "synchronize",
+     "thai": "ทำให้ประสานกัน",
+     "level": "B2",
+     "example": "Devices are synchronized and dispatched in response to grid needs."
+    },
+    {
+     "word": "accelerate",
+     "thai": "เร่งให้เร็วขึ้น",
+     "level": "B2",
+     "example": "The program is designed to accelerate data center development."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 516,
+   "ts": "2026-10-23T02:37:33.560335+07:00",
+   "title": "Dell unveils Nvidia Vera CPU offerings, launches its first Groq 3 LPU rack-scale inference solution",
+   "link": "https://www.datacenterdynamics.com/en/news/dell-unveils-nvidia-vera-cpu-offerings-launches-its-first-groq-3-lpu-rack-scale-inference-solution/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Dell unveiled new Nvidia Vera CPU servers and Groq 3 inference systems, expanding its enterprise AI lineup.",
+   "summary": "Dell Technologies has added Nvidia Vera CPU racks and Groq 3 LPU inference systems to its AI Factory portfolio. These new architectures are optimized for agentic AI workloads and high-throughput production environments.",
+   "vocab": [
+    {
+     "word": "comprise",
+     "thai": "ประกอบด้วย",
+     "level": "B2",
+     "example": "The server system comprises 256 Nvidia Vera CPUs in a single rack."
+    },
+    {
+     "word": "counterpart",
+     "thai": "สิ่งที่เทียบเท่ากัน",
+     "level": "C1",
+     "example": "The new server matches the cooling capabilities of its rack-scale counterpart."
+    },
+    {
+     "word": "competitive advantage",
+     "thai": "ความได้เปรียบทางการแข่งขัน",
+     "level": "B2",
+     "example": "AI infrastructure drives growth and provides a competitive advantage."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 517,
+   "ts": "2026-10-23T02:37:33.560351+07:00",
+   "title": "Iraq establishes first new satellite gateway since 2003, supporting security & aviation",
+   "link": "https://www.datacenterdynamics.com/en/news/iraq-establishes-first-new-satellite-gateway-since-2003-supporting-security-aviation/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Iraq inaugurated its first new satellite ground station since 2003, improving national communications and data security.",
+   "summary": "Iraq has opened a new satellite ground station in Baghdad to enhance government communications, aviation, and security. The teleport integrates satellite services with the nation's domestic fiber-optic infrastructure.",
+   "vocab": [
+    {
+     "word": "inaugurate",
+     "thai": "ทำพิธีเปิดอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The communications minister recently inaugurated the new Iraqi ground station."
+    },
+    {
+     "word": "terrestrial",
+     "thai": "เกี่ยวกับพื้นโลก",
+     "level": "C1",
+     "example": "The station integrates satellite connections with existing terrestrial networks."
+    },
+    {
+     "word": "delegation",
+     "thai": "คณะผู้แทน",
+     "level": "B2",
+     "example": "The ministry held talks with a visiting foreign delegation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 518,
+   "ts": "2026-10-23T02:37:46.333806+07:00",
+   "title": "AT&T CEO John Stankey not getting twisted over SpaceX’s spectrum salvo",
+   "link": "https://www.datacenterdynamics.com/en/news/att-ceo-john-stankey-not-getting-twisted-over-spacexs-spectrum-salvo/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "AT&T's CEO discusses the competitive threat of SpaceX's satellite spectrum and fixed-wireless access on telecom infrastructure.",
+   "summary": "AT&T CEO John Stankey downplayed SpaceX's recent spectrum acquisitions for Starlink Mobile, arguing that building a high-performance cellular network requires years of heavy terrestrial infrastructure investment. However, he acknowledged that satellite constellations could impact traditional fixed-wireless access services in rural areas.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "B2",
+     "example": "That deal has purchasing up to 14-megahertz of low-band spectrum from Grain Management in a major acquisition."
+    },
+    {
+     "word": "incumbent",
+     "thai": "ผู้ดำรงตำแหน่งปัจจุบัน, ผู้ครองตลาดเดิม",
+     "level": "C1",
+     "example": "Performance levels run on the infrastructure that most of the incumbent providers have today."
+    },
+    {
+     "word": "dearth",
+     "thai": "ความขาดแคลน",
+     "level": "C1",
+     "example": "That comment was pointed at SpaceX's current dearth of terrestrial infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 519,
+   "ts": "2026-10-23T02:37:46.333836+07:00",
+   "title": "Canada's Uniserve to launch 1MW data center in Vancouver",
+   "link": "https://www.datacenterdynamics.com/en/news/canadas-uniserve-to-launch-1mw-data-center-in-vancouver/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A new 1MW data center expansion in Vancouver targeting high-density AI and GPU workloads directly relates to regional cloud and infrastructure growth.",
+   "summary": "Canadian IT provider Uniserve is developing a new 1MW data center in Vancouver to expand its cloud and AI hosting capabilities. The facility is designed to support high-density workloads up to 30kW per rack and has already secured an enterprise GPU customer.",
+   "vocab": [
+    {
+     "word": "adjacent",
+     "thai": "ติดกัน, ใกล้เคียง",
+     "level": "B2",
+     "example": "Uniserve Communications Corporation is developing a new data center in Vancouver adjacent to its existing facility."
+    },
+    {
+     "word": "subsequently",
+     "thai": "ต่อมา",
+     "level": "B2",
+     "example": "It then subsequently announced it has entered into a lease to develop a data center next door."
+    },
+    {
+     "word": "disciplined",
+     "thai": "ที่มีระเบียบวินัย, รอบคอบ",
+     "level": "B2",
+     "example": "Our focus is on executing a disciplined expansion strategy that combines infrastructure and technical expertise."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 520,
+   "ts": "2026-10-23T02:37:46.333853+07:00",
+   "title": "Former OpenAI head of data centers joins Nvidia to help lead DSX Platform team",
+   "link": "https://www.datacenterdynamics.com/en/news/former-openai-head-of-data-centers-joins-nvidia-to-help-lead-dsx-platform-team/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "A high-profile executive move from OpenAI to Nvidia's AI infrastructure platform directly impacts major AI data center developments.",
+   "summary": "Chris Malone, the former head of data centers at OpenAI, has joined Nvidia as vice president of the DSX Platform team. He will help lead efforts on Nvidia's modular AI factory platforms designed to optimize power and cooling efficiency.",
+   "vocab": [
+    {
+     "word": "consolidated",
+     "thai": "รวมเข้าด้วยกัน",
+     "level": "C1",
+     "example": "The team was consolidated under Sachin Katti before further leadership changes occurred."
+    },
+    {
+     "word": "unorthodox",
+     "thai": "นอกรีต, ไม่ธรรมดา, แหวกแนว",
+     "level": "C1",
+     "example": "The company announced unorthodox plans to counter that dearth of terrestrial infrastructure."
+    },
+    {
+     "word": "modular",
+     "thai": "ที่เป็นโมดูล, แยกส่วนประกอบ",
+     "level": "B2",
+     "example": "Nvidia launched DSX POD, a modular version of the reference design for Vera Rubin-powered AI data centers."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 521,
+   "ts": "2026-10-23T02:37:46.333869+07:00",
+   "title": "AVAR and the pursuit of operational resilience",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/avar-and-the-pursuit-of-operational-resilience/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Operational resilience and uptime strategies are critical core topics for data center and infrastructure operations.",
+   "summary": "A recent whitepaper emphasizes that redundant equipment alone cannot guarantee data center uptime without unified operational discipline. It highlights hidden dependencies and the need to align personnel, power, cooling, and intelligence into a single defense strategy.",
+   "vocab": [
+    {
+     "word": "continuity",
+     "thai": "ความต่อเนื่อง",
+     "level": "C1",
+     "example": "True continuity is an operational discipline that only happens when your systems operate as one unified whole."
+    },
+    {
+     "word": "demonstrable",
+     "thai": "ที่พิสูจน์ให้เห็นได้ชัด",
+     "level": "C1",
+     "example": "The report reveals how to turn theoretical redundancy into demonstrable operational resilience."
+    },
+    {
+     "word": "governance",
+     "thai": "การกำกับดูแล",
+     "level": "C1",
+     "example": "Practical governance involves tracking key metrics to make facility readiness measurable and audit-ready."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 522,
+   "ts": "2026-10-23T02:37:46.333892+07:00",
+   "title": "Sponsored: Europe’s AI opportunity will be defined by securing delivery",
+   "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-opportunity-will-be-defined-by-securing-delivery/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Analysis on the shift from announced AI data center capacity to physical delivery bottlenecks directly affects infrastructure planning.",
+   "summary": "As the AI infrastructure market matures, the primary challenge is shifting from announcing massive multi-megawatt projects to actually delivering them. Physical bottlenecks like power availability, grid connection timelines, and permitting are becoming key investment criteria.",
+   "vocab": [
+    {
+     "word": "consequential",
+     "thai": "ที่มีความสำคัญ, ซึ่งส่งผลตามมา",
+     "level": "C1",
+     "example": "As the market matures, the more consequential question is no longer how many megawatts can be announced."
+    },
+    {
+     "word": "envelope",
+     "thai": "ขอบเขตจำกัด",
+     "level": "C2",
+     "example": "Demand is high, but the harder question is whether a project can be delivered within a credible cost envelope."
+    },
+    {
+     "word": "proposition",
+     "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
+     "level": "B2",
+     "example": "Delivery capability is therefore becoming part of the value proposition itself."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 523,
+   "ts": "2026-10-23T02:37:46.333913+07:00",
+   "title": "DCD Studio: How to build data centers with community involvement, with Chris Crosby of Compass Datacenters",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-build-data-centers-with-community-involvement-with-chris-crosby-of-compass-datacenters/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Data center siting and community engagement are important non-technical factors in infrastructure operations.",
+   "summary": "An industry interview discusses the complexities of data center siting, public perception, and community involvement. It stresses focusing on long-term business strategy rather than short-term build-to-exit mentalities.",
+   "vocab": [
+    {
+     "word": "siting",
+     "thai": "การเลือกสถานที่ตั้ง",
+     "level": "B2",
+     "example": "Seb Moss speaks with Chris Crosby about data center siting and community engagement."
+    },
+    {
+     "word": "perception",
+     "thai": "การรับรู้",
+     "level": "B2",
+     "example": "Public perception plays a major role in how local communities receive new hyperscale projects."
+    },
+    {
+     "word": "mentality",
+     "thai": "ทัศนคติ, กรอบความคิด",
+     "level": "B2",
+     "example": "The discussion focuses on long-term business strategy over a build-to-exit mentality."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 524,
+   "ts": "2026-10-23T02:37:46.333975+07:00",
+   "title": "PHP2Shell puts dozens of UK government services out of service",
+   "link": "https://www.theregister.com/security/2026/10/22/php2shell-puts-dozens-of-uk-government-services-out-of-service/5304840",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A major server and web service disruption affecting UK government services due to vulnerabilities.",
+   "summary": "A vulnerability or exploit dubbed PHP2Shell has knocked dozens of UK government web services offline. Ministers report 32 unavailable services and four partly disrupted, though no official data compromise has been confirmed yet.",
+   "vocab": [
+    {
+     "word": "unavailable",
+     "thai": "ไม่สามารถใช้งานได้",
+     "level": "B2",
+     "example": "Ministers report 32 unavailable services and four partly disrupted systems."
+    },
+    {
+     "word": "compromise",
+     "thai": "การถูกเจาะระบบ, การรั่วไหลของข้อมูล",
+     "level": "B2",
+     "example": "Ministers report 32 unavailable services and four partly disrupted, but no confirmed compromise."
+    },
+    {
+     "word": "disrupted",
+     "thai": "ถูกขัดจังหวะ, หยุดชะงัก",
+     "level": "B2",
+     "example": "Several government digital portals remain disrupted following the security incident."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 525,
+   "ts": "2026-10-23T02:37:59.775600+07:00",
+   "title": "When the attacker becomes the user: Rethinking account takeover",
+   "link": "https://www.theregister.com/security/2026/10/22/sponsored-when-the-attacker-becomes-the-user-rethinking-account-takeover/5303913",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Account takeover and AI-driven phishing campaigns directly impact security policies and identity management.",
+   "summary": "Sponsored content highlights how generative AI tools make phishing attacks easier and more convincing for malicious actors. Security teams must rethink user account takeover protections to defend against these advanced threats.",
+   "vocab": [
+    {
+     "word": "persuasion",
+     "thai": "การโน้มน้าวใจ",
+     "level": "B2",
+     "example": "Advanced phishing attacks rely on psychological persuasion rather than technical flaws."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัว (เช่น ชื่อผู้ใช้และรหัสผ่าน)",
+     "level": "B2",
+     "example": "Attackers constantly try to steal valid user credentials."
+    },
+    {
+     "word": "sophisticated",
+     "thai": "ซับซ้อน, พัฒนามาอย่างดี",
+     "level": "B2",
+     "example": "Modern cyber threats are far more sophisticated than older variants."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 526,
+   "ts": "2026-10-23T02:37:59.775627+07:00",
+   "title": "Quad9 (DNS Resolver) to Exit France",
+   "link": "https://quad9.net/news/blog/au-revoir-france/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Quad9 exiting France due to a court order affects regional DNS resolution, routing, and internet governance.",
+   "summary": "Quad9 is withdrawing its free cyberprotection and recursive DNS services from France after losing a major court battle. The ruling forces them to block specific domain names, which violates their core mission of neutrality and privacy.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "B2",
+     "example": "Legal compliance is mandatory for all operating networks."
+    },
+    {
+     "word": "neutrality",
+     "thai": "ความเป็นกลาง",
+     "level": "B2",
+     "example": "Network neutrality ensures all internet traffic is treated equally."
+    },
+    {
+     "word": "unfavorable",
+     "thai": "ไม่เป็นผลดี, ไม่น่าพอใจ",
+     "level": "B2",
+     "example": "The court handed down an unfavorable ruling against the provider."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 527,
+   "ts": "2026-10-23T02:37:59.775641+07:00",
+   "title": "Nvidia OpenShell",
+   "link": "https://github.com/NVIDIA/OpenShell",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Nvidia OpenShell provides kernel-level runtime security and sandboxing for autonomous AI agents, crucial for AI infrastructure.",
+   "summary": "Nvidia released OpenShell, a secure runtime designed to govern fleets of autonomous AI agents through kernel-level enforcement and formal verification. It restricts what files and networks agents can access without blocking their overall productivity.",
+   "vocab": [
+    {
+     "word": "runtime",
+     "thai": "สภาพแวดล้อมขณะโปรแกรมกำลังทำงาน",
+     "level": "B2",
+     "example": "The application requires a secure runtime environment to execute safely."
+    },
+    {
+     "word": "enforcement",
+     "thai": "การบังคับใช้",
+     "level": "B2",
+     "example": "Strict security policy enforcement prevents unauthorized access."
+    },
+    {
+     "word": "verification",
+     "thai": "การตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "Formal verification checks policy changes before they are applied."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 528,
+   "ts": "2026-10-23T02:37:59.775655+07:00",
+   "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+   "link": "https://github.com/oosexgang/hackios-xnu-kernel",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Running iOS firmware on Android devices is an impressive software engineering feat, but lacks broad enterprise infrastructure relevance.",
+   "summary": "Independent developers have successfully booted the iOS 16.5 XNU kernel and user space on select Android hardware using custom UEFI loaders and compatibility layers. This research project demonstrates impressive cross-platform virtualization without using official Apple files.",
+   "vocab": [
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "A compatibility layer allows software designed for one system to run on another."
+    },
+    {
+     "word": "virtualization",
+     "thai": "การทำเสมือนจริง",
+     "level": "C1",
+     "example": "Hardware virtualization lets multiple operating systems share physical resources."
+    },
+    {
+     "word": "independent",
+     "thai": "ที่เป็นอิสระ, แยกเป็นเอกเทศ",
+     "level": "B2",
+     "example": "This independent research project is not affiliated with any major vendor."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 529,
+   "ts": "2026-10-23T02:37:59.775667+07:00",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "link": "https://www.taler.net/en/news/2026-13.html",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "GNU Taler setting up a regulated German entity for digital payments is financial technology news rather than core infrastructure operations.",
+   "summary": "The NGI Taler project is founding Taler Operations AG in Germany to act as a regulated electronic money issuer for Euro transactions. This step allows the alternative payment system to seek formal licensing from BaFin and expand across the European market.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทร่วมทุน",
+     "level": "C1",
+     "example": "Several technology firms formed a consortium to develop the new standard."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎข้อบังคับ",
+     "level": "B2",
+     "example": "The company must secure regulatory approval before launching financial services."
+    },
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทในเครือ",
+     "level": "B2",
+     "example": "The new firm operates as a subsidiary of a larger European corporation."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 530,
+   "ts": "2026-10-23T02:37:59.775677+07:00",
+   "title": "What's Getting Pwned",
+   "link": "https://pwn.watch/",
+   "source": "Hacker News",
+   "score": 10,
+   "watch": false,
+   "reason": "Critical zero-day vulnerabilities in enterprise network orchestrators and Linux kernels directly threaten server infrastructure security.",
+   "summary": "Security tracking reveals critical unpatched vulnerabilities and active exploits, including an Arista VeloCloud Orchestrator SQL injection and leaked Linux kernel remote code execution bugs. Infrastructure administrators must review and apply patches immediately to prevent unauthorized access.",
+   "vocab": [
+    {
+     "word": "exploit",
+     "thai": "ช่องโหว่ที่ถูกนำมาใช้โจมตี",
+     "level": "B2",
+     "example": "Attackers actively deploy an exploit to target unpatched servers."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อน, ช่องโหว่",
+     "level": "B2",
+     "example": "System administrators must scan their networks for any known vulnerability."
+    },
+    {
+     "word": "privilege",
+     "thai": "สิทธิ์พิเศษในการเข้าถึงระบบ",
+     "level": "B2",
+     "example": "The flaw allowed authenticated users to gain elevated operator privileges."
+    }
+   ],
+   "status": "night",
+   "impact": 10,
+   "urgency": 10,
+   "scale": 9,
+   "credibility": 9
   }
  ],
- "next_id": 510,
+ "next_id": 531,
  "vocab": [
   {
    "word": "commissioning",
