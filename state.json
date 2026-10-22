@@ -21166,7 +21166,7 @@
    "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูล",
    "level": "B2",
    "example": "Attackers disguised as technical support launched phishing attacks to steal credentials.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21486,7 +21486,7 @@
    "thai": "ตามข้อบัญญัติของกฎหมาย",
    "level": "C1",
    "example": "Not only does this agreement satisfy the statutory requirement, it exceeds it substantially.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22056,7 +22056,7 @@
    "thai": "ความยืดหยุ่นในการคืนสภาพ",
    "level": "C1",
    "example": "Continuous monitoring can improve power distribution resilience.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22566,7 +22566,7 @@
    "thai": "กลไก",
    "level": "B2",
    "example": "How this works under the hood varies depending on the platform's mechanism.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22806,7 +22806,7 @@
    "thai": "การยืนยันตัวตน",
    "level": "B2",
    "example": "Downloads require authentication, so add the repository and credentials to your build to resolve them.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24299,6 +24299,26 @@
   "6253398384984458075": {
    "word": "predictable",
    "correct": 1
+  },
+  "6257978100022248467": {
+   "word": "statutory",
+   "correct": 2
+  },
+  "6257978100022248468": {
+   "word": "authentication",
+   "correct": 0
+  },
+  "6257978100022248469": {
+   "word": "resilience",
+   "correct": 0
+  },
+  "6257978100022248470": {
+   "word": "phishing",
+   "correct": 1
+  },
+  "6257978100022248471": {
+   "word": "mechanism",
+   "correct": 3
   }
  },
  "fail": {
