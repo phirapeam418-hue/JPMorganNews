@@ -1045,7 +1045,31 @@
   "https://github.com/openai/openai-cli",
   "https://rumple.github.io/blog/2026/10/20/asking-llm-for-confidence.html",
   "https://fulcrumsec.vg/pingcap/",
-  "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real"
+  "https://nsidc.org/learn/ask-scientist/karakoram-anomaly-it-real",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-operating-ai-infrastructure-at-scale-with-matt-hull-google/",
+  "https://www.datacenterdynamics.com/en/news/zain-ooredoo-launch-first-phase-of-middle-eastern-tower-jv/",
+  "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+  "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
+  "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
+  "https://www.datacenterdynamics.com/en/news/virgin-media-o2-demos-starlinks-satellite-coverage-in-remote-north-wales/",
+  "https://www.datacenterdynamics.com/en/news/nebius-signs-on-for-50mw-at-neoms-oxagon-data-center-in-saudi-arabia/",
+  "https://www.datacenterdynamics.com/en/news/soluna-and-applied-digital-to-build-50mw-data-center-in-texas/",
+  "https://www.datacenterdynamics.com/en/news/era4-reveals-details-of-hyperscale-data-center-planned-for-former-steelworks-in-newport-wales/",
+  "https://www.datacenterdynamics.com/en/news/ovhcloud-wins-approval-to-connect-data-centers-in-roubaix-france-to-local-district-heating-network/",
+  "https://www.datacenterdynamics.com/en/news/openai-hires-new-energy-regulatory-lead/",
+  "https://www.datacenterdynamics.com/en/whitepapers/one-fluke-to-rule-it-all-in-the-data-center/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-infrastructure-now-generally-available-on-google-cloud/",
+  "https://www.datacenterdynamics.com/en/news/crusoe-signs-on-for-polar-dcs-upcoming-40mw-data-center-in-norway/",
+  "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
+  "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
+  "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749",
+  "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+  "https://www.theregister.com/science/2026/10/22/veteran-esa-probe-rolls-out-welcome-mat-for-japans-phobos-mission/5304684",
+  "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+  "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
+  "https://blog.cloudflare.com/k-isms/",
+  "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business"
  ],
  "stories": [
   {
@@ -18694,7 +18718,8 @@
    "scale": 9,
    "credibility": 9,
    "extra_links": [
-    "https://eliastaylor.com/noexploit/"
+    "https://eliastaylor.com/noexploit/",
+    "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
    ],
    "msg_id": 268,
    "sent_ts": "2026-10-22T13:01:53.984213+07:00"
@@ -19132,9 +19157,699 @@
    "credibility": 8,
    "msg_id": 270,
    "sent_ts": "2026-10-22T16:02:05.289456+07:00"
+  },
+  {
+   "id": 491,
+   "ts": "2026-10-22T21:48:00.552041+07:00",
+   "title": "Infineon and Nvidia to develop gallium nitride power conversion tech for 800VDC data center racks",
+   "link": "https://www.datacenterdynamics.com/en/news/infineon-and-nvidia-to-develop-gallium-nitride-power-conversion-tech-for-800vdc-data-center-racks/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts future data center rack power architectures and efficiency for high-density AI clusters.",
+   "summary": "Infineon has partnered with Nvidia to develop gallium nitride power conversion hardware for 800-volt direct current server racks. This technology reduces electrical losses and increases power density for megawatt-scale AI computing infrastructure.",
+   "vocab": [
+    {
+     "word": "conversion",
+     "thai": "การแปลงรูปพลังงาน / การเปลี่ยนรูป",
+     "level": "B2",
+     "example": "The companies will develop power conversion technology for 800VDC architectures."
+    },
+    {
+     "word": "downstream",
+     "thai": "ขั้นปลายน้ำ / ลำดับถัดไป",
+     "level": "C1",
+     "example": "The converter steps down voltage, allowing downstream stages to power AI processors."
+    },
+    {
+     "word": "passives",
+     "thai": "ชิ้นส่วนอิเล็กทรอนิกส์แบบพาสซีฟ",
+     "level": "C2",
+     "example": "Higher switching frequencies let magnetics and passives shrink, saving space."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 492,
+   "ts": "2026-10-22T21:48:00.552080+07:00",
+   "title": "T-Mobile claims world first AI-RAN call with Nokia and Nvidia",
+   "link": "https://www.datacenterdynamics.com/en/news/t-mobile-claims-world-first-ai-ran-call-with-nokia-and-nvidia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights converged edge compute and 5G networking hardware running on Nvidia platforms.",
+   "summary": "T-Mobile, Nokia, and Nvidia completed the first live-network voice call running on an AI-RAN computing platform. This milestone demonstrates that AI workloads and cellular radio functions can successfully share accelerated server infrastructure.",
+   "vocab": [
+    {
+     "word": "commercial",
+     "thai": "ในเชิงพาณิชย์ / ที่เปิดใช้งานจริง",
+     "level": "B2",
+     "example": "The test was completed from a commercial cell site in Bellevue."
+    },
+    {
+     "word": "spectral",
+     "thai": "เกี่ยวกับสเปกตรัมคลื่นความถี่",
+     "level": "C1",
+     "example": "The architecture aims to double spectral efficiency over time."
+    },
+    {
+     "word": "inferencing",
+     "thai": "การประมวลผลคาดการณ์ของ AI",
+     "level": "C1",
+     "example": "The platform has the ability to support AI inferencing workloads alongside RAN functions."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 493,
+   "ts": "2026-10-22T21:48:00.552107+07:00",
+   "title": "Nvidia in talks to invest in Firmus after failed IPO - report",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-invest-in-firmus-after-failed-ipo-report/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on financing trends in neocloud GPU providers that supply cloud AI capacity.",
+   "summary": "Nvidia is reportedly in discussions to inject hundreds of millions of dollars into neocloud provider Firmus after the company canceled its planned IPO. The investment highlights how chipmakers financially support cloud infrastructure partners to sustain hardware purchasing.",
+   "vocab": [
+    {
+     "word": "inject",
+     "thai": "อัดฉีดเงินทุน / เติมเข้าไป",
+     "level": "B2",
+     "example": "Nvidia is reportedly in talks to inject private investment into Firmus."
+    },
+    {
+     "word": "procure",
+     "thai": "จัดซื้อจัดหา",
+     "level": "C1",
+     "example": "The deal will see Firmus procure advanced AI infrastructure through 2034."
+    },
+    {
+     "word": "backstop",
+     "thai": "การเป็นผู้ค้ำประกันสำรอง / มาตรการรองรับความเสี่ยง",
+     "level": "C2",
+     "example": "Nvidia acts as a financial backstop in return for a share of cloud revenues."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 494,
+   "ts": "2026-10-22T21:48:00.552133+07:00",
+   "title": "US considering 35 data center-related developments on public land, land records say",
+   "link": "https://www.datacenterdynamics.com/en/news/us-considering-35-data-center-related-developments-on-public-land-land-records-say/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to data center campus site selection, public land policy, and long-term utility planning.",
+   "summary": "The US Bureau of Land Management is reviewing 35 applications to construct massive data center campuses and power infrastructure on public western lands. Conservation groups are demanding formal public input and strict environmental reviews before approving these large developments.",
+   "vocab": [
+    {
+     "word": "solicit",
+     "thai": "ร้องขอ / ขอความเห็น",
+     "level": "C1",
+     "example": "The administration should be forced to solicit feedback on using public land."
+    },
+    {
+     "word": "dwarf",
+     "thai": "ทำให้ดูเล็กลงถนัดตา / บดบังขนาด",
+     "level": "C1",
+     "example": "Some of the massive proposals dwarf typical enterprise data center constructions."
+    },
+    {
+     "word": "consent",
+     "thai": "ความยินยอม / การเห็นชอบ",
+     "level": "B2",
+     "example": "Data center development is increasingly becoming an issue of public consent."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 495,
+   "ts": "2026-10-22T21:48:00.552158+07:00",
+   "title": "Virgin Media O2 demos Starlink's satellite coverage in remote north Wales",
+   "link": "https://www.datacenterdynamics.com/en/news/virgin-media-o2-demos-starlinks-satellite-coverage-in-remote-north-wales/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Focuses on remote direct-to-cell satellite roaming, which rarely interfaces with core data center operations.",
+   "summary": "Virgin Media O2 demonstrated its direct-to-device mobile satellite service in remote Wales using Starlink's low Earth orbit satellites. The capability provides basic emergency connectivity in remote regions but will complement rather than replace terrestrial towers.",
+   "vocab": [
+    {
+     "word": "terrestrial",
+     "thai": "ภาคพื้นดิน / บนผืนดิน",
+     "level": "C1",
+     "example": "The mountainous terrain has no terrestrial cellular coverage from traditional towers."
+    },
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียม / เครือข่ายดาวเทียม",
+     "level": "C1",
+     "example": "The service leverages a constellation of low Earth orbit satellites."
+    },
+    {
+     "word": "propagation",
+     "thai": "การแพร่กระจายของคลื่นสัญญาณ",
+     "level": "C2",
+     "example": "Physical limits regarding radio propagation mean satellites cannot fully replace cellular networks."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 496,
+   "ts": "2026-10-22T21:48:00.552180+07:00",
+   "title": "Nebius signs on for 50MW at Neom's Oxagon data center in Saudi Arabia",
+   "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-on-for-50mw-at-neoms-oxagon-data-center-in-saudi-arabia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers a massive 50MW anchor capacity commitment at a major international AI data center megaproject.",
+   "summary": "AI neocloud provider Nebius has signed an agreement to take 50MW of capacity at the planned Oxagon data center campus in Saudi Arabia. The site will deploy Nvidia hardware starting in late 2027 and will eventually expand toward 1.5GW of total capacity.",
+   "vocab": [
+    {
+     "word": "anchor",
+     "thai": "หลัก / หัวหอกสำคัญ",
+     "level": "B2",
+     "example": "Nebius will become an anchor customer at the new data center campus."
+    },
+    {
+     "word": "competitiveness",
+     "thai": "ความสามารถในการแข่งขัน",
+     "level": "B2",
+     "example": "Infrastructure cost competitiveness will define the winners in the AI compute race."
+    },
+    {
+     "word": "disciplined",
+     "thai": "มีวินัย / เป็นระบบเคร่งครัด",
+     "level": "B2",
+     "example": "The operator combines clean energy advantages with disciplined execution."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 497,
+   "ts": "2026-10-22T21:50:23.929096+07:00",
+   "title": "Soluna and Applied Digital to build 50MW data center in Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/soluna-and-applied-digital-to-build-50mw-data-center-in-texas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports a new 50MW joint venture data center project in Texas powered by wind and grid energy.",
+   "summary": "Soluna and Applied Digital have signed an agreement to develop a 50MW data center in Texas powered partly by wind. The facility will be leased to AI cloud firm ChronoScale to expand high-performance compute capacity.",
+   "vocab": [
+    {
+     "word": "definitive",
+     "thai": "ชัดเจนแน่นอนหรือข้อสรุปสุดท้าย",
+     "level": "B2",
+     "example": "The companies announced that they have signed a definitive agreement for a jointly owned company."
+    },
+    {
+     "word": "abatement",
+     "thai": "การลดหย่อนภาษี",
+     "level": "C1",
+     "example": "The agreement is subject to certain conditions, including approval of a tax abatement for the project."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "We have said for a long time that the constraint in AI is energy access, not chips."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 498,
+   "ts": "2026-10-22T21:50:23.929139+07:00",
+   "title": "Era4 reveals details of hyperscale data center planned for former steelworks in Newport, Wales",
+   "link": "https://www.datacenterdynamics.com/en/news/era4-reveals-details-of-hyperscale-data-center-planned-for-former-steelworks-in-newport-wales/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details plans for a massive 1GW AI campus utilizing brownfield infrastructure and direct liquid cooling in the UK.",
+   "summary": "Era4 announced plans to transform a former Welsh steelworks site into a massive data center campus scaling up to 1GW. The campus plans to deploy next-generation GPUs supported by closed-loop liquid cooling technology.",
+   "vocab": [
+    {
+     "word": "earmark",
+     "thai": "กำหนดหรือจัดสรรไว้เฉพาะ",
+     "level": "B2",
+     "example": "The building earmarked for the data center is not currently in use."
+    },
+    {
+     "word": "modular",
+     "thai": "ซึ่งประกอบเป็นหน่วยย่อยได้",
+     "level": "B2",
+     "example": "It planned to install modular data center units inside existing buildings."
+    },
+    {
+     "word": "sovereign",
+     "thai": "ที่มีอำนาจอธิปไตยหรือเป็นอิสระ",
+     "level": "C1",
+     "example": "The firm teamed up with another UK company to launch a sovereign AI cloud."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 499,
+   "ts": "2026-10-22T21:50:23.929168+07:00",
+   "title": "OVHcloud wins approval to connect data centers in Roubaix, France, to local district heating network",
+   "link": "https://www.datacenterdynamics.com/en/news/ovhcloud-wins-approval-to-connect-data-centers-in-roubaix-france-to-local-district-heating-network/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly impacts DC operations by demonstrating municipal waste-heat reuse integration from water-cooled facilities.",
+   "summary": "OVHcloud has secured municipal approval to connect waste heat from its Roubaix data centers to a local district heating network. The initiative uses liquid cooling and hydraulic management to supply thermal energy to local homes and buildings.",
+   "vocab": [
+    {
+     "word": "unanimously",
+     "thai": "อย่างเป็นเอกฉันท์",
+     "level": "B2",
+     "example": "The European Metropolis of Lille unanimously approved the initiative."
+    },
+    {
+     "word": "hydraulic",
+     "thai": "เกี่ยวกับแรงดันของไหลหรือชลศาสตร์",
+     "level": "C1",
+     "example": "The company claims to utilize passive hydraulic innovations to dynamically balance water flow."
+    },
+    {
+     "word": "recover",
+     "thai": "นำกลับมาใช้ประโยชน์ใหม่",
+     "level": "B2",
+     "example": "Equinix signed several deals to recover heat produced by its data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 500,
+   "ts": "2026-10-22T21:50:23.929190+07:00",
+   "title": "OpenAI hires new energy regulatory lead",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-hires-new-energy-regulatory-lead/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Highlights key hiring trends as AI firms build internal teams to handle energy regulation and utility deals.",
+   "summary": "OpenAI has hired an energy regulatory counsel from AWS to oversee power strategy and infrastructure transactions. This hire underscores how AI providers are increasingly managing their own direct relationships with energy grids.",
+   "vocab": [
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับการกำกับดูแลหรือข้อบังคับ",
+     "level": "B2",
+     "example": "Friedman will manage energy regulatory strategy, policy execution, and infrastructure growth."
+    },
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "OpenAI has been building out its energy team as it moves to take a more central role in energy procurement."
+    },
+    {
+     "word": "jurisdictional",
+     "thai": "เกี่ยวกับขอบเขตอำนาจตามกฎหมาย",
+     "level": "C2",
+     "example": "This will include the evaluation of jurisdictional pathways and regulatory approvals."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 501,
+   "ts": "2026-10-22T21:50:23.929239+07:00",
+   "title": "Nvidia Vera Rubin infrastructure now generally available on Google Cloud",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-infrastructure-now-generally-available-on-google-cloud/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major cloud infrastructure milestone launching Nvidia's next-gen Vera Rubin liquid-cooled racks on Google Cloud.",
+   "summary": "Google Cloud is rolling out general availability for Nvidia Vera Rubin rack systems featuring fourth-generation liquid cooling. The new instances provide significant performance gains for large-scale AI training and inference workloads.",
+   "vocab": [
+    {
+     "word": "successor",
+     "thai": "สิ่งหรือบุคคลที่มาสืบทอดแทนที่",
+     "level": "B2",
+     "example": "Vera is the successor to Nvidia’s Grace CPU, while Rubin will succeed Blackwell GPUs."
+    },
+    {
+     "word": "bandwidth",
+     "thai": "ความกว้างของช่องสัญญาณส่งข้อมูล",
+     "level": "B2",
+     "example": "The combination of compute performance and high-bandwidth connectivity allows us to scale research."
+    },
+    {
+     "word": "reinforcement",
+     "thai": "การเสริมแรงหรือการสนับสนุน",
+     "level": "B2",
+     "example": "The high interconnect speeds help advance their reinforcement learning research."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 271,
+   "sent_ts": "2026-10-22T21:50:25.238730+07:00"
+  },
+  {
+   "id": 502,
+   "ts": "2026-10-22T21:50:25.238943+07:00",
+   "title": "Crusoe signs on for Polar DC's upcoming 40MW data center in Norway",
+   "link": "https://www.datacenterdynamics.com/en/news/crusoe-signs-on-for-polar-dcs-upcoming-40mw-data-center-in-norway/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Expands hydro-powered Nordic AI data center capacity equipped with next-gen liquid-cooled racks.",
+   "summary": "Crusoe has expanded its partnership with Polar DC to build a second 40MW facility powered by hydroelectric energy in Norway. The site will host advanced AI clusters including Nvidia Vera Rubin systems for sustainable compute services.",
+   "vocab": [
+    {
+     "word": "refinance",
+     "thai": "การปรับโครงสร้างหนี้ใหม่",
+     "level": "C1",
+     "example": "The operator raised an 800 million euro bond to refinance existing debt."
+    },
+    {
+     "word": "peninsula",
+     "thai": "คาบสมุทร",
+     "level": "B2",
+     "example": "Polar is looking to develop a data center in Heroya, a peninsula on the country’s southeast coast."
+    },
+    {
+     "word": "pivot",
+     "thai": "ปรับเปลี่ยนทิศทางการดำเนินธุรกิจ",
+     "level": "B2",
+     "example": "The company launched a GPU cloud service and has since pivoted away from crypto mining."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 503,
+   "ts": "2026-10-22T21:50:25.238978+07:00",
+   "title": "Singapore boffins weave a GUI into fabric, and it's machine washable too",
+   "link": "https://www.theregister.com/offbeat/2026/10/22/singapore-boffins-weave-a-gui-into-fabric-and-its-machine-washable-too/5304785",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "A diverse news roundup that includes an ongoing zero-day vulnerability affecting on-premises SharePoint servers.",
+   "summary": "A weekly technology digest notes that Microsoft on-premises SharePoint servers are under zero-day attack despite recent patches. It also covers wearable fabric user interfaces and industry moves toward containerized AI infrastructure.",
+   "vocab": [
+    {
+     "word": "syntax",
+     "thai": "ไวยากรณ์หรือโครงสร้างคำสั่งคอมพิวเตอร์",
+     "level": "B2",
+     "example": "Domain expertise and clear writing will matter more than syntax in future software development."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความช่วยเหลือหรือเกณฑ์กำลัง",
+     "level": "B2",
+     "example": "The project enlists hackers to harden critical infrastructure against threats."
+    },
+    {
+     "word": "humane",
+     "thai": "ที่มีมนุษยธรรมและคำนึงถึงคน",
+     "level": "B2",
+     "example": "Advocates propose humane work practices that respect developers' well-being."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 504,
+   "ts": "2026-10-22T21:51:22.030060+07:00",
+   "title": "Nvidia's Huang: Don't mention the AI-pocalypse",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/22/nvidias-huang-dont-mention-the-ai-pocalypse/5304743",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Nvidia executives and tech updates are generally relevant to AI infrastructure operators.",
+   "summary": "Nvidia shared new hardware and software strategies at a recent European event. The company aims to speed up deployments and expand its open model offerings.",
+   "vocab": [
+    {
+     "word": "keynote",
+     "thai": "ปาฐกถาหลัก",
+     "level": "B2",
+     "example": "Jensen Huang featured these updates during his keynote in Berlin."
+    },
+    {
+     "word": "modular",
+     "thai": "ที่เป็นโมดูล / แยกส่วนได้",
+     "level": "B2",
+     "example": "Modular data centers can drastically cut down deployment times."
+    },
+    {
+     "word": "subsidy",
+     "thai": "เงินสนับสนุนจากรัฐ",
+     "level": "B2",
+     "example": "Researchers discussed how public subsidies for AI should be managed."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 505,
+   "ts": "2026-10-22T21:51:22.030169+07:00",
+   "title": "Microsoft says ConnectWise breach let Chinese spies loose on 2,250 cloud tenants",
+   "link": "https://www.theregister.com/security/2026/10/22/microsoft-says-connectwise-breach-let-chinese-spies-loose-on-2250-cloud-tenants/5304687",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "A major cloud breach affecting thousands of tenants directly impacts cloud infrastructure operations.",
+   "summary": "Microsoft reports that a vulnerability in ConnectWise was exploited by state-sponsored actors to target cloud tenants. Thousands of environments were exposed to unauthorized access.",
+   "vocab": [
+    {
+     "word": "tenant",
+     "thai": "ผู้เช่าพื้นที่ระบบคลาวด์",
+     "level": "B2",
+     "example": "Thousands of cloud tenants were compromised in the breach."
+    },
+    {
+     "word": "actor",
+     "thai": "ผู้กระทำกิจกรรม (เช่น แฮกเกอร์รัฐ)",
+     "level": "B2",
+     "example": "Chinese state actors launched the campaign."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ที่ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "Unauthorized users gained access to internal systems."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 272,
+   "sent_ts": "2026-10-22T21:51:22.733781+07:00"
+  },
+  {
+   "id": 506,
+   "ts": "2026-10-22T21:51:22.733982+07:00",
+   "title": "IT department and auditors at major pharmacy chain got into a rip-roaring fight about using 'password' on Cisco firewall",
+   "link": "https://www.theregister.com/security/2026/10/22/it-department-and-auditors-at-major-pharmacy-chain-got-into-a-rip-roaring-fight-about-using-password-on-cisco-firewall/5304592",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Network device configuration and security compliance are relevant to infrastructure security.",
+   "summary": "An internal dispute arose at a major company after auditors discovered weak firewall passwords. The incident highlights ongoing challenges in enforcing basic security hygiene.",
+   "vocab": [
+    {
+     "word": "auditor",
+     "thai": "ผู้ตรวจสอบบัญชีหรือระบบ",
+     "level": "B2",
+     "example": "Internal auditors flagged the weak firewall configuration."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "B2",
+     "example": "Network teams must maintain strict compliance with security standards."
+    },
+    {
+     "word": "enforce",
+     "thai": "บังคับใช้",
+     "level": "B2",
+     "example": "The company failed to enforce strong password policies."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 507,
+   "ts": "2026-10-22T21:51:22.734015+07:00",
+   "title": "UK government hasn't the foggiest how much it's spending on digital transformation",
+   "link": "https://www.theregister.com/public-sector/2026/10/22/uk-government-hasnt-the-foggiest-how-much-its-spending-on-digital-transformation/5304662",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Government IT spending mismanagement is of general interest but lacks technical urgency.",
+   "summary": "A report reveals that the UK government lacks clear accounting for its digital transformation spending. Millions of pounds worth of tech projects face tracking issues.",
+   "vocab": [
+    {
+     "word": "transformation",
+     "thai": "การเปลี่ยนแปลงครั้งใหญ่",
+     "level": "B2",
+     "example": "Digital transformation projects often suffer from budget overruns."
+    },
+    {
+     "word": "accountability",
+     "thai": "ความรับผิดชอบที่ตรวจสอบได้",
+     "level": "C1",
+     "example": "There is a lack of financial accountability in government tech spending."
+    },
+    {
+     "word": "allocation",
+     "thai": "การจัดสรรงบประมาณหรือทรัพยากร",
+     "level": "C1",
+     "example": "Proper budget allocation is essential for large projects."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 508,
+   "ts": "2026-10-22T21:51:22.734059+07:00",
+   "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+   "link": "https://blog.cloudflare.com/k-isms/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Cloud provider compliance and regional regulatory workflows impact global network operations.",
+   "summary": "Cloudflare has secured South Korea's ISMS certification after a detailed audit of its controls. The process required custom sign-up flows to meet local legal requirements.",
+   "vocab": [
+    {
+     "word": "certification",
+     "thai": "การรับรองมาตรฐาน",
+     "level": "B2",
+     "example": "Cloudflare achieved a new security certification in South Korea."
+    },
+    {
+     "word": "regulator",
+     "thai": "หน่วยงานกำกับดูแล",
+     "level": "C1",
+     "example": "Local regulators examined the company's privacy controls."
+    },
+    {
+     "word": "authentication",
+     "thai": "การพิสูจน์ตัวตน",
+     "level": "B2",
+     "example": "Identity providers handle user authentication during sign-up."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 509,
+   "ts": "2026-10-22T21:51:22.734080+07:00",
+   "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+   "link": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Certificate authority business changes directly affect TLS management and enterprise security.",
+   "summary": "eMudhra announced it is voluntarily exiting the global SSL/TLS certificate market. The company plans to focus purely on core enterprise trust services instead.",
+   "vocab": [
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มผลิตภัณฑ์หรือบริการ",
+     "level": "B2",
+     "example": "SSL/TLS certificates were only a small part of their product portfolio."
+    },
+    {
+     "word": "transition",
+     "thai": "ช่วงเปลี่ยนผ่าน",
+     "level": "B2",
+     "example": "Customers will need a smooth transition to new certificate providers."
+    },
+    {
+     "word": "revocation",
+     "thai": "การเพิกถอน",
+     "level": "C1",
+     "example": "The company handled the quick revocation of affected certificates."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 10,
+   "msg_id": 273,
+   "sent_ts": "2026-10-22T21:51:23.427403+07:00"
   }
  ],
- "next_id": 491,
+ "next_id": 510,
  "vocab": [
   {
    "word": "commissioning",
@@ -23371,6 +24086,56 @@
    "thai": "บันทึกร่องรอยการตรวจสอบระบบ",
    "level": "B2",
    "example": "The internal audit trail mapped confidential tenant identifiers to enterprise customer accounts.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bandwidth",
+   "thai": "ความกว้างของช่องสัญญาณส่งข้อมูล",
+   "level": "B2",
+   "example": "The combination of compute performance and high-bandwidth connectivity allows us to scale research.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reinforcement",
+   "thai": "การเสริมแรงหรือการสนับสนุน",
+   "level": "B2",
+   "example": "The high interconnect speeds help advance their reinforcement learning research.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tenant",
+   "thai": "ผู้เช่าพื้นที่ระบบคลาวด์",
+   "level": "B2",
+   "example": "Thousands of cloud tenants were compromised in the breach.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "actor",
+   "thai": "ผู้กระทำกิจกรรม (เช่น แฮกเกอร์รัฐ)",
+   "level": "B2",
+   "example": "Chinese state actors launched the campaign.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "revocation",
+   "thai": "การเพิกถอน",
+   "level": "C1",
+   "example": "The company handled the quick revocation of affected certificates.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
