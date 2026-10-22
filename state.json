@@ -1093,7 +1093,31 @@
   "https://github.com/oosexgang/hackios-xnu-kernel",
   "https://www.taler.net/en/news/2026-13.html",
   "https://pwn.watch/",
-  "https://jamesyu.org/award-winning-ai-literature/"
+  "https://jamesyu.org/award-winning-ai-literature/",
+  "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+  "https://www.theregister.com/science/2026/10/22/human-receives-ai-designed-virus-for-the-first-time/5304874",
+  "https://www.theregister.com/ai-and-ml/2026/10/22/backdoored-robot-tries-its-hand-at-finger-chopping-and-cat-cooking/5304870",
+  "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
+  "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+  "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+  "https://arxiv.org/abs/2610.27251",
+  "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+  "https://musicalform.substack.com/p/what-is-gridifcation",
+  "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+  "https://train.samismith.com/",
+  "https://news.ycombinator.com/item?id=50193416",
+  "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+  "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+  "https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/",
+  "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+  "https://arstechnica.com/health/2026/10/disillusioned-maha-leader-quits-as-trump-admins-food-agenda-spoils-report/",
+  "https://arstechnica.com/cars/2026/10/electric-or-gas-bmw-goes-both-ways-with-new-2027-x5-and-ix5/",
+  "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+  "https://arstechnica.com/space/2026/10/russia-claims-its-stalker-satellite-is-purely-peaceful-in-character/",
+  "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
+  "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
+  "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
+  "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
  ],
  "stories": [
   {
@@ -19872,7 +19896,8 @@
    "msg_id": 273,
    "sent_ts": "2026-10-22T21:51:23.427403+07:00",
    "extra_links": [
-    "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848"
+    "https://www.theregister.com/security/2026/10/22/disgraced-indian-cert-issuer-leaves-the-cert-issuing-business/5304848",
+    "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/"
    ]
   },
   {
@@ -20413,7 +20438,11 @@
    "impact": 8,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
+    "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+   ]
   },
   {
    "id": 525,
@@ -20630,9 +20659,45 @@
    "urgency": 10,
    "scale": 9,
    "credibility": 9
+  },
+  {
+   "id": 531,
+   "ts": "2026-10-23T05:51:15.845158+07:00",
+   "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
+   "link": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical maximum-severity RCE flaw affecting GitLab enterprise instances, demanding immediate patching from DevOps and infrastructure engineers.",
+   "summary": "GitLab has patched a critical remote code execution vulnerability that affects versions spanning over 12 years of releases. Infrastructure administrators must patch their self-managed GitLab servers immediately to prevent full system compromise.",
+   "vocab": [
+    {
+     "word": "severity",
+     "thai": "ความรุนแรง",
+     "level": "B2",
+     "example": "A max-severity GitLab bug allows remote code execution."
+    },
+    {
+     "word": "interim",
+     "thai": "ชั่วคราว / ระยะสั้น",
+     "level": "B2",
+     "example": "Ubuntu interim releases are getting interesting again."
+    },
+    {
+     "word": "persistent",
+     "thai": "คงอยู่ต่อเนื่อง / ดื้อดึง",
+     "level": "B2",
+     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 531,
+ "next_id": 532,
  "vocab": [
   {
    "word": "commissioning",
