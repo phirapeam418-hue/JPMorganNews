@@ -1117,7 +1117,17 @@
   "https://arstechnica.com/tech-policy/2026/10/meta-whines-new-mexico-is-impossible-to-please-after-historic-25-billion-fine/",
   "https://arstechnica.com/health/2026/10/unethical-vaccine-trial-on-babies-backed-by-rfk-jr-is-formally-canceled/",
   "https://arstechnica.com/gaming/2026/10/this-emulator-reimagines-nintendos-virtual-boy-with-a-full-color-display/",
-  "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
+  "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+  "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+  "https://www.anthropic.com/research/formal-verification",
+  "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+  "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+  "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+  "https://www.maps.com/star-map-charts-stars-and-constellations-of-northern-hemisphere/",
+  "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
+  "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
+  "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
+  "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
  ],
  "stories": [
   {
@@ -19930,11 +19940,13 @@
      "example": "The new site will incorporate several developments across the region."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 280,
+   "sent_ts": "2026-10-23T09:25:02.430535+07:00"
   },
   {
    "id": 511,
@@ -20002,11 +20014,13 @@
      "example": "Organizations require high standards of data security and transparency."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 281,
+   "sent_ts": "2026-10-23T09:25:03.150177+07:00"
   },
   {
    "id": 513,
@@ -20074,11 +20088,13 @@
      "example": "Developers have traditionally had to lobby or litigate these halts."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 282,
+   "sent_ts": "2026-10-23T09:25:03.838359+07:00"
   },
   {
    "id": 515,
@@ -20110,11 +20126,13 @@
      "example": "The program is designed to accelerate data center development."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 283,
+   "sent_ts": "2026-10-23T09:25:04.562048+07:00"
   },
   {
    "id": 516,
@@ -20146,11 +20164,13 @@
      "example": "AI infrastructure drives growth and provides a competitive advantage."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 284,
+   "sent_ts": "2026-10-23T09:25:05.212651+07:00"
   },
   {
    "id": 517,
@@ -20290,7 +20310,7 @@
      "example": "Nvidia launched DSX POD, a modular version of the reference design for Vera Rubin-powered AI data centers."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 8,
    "scale": 9,
@@ -20362,7 +20382,7 @@
      "example": "Delivery capability is therefore becoming part of the value proposition itself."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 6,
    "scale": 8,
@@ -20434,7 +20454,7 @@
      "example": "Several government digital portals remain disrupted following the security incident."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 9,
    "scale": 8,
@@ -20510,7 +20530,7 @@
      "example": "The court handed down an unfavorable ruling against the provider."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 8,
    "scale": 8,
@@ -20546,7 +20566,7 @@
      "example": "Formal verification checks policy changes before they are applied."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 8,
    "scale": 7,
@@ -20654,7 +20674,7 @@
      "example": "The flaw allowed authenticated users to gain elevated operator privileges."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 10,
    "urgency": 10,
    "scale": 9,
@@ -20690,14 +20710,122 @@
      "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 532,
+   "ts": "2026-10-23T09:28:41.042134+07:00",
+   "title": "Docker is weird",
+   "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Offers an insightful technical breakdown of Linux container internals, which is relevant for infrastructure and DevOps engineers.",
+   "summary": "A developer building a custom container runtime explains the low-level Linux mechanisms behind Docker, including namespaces and cgroups. Understanding these architectural details helps infrastructure engineers grasp the security and networking trade-offs in containerized environments.",
+   "vocab": [
+    {
+     "word": "restriction",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Unlike VMs, containers are just processes with special restrictions on them."
+    },
+    {
+     "word": "isolate",
+     "thai": "แยกส่วนหรือกักกัน",
+     "level": "B2",
+     "example": "There is a whole bunch of networking magic that lets you isolate a container's network."
+    },
+    {
+     "word": "approximate",
+     "thai": "จำลองหรือเลียนแบบให้ใกล้เคียง",
+     "level": "C1",
+     "example": "To get around this, runc execs the process to approximate a fork."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 533,
+   "ts": "2026-10-23T09:28:41.042181+07:00",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "link": "https://www.anthropic.com/research/formal-verification",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers high-level AI applications in formal verification for systems code, which affects security auditing of server software.",
+   "summary": "Researchers demonstrated that large language models can generate formal verification proofs at scale to mathematically prove software security. This breakthrough detected subtle bugs in open-source assembly libraries and could significantly enhance future system-level code security.",
+   "vocab": [
+    {
+     "word": "adept",
+     "thai": "เชี่ยวชาญ",
+     "level": "C1",
+     "example": "Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them."
+    },
+    {
+     "word": "devoid",
+     "thai": "ปราศจาก",
+     "level": "C1",
+     "example": "Repeating this process will ultimately yield proof that the code is devoid of any bug."
+    },
+    {
+     "word": "elude",
+     "thai": "หลบหลีกหรือรอดพ้นไปได้",
+     "level": "C1",
+     "example": "Claude also discovered bugs that had eluded detection for years."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 534,
+   "ts": "2026-10-23T09:29:17.771010+07:00",
+   "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
+   "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "This report centers on consumer broadband market pressures and ISP financial restructuring rather than enterprise infrastructure.",
+   "summary": "Comcast plans significant workforce restructuring after losing 144,000 residential broadband subscribers to competitive fiber and wireless providers. The telecom giant called rival low-cost fiber pricing irrational and will incur over one billion dollars in transition charges.",
+   "vocab": [
+    {
+     "word": "capitalize",
+     "thai": "ฉวยโอกาสหรือหาประโยชน์จากสิ่งใดสิ่งหนึ่ง",
+     "level": "B2",
+     "example": "Comcast historically capitalized on a lack of competition for high-speed wired broadband."
+    },
+    {
+     "word": "irrational",
+     "thai": "ไม่สมเหตุสมผล",
+     "level": "B2",
+     "example": "Fiber construction remains elevated, with pockets of irrational pricing and promotional activity."
+    },
+    {
+     "word": "retention",
+     "thai": "การรักษาลูกค้าหรือบุคลากรไว้",
+     "level": "B2",
+     "example": "We’ve been refining our offers and retention strategies to better manage these transitions."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 532,
+ "next_id": 535,
  "vocab": [
   {
    "word": "commissioning",
@@ -24984,6 +25112,96 @@
    "thai": "การเพิกถอน",
    "level": "C1",
    "example": "The company handled the quick revocation of affected certificates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "parcel",
+   "thai": "แปลงที่ดิน",
+   "level": "C1",
+   "example": "The company submitted an application for a large land parcel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incorporate",
+   "thai": "รวมเข้าด้วยกัน",
+   "level": "B2",
+   "example": "The new site will incorporate several developments across the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "utilization",
+   "thai": "การใช้ประโยชน์",
+   "level": "C1",
+   "example": "Scheduler software helps improve GPU utilization across different projects.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "transparency",
+   "thai": "ความโปร่งใส",
+   "level": "B2",
+   "example": "Organizations require high standards of data security and transparency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "suspend",
+   "thai": "ระงับชั่วคราว",
+   "level": "B2",
+   "example": "The action resulted in the suspension of data center construction.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "litigate",
+   "thai": "ดำเนินคดี",
+   "level": "C2",
+   "example": "Developers have traditionally had to lobby or litigate these halts.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synchronize",
+   "thai": "ทำให้ประสานกัน",
+   "level": "B2",
+   "example": "Devices are synchronized and dispatched in response to grid needs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "counterpart",
+   "thai": "สิ่งที่เทียบเท่ากัน",
+   "level": "C1",
+   "example": "The new server matches the cooling capabilities of its rack-scale counterpart.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "competitive advantage",
+   "thai": "ความได้เปรียบทางการแข่งขัน",
+   "level": "B2",
+   "example": "AI infrastructure drives growth and provides a competitive advantage.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
