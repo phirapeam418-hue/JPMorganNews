@@ -1127,7 +1127,20 @@
   "https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/",
   "https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/",
   "https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/",
-  "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/"
+  "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
+  "https://www.datacenterdynamics.com/en/marketwatch/rethinking-power-infrastructure-to-scale-ai-data-centers/",
+  "https://www.datacenterdynamics.com/en/product-news/why-is-kazakhstan-building-central-asias-first-tier-iv-data-center/",
+  "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
+  "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
+  "https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375",
+  "https://edjefferson.com/localwiki/",
+  "https://www.lesswrong.com/posts/WHEQps5PK8LrrcTAb/how-does-fable-5-1-hide-messages-in-images",
+  "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+  "https://arxiv.org/abs/2603.01092",
+  "https://www.awakin.org/v2/read/view.php?tid=468",
+  "https://github.com/dsmurrell/onkey",
+  "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
+  "https://jank-lang.org/"
  ],
  "stories": [
   {
@@ -20839,9 +20852,157 @@
    "urgency": 2,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 535,
+   "ts": "2026-10-23T15:56:12.737677+07:00",
+   "title": "Sponsored: Rethinking power infrastructure to scale AI data centers",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/rethinking-power-infrastructure-to-scale-ai-data-centers/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Discusses power infrastructure evolution and medium-voltage UPS architectures for high-density AI data centers.",
+   "summary": "Rapidly growing AI data center power demands require new medium-voltage architectures and dynamic demand management. These systems help protect the grid while maintaining uptime, high reliability, and scalable power delivery.",
+   "vocab": [
+    {
+     "word": "resiliency",
+     "thai": "ความยืดหยุ่นในการคืนสภาพ",
+     "level": "C1",
+     "example": "The architecture needs to provide high reliability and resiliency against sudden power fluctuations."
+    },
+    {
+     "word": "fluctuation",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "We need to protect the grid from peaks and minimize the impact of sudden power fluctuations."
+    },
+    {
+     "word": "accommodate",
+     "thai": "รองรับ, จัดให้เหมาะสม",
+     "level": "B2",
+     "example": "The challenge is to supply more power and accommodate load variation while maintaining uptime."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 536,
+   "ts": "2026-10-23T15:56:12.737733+07:00",
+   "title": "Sponsored: Why is Kazakhstan building Central Asia’s first Tier IV data center?",
+   "link": "https://www.datacenterdynamics.com/en/product-news/why-is-kazakhstan-building-central-asias-first-tier-iv-data-center/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on the construction of Central Asia's first Tier IV data center in Kazakhstan and recent regulatory shifts for IT infrastructure.",
+   "summary": "Kazakhstan is redirecting freed-up energy from former cryptocurrency mining operations toward building high-reliability data centers. Recent legislative changes now allow direct power purchasing and simplify access to telecommunications infrastructure.",
+   "vocab": [
+    {
+     "word": "exacerbate",
+     "thai": "ทำให้แย่ลง",
+     "level": "C1",
+     "example": "The crisis was exacerbated by the fact that numerous mining farms had connected to the grid without authorisation."
+    },
+    {
+     "word": "legislative",
+     "thai": "เกี่ยวกับกฎหมายหรือนิติบัญญัติ",
+     "level": "B2",
+     "example": "To achieve this, the country is improving its legislative framework for the data center industry."
+    },
+    {
+     "word": "authorization",
+     "thai": "การอนุญาต",
+     "level": "B2",
+     "example": "Numerous mining farms had connected to the grid without authorization from regulatory bodies."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 537,
+   "ts": "2026-10-23T15:56:12.737765+07:00",
+   "title": "Beware the claw: Do you want to win the bunny or reboot Android?",
+   "link": "https://www.theregister.com/offbeat/2026/10/23/beware-the-claw-do-you-want-to-win-the-bunny-or-reboot-android/5304172",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers multiple tech and infosec news items including zero-day SharePoint attacks and modular AI data center concepts.",
+   "summary": "Recent IT industry roundups highlight ongoing zero-day attacks on on-premise SharePoint servers and new modular data center deployment proposals. Other updates feature security vendor acquisitions and open-weight AI model releases.",
+   "vocab": [
+    {
+     "word": "infosec",
+     "thai": "ความปลอดภัยของข้อมูล",
+     "level": "C1",
+     "example": "On the plus side, infosec remains a good bet for a long, stable career."
+    },
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "B2",
+     "example": "The report details a major security firm acquisition valued at over three billion dollars."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำไปใช้งาน",
+     "level": "B2",
+     "example": "The alternative operating system is seeing increasing awareness and adoption among users."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
+    "https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375"
+   ]
+  },
+  {
+   "id": 538,
+   "ts": "2026-10-23T15:56:12.737828+07:00",
+   "title": "The HTML-in-Canvas API origin trial",
+   "link": "https://developer.chrome.com/blog/html-in-canvas-origin-trial",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Details a new browser API trial combining HTML DOM features with canvas-based 2D and 3D graphics rendering.",
+   "summary": "The new HTML-in-Canvas API trial allows developers to embed interactive DOM elements directly inside low-level canvas textures. This approach preserves essential browser features like text selection, accessibility, and find-in-page tools within complex graphics applications.",
+   "vocab": [
+    {
+     "word": "experimental",
+     "thai": "ซึ่งเกี่ยวกับการทดลอง",
+     "level": "B2",
+     "example": "The new API is currently available as an experimental feature in origin trial."
+    },
+    {
+     "word": "semantic",
+     "thai": "เชิงความหมาย",
+     "level": "C1",
+     "example": "The DOM offers text layout solutions out of the box using semantically understood content."
+    },
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ",
+     "level": "B2",
+     "example": "Proper browser integration ensures that accessibility tools function smoothly inside rich applications."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 535,
+ "next_id": 539,
  "vocab": [
   {
    "word": "commissioning",
