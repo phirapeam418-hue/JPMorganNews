@@ -18992,7 +18992,7 @@
      "example": "We can support a build-out at massive scale without waiting on the scarce HBM supply that is holding back the rest of the industry."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -19028,7 +19028,7 @@
      "example": "Build operational resilience into the facility from day one."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -19064,11 +19064,13 @@
      "example": "Liquid cooling captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 293,
+   "sent_ts": "2026-10-23T12:58:05.960205+07:00"
   },
   {
    "id": 487,
@@ -19100,7 +19102,7 @@
      "example": "Revive Raskin's 3 laws of software with humane work that considers a dev's duty of care."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -19136,7 +19138,7 @@
      "example": "GNOME 51 is here, and Ubuntu interim releases are getting interesting again."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -19172,7 +19174,7 @@
      "example": "Standard API endpoints require valid credentials before executing requests."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -19246,7 +19248,7 @@
      "example": "Higher switching frequencies let magnetics and passives shrink, saving space."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
@@ -19282,7 +19284,7 @@
      "example": "The platform has the ability to support AI inferencing workloads alongside RAN functions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -19318,7 +19320,7 @@
      "example": "Nvidia acts as a financial backstop in return for a share of cloud revenues."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -19354,7 +19356,7 @@
      "example": "Data center development is increasingly becoming an issue of public consent."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -19390,7 +19392,7 @@
      "example": "Physical limits regarding radio propagation mean satellites cannot fully replace cellular networks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
@@ -19426,7 +19428,7 @@
      "example": "The operator combines clean energy advantages with disciplined execution."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -19462,7 +19464,7 @@
      "example": "We have said for a long time that the constraint in AI is energy access, not chips."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
@@ -19498,7 +19500,7 @@
      "example": "The firm teamed up with another UK company to launch a sovereign AI cloud."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -19534,7 +19536,7 @@
      "example": "Equinix signed several deals to recover heat produced by its data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 5,
@@ -19570,7 +19572,7 @@
      "example": "This will include the evaluation of jurisdictional pathways and regulatory approvals."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -19644,7 +19646,7 @@
      "example": "The company launched a GPU cloud service and has since pivoted away from crypto mining."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
@@ -19680,7 +19682,7 @@
      "example": "Advocates propose humane work practices that respect developers' well-being."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 6,
@@ -19716,7 +19718,7 @@
      "example": "Researchers discussed how public subsidies for AI should be managed."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -19790,7 +19792,7 @@
      "example": "The company failed to enforce strong password policies."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 3,
@@ -19826,7 +19828,7 @@
      "example": "Proper budget allocation is essential for large projects."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -19862,7 +19864,7 @@
      "example": "Identity providers handle user authentication during sign-up."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -19978,7 +19980,7 @@
      "example": "Sovereign AI is beginning to gain traction among enterprise clients."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -20052,7 +20054,7 @@
      "example": "The system is intentionally purpose-built to meet enterprise needs."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
@@ -20202,7 +20204,7 @@
      "example": "The ministry held talks with a visiting foreign delegation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
@@ -20238,7 +20240,7 @@
      "example": "That comment was pointed at SpaceX's current dearth of terrestrial infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -20274,7 +20276,7 @@
      "example": "Our focus is on executing a disciplined expansion strategy that combines infrastructure and technical expertise."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
@@ -20310,11 +20312,13 @@
      "example": "Nvidia launched DSX POD, a modular version of the reference design for Vera Rubin-powered AI data centers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 287,
+   "sent_ts": "2026-10-23T12:58:02.687120+07:00"
   },
   {
    "id": 521,
@@ -20346,7 +20350,7 @@
      "example": "Practical governance involves tracking key metrics to make facility readiness measurable and audit-ready."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -20382,11 +20386,13 @@
      "example": "Delivery capability is therefore becoming part of the value proposition itself."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 289,
+   "sent_ts": "2026-10-23T12:58:03.759195+07:00"
   },
   {
    "id": 523,
@@ -20418,7 +20424,7 @@
      "example": "The discussion focuses on long-term business strategy over a build-to-exit mentality."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -20454,7 +20460,7 @@
      "example": "Several government digital portals remain disrupted following the security incident."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 9,
    "scale": 8,
@@ -20462,7 +20468,9 @@
    "extra_links": [
     "https://www.theregister.com/security/2026/10/22/php2shell-exploit-bypasses-protections-designed-to-stop-remote-code-execution/5304883",
     "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/"
-   ]
+   ],
+   "msg_id": 290,
+   "sent_ts": "2026-10-23T12:58:04.270809+07:00"
   },
   {
    "id": 525,
@@ -20494,7 +20502,7 @@
      "example": "Modern cyber threats are far more sophisticated than older variants."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -20530,11 +20538,13 @@
      "example": "The court handed down an unfavorable ruling against the provider."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 291,
+   "sent_ts": "2026-10-23T12:58:04.783600+07:00"
   },
   {
    "id": 527,
@@ -20566,11 +20576,13 @@
      "example": "Formal verification checks policy changes before they are applied."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 292,
+   "sent_ts": "2026-10-23T12:58:05.442903+07:00"
   },
   {
    "id": 528,
@@ -20602,7 +20614,7 @@
      "example": "This independent research project is not affiliated with any major vendor."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 3,
@@ -20638,7 +20650,7 @@
      "example": "The new firm operates as a subsidiary of a larger European corporation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 5,
@@ -20674,11 +20686,13 @@
      "example": "The flaw allowed authenticated users to gain elevated operator privileges."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 10,
    "urgency": 10,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 286,
+   "sent_ts": "2026-10-23T12:58:02.202878+07:00"
   },
   {
    "id": 531,
@@ -20710,11 +20724,13 @@
      "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 288,
+   "sent_ts": "2026-10-23T12:58:03.220073+07:00"
   },
   {
    "id": 532,
@@ -20746,7 +20762,7 @@
      "example": "To get around this, runc execs the process to approximate a fork."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -20782,7 +20798,7 @@
      "example": "Claude also discovered bugs that had eluded detection for years."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -20818,7 +20834,7 @@
      "example": "We’ve been refining our offers and retention strategies to better manage these transitions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 7,
@@ -25202,6 +25218,176 @@
    "thai": "ความได้เปรียบทางการแข่งขัน",
    "level": "B2",
    "example": "AI infrastructure drives growth and provides a competitive advantage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "privilege",
+   "thai": "สิทธิ์พิเศษในการเข้าถึงระบบ",
+   "level": "B2",
+   "example": "The flaw allowed authenticated users to gain elevated operator privileges.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consolidated",
+   "thai": "รวมเข้าด้วยกัน",
+   "level": "C1",
+   "example": "The team was consolidated under Sachin Katti before further leadership changes occurred.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unorthodox",
+   "thai": "นอกรีต, ไม่ธรรมดา, แหวกแนว",
+   "level": "C1",
+   "example": "The company announced unorthodox plans to counter that dearth of terrestrial infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "modular",
+   "thai": "ที่เป็นโมดูล, แยกส่วนประกอบ",
+   "level": "B2",
+   "example": "Nvidia launched DSX POD, a modular version of the reference design for Vera Rubin-powered AI data centers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "severity",
+   "thai": "ความรุนแรง",
+   "level": "B2",
+   "example": "A max-severity GitLab bug allows remote code execution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consequential",
+   "thai": "ที่มีความสำคัญ, ซึ่งส่งผลตามมา",
+   "level": "C1",
+   "example": "As the market matures, the more consequential question is no longer how many megawatts can be announced.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "envelope",
+   "thai": "ขอบเขตจำกัด",
+   "level": "C2",
+   "example": "Demand is high, but the harder question is whether a project can be delivered within a credible cost envelope.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proposition",
+   "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
+   "level": "B2",
+   "example": "Delivery capability is therefore becoming part of the value proposition itself.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unavailable",
+   "thai": "ไม่สามารถใช้งานได้",
+   "level": "B2",
+   "example": "Ministers report 32 unavailable services and four partly disrupted systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "neutrality",
+   "thai": "ความเป็นกลาง",
+   "level": "B2",
+   "example": "Network neutrality ensures all internet traffic is treated equally.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unfavorable",
+   "thai": "ไม่เป็นผลดี, ไม่น่าพอใจ",
+   "level": "B2",
+   "example": "The court handed down an unfavorable ruling against the provider.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "runtime",
+   "thai": "สภาพแวดล้อมขณะโปรแกรมกำลังทำงาน",
+   "level": "B2",
+   "example": "The application requires a secure runtime environment to execute safely.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enforcement",
+   "thai": "การบังคับใช้",
+   "level": "B2",
+   "example": "Strict security policy enforcement prevents unauthorized access.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "verification",
+   "thai": "การตรวจสอบความถูกต้อง",
+   "level": "B2",
+   "example": "Formal verification checks policy changes before they are applied.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "wholesale",
+   "thai": "ขนานใหญ่, ทั้งหมดในคราวเดียว",
+   "level": "C1",
+   "example": "While transitioning to liquid cooling may seem like a straightforward solution, it is rarely a sudden, wholesale replacement.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ancillary",
+   "thai": "ส่วนเสริม, ที่เป็นส่วนสนับสนุนรอง",
+   "level": "C1",
+   "example": "Air cooling will still play a critical role in ancillary systems and lower-density zones.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "throttling",
+   "thai": "การจำกัดหรือลดความเร็วการทำงานเพื่อป้องกันความร้อนสูงเกิน",
+   "level": "B2",
+   "example": "Liquid cooling captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
