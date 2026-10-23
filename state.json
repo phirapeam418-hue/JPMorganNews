@@ -22067,7 +22067,7 @@
    "thai": "อุปสรรค / ความยากลำบาก",
    "level": "B2",
    "example": "The friction that made unikernels hard is gone.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23617,7 +23617,7 @@
    "thai": "อย่างเป็นเอกฉันท์",
    "level": "B2",
    "example": "Taylor City Council unanimously approved the proposals last week.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23907,7 +23907,7 @@
    "thai": "เฉพาะตัว, ผูกขาด",
    "level": "B2",
    "example": "The Estonian provider secured a strategic investment and exclusive partnership with Siemens.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24417,7 +24417,7 @@
    "thai": "ธุรกรรมทางธุรกิจ",
    "level": "B2",
    "example": "In a single transaction, we have expanded our power capacity under management by more than 50 percent.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24917,7 +24917,7 @@
    "thai": "การเข้าแทรกแซง",
    "level": "C1",
    "example": "The company claims its fuel and helium coolant prevent a meltdown without requiring active systems or human intervention.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -26360,6 +26360,26 @@
   "6257978100022248471": {
    "word": "mechanism",
    "correct": 3
+  },
+  "6260229899835933472": {
+   "word": "transaction",
+   "correct": 2
+  },
+  "6260229899835933473": {
+   "word": "friction",
+   "correct": 3
+  },
+  "6260229899835933474": {
+   "word": "intervention",
+   "correct": 2
+  },
+  "6260229899835933475": {
+   "word": "exclusive",
+   "correct": 2
+  },
+  "6260229899835933476": {
+   "word": "unanimously",
+   "correct": 1
   }
  },
  "fail": {
