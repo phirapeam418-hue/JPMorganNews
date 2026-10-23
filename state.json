@@ -1164,7 +1164,31 @@
   "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
   "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
   "https://keepandroidopen.org/",
-  "https://codeberg.org/shitter/shitter"
+  "https://codeberg.org/shitter/shitter",
+  "https://www.datacenterdynamics.com/en/news/core-stack-jv-adds-more-data-centers-to-1bn-italy-network/",
+  "https://www.datacenterdynamics.com/en/news/new-libyan-telecom-firm-to-launch-data-center-in-2027/",
+  "https://www.datacenterdynamics.com/en/news/crown-castle-bullish-on-carrier-spectrum-deployment-says-it-can-support-spacexs-terrestrial-dreams/",
+  "https://www.datacenterdynamics.com/en/news/actyus-adequita-and-nethits-launch-fund-for-edge-data-centers-report/",
+  "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
+  "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
+  "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/",
+  "https://www.datacenterdynamics.com/en/news/nokia-iceye-pair-with-ukraines-ministry-of-defence-on-satellite-cooperation/",
+  "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/",
+  "https://www.datacenterdynamics.com/en/opinions/why-legacy-building-systems-deserve-the-same-scrutiny-as-your-network/",
+  "https://www.datacenterdynamics.com/en/opinions/data-center-optionality-why-day-one-decisions-determine-day-two-success/",
+  "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
+  "https://www.datacenterdynamics.com/en/news/o-green-plans-data-center-campus-in-zaragoza-spain/",
+  "https://www.theregister.com/security/2026/10/23/theres-a-third-php2shell-bug-but-it-wont-get-an-emergency-fix/5305208",
+  "https://www.theregister.com/ai-and-ml/2026/10/23/red-team-report-found-openai-utterly-failed-to-monitor-its-agents-during-hugging-face-attack/5305200",
+  "https://www.theregister.com/ai-and-ml/2026/10/23/ai-models-think-humans-are-a-bunch-of-amoral-sheep/5305123",
+  "https://www.theregister.com/devops/2026/10/23/michigan-prof-creates-python-like-jac-language-for-ai-agents/5305110",
+  "https://www.theregister.com/software/2026/10/23/arc-browser-on-its-way-out-as-makers-suggest-an-alternative/5305114",
+  "https://www.theregister.com/os-platforms/2026/10/23/sparkyos-lightweight-general-purpose-arch-on-a-pendrive/5304984",
+  "https://blog.cloudflare.com/origin-range-requests/",
+  "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+  "https://www.kimi.ai/blog/kimi-k3-1-pro",
+  "https://music.apple.com/this-url-doesnt-exist",
+  "https://block.xyz/dessa"
  ],
  "stories": [
   {
@@ -20860,9 +20884,441 @@
    "credibility": 10,
    "msg_id": 295,
    "sent_ts": "2026-10-23T21:43:40.382121+07:00"
+  },
+  {
+   "id": 554,
+   "ts": "2026-10-24T05:46:21.476931+07:00",
+   "title": "Core Stack JV adds more data centers to €1bn Italy network",
+   "link": "https://www.datacenterdynamics.com/en/news/core-stack-jv-adds-more-data-centers-to-1bn-italy-network/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a long-term commercial buildout of data center capacity in Italy with on-site renewables and battery systems.",
+   "summary": "A joint venture between Core Stack and Green Arrow Capital plans to build 13 renewable-powered data centers across Italy. The project aims to add significant sustainable capacity to Southern Europe starting around 2028.",
+   "vocab": [
+    {
+     "word": "brownfield",
+     "thai": "พื้นที่อุตสาหกรรมเก่าที่ถูกนำมาพัฒนาใหม่",
+     "level": "C1",
+     "example": "The permit process for two facilities on brownfield sites near the cities of Cremona and Verona is in advanced stages."
+    },
+    {
+     "word": "compatible",
+     "thai": "สอดคล้องหรือเข้ากันได้",
+     "level": "B2",
+     "example": "The JV expects that this approach will allow it to identify and generate electrical capacity compatible with growing digital demand."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐานเปรียบเทียบ",
+     "level": "B2",
+     "example": "With this network, the JV aims to establish a benchmark for a new model of Italian data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 555,
+   "ts": "2026-10-24T05:46:21.477007+07:00",
+   "title": "Crown Castle bullish on carrier spectrum deployment, says it can support SpaceX's terrestrial dreams",
+   "link": "https://www.datacenterdynamics.com/en/news/crown-castle-bullish-on-carrier-spectrum-deployment-says-it-can-support-spacexs-terrestrial-dreams/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Executive commentary provides strategic market context for US wireless spectrum and cellular tower infrastructure.",
+   "summary": "Tower operator Crown Castle expects heavy investments from mobile carriers and SpaceX to drive strong infrastructure demand. The buildout of newly acquired wireless spectrum will expand terrestrial network footprints across the United States.",
+   "vocab": [
+    {
+     "word": "bullish",
+     "thai": "คาดการณ์ในแง่ดีหรือมีมุมมองเชิงบวก",
+     "level": "C1",
+     "example": "Hillabrant is bullish on some of the activity in the market that has already taken place."
+    },
+    {
+     "word": "catalyst",
+     "thai": "ตัวเร่งหรือสิ่งกระตุ้นให้เกิดการเปลี่ยนแปลง",
+     "level": "C1",
+     "example": "These transactions are all positive catalysts for towers."
+    },
+    {
+     "word": "terrestrial",
+     "thai": "บนภาคพื้นดิน",
+     "level": "C1",
+     "example": "Wireless carriers must secure spectrum resources needed to support future terrestrial wireless network growth."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 556,
+   "ts": "2026-10-24T05:46:21.477060+07:00",
+   "title": "Short seller bets against Csquare, says data center firm's shares are worthless",
+   "link": "https://www.datacenterdynamics.com/en/news/short-seller-bets-against-csquare-says-data-center-firms-shares-are-worthless/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A short-seller report raises financial solvency questions about a major colocation operator formed by recent mergers.",
+   "summary": "A financial research firm published a short report arguing that data center provider Csquare's stock is practically worthless. The critique claims the company relies on outdated assets and heavy debt structures that limit capital for future facility improvements.",
+   "vocab": [
+    {
+     "word": "prospectus",
+     "thai": "หนังสือชี้ชวนเสนอขายหลักทรัพย์",
+     "level": "C1",
+     "example": "The prospectus does not disclose that the assets have a long, documented history of financial failure."
+    },
+    {
+     "word": "subordinate",
+     "thai": "อยู่ในลำดับรองหรือด้อยสิทธิ์กว่า",
+     "level": "C1",
+     "example": "The capital structure relegates equity holders to a deeply subordinate position."
+    },
+    {
+     "word": "pledged",
+     "thai": "ถูกนำไปวางเป็นหลักประกัน",
+     "level": "C1",
+     "example": "Most of the company's higher-quality space is pledged to asset-backed securities."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 557,
+   "ts": "2026-10-24T05:46:21.477083+07:00",
+   "title": "Meta details Ohio Prometheus data center campus, with first phase live",
+   "link": "https://www.datacenterdynamics.com/en/news/meta-details-ohio-prometheus-data-center-campus-with-first-phase-live/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Meta details real-world hyperscale AI architecture, rack designs, cooling methods, and networking silicon at gigawatt scale.",
+   "summary": "Meta published detailed operational specifications for its Prometheus AI supercluster campus in Ohio, which is expanding toward a gigawatt of capacity. The facility integrates custom liquid-cooling architectures with high-throughput network topologies to connect hundreds of thousands of GPUs.",
+   "vocab": [
+    {
+     "word": "interconnect",
+     "thai": "เชื่อมต่อโครงข่ายถึงกัน",
+     "level": "C1",
+     "example": "Each Ethernet-based fabric interconnects up to 20,736 GPUs through a high-bandwidth multi-layer topology."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัดหรืออุปสรรค",
+     "level": "B2",
+     "example": "Scale-out networking is no longer the constraint it was on earlier hardware configurations."
+    },
+    {
+     "word": "variant",
+     "thai": "รูปแบบหรือรุ่นย่อยที่ดัดแปลง",
+     "level": "B2",
+     "example": "The engineering team deployed a specific server variant configured for dense AI model training."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 558,
+   "ts": "2026-10-24T05:46:21.477109+07:00",
+   "title": "ZTE unveils data center module designed for AI workloads",
+   "link": "https://www.datacenterdynamics.com/en/news/zte-unveils-data-center-module-designed-for-ai-workloads/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The article presents new data center hardware addressing liquid cooling, high-voltage DC power, and ultra-high rack power density.",
+   "summary": "ZTE unveiled a modular data center package built specifically for high-power AI workloads with rack capacities up to 250kW. The system incorporates certified leak-proof liquid cooling and high-voltage DC power distribution to improve energy efficiency.",
+   "vocab": [
+    {
+     "word": "retrofit",
+     "thai": "ดัดแปลงปรับปรุงโดยเพิ่มอุปกรณ์ใหม่เข้ากับระบบเดิม",
+     "level": "C1",
+     "example": "Operators can retrofit on-site from air to liquid cooling as power demands increase."
+    },
+    {
+     "word": "decoupled",
+     "thai": "แยกส่วนหรือตัดการพึ่งพาซึ่งกันและกัน",
+     "level": "C1",
+     "example": "Racks are decoupled from the frame to simplify maintenance and future hardware updates."
+    },
+    {
+     "word": "leak-proof",
+     "thai": "กันรั่วซึม",
+     "level": "B2",
+     "example": "The cooling solution received a system-level leak-proof certification for data center safety."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 559,
+   "ts": "2026-10-24T05:46:21.477133+07:00",
+   "title": "Nokia, ICEYE pair with Ukraine's Ministry of Defence on satellite cooperation",
+   "link": "https://www.datacenterdynamics.com/en/news/nokia-iceye-pair-with-ukraines-ministry-of-defence-on-satellite-cooperation/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Nokia and ICEYE's defense partnership addresses national satellite infrastructure resilience rather than operational enterprise data centers.",
+   "summary": "Nokia and satellite operator ICEYE signed a preliminary agreement with Ukraine's Ministry of Defence to develop sovereign satellite communications. The initiative intends to build independent and secure network infrastructure to avoid overreliance on commercial vendors like Starlink.",
+   "vocab": [
+    {
+     "word": "sovereign",
+     "thai": "ที่มีอำนาจอธิปไตยหรือควบคุมได้เองโดยรัฐ",
+     "level": "C1",
+     "example": "The partners signed an agreement to explore building sovereign satellite communications for national security."
+    },
+    {
+     "word": "interceptor",
+     "thai": "ยานหรืออาวุธสำหรับสกัดกั้น",
+     "level": "C1",
+     "example": "Network connectivity disruptions directly impacted both offensive drones and interceptor drones."
+    },
+    {
+     "word": "constellation",
+     "thai": "กลุ่มดาวเทียมที่โคจรทำงานร่วมกัน",
+     "level": "C1",
+     "example": "The company is on track to launch its own low Earth orbit constellation next year."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 560,
+   "ts": "2026-10-24T05:47:06.592117+07:00",
+   "title": "Oregon city declares state of emergency over lost data center revenue amid state-wide ban",
+   "link": "https://www.datacenterdynamics.com/en/news/oregon-city-declares-state-of-emergency-over-lost-data-center-revenue-amid-state-wide-ban/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly impacts data center expansion plans and regional investments in Oregon, though specific to one local area.",
+   "summary": "The city of Umatilla, Oregon, declared a local state of emergency over lost municipal revenue after the state governor blocked new data center permits. The permitting freeze threatens over $5 billion in planned private investments from operators like AWS and Sabey.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การระงับชั่วคราว",
+     "level": "C1",
+     "example": "The state governor introduced a de facto moratorium on new developments."
+    },
+    {
+     "word": "resolution",
+     "thai": "มติที่ประชุม",
+     "level": "B2",
+     "example": "The council voted to approve a resolution to be reviewed in 90 days."
+    },
+    {
+     "word": "directive",
+     "thai": "คำสั่งหรือข้อบังคับ",
+     "level": "C1",
+     "example": "The move follows the governor's recent directive to block new permits."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 561,
+   "ts": "2026-10-24T05:47:06.592159+07:00",
+   "title": "Why legacy building systems deserve the same scrutiny as your network",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-legacy-building-systems-deserve-the-same-scrutiny-as-your-network/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Affects critical data center infrastructure directly (Vertiv UPS and Trane HVAC systems) requiring patching and review.",
+   "summary": "Security researchers discovered severe vulnerabilities in widely used Vertiv UPS network cards and Trane HVAC controllers. These flaws allow attackers to remotely bypass authentication and disrupt critical data center cooling and power infrastructure.",
+   "vocab": [
+    {
+     "word": "foothold",
+     "thai": "ที่มั่นหรือจุดเริ่มต้นในการเจาะระบบ",
+     "level": "C1",
+     "example": "An attacker could use that foothold to reach further into the network."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียดถี่ถ้วน",
+     "level": "C1",
+     "example": "Building management systems get far less scrutiny than a laptop or a server."
+    },
+    {
+     "word": "outright",
+     "thai": "โดยสิ้นเชิง",
+     "level": "B2",
+     "example": "These flaws could have let an attacker take control of the device outright."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 562,
+   "ts": "2026-10-24T05:47:06.592207+07:00",
+   "title": "Russian finance ministry data center struck by Ukrainian forces",
+   "link": "https://www.datacenterdynamics.com/en/news/russian-tax-dc-0-gorodets/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on physical kinetic attacks against data centers in a wartime conflict, showing physical operational risks.",
+   "summary": "Ukrainian drone strikes hit a major Russian government data center run by the Federal Tax Service in Nizhny Novgorod Oblast. The incident highlights the growing risk of physical military strikes targeting digital and data processing infrastructure.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "B2",
+     "example": "The taxation service is responsible for overseeing tax compliance."
+    },
+    {
+     "word": "escalation",
+     "thai": "การทวีความรุนแรงขึ้น",
+     "level": "C1",
+     "example": "The conflict has seen significant escalation after large-scale military actions."
+    },
+    {
+     "word": "mitigating",
+     "thai": "การบรรเทาหรือลดผลกระทบ",
+     "level": "C1",
+     "example": "Russian officials have been discussing mitigating measures for attacks on its data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 563,
+   "ts": "2026-10-24T05:48:28.101002+07:00",
+   "title": "Origin Range Requests: Serving large files without range-request tuning",
+   "link": "https://blog.cloudflare.com/origin-range-requests/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Automatic origin range request handling significantly reduces egress bandwidth and improves latency for large-file caching on CDN networks.",
+   "summary": "Cloudflare introduced Origin Range Requests to automate the caching and retrieval of large file segments without manual range-size configuration. This architecture reduces origin egress bandwidth by satisfying partial requests dynamically while decreasing response latency.",
+   "vocab": [
+    {
+     "word": "concurrent",
+     "thai": "ที่เกิดขึ้นพร้อมกัน",
+     "level": "B2",
+     "example": "Concurrent requests that fell inside the same range could previously block each other."
+    },
+    {
+     "word": "coalescing",
+     "thai": "การรวมเข้าเป็นหนึ่งเดียว",
+     "level": "C1",
+     "example": "Small ranges created memory pressure from coalescing numerous requests in-memory."
+    },
+    {
+     "word": "artifact",
+     "thai": "ชิ้นงานหรือไฟล์ที่สร้างขึ้น",
+     "level": "B2",
+     "example": "A package manager can fetch part of a software artifact directly."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 564,
+   "ts": "2026-10-24T05:48:28.101052+07:00",
+   "title": "Bringing post-quantum cryptography to geographically fenced key management",
+   "link": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Upgrading geographically restricted TLS key management with post-quantum cryptography strengthens data sovereignty against future quantum decryption risks.",
+   "summary": "Cloudflare launched a closed beta of its post-quantum GeoKey Manager to ensure private decryption keys remain physically restricted to designated jurisdictions. This feature protects organizations against future quantum decryption attacks while maintaining compliance with regional data residency rules.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตยหรือการมีอำนาจปกครองตนเอง",
+     "level": "C1",
+     "example": "The service is a cornerstone of solutions designed to meet strict data sovereignty regulations."
+    },
+    {
+     "word": "adversary",
+     "thai": "ฝ่ายตรงข้ามหรือผู้ไม่หวังดี",
+     "level": "C1",
+     "example": "An adversary can store encrypted traffic now and decrypt it once quantum computers emerge."
+    },
+    {
+     "word": "ciphertext",
+     "thai": "ข้อความหรือข้อมูลที่ผ่านการเข้ารหัสแล้ว",
+     "level": "C1",
+     "example": "Attackers can retain intercepted ciphertext until decryption technology improves."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 565,
+   "ts": "2026-10-24T05:48:28.101074+07:00",
+   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+   "link": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "A new high-context open-weight foundation model provides alternative AI infrastructure for autonomous coding agents.",
+   "summary": "Moonshot AI announced Kimi K3.1 Pro, an open-weight foundation model featuring a one-million-token context window and improved agentic coding capabilities. An accompanying high-speed inference variant has also been deployed via API and web interfaces.",
+   "vocab": [
+    {
+     "word": "rollout",
+     "thai": "การทยอยเปิดตัวหรือเริ่มนำมาใช้งาน",
+     "level": "B2",
+     "example": "They optimized rollout scheduling to ensure stable returns during large-scale training."
+    },
+    {
+     "word": "predictable",
+     "thai": "ที่คาดเดาได้หรือเป็นไปตามแผน",
+     "level": "B2",
+     "example": "Infrastructure improvements ensure that each training increment delivers predictable results."
+    },
+    {
+     "word": "iteratively",
+     "thai": "อย่างเป็นขั้นตอนซ้ำๆ เพื่อปรับปรุง",
+     "level": "C1",
+     "example": "The model analyzed output and iteratively refined the controller to prevent failure."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 554,
+ "next_id": 566,
  "vocab": [
   {
    "word": "commissioning",
@@ -25675,7 +26131,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
