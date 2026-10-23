@@ -1140,7 +1140,31 @@
   "https://www.awakin.org/v2/read/view.php?tid=468",
   "https://github.com/dsmurrell/onkey",
   "https://www.sciencealert.com/a-lost-schrdinger-manuscript-reveals-a-surprising-twist-in-quantum-physics",
-  "https://jank-lang.org/"
+  "https://jank-lang.org/",
+  "https://www.datacenterdynamics.com/en/news/googles-fiber-unit-to-snap-up-dark-fiber-leasing-contract-from-ting-fiber-in-colorado-springs/",
+  "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-awarded-73m-in-chips-act-funding-to-support-vgan-transistor-development/",
+  "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
+  "https://www.datacenterdynamics.com/en/news/telefonica-and-iqm-to-install-madrids-first-quantum-computer/",
+  "https://www.datacenterdynamics.com/en/news/insurtech-company-reliance-global-group-to-acquire-gpu-cloud-company-and-pivot-strategy/",
+  "https://www.datacenterdynamics.com/en/news/swiss-federal-govt-publishes-85bn-tender-for-cloud-services/",
+  "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-225mw-off-grid-data-center-in-zaragoza-spain/",
+  "https://www.datacenterdynamics.com/en/whitepapers/shaping-a-sustainable-future/",
+  "https://www.datacenterdynamics.com/en/news/sttgdc-to-host-neysa-gpus-at-data-center-in-noida-india/",
+  "https://www.datacenterdynamics.com/en/news/neocloud-nebius-secures-35bn-in-financing-from-citi/",
+  "https://www.datacenterdynamics.com/en/news/emerald-ai-nvidia-share-results-of-latest-pilot-at-nscale-data-center-in-iceland/",
+  "https://www.datacenterdynamics.com/en/news/aleria-to-deploy-nvidia-blackwell-and-vera-rubin-gpus-in-us-and-uae/",
+  "https://www.datacenterdynamics.com/en/news/spacex-aims-to-access-80000-us-cell-sites-for-wireless-network/",
+  "https://www.datacenterdynamics.com/en/news/us-department-of-commerce-commits-up-to-389m-in-rd-funding-to-power-semiconductors-for-fusion-and-advanced-computing/",
+  "https://www.datacenterdynamics.com/en/news/foresight-announces-intention-to-buy-stake-in-polish-data-center-developer/",
+  "https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978",
+  "https://www.theregister.com/science/2026/10/23/musk-disputes-nasa-safety-panels-lunar-launch-estimates/5304961",
+  "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+  "https://www.theregister.com/bofh/2026/10/23/bofh-i-talked-to-claude-and-he-says-youre-an-idiot/5304921",
+  "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
+  "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+  "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+  "https://keepandroidopen.org/",
+  "https://codeberg.org/shitter/shitter"
  ],
  "stories": [
   {
@@ -21000,9 +21024,553 @@
    "urgency": 6,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 539,
+   "ts": "2026-10-23T21:35:54.369590+07:00",
+   "title": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development",
+   "link": "https://www.datacenterdynamics.com/en/news/vertical-semiconductor-awarded-73m-in-chips-act-funding-to-support-vgan-transistor-development/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Vertical GaN power semiconductor advances directly address growing power density bottlenecks in AI data centers.",
+   "summary": "Vertical Semiconductor secured up to $73 million in US CHIPS Act funding to develop vertical gallium nitride power chips. The technology aims to reduce power losses and shrink the physical footprint of high-density AI server racks.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "ปัญหาคอขวด / อุปสรรคที่ทำให้กระบวนการช้าลง",
+     "level": "B2",
+     "example": "Power is the most significant bottleneck in the build-out of AI infrastructure."
+    },
+    {
+     "word": "breakthrough",
+     "thai": "การค้นพบครั้งสำคัญ / ความก้าวหน้าครั้งใหญ่",
+     "level": "B2",
+     "example": "These awards will support breakthroughs in power semiconductor devices and critical materials."
+    },
+    {
+     "word": "commercialization",
+     "thai": "การพัฒนาสู่เชิงพาณิชย์",
+     "level": "C1",
+     "example": "The funding will accelerate initiatives for the commercialization of vertical Gallium Nitride."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 540,
+   "ts": "2026-10-23T21:35:54.369620+07:00",
+   "title": "Data center outage leaves Portugal's National Health Service without prescriptions",
+   "link": "https://www.datacenterdynamics.com/en/news/a-data-center-outage-leaves-portugals-sns-without-prescriptions/",
+   "source": "DCD",
+   "score": 7,
+   "watch": true,
+   "reason": "A dual power outage at a core data center disrupted national healthcare and prescription systems across Portugal.",
+   "summary": "A power outage at a government data center in northern Portugal took critical National Health Service systems offline nationwide. The disruption halted electronic prescriptions and patient records before systems were recovered several hours later.",
+   "vocab": [
+    {
+     "word": "successive",
+     "thai": "ที่เกิดขึ้นต่อเนื่องกัน / ตามลำดับ",
+     "level": "C1",
+     "example": "As explained in a statement, there were two successive outages at the facility."
+    },
+    {
+     "word": "overhaul",
+     "thai": "การยกเครื่องใหม่ / การบูรณะปรับปรุงขนานใหญ่",
+     "level": "C1",
+     "example": "In addition, it plans to overhaul the power architecture of the existing data center."
+    },
+    {
+     "word": "accountability",
+     "thai": "ความรับผิดชอบที่ตรวจสอบได้",
+     "level": "C1",
+     "example": "The medical federation demands structural solutions, investment, and accountability."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9,
+   "msg_id": 294,
+   "sent_ts": "2026-10-23T21:35:55.153237+07:00"
+  },
+  {
+   "id": 541,
+   "ts": "2026-10-23T21:35:55.153636+07:00",
+   "title": "Swiss federal gov't publishes $8.5bn tender for cloud services",
+   "link": "https://www.datacenterdynamics.com/en/news/swiss-federal-govt-publishes-85bn-tender-for-cloud-services/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The Swiss government is deploying significant capital into multi-tier sovereign public and private cloud tenders.",
+   "summary": "The Swiss federal government released an $8.5 billion public tender to construct a multi-tiered sovereign cloud platform. The infrastructure will feature both public cloud layers and on-premises private cloud systems to replace legacy environments.",
+   "vocab": [
+    {
+     "word": "tender",
+     "thai": "การประมูลงาน / ซองประมูล",
+     "level": "C1",
+     "example": "Switzerland’s federal government has published a tender worth up to $8.5bn for cloud services."
+    },
+    {
+     "word": "sovereignty",
+     "thai": "อำนาจอธิปไตย (ในที่นี้คือ อธิปไตยทางดิจิทัล)",
+     "level": "C1",
+     "example": "The project focuses on enhancing Switzerland’s digital sovereignty."
+    },
+    {
+     "word": "outlay",
+     "thai": "ค่าใช้จ่าย / เงินที่จ่ายออกไป",
+     "level": "C1",
+     "example": "These costs do not include implementation outlays, which will reach hundreds of millions."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 542,
+   "ts": "2026-10-23T21:35:55.153671+07:00",
+   "title": "Krolmap plans a 225MW off-grid data center in Zaragoza, Spain",
+   "link": "https://www.datacenterdynamics.com/en/news/krolmap-plans-a-225mw-off-grid-data-center-in-zaragoza-spain/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A 225MW off-grid facility reflects an important industry trend addressing electrical grid interconnection shortages.",
+   "summary": "Engineering firm Krolmap announced plans for a 225MW data center campus in Zaragoza, Spain, operating entirely off-grid. The facility will generate its own power via on-site renewables, storage, and cogeneration to circumvent power grid bottlenecks.",
+   "vocab": [
+    {
+     "word": "cogeneration",
+     "thai": "การผลิตพลังงานความร้อนและไฟฟ้าร่วมกัน",
+     "level": "C1",
+     "example": "The initiative aims to integrate renewable generation, storage, and cogeneration to meet continuous demand."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด / อุปสรรค",
+     "level": "C1",
+     "example": "The proposal addresses one of the main constraints on the development of large data centers in Spain."
+    },
+    {
+     "word": "sustain",
+     "thai": "รักษาไว้ / รองรับได้อย่างต่อเนื่อง",
+     "level": "B2",
+     "example": "The developer must size and operate an energy system capable of sustaining critical loads."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 543,
+   "ts": "2026-10-23T21:39:37.332514+07:00",
+   "title": "STTGDC to host Neysa GPUs at data center in Noida, India",
+   "link": "https://www.datacenterdynamics.com/en/news/sttgdc-to-host-neysa-gpus-at-data-center-in-noida-india/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This is an announcement of a regional data center hosting agreement in India planned for 2027.",
+   "summary": "Data center operator STTGDC will host up to 9,000 GPUs for Indian neocloud provider Neysa at its Noida facility starting in 2027. The project aims to provide sovereign AI compute infrastructure for domestic and global enterprise workloads.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ที่ยืดหยุ่นและคืนสภาพได้เร็ว",
+     "level": "B2",
+     "example": "The deal reflects growing demand for resilient, scalable infrastructure to support complex workloads."
+    },
+    {
+     "word": "footprint",
+     "thai": "ขอบเขตพื้นที่หรือการครอบคลุมของการดำเนินงาน",
+     "level": "B2",
+     "example": "Customers want to add India to their global infrastructure footprint."
+    },
+    {
+     "word": "experimentation",
+     "thai": "การทดลอง",
+     "level": "B2",
+     "example": "This deployment will help enterprises move from experimentation to real-world applications."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 544,
+   "ts": "2026-10-23T21:39:37.332553+07:00",
+   "title": "Neocloud Nebius secures $3.5bn in financing from Citi",
+   "link": "https://www.datacenterdynamics.com/en/news/neocloud-nebius-secures-35bn-in-financing-from-citi/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This covers financial debt procurement by a major AI cloud player to fund data center buildouts.",
+   "summary": "AI cloud operator Nebius has secured a $3.5 billion credit facility arranged by Citi to finance data center construction and GPU procurement. The short-term loan provides immediate capital flexibility as the company continues expanding its global compute fleet.",
+   "vocab": [
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดหา",
+     "level": "C1",
+     "example": "The facility will support data center development and GPU procurement."
+    },
+    {
+     "word": "mature",
+     "thai": "ถึงกำหนดชำระ (ทางการเงิน)",
+     "level": "C1",
+     "example": "The loan matures in one year and initially bears interest at SOFR plus 2.75 percent."
+    },
+    {
+     "word": "sequencing",
+     "thai": "การจัดลำดับขั้นตอน",
+     "level": "C1",
+     "example": "Sequencing our financing is how we optimize our long-term cost of capital."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 545,
+   "ts": "2026-10-23T21:39:37.332581+07:00",
+   "title": "Emerald AI, Nvidia share results of latest pilot at Nscale data center in Iceland",
+   "link": "https://www.datacenterdynamics.com/en/news/emerald-ai-nvidia-share-results-of-latest-pilot-at-nscale-data-center-in-iceland/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to data center operations regarding dynamic AI power modulation and grid demand management.",
+   "summary": "Emerald AI and Nvidia completed a pilot in Iceland demonstrating that software can cut AI server power consumption by 25 percent for 30 minutes on demand. This orchestration helps data centers respond to power grid limits without disrupting compute operations.",
+   "vocab": [
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Access to power has become the main constraint on AI facility build-outs."
+    },
+    {
+     "word": "orchestrate",
+     "thai": "ประสานและจัดการระบบที่ซับซ้อน",
+     "level": "C1",
+     "example": "The software orchestrates AI workloads in real time to stabilize grid power."
+    },
+    {
+     "word": "dynamically",
+     "thai": "อย่างปรับเปลี่ยนได้ตามสถานการณ์",
+     "level": "B2",
+     "example": "This enables data centers to dynamically adjust their energy consumption."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 546,
+   "ts": "2026-10-23T21:39:37.332606+07:00",
+   "title": "Aleria to deploy Nvidia Blackwell and Vera Rubin GPUs in US and UAE",
+   "link": "https://www.datacenterdynamics.com/en/news/aleria-to-deploy-nvidia-blackwell-and-vera-rubin-gpus-in-us-and-uae/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Details future hardware deployments involving Nvidia Blackwell and Vera Rubin platforms across two regions.",
+   "summary": "Infrastructure provider Aleria plans to deploy Nvidia Blackwell Ultra and Vera Rubin GPU racks across data centers in the US and the UAE. Supported by DDN storage, the clusters aim to power sovereign enterprise and national AI workloads.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "ประนีประนอมหรือลดทอนมาตรฐาน",
+     "level": "B2",
+     "example": "Organizations cannot afford to compromise on security and reliability."
+    },
+    {
+     "word": "conversion",
+     "thai": "การดัดแปลงหรือเปลี่ยนสภาพ",
+     "level": "B2",
+     "example": "The deal involved the conversion of a cryptomining data center into an AI facility."
+    },
+    {
+     "word": "sovereign",
+     "thai": "ที่มีอำนาจอธิปไตยหรือเป็นอิสระของประเทศ",
+     "level": "C1",
+     "example": "Our sovereign AI structure is live in the UAE, running national workloads."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 547,
+   "ts": "2026-10-23T21:39:37.332631+07:00",
+   "title": "SpaceX aims to access 80,000 US cell sites for wireless network",
+   "link": "https://www.datacenterdynamics.com/en/news/spacex-aims-to-access-80000-us-cell-sites-for-wireless-network/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers telecommunications networking and cell tower infrastructure negotiations by SpaceX.",
+   "summary": "SpaceX is in negotiations with tower operators such as Crown Castle to secure access to 80,000 cellular sites across the United States. The move supports its goal to launch direct-to-cell mobile carrier services combining low-band spectrum and satellites.",
+   "vocab": [
+    {
+     "word": "terrestrial",
+     "thai": "ภาคพื้นดิน",
+     "level": "C1",
+     "example": "SpaceX confirmed it will be building out its terrestrial network across the country."
+    },
+    {
+     "word": "breadth",
+     "thai": "ความกว้างขวางหรือความครอบคลุม",
+     "level": "C1",
+     "example": "You need low-band spectrum to provide breadth of cellular coverage."
+    },
+    {
+     "word": "milestone",
+     "thai": "ก้าวสำคัญหรือเหตุการณ์สำคัญ",
+     "level": "B2",
+     "example": "Industry executives called the spectrum acquisition a huge milestone for the firm."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 548,
+   "ts": "2026-10-23T21:39:37.332658+07:00",
+   "title": "US Department of Commerce commits up to $389m in R&D funding to power semiconductors for fusion and advanced computing",
+   "link": "https://www.datacenterdynamics.com/en/news/us-department-of-commerce-commits-up-to-389m-in-rd-funding-to-power-semiconductors-for-fusion-and-advanced-computing/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Government funding for long-term power delivery semiconductor research related to advanced computing.",
+   "summary": "The US Department of Commerce awarded up to $389 million in funding to four companies to advance power semiconductors for fusion energy and computing. The initiative aims to secure domestic supply chains for high-voltage power delivery systems needed for future energy infrastructure.",
+   "vocab": [
+    {
+     "word": "domestic",
+     "thai": "ภายในประเทศ",
+     "level": "B2",
+     "example": "The funding aims to enhance domestic energy and power resources."
+    },
+    {
+     "word": "earmarked",
+     "thai": "จัดสรรไว้สำหรับวัตถุประสงค์เฉพาะ",
+     "level": "C1",
+     "example": "A further eighty million dollars was earmarked to support semiconductor research."
+    },
+    {
+     "word": "pulsed",
+     "thai": "ที่เป็นจังหวะหรือปล่อยเป็นระลอก",
+     "level": "C1",
+     "example": "The semiconductors are designed for pulsed-power applications in fusion reactors."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 549,
+   "ts": "2026-10-23T21:39:37.332706+07:00",
+   "title": "PubKeep picks up where Microsoft Publisher signs off",
+   "link": "https://www.theregister.com/applications/2026/10/23/pubkeep-picks-up-where-microsoft-publisher-signs-off/5304978",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "A broad weekly media digest containing diverse technology snippets rather than an in-depth operational event.",
+   "summary": "This newsletter summary aggregates several tech stories, ranging from on-premise SharePoint vulnerabilities to modular datacenter concepts presented by Nvidia. It provides brief updates across open-source developments, cybersecurity threats, and software tooling.",
+   "vocab": [
+    {
+     "word": "competent",
+     "thai": "ที่มีความสามารถหรือมีทักษะเพียงพอ",
+     "level": "B2",
+     "example": "Maintainers noted that AI code generation is acceptable for competent developers."
+    },
+    {
+     "word": "persistent",
+     "thai": "ที่ทำงานต่อเนื่องหรือคงอยู่ตลอด",
+     "level": "B2",
+     "example": "Persistent software agents appeal to enterprise AI companies."
+    },
+    {
+     "word": "interim",
+     "thai": "ชั่วคราวหรือระยะระหว่างกาล",
+     "level": "B2",
+     "example": "Ubuntu interim releases are becoming increasingly interesting for developers."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 550,
+   "ts": "2026-10-23T21:43:39.659593+07:00",
+   "title": "Torvalds: AI is fine for competent devs, but spare us the 'drive-by' patches",
+   "link": "https://www.theregister.com/columnists/2026/10/23/torvalds-ai-is-fine-for-competent-devs-but-spare-us-the-drive-by-patches/5304357",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Linus Torvalds' stance on AI coding sets the direction for Linux kernel development, though it requires no operational changes.",
+   "summary": "Linus Torvalds defended accepting AI-assisted code contributions into the Linux kernel as long as they come from competent developers who understand what they submit. Maintainers are becoming overwhelmed by careless AI-generated patches, highlighting ongoing challenges in managing open-source software quality.",
+   "vocab": [
+    {
+     "word": "ludicrous",
+     "thai": "น่าขัน / ไร้สาระสิ้นดี",
+     "level": "C1",
+     "example": "The idea that he would do anything he did not want to on behalf of someone else is ludicrous."
+    },
+    {
+     "word": "anathema",
+     "thai": "สิ่งที่น่ารังเกียจอย่างยิ่งหรือไม่สามารถยอมรับได้",
+     "level": "C2",
+     "example": "The idea that AI providers must pay creators for their work is anathema to them."
+    },
+    {
+     "word": "codebase",
+     "thai": "ฐานรหัสโปรแกรมทั้งหมดของระบบ",
+     "level": "B2",
+     "example": "We have a large codebase that AI finds real bugs in, which adds work for maintainers."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 551,
+   "ts": "2026-10-23T21:43:39.659656+07:00",
+   "title": "UK threatens subsea cable saboteurs with 14 years behind bars",
+   "link": "https://www.theregister.com/networks/2026/10/23/uk-threatens-subsea-cable-saboteurs-with-14-years-behind-bars/5304794",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Subsea cable security is critical for international connectivity, but a proposed UK penalty law does not require immediate operational response.",
+   "summary": "The UK government is proposing severe criminal penalties of up to 14 years in prison for individuals who sabotage subsea data cables. Protecting subsea telecommunications lines is vital for safeguarding global data center traffic and cross-border networking.",
+   "vocab": [
+    {
+     "word": "saboteur",
+     "thai": "ผู้ก่อวินาศกรรม",
+     "level": "C1",
+     "example": "The UK threatens subsea cable saboteurs with 14 years behind bars."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การตรวจตราสอดแนม",
+     "level": "B2",
+     "example": "Governments continue to upgrade smartphone surveillance tools."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความช่วยเหลือ / เกณฑ์กำลัง",
+     "level": "B2",
+     "example": "The project enlists hackers to harden critical infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 552,
+   "ts": "2026-10-23T21:43:39.659680+07:00",
+   "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+   "link": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Power and utility pricing is a primary cost driver for data center location planning and ongoing operational expenses.",
+   "summary": "US energy pricing data shows that investor-owned utilities charge around 23 percent more per kilowatt-hour than publicly owned or cooperative utilities. Electricity rates from private utilities have risen sharply since 2020, making utility ownership a key factor when budgeting for data center power consumption.",
+   "vocab": [
+    {
+     "word": "nonprofit",
+     "thai": "ไม่แสวงหาผลกำไร",
+     "level": "B2",
+     "example": "Investor-owned prices rose faster than nonprofit prices across most states."
+    },
+    {
+     "word": "inflation",
+     "thai": "ภาวะเงินเฟ้อ",
+     "level": "B2",
+     "example": "Investor-owned electricity prices rose 34 percent against 24 percent inflation."
+    },
+    {
+     "word": "band",
+     "thai": "ช่วงหรือแถบที่ใช้แบ่งระดับ",
+     "level": "B2",
+     "example": "Home prices were grouped in two-cent bands to analyze the distribution."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 553,
+   "ts": "2026-10-23T21:43:39.659699+07:00",
+   "title": "OpenSSL 4.1.0",
+   "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "OpenSSL is widely deployed across server infrastructure, and major updates introduce new protocols, hardware acceleration, and known bugs.",
+   "summary": "OpenSSL version 4.1.0 has been released, introducing DTLS 1.3 support and hardware-optimized post-quantum cryptographic operations. Infrastructure operators should review the documented known issues with DTLS connection listeners before updating production servers.",
+   "vocab": [
+    {
+     "word": "incompatible",
+     "thai": "ที่เข้ากันไม่ได้ / ไม่รองรับรูปแบบเดิม",
+     "level": "B2",
+     "example": "This release incorporates several potentially incompatible changes."
+    },
+    {
+     "word": "handshake",
+     "thai": "ขั้นตอนการเจรจาเชื่อมต่อทางคอมพิวเตอร์",
+     "level": "B2",
+     "example": "Servers may abort handshakes when unexpected packets are received."
+    },
+    {
+     "word": "retransmission",
+     "thai": "การส่งข้อมูลซ้ำใหม่อีกครั้ง",
+     "level": "C1",
+     "example": "Pending packets will no longer be available for retransmission if the buffer is cleared."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 10,
+   "msg_id": 295,
+   "sent_ts": "2026-10-23T21:43:40.382121+07:00"
   }
  ],
- "next_id": 539,
+ "next_id": 554,
  "vocab": [
   {
    "word": "commissioning",
@@ -25549,6 +26117,66 @@
    "thai": "การจำกัดหรือลดความเร็วการทำงานเพื่อป้องกันความร้อนสูงเกิน",
    "level": "B2",
    "example": "Liquid cooling captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "successive",
+   "thai": "ที่เกิดขึ้นต่อเนื่องกัน / ตามลำดับ",
+   "level": "C1",
+   "example": "As explained in a statement, there were two successive outages at the facility.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overhaul",
+   "thai": "การยกเครื่องใหม่ / การบูรณะปรับปรุงขนานใหญ่",
+   "level": "C1",
+   "example": "In addition, it plans to overhaul the power architecture of the existing data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accountability",
+   "thai": "ความรับผิดชอบที่ตรวจสอบได้",
+   "level": "C1",
+   "example": "The medical federation demands structural solutions, investment, and accountability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incompatible",
+   "thai": "ที่เข้ากันไม่ได้ / ไม่รองรับรูปแบบเดิม",
+   "level": "B2",
+   "example": "This release incorporates several potentially incompatible changes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "handshake",
+   "thai": "ขั้นตอนการเจรจาเชื่อมต่อทางคอมพิวเตอร์",
+   "level": "B2",
+   "example": "Servers may abort handshakes when unexpected packets are received.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retransmission",
+   "thai": "การส่งข้อมูลซ้ำใหม่อีกครั้ง",
+   "level": "C1",
+   "example": "Pending packets will no longer be available for retransmission if the buffer is cleared.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
