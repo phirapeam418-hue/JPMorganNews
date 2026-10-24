@@ -1188,339 +1188,33 @@
   "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
   "https://www.kimi.ai/blog/kimi-k3-1-pro",
   "https://music.apple.com/this-url-doesnt-exist",
-  "https://block.xyz/dessa"
+  "https://block.xyz/dessa",
+  "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+  "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+  "https://cve.0xosprey.com/",
+  "https://blog.calif.io/p/iphone",
+  "https://pudding.cool/2026/10/kevin-bacon/",
+  "https://astral.sh/blog/uv-ty-integration",
+  "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+  "https://martinfinkel.com/blog/gaussian-blur-c-vs-csharp/",
+  "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+  "https://corgi.computer/",
+  "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+  "https://e360.yale.edu/features/2026-film-contest-second-place-cerrado",
+  "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+  "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/",
+  "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+  "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/",
+  "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+  "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/",
+  "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+  "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/",
+  "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+  "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
+  "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+  "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
  ],
  "stories": [
-  {
-   "id": 20,
-   "ts": "2026-10-10T06:42:12.163412+07:00",
-   "title": "AWS AgentCore security undone by prompt requesting credentials",
-   "link": "https://www.theregister.com/security/2026/10/09/aws-agentcore-security-undone-by-prompt-requesting-credentials/5302436",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": false,
-   "reason": "Critical zero-day and security vulnerabilities directly affect cloud servers, infrastructure, and enterprise software operations.",
-   "summary": "Recent security disclosures highlight zero-day vulnerabilities in enterprise software and severe cloud credential exposure risks. These flaws require immediate patching and vigilance from infrastructure operations teams.",
-   "vocab": [
-    {
-     "word": "credential",
-     "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่านหรือโทเค็น)",
-     "level": "B2",
-     "example": "AWS AgentCore security undone by prompt requesting credentials."
-    },
-    {
-     "word": "vulnerability",
-     "thai": "จุดอ่อนหรือช่องโหว่ทางความปลอดภัย",
-     "level": "B2",
-     "example": "Security Microsoft patches failed to fix on-prem SharePoint under zero-day attack."
-    },
-    {
-     "word": "bolster",
-     "thai": "เสริมสร้าง หรือสนับสนุน",
-     "level": "C1",
-     "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 12,
-   "sent_ts": "2026-10-10T10:11:41.271739+07:00"
-  },
-  {
-   "id": 21,
-   "ts": "2026-10-10T06:42:12.163450+07:00",
-   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-   "link": "https://carrierexplode.com/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Provides detailed decoding of mobile carrier settings and APNs, useful for niche networking but low direct operational impact.",
-   "summary": "A new tool decodes and compares carrier settings, APNs, and networking configurations across major smartphones. It provides structured JSON data and APIs for developers analyzing mobile network behaviors.",
-   "vocab": [
-    {
-     "word": "backend",
-     "thai": "ระบบเบื้องหลัง (ส่วนประมวลผลของแอปพลิเคชัน)",
-     "level": "B2",
-     "example": "carrier-explode 2.0 is out with a much improved backend."
-    },
-    {
-     "word": "firmware",
-     "thai": "ชุดคำสั่งฝังตัวในฮาร์ดแวร์",
-     "level": "B2",
-     "example": "Carrier settings from iPhone, Pixel and Galaxy firmware, decoded and compared."
-    },
-    {
-     "word": "dataset",
-     "thai": "ชุดข้อมูล",
-     "level": "B2",
-     "example": "Get it all as JSON from the API, or as a daily CC0 dataset."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 7
-  },
-  {
-   "id": 22,
-   "ts": "2026-10-10T06:42:12.163488+07:00",
-   "title": "Show HN: Proton Drive for Linux",
-   "link": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Introduces a FUSE virtual filesystem for Linux, relevant to systems administrators and DevOps tool usage.",
-   "summary": "A new open-source tool allows Linux users to mount Proton Drive as a local filesystem using FUSE. It downloads files on demand to save local disk space and bandwidth.",
-   "vocab": [
-    {
-     "word": "filesystem",
-     "thai": "ระบบไฟล์",
-     "level": "B2",
-     "example": "A FUSE virtual filesystem that mounts Proton Drive as a local folder on Linux."
-    },
-    {
-     "word": "bandwidth",
-     "thai": "แบนด์วิดท์ ปริมาณรับส่งข้อมูลเครือข่าย",
-     "level": "B2",
-     "example": "This is a lazy approach that saves bandwidth and disk space."
-    },
-    {
-     "word": "daemon",
-     "thai": "โปรแกรมเบื้องหลังที่ทำงานอัตโนมัติในยูนิกซ์",
-     "level": "C1",
-     "example": "Reads and writes go through the kernel's FUSE layer to the mount daemon."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 23,
-   "ts": "2026-10-10T06:42:12.163510+07:00",
-   "title": "No Man Is an Island",
-   "link": "https://borretti.me/article/no-man-is-an-island",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Thought-provoking essay on how AI impacts software engineering discourse and developer skill acquisition, relevant to engineering leaders.",
-   "summary": "An opinion piece argues that reliance on AI coding agents diminishes rigorous technical learning and community discourse among developers. It warns that deep software engineering competencies may degrade over time.",
-   "vocab": [
-    {
-     "word": "competency",
-     "thai": "สมรรถนะ ความสามารถ",
-     "level": "C1",
-     "example": "Software engineering competencies may degrade over time."
-    },
-    {
-     "word": "diminish",
-     "thai": "ลดลง ทำให้ลดน้อยลง",
-     "level": "C1",
-     "example": "Reliance on AI coding agents diminishes rigorous technical learning."
-    },
-    {
-     "word": "discourse",
-     "thai": "การสนทนาแลกเปลี่ยนความคิดเห็นเชิงวิชาการ",
-     "level": "C1",
-     "example": "The discourse around software engineering has gotten dumber."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 7
-  },
-  {
-   "id": 24,
-   "ts": "2026-10-10T06:42:12.163523+07:00",
-   "title": "Show HN: The rarest tech books and docs you've probably never read",
-   "link": "https://readrare.com/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Curated collection of historical technical documents and internal memos from major tech firms, interesting for infrastructure historians and architects.",
-   "summary": "A newly published index compiles rare technical memos, internal handbooks, and forgotten documentation from major tech pioneers. These historical resources are made available for free study.",
-   "vocab": [
-    {
-     "word": "compilation",
-     "thai": "การรวบรวมข้อมูล",
-     "level": "B2",
-     "example": "A newly published index compiles rare technical memos."
-    },
-    {
-     "word": "documentation",
-     "thai": "เอกสารคู่มือ เอกสารประกอบ",
-     "level": "B2",
-     "example": "Forgotten documentation from major tech pioneers."
-    },
-    {
-     "word": "pioneer",
-     "thai": "ผู้บุกเบิก",
-     "level": "B2",
-     "example": "Internal memos from the people who built Apple and Google."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 25,
-   "ts": "2026-10-10T06:42:25.664038+07:00",
-   "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
-   "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Ukrainian drone strikes knocked down major Russian data centers hosting AI supercomputers, directly impacting infrastructure operations and cloud availability.",
-   "summary": "Ukrainian drone strikes hit two data center facilities operated by Russian tech giant Yandex, damaging supercomputers used for AI training. The attack caused widespread disruptions to online services, media platforms, and digital banking applications across Russia.",
-   "vocab": [
-    {
-     "word": "symmetrical",
-     "thai": "สมมาตร, ซึ่งเทียบเท่ากัน",
-     "level": "B2",
-     "example": "Another data center was hit as well—our symmetrical response."
-    },
-    {
-     "word": "acknowledge",
-     "thai": "ยอมรับ",
-     "level": "B2",
-     "example": "Yandex said no employees were hurt but acknowledged disruptions to some services."
-    },
-    {
-     "word": "disruption",
-     "thai": "การหยุดชะงัก",
-     "level": "B2",
-     "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 14,
-   "sent_ts": "2026-10-10T13:58:37.024299+07:00"
-  },
-  {
-   "id": 26,
-   "ts": "2026-10-10T06:42:25.664089+07:00",
-   "title": "NASA issues long-awaited call to industry for private space stations",
-   "link": "https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "NASA issued a request for proposals to build commercial space stations to replace the ISS, which falls outside terrestrial data center and cloud infrastructure.",
-   "summary": "NASA released a long-awaited solicitation for private companies to design and develop commercial space stations in low-Earth orbit. The future stations will succeed the International Space Station to support ongoing scientific research and astronaut training.",
-   "vocab": [
-    {
-     "word": "solicitation",
-     "thai": "การขอร้อง, การเชิญชวนยื่นข้อเสนอ",
-     "level": "C1",
-     "example": "NASA’s solicitation can be found here, and industry responses are due back in December."
-    },
-    {
-     "word": "contractor",
-     "thai": "ผู้รับเหมา",
-     "level": "B2",
-     "example": "NASA plans to select two or more contractors in this phase of the competition."
-    },
-    {
-     "word": "provision",
-     "thai": "ข้อกำหนด, บทบัญญัติ",
-     "level": "B2",
-     "example": "One of the most closely watched elements was its provisions for crewed transportation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 27,
-   "ts": "2026-10-10T06:42:25.664118+07:00",
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "A major study reveals how AI coding tools create code review bottlenecks, directly affecting DevOps workflows and engineering efficiency.",
-   "summary": "A comprehensive study of hundreds of firms found that while AI coding agents increase the volume of generated code, they do not improve overall software output. Human code reviews become major bottlenecks, absorbing all time saved during the initial coding phase.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวด, จุดที่ทำให้งานชะลอ",
-     "level": "C1",
-     "example": "Human code review forms a significant bottleneck for the overall efficiency of AI coding tools."
-    },
-    {
-     "word": "encompass",
-     "thai": "ครอบคลุม",
-     "level": "C1",
-     "example": "That data encompasses 300 million individual work events across major software development firms."
-    },
-    {
-     "word": "autonomous",
-     "thai": "อัตโนมัติ, ทำงานได้เอง",
-     "level": "B2",
-     "example": "AI coding agents primarily write and submit code autonomously based on prompts."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 15,
-   "sent_ts": "2026-10-10T13:58:37.530438+07:00"
-  },
-  {
-   "id": 28,
-   "ts": "2026-10-10T06:42:34.481315+07:00",
-   "title": "Microsoft barred from sponsoring foreign workers for US residency",
-   "link": "https://arstechnica.com/tech-policy/2026/10/trump-administration-targets-microsoft-in-new-immigration-crackdown/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Immigration policy changes affect tech employers and workforce planning, though indirectly related to server or data center operations.",
-   "summary": "The US government has temporarily barred major technology and outsourcing companies from sponsoring foreign workers for permanent residency. Officials claim the current immigration programs have been heavily abused.",
-   "vocab": [
-    {
-     "word": "permanent",
-     "thai": "ถาวร",
-     "level": "B2",
-     "example": "Donald Trump’s administration has temporarily banned Microsoft, Adobe, and several other tech companies from sponsoring workers for permanent US residency."
-    },
-    {
-     "word": "unwarranted",
-     "thai": "ไม่สมควร, ไม่มีเหตุผลอันสมควร",
-     "level": "C1",
-     "example": "Referring to Vance’s remarks, it said such descriptions are unwarranted and ignore the fact that Indian professionals are highly educated."
-    },
-    {
-     "word": "infringe",
-     "thai": "ละเมิด",
-     "level": "C1",
-     "example": "A federal judge ruled the fee amounted to an unauthorized tax and infringed on Congress’ authority to raise funds."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 9
-  },
   {
    "id": 29,
    "ts": "2026-10-10T10:14:55.500770+07:00",
@@ -21023,11 +20717,13 @@
      "example": "The engineering team deployed a specific server variant configured for dense AI model training."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 302,
+   "sent_ts": "2026-10-24T09:22:43.153746+07:00"
   },
   {
    "id": 558,
@@ -21167,11 +20863,13 @@
      "example": "These flaws could have let an attacker take control of the device outright."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 303,
+   "sent_ts": "2026-10-24T09:22:43.673738+07:00"
   },
   {
    "id": 562,
@@ -21316,9 +21014,300 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 566,
+   "ts": "2026-10-24T09:24:22.416306+07:00",
+   "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Restricting internet access during frontier AI model training is an interesting infrastructure security practice, though the post provides very little detail.",
+   "summary": "OpenAI has reportedly cut off internet connectivity during model training runs to improve containment and prevent unintended interactions. Meanwhile, Anthropic addressed ongoing operational and safety concerns with another formal statement.",
+   "vocab": [
+    {
+     "word": "mea culpa",
+     "thai": "การยอมรับความผิดพลาด",
+     "level": "C2",
+     "example": "Anthropic issued another mea culpa after the incident occurred."
+    },
+    {
+     "word": "disable",
+     "thai": "ปิดการทำงาน / ปิดใช้งาน",
+     "level": "B2",
+     "example": "OpenAI disables internet access during model training."
+    },
+    {
+     "word": "issue",
+     "thai": "ออกประกาศ / แถลง",
+     "level": "B2",
+     "example": "The company decided to issue an official statement to users."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 567,
+   "ts": "2026-10-24T09:24:22.416376+07:00",
+   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+   "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "An HTTP/2 RCE flaw in Node and Python would be critical for server fleets, but the linked source is merely an anti-bot challenge page.",
+   "summary": "A vulnerability titled http2shell allegedly allows remote code execution in Node.js, Python, and other environments. However, the linked page is blocked by an anti-bot check and currently provides no technical verification.",
+   "vocab": [
+    {
+     "word": "evolving",
+     "thai": "ที่กำลังพัฒนาหรือเปลี่ยนแปลง",
+     "level": "B2",
+     "example": "Evolving threats require continuous security monitoring across our infrastructure."
+    },
+    {
+     "word": "threat",
+     "thai": "ภัยคุกคาม",
+     "level": "B2",
+     "example": "Security teams investigated a new remote code execution threat."
+    },
+    {
+     "word": "defend",
+     "thai": "ป้องกัน / คุ้มกัน",
+     "level": "B2",
+     "example": "Engineers must defend public endpoints from automated bot attacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 3
+  },
+  {
+   "id": 568,
+   "ts": "2026-10-24T09:24:22.416455+07:00",
+   "title": "Bringing uv and ty together",
+   "link": "https://astral.sh/blog/uv-ty-integration",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Astral's unified tooling affects Python development, automation scripts, and CI/CD pipelines commonly managed by DevOps teams.",
+   "summary": "Astral announced an experimental integration uniting its Python package manager uv with its type checker ty. The update allows unified diagnostics through a single check command and simplifies dependency management for standalone scripts.",
+   "vocab": [
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ในบริบทของซอฟต์แวร์หรือเทคโนโลยี)",
+     "level": "B2",
+     "example": "At Astral, we build high-performance tools for the Python ecosystem."
+    },
+    {
+     "word": "integrated",
+     "thai": "ที่รวมเข้าด้วยกันอย่างสมบูรณ์",
+     "level": "B2",
+     "example": "The company wants to create an integrated toolchain for modern development."
+    },
+    {
+     "word": "diagnostic",
+     "thai": "เกี่ยวกับการตรวจวินิจฉัยหรือวิเคราะห์ปัญหา",
+     "level": "C1",
+     "example": "The new command introduces a unified diagnostic interface for your project."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 569,
+   "ts": "2026-10-24T09:24:22.416480+07:00",
+   "title": "Canadians are running out of time to oppose Bill C-22",
+   "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Surveillance and lawful access legislation can mandate backdoors and logging policies for telecommunications and cloud providers.",
+   "summary": "Canadian advocacy groups are rallying opposition against Bill C-22, a proposal that broadens state surveillance powers and data retention mandates. If enacted, telecommunications and messaging services could be compelled to build surveillance backdoors and retain user metadata.",
+   "vocab": [
+    {
+     "word": "surveillance",
+     "thai": "การสอดแนม / การเฝ้าระวัง",
+     "level": "C1",
+     "example": "Parliament is debating a massive expansion of surveillance powers over digital networks."
+    },
+    {
+     "word": "legislation",
+     "thai": "กฎหมาย / กระบวนการออกกฎหมาย",
+     "level": "C1",
+     "example": "Citizens still have an opportunity to speak out and challenge this legislation."
+    },
+    {
+     "word": "petition",
+     "thai": "คำร้องเรียน / การลงชื่อเรียกร้อง",
+     "level": "B2",
+     "example": "Thousands of people signed a petition opposing mandatory retention of personal metadata."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 570,
+   "ts": "2026-10-24T09:25:17.772924+07:00",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers consumer privacy terms regarding Gmail/Photos AI integrations, having minimal direct bearing on server operations.",
+   "summary": "Google revised its privacy policy so that users who connect apps like Gmail and Photos to AI features may have that context inform personalized ads. While advertisers do not get direct access to personal data, opting into AI recommendations cross-pollinates data with search advertising.",
+   "vocab": [
+    {
+     "word": "exception",
+     "thai": "ข้อยกเว้น",
+     "level": "B2",
+     "example": "The update adds an exception to its promise about not using your personal files for ads."
+    },
+    {
+     "word": "disconnect",
+     "thai": "ตัดการเชื่อมต่อ",
+     "level": "B2",
+     "example": "You can choose which apps you want to disconnect from the AI features."
+    },
+    {
+     "word": "recommendation",
+     "thai": "คำแนะนำ",
+     "level": "B2",
+     "example": "Users can disable personalized recommendations in their account settings."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 8,
+   "extra_links": [
+    "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+   ]
+  },
+  {
+   "id": 571,
+   "ts": "2026-10-24T09:26:32.877976+07:00",
+   "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
+   "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Regulatory restrictions on factory automation could disrupt semiconductor manufacturing, indirectly affecting enterprise chip supply.",
+   "summary": "Intel received a one-year FCC waiver to continue using foreign-made automated guided vehicles in its US semiconductor factories. This regulatory relief ensures that chip manufacturing operations will not be disrupted by new import rules on robotics.",
+   "vocab": [
+    {
+     "word": "abundance",
+     "thai": "ความมีอยู่อย่างมากมาย (abundance of caution = ความระมัดระวังอย่างยิ่ง)",
+     "level": "B2",
+     "example": "The tech company requested and received a waiver out of an abundance of caution."
+    },
+    {
+     "word": "oversight",
+     "thai": "การดูแลควบคุมหรือสอดส่อง",
+     "level": "C1",
+     "example": "These automated vehicles operate on predefined paths while often requiring operator oversight."
+    },
+    {
+     "word": "restrict",
+     "thai": "จำกัดหรือควบคุม",
+     "level": "B2",
+     "example": "The agency rules seem to restrict major modifications to previously authorized devices."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 572,
+   "ts": "2026-10-24T09:26:32.878086+07:00",
+   "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
+   "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Delays and safety problems in restarting nuclear reactors directly impact clean power availability planned for AI data centers.",
+   "summary": "US regulators issued formal warnings over serious safety incidents and operator licensing failures at the Palisades nuclear restart project in Michigan. These setbacks threaten timelines for clean, baseload nuclear power that tech companies are counting on to feed surging AI data center demand.",
+   "vocab": [
+    {
+     "word": "cavity",
+     "thai": "โพรงหรือช่องว่างขนาดใหญ่",
+     "level": "B2",
+     "example": "Regulators issued a warning after a contractor fell into a reactor cavity during work."
+    },
+    {
+     "word": "retaliation",
+     "thai": "การแก้แค้นหรือการตอบโต้",
+     "level": "C1",
+     "example": "The environment made staff hesitant to raise safety concerns without fear of retaliation."
+    },
+    {
+     "word": "resurgence",
+     "thai": "การฟื้นคืนชีพหรือการกลับมาเติบโตใหม่",
+     "level": "C1",
+     "example": "The plant had been touted as a key symbol of the nation's nuclear resurgence."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 573,
+   "ts": "2026-10-24T09:26:32.878115+07:00",
+   "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
+   "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "While highlighting satellite networking reliability and single-vendor risks, the piece primarily focuses on battlefield defense rather than IT infrastructure.",
+   "summary": "Ukrainian forces are actively reducing their dependence on SpaceX's Starlink satellite network following unexpected disruptions and political risks. To maintain operational resilience, military engineers are transitioning toward alternative communications and drone control systems.",
+   "vocab": [
+    {
+     "word": "pivotal",
+     "thai": "มีความสำคัญอย่างยิ่งหรือเป็นจุดเปลี่ยน",
+     "level": "C1",
+     "example": "The satellite service has played a pivotal role in supporting resistance against the invasion."
+    },
+    {
+     "word": "inclination",
+     "thai": "ความโน้มเอียงหรือความชอบส่วนตัว",
+     "level": "C1",
+     "example": "The network became increasingly unreliable due to erratic political inclinations."
+    },
+    {
+     "word": "contested",
+     "thai": "ที่มีการต่อสู้แย่งชิงหรือเป็นพื้นที่ขัดแย้ง",
+     "level": "B2",
+     "example": "Drone boats were deployed to operate across the contested waters of the Black Sea."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 566,
+ "next_id": 574,
  "vocab": [
   {
    "word": "commissioning",
@@ -25925,6 +25914,36 @@
    "thai": "การส่งข้อมูลซ้ำใหม่อีกครั้ง",
    "level": "C1",
    "example": "Pending packets will no longer be available for retransmission if the buffer is cleared.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "variant",
+   "thai": "รูปแบบหรือรุ่นย่อยที่ดัดแปลง",
+   "level": "B2",
+   "example": "The engineering team deployed a specific server variant configured for dense AI model training.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "foothold",
+   "thai": "ที่มั่นหรือจุดเริ่มต้นในการเจาะระบบ",
+   "level": "C1",
+   "example": "An attacker could use that foothold to reach further into the network.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outright",
+   "thai": "โดยสิ้นเชิง",
+   "level": "B2",
+   "example": "These flaws could have let an attacker take control of the device outright.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
