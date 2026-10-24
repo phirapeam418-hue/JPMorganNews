@@ -1249,45 +1249,12 @@
   "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
   "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
   "https://aardappel.github.io/goose/",
-  "https://github.com/astroautomata/PySR"
+  "https://github.com/astroautomata/PySR",
+  "https://stealmybitcoin.com/",
+  "https://missileer.watch",
+  "https://www.speedcrunch.org/"
  ],
  "stories": [
-  {
-   "id": 45,
-   "ts": "2026-10-11T03:50:57.009953+07:00",
-   "title": "Why DuckDB 2.0 is faster",
-   "link": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "DuckDB performance improvements over object storage directly benefit cloud data pipelines and operations.",
-   "summary": "DuckDB 2.0 introduces asynchronous I/O to improve query throughput when reading Parquet data files directly from AWS S3. Decoupling downloads from decoding maximizes thread utilization and significantly reduces query latency across large data pipelines.",
-   "vocab": [
-    {
-     "word": "caveat",
-     "thai": "ข้อควรระวังหรือข้อจำกัด",
-     "level": "C1",
-     "example": "Quick caveat: as I said in the introduction, this is my home internet to us-east-1, so both numbers are slow."
-    },
-    {
-     "word": "decode",
-     "thai": "ถอดรหัสข้อมูล",
-     "level": "B2",
-     "example": "For every row group DuckDB downloads the bytes, decodes the Parquet, and counts votes."
-    },
-    {
-     "word": "idle",
-     "thai": "ว่างหรือไม่ทำงาน",
-     "level": "B2",
-     "example": "While a worker waits its CPU is idle, and while it decodes it has no download in flight."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
   {
    "id": 46,
    "ts": "2026-10-11T07:35:10.332086+07:00",
