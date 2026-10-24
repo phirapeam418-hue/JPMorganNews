@@ -1242,7 +1242,14 @@
   "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
   "https://de.numista.com/9866",
   "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/",
-  "https://github.com/Zagitta/gpu-unlock"
+  "https://github.com/Zagitta/gpu-unlock",
+  "https://dreamlabs.ai/research/dream-1/",
+  "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+  "https://arxiv.org/abs/2610.29162",
+  "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
+  "https://aardappel.github.io/goose/",
+  "https://github.com/astroautomata/PySR"
  ],
  "stories": [
   {
@@ -21120,9 +21127,45 @@
    "urgency": 4,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 584,
+   "ts": "2026-10-25T02:57:55.788525+07:00",
+   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Macroeconomic analysis showing non-tech enterprises are reducing token and AI infrastructure expenditure, impacting enterprise data center demand.",
+   "summary": "Apollo reported that corporate America outside the major tech giants is seeing zero financial return from recent AI investments. As a result, non-tech firms are treating AI token expenditure as a cost center rather than a growth driver.",
+   "vocab": [
+    {
+     "word": "commoditized",
+     "thai": "กลายเป็นสินค้าโภคภัณฑ์ทั่วไป (แข่งขันด้วยราคา)",
+     "level": "C1",
+     "example": "The question is whether, even as models become commoditized, mainstream corporate America can turn them into profit."
+    },
+    {
+     "word": "confined",
+     "thai": "ถูกจำกัดอยู่ในวงแคบ",
+     "level": "B2",
+     "example": "As long as agentic AI and token spending are confined to a small part of the economy, macroeconomic effects remain limited."
+    },
+    {
+     "word": "margin",
+     "thai": "อัตรากำไร",
+     "level": "B2",
+     "example": "Mainstream corporate America views token spending as a cost center that weighs on margins."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
   }
  ],
- "next_id": 584,
+ "next_id": 585,
  "vocab": [
   {
    "word": "commissioning",
