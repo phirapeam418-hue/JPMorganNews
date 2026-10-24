@@ -1222,123 +1222,22 @@
   "https://www.youtube.com/watch?v=S_2eVAaw1UM",
   "https://security.apple.com/research-device/",
   "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
-  "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
+  "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/",
+  "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+  "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+  "https://www.theregister.com/security/2026/10/24/autonomous-attack-agent-in-skynet-mode-hijacks-other-models-to-carry-out-its-evil-deeds/5305215",
+  "https://www.theregister.com/os-platforms/2026/10/24/raspberry-pi-desktop-proves-old-pcs-arent-past-it/5304676",
+  "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+  "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+  "https://grapheneos.social/@GrapheneOS/117492375462459244",
+  "https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/",
+  "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+  "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+  "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+  "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+  "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
  ],
  "stories": [
-  {
-   "id": 36,
-   "ts": "2026-10-10T17:15:37.907370+07:00",
-   "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
-   "link": "https://www.datacenterdynamics.com/en/product-news/w%C3%A4rtsil%C3%A4-schneider-electric-and-stanley-consultants-launch-coordinated-approach-for-faster-us-data-center-power-delivery/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Directly targets data center power delivery delays and on-site generation partnerships for AI workloads.",
-   "summary": "Wärtsilä, Schneider Electric, and Stanley Consultants partnered to create an integrated power delivery model for US data centers. The initiative aims to bypass grid delays by coordinating modular power plants, electrical infrastructure, and facility design.",
-   "vocab": [
-    {
-     "word": "interconnection",
-     "thai": "การเชื่อมต่อโครงข่ายระบบไฟฟ้า",
-     "level": "C1",
-     "example": "Lengthy grid interconnection timelines are slowing down new data center projects."
-    },
-    {
-     "word": "complementary",
-     "thai": "ที่เกื้อหนุนกันหรือส่งเสริมกัน",
-     "level": "C1",
-     "example": "By bringing our complementary capabilities together from the outset, we can simplify execution."
-    },
-    {
-     "word": "sequential",
-     "thai": "ที่เป็นไปตามลำดับขั้นตอน",
-     "level": "B2",
-     "example": "The combined approach can accelerate project schedules compared to traditional, sequential delivery models."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7,
-   "msg_id": 34,
-   "sent_ts": "2026-10-11T14:04:13.881035+07:00"
-  },
-  {
-   "id": 37,
-   "ts": "2026-10-10T17:15:37.907509+07:00",
-   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-   "link": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "High-severity client CVE enabling account takeover and file extraction via IPC parsing flaws, relevant to enterprise workstation security.",
-   "summary": "A vulnerability in Telegram Desktop allowed attackers to read local files and hijack accounts through crafted links and IPC injection. Telegram patched the issue in version 7.2.9 by improving separator handling.",
-   "vocab": [
-    {
-     "word": "arbitrary",
-     "thai": "ตามอำเภอใจหรือที่กำหนดโดยอิสระ",
-     "level": "B2",
-     "example": "The flaw lets one clicked link read arbitrary files off the disk."
-    },
-    {
-     "word": "exfiltrate",
-     "thai": "ลักลอบดึงข้อมูลออกไป",
-     "level": "C2",
-     "example": "The vulnerability allowed session files to be exfiltrated to an attacker-controlled chat."
-    },
-    {
-     "word": "redundant",
-     "thai": "ซ้ำซ้อนหรือไม่จำเป็น",
-     "level": "B2",
-     "example": "Telegram itself has to work out that the new process is redundant."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 31,
-   "sent_ts": "2026-10-11T14:04:11.737018+07:00"
-  },
-  {
-   "id": 38,
-   "ts": "2026-10-10T17:15:37.907536+07:00",
-   "title": "WSL3 Performance is about 5-60% faster than WSL2 depending on the workload",
-   "link": "https://tonym.us/wsl2-vs-wsl3-benchmarks.html",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Detailed benchmarks of WSL3 showing major memory bandwidth and kernel IPC improvements for Windows-based developers.",
-   "summary": "Independent benchmarks show WSL 3 delivers up to 60 percent higher memory bandwidth and lower IPC latency compared to WSL 2. These performance gains stem from updating to Linux kernel 6.18 and optimizing Hyper-V dynamic memory reclamation.",
-   "vocab": [
-    {
-     "word": "empirical",
-     "thai": "เชิงประจักษ์ (ได้จากการทดลองหรือสังเกตจริง)",
-     "level": "C1",
-     "example": "Here is what the empirical numbers look like across kernel primitives and memory bandwidth."
-    },
-    {
-     "word": "granularity",
-     "thai": "ระดับความละเอียดของข้อมูลหรือการทำงาน",
-     "level": "C1",
-     "example": "Raising the page reporting granularity reduces hypervisor trap frequency."
-    },
-    {
-     "word": "overhead",
-     "thai": "ภาระงานส่วนเกินหรือทรัพยากรที่ต้องเสียไปในการจัดการ",
-     "level": "C1",
-     "example": "The patch helps decrease page-table walking overhead during memory access."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 35,
-   "sent_ts": "2026-10-11T14:04:14.442488+07:00"
-  },
   {
    "id": 39,
    "ts": "2026-10-10T23:34:26.235494+07:00",
@@ -20855,7 +20754,10 @@
    "impact": 5,
    "urgency": 5,
    "scale": 6,
-   "credibility": 3
+   "credibility": 3,
+   "extra_links": [
+    "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
+   ]
   },
   {
    "id": 568,
@@ -21257,9 +21159,117 @@
    "urgency": 4,
    "scale": 6,
    "credibility": 10
+  },
+  {
+   "id": 579,
+   "ts": "2026-10-24T20:45:05.733860+07:00",
+   "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
+   "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Announcements of new GPU infrastructure deployments in Georgia and the UK expand global AI capacity, though timelines stretch into 2027.",
+   "summary": "Silk Cloud in Georgia and Fuse Energy in the UK have both announced plans to deploy Nvidia GPU compute infrastructure. Silk Cloud plans to launch Nvidia Blackwell systems by 2027, while Fuse is leveraging its energy infrastructure to add modular compute capacity.",
+   "vocab": [
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทย่อย",
+     "level": "B2",
+     "example": "Silk Cloud is a subsidiary of Silknet and part of the Silk Road Group."
+    },
+    {
+     "word": "envisage",
+     "thai": "คาดการณ์หรือวางแผนไว้",
+     "level": "C1",
+     "example": "The strategy envisages promoting advanced digital and AI development."
+    },
+    {
+     "word": "backbone",
+     "thai": "โครงข่ายหลัก",
+     "level": "B2",
+     "example": "The facility will sit on top of a national fiber backbone with cross-border connections."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 580,
+   "ts": "2026-10-24T20:45:05.733907+07:00",
+   "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
+   "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Regulatory actions, fines, and legal challenges against data center power generation directly highlight compliance risks in hyperscale facility buildouts.",
+   "summary": "SpaceXAI faces up to $6.1 million in fines from Mississippi environmental regulators for constructing data center sites without proper stormwater permits. Meanwhile, a federal judge rejected the DOJ's bid to dismiss an environmental lawsuit over the company's unpermitted gas-fired turbines.",
+   "vocab": [
+    {
+     "word": "civil penalty",
+     "thai": "โทษปรับทางแพ่ง",
+     "level": "C1",
+     "example": "MDEQ is seeking civil penalties of up to $25,000 per day."
+    },
+    {
+     "word": "exposure",
+     "thai": "ความเสี่ยงต่อความเสียหายหรือภาระผูกพันทางการเงิน",
+     "level": "B2",
+     "example": "The company has a preliminary claimed exposure of approximately $6.1 million across three sites."
+    },
+    {
+     "word": "injunction",
+     "thai": "คำสั่งห้ามของศาล",
+     "level": "C1",
+     "example": "The plaintiffs are seeking an injunction to halt turbine operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 581,
+   "ts": "2026-10-24T20:45:05.733988+07:00",
+   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+   "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights digital sovereignty and geopolitical risks of relying solely on US cloud, telecom, and software vendors for critical operations.",
+   "summary": "European policymakers are increasingly treating reliance on US enterprise tech and infrastructure as a critical vendor risk following restrictions on Starlink services in Ukraine. This development is driving momentum behind sovereign cloud, domestic AI infrastructure, and local tech alternatives across Europe.",
+   "vocab": [
+    {
+     "word": "blowback",
+     "thai": "ผลกระทบเชิงลบที่ไม่คาดคิดตามมา",
+     "level": "C1",
+     "example": "The political blowback from the decision is causing allied nations to reconsider reliance on US vendors."
+    },
+    {
+     "word": "insurmountable",
+     "thai": "ที่ยากจะเอาชนะหรือข้ามพ้น",
+     "level": "C1",
+     "example": "Cloning the capabilities of foreign tech giants once seemed like an insurmountable problem."
+    },
+    {
+     "word": "outsource",
+     "thai": "จัดจ้างภายนอก",
+     "level": "B2",
+     "example": "No nation can safely outsource its critical digital infrastructure to a single foreign partner."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 579,
+ "next_id": 582,
  "vocab": [
   {
    "word": "commissioning",
