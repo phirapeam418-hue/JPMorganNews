@@ -1212,7 +1212,17 @@
   "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
   "https://arstechnica.com/gaming/2026/10/everybody-panic-a-valve-developer-said-hlx-in-public/",
   "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-  "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+  "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
+  "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
+  "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+  "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+  "https://rtfeldman.com/fp-vs-c",
+  "https://danielball.com/notes/ai_image_generation.html",
+  "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+  "https://www.youtube.com/watch?v=S_2eVAaw1UM",
+  "https://security.apple.com/research-device/",
+  "https://arstechnica.com/culture/2026/10/review-crystal-lake-suffers-a-bit-from-its-obsession-with-pam-voorhees/",
+  "https://arstechnica.com/space/2026/10/rocket-report-spacex-says-no-thanks-to-military-launches-spanish-rocket-nearly-ready/"
  ],
  "stories": [
   {
@@ -21067,9 +21077,189 @@
    "urgency": 4,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 574,
+   "ts": "2026-10-24T15:29:30.930669+07:00",
+   "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
+   "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly covers advanced liquid cooling hardware innovations designed for high-density AI data center racks.",
+   "summary": "GF introduced a new Multi Control Valve for data center direct liquid cooling to optimize flow and monitor thermal energy. The polymer-based design reduces weight and complexity for high-density server racks.",
+   "vocab": [
+    {
+     "word": "architecture",
+     "thai": "สถาปัตยกรรม (ระบบโครงสร้าง)",
+     "level": "B2",
+     "example": "This intelligent valve integrates seamlessly into high-density direct liquid cooling architectures."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Built for next gen industry compliance frameworks."
+    },
+    {
+     "word": "mitigating",
+     "thai": "บรรเทา, ลดความรุนแรง",
+     "level": "C1",
+     "example": "The resulting design is significantly mitigating mechanical load and structural stress."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 575,
+   "ts": "2026-10-24T15:29:30.930706+07:00",
+   "title": "OBS Studio 33",
+   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Release notes for OBS Studio software update, peripheral to core server infrastructure operations.",
+   "summary": "OBS Studio version 33.0 is now available with framework updates, plugin loading improvements, and bug fixes. The release enhances stability and hardware encoding support across multiple platforms.",
+   "vocab": [
+    {
+     "word": "underlying",
+     "thai": "ที่เป็นพื้นฐานอยู่เบื้องหลัง",
+     "level": "B2",
+     "example": "This is a massive update to the underlying framework used for browser sources."
+    },
+    {
+     "word": "legacy",
+     "thai": "ระบบเก่า, มรดกตกทอด",
+     "level": "B2",
+     "example": "Existing third-party plugins will continue to load from the legacy locations."
+    },
+    {
+     "word": "resolution",
+     "thai": "ความละเอียด",
+     "level": "B2",
+     "example": "Fixed outputs getting stuck running when a bad rescale output resolution is set."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 576,
+   "ts": "2026-10-24T15:29:30.930726+07:00",
+   "title": "Twelve years of distributed SQLite",
+   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Retrospective on distributed SQLite architectures, relevant to backend development and database clustering.",
+   "summary": "The creator of rqlite reflects on twelve years of distributed SQLite development and consensus-based replication. The article traces how combining SQLite with Raft evolved from a niche idea into an established category.",
+   "vocab": [
+    {
+     "word": "consensus",
+     "thai": "ความเห็นพ้องต้องกัน (ในระบบกระจาย)",
+     "level": "C1",
+     "example": "Replicating SQLite with a consensus protocol solved it."
+    },
+    {
+     "word": "embedded",
+     "thai": "ฝังตัวอยู่ภายใน",
+     "level": "B2",
+     "example": "Canonical built dqlite to get an embedded replicated store."
+    },
+    {
+     "word": "standalone",
+     "thai": "ทำงานด้วยตัวเองได้โดยอิสระ",
+     "level": "B2",
+     "example": "What rqlite did was make it a standalone, general-purpose open-source thing."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 577,
+   "ts": "2026-10-24T15:29:30.930758+07:00",
+   "title": "A practical guide to AI image generation, from diffusion to agents",
+   "link": "https://danielball.com/notes/ai_image_generation.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Practical guide on AI image generation and API integration, relevant to developers building AI pipelines.",
+   "summary": "A comprehensive practical guide explains how AI image generation models work from diffusion to multimodal agents. It offers actionable advice on API management, pricing variability, and hybrid pipelines.",
+   "vocab": [
+    {
+     "word": "photorealistic",
+     "thai": "เหมือนภาพถ่ายจริง",
+     "level": "C1",
+     "example": "NVIDIA's StyleGAN powers a photorealistic fake face on every refresh."
+    },
+    {
+     "word": "variability",
+     "thai": "ความแปรปรวน, ความไม่แน่นอน",
+     "level": "C1",
+     "example": "Prices vary widely, highlighting the high variability in API costs."
+    },
+    {
+     "word": "multimodal",
+     "thai": "หลายรูปแบบ (รองรับทั้งข้อความ ภาพ เสียง)",
+     "level": "C1",
+     "example": "A multimodal agent can write the prompt, call the API, and evaluate the result."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 578,
+   "ts": "2026-10-24T15:29:30.930801+07:00",
+   "title": "Apple Security Research Device",
+   "link": "https://security.apple.com/research-device/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly covers specialized Apple hardware for security research and vulnerability discovery in iOS.",
+   "summary": "Apple's Security Research Device gives approved researchers specialized hardware access to investigate iOS vulnerabilities safely. Participants can use shell access and custom kernels while remaining eligible for security bounty programs.",
+   "vocab": [
+    {
+     "word": "eligible",
+     "thai": "มีคุณสมบัติเหมาะสม, มีสิทธิ์",
+     "level": "B2",
+     "example": "All iOS components are eligible for research under this program."
+    },
+    {
+     "word": "customize",
+     "thai": "ปรับแต่งตามความต้องการ",
+     "level": "B2",
+     "example": "You can run tools, choose entitlements, and even customize the kernel."
+    },
+    {
+     "word": "discovery",
+     "thai": "การค้นพบ",
+     "level": "B2",
+     "example": "Special tooling to augment research and vulnerability discovery."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 10
   }
  ],
- "next_id": 574,
+ "next_id": 579,
  "vocab": [
   {
    "word": "commissioning",
