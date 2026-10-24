@@ -1216,260 +1216,6 @@
  ],
  "stories": [
   {
-   "id": 29,
-   "ts": "2026-10-10T10:14:55.500770+07:00",
-   "title": "Microsoft 365 subscribers set to lose up to 4 TB of OneDrive storage",
-   "link": "https://www.theregister.com/personal-tech/2026/10/09/microsoft-365-subscribers-set-to-lose-up-to-4-tb-of-onedrive-storage/5302380",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Microsoft changes to OneDrive storage limits affect a broad user base but have limited direct impact on data center infrastructure operations.",
-   "summary": "Microsoft 365 subscribers are set to lose up to 4 TB of shared OneDrive storage under upcoming policy updates. This reduction forces heavy cloud users to re-evaluate their long-term data retention and storage management strategies.",
-   "vocab": [
-    {
-     "word": "subscriber",
-     "thai": "ผู้สมัครสมาชิก",
-     "level": "B2",
-     "example": "Microsoft 365 subscribers are set to lose up to 4 TB of OneDrive storage."
-    },
-    {
-     "word": "retention",
-     "thai": "การเก็บรักษาไว้",
-     "level": "C1",
-     "example": "This reduction forces heavy cloud users to re-evaluate their long-term data retention."
-    },
-    {
-     "word": "upcoming",
-     "thai": "ที่จะมาถึง",
-     "level": "B2",
-     "example": "Under upcoming policy updates, users will see storage changes."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 30,
-   "ts": "2026-10-10T10:14:55.500813+07:00",
-   "title": "REA Reverse – Engineer Anything",
-   "link": "https://rea.tools/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Reverse engineering tooling for coding agents is relevant to DevOps and software development workflows.",
-   "summary": "A new tool named REA allows coding agents to inspect and reverse engineer running software programs. It helps developers understand internal program mechanics and modify application behavior automatically.",
-   "vocab": [
-    {
-     "word": "inspect",
-     "thai": "ตรวจสอบ",
-     "level": "B2",
-     "example": "REA gives your agent the tools to inspect a program and explain what it does."
-    },
-    {
-     "word": "mechanics",
-     "thai": "กลไกการทำงาน",
-     "level": "B2",
-     "example": "It helps developers understand internal program mechanics."
-    },
-    {
-     "word": "reproduce",
-     "thai": "ทำซ้ำ, จำลอง",
-     "level": "B2",
-     "example": "To reproduce its acceleration, we need the rule in the running game."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 31,
-   "ts": "2026-10-10T10:14:55.500840+07:00",
-   "title": "Can you use autoregressive diffusion to generate market data?",
-   "link": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Advanced generative modeling of financial data is interesting for machine learning specialists but tangential to core infrastructure.",
-   "summary": "Researchers have explored using autoregressive diffusion models to synthesize continuous and discrete market data events. The study highlights the challenges of capturing the jagged distribution of real-world exchange activity.",
-   "vocab": [
-    {
-     "word": "synthesize",
-     "thai": "สังเคราะห์",
-     "level": "C1",
-     "example": "Imagine a model that could synthesize book events."
-    },
-    {
-     "word": "distribution",
-     "thai": "การแจกแจง",
-     "level": "B2",
-     "example": "In practice the distributions are spiky around whole-number times."
-    },
-    {
-     "word": "sequential",
-     "thai": "ตามลำดับ",
-     "level": "C1",
-     "example": "Diffusion models represent sequential, multimodal data in various regimes."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 32,
-   "ts": "2026-10-10T10:14:55.500862+07:00",
-   "title": "Compiling Rust to readable C with Eurydice",
-   "link": "https://lwn.net/Articles/1055211/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Compiling Rust to C impacts high-assurance software development and compliance workflows used in infrastructure components.",
-   "summary": "A new compiler tool called Eurydice translates Rust code into readable C code to support legacy verification pipelines. This helps high-assurance projects integrate modern languages while utilizing existing C-based compliance tools.",
-   "vocab": [
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "Existing verification and compliance tools expect C."
-    },
-    {
-     "word": "preservation",
-     "thai": "การรักษาไว้",
-     "level": "C1",
-     "example": "Eurydice is concerned with preserving the overall structure of the code."
-    },
-    {
-     "word": "intermediate",
-     "thai": "ขั้นกลาง",
-     "level": "B2",
-     "example": "Take a Rust program and convert it into an intermediate representation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 33,
-   "ts": "2026-10-10T10:14:55.500885+07:00",
-   "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-   "link": "https://linuxstans.com/11-of-23-core-open-source-projects-run-on-1-or-2-people/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Crucial open-source software maintainer statistics directly relate to server infrastructure security and supply chain risk.",
-   "summary": "Recent data analysis reveals that nearly half of critical open-source software projects rely on just one or two active maintainers. This heavy concentration of labor poses ongoing security and operational risks for global digital infrastructure.",
-   "vocab": [
-    {
-     "word": "concentration",
-     "thai": "การกระจุกตัว, ความหนาแน่น",
-     "level": "B2",
-     "example": "This heavy concentration of labor poses ongoing security risks."
-    },
-    {
-     "word": "maintainer",
-     "thai": "ผู้ดูแลรักษาซอฟต์แวร์",
-     "level": "C1",
-     "example": "He is an open source maintainer, and he is far from the only one."
-    },
-    {
-     "word": "vulnerability",
-     "thai": "จุดอ่อน, ช่องโหว่",
-     "level": "C1",
-     "example": "The analysis found no new funding after the previous security vulnerability."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 9,
-   "credibility": 8,
-   "msg_id": 16,
-   "sent_ts": "2026-10-10T13:58:38.051382+07:00"
-  },
-  {
-   "id": 34,
-   "ts": "2026-10-10T10:14:55.500912+07:00",
-   "title": "Taxing Entrepreneurial Wealth: Evidence from Norway, 2021–2025",
-   "link": "https://www.nber.org/papers/w35854",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Economic studies on wealth taxation in Norway have minimal direct bearing on server operations or infrastructure management.",
-   "summary": "A recent economic working paper investigates the effects of Norway's wealth and dividend tax reforms between 2021 and 2025. The study concludes that short-run economic costs regarding billionaire migration and firm investments were limited.",
-   "vocab": [
-    {
-     "word": "imposing",
-     "thai": "การกำหนดใช้ (ภาษีหรือกฎหมาย)",
-     "level": "C1",
-     "example": "Whether imposing higher taxes on business owners adversely affects business activity."
-    },
-    {
-     "word": "exodus",
-     "thai": "การอพยพออกครั้งใหญ่",
-     "level": "C1",
-     "example": "The reforms spurred international debate and an exodus of Norwegian billionaires."
-    },
-    {
-     "word": "exempt",
-     "thai": "ได้รับการยกเว้น",
-     "level": "C1",
-     "example": "We compare firms owned by Norwegian individuals with firms owned by tax-exempt entities."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 35,
-   "ts": "2026-10-10T10:14:55.500951+07:00",
-   "title": "Has the Autonomous Trucking Revolution Arrived?",
-   "link": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Autonomous trucking developments affect logistics and supply chains, which indirectly impact hardware shipping and facility operations.",
-   "summary": "The autonomous trucking industry faces a mix of safety pressures, regulatory scrutiny, and labor shortages. While startups push toward commercial deployment, questions remain over whether technology alone can solve systemic road safety issues.",
-   "vocab": [
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียด",
-     "level": "C1",
-     "example": "The trucking industry faces intense regulatory scrutiny."
-    },
-    {
-     "word": "deployment",
-     "thai": "การนำไปใช้งานจริง",
-     "level": "B2",
-     "example": "Autonomous vehicle companies are ready for commercial deployment."
-    },
-    {
-     "word": "systemic",
-     "thai": "เกี่ยวกับระบบ",
-     "level": "C1",
-     "example": "Questions remain over whether technology can solve systemic road safety issues."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
    "id": 36,
    "ts": "2026-10-10T17:15:37.907370+07:00",
    "title": "Sponsored: Wärtsilä, Schneider Electric, and Stanley Consultants launch coordinated approach for faster US data center power delivery",
@@ -19917,11 +19663,13 @@
      "example": "The challenge is to supply more power and accommodate load variation while maintaining uptime."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 305,
+   "sent_ts": "2026-10-24T12:42:34.262127+07:00"
   },
   {
    "id": 536,
@@ -19953,11 +19701,13 @@
      "example": "Numerous mining farms had connected to the grid without authorization from regulatory bodies."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 309,
+   "sent_ts": "2026-10-24T12:42:36.903287+07:00"
   },
   {
    "id": 537,
@@ -19989,7 +19739,7 @@
      "example": "The alternative operating system is seeing increasing awareness and adoption among users."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 7,
    "scale": 8,
@@ -19997,7 +19747,9 @@
    "extra_links": [
     "https://www.theregister.com/ai-and-ml/2026/10/23/vendor-affiliated-ai-agent-tech-gets-adopted-by-friendly-funded-foundation/5304912",
     "https://www.theregister.com/personal-tech/2026/10/23/windows-said-modem-worked-fine-that-unmistakable-scorched-electronics-smell-suggested-otherwise/5304375"
-   ]
+   ],
+   "msg_id": 306,
+   "sent_ts": "2026-10-24T12:42:34.903897+07:00"
   },
   {
    "id": 538,
@@ -20029,11 +19781,13 @@
      "example": "Proper browser integration ensures that accessibility tools function smoothly inside rich applications."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 307,
+   "sent_ts": "2026-10-24T12:42:35.554841+07:00"
   },
   {
    "id": 539,
@@ -20065,11 +19819,13 @@
      "example": "The funding will accelerate initiatives for the commercialization of vertical Gallium Nitride."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 310,
+   "sent_ts": "2026-10-24T12:42:37.550017+07:00"
   },
   {
    "id": 540,
@@ -20139,11 +19895,13 @@
      "example": "These costs do not include implementation outlays, which will reach hundreds of millions."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 311,
+   "sent_ts": "2026-10-24T12:42:38.205403+07:00"
   },
   {
    "id": 542,
@@ -20175,7 +19933,7 @@
      "example": "The developer must size and operate an energy system capable of sustaining critical loads."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
@@ -20211,7 +19969,7 @@
      "example": "This deployment will help enterprises move from experimentation to real-world applications."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -20247,7 +20005,7 @@
      "example": "Sequencing our financing is how we optimize our long-term cost of capital."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -20283,11 +20041,13 @@
      "example": "This enables data centers to dynamically adjust their energy consumption."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 312,
+   "sent_ts": "2026-10-24T12:42:38.879009+07:00"
   },
   {
    "id": 546,
@@ -20319,7 +20079,7 @@
      "example": "Our sovereign AI structure is live in the UAE, running national workloads."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -20355,7 +20115,7 @@
      "example": "Industry executives called the spectrum acquisition a huge milestone for the firm."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -20391,7 +20151,7 @@
      "example": "The semiconductors are designed for pulsed-power applications in fusion reactors."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -20427,7 +20187,7 @@
      "example": "Ubuntu interim releases are becoming increasingly interesting for developers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 5,
@@ -20463,7 +20223,7 @@
      "example": "We have a large codebase that AI finds real bugs in, which adds work for maintainers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 7,
@@ -20499,7 +20259,7 @@
      "example": "The project enlists hackers to harden critical infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -20535,7 +20295,7 @@
      "example": "Home prices were grouped in two-cent bands to analyze the distribution."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 8,
@@ -20609,7 +20369,7 @@
      "example": "With this network, the JV aims to establish a benchmark for a new model of Italian data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -20645,7 +20405,7 @@
      "example": "Wireless carriers must secure spectrum resources needed to support future terrestrial wireless network growth."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -20681,7 +20441,7 @@
      "example": "Most of the company's higher-quality space is pledged to asset-backed securities."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -20755,7 +20515,7 @@
      "example": "The cooling solution received a system-level leak-proof certification for data center safety."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 6,
@@ -20791,7 +20551,7 @@
      "example": "The company is on track to launch its own low Earth orbit constellation next year."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -20827,7 +20587,7 @@
      "example": "The move follows the governor's recent directive to block new permits."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -20901,7 +20661,7 @@
      "example": "Russian officials have been discussing mitigating measures for attacks on its data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
@@ -20937,7 +20697,7 @@
      "example": "A package manager can fetch part of a software artifact directly."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -20973,7 +20733,7 @@
      "example": "Attackers can retain intercepted ciphertext until decryption technology improves."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -21009,7 +20769,7 @@
      "example": "The model analyzed output and iteratively refined the controller to prevent failure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -21045,7 +20805,7 @@
      "example": "The company decided to issue an official statement to users."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -21081,7 +20841,7 @@
      "example": "Engineers must defend public endpoints from automated bot attacks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 6,
@@ -21117,7 +20877,7 @@
      "example": "The new command introduces a unified diagnostic interface for your project."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -21153,7 +20913,7 @@
      "example": "Thousands of people signed a petition opposing mandatory retention of personal metadata."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 6,
@@ -21189,7 +20949,7 @@
      "example": "Users can disable personalized recommendations in their account settings."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 8,
@@ -21228,7 +20988,7 @@
      "example": "The agency rules seem to restrict major modifications to previously authorized devices."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -21264,11 +21024,13 @@
      "example": "The plant had been touted as a key symbol of the nation's nuclear resurgence."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 308,
+   "sent_ts": "2026-10-24T12:42:36.260057+07:00"
   },
   {
    "id": 573,
@@ -21300,7 +21062,7 @@
      "example": "Drone boats were deployed to operate across the contested waters of the Black Sea."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 5,
@@ -25944,6 +25706,166 @@
    "thai": "โดยสิ้นเชิง",
    "level": "B2",
    "example": "These flaws could have let an attacker take control of the device outright.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accommodate",
+   "thai": "รองรับ, จัดให้เหมาะสม",
+   "level": "B2",
+   "example": "The challenge is to supply more power and accommodate load variation while maintaining uptime.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "infosec",
+   "thai": "ความปลอดภัยของข้อมูล",
+   "level": "C1",
+   "example": "On the plus side, infosec remains a good bet for a long, stable career.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "experimental",
+   "thai": "ซึ่งเกี่ยวกับการทดลอง",
+   "level": "B2",
+   "example": "The new API is currently available as an experimental feature in origin trial.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "semantic",
+   "thai": "เชิงความหมาย",
+   "level": "C1",
+   "example": "The DOM offers text layout solutions out of the box using semantically understood content.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cavity",
+   "thai": "โพรงหรือช่องว่างขนาดใหญ่",
+   "level": "B2",
+   "example": "Regulators issued a warning after a contractor fell into a reactor cavity during work.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retaliation",
+   "thai": "การแก้แค้นหรือการตอบโต้",
+   "level": "C1",
+   "example": "The environment made staff hesitant to raise safety concerns without fear of retaliation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resurgence",
+   "thai": "การฟื้นคืนชีพหรือการกลับมาเติบโตใหม่",
+   "level": "C1",
+   "example": "The plant had been touted as a key symbol of the nation's nuclear resurgence.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "legislative",
+   "thai": "เกี่ยวกับกฎหมายหรือนิติบัญญัติ",
+   "level": "B2",
+   "example": "To achieve this, the country is improving its legislative framework for the data center industry.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "authorization",
+   "thai": "การอนุญาต",
+   "level": "B2",
+   "example": "Numerous mining farms had connected to the grid without authorization from regulatory bodies.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breakthrough",
+   "thai": "การค้นพบครั้งสำคัญ / ความก้าวหน้าครั้งใหญ่",
+   "level": "B2",
+   "example": "These awards will support breakthroughs in power semiconductor devices and critical materials.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "commercialization",
+   "thai": "การพัฒนาสู่เชิงพาณิชย์",
+   "level": "C1",
+   "example": "The funding will accelerate initiatives for the commercialization of vertical Gallium Nitride.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tender",
+   "thai": "การประมูลงาน / ซองประมูล",
+   "level": "C1",
+   "example": "Switzerland’s federal government has published a tender worth up to $8.5bn for cloud services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sovereignty",
+   "thai": "อำนาจอธิปไตย (ในที่นี้คือ อธิปไตยทางดิจิทัล)",
+   "level": "C1",
+   "example": "The project focuses on enhancing Switzerland’s digital sovereignty.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outlay",
+   "thai": "ค่าใช้จ่าย / เงินที่จ่ายออกไป",
+   "level": "C1",
+   "example": "These costs do not include implementation outlays, which will reach hundreds of millions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "orchestrate",
+   "thai": "ประสานและจัดการระบบที่ซับซ้อน",
+   "level": "C1",
+   "example": "The software orchestrates AI workloads in real time to stabilize grid power.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dynamically",
+   "thai": "อย่างปรับเปลี่ยนได้ตามสถานการณ์",
+   "level": "B2",
+   "example": "This enables data centers to dynamically adjust their energy consumption.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
