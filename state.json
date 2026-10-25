@@ -1296,47 +1296,18 @@
   "https://arcadedb.com/route-planning.html",
   "https://huggingface.co/destined/hurston-1",
   "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
-  "https://unicode.org/reports/tr39/"
+  "https://unicode.org/reports/tr39/",
+  "https://charliegerard.dev/blog/overgrown-extension/",
+  "https://www.disneyanimation.com/process/",
+  "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+  "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+  "https://minimaxir.com/2026/10/cheap-llms/",
+  "https://blog.simone.computer/reverse-beyblade-launch-tracker",
+  "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+  "https://iosiflazaridis.github.io/battles-of-the-romans/",
+  "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers"
  ],
  "stories": [
-  {
-   "id": 53,
-   "ts": "2026-10-12T06:18:28.728184+07:00",
-   "title": "Google Data Centers around the world",
-   "link": "https://datacenters.google/locations/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "The document lists Google data center community statistics and heat recovery initiatives across global locations.",
-   "summary": "Google published promotional metrics about its global data center footprints, highlighting local job creation and community sustainability programs. While largely public relations material, it offers high-level visibility into facility locations and district heat recovery projects.",
-   "vocab": [
-    {
-     "word": "initiative",
-     "thai": "โครงการริเริ่ม",
-     "level": "B2",
-     "example": "The Ministry and Google Cloud launched a joint initiative to help organizations identify real-world challenges."
-    },
-    {
-     "word": "precision",
-     "thai": "ความแม่นยำ",
-     "level": "B2",
-     "example": "Google is investing in Chile to implement precision irrigation management systems."
-    },
-    {
-     "word": "recovery",
-     "thai": "การนำกลับมาใช้ประโยชน์ใหม่",
-     "level": "B2",
-     "example": "The Hamina data center achieved an 80% heat recovery rate."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 1,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 52,
-   "sent_ts": "2026-10-12T14:16:51.151767+07:00"
-  },
   {
    "id": 54,
    "ts": "2026-10-12T10:10:08.007118+07:00",
@@ -21324,9 +21295,81 @@
    "urgency": 5,
    "scale": 9,
    "credibility": 10
+  },
+  {
+   "id": 596,
+   "ts": "2026-10-26T06:43:07.249314+07:00",
+   "title": "The State of Context Engineering",
+   "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses AI context engineering and prompt harness design, which is tangentially relevant to AI application builders rather than infra ops.",
+   "summary": "An AI practitioner explores context engineering challenges, analyzing why simply expanding LLM context windows does not eliminate system failures. The presentation emphasizes balancing deterministic rules with probabilistic model behavior when building robust AI harnesses.",
+   "vocab": [
+    {
+     "word": "deterministic",
+     "thai": "ที่ให้ผลลัพธ์แน่นอนตามกฎเกณฑ์",
+     "level": "C1",
+     "example": "The job is knowing when to be deterministic and when to be probabilistic."
+    },
+    {
+     "word": "inadvertently",
+     "thai": "โดยไม่ได้ตั้งใจ",
+     "level": "C1",
+     "example": "As model makers target new capabilities, they inadvertently create challenges we must overcome."
+    },
+    {
+     "word": "obsolete",
+     "thai": "ล้าสมัย / ตกรุ่น",
+     "level": "B2",
+     "example": "They asked me a very reasonable question about how to ensure this won't become obsolete quickly."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 597,
+   "ts": "2026-10-26T06:43:07.249359+07:00",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "link": "https://minimaxir.com/2026/10/cheap-llms/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Tracks aggressive pricing trends and token caching costs for major LLM providers, which impacts budgets for enterprise AI workloads.",
+   "summary": "OpenAI and Anthropic have dramatically slashed LLM API prices and prompt caching costs over recent months due to intense competition and improved inference efficiency. Prompt cache discounts provide substantial operational savings for agentic coding workflows that reuse lengthy conversation histories.",
+   "vocab": [
+    {
+     "word": "expenditure",
+     "thai": "รายจ่าย / การใช้จ่าย",
+     "level": "B2",
+     "example": "Cache read costs make up the vast majority of total token expenditure in agent workflows."
+    },
+    {
+     "word": "correlate",
+     "thai": "มีความสัมพันธ์สอดคล้องกัน",
+     "level": "C1",
+     "example": "A 75% reduction in cache cost correlates to a major reduction in overall operational price."
+    },
+    {
+     "word": "footnote",
+     "thai": "เรื่องเล็กน้อย / เชิงอรรถ",
+     "level": "C1",
+     "example": "Cache costs are typically treated as a footnote even though they dominate total usage."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 7
   }
  ],
- "next_id": 596,
+ "next_id": 598,
  "vocab": [
   {
    "word": "commissioning",
