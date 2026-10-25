@@ -1283,47 +1283,22 @@
   "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
   "https://twitter.com/log4j/status/2113014142600953868?s=46",
   "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
-  "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace"
+  "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace",
+  "https://imaginationlibrary.com/",
+  "https://lynchlab.net/llm-skin-cancer",
+  "https://talkweb.eu/openweb/4558/",
+  "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+  "https://github.com/JetBrains/thinkrail",
+  "https://armincat.com/articles/eunice-is-almost-here",
+  "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "https://www.dreamhoststatus.com/",
+  "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+  "https://arcadedb.com/route-planning.html",
+  "https://huggingface.co/destined/hurston-1",
+  "https://www.raspberrypi.com/news/recreate-the-apollo-guidance-computer/",
+  "https://unicode.org/reports/tr39/"
  ],
  "stories": [
-  {
-   "id": 52,
-   "ts": "2026-10-12T02:48:25.697653+07:00",
-   "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
-   "link": "https://www.datacenterdynamics.com/en/opinions/legacy-data-center-efficiency-now-has-a-compliance-deadline/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly impacts data center operations by introducing legal energy efficiency targets and fines for legacy facilities.",
-   "summary": "New building regulations in the United States and Europe are establishing mandatory efficiency and emissions standards for data centers. Facilities that fail to track and improve their Power Usage Effectiveness could soon face substantial financial fines.",
-   "vocab": [
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียด",
-     "level": "C1",
-     "example": "A growing number of emissions requirements are bringing that inefficiency under greater regulatory scrutiny."
-    },
-    {
-     "word": "obligation",
-     "thai": "ข้อผูกพันหรือหน้าที่",
-     "level": "B2",
-     "example": "That shift turns efficiency in existing facilities from a good intention into an obligation with a deadline."
-    },
-    {
-     "word": "benchmarking",
-     "thai": "การเทียบเคียงสมรรถนะตามมาตรฐาน",
-     "level": "B2",
-     "example": "More than 50 US states and cities now have benchmarking or performance requirements for large buildings."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 47,
-   "sent_ts": "2026-10-12T14:16:48.723736+07:00"
-  },
   {
    "id": 53,
    "ts": "2026-10-12T06:18:28.728184+07:00",
@@ -21061,9 +21036,297 @@
    "urgency": 8,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 588,
+   "ts": "2026-10-26T03:07:27.218791+07:00",
+   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+   "link": "https://talkweb.eu/openweb/4558/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This discusses internet censorship, circumvention tools, and developer rooms at FOSDEM, touching on networking and privacy infrastructure.",
+   "summary": "The FOSDEM Digital Dissident devroom brings together developers to build toolchains that resist censorship and protect user privacy under authoritarian regimes. Participants focus on interoperability, circumvention methods, and the complete chain of secure tools.",
+   "vocab": [
+    {
+     "word": "censorship",
+     "thai": "การเซ็นเซอร์",
+     "level": "C1",
+     "example": "We need tools people can trust and control to communicate safely, expose the truth, and resist censorship."
+    },
+    {
+     "word": "interoperability",
+     "thai": "ความสามารถในการทำงานร่วมกัน",
+     "level": "C1",
+     "example": "Each session is judged on how well it advances the toolchain: interoperability, shared threat models, and shared failure data."
+    },
+    {
+     "word": "sophisticated",
+     "thai": "ซับซ้อน, ทันสมัยมาก",
+     "level": "B2",
+     "example": "Censorship in Russia, Iran and China has grown much more sophisticated."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 589,
+   "ts": "2026-10-26T03:07:27.218831+07:00",
+   "title": "JetBrains Thinkrail",
+   "link": "https://github.com/JetBrains/thinkrail",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This covers an agentic IDE (ThinkRail) with isolated workspaces and concurrent coding agents, directly fitting the DevOps tools interest.",
+   "summary": "ThinkRail is a new agentic IDE built around a coding agent that provides isolated git-worktree workspaces and durable project knowledge through living specs. It helps developers run concurrent sessions, manage pull requests, and automate workflows effectively.",
+   "vocab": [
+    {
+     "word": "concurrent",
+     "thai": "เกิดขึ้นพร้อมกัน",
+     "level": "C1",
+     "example": "Several concurrent pi sessions per workspace each have their own model and live token readout."
+    },
+    {
+     "word": "durable",
+     "thai": "ทนทาน, ยาวนาน",
+     "level": "B2",
+     "example": "We built a rich interface around the coding agent and gave it durable project knowledge."
+    },
+    {
+     "word": "delegate",
+     "thai": "มอบหมายหน้าที่",
+     "level": "C1",
+     "example": "Steer a running turn or queue a follow-up, delegate to subagents, and work a shared plan."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 590,
+   "ts": "2026-10-26T03:07:27.218845+07:00",
+   "title": "Eunice is almost here (William Gibson, Agency)",
+   "link": "https://armincat.com/articles/eunice-is-almost-here",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "This is an essay connecting William Gibson's science fiction novel 'Agency' to modern autonomous AI agents, relevant to AI trends.",
+   "summary": "William Gibson's 2020 novel 'Agency' featured an experimental AI assistant named Eunice that could perform complex tasks independently while conversing. Today's emerging full-duplex AI models and background agents demonstrate that Gibson's science fiction vision is rapidly becoming reality.",
+   "vocab": [
+    {
+     "word": "intricate",
+     "thai": "ซับซ้อน, ละเอียดอ่อน",
+     "level": "C1",
+     "example": "Without getting lost in its intricate plot, one storyline takes place in an alternate San Francisco."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ซึ่งปกครองตนเอง, ทำงานได้เอง",
+     "level": "C1",
+     "example": "We now have models bringing us full-duplex conversations and increasingly autonomous AI agents."
+    },
+    {
+     "word": "independently",
+     "thai": "อย่างอิสระ",
+     "level": "B2",
+     "example": "OpenAI and Meta are introducing agents capable of independently pursuing goals and taking action."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 591,
+   "ts": "2026-10-26T03:07:27.218859+07:00",
+   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This discusses the impact of advanced AI on university-level academics and grading, touching on major AI advancements.",
+   "summary": "A UC Berkeley mathematics professor stopped grading student homework for correctness because widespread AI usage makes accurate assessment nearly impossible. Following massive AI breakthroughs in math, educators are grappling with how to evaluate student work fairly.",
+   "vocab": [
+    {
+     "word": "unavoidable",
+     "thai": "หลีกเลี่ยงไม่ได้",
+     "level": "B2",
+     "example": "He felt there was no point in paying readers to grade for correctness as AI use is now unavoidable."
+    },
+    {
+     "word": "discretion",
+     "thai": "ดุลยพินิจ",
+     "level": "C1",
+     "example": "AI policy for classes is up to the discretion of faculty members."
+    },
+    {
+     "word": "adequate",
+     "thai": "เพียงพอ, เหมาะสม",
+     "level": "B2",
+     "example": "Campus has tried several AI detection tools but determined they aren’t adequate enough to standardize."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 592,
+   "ts": "2026-10-26T03:07:27.218870+07:00",
+   "title": "Active incident at Dreamhost forcing password reset",
+   "link": "https://www.dreamhoststatus.com/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "This reports an active security incident and forced password reset at DreamHost, directly aligning with security vulnerabilities and outages.",
+   "summary": "DreamHost experienced an active security incident requiring a mandatory password reset for affected email and FTP accounts. While control panel features and notifications were deployed to guide users, certain file management tools remained temporarily unavailable.",
+   "vocab": [
+    {
+     "word": "notification",
+     "thai": "การแจ้งเตือน",
+     "level": "B2",
+     "example": "Our notification will not ask you to log in through an external link."
+    },
+    {
+     "word": "temporary",
+     "thai": "ชั่วคราว",
+     "level": "B2",
+     "example": "The file manager remains unavailable while we continue to work on this issue."
+    },
+    {
+     "word": "instruction",
+     "thai": "คำแนะนำ",
+     "level": "B2",
+     "example": "The majority of emails to affected account owners with step-by-step instructions have been sent."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 593,
+   "ts": "2026-10-26T03:07:37.501148+07:00",
+   "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
+   "link": "https://arcadedb.com/route-planning.html",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This is an in-depth technical analysis of routing and graph algorithms relevant to network infrastructure and logistics.",
+   "summary": "The article compares classic pathfinding algorithms like Dijkstra and A* with Customizable Contraction Hierarchies. It demonstrates how precomputed hierarchies drastically improve query performance for large networks.",
+   "vocab": [
+    {
+     "word": "coordinate",
+     "thai": "พิกัด",
+     "level": "B2",
+     "example": "Needs coordinates on the vertices."
+    },
+    {
+     "word": "estimate",
+     "thai": "การประมาณ",
+     "level": "B2",
+     "example": "Adds an estimate of the time left from the straight line to Coral Gables."
+    },
+    {
+     "word": "hierarchy",
+     "thai": "ลำดับชั้น",
+     "level": "B2",
+     "example": "Climbs a precomputed hierarchy from both ends until the two climbs meet."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 594,
+   "ts": "2026-10-26T03:07:37.501175+07:00",
+   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+   "link": "https://huggingface.co/destined/hurston-1",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This introduces an open-source text-to-speech model optimized for telephony systems, relevant to AI voice infrastructure.",
+   "summary": "Destined AI released Hurston-1, an open-source text-to-speech model specifically trained on regional English accents and telephony audio standards. It provides narrowband modes tailored for integration with customer service phone lines.",
+   "vocab": [
+    {
+     "word": "contributor",
+     "thai": "ผู้มีส่วนร่วม",
+     "level": "B2",
+     "example": "It learned in part from real phone calls between our contributors and AI voice agents."
+    },
+    {
+     "word": "endorsement",
+     "thai": "การรับรอง",
+     "level": "C1",
+     "example": "The name is a tribute; it does not imply any endorsement by her estate."
+    },
+    {
+     "word": "independent",
+     "thai": "ที่เป็นอิสระ",
+     "level": "B2",
+     "example": "Hurston-1 was built in Atlanta by a small, independent team."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 595,
+   "ts": "2026-10-26T03:07:37.501197+07:00",
+   "title": "UTS #39: Unicode Security Mechanisms",
+   "link": "https://unicode.org/reports/tr39/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "This is an official Unicode standard update addressing security mechanisms and identifier spoofing, critical for server security.",
+   "summary": "The Unicode Consortium published version 18.0.0 of UTS #39, detailing security mechanisms to detect risks from varied writing systems. It specifies identifier profiles that implementations must follow to prevent spoofing attacks.",
+   "vocab": [
+    {
+     "word": "specification",
+     "thai": "ข้อกำหนดรายละเอียด",
+     "level": "C1",
+     "example": "This document specifies mechanisms that can be used to detect possible security problems."
+    },
+    {
+     "word": "conformance",
+     "thai": "การปฏิบัติตาม",
+     "level": "C1",
+     "example": "An implementation claiming conformance to this specification must do so in conformance to specific clauses."
+    },
+    {
+     "word": "precise",
+     "thai": "แม่นยำ, แน่นอน",
+     "level": "B2",
+     "example": "The implementation shall provide a precise list of characters that are added or removed."
+    }
+   ],
+   "status": "night",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 10
   }
  ],
- "next_id": 588,
+ "next_id": 596,
  "vocab": [
   {
    "word": "commissioning",
