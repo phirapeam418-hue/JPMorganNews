@@ -1261,47 +1261,11 @@
   "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
   "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
   "https://ratfactor.com/cards/limitations",
-  "https://codeberg.org/Misom/FindMyWeb"
+  "https://codeberg.org/Misom/FindMyWeb",
+  "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "https://kottke.org/26/10/how-japanese-dried-bonito-is-made"
  ],
  "stories": [
-  {
-   "id": 48,
-   "ts": "2026-10-11T15:00:52.691946+07:00",
-   "title": "Decade-old RAM is making a comeback",
-   "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Severe memory price hikes are forcing hardware manufacturers back to DDR4 support, impacting procurement planning.",
-   "summary": "Motherboard and CPU vendors are reintroducing support for older DDR4 platforms due to steep DDR5 price spikes. While targeted at desktop users, the persistent memory shortage reflects broader hardware supply pressures affecting infrastructure budgets.",
-   "vocab": [
-    {
-     "word": "backtrack",
-     "thai": "การเปลี่ยนการตัดสินใจกลับไปใช้แบบเดิม",
-     "level": "C1",
-     "example": "This backtrack stems from LGA 1700's cross-compatibility with both kinds of RAM."
-    },
-    {
-     "word": "disparity",
-     "thai": "ความแตกต่างอย่างมาก",
-     "level": "C1",
-     "example": "I recently saw the price disparity first-hand while shopping around for new RAM."
-    },
-    {
-     "word": "abruptly",
-     "thai": "อย่างกะทันหัน",
-     "level": "B2",
-     "example": "Shopping around for new RAM after a DDR4 kit abruptly died on me."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 7,
-   "msg_id": 49,
-   "sent_ts": "2026-10-12T14:16:49.691004+07:00"
-  },
   {
    "id": 49,
    "ts": "2026-10-11T21:44:47.529212+07:00",
@@ -21081,9 +21045,47 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 7
+  },
+  {
+   "id": 585,
+   "ts": "2026-10-25T15:49:20.659208+07:00",
+   "title": "Cerebras Deploys Trillion-Parameter AI Models",
+   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly covers major AI infrastructure innovations regarding wafer-scale chips and large model deployment.",
+   "summary": "Cerebras explains how they deploy multi-trillion parameter AI models across multiple wafer-scale chips using high-speed interconnects. This breakthrough allows massive language models to run at exceptionally high token speeds using on-chip memory.",
+   "vocab": [
+    {
+     "word": "illustrative",
+     "thai": "ที่เป็นตัวอย่าง, ซึ่งอธิบาย",
+     "level": "C1",
+     "example": "We use this case as an illustrative example of how the system scales."
+    },
+    {
+     "word": "quantization",
+     "thai": "การควอนไทเซชัน (การแปลงข้อมูลเป็นช่วงค่าที่จำกัด)",
+     "level": "C2",
+     "example": "4-bit weight quantization helps reduce the memory footprint of the model."
+    },
+    {
+     "word": "concurrent",
+     "thai": "ที่เกิดขึ้นพร้อมกัน",
+     "level": "C1",
+     "example": "The hardware handles a high number of concurrent requests efficiently."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 329,
+   "sent_ts": "2026-10-25T15:49:21.176283+07:00"
   }
  ],
- "next_id": 585,
+ "next_id": 586,
  "vocab": [
   {
    "word": "commissioning",
@@ -26050,6 +26052,26 @@
    "thai": "เพิ่มต่อท้าย",
    "level": "B2",
    "example": "Append the kernel parameter to your boot command line in the configuration file.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "illustrative",
+   "thai": "ที่เป็นตัวอย่าง, ซึ่งอธิบาย",
+   "level": "C1",
+   "example": "We use this case as an illustrative example of how the system scales.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "quantization",
+   "thai": "การควอนไทเซชัน (การแปลงข้อมูลเป็นช่วงค่าที่จำกัด)",
+   "level": "C2",
+   "example": "4-bit weight quantization helps reduce the memory footprint of the model.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
