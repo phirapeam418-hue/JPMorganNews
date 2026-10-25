@@ -20700,11 +20700,13 @@
      "example": "The resulting design is significantly mitigating mechanical load and structural stress."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 320,
+   "sent_ts": "2026-10-25T12:58:35.361695+07:00"
   },
   {
    "id": 575,
@@ -20736,7 +20738,7 @@
      "example": "Fixed outputs getting stuck running when a bad rescale output resolution is set."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 2,
    "scale": 6,
@@ -20772,11 +20774,13 @@
      "example": "What rqlite did was make it a standalone, general-purpose open-source thing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 322,
+   "sent_ts": "2026-10-25T12:58:36.431042+07:00"
   },
   {
    "id": 577,
@@ -20808,11 +20812,13 @@
      "example": "A multimodal agent can write the prompt, call the API, and evaluate the result."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 323,
+   "sent_ts": "2026-10-25T12:58:36.929679+07:00"
   },
   {
    "id": 578,
@@ -20844,11 +20850,13 @@
      "example": "Special tooling to augment research and vulnerability discovery."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 321,
+   "sent_ts": "2026-10-25T12:58:35.897692+07:00"
   },
   {
    "id": 579,
@@ -20880,7 +20888,7 @@
      "example": "The facility will sit on top of a national fiber backbone with cross-border connections."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -20916,11 +20924,13 @@
      "example": "The plaintiffs are seeking an injunction to halt turbine operations."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 324,
+   "sent_ts": "2026-10-25T12:58:37.500817+07:00"
   },
   {
    "id": 581,
@@ -20952,11 +20962,13 @@
      "example": "No nation can safely outsource its critical digital infrastructure to a single foreign partner."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 325,
+   "sent_ts": "2026-10-25T12:58:38.011905+07:00"
   },
   {
    "id": 582,
@@ -20988,11 +21000,13 @@
      "example": "The new architecture provides a single, uniform path across all supported JDKs."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 326,
+   "sent_ts": "2026-10-25T12:58:38.780588+07:00"
   },
   {
    "id": 583,
@@ -21024,11 +21038,13 @@
      "example": "Append the kernel parameter to your boot command line in the configuration file."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 327,
+   "sent_ts": "2026-10-25T12:58:39.303844+07:00"
   },
   {
    "id": 584,
@@ -21060,7 +21076,7 @@
      "example": "Mainstream corporate America views token spending as a cost center that weighs on margins."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -25864,6 +25880,176 @@
    "thai": "อย่างปรับเปลี่ยนได้ตามสถานการณ์",
    "level": "B2",
    "example": "This enables data centers to dynamically adjust their energy consumption.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "eligible",
+   "thai": "มีคุณสมบัติเหมาะสม, มีสิทธิ์",
+   "level": "B2",
+   "example": "All iOS components are eligible for research under this program.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "customize",
+   "thai": "ปรับแต่งตามความต้องการ",
+   "level": "B2",
+   "example": "You can run tools, choose entitlements, and even customize the kernel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discovery",
+   "thai": "การค้นพบ",
+   "level": "B2",
+   "example": "Special tooling to augment research and vulnerability discovery.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consensus",
+   "thai": "ความเห็นพ้องต้องกัน (ในระบบกระจาย)",
+   "level": "C1",
+   "example": "Replicating SQLite with a consensus protocol solved it.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "embedded",
+   "thai": "ฝังตัวอยู่ภายใน",
+   "level": "B2",
+   "example": "Canonical built dqlite to get an embedded replicated store.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "standalone",
+   "thai": "ทำงานด้วยตัวเองได้โดยอิสระ",
+   "level": "B2",
+   "example": "What rqlite did was make it a standalone, general-purpose open-source thing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "photorealistic",
+   "thai": "เหมือนภาพถ่ายจริง",
+   "level": "C1",
+   "example": "NVIDIA's StyleGAN powers a photorealistic fake face on every refresh.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "variability",
+   "thai": "ความแปรปรวน, ความไม่แน่นอน",
+   "level": "C1",
+   "example": "Prices vary widely, highlighting the high variability in API costs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "multimodal",
+   "thai": "หลายรูปแบบ (รองรับทั้งข้อความ ภาพ เสียง)",
+   "level": "C1",
+   "example": "A multimodal agent can write the prompt, call the API, and evaluate the result.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "civil penalty",
+   "thai": "โทษปรับทางแพ่ง",
+   "level": "C1",
+   "example": "MDEQ is seeking civil penalties of up to $25,000 per day.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "injunction",
+   "thai": "คำสั่งห้ามของศาล",
+   "level": "C1",
+   "example": "The plaintiffs are seeking an injunction to halt turbine operations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "blowback",
+   "thai": "ผลกระทบเชิงลบที่ไม่คาดคิดตามมา",
+   "level": "C1",
+   "example": "The political blowback from the decision is causing allied nations to reconsider reliance on US vendors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "insurmountable",
+   "thai": "ที่ยากจะเอาชนะหรือข้ามพ้น",
+   "level": "C1",
+   "example": "Cloning the capabilities of foreign tech giants once seemed like an insurmountable problem.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outsource",
+   "thai": "จัดจ้างภายนอก",
+   "level": "B2",
+   "example": "No nation can safely outsource its critical digital infrastructure to a single foreign partner.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "uniform",
+   "thai": "ที่เป็นรูปแบบเดียวกันสม่ำเสมอ",
+   "level": "B2",
+   "example": "The new architecture provides a single, uniform path across all supported JDKs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accumulation",
+   "thai": "การสะสมหรือการรวมยอดข้อมูลตัวเลข",
+   "level": "B2",
+   "example": "Tests used five-sample medians with FP32 accumulation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "append",
+   "thai": "เพิ่มต่อท้าย",
+   "level": "B2",
+   "example": "Append the kernel parameter to your boot command line in the configuration file.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
