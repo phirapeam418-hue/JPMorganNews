@@ -1275,7 +1275,15 @@
   "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
   "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
   "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
-  "https://rec98.nmlgc.net/blog/2026-10-05"
+  "https://rec98.nmlgc.net/blog/2026-10-05",
+  "https://gp-64.com/swr/",
+  "https://bigwhalehunting.com/workforce/",
+  "https://www.youtube.com/watch?v=46wxttvq9qY",
+  "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+  "https://scabshack.lol/posts/bring-back-the-cool-save-file-screens",
+  "https://twitter.com/log4j/status/2113014142600953868?s=46",
+  "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/",
+  "https://techbronerd.substack.com/p/openai-and-anthropic-wanted-to-replace"
  ],
  "stories": [
   {
@@ -21017,9 +21025,45 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 587,
+   "ts": "2026-10-26T00:29:00.402259+07:00",
+   "title": "Samsung TV privacy issues",
+   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "A significant security finding detailing root access and heavy telemetry/privacy issues on modern smart TVs, touching on embedded system security.",
+   "summary": "A security researcher gained root shell access on a modern Samsung smart TV after bypassing AES encryption and hardware debugging interfaces. The analysis revealed extensive built-in telemetry, automatic content recognition, and always-on microphone data collection.",
+   "vocab": [
+    {
+     "word": "firmware",
+     "thai": "ซอฟต์แวร์ฝังตัว",
+     "level": "B2",
+     "example": "I tried reversing the firmware but it was AES encrypted."
+    },
+    {
+     "word": "telemetry",
+     "thai": "การส่งข้อมูลทางไกล",
+     "level": "C1",
+     "example": "The system collects a huge amount of juicy telemetry."
+    },
+    {
+     "word": "debug",
+     "thai": "แก้ไขข้อบกพร่อง",
+     "level": "B2",
+     "example": "Hardware debugging interfaces can sometimes expose root shells."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 587,
+ "next_id": 588,
  "vocab": [
   {
    "word": "commissioning",
