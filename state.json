@@ -1279,120 +1279,6 @@
  ],
  "stories": [
   {
-   "id": 49,
-   "ts": "2026-10-11T21:44:47.529212+07:00",
-   "title": "Hyperscale Data plans Patriot BTC subsidiary for Bitcoin mining business",
-   "link": "https://www.datacenterdynamics.com/en/news/hyperscale-data-plans-patriot-btc-subsidiary-for-bitcoin-mining-business/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "The story covers data center capacity conversion and power expansion for AI workloads, but commercial operations will not start until late 2026.",
-   "summary": "Hyperscale Data plans to spin off its Bitcoin mining business into a subsidiary to focus its Michigan site on AI workloads. The company secured an initial 20MW agreement with a cloud customer and aims to scale the campus up to 300MW.",
-   "vocab": [
-    {
-     "word": "subsidiary",
-     "thai": "บริษัทย่อย",
-     "level": "B2",
-     "example": "Hyperscale Data plans to form a new subsidiary to hold its Bitcoin mining operations."
-    },
-    {
-     "word": "restructuring",
-     "thai": "การปรับโครงสร้างองค์กร",
-     "level": "C1",
-     "example": "The proposed restructuring follows the shutdown of Bitcoin mining at the facility."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "Any transaction would require board approval and compliance with applicable legal requirements."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8,
-   "msg_id": 50,
-   "sent_ts": "2026-10-12T14:16:50.172029+07:00"
-  },
-  {
-   "id": 50,
-   "ts": "2026-10-11T21:44:47.529264+07:00",
-   "title": "AI systems are fully capable of carrying out nightmare attacks against infrastructure and nobody's ready",
-   "link": "https://www.theregister.com/security/2026/10/11/ai-systems-are-fully-capable-of-carrying-out-nightmare-attacks-against-infrastructure-and-nobodys-ready/5302450",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Autonomous AI attacks on industrial control systems pose severe security risks to data center power, cooling, and facility infrastructure.",
-   "summary": "A Booz Allen study showed that advanced AI agents can autonomously breach industrial control networks and manipulate physical equipment within minutes. This capability highlights critical risks for operational technology that manages power and cooling systems.",
-   "vocab": [
-    {
-     "word": "operational",
-     "thai": "เชิงปฏิบัติการ",
-     "level": "B2",
-     "example": "Autonomous AI systems are capable of finding and attacking critical operational technology."
-    },
-    {
-     "word": "perimeter",
-     "thai": "แนวป้องกันรอบนอก",
-     "level": "C1",
-     "example": "The models progressed from a perimeter compromise to actions inside an industrial network."
-    },
-    {
-     "word": "persistence",
-     "thai": "ความต่อเนื่องยาวนานในระบบ",
-     "level": "C1",
-     "example": "AI agents can operate with a speed, persistence, and engineering-level precision."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 46,
-   "sent_ts": "2026-10-12T14:16:48.239419+07:00"
-  },
-  {
-   "id": 51,
-   "ts": "2026-10-11T21:44:47.529417+07:00",
-   "title": "The tilde in your PATH may not be your HOME",
-   "link": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "The post explains a subtle shell quoting behavior affecting environment variable expansion in Linux system administration.",
-   "summary": "Quoting a tilde inside shell PATH definitions prevents the shell from expanding it to the user home directory. Sysadmins and DevOps engineers should explicitly use the HOME variable to avoid broken binary lookups.",
-   "vocab": [
-    {
-     "word": "suspicious",
-     "thai": "น่าสงสัย",
-     "level": "B2",
-     "example": "The sandbox tool warned that entries in the path looked suspicious."
-    },
-    {
-     "word": "expansion",
-     "thai": "การขยายหรือการแจกแจงค่า",
-     "level": "B2",
-     "example": "Tilde expansion happens only in unquoted command line inputs."
-    },
-    {
-     "word": "fragile",
-     "thai": "เปราะบางหรือเกิดข้อผิดพลาดได้ง่าย",
-     "level": "C1",
-     "example": "Relying on unquoted variable assignments is fragile because spaces can break them."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 51,
-   "sent_ts": "2026-10-12T14:16:50.647934+07:00"
-  },
-  {
    "id": 52,
    "ts": "2026-10-12T02:48:25.697653+07:00",
    "title": "Sponsored: Legacy data center efficiency now has a compliance deadline",
@@ -22820,7 +22706,7 @@
    "thai": "การหยุดชะงัก",
    "level": "B2",
    "example": "All Sberbank systems and services are operating normally and without interruption.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22990,7 +22876,7 @@
    "thai": "ที่มีผลลัพธ์แน่นอนตามกฎ",
    "level": "C2",
    "example": "The planning, rendering, and validation are deterministic code.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24220,7 +24106,7 @@
    "thai": "ทำให้หยุดทำงานหรือใช้งานไม่ได้",
    "level": "B2",
    "example": "Chrome and Edge are removing XSLT: what breaks and what does not.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -25590,7 +25476,7 @@
    "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
    "level": "B2",
    "example": "Delivery capability is therefore becoming part of the value proposition itself.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -25910,7 +25796,7 @@
    "thai": "ค่าใช้จ่าย / เงินที่จ่ายออกไป",
    "level": "C1",
    "example": "These costs do not include implementation outlays, which will reach hundreds of millions.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -26132,26 +26018,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6232989348933927701": {
-   "word": "compromise",
-   "correct": 1
-  },
-  "6235624457398911654": {
-   "word": "propagate",
-   "correct": 3
-  },
-  "6235624457398911655": {
-   "word": "valuation",
-   "correct": 1
-  },
-  "6235624457398911656": {
-   "word": "archipelago",
-   "correct": 2
-  },
-  "6235624457398911657": {
-   "word": "independently",
-   "correct": 1
-  },
   "6235624457398911658": {
    "word": "spoilage",
    "correct": 1
@@ -26330,6 +26196,26 @@
   },
   "6262310845850583724": {
    "word": "terrestrial",
+   "correct": 1
+  },
+  "6264674031346123362": {
+   "word": "break",
+   "correct": 1
+  },
+  "6264674031346123363": {
+   "word": "interruption",
+   "correct": 0
+  },
+  "6264674031346123364": {
+   "word": "deterministic",
+   "correct": 2
+  },
+  "6264674031346123365": {
+   "word": "outlay",
+   "correct": 2
+  },
+  "6264674031346123366": {
+   "word": "proposition",
    "correct": 1
   }
  },
