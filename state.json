@@ -1263,7 +1263,19 @@
   "https://ratfactor.com/cards/limitations",
   "https://codeberg.org/Misom/FindMyWeb",
   "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-  "https://kottke.org/26/10/how-japanese-dried-bonito-is-made"
+  "https://kottke.org/26/10/how-japanese-dried-bonito-is-made",
+  "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+  "https://www.theregister.com/public-sector/2026/10/25/want-to-build-a-uk-datacenter-please-hold-while-whitehall-transfers-you/5304956",
+  "https://www.theregister.com/offbeat/2026/10/25/reg-readers-land-on-binface-as-name-for-uk-space-cleanup-mission/5305144",
+  "https://loeffelholz-codex.org/en/",
+  "https://github.com/ihhub/fheroes2",
+  "https://blog.alxgsv.com/challenge-is-gone/",
+  "https://github.com/winnin/farol",
+  "https://twitter.com/mike64_t/status/2114150399406202896",
+  "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+  "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+  "https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk",
+  "https://rec98.nmlgc.net/blog/2026-10-05"
  ],
  "stories": [
   {
@@ -21083,9 +21095,45 @@
    "credibility": 9,
    "msg_id": 329,
    "sent_ts": "2026-10-25T15:49:21.176283+07:00"
+  },
+  {
+   "id": 586,
+   "ts": "2026-10-25T21:05:03.447331+07:00",
+   "title": "The power behind AI: Data centers drive the demand for qualified electricians",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Highlights the critical labor shortage of certified electricians needed to build and power new AI data centers.",
+   "summary": "Expanding AI infrastructure requires massive electrical capacity, leading tech giants to heavily fund skilled trade programs. However, a worsening shortage of qualified electricians is emerging as a primary bottleneck for data center construction.",
+   "vocab": [
+    {
+     "word": "apprehensive",
+     "thai": "วิตกกังวลหรือหวั่นเกรง",
+     "level": "B2",
+     "example": "While some are still apprehensive, many have seen the extensive benefits of AI."
+    },
+    {
+     "word": "shortage",
+     "thai": "การขาดแคลน",
+     "level": "B2",
+     "example": "To say we have a significant skilled labor shortage is likely an understatement."
+    },
+    {
+     "word": "understatement",
+     "thai": "การกล่าวถึงสิ่งที่ต่ำกว่าความเป็นจริง",
+     "level": "B2",
+     "example": "To say we have a shortage is likely an understatement."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 586,
+ "next_id": 587,
  "vocab": [
   {
    "word": "commissioning",
