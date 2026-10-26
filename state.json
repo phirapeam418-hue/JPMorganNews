@@ -1312,44 +1312,6 @@
  ],
  "stories": [
   {
-   "id": 54,
-   "ts": "2026-10-12T10:10:08.007118+07:00",
-   "title": "Google is illegaly cutting forest to build data centers",
-   "link": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Regulatory shutdown of massive data center construction projects for a major hyperscaler directly impacts data center capacity planning.",
-   "summary": "Finnish environmental regulators ordered Google to pause construction on two major data center sites after clear-cutting hundreds of hectares without environmental permits. This regulatory intervention highlights the intense permitting scrutiny and capacity delays facing European hyperscale expansions.",
-   "vocab": [
-    {
-     "word": "oversight",
-     "thai": "การมองข้ามหรือข้อผิดพลาดโดยไม่ตั้งใจ",
-     "level": "C1",
-     "example": "The Finnish Association for Nature Conservation blamed the oversights on the overheated market."
-    },
-    {
-     "word": "preparatory",
-     "thai": "ซึ่งเป็นการเตรียมการเบื้องต้น",
-     "level": "B2",
-     "example": "Google has gone ahead with extensive preparatory measures, including removing trees."
-    },
-    {
-     "word": "biodiversity",
-     "thai": "ความหลากหลายทางชีวภาพ",
-     "level": "B2",
-     "example": "As we continue our long-term work in the region, we are advancing our landscaping and biodiversity plans."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 48,
-   "sent_ts": "2026-10-12T14:16:49.209230+07:00"
-  },
-  {
    "id": 55,
    "ts": "2026-10-12T18:26:39.765876+07:00",
    "title": "Serverfarm tops out first data center at Arkansas campus",
@@ -20969,11 +20931,13 @@
      "example": "To say we have a shortage is likely an understatement."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 346,
+   "sent_ts": "2026-10-26T13:01:55.331819+07:00"
   },
   {
    "id": 587,
@@ -21043,11 +21007,13 @@
      "example": "Censorship in Russia, Iran and China has grown much more sophisticated."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 340,
+   "sent_ts": "2026-10-26T13:01:51.473509+07:00"
   },
   {
    "id": 589,
@@ -21079,11 +21045,13 @@
      "example": "Steer a running turn or queue a follow-up, delegate to subagents, and work a shared plan."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 341,
+   "sent_ts": "2026-10-26T13:01:52.139329+07:00"
   },
   {
    "id": 590,
@@ -21115,11 +21083,13 @@
      "example": "OpenAI and Meta are introducing agents capable of independently pursuing goals and taking action."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 347,
+   "sent_ts": "2026-10-26T13:01:55.944590+07:00"
   },
   {
    "id": 591,
@@ -21151,11 +21121,13 @@
      "example": "Campus has tried several AI detection tools but determined they aren’t adequate enough to standardize."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 342,
+   "sent_ts": "2026-10-26T13:01:52.796530+07:00"
   },
   {
    "id": 592,
@@ -21225,11 +21197,13 @@
      "example": "Climbs a precomputed hierarchy from both ends until the two climbs meet."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 343,
+   "sent_ts": "2026-10-26T13:01:53.428615+07:00"
   },
   {
    "id": 594,
@@ -21261,11 +21235,13 @@
      "example": "Hurston-1 was built in Atlanta by a small, independent team."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 344,
+   "sent_ts": "2026-10-26T13:01:54.090962+07:00"
   },
   {
    "id": 595,
@@ -21335,7 +21311,7 @@
      "example": "They asked me a very reasonable question about how to ensure this won't become obsolete quickly."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -21371,185 +21347,17 @@
      "example": "Cache costs are typically treated as a footnote even though they dominate total usage."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 8,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 345,
+   "sent_ts": "2026-10-26T13:01:54.710940+07:00"
   }
  ],
  "next_id": 598,
  "vocab": [
-  {
-   "word": "interconnect",
-   "thai": "ระบบเชื่อมต่อเครือข่ายระหว่างกัน",
-   "level": "C1",
-   "example": "Meta has built high-capacity datacenter interconnects to support model training.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bottleneck",
-   "thai": "คอขวด (จุดที่ทำให้การทำงานช้าลง)",
-   "level": "B2",
-   "example": "This can lead to problems where many senders converge on the same destination and create a bottleneck.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "valuation",
-   "thai": "มูลค่าประเมินของบริษัท",
-   "level": "B2",
-   "example": "TypeSafe raised $870M at a $7.5B valuation led by Andreessen Horowitz.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "enterprise",
-   "thai": "ระดับองค์กรธุรกิจ",
-   "level": "B2",
-   "example": "We will be adding all the enterprise features you have been asking us for.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "participation",
-   "thai": "การมีส่วนร่วม",
-   "level": "B2",
-   "example": "The funding round saw participation from Sequoia Capital and other key investors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "credential",
-   "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่านหรือโทเค็น)",
-   "level": "B2",
-   "example": "AWS AgentCore security undone by prompt requesting credentials.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "vulnerability",
-   "thai": "จุดอ่อนหรือช่องโหว่ทางความปลอดภัย",
-   "level": "B2",
-   "example": "Security Microsoft patches failed to fix on-prem SharePoint under zero-day attack.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bolster",
-   "thai": "เสริมสร้าง หรือสนับสนุน",
-   "level": "C1",
-   "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "symmetrical",
-   "thai": "สมมาตร, ซึ่งเทียบเท่ากัน",
-   "level": "B2",
-   "example": "Another data center was hit as well—our symmetrical response.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "acknowledge",
-   "thai": "ยอมรับ",
-   "level": "B2",
-   "example": "Yandex said no employees were hurt but acknowledged disruptions to some services.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disruption",
-   "thai": "การหยุดชะงัก",
-   "level": "B2",
-   "example": "The damage has left Yandex struggling to maintain its AI chatbot and other online services.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "encompass",
-   "thai": "ครอบคลุม",
-   "level": "C1",
-   "example": "That data encompasses 300 million individual work events across major software development firms.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "autonomous",
-   "thai": "อัตโนมัติ, ทำงานได้เอง",
-   "level": "B2",
-   "example": "AI coding agents primarily write and submit code autonomously based on prompts.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concentration",
-   "thai": "การกระจุกตัว, ความหนาแน่น",
-   "level": "B2",
-   "example": "This heavy concentration of labor poses ongoing security risks.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "maintainer",
-   "thai": "ผู้ดูแลรักษาซอฟต์แวร์",
-   "level": "C1",
-   "example": "He is an open source maintainer, and he is far from the only one.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "resilient",
-   "thai": "มีความยืดหยุ่นและทนทาน",
-   "level": "C1",
-   "example": "From laying the groundwork for a resilient global fabric, Koley built modern infrastructure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "tenure",
-   "thai": "วาระการดำรงตำแหน่ง",
-   "level": "C1",
-   "example": "Bikash Koley spent more than 16 years at the company across two tenures.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "rigor",
    "thai": "ความเข้มงวด ความถี่ถ้วน",
@@ -26375,6 +26183,176 @@
    "thai": "แม่นยำ, แน่นอน",
    "level": "B2",
    "example": "The implementation shall provide a precise list of characters that are added or removed.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "censorship",
+   "thai": "การเซ็นเซอร์",
+   "level": "C1",
+   "example": "We need tools people can trust and control to communicate safely, expose the truth, and resist censorship.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sophisticated",
+   "thai": "ซับซ้อน, ทันสมัยมาก",
+   "level": "B2",
+   "example": "Censorship in Russia, Iran and China has grown much more sophisticated.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "delegate",
+   "thai": "มอบหมายหน้าที่",
+   "level": "C1",
+   "example": "Steer a running turn or queue a follow-up, delegate to subagents, and work a shared plan.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unavoidable",
+   "thai": "หลีกเลี่ยงไม่ได้",
+   "level": "B2",
+   "example": "He felt there was no point in paying readers to grade for correctness as AI use is now unavoidable.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "adequate",
+   "thai": "เพียงพอ, เหมาะสม",
+   "level": "B2",
+   "example": "Campus has tried several AI detection tools but determined they aren’t adequate enough to standardize.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "coordinate",
+   "thai": "พิกัด",
+   "level": "B2",
+   "example": "Needs coordinates on the vertices.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "estimate",
+   "thai": "การประมาณ",
+   "level": "B2",
+   "example": "Adds an estimate of the time left from the straight line to Coral Gables.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hierarchy",
+   "thai": "ลำดับชั้น",
+   "level": "B2",
+   "example": "Climbs a precomputed hierarchy from both ends until the two climbs meet.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "endorsement",
+   "thai": "การรับรอง",
+   "level": "C1",
+   "example": "The name is a tribute; it does not imply any endorsement by her estate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "independent",
+   "thai": "ที่เป็นอิสระ",
+   "level": "B2",
+   "example": "Hurston-1 was built in Atlanta by a small, independent team.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expenditure",
+   "thai": "รายจ่าย / การใช้จ่าย",
+   "level": "B2",
+   "example": "Cache read costs make up the vast majority of total token expenditure in agent workflows.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "correlate",
+   "thai": "มีความสัมพันธ์สอดคล้องกัน",
+   "level": "C1",
+   "example": "A 75% reduction in cache cost correlates to a major reduction in overall operational price.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "footnote",
+   "thai": "เรื่องเล็กน้อย / เชิงอรรถ",
+   "level": "C1",
+   "example": "Cache costs are typically treated as a footnote even though they dominate total usage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "apprehensive",
+   "thai": "วิตกกังวลหรือหวั่นเกรง",
+   "level": "B2",
+   "example": "While some are still apprehensive, many have seen the extensive benefits of AI.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "shortage",
+   "thai": "การขาดแคลน",
+   "level": "B2",
+   "example": "To say we have a significant skilled labor shortage is likely an understatement.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "understatement",
+   "thai": "การกล่าวถึงสิ่งที่ต่ำกว่าความเป็นจริง",
+   "level": "B2",
+   "example": "To say we have a shortage is likely an understatement.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intricate",
+   "thai": "ซับซ้อน, ละเอียดอ่อน",
+   "level": "C1",
+   "example": "Without getting lost in its intricate plot, one storyline takes place in an alternate San Francisco.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
