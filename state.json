@@ -1305,7 +1305,10 @@
   "https://blog.simone.computer/reverse-beyblade-launch-tracker",
   "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
   "https://iosiflazaridis.github.io/battles-of-the-romans/",
-  "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers"
+  "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
+  "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+  "https://arxiv.org/abs/2512.19428",
+  "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
  ],
  "stories": [
   {
@@ -21002,11 +21005,13 @@
      "example": "Hardware debugging interfaces can sometimes expose root shells."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 336,
+   "sent_ts": "2026-10-26T09:10:34.605612+07:00"
   },
   {
    "id": 588,
@@ -21182,11 +21187,13 @@
      "example": "The majority of emails to affected account owners with step-by-step instructions have been sent."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 9,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 337,
+   "sent_ts": "2026-10-26T09:10:35.121823+07:00"
   },
   {
    "id": 593,
@@ -21290,11 +21297,13 @@
      "example": "The implementation shall provide a precise list of characters that are added or removed."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 338,
+   "sent_ts": "2026-10-26T09:10:35.637035+07:00"
   },
   {
    "id": 596,
@@ -21371,76 +21380,6 @@
  ],
  "next_id": 598,
  "vocab": [
-  {
-   "word": "commissioning",
-   "thai": "กระบวนการตรวจสอบและทดสอบระบบก่อนเปิดใช้งานจริง",
-   "level": "C1",
-   "example": "Michael Roberson was in charge of end-to-end infrastructure commissioning.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stint",
-   "thai": "ช่วงเวลาที่ทำงานบางอย่าง",
-   "level": "C1",
-   "example": "He left this April for a three-month stint at Fluidstack.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "broaden",
-   "thai": "ขยายให้กว้างขึ้น",
-   "level": "B2",
-   "example": "What excites me is the chance to broaden my horizons and solve complex problems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "influx",
-   "thai": "การไหลทะลักเข้ามาจำนวนมาก",
-   "level": "C1",
-   "example": "Texas as a whole has seen a massive influx of data center projects in recent years.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "audit",
-   "thai": "การตรวจสอบบัญชีหรือระบบ",
-   "level": "B2",
-   "example": "Governor Greg Abbott halted all new data center permits until it completes a large-scale audit.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "hyperscaler",
-   "thai": "ผู้ให้บริการคลาวด์หรือศูนย์ข้อมูลขนาดใหญ่",
-   "level": "C2",
-   "example": "The group was founded in 2019 and focuses on developing build-to-suit powered shells for hyperscalers.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "synchronization",
-   "thai": "การทำให้ประสานเวลากัน",
-   "level": "C1",
-   "example": "Different GPUs cannot work entirely independently: at various points they must exchange results and synchronize.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "interconnect",
    "thai": "ระบบเชื่อมต่อเครือข่ายระหว่างกัน",
@@ -26356,6 +26295,86 @@
    "thai": "การควอนไทเซชัน (การแปลงข้อมูลเป็นช่วงค่าที่จำกัด)",
    "level": "C2",
    "example": "4-bit weight quantization helps reduce the memory footprint of the model.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "firmware",
+   "thai": "ซอฟต์แวร์ฝังตัว",
+   "level": "B2",
+   "example": "I tried reversing the firmware but it was AES encrypted.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "debug",
+   "thai": "แก้ไขข้อบกพร่อง",
+   "level": "B2",
+   "example": "Hardware debugging interfaces can sometimes expose root shells.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "notification",
+   "thai": "การแจ้งเตือน",
+   "level": "B2",
+   "example": "Our notification will not ask you to log in through an external link.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "temporary",
+   "thai": "ชั่วคราว",
+   "level": "B2",
+   "example": "The file manager remains unavailable while we continue to work on this issue.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "instruction",
+   "thai": "คำแนะนำ",
+   "level": "B2",
+   "example": "The majority of emails to affected account owners with step-by-step instructions have been sent.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "specification",
+   "thai": "ข้อกำหนดรายละเอียด",
+   "level": "C1",
+   "example": "This document specifies mechanisms that can be used to detect possible security problems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conformance",
+   "thai": "การปฏิบัติตาม",
+   "level": "C1",
+   "example": "An implementation claiming conformance to this specification must do so in conformance to specific clauses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "precise",
+   "thai": "แม่นยำ, แน่นอน",
+   "level": "B2",
+   "example": "The implementation shall provide a precise list of characters that are added or removed.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
