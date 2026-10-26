@@ -1316,381 +1316,33 @@
   "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
   "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
   "https://blocks.manifold3d.ch/",
-  "https://titleart.dvy.io/"
+  "https://titleart.dvy.io/",
+  "https://www.datacenterdynamics.com/en/news/zutacore-details-new-two-phase-boiling-technology-for-liquid-cooled-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/fireworks-to-lease-data-center-capacity-in-dallas-texas/",
+  "https://www.datacenterdynamics.com/en/news/karman-completes-power-orchestration-pilot-at-nextgen-data-center-in-montreal-canada/",
+  "https://www.datacenterdynamics.com/en/news/theft-of-ai-equipment-hits-150m-in-2026-with-fraud-responsible-for-92-of-incidents-report/",
+  "https://www.datacenterdynamics.com/en/news/humanoid-robot-factory-ai-data-center-generative-bionics-italy/",
+  "https://www.datacenterdynamics.com/en/news/cooler-master-announces-25mw-in-row-cdu/",
+  "https://www.datacenterdynamics.com/en/opinions/navigating-data-centers-power-price-conundrum/",
+  "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/",
+  "https://www.datacenterdynamics.com/en/whitepapers/rethinking-coolant-selection-for-modern-and-future-cooling-systems/",
+  "https://www.datacenterdynamics.com/en/news/bull-awarded-40m-to-deliver-hlre-5-supercomputer-to-the-german-climate-computing-center/",
+  "https://www.datacenterdynamics.com/en/news/swi-launches-ai-cloud-unit-swi-compute/",
+  "https://www.datacenterdynamics.com/en/news/reserve-bank-of-india-launches-data-center-in-bhubaneswar-odisha/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-equipping-an-ai-future-with-adrian-guggisberg-abb/",
+  "https://www.datacenterdynamics.com/en/news/ukraines-atesh-attacks-comms-tower-in-russias-belgorod-region/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-ais-power-problem-with-varun-sivaram-emerald-ai/",
+  "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/sponsored-last-call-for-the-registers-data-sovereignty-dinner-in-washington/5304959",
+  "https://www.theregister.com/science/2026/10/26/swift-operations-end-2004-spacecraft-headed-for-fiery-reentry/5305346",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358",
+  "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
+  "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
+  "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
+  "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296"
  ],
  "stories": [
-  {
-   "id": 55,
-   "ts": "2026-10-12T18:26:39.765876+07:00",
-   "title": "Serverfarm tops out first data center at Arkansas campus",
-   "link": "https://www.datacenterdynamics.com/en/news/serverfarm-tops-out-first-data-center-at-arkansas-campus/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "It reports a routine construction milestone for a large regional data center campus.",
-   "summary": "Serverfarm has placed the final structural beam on the first building of its new 432MW campus in Arkansas. The multi-building project will expand regional colocation and cloud capacity over the coming years.",
-   "vocab": [
-    {
-     "word": "comprise",
-     "thai": "ประกอบด้วย",
-     "level": "B2",
-     "example": "At full build-out, the campus is set to comprise four buildings."
-    },
-    {
-     "word": "surfaced",
-     "thai": "ปรากฏขึ้นหรือเป็นที่เปิดเผย",
-     "level": "C1",
-     "example": "News that the company was looking to develop in the area surfaced last year."
-    },
-    {
-     "word": "capacity",
-     "thai": "ความจุหรือกำลังการผลิต",
-     "level": "B2",
-     "example": "The facility is set to offer 108MW of capacity across 300,000 square feet."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 56,
-   "ts": "2026-10-12T18:26:39.765949+07:00",
-   "title": "Telia outlines plans to cut 900 jobs as part of $100m cost-savings strategy",
-   "link": "https://www.datacenterdynamics.com/en/news/telia-outlines-plans-to-cut-900-jobs-as-part-of-100m-cost-savings-strategy/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "The announcement covers corporate telecom layoffs that have limited direct impact on day-to-day data center facilities.",
-   "summary": "Nordic telecommunications operator Telia plans to cut 900 jobs to reduce annual costs by roughly 100 million dollars. The workforce reductions are part of a strategy to shift operational focus directly to country-level units.",
-   "vocab": [
-    {
-     "word": "localize",
-     "thai": "ปรับให้เข้ากับท้องถิ่น",
-     "level": "C1",
-     "example": "The cuts are part of intentions to localize its operations further."
-    },
-    {
-     "word": "empower",
-     "thai": "ให้อำนาจหรือเสริมสร้างขีดความสามารถ",
-     "level": "B2",
-     "example": "We want to empower our countries more and get the utmost from our teams."
-    },
-    {
-     "word": "sharpen",
-     "thai": "พัฒนาให้เฉียบคมหรือเพิ่มขีดความสามารถ",
-     "level": "B2",
-     "example": "The goal is to sharpen the company's edge in a very competitive market."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 57,
-   "ts": "2026-10-12T18:26:39.766047+07:00",
-   "title": "Number of data center fires and power failures has doubled since 2024",
-   "link": "https://www.datacenterdynamics.com/en/news/number-of-data-center-fires-and-power-failures-has-doubled-since-2024/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "The report identifies critical reliability and fire safety risks concentrated in UPS battery rooms and backup generators.",
-   "summary": "A global safety registry reported that data center fires and power interruptions have doubled since 2024. Most identified failure events originated in battery rooms, uninterruptible power systems, or backup generator sets.",
-   "vocab": [
-    {
-     "word": "register",
-     "thai": "บัญชีบันทึกหรือทะเบียนข้อมูล",
-     "level": "B2",
-     "example": "The Energy Incident Register tracks data center incidents from public reporting."
-    },
-    {
-     "word": "incidence",
-     "thai": "อัตราการเกิดเหตุการณ์",
-     "level": "C1",
-     "example": "The country saw the highest incidence rate of power failures in the region."
-    },
-    {
-     "word": "classified",
-     "thai": "ถูกจัดประเภท",
-     "level": "B2",
-     "example": "Many thermal events were classified as major industrial accidents."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 61,
-   "sent_ts": "2026-10-13T14:38:57.161632+07:00"
-  },
-  {
-   "id": 58,
-   "ts": "2026-10-12T18:26:39.766073+07:00",
-   "title": "Google's global head of advanced energy departs company",
-   "link": "https://www.datacenterdynamics.com/en/news/googles-global-head-of-advanced-energy-departs-company/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Google's leadership departure highlights shifts in hyperscale power strategy and clean energy procurement.",
-   "summary": "Michael Terrell has stepped down as Google's global head of advanced energy after 19 years at the company. During his time there, he drove pioneering deals for next-generation geothermal and small modular nuclear reactors.",
-   "vocab": [
-    {
-     "word": "procurement",
-     "thai": "การจัดซื้อจัดหา",
-     "level": "C1",
-     "example": "The team helped pioneer clean energy procurement for large corporate facilities."
-    },
-    {
-     "word": "unprecedented",
-     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
-     "level": "B2",
-     "example": "Google deployed unprecedented amounts of renewable generation and battery storage."
-    },
-    {
-     "word": "catalyzing",
-     "thai": "การกระตุ้นหรือเร่งให้เกิดผล",
-     "level": "C1",
-     "example": "The program focused on catalyzing emerging technologies like geothermal and nuclear."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 67,
-   "sent_ts": "2026-10-13T14:39:00.210692+07:00"
-  },
-  {
-   "id": 59,
-   "ts": "2026-10-12T18:26:39.766097+07:00",
-   "title": "Third strike on Yandex data center in Russia",
-   "link": "https://www.datacenterdynamics.com/en/news/third-strike-on-yandex-data-center-in-russia/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Drone strikes against Yandex facilities demonstrate catastrophic physical infrastructure vulnerability and caused active multi-zone cloud outages.",
-   "summary": "A Ukrainian drone strike hit a third Yandex data center within a week, forcing the site to halt operations and causing broad cloud outages. The outage disabled more than 80 digital services and produced a severe drop in outbound network traffic.",
-   "vocab": [
-    {
-     "word": "integrity",
-     "thai": "ความสมบูรณ์ถูกต้องของข้อมูล",
-     "level": "B2",
-     "example": "Engineers verified the integrity of the data and confirmed no records were lost."
-    },
-    {
-     "word": "originating",
-     "thai": "ที่มีต้นกำเนิดมาจาก",
-     "level": "B2",
-     "example": "Network monitors detected an abrupt decline in automated traffic originating from the region."
-    },
-    {
-     "word": "resume",
-     "thai": "กลับมาเริ่มต้นดำเนินการใหม่",
-     "level": "B2",
-     "example": "The cloud provider has not shared an exact date when full operations will resume."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 53,
-   "sent_ts": "2026-10-12T18:26:40.266792+07:00",
-   "extra_links": [
-    "https://www.theregister.com/security/2026/10/12/ukrainian-drone-strikes-on-yandex-datacenters-knock-cloud-and-payments-offline/5302577",
-    "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/"
-   ]
-  },
-  {
-   "id": 60,
-   "ts": "2026-10-12T18:28:19.595613+07:00",
-   "title": "North America data center report: Midyear 2026",
-   "link": "https://www.datacenterdynamics.com/en/whitepapers/north-america-data-center-report-midyear-2026/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Market report highlighting severe regional grid delays and shifting capacity trends across North America.",
-   "summary": "JLL released its midyear 2026 report showing that rapid AI demand and grid connection queues are straining North American data center capacity. The findings help infrastructure leaders understand where development is moving as traditional power hubs face shortages.",
-   "vocab": [
-    {
-     "word": "scramble",
-     "thai": "แย่งชิงหรือเร่งรีบแข่งขัน",
-     "level": "B2",
-     "example": "Multi-year grid queues have pushed capacity to its limit, leaving developers scrambling for available power."
-    },
-    {
-     "word": "pivot",
-     "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
-     "level": "B2",
-     "example": "Industry leaders must rethink traditional growth playbooks and pivot toward emerging regional hubs."
-    },
-    {
-     "word": "occupier",
-     "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
-     "level": "B2",
-     "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 68,
-   "sent_ts": "2026-10-13T14:39:00.737426+07:00"
-  },
-  {
-   "id": 61,
-   "ts": "2026-10-12T18:28:19.595660+07:00",
-   "title": "Sponsored: Making every watt work",
-   "link": "https://www.datacenterdynamics.com/en/marketwatch/making-every-watt-work/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored article detailing dynamic power spikes in AI racks and methods to avoid stranded facility capacity.",
-   "summary": "The article explains how dynamic AI workloads trigger rapid millisecond power swings that traditional rack PDUs struggle to handle. Implementing intelligent monitoring at the rack level helps operators avoid thermal spikes and use provisioned power effectively.",
-   "vocab": [
-    {
-     "word": "fluctuation",
-     "thai": "ความผันผวนหรือการขึ้นลงอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "AI workloads introduce rapid fluctuations in power demand across the facility."
-    },
-    {
-     "word": "stranded",
-     "thai": "ติดค้างหรือไม่สามารถนำไปใช้ประโยชน์ได้",
-     "level": "B2",
-     "example": "Power becomes stranded because something further downstream cannot respond quickly enough."
-    },
-    {
-     "word": "downstream",
-     "thai": "ในระดับปลายน้ำหรือขั้นตอนถัดไป",
-     "level": "B2",
-     "example": "Power is wasted when equipment downstream cannot adapt to sudden computing demands."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 6
-  },
-  {
-   "id": 62,
-   "ts": "2026-10-12T18:28:19.595695+07:00",
-   "title": "Sponsored: Faster, cleaner data centers that withstand scrutiny",
-   "link": "https://www.datacenterdynamics.com/en/product-news/faster-cleaner-data-centers-that-withstand-scrutiny/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored piece exploring gas-grid biomethane as an alternative to decade-long UK electricity connection queues.",
-   "summary": "With UK grid connection wait times reaching over ten years, developers are evaluating piped biomethane to power new data centers sooner. This approach offers a faster bridge to clean on-site generation while addressing local environmental scrutiny.",
-   "vocab": [
-    {
-     "word": "viability",
-     "thai": "ความเป็นไปได้หรือความอยู่รอดของโครงการ",
-     "level": "C1",
-     "example": "Waiting for a grid connection risks losing customers and threatens the viability of the project."
-    },
-    {
-     "word": "compromise",
-     "thai": "การประนีประนอมหรือการยอมแลกบางสิ่ง",
-     "level": "B2",
-     "example": "Each of these routes forces a difficult compromise between deployment speed and sustainability."
-    },
-    {
-     "word": "illustrative",
-     "thai": "ที่เป็นตัวอย่างเพื่อความเข้าใจ",
-     "level": "C1",
-     "example": "Take an illustrative example where a data center developer partners with a renewable gas producer."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 6
-  },
-  {
-   "id": 63,
-   "ts": "2026-10-12T18:28:19.595732+07:00",
-   "title": "Imagine there's no Shiny Hunters – AI could make human hacking crews obsolete",
-   "link": "https://www.theregister.com/security/2026/10/12/imagine-theres-no-shiny-hunters-ai-could-make-human-hacking-crews-obsolete/5302430",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Podcast overview covering ShinyHunters extortion arrests and AI models finding zero-day exploits in the wild.",
-   "summary": "The FBI arrested a third individual linked to the ShinyHunters extortion crew following significant breaches of government systems. At the same time, security teams are assessing how autonomous AI models are beginning to uncover software vulnerabilities that humans missed.",
-   "vocab": [
-    {
-     "word": "co-conspirator",
-     "thai": "ผู้สมรู้ร่วมคิดในการกระทำผิด",
-     "level": "C1",
-     "example": "Agents in the field arrested another suspected co-conspirator of the extortion group."
-    },
-    {
-     "word": "extortion",
-     "thai": "การกรรโชกทรัพย์",
-     "level": "C1",
-     "example": "The FBI continues its crusade against the cyber extortion crew."
-    },
-    {
-     "word": "cryptic",
-     "thai": "คลุมเครือหรือมีเงื่อนงำ",
-     "level": "B2",
-     "example": "The FBI director put out a cryptic message regarding the recent arrest."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 64,
-   "ts": "2026-10-12T18:29:11.343288+07:00",
-   "title": "Postgres isn't slow, your storage is",
-   "link": "https://clickhouse.com/blog/posette-talk-recap-postgres-isnt-slow-your-storage-is",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly addresses database scaling, I/O latency, and NVMe vs cloud block storage architectures in production environments.",
-   "summary": "A technical benchmark analysis demonstrates that many common PostgreSQL performance problems at scale stem from storage throughput limits rather than engine flaws. It shows that moving high-throughput workloads to local NVMe storage resolves queuing delays and unpredictable tail latencies.",
-   "vocab": [
-    {
-     "word": "ingestion",
-     "thai": "การรับข้อมูลเข้าสู่ระบบเพื่อประมวลผลหรือจัดเก็บ",
-     "level": "C1",
-     "example": "Ingestion pipelines heavy on updates can stretch from seconds to minutes."
-    },
-    {
-     "word": "concurrency",
-     "thai": "การประมวลผลหรือการทำงานพร้อมกันหลายรายการ",
-     "level": "C1",
-     "example": "Issues appear when the database handles high concurrency and throughput."
-    },
-    {
-     "word": "compound",
-     "thai": "ทำให้ปัญหาทวีความรุนแรงยิ่งขึ้น",
-     "level": "C1",
-     "example": "A growing replication lag can compound the existing storage bottleneck."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8
-  },
   {
    "id": 65,
    "ts": "2026-10-13T03:34:24.692427+07:00",
@@ -20833,7 +20485,10 @@
    "scale": 6,
    "credibility": 8,
    "msg_id": 327,
-   "sent_ts": "2026-10-25T12:58:39.303844+07:00"
+   "sent_ts": "2026-10-25T12:58:39.303844+07:00",
+   "extra_links": [
+    "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181"
+   ]
   },
   {
    "id": 584,
@@ -20869,7 +20524,10 @@
    "impact": 5,
    "urgency": 2,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358"
+   ]
   },
   {
    "id": 585,
@@ -21470,9 +21128,693 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 7
+  },
+  {
+   "id": 601,
+   "ts": "2026-10-26T23:22:28.655945+07:00",
+   "title": "ZutaCore details new two-phase boiling technology for liquid-cooled data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/zutacore-details-new-two-phase-boiling-technology-for-liquid-cooled-data-centers/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "ZutaCore introduces a new two-phase liquid cooling technology directly relevant to high-density AI data center infrastructure.",
+   "summary": "ZutaCore has launched Two-Phase Matrix Flow Boiling technology inside its new cold plates to cool high-density AI chips. The system promises stable thermal management for multi-kilowatt GPUs within a thin single-wide PCIe form factor.",
+   "vocab": [
+    {
+     "word": "unveiled",
+     "thai": "เปิดตัว",
+     "level": "B2",
+     "example": "The company recently unveiled Two-Phase Matrix Flow Boiling, the technology inside its OmniTherm family."
+    },
+    {
+     "word": "hybrid",
+     "thai": "ไฮบริด (ผสมผสาน)",
+     "level": "B2",
+     "example": "OmniTherm hybrid copper-aluminum coldplates can be as thin as 11.6 mm."
+    },
+    {
+     "word": "deployments",
+     "thai": "การติดตั้งใช้งาน",
+     "level": "B2",
+     "example": "Deployments are underway this quarter for the Nvidia RTX PRO 6000 Blackwell Server Edition."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 602,
+   "ts": "2026-10-26T23:22:28.656026+07:00",
+   "title": "Fireworks to lease data center capacity in Dallas, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/fireworks-to-lease-data-center-capacity-in-dallas-texas/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "A major multi-million dollar data center capacity lease for AI inference highlights active infrastructure investments.",
+   "summary": "Forum Edge AI has signed a 36-month, $94.4 million agreement to supply Fireworks with Nvidia B300 GPU capacity in Texas. The infrastructure will be deployed in late December or early January to support generative AI workloads.",
+   "vocab": [
+    {
+     "word": "definitive",
+     "thai": "อย่างเป็นทางการ, ที่สมบูรณ์",
+     "level": "C1",
+     "example": "Edge Node Inc. has entered into a definitive agreement with Fireworks for a 36-month reservation."
+    },
+    {
+     "word": "trajectory",
+     "thai": "เส้นทางวิถี, แนวโน้มการเติบโต",
+     "level": "C1",
+     "example": "We have a strong partnership with Fireworks and are excited about our growth trajectory as we scale."
+    },
+    {
+     "word": "allocated",
+     "thai": "จัดสรร",
+     "level": "B2",
+     "example": "The Dallas data center currently offers 2MW, with another 2MW coming later and allocated to the joint venture."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 603,
+   "ts": "2026-10-26T23:22:28.656063+07:00",
+   "title": "Karman completes power orchestration pilot at NextGen data center in Montreal, Canada",
+   "link": "https://www.datacenterdynamics.com/en/news/karman-completes-power-orchestration-pilot-at-nextgen-data-center-in-montreal-canada/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Power orchestration software significantly increases data center compute capacity under constraints, directly impacting infrastructure efficiency.",
+   "summary": "Karman successfully deployed its AI-powered energy orchestration software at a Canadian data center, allowing 16 Nvidia B300 servers to run on a power budget meant for ten. The technology delivered higher compute throughput without requiring additional grid power.",
+   "vocab": [
+    {
+     "word": "provisioned",
+     "thai": "จัดเตรียมทรัพยากรไว้ล่วงหน้า",
+     "level": "C1",
+     "example": "The software enabled 16 Nvidia B300 servers to operate within the power budget provisioned for ten servers."
+    },
+    {
+     "word": "resiliency",
+     "thai": "ความยืดหยุ่นและทนทานต่อความเสียหาย",
+     "level": "C1",
+     "example": "It works by identifying and managing distributed energy resources, which it claims enhances resiliency."
+    },
+    {
+     "word": "stranded",
+     "thai": "ที่ถูกกักไว้/ตกค้างไม่ได้ใช้ประโยชน์",
+     "level": "C1",
+     "example": "Karman turns that stranded capacity into usable compute."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 604,
+   "ts": "2026-10-26T23:22:28.656109+07:00",
+   "title": "Theft of AI equipment hits $150m in 2026, with fraud responsible for 92% of incidents – report",
+   "link": "https://www.datacenterdynamics.com/en/news/theft-of-ai-equipment-hits-150m-in-2026-with-fraud-responsible-for-92-of-incidents-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "High-value AI hardware thefts and associated fraud impact supply chains and lead times for data center builds.",
+   "summary": "A report reveals that AI equipment thefts have surpassed $150 million in 2026, with fraud accounting for 92 percent of incidents. Insurers warn that indirect costs from timeline disruptions and soaring insurance premiums are creating further financial strain.",
+   "vocab": [
+    {
+     "word": "exceed",
+     "thai": "เกินกว่า",
+     "level": "B2",
+     "example": "Individual losses regularly exceed $30m, and such thefts occur weekly."
+    },
+    {
+     "word": "deception",
+     "thai": "การหลอกลวง",
+     "level": "C1",
+     "example": "Deception, such as the use of false carrier identities, featured in 92 percent of the thefts."
+    },
+    {
+     "word": "forecast",
+     "thai": "การคาดการณ์",
+     "level": "B2",
+     "example": "Insurance company Swiss Re has forecast that data center insurance premiums could approach $24 billion."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 605,
+   "ts": "2026-10-26T23:22:28.656136+07:00",
+   "title": "Generative Bionics plans AI data center and humanoid robotics factory in Italy",
+   "link": "https://www.datacenterdynamics.com/en/news/humanoid-robot-factory-ai-data-center-generative-bionics-italy/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Announces a specialized physical AI data center project in Europe utilizing AMD infrastructure for humanoid robotics.",
+   "summary": "Generative Bionics is planning a new physical AI data facility in Italy to train industrial humanoid robots using AMD infrastructure. The site will use digital twins and real-world operational data to validate robot performance before deployment.",
+   "vocab": [
+    {
+     "word": "dubbed",
+     "thai": "ถูกขนานนามว่า, เรียกชื่อว่า",
+     "level": "B2",
+     "example": "The facility, dubbed the Physical AI Data Factory, is designed to move humanoid robotics forward."
+    },
+    {
+     "word": "simulation",
+     "thai": "การจำลองสถานการณ์",
+     "level": "B2",
+     "example": "Models trained and tested in simulation will be deployed back to the robots."
+    },
+    {
+     "word": "commercialize",
+     "thai": "ทำให้เป็นเชิงพาณิชย์",
+     "level": "C1",
+     "example": "Generative Bionics was founded to commercialize physical AI research from the institute."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 606,
+   "ts": "2026-10-26T23:22:28.656159+07:00",
+   "title": "Cooler Master announces 2.5MW in-row CDU",
+   "link": "https://www.datacenterdynamics.com/en/news/cooler-master-announces-25mw-in-row-cdu/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Cooler Master launching a 2.5MW in-row CDU directly addresses high-density cooling requirements for modern AI data centers.",
+   "summary": "Cooler Master has introduced a new 2.5MW liquid-to-liquid in-row Coolant Distribution Unit to scale cooling capacity for high-density AI clusters. The modular system can be interconnected to support large-scale server deployments with mass production set for late 2026.",
+   "vocab": [
+    {
+     "word": "historically",
+     "thai": "ในอดีตที่ผ่านมา",
+     "level": "B2",
+     "example": "The company, which historically has served the PC gaming community, recently announced a new CDU."
+    },
+    {
+     "word": "interconnected",
+     "thai": "ที่เชื่อมโยงถึงกัน",
+     "level": "B2",
+     "example": "Management can support up to 32 interconnected CDUs, scaling to 80MW."
+    },
+    {
+     "word": "modular",
+     "thai": "ที่เป็นโมดูล (ประกอบกันได้)",
+     "level": "C1",
+     "example": "The firm is expanding with a focus on Nvidia’s MGX modular reference design architecture."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 607,
+   "ts": "2026-10-26T23:22:28.656184+07:00",
+   "title": "Navigating data centers' power-price conundrum",
+   "link": "https://www.datacenterdynamics.com/en/opinions/navigating-data-centers-power-price-conundrum/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Analyzes the power-price conundrum and procurement strategies for data centers facing soaring energy demand.",
+   "summary": "Rapidly growing power demand for data centers is creating significant price uncertainty and grid connection delays. Operators must carefully evaluate load shapes, collateral requirements, and procurement contracts to manage soaring energy costs.",
+   "vocab": [
+    {
+     "word": "conundrum",
+     "thai": "ปริศนาที่ยากจะแก้ไข, ปัญหาซับซ้อน",
+     "level": "C2",
+     "example": "Navigating data centers' power-price conundrum requires careful strategic planning."
+    },
+    {
+     "word": "astounding",
+     "thai": "น่าพิศวง, น่าตกใจมาก",
+     "level": "C1",
+     "example": "The numbers surrounding the data center power boom are nothing short of astounding."
+    },
+    {
+     "word": "misconception",
+     "thai": "ความเข้าใจผิด",
+     "level": "C1",
+     "example": "A common misconception is that a large load will automatically command a supplier’s best price."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 608,
+   "ts": "2026-10-26T23:22:28.656209+07:00",
+   "title": "SpaceX secures $40bn in debt financing, Elon Musk says",
+   "link": "https://www.datacenterdynamics.com/en/news/spacex-secures-40bn-in-debt-financing-elon-musk-says/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major debt financing for AI infrastructure and tightening credit conditions directly impact the broader cloud and data center market.",
+   "summary": "SpaceX has secured $40 billion in debt financing to purchase GPUs for AI workloads, while smaller neoclouds face tightening credit markets. Market concerns over heavy borrowing and uncertain AI returns have led to stock drops across several cloud providers.",
+   "vocab": [
+    {
+     "word": "securing",
+     "thai": "การจัดหามาได้, การค้ำประกัน",
+     "level": "B2",
+     "example": "Neoclouds could face complications in securing credit for AI infrastructure."
+    },
+    {
+     "word": "curbed",
+     "thai": "ถูกจำกัด, ควบคุม",
+     "level": "C1",
+     "example": "Fears that the AI buildout could be curbed by hesitant investors have been mounting."
+    },
+    {
+     "word": "materialize",
+     "thai": "เกิดขึ้นจริง, เป็นรูปร่าง",
+     "level": "C1",
+     "example": "Investors are protecting their portfolios in the event that returns on AI investment fail to materialize."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 609,
+   "ts": "2026-10-26T23:22:59.878724+07:00",
+   "title": "Rethinking coolant selection for modern and future cooling systems",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/rethinking-coolant-selection-for-modern-and-future-cooling-systems/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "This whitepaper provides practical guidance on coolant selection and additive chemistry for liquid-cooled data centers.",
+   "summary": "A new whitepaper from Arteco examines how coolant additives affect corrosion resistance and heat transfer in liquid-cooled systems. It helps data center operators select the right PG25 formulations to ensure long-term cooling reliability under heavy AI workloads.",
+   "vocab": [
+    {
+     "word": "formulation",
+     "thai": "สูตรส่วนผสม",
+     "level": "C1",
+     "example": "The company tested three commercially available PG25 formulations."
+    },
+    {
+     "word": "metallurgy",
+     "thai": "โลหะวิทยา",
+     "level": "C2",
+     "example": "The coolants were compared under conventional and mixed-metallurgy conditions."
+    },
+    {
+     "word": "inhibitor",
+     "thai": "สารยับยั้ง",
+     "level": "C1",
+     "example": "Corrosion inhibitors influence coolant performance and service life."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 610,
+   "ts": "2026-10-26T23:22:59.878770+07:00",
+   "title": "Bull awarded €40m to deliver HLRE-5 supercomputer to the German Climate Computing Center",
+   "link": "https://www.datacenterdynamics.com/en/news/bull-awarded-40m-to-deliver-hlre-5-supercomputer-to-the-german-climate-computing-center/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A major European supercomputing contract featuring Nvidia GB200 chips and direct liquid cooling is directly relevant to AI and data center infrastructure.",
+   "summary": "Bull has won a €40 million contract to deliver the HLRE-5 supercomputer to the German Climate Computing Center by 2028. The system will use Nvidia chips, direct liquid cooling, and waste heat recovery to support advanced climate and AI research.",
+   "vocab": [
+    {
+     "word": "comprise",
+     "thai": "ประกอบด้วย",
+     "level": "B2",
+     "example": "The supercomputer will comprise two partitions powered by Nvidia processors."
+    },
+    {
+     "word": "interconnected",
+     "thai": "เชื่อมต่อถึงกัน",
+     "level": "B2",
+     "example": "The nodes will be interconnected by high-speed InfiniBand networking."
+    },
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือ",
+     "level": "B2",
+     "example": "This project continues their long-standing collaboration in supercomputing."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 611,
+   "ts": "2026-10-26T23:22:59.878799+07:00",
+   "title": "SWI launches AI cloud unit SWI Compute",
+   "link": "https://www.datacenterdynamics.com/en/news/swi-launches-ai-cloud-unit-swi-compute/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A massive multi-gigawatt AI cloud launch backed by billion-dollar hardware orders directly impacts European cloud and data center capacity.",
+   "summary": "Real estate investor SWI has launched a new AI cloud division called SWI Compute, backed by billions in power capacity across Europe and the US. The first major site in Cambridge will deploy thousands of Nvidia GPUs by late 2027.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด, อุปสรรคที่ทำให้ช้าลง",
+     "level": "C1",
+     "example": "Energy availability represents the primary bottleneck facing European AI infrastructure."
+    },
+    {
+     "word": "footprint",
+     "thai": "พื้นที่ใช้สอย, ขนาด",
+     "level": "C1",
+     "example": "The company is rapidly expanding its footprint to fulfill market requirements."
+    },
+    {
+     "word": "fungible",
+     "thai": "ซึ่งแทนที่กันได้",
+     "level": "C2",
+     "example": "The new infrastructure is designed to be durable and fungible for various workloads."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 612,
+   "ts": "2026-10-26T23:22:59.878825+07:00",
+   "title": "Reserve Bank of India launches data center in Bhubaneswar, Odisha",
+   "link": "https://www.datacenterdynamics.com/en/news/reserve-bank-of-india-launches-data-center-in-bhubaneswar-odisha/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The inauguration of a Tier IV certified central bank data center with solar backup is notable infrastructure news.",
+   "summary": "The Reserve Bank of India has inaugurated a new Tier IV certified data center and cybersecurity training institute in Odisha. The facility will support national payment systems and features on-site solar power capacity.",
+   "vocab": [
+    {
+     "word": "inaugurate",
+     "thai": "ทำพิธีเปิดอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The Prime Minister inaugurated the newly established data center."
+    },
+    {
+     "word": "foundation",
+     "thai": "รากฐาน",
+     "level": "B2",
+     "example": "The project marks a significant milestone in strengthening the technological foundation of the financial system."
+    },
+    {
+     "word": "emphasize",
+     "thai": "เน้นย้ำ",
+     "level": "B2",
+     "example": "He emphasized that a secure banking system needs robust digital infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 613,
+   "ts": "2026-10-26T23:22:59.878857+07:00",
+   "title": "DCD Studio: Equipping an AI future with Adrian Guggisberg, ABB",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-equipping-an-ai-future-with-adrian-guggisberg-abb/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Podcast discussion covering gigawatt-scale AI power distribution and 800VDC architectures is relevant to infrastructure operators.",
+   "summary": "This interview features ABB discussing the challenges of powering gigawatt-scale AI data centers. Key topics include 800VDC power distribution, industry partnerships, and maintaining grid stability.",
+   "vocab": [
+    {
+     "word": "distribution",
+     "thai": "การกระจาย",
+     "level": "B2",
+     "example": "The discussion focuses on power distribution and grid stability for data centers."
+    },
+    {
+     "word": "stability",
+     "thai": "ความเสถียร",
+     "level": "B2",
+     "example": "Operators must ensure grid stability while scaling up AI workloads."
+    },
+    {
+     "word": "partnership",
+     "thai": "ความเป็นหุ้นส่วน",
+     "level": "B2",
+     "example": "Industry partnerships are crucial for developing next-generation power solutions."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 614,
+   "ts": "2026-10-26T23:22:59.878883+07:00",
+   "title": "Ukraine's Atesh attacks comms tower in Russia's Belgorod region",
+   "link": "https://www.datacenterdynamics.com/en/news/ukraines-atesh-attacks-comms-tower-in-russias-belgorod-region/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on military strikes against communications infrastructure and repeaters affecting drone operations.",
+   "summary": "Ukrainian partisan group Atesh confirmed an attack on a Russian communications tower used for drone coordination in the Belgorod region. The strike disrupted military communications and forced operators to reconfigure their equipment.",
+   "vocab": [
+    {
+     "word": "partisan",
+     "thai": "กองโจร, กองกำลังใต้ดิน",
+     "level": "C1",
+     "example": "Ukrainian partisan armed movement group Atesh confirmed the attack."
+    },
+    {
+     "word": "disrupt",
+     "thai": "ขัดขวาง, ทำให้หยุดชะงัก",
+     "level": "B2",
+     "example": "The attack on the tower disrupted communication stability."
+    },
+    {
+     "word": "coordination",
+     "thai": "การประสานงาน",
+     "level": "B2",
+     "example": "Such strikes disrupt unmanned aerial vehicle coordination."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 615,
+   "ts": "2026-10-26T23:22:59.878919+07:00",
+   "title": "DCD Studio: AI’s power problem with Varun Sivaram, Emerald AI",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-ais-power-problem-with-varun-sivaram-emerald-ai/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Podcast interview about turning data centers into flexible grid assets and energy management policy.",
+   "summary": "This interview explores how to address AI's power problem by turning data centers into flexible grid assets. The discussion covers scaling power solutions and regulatory support for energy management.",
+   "vocab": [
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎระเบียบข้อบังคับ",
+     "level": "C1",
+     "example": "The conversation covers regulatory support for the energy management alliance."
+    },
+    {
+     "word": "flexible",
+     "thai": "ยืดหยุ่น",
+     "level": "B2",
+     "example": "Data centers can act as flexible grid assets during peak demand."
+    },
+    {
+     "word": "asset",
+     "thai": "สินทรัพย์, ทรัพย์สินที่มีประโยชน์",
+     "level": "B2",
+     "example": "Turning facilities into grid assets helps balance regional power systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 616,
+   "ts": "2026-10-26T23:22:59.878947+07:00",
+   "title": "UK pentester 'killa' claims $2K Bitcoin prize in PHP2Shell capture-the-flag contest",
+   "link": "https://www.theregister.com/security/2026/10/26/uk-pentester-killa-claims-2k-bitcoin-prize-in-php2shell-capture-the-flag-contest/5305429",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Roundup containing critical infosec vulnerabilities, zero-day SharePoint attacks, and AI market analysis.",
+   "summary": "A tech news roundup highlights active zero-day attacks on unpatched on-premises SharePoint servers and major private equity investments in cybersecurity. It also discusses limited AI financial returns outside of big tech and new open-weights models.",
+   "vocab": [
+    {
+     "word": "arduous",
+     "thai": "ยากลำบาก, ต้องใช้ความพยายามมาก",
+     "level": "C1",
+     "example": "The road ahead for new memory technologies is arduous."
+    },
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "C1",
+     "example": "The cybersecurity business was acquired at a multi-billion dollar valuation."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อนของระบบ",
+     "level": "B2",
+     "example": "Administrators must patch software vulnerabilities to prevent zero-day attacks."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 617,
+   "ts": "2026-10-26T23:23:28.460039+07:00",
+   "title": "Trumpets blare and skies part as AI hypefest culminates in Anthropic IPO filing",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/26/trumpets-blare-and-skies-part-as-ai-hypefest-culminates-in-anthropic-ipo-filing/5305456",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Anthropic filed for an IPO, marking a major milestone in the commercial maturation of the generative AI sector.",
+   "summary": "AI lab Anthropic has officially filed for an initial public offering. This move signals a significant shift toward public market funding for major artificial intelligence developers.",
+   "vocab": [
+    {
+     "word": "culminate",
+     "thai": "จบลงที่, ไปถึงจุดสูงสุด",
+     "level": "C1",
+     "example": "The project culminated in a major IPO filing."
+    },
+    {
+     "word": "arduous",
+     "thai": "ยากลำบาก, ต้องใช้ความพยายามมาก",
+     "level": "C1",
+     "example": "The road ahead is arduous and filled with technical challenges."
+    },
+    {
+     "word": "spree",
+     "thai": "การทำกิจกรรมอย่างหนักหน่วงหรือต่อเนื่อง",
+     "level": "C1",
+     "example": "Whitehall launched a major £600M spending spree."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 618,
+   "ts": "2026-10-26T23:23:28.460227+07:00",
+   "title": "We shouldn't be surprised about the PHPocalypse, as the internet is built on sticks and glue",
+   "link": "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "A critical podcast discussion covering the massive PHP2Shell vulnerabilities affecting web infrastructure globally.",
+   "summary": "Experts discuss the severe PHP2Shell vulnerabilities discovered in core PHP, which impact a vast majority of web servers. The flaw allows remote code execution and highlights deep security risks in foundational web software.",
+   "vocab": [
+    {
+     "word": "revelation",
+     "thai": "การเปิดเผยความจริงที่น่าตกใจ",
+     "level": "C1",
+     "example": "The tech world is reacting to recent security revelations."
+    },
+    {
+     "word": "consensus",
+     "thai": "ความเห็นพ้องต้องกัน",
+     "level": "C1",
+     "example": "General consensus indicates that most websites are affected."
+    },
+    {
+     "word": "execution",
+     "thai": "การดำเนินการ, การสั่งงานโปรแกรม",
+     "level": "B2",
+     "example": "The vulnerability allows remote code execution on host systems."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 619,
+   "ts": "2026-10-26T23:23:28.460261+07:00",
+   "title": "UK Biobank back online soon, months after someone tried to sell 500k people's data on Alibaba",
+   "link": "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "A major data breach and system restoration event at a critical national biobank.",
+   "summary": "The UK Biobank is preparing to bring its systems back online following a serious security incident involving stolen data. The breach compromised information on hundreds of thousands of individuals.",
+   "vocab": [
+    {
+     "word": "restoration",
+     "thai": "การซ่อมแซม, การกู้คืนระบบ",
+     "level": "B2",
+     "example": "System restoration is underway for the database."
+    },
+    {
+     "word": "compromise",
+     "thai": "ทำให้เสื่อมเสีย, ทำให้ถูกเจาะระบบ",
+     "level": "B2",
+     "example": "The user records were compromised in the incident."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์ (มักเป็นเรื่องไม่ดี)",
+     "level": "B2",
+     "example": "An active security incident forced password resets."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 601,
+ "next_id": 620,
  "vocab": [
   {
    "word": "rigor",
@@ -26683,7 +27025,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
