@@ -1308,7 +1308,15 @@
   "https://oligarchwatch.substack.com/p/amazons-digital-pacifier-for-toddlers",
   "https://hypnotize.works/gdx-3ds/postmortem/index.html",
   "https://arxiv.org/abs/2512.19428",
-  "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/"
+  "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+  "https://www.datacenterdynamics.com/en/product-news/belimo-strengthens-global-data-center-strategy-with-new-experience-center-in-the-americas/",
+  "https://www.datacenterdynamics.com/en/marketwatch/from-monitoring-to-intelligence-network-transparency-for-the-modern-telco-reality/",
+  "https://www.theregister.com/systems/2026/10/26/lets-just-shove-a-bigger-fan-in-there-and-see-what-happens/5304654",
+  "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+  "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+  "https://blocks.manifold3d.ch/",
+  "https://titleart.dvy.io/"
  ],
  "stories": [
   {
@@ -21354,9 +21362,117 @@
    "credibility": 7,
    "msg_id": 345,
    "sent_ts": "2026-10-26T13:01:54.710940+07:00"
+  },
+  {
+   "id": 598,
+   "ts": "2026-10-26T16:32:22.891390+07:00",
+   "title": "Tesco replacing VMware with Proxmox in its stores and on the edge",
+   "link": "https://www.theregister.com/virtualization/2026/10/26/tesco-replacing-vmware-with-proxmox-in-its-stores-and-on-the-edge/5305281",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Tesco replacing VMware with open-source Proxmox on edge infrastructure is a significant enterprise hypervisor shift, though text contains digest filler.",
+   "summary": "Retail giant Tesco is reportedly migrating from VMware to Proxmox VE across its edge systems and retail stores. This marks a notable enterprise shift away from VMware virtualization amid licensing cost pressures.",
+   "vocab": [
+    {
+     "word": "replacement",
+     "thai": "การทดแทน",
+     "level": "B2",
+     "example": "The retailer evaluated Proxmox as a viable replacement for its legacy hypervisor."
+    },
+    {
+     "word": "prose",
+     "thai": "ร้อยแก้ว, สำนวนการเขียนปกติ",
+     "level": "B2",
+     "example": "Engineers should focus on clear prose when writing technical specifications."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "B2",
+     "example": "Authorities seized multiple websites used for hostile foreign propaganda."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 599,
+   "ts": "2026-10-26T16:32:22.891429+07:00",
+   "title": "Work to protect DNS from quantum decryption attacks is speeding up",
+   "link": "https://www.theregister.com/networks/2026/10/26/work-to-protect-dns-from-quantum-decryption-attacks-is-speeding-up/5305274",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Quantum-safe DNS cryptography is critical for core infrastructure, though implementation timeline is long-term.",
+   "summary": "Efforts are accelerating to safeguard core DNS protocols against future quantum computer decryption attacks. Upgrading DNS cryptography is critical for the long-term integrity and security of global internet routing.",
+   "vocab": [
+    {
+     "word": "decryption",
+     "thai": "การถอดรหัสลับ",
+     "level": "B2",
+     "example": "Quantum computers may eventually make current decryption methods obsolete."
+    },
+    {
+     "word": "competent",
+     "thai": "มีความสามารถเพียงพอ",
+     "level": "B2",
+     "example": "AI coding assistants can be useful tools when wielded by competent developers."
+    },
+    {
+     "word": "humane",
+     "thai": "มีมนุษยธรรม, เมตตากรุณา",
+     "level": "B2",
+     "example": "Developers called for more humane working practices across the software industry."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 7
+  },
+  {
+   "id": 600,
+   "ts": "2026-10-26T16:32:22.891463+07:00",
+   "title": "After threatening AI export bans, China allows DeepSeek to keep selling",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/26/after-threatening-ai-export-bans-china-allows-deepseek-to-keep-selling/5305267",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Regulatory news regarding DeepSeek AI exports, primarily geopolitical and software AI market interest.",
+   "summary": "China is permitting AI startup DeepSeek to continue international sales after initial concerns over potential AI export curbs. This maintains global access to low-cost frontier models for developers and enterprises.",
+   "vocab": [
+    {
+     "word": "export",
+     "thai": "การส่งออก",
+     "level": "B2",
+     "example": "Trade restrictions could limit the export of critical computing technology."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การสอดแนมหรือเฝ้าระวัง",
+     "level": "B2",
+     "example": "Security researchers analyzed new tools designed for smartphone surveillance."
+    },
+    {
+     "word": "imitation",
+     "thai": "การลอกเลียนแบบ",
+     "level": "B2",
+     "example": "Open-source projects often produce an imitation of proprietary AI agents."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
   }
  ],
- "next_id": 598,
+ "next_id": 601,
  "vocab": [
   {
    "word": "rigor",
@@ -26567,7 +26683,7 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 1
  },
  "level": "B2",
  "answers": []
