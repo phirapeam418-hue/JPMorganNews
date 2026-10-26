@@ -1340,555 +1340,33 @@
   "https://www.theregister.com/security/2026/10/26/we-shouldnt-be-surprised-about-the-phpocalypse-as-the-internet-is-built-on-sticks-and-glue/5305186",
   "https://www.theregister.com/security/2026/10/26/uk-biobank-back-online-soon-months-after-someone-tried-to-sell-500k-peoples-data-on-alibaba/5305363",
   "https://www.theregister.com/systems/2026/10/26/former-intel-ceo-pat-gelsinger-bets-on-nagare-labs-to-vault-the-memory-wall/5305181",
-  "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296"
+  "https://www.theregister.com/personal-tech/2026/10/26/ifixit-dismantles-apples-duo-youd-better-baby-that-screen/5305296",
+  "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
+  "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
+  "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
+  "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
+  "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
+  "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
+  "https://www.theregister.com/security/2026/10/26/microsoft-releases-emergency-net-security-fixes-for-google-brotli-bug/5305515",
+  "https://www.theregister.com/offbeat/2026/10/26/open-source-keyboard-lets-you-swap-parts-like-magnetic-lego-bricks/5305470",
+  "https://www.theregister.com/software/2026/10/26/reddits-r/opensource-bans-ai-slop-and-quite-a-few-humans-for-good-measure/5305392",
+  "https://www.theregister.com/security/2026/10/26/britain-bets-big-on-ai-to-defend-against-the-threats-ai-is-helping-create/5305319",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/euro-open-source-specialist-proposes-llm-gateway-to-ease-token-bills/5305170",
+  "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
+  "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+  "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+  "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+  "https://css-tricks.com/css-tricks-has-a-new-owner/",
+  "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+  "https://github.com/DilawarShafiq/nietzschian-debugger",
+  "https://openai.com/index/introducing-gpt-6-1-terra/",
+  "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+  "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+  "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
+  "https://github.com/FrigadeHQ/hob"
  ],
  "stories": [
-  {
-   "id": 65,
-   "ts": "2026-10-13T03:34:24.692427+07:00",
-   "title": "SWI raises €800 million for data center expansion",
-   "link": "https://www.datacenterdynamics.com/en/news/swi-raises-800-million-for-data-center-expansion/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "This reports capital fundraising and corporate expansion across Europe and the US, providing context on data center funding.",
-   "summary": "European investment firm SWI raised 800 million euros to expand its AI compute and data center capacity across Europe and the US. The capital will fund power infrastructure, development sites, and the conversion of acquired crypto facilities.",
-   "vocab": [
-    {
-     "word": "proceeds",
-     "thai": "รายได้ที่ได้จากการขายหรือระดมทุน",
-     "level": "C1",
-     "example": "The proceeds will support the development and scaling of SWI's data center capacity."
-    },
-    {
-     "word": "transaction",
-     "thai": "ธุรกรรม",
-     "level": "B2",
-     "example": "This transaction is about keeping up to speed with the compute and data center markets."
-    },
-    {
-     "word": "redevelop",
-     "thai": "พัฒนาพื้นที่ขึ้นมาใหม่",
-     "level": "B2",
-     "example": "The trust is looking to potentially redevelop around ten industrial sites for data center use."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 66,
-   "ts": "2026-10-13T03:34:24.692470+07:00",
-   "title": "FiveNines Group and Nexus Core Systems partner on 20MW data center in Morocco",
-   "link": "https://www.datacenterdynamics.com/en/news/fivenines-group-and-nexus-core-systems-partner-on-20mw-data-center-in-morocco/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "It highlights an emerging high-density regional facility adopting liquid cooling and new Nvidia hardware.",
-   "summary": "FiveNines Group and Nexus Core Systems have partnered to construct a 20MW high-density AI data center near Casablanca, Morocco. The facility will deploy liquid cooling to handle high-density rack loads of up to 400kW.",
-   "vocab": [
-    {
-     "word": "outskirts",
-     "thai": "ชานเมือง",
-     "level": "B2",
-     "example": "The companies are teaming up to establish a 20MW data center on the outskirts of Casablanca."
-    },
-    {
-     "word": "coordination",
-     "thai": "การประสานงาน",
-     "level": "B2",
-     "example": "FiveNines will handle design management, technical governance, and consultant coordination."
-    },
-    {
-     "word": "ambitious",
-     "thai": "ที่มุ่งมั่นและทะเยอทะยาน",
-     "level": "B2",
-     "example": "We look forward to continuing our work together on this ambitious project."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 67,
-   "ts": "2026-10-13T03:34:24.692528+07:00",
-   "title": "Ringleader of multi-state cell tower theft gang sentenced to six and a half years in prison",
-   "link": "https://www.datacenterdynamics.com/en/news/ringleader-of-multi-state-cell-tower-theft-gang-sentenced-to-six-and-a-half-years-in-prison/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "It highlights physical security threats and legal outcomes regarding critical telecommunications and power hardware thefts.",
-   "summary": "A federal judge sentenced the ringleader of a multi-state theft operation to over six years in prison for stealing over 700 rectifiers from cellular towers. The criminal scheme threatened power continuity for mobile networks and emergency services before it was uncovered.",
-   "vocab": [
-    {
-     "word": "conspiracy",
-     "thai": "การสมรู้ร่วมคิด",
-     "level": "B2",
-     "example": "The man led a multistate conspiracy which targeted cellular infrastructure."
-    },
-    {
-     "word": "rectifier",
-     "thai": "อุปกรณ์แปลงกระแสไฟฟ้าสลับเป็นกระแสตรง",
-     "level": "C1",
-     "example": "They entered communications towers to steal rectifiers necessary to maintain power."
-    },
-    {
-     "word": "fictitious",
-     "thai": "ที่กุขึ้นมาหรือสมมติขึ้น",
-     "level": "C1",
-     "example": "He instructed others to create invoices using fictitious business names."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 68,
-   "ts": "2026-10-13T03:34:24.692555+07:00",
-   "title": "Russian military takes out more Ukrainian data centers",
-   "link": "https://www.datacenterdynamics.com/en/news/russian-military-takes-out-more-ukrainian-data-centers/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Physical wartime strikes causing damage to cooling and power systems in data centers present severe operational risk lessons.",
-   "summary": "Russian military strikes hit several Ukrainian hosting and bank data centers, including a facility in Odesa operated by ISP Tenet. The strikes caused severe physical damage to cooling and power generation equipment, disrupting local connectivity.",
-   "vocab": [
-    {
-     "word": "hostile",
-     "thai": "ที่เป็นศัตรูหรือไม่เป็นมิตร",
-     "level": "B2",
-     "example": "As a result of a hostile attack, a blow was struck to the technological complex."
-    },
-    {
-     "word": "telephony",
-     "thai": "ระบบโทรศัพท์และการสื่อสารด้วยเสียง",
-     "level": "C1",
-     "example": "The company offers Internet, TV, and telephony services in the region."
-    },
-    {
-     "word": "interruption",
-     "thai": "การหยุดชะงักชั่วคราว",
-     "level": "B2",
-     "example": "Repair work may cause temporary local interruptions in network access."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 69,
-   "ts": "2026-10-13T03:34:24.692582+07:00",
-   "title": "Memphis council delays decision on year-long data center moratorium despite protests",
-   "link": "https://www.datacenterdynamics.com/en/news/memphis-council-delays-decision-on-year-long-data-center-moratorium-despite-protests/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Local regulatory freezes and community pushback can halt or redirect large data center projects.",
-   "summary": "The Memphis City Council postponed a vote on a proposed 12-month data center moratorium after meetings were disrupted by public protests. Opponents worry about the environmental impact of AI facilities, while city officials fear losing investments to neighboring areas.",
-   "vocab": [
-    {
-     "word": "moratorium",
-     "thai": "การระงับการดำเนินการชั่วคราว",
-     "level": "C2",
-     "example": "Lawmakers in Memphis postponed a vote on a temporary data center moratorium."
-    },
-    {
-     "word": "postpone",
-     "thai": "เลื่อนเวลาออกไป",
-     "level": "B2",
-     "example": "Members voted to postpone a decision on whether to introduce the pause."
-    },
-    {
-     "word": "backlash",
-     "thai": "กระแสต่อต้านอย่างรุนแรง",
-     "level": "C1",
-     "example": "Similar measures are being introduced as backlash against data centers grows."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 70,
-   "ts": "2026-10-13T03:34:24.692605+07:00",
-   "title": "Nvidia opens up Vera Rubin rack and tray designs to OCP",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-opens-up-vera-rubin-rack-and-tray-designs-to-ocp/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Standardizing rack designs, busbars, and liquid cooling trays through OCP directly impacts data center engineering and equipment vendors.",
-   "summary": "Nvidia is sharing its Vera Rubin rack and liquid-cooled tray designs with the Open Compute Project to establish industry standards. The open specifications cover 5,000-amp busbars and liquid cooling connections capable of supporting rack loads up to 250 kilowatts.",
-   "vocab": [
-    {
-     "word": "busbar",
-     "thai": "ตัวนำจ่ายกระแสไฟฟ้าแรงสูง (บัสบาร์)",
-     "level": "C1",
-     "example": "The designs include a liquid-cooled 5,000 amp busbar built for higher-power systems."
-    },
-    {
-     "word": "proprietary",
-     "thai": "ที่เป็นกรรมสิทธิ์เฉพาะ",
-     "level": "C1",
-     "example": "Equipment makers can build a supply chain instead of waiting for a singular proprietary spec."
-    },
-    {
-     "word": "spillage",
-     "thai": "การรั่วไหลหรือหกเลอะเทอะ",
-     "level": "C1",
-     "example": "The trays allow cold plates to be swapped out without any unwanted spillage."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 62,
-   "sent_ts": "2026-10-13T14:38:57.660304+07:00"
-  },
-  {
-   "id": 71,
-   "ts": "2026-10-13T03:36:54.804626+07:00",
-   "title": "Nvidia gears up to smash CPU hegemony as Vera starts shipping",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-gears-up-to-smash-cpu-hegemony-as-vera-starts-shipping/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Nvidia has officially started shipping dedicated Vera CPU racks for agentic workloads, presenting a major hardware alternative to AMD and Intel.",
-   "summary": "Nvidia has started shipping its new Vera CPUs and dedicated rack systems built specifically to run agentic AI workloads. This matters to data center teams because it introduces a high-density, specialized server architecture alongside traditional processors.",
-   "vocab": [
-    {
-     "word": "hegemony",
-     "thai": "การมีอำนาจครอบงำหรือเป็นผู้นำแต่เพียงผู้เดียว",
-     "level": "C2",
-     "example": "Nvidia has been gearing up to take on the CPU hegemony of AMD and Intel."
-    },
-    {
-     "word": "discrete",
-     "thai": "แยกออกจากกันอย่างชัดเจน, เป็นเอกเทศ",
-     "level": "C1",
-     "example": "The discrete system placed next to an NVL72 is separated from the core platform."
-    },
-    {
-     "word": "departure",
-     "thai": "การเบี่ยงเบนหรือเปลี่ยนแนวทางไปจากเดิม",
-     "level": "B2",
-     "example": "It also marks somewhat of a departure from Nvidia’s traditional reliance on Arm designs."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 63,
-   "sent_ts": "2026-10-13T14:38:58.173260+07:00"
-  },
-  {
-   "id": 72,
-   "ts": "2026-10-13T03:36:54.804665+07:00",
-   "title": "The overlooked impact of India's new data center policy",
-   "link": "https://www.datacenterdynamics.com/en/opinions/the-overlooked-impact-of-indias-new-data-center-policy/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "The policy analysis outlines major long-term tax incentives that could draw large-scale cloud data center investments to India.",
-   "summary": "The Indian government has introduced a tax exemption policy lasting until 2047 for qualifying foreign cloud providers serving global customers. This matters because it will accelerate data center construction and capacity expansion across the APAC region.",
-   "vocab": [
-    {
-     "word": "underpenetrated",
-     "thai": "ยังเข้าไม่ถึงตลาดอย่างเต็มที่, มีสัดส่วนการใช้งานต่ำกว่าศักยภาพ",
-     "level": "C1",
-     "example": "India’s data center market remains structurally underpenetrated."
-    },
-    {
-     "word": "exemption",
-     "thai": "การยกเว้น (ภาษีหรือข้อผูกพัน)",
-     "level": "B2",
-     "example": "The policy provides a complete tax exemption to foreign cloud service providers."
-    },
-    {
-     "word": "subjective",
-     "thai": "ที่ขึ้นอยู่กับมุมมองส่วนบุคคลหรือดุลยพินิจ",
-     "level": "B2",
-     "example": "The local operator can maintain a margin, bypassing any subjective valuation procedures."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 73,
-   "ts": "2026-10-13T03:36:54.804760+07:00",
-   "title": "Nebius signs LOI with Volt for data center capacity in Rotterdam, the Netherlands",
-   "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-loi-with-volt-for-data-center-capacity-in-rotterdam-the-netherlands/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A preliminary agreement for massive new European AI capacity directly addresses grid and location bottlenecks.",
-   "summary": "Nebius has signed a letter of intent to take capacity at Volt's planned 600-megawatt AI data center site in Rotterdam. This matters because locating facilities near offshore wind connection points helps operators bypass congested power grids.",
-   "vocab": [
-    {
-     "word": "offtaker",
-     "thai": "ผู้ตกลงรับซื้อผลผลิตหรือบริการล่วงหน้า",
-     "level": "C1",
-     "example": "Nebius will be the first offtaker at Volt's planned AI Gigafactory."
-    },
-    {
-     "word": "justified",
-     "thai": "มีเหตุผลสมควรหรือมีน้ำหนัก",
-     "level": "B2",
-     "example": "The concerns about electricity are justified."
-    },
-    {
-     "word": "transmission",
-     "thai": "การส่งจ่ายกำลังไฟฟ้าหรือสัญญาณ",
-     "level": "B2",
-     "example": "That limits transmission inland over the overcrowded electricity grid."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 74,
-   "ts": "2026-10-13T03:36:54.804788+07:00",
-   "title": "Oxide Computer Company raises $445m in Series D funding round",
-   "link": "https://www.datacenterdynamics.com/en/news/oxide-computer-company-raises-445m-in-series-d-funding-round/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Oxide is a major on-prem cloud hardware provider scaling up production to satisfy enterprise rack-scale demand.",
-   "summary": "Oxide Computer Company raised $445 million to scale manufacturing of its integrated on-premises cloud server racks. This matters to infrastructure engineers looking for turn-key, cloud-architected hardware that can run inside private data centers.",
-   "vocab": [
-    {
-     "word": "capital",
-     "thai": "เงินทุน",
-     "level": "B2",
-     "example": "The Series D round will provide additional capital to secure components."
-    },
-    {
-     "word": "integrated",
-     "thai": "ที่รวมเข้าด้วยกันเป็นระบบเดียว",
-     "level": "B2",
-     "example": "Oxide is known for a rack-scale integrated system with purpose-built hardware."
-    },
-    {
-     "word": "stack",
-     "thai": "ชุดของซอฟต์แวร์หรือฮาร์ดแวร์ที่ทำงานร่วมกัน",
-     "level": "B2",
-     "example": "The company has worked with AMD across its hardware and software stack."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 75,
-   "ts": "2026-10-13T03:36:54.804815+07:00",
-   "title": "Princeton Digital Group sells five data centers in Indonesia to SM+",
-   "link": "https://www.datacenterdynamics.com/en/news/princeton-digital-group-sells-five-data-centers-in-indonesia-to-sm/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "A regional consolidation deal shifts enterprise facilities to a local group while PDG shifts focus to hyperscale builds.",
-   "summary": "Princeton Digital Group has agreed to sell five enterprise data centers in Indonesia to local infrastructure firm SM+. This matters because it illustrates how global operators are offloading smaller enterprise sites to focus capital entirely on massive hyperscale campuses.",
-   "vocab": [
-    {
-     "word": "definitive",
-     "thai": "ที่มีผลผูกพันชัดเจนและสิ้นสุด",
-     "level": "C1",
-     "example": "The two firms have signed a definitive agreement to sell the business."
-    },
-    {
-     "word": "conglomerate",
-     "thai": "กลุ่มบริษัทธุรกิจขนาดใหญ่ที่มีหลายแขนง",
-     "level": "C1",
-     "example": "SM+ is backed by local conglomerate Sinar Mas."
-    },
-    {
-     "word": "footprint",
-     "thai": "ขอบเขตพื้นที่หรือการครอบคลุมของธุรกิจ",
-     "level": "B2",
-     "example": "By adding five facilities, we are expanding our nationwide footprint."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 76,
-   "ts": "2026-10-13T03:37:28.515538+07:00",
-   "title": "No shame in the Domain Name game: DNS is doomed, literally",
-   "link": "https://www.theregister.com/columnists/2026/10/12/no-shame-in-the-domain-name-game-dns-is-doomed-literally/5302670",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Core networking and DNS vulnerabilities affect all web-facing and enterprise network infrastructure.",
-   "summary": "The article examines fundamental architectural weaknesses and modern security risks threatening the DNS protocol. Network engineers must understand these limits to ensure resilient domain resolution and avoid outages.",
-   "vocab": [
-    {
-     "word": "doomed",
-     "thai": "มีชะตากรรมที่ต้องล้มเหลวหรือถึงจุดจบ",
-     "level": "B2",
-     "example": "Some engineers argue that DNS is doomed due to fundamental structural flaws."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความร่วมมือหรือเกณฑ์กำลัง",
-     "level": "C1",
-     "example": "Organizers enlist hackers to harden critical infrastructure."
-    },
-    {
-     "word": "erode",
-     "thai": "กร่อนหรือบั่นทอน",
-     "level": "C1",
-     "example": "Automated coding workflows erode the revenue of traditional developer platforms."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 7
-  },
-  {
-   "id": 77,
-   "ts": "2026-10-13T03:37:28.515578+07:00",
-   "title": "AMD unveils Helion racks for AI agents at OCP summit",
-   "link": "https://www.theregister.com/systems/2026/10/12/amd-unveils-helion-racks-for-ai-agents-at-ocp-summit/5302652",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "New OCP rack hardware specifications for AI clusters directly impact data center facility and server planning.",
-   "summary": "AMD presented its new Helion rack designs for running AI agents at the Open Compute Project summit. This matters because standardizing open rack architectures helps operators plan high-density power and cooling for AI systems.",
-   "vocab": [
-    {
-     "word": "unveil",
-     "thai": "เปิดตัวหรือเผยแพร่ให้เห็นเป็นครั้งแรก",
-     "level": "B2",
-     "example": "AMD unveils Helion racks for AI agents at the annual OCP summit."
-    },
-    {
-     "word": "harden",
-     "thai": "เสริมความแข็งแกร่งหรือเพิ่มความปลอดภัย",
-     "level": "C1",
-     "example": "Engineers work to harden critical servers against targeted exploitation."
-    },
-    {
-     "word": "interposer",
-     "thai": "แผ่นเชื่อมประสานระหว่างชิป",
-     "level": "C2",
-     "example": "Advanced silicon interposer technology is crucial for modern AI accelerator packaging."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 64,
-   "sent_ts": "2026-10-13T14:38:58.665388+07:00"
-  },
-  {
-   "id": 78,
-   "ts": "2026-10-13T03:37:28.515616+07:00",
-   "title": "Which AI infrastructure option actually holds a boundary?",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/12/sponsored-which-ai-infrastructure-option-actually-holds-a-boundary/5300433",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "AI infrastructure security boundaries and isolation are critical concerns for operators deploying multi-tenant AI clusters.",
-   "summary": "The article analyzes whether modern AI infrastructure platforms can maintain strict security and isolation boundaries. It matters because operators must protect sensitive models and data while sharing massive GPU clusters.",
-   "vocab": [
-    {
-     "word": "boundary",
-     "thai": "ขอบเขตหรือแนวแบ่งกั้น",
-     "level": "B2",
-     "example": "Engineers debate which AI infrastructure option actually holds a secure boundary."
-    },
-    {
-     "word": "persistent",
-     "thai": "คงอยู่ต่อเนื่องหรือทำงานตลอดเวลา",
-     "level": "B2",
-     "example": "Persistent software agents require continuous compute and state storage in the cloud."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราวหรือระหว่างช่วงเวลา",
-     "level": "C1",
-     "example": "Ubuntu interim releases showcase experimental tools before long-term support versions."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 79,
-   "ts": "2026-10-13T03:37:28.515646+07:00",
-   "title": "Windows 11's easiest account bypass gets the Microsoft boot",
-   "link": "https://www.theregister.com/os-platforms/2026/10/12/windows-11s-easiest-account-bypass-gets-the-microsoft-boot/5302643",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Client desktop setup and bypass methods are mostly client IT concerns, not data center infrastructure.",
-   "summary": "Microsoft has blocked a well-known workaround that allowed users to set up Windows 11 without a Microsoft account. This matters to IT administrators managing desktop image deployments rather than server infrastructure teams.",
-   "vocab": [
-    {
-     "word": "bypass",
-     "thai": "การหลบหลีกหรือช่องทางลัด",
-     "level": "B2",
-     "example": "Windows 11's easiest account bypass method was finally closed by Microsoft."
-    },
-    {
-     "word": "pose",
-     "thai": "แอบอ้างหรือแสดงตนเป็นผู้อื่น",
-     "level": "B2",
-     "example": "Threat actors pose as technical support personnel to deceive users."
-    },
-    {
-     "word": "reskin",
-     "thai": "การปรับเปลี่ยนหน้าตาส่วนติดต่อผู้ใช้ภายนอก",
-     "level": "C1",
-     "example": "The browser arrived with a significant reskin to modernize its visual interface."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
   {
    "id": 80,
    "ts": "2026-10-13T09:49:54.574226+07:00",
@@ -21739,7 +21217,11 @@
    "impact": 4,
    "urgency": 3,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "extra_links": [
+    "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+   ]
   },
   {
    "id": 618,
@@ -21812,9 +21294,297 @@
    "urgency": 6,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 620,
+   "ts": "2026-10-27T05:04:33.670385+07:00",
+   "title": "Ecoblox partners with Rimac on modular data center solution",
+   "link": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly covers modular data center power innovations by integrating EV battery packs into AI facilities.",
+   "summary": "Ecoblox and EV maker Rimac have partnered to build high-density modular data centers using automotive-grade battery modules. The system aims to provide extended backup power and bypass electrical grid constraints for AI computing clusters.",
+   "vocab": [
+    {
+     "word": "continuous",
+     "thai": "อย่างต่อเนื่อง",
+     "level": "B2",
+     "example": "The modules will enable longer continuous backup power for critical computing hardware."
+    },
+    {
+     "word": "resilient",
+     "thai": "ที่ฟื้นตัวได้เร็ว/ทนทาน",
+     "level": "C1",
+     "example": "They enable cloud providers to deploy power-resilient AI clusters faster."
+    },
+    {
+     "word": "industrialize",
+     "thai": "ทำให้เป็นมาตรฐานเชิงอุตสาหกรรม",
+     "level": "C2",
+     "example": "Our power electronics technologies have been developed and industrialized to meet demanding requirements."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 621,
+   "ts": "2026-10-27T05:04:33.670434+07:00",
+   "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
+   "link": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on a new sovereign AI data center facility tailored for chip design and digital twins in Europe.",
+   "summary": "Cadence launched a sovereign AI data center in Munich equipped with Nvidia hardware for chip simulation and design. The facility provides European engineering teams with secure cloud infrastructure that complies with regional data privacy rules.",
+   "vocab": [
+    {
+     "word": "complement",
+     "thai": "เติมเต็ม/เสริม",
+     "level": "B2",
+     "example": "The data center will complement existing European cloud resources."
+    },
+    {
+     "word": "validate",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "The platform allows customers to design, validate, and optimize next-generation AI infrastructure."
+    },
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "Chip designs and AI infrastructure are strategic assets for European industry."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 622,
+   "ts": "2026-10-27T05:04:33.670463+07:00",
+   "title": "Verizon signs $2bn AWS AI infrastructure deal",
+   "link": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Details a multi-billion dollar networking deal between a telecom giant and AWS for AI infrastructure connectivity.",
+   "summary": "Verizon secured a $2 billion deal with AWS to provide optical fiber connectivity and edge computing for AI workloads. The carrier is rapidly monetizing its dark and lit fiber networks to support hyperscale cloud data centers.",
+   "vocab": [
+    {
+     "word": "momentum",
+     "thai": "แรงขับเคลื่อน/ความต่อเนื่อง",
+     "level": "B2",
+     "example": "We are seeing momentum with numerous partners to use our network hubs."
+    },
+    {
+     "word": "backbone",
+     "thai": "เครือข่ายแกนหลัก/กระดูกสันหลัง",
+     "level": "B2",
+     "example": "That deal supports Verizon's efforts to support the long-haul backbone that AI hyperscalers need."
+    },
+    {
+     "word": "meaningfully",
+     "thai": "อย่างมีนัยสำคัญ",
+     "level": "B2",
+     "example": "We expect both our fiber and edge computing to add meaningfully to our future growth."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 623,
+   "ts": "2026-10-27T05:04:33.670488+07:00",
+   "title": "Sponsored: The next evolution of data center backup power",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored opinion/analysis piece examining distributed backup power architecture for data centers.",
+   "summary": "This sponsored article explores how surging AI power demands require data centers to shift toward modular, distributed backup generators. By adopting smaller parallel generator sets, operators can scale capacity gradually without costly overprovisioning.",
+   "vocab": [
+    {
+     "word": "standby",
+     "thai": "การเตรียมพร้อมสำรอง",
+     "level": "B2",
+     "example": "These systems are designed to remain on standby, ready to take over when primary power fails."
+    },
+    {
+     "word": "adaptability",
+     "thai": "ความสามารถในการปรับตัว",
+     "level": "C1",
+     "example": "Equal attention must be given to the adaptability of the backup power infrastructure."
+    },
+    {
+     "word": "parallel",
+     "thai": "ขนานกัน",
+     "level": "B2",
+     "example": "With these units operating in parallel, operators can add backup power capacity in stages."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 6
+  },
+  {
+   "id": 624,
+   "ts": "2026-10-27T05:04:33.670592+07:00",
+   "title": "AWS capacity \"largely\" sold out in 2027, Amazon CEO claims",
+   "link": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts cloud and infrastructure teams planning capacity; AWS is essentially booked through 2027.",
+   "summary": "Amazon CEO Andy Jassy revealed that AWS data center capacity is largely sold out through 2027 despite spending $220 billion this year. He warned that persistent supply chain constraints, especially memory, will limit cloud expansion for several years.",
+   "vocab": [
+    {
+     "word": "tradeoff",
+     "thai": "การได้ประโยชน์อย่างหนึ่งโดยต้องเสียอีกอย่างหนึ่ง",
+     "level": "B2",
+     "example": "The company had to make real tradeoffs over which vertical to focus on."
+    },
+    {
+     "word": "constraint",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "I wish I could tell you that the supply constraints would be just a 2027 issue."
+    },
+    {
+     "word": "satisfy",
+     "thai": "ตอบสนอง (ความต้องการ)",
+     "level": "B2",
+     "example": "We still probably wouldn't satisfy all the demand right now."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 625,
+   "ts": "2026-10-27T05:07:28.873511+07:00",
+   "title": "PHP2Shell is a warning shot for vulnerability disclosure",
+   "link": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Addresses vulnerability disclosure ethics and security practices around PHP exploits, moderately relevant for web infrastructure hosts.",
+   "summary": "A high-profile capture-the-flag contest highlighted systemic vulnerabilities in widely deployed PHP components. Industry experts emphasize that software ecosystems must improve vulnerability disclosure and patching habits.",
+   "vocab": [
+    {
+     "word": "enlist",
+     "thai": "เกณฑ์, ขอความช่วยเหลือ",
+     "level": "C1",
+     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
+    },
+    {
+     "word": "interim",
+     "thai": "ชั่วคราว, ระยะเปลี่ยนผ่าน",
+     "level": "C1",
+     "example": "Ubuntu interim releases are getting interesting again."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 626,
+   "ts": "2026-10-27T05:07:28.873556+07:00",
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
+   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts cloud and AI infrastructure operators running multi-tenant LLM serving engines and GPU clusters.",
+   "summary": "Cloudflare disclosed a multi-tenant cross-request memory exposure vulnerability in its Workers AI inference engine using SGLang. Misconfiguration combined with a bug in over-length prompt handling caused key-value cache data from one customer to leak to another.",
+   "vocab": [
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขเยียวยาข้อผิดพลาดหรือปัญหา",
+     "level": "C1",
+     "example": "We have remediated the issue, and we restored the model on September 9."
+    },
+    {
+     "word": "disaggregated",
+     "thai": "ที่แยกส่วนออกจากกัน",
+     "level": "C2",
+     "example": "The second was a bug in how SGLang handled requests in disaggregated prefill/decode mode."
+    },
+    {
+     "word": "placeholder",
+     "thai": "ตัวแทนหรือสัญลักษณ์ชั่วคราวที่ใช้กันที่ไว้",
+     "level": "B2",
+     "example": "A prompt that did not fit the pool was internally replaced with a one-token placeholder."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 627,
+   "ts": "2026-10-27T05:12:16.332130+07:00",
+   "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
+   "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Major corporate headcount reductions at a hyperscaler can influence cloud operations and partnership support.",
+   "summary": "Microsoft is offering voluntary severance packages to roughly 60,000 employees, representing about 25% of its global workforce up to the vice-president level. The initiative aims to lower operational overhead as the company continues directing capital expenditures toward AI infrastructure.",
+   "vocab": [
+    {
+     "word": "severance",
+     "thai": "เงินชดเชยการเลิกจ้าง",
+     "level": "C1",
+     "example": "The offer will be comparable to the company’s standard severance package."
+    },
+    {
+     "word": "tenure",
+     "thai": "ระยะเวลาการดำรงตำแหน่งหรือการทำงาน",
+     "level": "C1",
+     "example": "It typically includes base pay for a certain amount of time based on tenure."
+    },
+    {
+     "word": "incentivize",
+     "thai": "จูงใจด้วยผลตอบแทน",
+     "level": "C1",
+     "example": "The voluntary retirement program offered more generous terms to incentivize uptake."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 620,
+ "next_id": 628,
  "vocab": [
   {
    "word": "rigor",
