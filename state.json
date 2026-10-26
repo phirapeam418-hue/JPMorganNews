@@ -23371,7 +23371,7 @@
    "thai": "ตามมา / ภายหลัง",
    "level": "B2",
    "example": "Connections can be reused for subsequent requests.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24771,7 +24771,7 @@
    "thai": "การเฝ้าระวังหรือการสอดแนม",
    "level": "B2",
    "example": "China upgrades smartphone surveillance tools.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24831,7 +24831,7 @@
    "thai": "ที่ถูกทิ้งไว้โดยไม่เกิดประโยชน์หรือติดค้าง",
    "level": "B2",
    "example": "Hence, idle accelerators represent stranded capital and wasted energy.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24901,7 +24901,7 @@
    "thai": "วิกฤต",
    "level": "B2",
    "example": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -25811,7 +25811,7 @@
    "thai": "บันทึกร่องรอยการตรวจสอบระบบ",
    "level": "B2",
    "example": "The internal audit trail mapped confidential tenant identifiers to enterprise customer accounts.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -26823,26 +26823,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6235624457398911658": {
-   "word": "spoilage",
-   "correct": 1
-  },
-  "6237663548957262608": {
-   "word": "holistic",
-   "correct": 2
-  },
-  "6237663548957262609": {
-   "word": "subsidiary",
-   "correct": 1
-  },
-  "6237663548957262610": {
-   "word": "classify",
-   "correct": 3
-  },
-  "6237663548957262611": {
-   "word": "initiative",
-   "correct": 2
-  },
   "6237663548957262612": {
    "word": "sparse",
    "correct": 3
@@ -27022,6 +27002,26 @@
   "6264674031346123366": {
    "word": "proposition",
    "correct": 1
+  },
+  "6269177630973494585": {
+   "word": "audit trail",
+   "correct": 0
+  },
+  "6269177630973494586": {
+   "word": "stranded",
+   "correct": 2
+  },
+  "6269177630973494587": {
+   "word": "surveillance",
+   "correct": 3
+  },
+  "6269177630973494588": {
+   "word": "subsequent",
+   "correct": 0
+  },
+  "6269177630973494589": {
+   "word": "critical",
+   "correct": 0
   }
  },
  "fail": {
