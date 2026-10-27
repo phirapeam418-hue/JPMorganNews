@@ -1412,7 +1412,23 @@
   "https://www.theregister.com/cyber-crime/2026/10/27/attack-on-email-hosting-provider-for-german-far-right-party-afd-exposed-345k-accounts/5305660",
   "https://www.theregister.com/on-prem/2026/10/27/uk-ministers-had-plenty-of-time-for-ai-datacenter-bosses-but-none-for-environmental-groups/5305654",
   "https://www.theregister.com/os-platforms/2026/10/27/freebsd-founder-ports-omarchy-to-freebsd-in-ten-days-ten-releases/5305446",
-  "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385"
+  "https://www.theregister.com/offbeat/2026/10/27/year-of-linux-on-the-beach-confirmed/5305385",
+  "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+  "https://www.datacenterdynamics.com/en/news/amazon-settles-legal-battle-against-aws-managers-accused-of-data-center-deal-kickbacks/",
+  "https://www.datacenterdynamics.com/en/news/la-caisse-snaps-up-499-stake-in-bell-canadas-tower-unit/",
+  "https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/",
+  "https://www.datacenterdynamics.com/en/news/comms-tower-collapses-in-danville-illinois-after-farming-machinery-catches-guy-wire/",
+  "https://www.datacenterdynamics.com/en/news/google-data-center-hearing-in-hermantown-minnesota-shut-down-by-protesters/",
+  "https://www.datacenterdynamics.com/en/news/bitfufu-considers-abandoning-80mw-ethiopian-bitcoin-mine-acquisition/",
+  "https://www.datacenterdynamics.com/en/opinions/ground-control-structuring-land-deals-for-data-center-development/",
+  "https://www.datacenterdynamics.com/en/news/nidec-anounces-32mw-in-row-cdu/",
+  "https://www.theregister.com/legal/2026/10/27/eu-privacy-advocates-accuse-us-data-annotation-firm-of-snooping-on-contractors/5305757",
+  "https://www.theregister.com/os-platforms/2026/10/27/zacos-9-and-mavernix-two-classic-apple-desktops-find-their-wayland-to-linux/5305710",
+  "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
+  "https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737",
+  "https://blog.cloudflare.com/php-ctf/",
+  "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
  ],
  "stories": [
   {
@@ -19989,7 +20005,10 @@
    "impact": 4,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "extra_links": [
+    "https://blog.cloudflare.com/php-ctf/"
+   ]
   },
   {
    "id": 626,
@@ -21125,9 +21144,441 @@
    "urgency": 3,
    "scale": 4,
    "credibility": 9
+  },
+  {
+   "id": 657,
+   "ts": "2026-10-28T03:18:41.532885+07:00",
+   "title": "Oracle will offer Google’s TPU AI chip via OCI",
+   "link": "https://www.datacenterdynamics.com/en/news/oracle-will-offer-googles-tpu-ai-chip-via-oci/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Oracle partnering with Google to offer TPUs on OCI is a major AI infrastructure development affecting hyperscale compute options.",
+   "summary": "Oracle Cloud Infrastructure will deploy Google Tensor Processing Units in its data centers starting in 2027. This multi-year partnership gives enterprise customers more architecture choices for heavy AI workloads.",
+   "vocab": [
+    {
+     "word": "throughput",
+     "thai": "ปริมาณงานที่ประมวลผลได้",
+     "level": "C1",
+     "example": "That choice gives them the flexibility to choose the right infrastructure for the performance, throughput, and economics of each AI workload."
+    },
+    {
+     "word": "iterative",
+     "thai": "ที่ทำซ้ำๆ เพื่อปรับปรุง",
+     "level": "C1",
+     "example": "TPU 8i is an inference chip designed to handle the iterative work of many specialized agents."
+    },
+    {
+     "word": "bidirectional",
+     "thai": "สองทิศทาง",
+     "level": "C1",
+     "example": "TPU 8t has 19.2Tbps of bidirectional scale-up bandwidth and 400Gbps of scale-out networking bandwidth."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 658,
+   "ts": "2026-10-28T03:18:41.532928+07:00",
+   "title": "Amazon settles legal battle against AWS managers accused of data center deal kickbacks",
+   "link": "https://www.datacenterdynamics.com/en/news/amazon-settles-legal-battle-against-aws-managers-accused-of-data-center-deal-kickbacks/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "An Amazon legal dispute regarding kickbacks in data center leasing deals concludes with a settlement, but has low operational impact.",
+   "summary": "Two former AWS managers settled a six-year lawsuit with Amazon after being accused of taking illegal kickbacks for data center leasing projects. The defendants admitted that their actions violated the company's code of conduct.",
+   "vocab": [
+    {
+     "word": "kickback",
+     "thai": "เงินสินบน เงินทอนใต้โต๊ะ",
+     "level": "C1",
+     "example": "Amazon has ended a six-year legal battle with two former AWS managers accused of taking kickbacks for certain data center deals."
+    },
+    {
+     "word": "enforceable",
+     "thai": "ซึ่งบังคับใช้ตามกฎหมายได้",
+     "level": "B2",
+     "example": "In 2023, a federal judge ruled that Amazon’s code of conduct wasn’t an enforceable contract."
+    },
+    {
+     "word": "inflate",
+     "thai": "ทำให้สูงเกินจริง",
+     "level": "B2",
+     "example": "Amazon said that its costs in these transactions were inflated to fund the kickbacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 3,
+   "credibility": 10
+  },
+  {
+   "id": 659,
+   "ts": "2026-10-28T03:18:41.532951+07:00",
+   "title": "La Caisse snaps up 49.9% stake in Bell Canada's tower unit",
+   "link": "https://www.datacenterdynamics.com/en/news/la-caisse-snaps-up-499-stake-in-bell-canadas-tower-unit/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Bell Canada selling a major stake in its wireless tower infrastructure represents a notable telecom asset monetization deal.",
+   "summary": "Investment firm La Caisse is acquiring a 49.9 percent stake in Bell Canada's wireless tower unit for billions of dollars. Bell will retain majority control while using the proceeds to execute its capital allocation strategy.",
+   "vocab": [
+    {
+     "word": "monetize",
+     "thai": "แปลงเป็นรายได้",
+     "level": "C1",
+     "example": "For Bell, it represents an opportunity for the mobile carrier to monetize its infrastructure assets."
+    },
+    {
+     "word": "densification",
+     "thai": "การเพิ่มความหนาแน่น",
+     "level": "C1",
+     "example": "The tower unit will own and operate Bell's tower assets with plans to expand through site densification."
+    },
+    {
+     "word": "proceeds",
+     "thai": "เงินรายได้จากการขาย",
+     "level": "B2",
+     "example": "This transaction is in keeping with that approach, and the proceeds will be used to execute against this very clear strategy."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 660,
+   "ts": "2026-10-28T03:18:41.532971+07:00",
+   "title": "Ferveret's in-rack immersion cooling deployed on HPC infrastructure at MIT",
+   "link": "https://www.datacenterdynamics.com/en/news/ferverets-in-rack-immersion-cooling-deployed-on-hpc-infrastructure-at-mit/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A novel in-rack immersion cooling deployment at MIT provides useful real-world insights for high-performance data center thermal management.",
+   "summary": "Researchers at MIT have deployed an in-rack immersion cooling method developed by Ferveret to accelerate materials research. The technology allows high-performance computing clusters to extract more usable compute from existing power envelopes.",
+   "vocab": [
+    {
+     "word": "dispersion",
+     "thai": "การกระจายตัว",
+     "level": "C1",
+     "example": "By dispersing the heat rapidly within the box, Ferveret said it can unlock up to 35 percent more usable compute."
+    },
+    {
+     "word": "feasible",
+     "thai": "เป็นไปได้จริง",
+     "level": "B2",
+     "example": "Access to Ferveret's platform enables us to pursue research that simply would not be feasible with typical computational resources."
+    },
+    {
+     "word": "sustained",
+     "thai": "ต่อเนื่องเป็นเวลานาน",
+     "level": "B2",
+     "example": "Our AI workloads place sustained demands on GPU infrastructure that closely resemble production environments."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 661,
+   "ts": "2026-10-28T03:18:41.532988+07:00",
+   "title": "Comms tower collapses in Danville, Illinois, after farming machinery catches guy wire",
+   "link": "https://www.datacenterdynamics.com/en/news/comms-tower-collapses-in-danville-illinois-after-farming-machinery-catches-guy-wire/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A communications tower collapse caused by farm machinery is a localized physical network outage incident.",
+   "summary": "A 485-foot communications tower in Illinois collapsed after a fertilizer spreader struck its guy wire. The incident disrupted a local TV station's transmitter equipment, though no injuries were reported.",
+   "vocab": [
+    {
+     "word": "colliding",
+     "thai": "การชนกัน",
+     "level": "B2",
+     "example": "A user on Facebook noted that the cause of the collapse was a fertilizer spreader colliding with part of the guy wire."
+    },
+    {
+     "word": "tenant",
+     "thai": "ผู้เช่า",
+     "level": "B2",
+     "example": "One of the tenants on the tower was WAND TV, which leased space on the tower."
+    },
+    {
+     "word": "primary",
+     "thai": "หลัก สำคัญ",
+     "level": "B2",
+     "example": "Users can pick up signals from WAND's primary tower in Argenta."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 662,
+   "ts": "2026-10-28T03:18:41.533007+07:00",
+   "title": "Google data center hearing in Hermantown, Minnesota, shut down due to protests",
+   "link": "https://www.datacenterdynamics.com/en/news/google-data-center-hearing-in-hermantown-minnesota-shut-down-by-protesters/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Public protests shutting down a municipal data center hearing highlight growing local community friction and regulatory hurdles for facility approvals.",
+   "summary": "A public hearing regarding a proposed Google data center in Hermantown, Minnesota, was abruptly shut down by police due to intense protests. The meeting was rescheduled as local debates over zoning, taxes, and resource usage continue.",
+   "vocab": [
+    {
+     "word": "adjourn",
+     "thai": "เลื่อนการประชุม",
+     "level": "C1",
+     "example": "The 1.66 million square foot Google data center project hearing was adjourned after police stopped proceedings."
+    },
+    {
+     "word": "transparency",
+     "thai": "ความโปร่งใส",
+     "level": "B2",
+     "example": "Opponents have all called for more community involvement and greater transparency."
+    },
+    {
+     "word": "decommission",
+     "thai": "ปลดประจำการ ถอนการใช้งาน",
+     "level": "C1",
+     "example": "The council was set to vote on whether to approve an agreement with Google to pay to decommission the site if it ceases operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 663,
+   "ts": "2026-10-28T03:18:41.533025+07:00",
+   "title": "BitFuFu considers abandoning 80MW Ethiopian Bitcoin mine acquisition",
+   "link": "https://www.datacenterdynamics.com/en/news/bitfufu-considers-abandoning-80mw-ethiopian-bitcoin-mine-acquisition/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A crypto mining firm considering abandoning an international site acquisition due to local power disputes highlights risks in energy-intensive infrastructure projects.",
+   "summary": "BitFuFu is evaluating the termination of its planned acquisition of an 80MW Ethiopian mining facility following a payment and power dispute between the local operator and its electricity supplier. The company stated the financial impact should be minimal.",
+   "vocab": [
+    {
+     "word": "curtailment",
+     "thai": "การลดลง การจำกัด",
+     "level": "C2",
+     "example": "BitFuFu CEO Leo Lu said local power curtailment was already reflected in previous results."
+    },
+    {
+     "word": "incremental",
+     "thai": "ที่เพิ่มทีละน้อย",
+     "level": "C1",
+     "example": "We believe this event’s incremental impact on the company will be minimal."
+    },
+    {
+     "word": "arbitration",
+     "thai": "การอนุญาโตตุลาการ การระงับข้อพิพาท",
+     "level": "C1",
+     "example": "The company is evaluating termination, arbitration against the sellers, and recovery of payments."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 664,
+   "ts": "2026-10-28T03:18:41.533047+07:00",
+   "title": "Sponsored: Ground control: Structuring land deals for data center development",
+   "link": "https://www.datacenterdynamics.com/en/opinions/ground-control-structuring-land-deals-for-data-center-development/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "An analytical sponsored piece on data center site selection, power constraints, and regulatory pressures relevant to industry operations.",
+   "summary": "Data center site selection has evolved from simple real estate choices into complex decisions driven by power constraints, environmental rules, and community acceptance. Governments globally are actively shaping digital infrastructure deployment through stricter policies.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย",
+     "level": "C1",
+     "example": "Site selection now also involves data sovereignty, power, water and other infrastructure."
+    },
+    {
+     "word": "differentiator",
+     "thai": "ปัจจัยสร้างความแตกต่าง",
+     "level": "C1",
+     "example": "As AI becomes a strategic national priority, regulatory frameworks are becoming a key differentiator between markets."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "In Australia, the focus on energising projects has driven regulatory reform, clean energy mandates, and greater scrutiny of speculative projects."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 665,
+   "ts": "2026-10-28T03:19:00.578159+07:00",
+   "title": "Nidec anounces 3.2MW in-row CDU",
+   "link": "https://www.datacenterdynamics.com/en/news/nidec-anounces-32mw-in-row-cdu/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly relevant to data center cooling and high-voltage power standards, announced by a major manufacturer.",
+   "summary": "Nidec Corporation has announced a new in-row cooling distribution unit that delivers a high cooling capacity of 3.2MW. The unit supports 800VDC power standards to reduce conversion losses and improve energy efficiency in modern data centers.",
+   "vocab": [
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "The new in-row CDU will deliver full compatibility with the 800VDC power standard."
+    },
+    {
+     "word": "conversion",
+     "thai": "การแปลง",
+     "level": "B2",
+     "example": "Supporting 800VDC will reduce power conversion and transmission losses."
+    },
+    {
+     "word": "distribution",
+     "thai": "การกระจาย",
+     "level": "B2",
+     "example": "Nidec announced a new in-row cooling distribution unit for liquid-cooled data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 666,
+   "ts": "2026-10-28T03:19:00.578250+07:00",
+   "title": "Day 2 of canceled classes at University of New Mexico after Health Sciences Center cyberattack",
+   "link": "https://www.theregister.com/cyber-crime/2026/10/27/day-2-of-canceled-classes-at-university-of-new-mexico-after-health-sciences-center-cyberattack/5305690",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports on an active severe cyberattack causing operational disruption at a university health center.",
+   "summary": "Classes at the University of New Mexico remain canceled for a second day following a major cyberattack. The incident specifically impacted the Health Sciences Center, forcing emergency response measures.",
+   "vocab": [
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The cyberattack caused severe operational disruption and canceled classes."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "The incident forced the institution to shut down key network services."
+    },
+    {
+     "word": "response",
+     "thai": "การตอบสนอง",
+     "level": "B2",
+     "example": "IT teams launched an emergency response to contain the network intrusion."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 667,
+   "ts": "2026-10-28T03:19:00.578375+07:00",
+   "title": "What took the Internet offline in Q3 2026",
+   "link": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Provides a global analysis of internet outages, power grid failures, and infrastructure disruptions.",
+   "summary": "Cloudflare Radar's quarterly report details the primary causes of internet disruptions worldwide during the third quarter. Government-directed shutdowns and major power grid failures in multiple countries were the leading causes of downtime.",
+   "vocab": [
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่นในการคืนสภาพ",
+     "level": "C1",
+     "example": "Countries with a relatively strong history of Internet resilience are still vulnerable."
+    },
+    {
+     "word": "erratic",
+     "thai": "เอาแน่เอานอนไม่ได้",
+     "level": "C1",
+     "example": "Internet disruptions followed the erratic patterns of an unstable power grid."
+    },
+    {
+     "word": "localized",
+     "thai": "ซึ่งเกิดขึ้นเฉพาะที่",
+     "level": "B2",
+     "example": "Honduras illustrated how a localized infrastructure failure can produce national effects."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 10
+  },
+  {
+   "id": 668,
+   "ts": "2026-10-28T03:19:00.578393+07:00",
+   "title": "Genie 4",
+   "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Announces a major new AI world model with advanced real-time simulation and audio generation capabilities.",
+   "summary": "A new world simulation model has been announced, featuring native multimodal capabilities and real-time interactive audio generation. The system improves physical realism and dialogue handling, marking a step forward in AI research.",
+   "vocab": [
+    {
+     "word": "coherence",
+     "thai": "ความสอดคล้องกลมกลืน",
+     "level": "C1",
+     "example": "Complex reasoning is needed to help maintain a simulation's coherence and continuity."
+    },
+    {
+     "word": "interact",
+     "thai": "โต้ตอบ",
+     "level": "B2",
+     "example": "Users can use standard keyboard controls to interact with the world simulation."
+    },
+    {
+     "word": "simultaneous",
+     "thai": "ที่เกิดขึ้นพร้อมกัน",
+     "level": "C1",
+     "example": "Audio and interactive dialogue are simultaneously generated with the world."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 10
   }
  ],
- "next_id": 657,
+ "next_id": 669,
  "vocab": [
   {
    "word": "durable",
@@ -26338,7 +26789,7 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 1
  },
  "level": "B2",
  "answers": []
