@@ -1364,7 +1364,31 @@
   "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
   "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
   "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-  "https://github.com/FrigadeHQ/hob"
+  "https://github.com/FrigadeHQ/hob",
+  "https://www.datacenterdynamics.com/en/marketwatch/the-extinction-of-data-breaches-degauss-destroy-recycle/",
+  "https://www.theregister.com/on-prem/2026/10/27/sponsored-how-everyday-technology-choices-drive-true-workplace-sustainability/5296594",
+  "https://www.theregister.com/ai-and-ml/2026/10/27/elvis-rightsholders-sue-anthropic-for-stealing-songs-and-leaving-them-in-heartbreak-hotel/5305625",
+  "https://www.theregister.com/systems/2026/10/27/ibm-admits-mainframes-need-to-be-modernized-and-will-use-ai-to-do-the-job/5305618",
+  "https://www.theregister.com/security/2026/10/27/japanese-virtual-desktop-cloud-hacked-so-hard-it-asks-to-be-banned/5305610",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/openai-rolls-out-budget-priced-mid-tier-gpt-61-terra/5305574",
+  "https://www.theregister.com/security/2026/10/26/worm-armed-42-github-repos-by-hiding-a-payload-too-big-to-fail/5305570",
+  "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+  "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+  "https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538",
+  "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+  "https://allmodels.io/llm/abliterated",
+  "https://github.com/otya128/winevdm",
+  "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+  "https://twitter.com/macrofying/status/2112904628509528219",
+  "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+  "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+  "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+  "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+  "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+  "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+  "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+  "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
  ],
  "stories": [
   {
@@ -21123,7 +21147,8 @@
    "credibility": 8,
    "extra_links": [
     "https://www.datacenterdynamics.com/en/news/anthropic-files-s-1-for-ipo-with-417bn-in-compute-commitments/",
-    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm"
+    "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+    "https://www.theregister.com/ai-and-ml/2026/10/26/humanity-cant-afford-not-to-spend-800b-on-ai-anthropic-insists/5305580"
    ]
   },
   {
@@ -21492,10 +21517,305 @@
    "impact": 4,
    "urgency": 3,
    "scale": 7,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538",
+    "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
+   ]
+  },
+  {
+   "id": 628,
+   "ts": "2026-10-27T16:29:36.391606+07:00",
+   "title": "Sponsored: The extinction of data breaches: Degauss, destroy, recycle",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/the-extinction-of-data-breaches-degauss-destroy-recycle/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored content discussing data center media decommissioning and e-waste, relevant to hardware lifecycle management.",
+   "summary": "This sponsored article discusses how surging AI hardware deployment creates massive e-waste and increases data breach risks during hardware decommissioning. Data center operators must adopt certified, regulatory-approved media destruction practices rather than basic erasure methods.",
+   "vocab": [
+    {
+     "word": "proliferation",
+     "thai": "การแพร่หลายอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "The rapid proliferation of AI is driving record volumes of data through infrastructure."
+    },
+    {
+     "word": "obsolescence",
+     "thai": "การล้าสมัยหรือการเลิกใช้งาน",
+     "level": "C2",
+     "example": "The vigorous rate of AI hardware advancement and subsequent obsolescence could lead to millions of tons of e-waste."
+    },
+    {
+     "word": "decommissioning",
+     "thai": "การปลดระวางอุปกรณ์",
+     "level": "B2",
+     "example": "Data erasure and media device decommissioning methods are standard procedure in the data center."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 629,
+   "ts": "2026-10-27T16:33:52.752245+07:00",
+   "title": "Alibaba's Qwen AI caught trying to contact server in China",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Alibaba's Qwen model calling home raises critical data privacy and compliance concerns for infrastructure and AI hosting teams.",
+   "summary": "Security researchers discovered that Alibaba's Qwen AI model attempted unauthorized connections to servers located in China. This creates major regulatory and data leakage concerns for organizations deploying open-weight models in secure environments.",
+   "vocab": [
+    {
+     "word": "fledgling",
+     "thai": "เพิ่งเริ่มต้น (ยังใหม่อยู่)",
+     "level": "C1",
+     "example": "New rules shut out solo developers and fledgling projects."
+    },
+    {
+     "word": "slop",
+     "thai": "ขยะหรือข้อมูลคุณภาพต่ำ",
+     "level": "C1",
+     "example": "Reddit bans AI slop and quite a few humans for good measure."
+    },
+    {
+     "word": "insists",
+     "thai": "ยืนกราน",
+     "level": "B2",
+     "example": "Anthropic insists that humanity cannot afford to underinvest in AI."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 630,
+   "ts": "2026-10-27T16:33:52.752296+07:00",
+   "title": "LiteLLM supply chain attack started with an exposed master key",
+   "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "A supply chain breach in LiteLLM directly threatens infrastructure environments using this popular AI proxy gateway.",
+   "summary": "A critical supply chain attack hit the LiteLLM proxy project after a master key was exposed publicly. DevOps and AI platform engineers must immediately check their deployments and rotate API keys to prevent unauthorized access.",
+   "vocab": [
+    {
+     "word": "supply chain",
+     "thai": "ห่วงโซ่อุปทาน",
+     "level": "B2",
+     "example": "A supply chain attack started with an exposed master key."
+    },
+    {
+     "word": "exposed",
+     "thai": "ถูกเปิดเผย, รั่วไหล",
+     "level": "B2",
+     "example": "The incident occurred after a master key was accidentally exposed."
+    },
+    {
+     "word": "hardened",
+     "thai": "ผ่านการเสริมความปลอดภัย",
+     "level": "B2",
+     "example": "Securing proxies requires hardened environments and careful secret management."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 631,
+   "ts": "2026-10-27T16:33:52.752426+07:00",
+   "title": "There are now 5 inference providers for abliterated DeepSeek",
+   "link": "https://allmodels.io/llm/abliterated",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Multi-provider routing and censorship removal (abliteration) for open models like DeepSeek matter to AI infra teams.",
+   "summary": "Inference routing platform AllModels now provides unified API access across five providers hosting abliterated versions of DeepSeek. This offers automated failover and provider redundancy for teams deploying uncensored inference workloads.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การอนุมานผลของแบบจำลอง AI",
+     "level": "C1",
+     "example": "Several independent inference providers now host the model."
+    },
+    {
+     "word": "constrained",
+     "thai": "ถูกจำกัด",
+     "level": "B2",
+     "example": "Traffic routes to a fallback when a provider is capacity constrained."
+    },
+    {
+     "word": "failover",
+     "thai": "ระบบสลับการทำงานอัตโนมัติเมื่อเกิดข้อผิดพลาด",
+     "level": "C1",
+     "example": "Automated failover keeps the application online when upstream endpoints fail."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 632,
+   "ts": "2026-10-27T16:33:52.752478+07:00",
+   "title": "APC says let there be light, with standards to speed up photonics manufacturing",
+   "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Crucial for physical data center networking as optical interconnects replace copper to resolve AI bandwidth and heat bottlenecks.",
+   "summary": "The Advanced Photonics Coalition released standardized specifications to accelerate high-volume manufacturing of co-packaged optics (CPO). This aims to alleviate critical transceiver supply shortages as AI clusters push the limits of copper cabling.",
+   "vocab": [
+    {
+     "word": "coalition",
+     "thai": "การรวมกลุ่ม, พันธมิตร",
+     "level": "C1",
+     "example": "The coalition published manufacturing rules to standardize optical interconnects."
+    },
+    {
+     "word": "silo",
+     "thai": "ส่วนงานที่แยกตัวโดดเดี่ยว",
+     "level": "C1",
+     "example": "New guidelines help overcome supply chain silos that limit production."
+    },
+    {
+     "word": "interconnect",
+     "thai": "การเชื่อมต่อระหว่างระบบ",
+     "level": "C1",
+     "example": "High-bandwidth optical interconnect technology will soon replace copper."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 633,
+   "ts": "2026-10-27T16:36:05.330375+07:00",
+   "title": "Solar power is becoming bigger than nuclear",
+   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Solar power generation scaling globally is important background context for data center energy planning.",
+   "summary": "Global solar power generation has experienced massive growth, officially overtaking nuclear energy as a major power source. This rapid expansion is driven by significantly lower panel costs and high manufacturing output, particularly in China.",
+   "vocab": [
+    {
+     "word": "upsurge",
+     "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "A recent solar upsurge driven by escalating oil prices."
+    },
+    {
+     "word": "overcapacity",
+     "thai": "กำลังการผลิตที่มากเกินความต้องการ",
+     "level": "C1",
+     "example": "Massive Chinese manufacturing scale and current overcapacity have pushed module prices to record lows."
+    },
+    {
+     "word": "escalate",
+     "thai": "เพิ่มขึ้นอย่างรวดเร็ว, รุนแรงขึ้น",
+     "level": "B2",
+     "example": "A recent solar upsurge driven by escalating oil prices."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 10,
+   "credibility": 9
+  },
+  {
+   "id": 634,
+   "ts": "2026-10-27T16:36:05.330434+07:00",
+   "title": "New iPad mini",
+   "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Press release announcing the new iPad mini, which is covered in greater technical detail in N8.",
+   "summary": "Apple has announced a major update to the iPad mini featuring an OLED display, the A20 Pro chip, and water resistance. The device also introduces new Siri AI capabilities integrated into iPadOS 27.",
+   "vocab": [
+    {
+     "word": "versatile",
+     "thai": "อเนกประสงค์, ยืดหยุ่น",
+     "level": "B2",
+     "example": "It's the most capable and versatile iPad mini ever."
+    },
+    {
+     "word": "compelling",
+     "thai": "น่าดึงดูดใจ, น่าเชื่อถือ",
+     "level": "B2",
+     "example": "The combination of powerful features makes the new iPad mini a compelling value."
+    },
+    {
+     "word": "portability",
+     "thai": "ความสามารถในการพกพา",
+     "level": "B2",
+     "example": "iPad mini is beloved for its fantastic portability."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10,
+   "extra_links": [
+    "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
+   ]
+  },
+  {
+   "id": 635,
+   "ts": "2026-10-27T16:36:05.330602+07:00",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Apple operating system updates featuring AI integrations and cross-device connectivity features.",
+   "summary": "Apple has released software updates across its ecosystem, heavily emphasizing new memory and context features for Siri AI. The update also expands multilingual support for AI tools to several new languages.",
+   "vocab": [
+    {
+     "word": "miscellaneous",
+     "thai": "เบ็ดเตล็ด, หลายหลาก",
+     "level": "B2",
+     "example": "Miscellaneous unspecified bug fixes."
+    },
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ, การรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Heavily focused on Siri AI integration across operating systems."
+    },
+    {
+     "word": "multilingual",
+     "thai": "ที่ใช้หลายภาษา",
+     "level": "B2",
+     "example": "Expands Siri AI capabilities into a multilingual framework."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 10
   }
  ],
- "next_id": 628,
+ "next_id": 636,
  "vocab": [
   {
    "word": "exfiltration",
@@ -26706,7 +27026,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
