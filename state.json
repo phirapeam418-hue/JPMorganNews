@@ -20414,7 +20414,7 @@
      "example": "Authorities seized multiple websites used for hostile foreign propaganda."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -20450,7 +20450,7 @@
      "example": "Developers called for more humane working practices across the software industry."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
@@ -20486,7 +20486,7 @@
      "example": "Open-source projects often produce an imitation of proprietary AI agents."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -20560,11 +20560,13 @@
      "example": "The Dallas data center currently offers 2MW, with another 2MW coming later and allocated to the joint venture."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 364,
+   "sent_ts": "2026-10-27T13:11:38.639790+07:00"
   },
   {
    "id": 603,
@@ -20634,7 +20636,7 @@
      "example": "Insurance company Swiss Re has forecast that data center insurance premiums could approach $24 billion."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 7,
@@ -20670,7 +20672,7 @@
      "example": "Generative Bionics was founded to commercialize physical AI research from the institute."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -20744,11 +20746,13 @@
      "example": "A common misconception is that a large load will automatically command a supplier’s best price."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 365,
+   "sent_ts": "2026-10-27T13:11:39.324627+07:00"
   },
   {
    "id": 608,
@@ -20818,7 +20822,7 @@
      "example": "Corrosion inhibitors influence coolant performance and service life."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -20892,11 +20896,13 @@
      "example": "The new infrastructure is designed to be durable and fungible for various workloads."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 361,
+   "sent_ts": "2026-10-27T13:11:36.629550+07:00"
   },
   {
    "id": 612,
@@ -20928,7 +20934,7 @@
      "example": "He emphasized that a secure banking system needs robust digital infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
@@ -20964,7 +20970,7 @@
      "example": "Industry partnerships are crucial for developing next-generation power solutions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -21000,7 +21006,7 @@
      "example": "Such strikes disrupt unmanned aerial vehicle coordination."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 6,
    "scale": 4,
@@ -21036,7 +21042,7 @@
      "example": "Turning facilities into grid assets helps balance regional power systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -21072,11 +21078,13 @@
      "example": "Administrators must patch software vulnerabilities to prevent zero-day attacks."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 362,
+   "sent_ts": "2026-10-27T13:11:37.288102+07:00"
   },
   {
    "id": 617,
@@ -21108,7 +21116,7 @@
      "example": "Whitehall launched a major £600M spending spree."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -21148,11 +21156,13 @@
      "example": "The vulnerability allows remote code execution on host systems."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 360,
+   "sent_ts": "2026-10-27T13:11:35.924924+07:00"
   },
   {
    "id": 619,
@@ -21184,11 +21194,13 @@
      "example": "An active security incident forced password resets."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 366,
+   "sent_ts": "2026-10-27T13:11:39.964792+07:00"
   },
   {
    "id": 620,
@@ -21220,7 +21232,7 @@
      "example": "Our power electronics technologies have been developed and industrialized to meet demanding requirements."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
@@ -21256,7 +21268,7 @@
      "example": "Chip designs and AI infrastructure are strategic assets for European industry."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -21292,11 +21304,13 @@
      "example": "We expect both our fiber and edge computing to add meaningfully to our future growth."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 367,
+   "sent_ts": "2026-10-27T13:11:40.675692+07:00"
   },
   {
    "id": 623,
@@ -21328,7 +21342,7 @@
      "example": "With these units operating in parallel, operators can add backup power capacity in stages."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 7,
@@ -21364,7 +21378,7 @@
      "example": "We still probably wouldn't satisfy all the demand right now."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 9,
@@ -21400,7 +21414,7 @@
      "example": "Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -21436,11 +21450,13 @@
      "example": "A prompt that did not fit the pool was internally replaced with a one-token placeholder."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 6,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 363,
+   "sent_ts": "2026-10-27T13:11:37.972757+07:00"
   },
   {
    "id": 627,
@@ -21472,7 +21488,7 @@
      "example": "The voluntary retirement program offered more generous terms to incentivize uptake."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -21481,186 +21497,6 @@
  ],
  "next_id": 628,
  "vocab": [
-  {
-   "word": "defensible",
-   "thai": "ซึ่งสามารถอธิบายหรือพิสูจน์ความถูกต้องได้",
-   "level": "B2",
-   "example": "Why unifying BMS, PDU, and BMC telemetry enables defensible planning.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "multimodality",
-   "thai": "ความสามารถในการรองรับข้อมูลหลายรูปแบบ",
-   "level": "C1",
-   "example": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "paradigm",
-   "thai": "กระบวนทัศน์",
-   "level": "B2",
-   "example": "This changes the paradigm for decision models which have been largely text-only.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "performant",
-   "thai": "มีประสิทธิภาพสูงในการทำงาน",
-   "level": "C1",
-   "example": "We were able to ship performant, high-quality, open-weight models for the community.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "containment",
-   "thai": "การควบคุมหรือการจำกัดขอบเขตไม่ให้แพร่กระจาย",
-   "level": "C1",
-   "example": "Containment creates a managed boundary so the agent cannot modify host files.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "enforce",
-   "thai": "บังคับใช้ (กฎ ระเบียบ นโยบาย)",
-   "level": "B2",
-   "example": "MXC uses the appropriate container to enforce those policies at runtime.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unrestricted",
-   "thai": "ไร้ข้อจำกัดหรือไม่มีการควบคุม",
-   "level": "B2",
-   "example": "Giving agents unrestricted access risks severe operational damage.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intermittent",
-   "thai": "เป็นพักๆ หรือไม่สม่ำเสมอ",
-   "level": "C1",
-   "example": "AI data centers feature a highly volatile, intermittent load profile.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "volatile",
-   "thai": "เปลี่ยนแปลงอย่างรวดเร็วและคาดเดาได้ยาก",
-   "level": "C1",
-   "example": "AI data centers feature a highly volatile, intermittent load profile with massive power swings.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inductive",
-   "thai": "ที่เกิดจากการเหนี่ยวนำทางแม่เหล็กไฟฟ้า",
-   "level": "C2",
-   "example": "Liquid cooling systems introduce heavy inductive loads that require high inrush currents.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "arbitrary",
-   "thai": "ตามอำเภอใจหรือที่กำหนดโดยอิสระ",
-   "level": "B2",
-   "example": "The flaw lets one clicked link read arbitrary files off the disk.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exfiltrate",
-   "thai": "ลักลอบดึงข้อมูลออกไป",
-   "level": "C2",
-   "example": "The vulnerability allowed session files to be exfiltrated to an attacker-controlled chat.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "redundant",
-   "thai": "ซ้ำซ้อนหรือไม่จำเป็น",
-   "level": "B2",
-   "example": "Telegram itself has to work out that the new process is redundant.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "amend",
-   "thai": "แก้ไขเพิ่มเติม (ข้อตกลงหรือกฎหมาย)",
-   "level": "C1",
-   "example": "The agreements amend AI cloud provider Fluidstack's existing lease.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "overrun",
-   "thai": "ค่าใช้จ่ายที่เกินงบประมาณ",
-   "level": "C1",
-   "example": "The tenant will reimburse half of further overruns through additional rent.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "enduring",
-   "thai": "ยั่งยืนหรือคงทน",
-   "level": "C2",
-   "example": "Adding contracted revenue reflects the enduring value of the infrastructure we are building.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "friction",
-   "thai": "อุปสรรค / ความยากลำบาก",
-   "level": "B2",
-   "example": "The friction that made unikernels hard is gone.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dogma",
-   "thai": "ความเชื่อที่ยึดถือต่อกันมาโดยไม่มีข้อสงสัย",
-   "level": "C2",
-   "example": "Cognitively, get rid of the dogma that they are hard.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "exfiltration",
    "thai": "การลักลอบดึงข้อมูลออกไป",
@@ -26476,6 +26312,186 @@
    "thai": "เกิดขึ้นจริง, เป็นรูปร่าง",
    "level": "C1",
    "example": "Investors are protecting their portfolios in the event that returns on AI investment fail to materialize.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "revelation",
+   "thai": "การเปิดเผยความจริงที่น่าตกใจ",
+   "level": "C1",
+   "example": "The tech world is reacting to recent security revelations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "execution",
+   "thai": "การดำเนินการ, การสั่งงานโปรแกรม",
+   "level": "B2",
+   "example": "The vulnerability allows remote code execution on host systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bottleneck",
+   "thai": "คอขวด, อุปสรรคที่ทำให้ช้าลง",
+   "level": "C1",
+   "example": "Energy availability represents the primary bottleneck facing European AI infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fungible",
+   "thai": "ซึ่งแทนที่กันได้",
+   "level": "C2",
+   "example": "The new infrastructure is designed to be durable and fungible for various workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arduous",
+   "thai": "ยากลำบาก, ต้องใช้ความพยายามมาก",
+   "level": "C1",
+   "example": "The road ahead for new memory technologies is arduous.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vulnerability",
+   "thai": "จุดอ่อนของระบบ",
+   "level": "B2",
+   "example": "Administrators must patch software vulnerabilities to prevent zero-day attacks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disaggregated",
+   "thai": "ที่แยกส่วนออกจากกัน",
+   "level": "C2",
+   "example": "The second was a bug in how SGLang handled requests in disaggregated prefill/decode mode.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "placeholder",
+   "thai": "ตัวแทนหรือสัญลักษณ์ชั่วคราวที่ใช้กันที่ไว้",
+   "level": "B2",
+   "example": "A prompt that did not fit the pool was internally replaced with a one-token placeholder.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "definitive",
+   "thai": "อย่างเป็นทางการ, ที่สมบูรณ์",
+   "level": "C1",
+   "example": "Edge Node Inc. has entered into a definitive agreement with Fireworks for a 36-month reservation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "trajectory",
+   "thai": "เส้นทางวิถี, แนวโน้มการเติบโต",
+   "level": "C1",
+   "example": "We have a strong partnership with Fireworks and are excited about our growth trajectory as we scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "allocated",
+   "thai": "จัดสรร",
+   "level": "B2",
+   "example": "The Dallas data center currently offers 2MW, with another 2MW coming later and allocated to the joint venture.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conundrum",
+   "thai": "ปริศนาที่ยากจะแก้ไข, ปัญหาซับซ้อน",
+   "level": "C2",
+   "example": "Navigating data centers' power-price conundrum requires careful strategic planning.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "astounding",
+   "thai": "น่าพิศวง, น่าตกใจมาก",
+   "level": "C1",
+   "example": "The numbers surrounding the data center power boom are nothing short of astounding.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "misconception",
+   "thai": "ความเข้าใจผิด",
+   "level": "C1",
+   "example": "A common misconception is that a large load will automatically command a supplier’s best price.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "restoration",
+   "thai": "การซ่อมแซม, การกู้คืนระบบ",
+   "level": "B2",
+   "example": "System restoration is underway for the database.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "momentum",
+   "thai": "แรงขับเคลื่อน/ความต่อเนื่อง",
+   "level": "B2",
+   "example": "We are seeing momentum with numerous partners to use our network hubs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backbone",
+   "thai": "เครือข่ายแกนหลัก/กระดูกสันหลัง",
+   "level": "B2",
+   "example": "That deal supports Verizon's efforts to support the long-haul backbone that AI hyperscalers need.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "meaningfully",
+   "thai": "อย่างมีนัยสำคัญ",
+   "level": "B2",
+   "example": "We expect both our fiber and edge computing to add meaningfully to our future growth.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
