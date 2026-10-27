@@ -1368,121 +1368,6 @@
  ],
  "stories": [
   {
-   "id": 80,
-   "ts": "2026-10-13T09:49:54.574226+07:00",
-   "title": "Filter, reshape, and redact logs before export with Transformers",
-   "link": "https://blog.cloudflare.com/transformers-on-logpush/",
-   "source": "Cloudflare Blog",
-   "score": 7,
-   "watch": false,
-   "reason": "In-pipeline SQL log transformation simplifies observability architectures and cuts downstream SIEM storage costs.",
-   "summary": "Cloudflare launched Transformers for Logpush, allowing operators to filter, redact, and reshape log streams using SQL before export. This removes the need for intermediary processing services and lowers data ingestion expenses.",
-   "vocab": [
-    {
-     "word": "redact",
-     "thai": "ปกปิดข้อมูลสำคัญ",
-     "level": "C1",
-     "example": "Teams define a SQL query to filter records, redact sensitive data, and reshape the output."
-    },
-    {
-     "word": "discard",
-     "thai": "ทิ้งหรือไม่นำมาใช้",
-     "level": "B2",
-     "example": "Teams pay to ingest records they discard as soon as they arrive."
-    },
-    {
-     "word": "predictable",
-     "thai": "คาดการณ์ได้",
-     "level": "B2",
-     "example": "The embedded SQL engine keeps performance and resource use predictable."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 65,
-   "sent_ts": "2026-10-13T14:38:59.174218+07:00"
-  },
-  {
-   "id": 81,
-   "ts": "2026-10-13T09:49:54.574312+07:00",
-   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "link": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Intel's air-cooled 480GB inference GPU directly influences server hardware procurement, cooling requirements, and AI rack density.",
-   "summary": "Intel unveiled the D270 data center GPU accelerator featuring up to 480 GB of LPDDR5X memory tailored for agentic AI workloads. It operates at 350 watts with passive air cooling in PCIe slots, avoiding expensive liquid-cooling retrofits.",
-   "vocab": [
-    {
-     "word": "concurrent",
-     "thai": "ที่เกิดขึ้นพร้อมกัน",
-     "level": "B2",
-     "example": "The card is built for handling larger contexts and more concurrent sessions."
-    },
-    {
-     "word": "retrofit",
-     "thai": "การดัดแปลงติดตั้งอุปกรณ์ใหม่ในระบบเดิม",
-     "level": "C1",
-     "example": "Passive cooling ensures no liquid-cooling retrofit is needed in existing racks."
-    },
-    {
-     "word": "sustain",
-     "thai": "รักษาไว้หรือประคับประคอง",
-     "level": "B2",
-     "example": "Keep agents resident to help sustain throughput across the agentic loop."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 66,
-   "sent_ts": "2026-10-13T14:38:59.688324+07:00"
-  },
-  {
-   "id": 82,
-   "ts": "2026-10-13T09:50:59.399770+07:00",
-   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-   "link": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "While this cyberattack hit commercial refrigeration rather than data centers, it demonstrates serious operational technology risks relevant to critical facility cooling systems.",
-   "summary": "Hackers targeted industrial refrigeration controllers across several European supermarket chains, forcing units into continuous defrosting cycles at high temperatures. The incident caused inventory loss and forced retailers to temporarily shut down IT systems.",
-   "vocab": [
-    {
-     "word": "unprecedented",
-     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
-     "level": "C1",
-     "example": "An unprecedented cyberattack cripples supermarket fridges across Europe."
-    },
-    {
-     "word": "mobilized",
-     "thai": "ถูกระดมกำลัง",
-     "level": "B2",
-     "example": "Teams had been mobilized to fix the issue and promised an investigation."
-    },
-    {
-     "word": "malfunction",
-     "thai": "การทำงานผิดปกติ",
-     "level": "C1",
-     "example": "Several supermarket chains have been hit with a malfunction due to a cybersecurity incident."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/security/2026/10/13/cyberattacks-crank-french-supermarket-refrigeration-systems-up-to-50c/5302784"
-   ]
-  },
-  {
    "id": 83,
    "ts": "2026-10-13T18:16:13.993805+07:00",
    "title": "NTT to build $6.3bn data center for Anthropic in Japan - report",
@@ -20637,11 +20522,13 @@
      "example": "Deployments are underway this quarter for the Nvidia RTX PRO 6000 Blackwell Server Edition."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 354,
+   "sent_ts": "2026-10-27T09:47:34.178536+07:00"
   },
   {
    "id": 602,
@@ -20709,11 +20596,13 @@
      "example": "Karman turns that stranded capacity into usable compute."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 355,
+   "sent_ts": "2026-10-27T09:47:34.719944+07:00"
   },
   {
    "id": 604,
@@ -20817,11 +20706,13 @@
      "example": "The firm is expanding with a focus on Nvidia’s MGX modular reference design architecture."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 356,
+   "sent_ts": "2026-10-27T09:47:35.292073+07:00"
   },
   {
    "id": 607,
@@ -20889,11 +20780,13 @@
      "example": "Investors are protecting their portfolios in the event that returns on AI investment fail to materialize."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 357,
+   "sent_ts": "2026-10-27T09:47:35.828476+07:00"
   },
   {
    "id": 609,
@@ -20961,11 +20854,13 @@
      "example": "This project continues their long-standing collaboration in supercomputing."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 358,
+   "sent_ts": "2026-10-27T09:47:36.367755+07:00"
   },
   {
    "id": 611,
@@ -20997,7 +20892,7 @@
      "example": "The new infrastructure is designed to be durable and fungible for various workloads."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 7,
    "scale": 8,
@@ -21177,7 +21072,7 @@
      "example": "Administrators must patch software vulnerabilities to prevent zero-day attacks."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
@@ -21253,7 +21148,7 @@
      "example": "The vulnerability allows remote code execution on host systems."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
@@ -21541,7 +21436,7 @@
      "example": "A prompt that did not fit the pool was internally replaced with a one-token placeholder."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 7,
    "scale": 6,
@@ -21586,96 +21481,6 @@
  ],
  "next_id": 628,
  "vocab": [
-  {
-   "word": "rigor",
-   "thai": "ความเข้มงวด ความถี่ถ้วน",
-   "level": "C1",
-   "example": "None of it would have been possible without the relentless curiosity and execution rigor.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "distributed",
-   "thai": "กระจายตัว",
-   "level": "B2",
-   "example": "As customer requirements become more distributed and complex, local scale matters.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "ecosystem",
-   "thai": "ระบบนิเวศทางธุรกิจหรือเทคโนโลยี",
-   "level": "B2",
-   "example": "Realizing that potential will require an ecosystem that can support AI businesses.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reflects",
-   "thai": "สะท้อนถึง",
-   "level": "B2",
-   "example": "Our continued investment in Japan reflects both our confidence and commitment.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "flammability",
-   "thai": "ความไวไฟ",
-   "level": "C1",
-   "example": "A key advantage of Lead-Acid chemistry is its limited intrinsic flammability and predictable failure behavior.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dissipate",
-   "thai": "สลายไป, กระจายออก",
-   "level": "C1",
-   "example": "Heat generation can exceed the rate at which it can dissipate.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "propagate",
-   "thai": "แพร่ขยาย, ลุกลาม",
-   "level": "C1",
-   "example": "Thermal runaway can propagate from one cell to others.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "headroom",
-   "thai": "พื้นที่ว่างส่วนเกิน (สำหรับรองรับภาระงาน)",
-   "level": "C1",
-   "example": "Legacy spreadsheets and isolated meters can't locate or validate this headroom.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "telemetry",
-   "thai": "ระบบส่งข้อมูลทางไกล (เพื่อการวัดและติดตาม)",
-   "level": "C1",
-   "example": "This whitepaper shows how full-chain telemetry delivers the real-time proof.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "defensible",
    "thai": "ซึ่งสามารถอธิบายหรือพิสูจน์ความถูกต้องได้",
@@ -26585,6 +26390,96 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "unveiled",
+   "thai": "เปิดตัว",
+   "level": "B2",
+   "example": "The company recently unveiled Two-Phase Matrix Flow Boiling, the technology inside its OmniTherm family.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hybrid",
+   "thai": "ไฮบริด (ผสมผสาน)",
+   "level": "B2",
+   "example": "OmniTherm hybrid copper-aluminum coldplates can be as thin as 11.6 mm.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deployments",
+   "thai": "การติดตั้งใช้งาน",
+   "level": "B2",
+   "example": "Deployments are underway this quarter for the Nvidia RTX PRO 6000 Blackwell Server Edition.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "provisioned",
+   "thai": "จัดเตรียมทรัพยากรไว้ล่วงหน้า",
+   "level": "C1",
+   "example": "The software enabled 16 Nvidia B300 servers to operate within the power budget provisioned for ten servers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "historically",
+   "thai": "ในอดีตที่ผ่านมา",
+   "level": "B2",
+   "example": "The company, which historically has served the PC gaming community, recently announced a new CDU.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interconnected",
+   "thai": "ที่เชื่อมโยงถึงกัน",
+   "level": "B2",
+   "example": "Management can support up to 32 interconnected CDUs, scaling to 80MW.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "securing",
+   "thai": "การจัดหามาได้, การค้ำประกัน",
+   "level": "B2",
+   "example": "Neoclouds could face complications in securing credit for AI infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "curbed",
+   "thai": "ถูกจำกัด, ควบคุม",
+   "level": "C1",
+   "example": "Fears that the AI buildout could be curbed by hesitant investors have been mounting.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "materialize",
+   "thai": "เกิดขึ้นจริง, เป็นรูปร่าง",
+   "level": "C1",
+   "example": "Investors are protecting their portfolios in the event that returns on AI investment fail to materialize.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -26795,7 +26690,7 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 1
  },
  "level": "B2",
  "answers": []
