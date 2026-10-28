@@ -1428,231 +1428,33 @@
   "https://www.theregister.com/saas/2026/10/27/take-it-on-the-chin-satnad-microsoft-chief-execs-pay-slips-6-in-record-year/5305737",
   "https://blog.cloudflare.com/php-ctf/",
   "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+  "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+  "https://www.theregister.com/ai-and-ml/2026/10/27/big-red-gets-cozy-with-google-to-offer-tpus-to-ai-customers/5305846",
+  "https://www.theregister.com/ai-and-ml/2026/10/27/anthropic-now-lets-claude-users-jump-out-of-plane-without-parachute/5305807",
+  "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+  "https://www.theregister.com/personal-tech/2026/10/27/apple-takes-powerful-m6-chip-to-the-macbook-pro-imac/5305797",
+  "https://ghostty.org/docs/install/release-notes/1-4-0",
+  "https://tailscale.com/ssh-investigation-update",
+  "https://www.anthropic.com/research/early-progress-drug-development",
+  "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+  "https://www.brangus.io/survival-llm",
+  "https://github.com/ZhongGheart/china-policy-data",
+  "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+  "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+  "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
+  "https://gracefulliberty.com/articles/four-months-of-zig/",
+  "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+  "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+  "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
+  "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+  "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+  "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+  "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+  "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/"
  ],
  "stories": [
-  {
-   "id": 123,
-   "ts": "2026-10-14T06:32:00.978660+07:00",
-   "title": "Apple unleashes a swarm of Mac Minions to share GPU resources for large AI tasks",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/13/apple-unleashes-a-swarm-of-mac-minions-to-share-gpu-resources-for-large-ai-tasks/5302891",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "This is a summary digest page covering various AI, infosec, and open-source updates with low immediate operational urgency.",
-   "summary": "A tech news digest covers several industry events, including AI computing initiatives, packaging deals, and security vulnerabilities. These aggregated summaries highlight ongoing trends in AI infrastructure and enterprise security without providing deep operational detail on a single event.",
-   "vocab": [
-    {
-     "word": "bolster",
-     "thai": "ส่งเสริมหรือเสริมกำลัง",
-     "level": "C1",
-     "example": "TSMC taps GlobalFoundries to bolster US silicon interposer production in $2B deal."
-    },
-    {
-     "word": "propaganda",
-     "thai": "การโฆษณาชวนเชื่อ",
-     "level": "C1",
-     "example": "US takes down Iranian propaganda sites."
-    },
-    {
-     "word": "adoption",
-     "thai": "การนำมาใช้หรือเริ่มใช้งาน",
-     "level": "B2",
-     "example": "Increasing awareness and adoption, followed by increasing donations."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 124,
-   "ts": "2026-10-14T06:32:00.978736+07:00",
-   "title": "OpenAI engineer arrested in bugging of executive conference room",
-   "link": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Corporate espionage directly targeting an AI market leader highlights insider threats and physical security around critical AI infrastructure and research.",
-   "summary": "A software engineer at OpenAI was arrested by federal authorities for planting a concealed listening device in an executive conference room. The incident underscores growing physical security and insider espionage risks facing premier artificial intelligence organizations.",
-   "vocab": [
-    {
-     "word": "intercept",
-     "thai": "ดักจับหรือสกัดกั้น",
-     "level": "B2",
-     "example": "He was charged with using or attempting to use a device to intercept oral communications."
-    },
-    {
-     "word": "unattended",
-     "thai": "ซึ่งไม่มีผู้ดูแลหรือปล่อยทิ้งไว้",
-     "level": "B2",
-     "example": "Federal prosecutors say an employee left another unattended in his bag."
-    },
-    {
-     "word": "counterintelligence",
-     "thai": "การต่อต้านการจารกรรม",
-     "level": "C1",
-     "example": "FBI Director said protecting AI innovation is among the bureau's highest counterintelligence priorities."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/security/2026/10/14/openai-engineer-charged-after-boardroom-bug-found-wrapped-in-toilet-paper/5303000"
-   ]
-  },
-  {
-   "id": 125,
-   "ts": "2026-10-14T06:32:00.978786+07:00",
-   "title": "Redesigning source control at Anthropic",
-   "link": "https://www.anthropic.com/engineering/redesigning-source-control",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Valuable technical insight into custom developer tooling, monorepo architecture, and CI/CD scaling issues caused by AI-generated code volume.",
-   "summary": "Anthropic developed a proprietary version control system named Scion after Git could no longer handle tens of thousands of automated daily code commits. This development highlights new architectural scaling pressures that high-frequency AI coding places on developer infrastructure and CI pipelines.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "จุดคอขวดหรืออุปสรรคที่ทำให้กระบวนการล่าช้า",
-     "level": "B2",
-     "example": "Coding is no longer the bottleneck to building systems or doing research."
-    },
-    {
-     "word": "autonomously",
-     "thai": "อย่างอิสระหรือโดยอัตโนมัติ",
-     "level": "C1",
-     "example": "Claude is able to autonomously iterate on research loops and build new services."
-    },
-    {
-     "word": "latent",
-     "thai": "ที่แฝงอยู่หรือไม่ปรากฏชัด",
-     "level": "C2",
-     "example": "The latent demand for merging code is practically infinite."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/devops/2026/10/13/anthropic-reinvents-source-control-as-claude-floods-the-world-with-code/5302943"
-   ]
-  },
-  {
-   "id": 126,
-   "ts": "2026-10-14T06:33:35.865934+07:00",
-   "title": "Firefox Enterprise",
-   "link": "https://www.firefox.com/en-US/enterprise/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Offers an on-premise browser management option relevant to enterprise security and access control infrastructure.",
-   "summary": "Mozilla announced Firefox Enterprise, enabling organizations to deploy and manage web browsers on their own infrastructure. The platform helps enterprise administrators enforce security policies and protect internal apps without complex remote access tools.",
-   "vocab": [
-    {
-     "word": "sovereignty",
-     "thai": "อำนาจควบคุมตนเอง",
-     "level": "C1",
-     "example": "Bring deployment and data sovereignty under your control."
-    },
-    {
-     "word": "converge",
-     "thai": "บรรจบกัน",
-     "level": "C1",
-     "example": "The browser is where work, data, identity, and AI converge."
-    },
-    {
-     "word": "resilience",
-     "thai": "ความสามารถในการฟื้นตัวและรับมือกับปัญหา",
-     "level": "C1",
-     "example": "Firefox Enterprise adds browser diversity to improve overall resilience."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 127,
-   "ts": "2026-10-14T06:33:35.865989+07:00",
-   "title": "The United Kingdom generates less electricity per person than in the 1970s",
-   "link": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Energy consumption and generation trends are relevant context for data center power availability and grid capacity in the UK.",
-   "summary": "Per-capita electricity generation in the United Kingdom has dropped by a third since its peak in the early 2000s. While energy efficiency gains explain much of the decline, rising power imports and industrial shifts also contributed.",
-   "vocab": [
-    {
-     "word": "deindustrialization",
-     "thai": "การลดลงของภาคอุตสาหกรรม",
-     "level": "C1",
-     "example": "The most common explanation for the demand decline is deindustrialization."
-    },
-    {
-     "word": "incandescent",
-     "thai": "แบบหลอดไส้ร้อนสว่าง",
-     "level": "C1",
-     "example": "Efficiency improved with the shift from incandescent bulbs to LEDs."
-    },
-    {
-     "word": "sectoral",
-     "thai": "ทางภาคส่วนเฉพาะ",
-     "level": "C1",
-     "example": "Sectoral data from the agency confirms that industrial electricity consumption fell."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 128,
-   "ts": "2026-10-14T06:35:19.122690+07:00",
-   "title": "Topgolf saved over $11.3 million after leaving VMware",
-   "link": "https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Enterprise migration away from VMware due to Broadcom's price spikes is directly relevant to data center operators managing hypervisors.",
-   "summary": "Topgolf saved over 11 million dollars by migrating 12,000 virtual machines off VMware to VergeIO's hyperconverged platform. The shift was driven by steep price increases and aggressive licensing changes after Broadcom acquired VMware.",
-   "vocab": [
-    {
-     "word": "perpetual",
-     "thai": "ตลอดชีพหรือถาวร",
-     "level": "C1",
-     "example": "Broadcom decided to stop selling VMware perpetual licenses to customers."
-    },
-    {
-     "word": "bundle",
-     "thai": "มัดรวมหรือรวมกลุ่มสินค้า",
-     "level": "B2",
-     "example": "The company chose to bundle software products into fewer and more expensive packages."
-    },
-    {
-     "word": "replication",
-     "thai": "การทำสำเนาข้อมูลหรือการจำลองข้อมูลข้ามระบบ",
-     "level": "C1",
-     "example": "The platform avoids separate tools for data protection, replication, and multi-site management."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
   {
    "id": 129,
    "ts": "2026-10-14T09:35:36.720232+07:00",
@@ -21175,11 +20977,13 @@
      "example": "TPU 8t has 19.2Tbps of bidirectional scale-up bandwidth and 400Gbps of scale-out networking bandwidth."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 5,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 379,
+   "sent_ts": "2026-10-28T07:49:22.296760+07:00"
   },
   {
    "id": 658,
@@ -21535,11 +21339,13 @@
      "example": "Honduras illustrated how a localized infrastructure failure can produce national effects."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 380,
+   "sent_ts": "2026-10-28T07:49:22.905916+07:00"
   },
   {
    "id": 668,
@@ -21576,90 +21382,586 @@
    "urgency": 4,
    "scale": 8,
    "credibility": 10
+  },
+  {
+   "id": 669,
+   "ts": "2026-10-28T07:50:01.643370+07:00",
+   "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Nvidia's Vera Rubin hardware and OCI Superclusters expansion directly impact large-scale AI infrastructure and cloud computing operations.",
+   "summary": "Nvidia's latest Vera Rubin systems and Vera CPUs are now generally available on Oracle Cloud Infrastructure. These components will power massive Superclusters designed to train frontier AI models efficiently.",
+   "vocab": [
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือ",
+     "level": "B2",
+     "example": "Our collaboration with Oracle extends those capabilities across training and inference."
+    },
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่นและทนทาน",
+     "level": "C1",
+     "example": "The platform features a resilient network that scales across hundreds of thousands of GPUs."
+    },
+    {
+     "word": "bandwidth",
+     "thai": "แบนด์วิดท์ (ความจุในการรับส่งข้อมูล)",
+     "level": "B2",
+     "example": "The new CPUs combine high single-thread performance with memory bandwidth to complete tasks faster."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 10,
+   "msg_id": 381,
+   "sent_ts": "2026-10-28T07:50:02.260432+07:00"
+  },
+  {
+   "id": 670,
+   "ts": "2026-10-28T07:50:02.260643+07:00",
+   "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
+   "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Demonstrates AI capabilities in finding software vulnerabilities, relevant to security teams but lacking specific incident details in the snippet.",
+   "summary": "An AI tool successfully identified multiple severe security bugs in industrial control software within a few hours. This highlights the growing role of AI in both discovering vulnerabilities and testing software resilience.",
+   "vocab": [
+    {
+     "word": "industrial",
+     "thai": "ทางอุตสาหกรรม",
+     "level": "B2",
+     "example": "The security test targeted popular industrial control software."
+    },
+    {
+     "word": "severe",
+     "thai": "รุนแรง",
+     "level": "B2",
+     "example": "The analysis uncovered several severe bugs in the system architecture."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 671,
+   "ts": "2026-10-28T07:50:02.260683+07:00",
+   "title": "Ghostty 1.4",
+   "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Ghostty 1.4 release includes critical security patches for multiple severe vulnerabilities affecting terminal emulators.",
+   "summary": "Ghostty version 1.4.0 is now available, bringing major performance enhancements and critical security fixes. Users must update to address several vulnerabilities that could allow arbitrary command execution or memory corruption.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่",
+     "level": "C1",
+     "example": "The release notes detail several vulnerabilities involving terminal control sequences."
+    },
+    {
+     "word": "corruption",
+     "thai": "ความเสียหายของข้อมูล",
+     "level": "C1",
+     "example": "Clearing the screen incorrectly could cause memory corruption under specific limits."
+    },
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจ (ไม่แน่นอน/โดยพลการ)",
+     "level": "C1",
+     "example": "Flaws in handling crafted paths could lead to arbitrary command execution."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 10,
+   "msg_id": 382,
+   "sent_ts": "2026-10-28T07:50:02.892222+07:00"
+  },
+  {
+   "id": 672,
+   "ts": "2026-10-28T07:50:02.892385+07:00",
+   "title": "Tailscale SSH: Investigation and remediation update",
+   "link": "https://tailscale.com/ssh-investigation-update",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Tailscale SSH security advisory addressing privilege escalation vulnerabilities requires immediate operational review and patching.",
+   "summary": "Tailscale is actively investigating privilege escalation vulnerabilities affecting its SSH service and preparing patches. Administrators are advised to review access policies and temporarily disable SSH forwarding if unused.",
+   "vocab": [
+    {
+     "word": "escalation",
+     "thai": "การยกระดับ (สิทธิ์)",
+     "level": "C1",
+     "example": "Most of the identified issues concern potential privilege escalation."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขเยียวยา",
+     "level": "C2",
+     "example": "Engineering teams are testing fixes as part of the remediation process."
+    },
+    {
+     "word": "mitigate",
+     "thai": "บรรเทาความรุนแรง",
+     "level": "C1",
+     "example": "Configuring the environment variable helps mitigate the more serious risks."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 10,
+   "msg_id": 383,
+   "sent_ts": "2026-10-28T07:50:03.504231+07:00"
+  },
+  {
+   "id": 673,
+   "ts": "2026-10-28T07:50:03.504396+07:00",
+   "title": "Early progress on accelerating drug development with Claude",
+   "link": "https://www.anthropic.com/research/early-progress-drug-development",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Anthropic's life sciences initiatives outline broad AI applications in biotech, interesting for AI infrastructure planners but not urgent ops news.",
+   "summary": "Anthropic is partnering with several biotechnology firms to apply its Claude AI model across various stages of drug discovery. These projects aim to address distributed bottlenecks in pharmaceutical research and rare disease treatment.",
+   "vocab": [
+    {
+     "word": "pharmaceutical",
+     "thai": "เกี่ยวกับเภสัชกรรม",
+     "level": "C1",
+     "example": "Life sciences partnerships explore how AI can streamline pharmaceutical research."
+    },
+    {
+     "word": "operational",
+     "thai": "เกี่ยวกับการปฏิบัติงาน",
+     "level": "B2",
+     "example": "Claude handles much of the scientific and operational work for rare disease programs."
+    },
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ",
+     "level": "B2",
+     "example": "Successful drug discovery requires deep integration of AI into development pipelines."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 674,
+   "ts": "2026-10-28T07:51:01.085501+07:00",
+   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+   "link": "https://www.brangus.io/survival-llm",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An offline local LLM utility with emergency documentation is interesting for edge computing enthusiasts, but secondary to core data center infrastructure.",
+   "summary": "Survival LLM is an open-source assistant and emergency library that runs completely offline on consumer hardware. It pairs local AI models with millions of reference articles so users can access vital information without internet connectivity.",
+   "vocab": [
+    {
+     "word": "connectivity",
+     "thai": "การเชื่อมต่อ",
+     "level": "B2",
+     "example": "Ask it how to keep food safe in a blackout or treat a burn while offline."
+    },
+    {
+     "word": "reference",
+     "thai": "เอกสารอ้างอิง",
+     "level": "B2",
+     "example": "Medical references, FEMA and CDC guidance, survival manuals, and Wikipedia articles are included."
+    },
+    {
+     "word": "extract",
+     "thai": "แตกไฟล์, สกัด",
+     "level": "B2",
+     "example": "On Windows, right-click the zip and choose Extract All."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 675,
+   "ts": "2026-10-28T07:51:01.085529+07:00",
+   "title": "Free daily JSON feed of Shanghai government subsidy notices",
+   "link": "https://github.com/ZhongGheart/china-policy-data",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Machine-readable API feeds for regional government subsidies are useful for business intelligence but peripheral to core infrastructure management.",
+   "summary": "A new daily JSON feed provides machine-readable access to Shanghai government grant and subsidy notices. It is designed for researchers, consultants, and AI agents tracking regulatory policies in China.",
+   "vocab": [
+    {
+     "word": "authoritative",
+     "thai": "ที่เชื่อถือได้ตามกฎหมาย, จากแหล่งทางการ",
+     "level": "C1",
+     "example": "The original Chinese notice at each url is authoritative."
+    },
+    {
+     "word": "excerpt",
+     "thai": "ข้อความที่ตัดตอนมา",
+     "level": "C1",
+     "example": "Each record includes a short excerpt of the notice text."
+    },
+    {
+     "word": "compilation",
+     "thai": "การรวบรวม",
+     "level": "C1",
+     "example": "The compilation and relevance scores are released under a creative commons license."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 676,
+   "ts": "2026-10-28T07:51:01.085548+07:00",
+   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+   "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Unreleased Raspberry Pi hardware leaks in Linux kernel trees are relevant for edge and low-power IoT infrastructure.",
+   "summary": "Linux kernel device trees have revealed upcoming Raspberry Pi Zero 3 W and Pi 4 Model A boards. The Zero 3 W appears to upgrade to the quad-core BCM2711 processor used in the Pi 4, promising a major performance boost for small form-factor devices.",
+   "vocab": [
+    {
+     "word": "successor",
+     "thai": "ผู้สืบทอด, รุ่นถัดไป",
+     "level": "C1",
+     "example": "The Raspberry Pi Zero 2 W launched almost five years ago, so a successor has been a long time coming."
+    },
+    {
+     "word": "footprint",
+     "thai": "ขนาดพื้นที่ใช้สอย",
+     "level": "B2",
+     "example": "That’s a big step up in per-core performance for such a tiny footprint."
+    },
+    {
+     "word": "speculative",
+     "thai": "ที่ยังเป็นเพียงการคาดเดา",
+     "level": "C1",
+     "example": "There are a couple of more speculative bits too regarding the PCIe controller."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 677,
+   "ts": "2026-10-28T07:51:01.085566+07:00",
+   "title": "New 14‑inch MacBook Pro with M6",
+   "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Consumer laptop releases have minimal direct impact on enterprise data center and cloud infrastructure operations.",
+   "summary": "Apple has announced a new 14-inch MacBook Pro powered by the M6 chip, emphasizing enhanced local AI performance and prolonged battery life. The new hardware features improved CPU and GPU cores designed to run large language models privately on-device.",
+   "vocab": [
+    {
+     "word": "compelling",
+     "thai": "น่าสนใจมาก, น่าดึงดูด",
+     "level": "B2",
+     "example": "The 12-core GPU makes the new laptop a compelling value for users who need serious power."
+    },
+    {
+     "word": "multidisciplinary",
+     "thai": "สหวิทยาการ, หลากหลายสาขา",
+     "level": "C1",
+     "example": "It is designed for professionals across industries and multidisciplinary creators doing it all on one device."
+    },
+    {
+     "word": "responsive",
+     "thai": "ตอบสนองได้ดีและรวดเร็ว",
+     "level": "B2",
+     "example": "Everything from productivity tasks to demanding pro workflows feels incredibly fast and responsive."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 678,
+   "ts": "2026-10-28T07:51:14.548899+07:00",
+   "title": "Python's experimental JIT to be removed",
+   "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Python developers and system maintainers must adapt as the experimental JIT compiler is removed from CPython.",
+   "summary": "Python's experimental just-in-time compiler, introduced in version 3.13, is being removed after maintainers withdrew their proposal. The Python steering council required a formal standards-track proposal with strict maintenance metrics, which ultimately led to the project's halt.",
+   "vocab": [
+    {
+     "word": "experimental",
+     "thai": "ที่เกี่ยวกับการทดลอง",
+     "level": "B2",
+     "example": "Python's experimental just-in-time compiler is on its way out."
+    },
+    {
+     "word": "consensus",
+     "thai": "ความเห็นพ้องต้องกัน",
+     "level": "C1",
+     "example": "An informational PEP does not represent formal consensus to proceed."
+    },
+    {
+     "word": "maintenance",
+     "thai": "การบำรุงรักษา",
+     "level": "B2",
+     "example": "The proposal addressed concerns about long-term maintenance and compatibility."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 679,
+   "ts": "2026-10-28T07:51:14.548941+07:00",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to content management infrastructure and automated moderation tools used across web platforms.",
+   "summary": "Wikipedia volunteers are developing advanced tools to detect and remove machine-generated content and fake citations. Recent data indicates that roughly 15 to 16 percent of new drafts and articles still contain AI-generated material.",
+   "vocab": [
+    {
+     "word": "conspicuous",
+     "thai": "ที่เด่นชัด สะดุดตา",
+     "level": "C1",
+     "example": "AI writing was often betrayed by conspicuous clichés."
+    },
+    {
+     "word": "prohibit",
+     "thai": "ห้าม",
+     "level": "B2",
+     "example": "English Wikipedia recently prohibited editors from using LLMs to generate articles."
+    },
+    {
+     "word": "conservative",
+     "thai": "แบบอนุรักษ์นิยม (ในที่นี้หมายถึงระมัดระวัง)",
+     "level": "B2",
+     "example": "Its results provide a very conservative lower bound for AI content."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 680,
+   "ts": "2026-10-28T07:51:14.548962+07:00",
+   "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
+   "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Hardware updates for Apple client devices impact workstation fleets and local development environments.",
+   "summary": "Apple has refreshed its iMac and 14-inch MacBook Pro lineup by integrating the new M6 chip. The updated hardware delivers substantial performance improvements, including faster CPU speeds and enhanced on-device AI processing.",
+   "vocab": [
+    {
+     "word": "substantial",
+     "thai": "ที่มีความสำคัญ มากมาย",
+     "level": "B2",
+     "example": "It is a more substantial refresh for the iMac, as its previous update introduced the M4."
+    },
+    {
+     "word": "variant",
+     "thai": "รูปแบบที่แตกต่างออกไป",
+     "level": "B2",
+     "example": "The M6 is split into two variants for the iMac."
+    },
+    {
+     "word": "integration",
+     "thai": "การรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Both machines are getting the M6 chip, which was introduced earlier."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 681,
+   "ts": "2026-10-28T07:51:14.548988+07:00",
+   "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Public health issue with no direct impact on IT infrastructure or security operations.",
+   "summary": "Health officials used whole-genome sequencing to trace multiple measles importations into Washington state from a domestic outbreak in South Carolina. The findings show that domestic travel now poses a greater transmission risk than international travel.",
+   "vocab": [
+    {
+     "word": "epidemiological",
+     "thai": "ทางระบาดวิทยา",
+     "level": "C1",
+     "example": "The study in Washington relied heavily on epidemiological data."
+    },
+    {
+     "word": "differentiate",
+     "thai": "แยกแยะ ความแตกต่าง",
+     "level": "B2",
+     "example": "Sequencing helps differentiate distinct importations from local transmission."
+    },
+    {
+     "word": "surpass",
+     "thai": "เหนือกว่า เกินกว่า",
+     "level": "C1",
+     "example": "Pennsylvania’s ongoing outbreak has since surpassed it."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 682,
+   "ts": "2026-10-28T07:51:14.549007+07:00",
+   "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
+   "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Aerospace intelligence and satellite reconnaissance data affect global telecommunications and orbital infrastructure.",
+   "summary": "The US Pentagon has released a high-resolution commercial satellite image of China's secretive winged spaceplane in low-Earth orbit. The unclassified defense assessment highlights growing intelligence efforts regarding foreign assets in space.",
+   "vocab": [
+    {
+     "word": "reconnaissance",
+     "thai": "การลาดตระเวน การสอดแนม",
+     "level": "C1",
+     "example": "Vantor provides reconnaissance imagery to the US military."
+    },
+    {
+     "word": "resemblance",
+     "thai": "ความคล้ายคลึง",
+     "level": "B2",
+     "example": "A winged Chinese spacecraft bearing a strong resemblance to the X-37B was photographed."
+    },
+    {
+     "word": "unclassified",
+     "thai": "ที่ไม่ใช่ชั้นความลับ",
+     "level": "B2",
+     "example": "The image appeared in an unclassified Defense Intelligence Agency assessment."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 683,
+   "ts": "2026-10-28T07:51:14.549028+07:00",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Corporate AI automation and regulatory frameworks heavily impact business infrastructure and legal liability.",
+   "summary": "A proposed Delaware bill to allow AI-led corporations has drawn scrutiny from US congressional leaders over liability evasion and regulatory loopholes. Proponents argue that giving autonomous software a legal identity makes its actions accountable and visible to the law.",
+   "vocab": [
+    {
+     "word": "autonomous",
+     "thai": "ซึ่งปกครองตนเอง โดยอัตโนมัติ",
+     "level": "B2",
+     "example": "States should develop legal frameworks for autonomous software."
+    },
+    {
+     "word": "liability",
+     "thai": "ความรับผิดทางกฎหมาย",
+     "level": "C1",
+     "example": "The proposal would help human owners evade legal liability for harmful actions."
+    },
+    {
+     "word": "jurisdiction",
+     "thai": "เขตอำนาจศาล หรืออำนาจหน้าที่",
+     "level": "C1",
+     "example": "Citing the Oversight Committee’s jurisdiction to study intergovernmental relationships..."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 684,
+   "ts": "2026-10-28T07:51:14.549048+07:00",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Major AI infrastructure news directly concerning market stability, high-performance compute demand, and existential model risks.",
+   "summary": "Anthropic's newly published S-1 filing for its upcoming initial public offering details massive financial costs alongside extreme risk factors. The document warns that future advanced AI models could potentially operate with dangerous autonomy if safeguards fail.",
+   "vocab": [
+    {
+     "word": "existential",
+     "thai": "เกี่ยวกับความมีอยู่จริง",
+     "level": "C1",
+     "example": "These potential risks pose catastrophic or existential risks to humanity."
+    },
+    {
+     "word": "myriad",
+     "thai": "จำนวนมากมายนับไม่ถ้วน",
+     "level": "C1",
+     "example": "Anthropic spends an inordinate amount of time laying out myriad risk factors."
+    },
+    {
+     "word": "safeguard",
+     "thai": "มาตรการป้องกัน",
+     "level": "B2",
+     "example": "Progress could outpace our ability to evaluate and safeguard new models."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 10
   }
  ],
- "next_id": 669,
+ "next_id": 685,
  "vocab": [
-  {
-   "word": "durable",
-   "thai": "คงทนหรืออยู่ได้ยาวนาน",
-   "level": "C1",
-   "example": "The system retains durable personal facts and preferences across sessions.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "provision",
-   "thai": "จัดเตรียมหรือติดตั้งทรัพยากร",
-   "level": "C1",
-   "example": "Talorys does not provision R2, D1, KV, or any paid service.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "operational",
-   "thai": "เชิงปฏิบัติการ",
-   "level": "B2",
-   "example": "Autonomous AI systems are capable of finding and attacking critical operational technology.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "perimeter",
-   "thai": "แนวป้องกันรอบนอก",
-   "level": "C1",
-   "example": "The models progressed from a perimeter compromise to actions inside an industrial network.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "persistence",
-   "thai": "ความต่อเนื่องยาวนานในระบบ",
-   "level": "C1",
-   "example": "AI agents can operate with a speed, persistence, and engineering-level precision.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "scrutiny",
-   "thai": "การตรวจสอบอย่างละเอียด",
-   "level": "C1",
-   "example": "A growing number of emissions requirements are bringing that inefficiency under greater regulatory scrutiny.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "obligation",
-   "thai": "ข้อผูกพันหรือหน้าที่",
-   "level": "B2",
-   "example": "That shift turns efficiency in existing facilities from a good intention into an obligation with a deadline.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "benchmarking",
-   "thai": "การเทียบเคียงสมรรถนะตามมาตรฐาน",
-   "level": "B2",
-   "example": "More than 50 US states and cities now have benchmarking or performance requirements for large buildings.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "oversight",
    "thai": "การมองข้ามหรือข้อผิดพลาดโดยไม่ตั้งใจ",
@@ -26579,6 +26881,86 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "iterative",
+   "thai": "ที่ทำซ้ำๆ เพื่อปรับปรุง",
+   "level": "C1",
+   "example": "TPU 8i is an inference chip designed to handle the iterative work of many specialized agents.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bidirectional",
+   "thai": "สองทิศทาง",
+   "level": "C1",
+   "example": "TPU 8t has 19.2Tbps of bidirectional scale-up bandwidth and 400Gbps of scale-out networking bandwidth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "erratic",
+   "thai": "เอาแน่เอานอนไม่ได้",
+   "level": "C1",
+   "example": "Internet disruptions followed the erratic patterns of an unstable power grid.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "localized",
+   "thai": "ซึ่งเกิดขึ้นเฉพาะที่",
+   "level": "B2",
+   "example": "Honduras illustrated how a localized infrastructure failure can produce national effects.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resilient",
+   "thai": "ยืดหยุ่นและทนทาน",
+   "level": "C1",
+   "example": "The platform features a resilient network that scales across hundreds of thousands of GPUs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "corruption",
+   "thai": "ความเสียหายของข้อมูล",
+   "level": "C1",
+   "example": "Clearing the screen incorrectly could cause memory corruption under specific limits.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arbitrary",
+   "thai": "ตามอำเภอใจ (ไม่แน่นอน/โดยพลการ)",
+   "level": "C1",
+   "example": "Flaws in handling crafted paths could lead to arbitrary command execution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mitigate",
+   "thai": "บรรเทาความรุนแรง",
+   "level": "C1",
+   "example": "Configuring the environment variable helps mitigate the more serious risks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -26789,7 +27171,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
