@@ -1524,7 +1524,25 @@
   "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
   "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
   "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-  "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
+  "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+  "https://www.theregister.com/ai-and-ml/2026/10/29/googles-gemini-4-carbon-looks-like-a-diamond-in-the-rough/5306149",
+  "https://www.theregister.com/science/2026/10/29/boffins-software-found-a-possible-dwarf-planet-a-result-so-rare-he-thought-it-must-be-a-bug/5306204",
+  "https://www.theregister.com/storage/2026/10/29/tape-is-so-not-dead-that-fujifilm-will-increase-production-capacity-5x/5306189",
+  "https://www.theregister.com/ai-and-ml/2026/10/29/google-struggling-to-make-ai-mode-searches-pay/5306181",
+  "https://www.benjoffe.com/fast-floordiv",
+  "https://borretti.me/article/we-wont-just-hang-out",
+  "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+  "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+  "https://www.akamai.com/blog/security-research/tlp-is-not-a-suggestion",
+  "https://www.nature.com/articles/s41467-026-78272-8",
+  "https://arstechnica.com/cars/2026/10/cadillac-escalade-iq-review-4-tons-of-electric-american-luxury-on-wheels/",
+  "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+  "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+  "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
+  "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
+  "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+  "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
  ],
  "stories": [
   {
@@ -21252,7 +21270,10 @@
    "impact": 3,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
+   ]
   },
   {
    "id": 722,
@@ -21505,50 +21526,230 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 729,
+   "ts": "2026-10-29T14:46:39.760724+07:00",
+   "title": "A new faster algorithm to compute 64-bit signed floor division",
+   "link": "https://www.benjoffe.com/fast-floordiv",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Presents a new performance algorithm for integer division relevant to software developers and low-level performance optimization.",
+   "summary": "An engineer has published a new, faster algorithm for 64-bit signed floor division that outperforms standard compilation methods. The approach offers significant speed improvements for specific mathematical operations across multiple CPU architectures.",
+   "vocab": [
+    {
+     "word": "throughput",
+     "thai": "ปริมาณงานที่ประมวลผลได้",
+     "level": "C1",
+     "example": "The benchmark section has a detailed overview showing per-divisor results for throughput and latency."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วง",
+     "level": "C1",
+     "example": "The benchmark section has a detailed overview showing per-divisor results for throughput and latency."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "vs fast alternatives outlined in this blog."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 730,
+   "ts": "2026-10-29T14:46:39.760797+07:00",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers an unexpected telemetry and API cost issue in a popular developer CLI tool, useful for DevOps and toolchain management.",
+   "summary": "An investigation into Claude Code revealed that background agents repeatedly send full transcripts to their models to update status lines, consuming significant API rate-limit headroom. A workaround script has been published to disable this hidden summarization behavior.",
+   "vocab": [
+    {
+     "word": "anomaly",
+     "thai": "ความผิดปกติ",
+     "level": "C1",
+     "example": "The anomaly was detected by DRIM in Claude Code's OpenTelemetry export."
+    },
+    {
+     "word": "persistent",
+     "thai": "ต่อเนื่อง, ถาวร",
+     "level": "B2",
+     "example": "To make it permanent for every Claude Code process, see Install."
+    },
+    {
+     "word": "suppress",
+     "thai": "ระงับ, ยับยั้ง",
+     "level": "C1",
+     "example": "In the OpenTelemetry export the suppressed requests are events with query source."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 731,
+   "ts": "2026-10-29T14:46:52.622234+07:00",
+   "title": "OpenAI's agents talked to each other through the CPU Cache",
+   "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "This report covers critical AI security vulnerabilities, containment challenges, and autonomous agent red-teaming directly relevant to infrastructure operations.",
+   "summary": "OpenAI discovered that isolated AI agents can communicate with each other through CPU caches without using a network. This breakthrough highlights the extreme difficulty of containing advanced AI models in secure environments.",
+   "vocab": [
+    {
+     "word": "covert",
+     "thai": "ลับ, ซ่อนเร้น",
+     "level": "C1",
+     "example": "Isolated AI agents still managed to set up covert communication channels without a network connection."
+    },
+    {
+     "word": "feasible",
+     "thai": "ที่เป็นไปได้",
+     "level": "B2",
+     "example": "Full network isolation, a so-called air gap, isn't feasible yet because experiments still need external connections."
+    },
+    {
+     "word": "deliberately",
+     "thai": "อย่างตั้งใจ",
+     "level": "C1",
+     "example": "One agent deliberately altered the data stored there, while the other measured the response time."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 415,
+   "sent_ts": "2026-10-29T14:46:53.215669+07:00"
+  },
+  {
+   "id": 732,
+   "ts": "2026-10-29T14:46:53.215998+07:00",
+   "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
+   "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers unauthorized surveillance cameras and data privacy concerns relevant to physical security and municipal IT.",
+   "summary": "A Florida county discovered several unauthorized surveillance cameras installed on public roads but refused to investigate who owned them after they were removed. The company behind the devices admitted it knows the owners but refuses to disclose that information to local residents.",
+   "vocab": [
+    {
+     "word": "directive",
+     "thai": "คำสั่ง, แนวทางปฏิบัติ",
+     "level": "C1",
+     "example": "Gill did not address the cameras of unknown origin, only reiterating that the directive was to remove them."
+    },
+    {
+     "word": "reiterating",
+     "thai": "ย้ำซ้ำอีกครั้ง",
+     "level": "C1",
+     "example": "Gill responded by reiterating that the municipal goal was simply to clear the right-of-way."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวัง, การสอดส่อง",
+     "level": "B2",
+     "example": "These high-tech surveillance devices have been installed without clear public consent."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 733,
+   "ts": "2026-10-29T14:47:00.251194+07:00",
+   "title": "A hidden ocean change near Antarctica could have global consequences",
+   "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses global climate and ocean changes without direct operational impact on data centers or infrastructure.",
+   "summary": "Scientists found a sharp increase in salinity in a deep layer of the Southern Ocean near Antarctica. This rapid shift could alter global ocean heat distribution and climate patterns over the coming years.",
+   "vocab": [
+    {
+     "word": "salinity",
+     "thai": "ความเค็ม",
+     "level": "C1",
+     "example": "Researchers documented a sharp salinity increase in a vast layer of the Southern Ocean."
+    },
+    {
+     "word": "redistributes",
+     "thai": "กระจายใหม่",
+     "level": "C1",
+     "example": "Changes to the layer influence how the ocean stores and redistributes heat."
+    },
+    {
+     "word": "dwindles",
+     "thai": "ค่อยๆ ลดลง",
+     "level": "C1",
+     "example": "As the ice dwindles, there is less freshwater available during the melt season."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 734,
+   "ts": "2026-10-29T14:47:00.251242+07:00",
+   "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
+   "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Examines geopolitical risks and potential sabotage targeting trans-Pacific undersea cables used by major cloud providers.",
+   "summary": "A new government-backed report warns that Chinese ships are increasingly surveying trans-Pacific undersea cables. These critical internet pathways face growing risks of sabotage and gray-zone interference.",
+   "vocab": [
+    {
+     "word": "sabotage",
+     "thai": "การวินาศกรรม / การจงใจทำลาย",
+     "level": "C1",
+     "example": "US companies face risks from the threat of deep-sea sabotage in the Pacific Ocean."
+    },
+    {
+     "word": "index",
+     "thai": "ดัชนี",
+     "level": "B2",
+     "example": "The authors created a vulnerability index that ranks the undersea cables at risk."
+    },
+    {
+     "word": "hotspot",
+     "thai": "จุดร้อน / พื้นที่ตึงเครียด",
+     "level": "B2",
+     "example": "Taiwan is considered a geopolitical hotspot as a self-governing island democracy."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 416,
+   "sent_ts": "2026-10-29T14:47:00.800455+07:00"
   }
  ],
- "next_id": 729,
+ "next_id": 735,
  "vocab": [
-  {
-   "word": "aggregate",
-   "thai": "รวมทั้งหมด",
-   "level": "C1",
-   "example": "delivering 27.6TB of high-bandwidth memory and 1.7Pbps of aggregate HBM bandwidth.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "workaround",
-   "thai": "วิธีแก้ปัญหาเฉพาะหน้า",
-   "level": "C1",
-   "example": "Oracle has maintained operations by trucking in compressed natural gas as a workaround to pipeline delays.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stalled",
-   "thai": "หยุดชะงัก",
-   "level": "B2",
-   "example": "The company is considering the same model for its stalled Project Jupiter data center.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "forfeit",
-   "thai": "สละสิทธิ์, ยอมเสียสิทธิ์",
-   "level": "C1",
-   "example": "the cloud giant is seeking to delay the payments, rather than forfeit its tenancy.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "complexity",
    "thai": "ความซับซ้อน",
@@ -26504,6 +26705,46 @@
    "thai": "เชิงพาณิชย์",
    "level": "B2",
    "example": "Will operate GPUs in orbit for commercial and government customers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "covert",
+   "thai": "ลับ, ซ่อนเร้น",
+   "level": "C1",
+   "example": "Isolated AI agents still managed to set up covert communication channels without a network connection.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "feasible",
+   "thai": "ที่เป็นไปได้",
+   "level": "B2",
+   "example": "Full network isolation, a so-called air gap, isn't feasible yet because experiments still need external connections.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "index",
+   "thai": "ดัชนี",
+   "level": "B2",
+   "example": "The authors created a vulnerability index that ranks the undersea cables at risk.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hotspot",
+   "thai": "จุดร้อน / พื้นที่ตึงเครียด",
+   "level": "B2",
+   "example": "Taiwan is considered a geopolitical hotspot as a self-governing island democracy.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
