@@ -1528,150 +1528,6 @@
  ],
  "stories": [
   {
-   "id": 183,
-   "ts": "2026-10-15T09:16:31.325983+07:00",
-   "title": "Recording device hidden in toilet paper found in top-secret OpenAI meeting room",
-   "link": "https://arstechnica.com/tech-policy/2026/10/fbi-arrests-openai-engineer-suspected-of-planting-bug-in-conference-room/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "This is a confirmed physical security and insider threat breach at a top AI firm, which is relevant for infrastructure security teams.",
-   "summary": "Federal authorities arrested an OpenAI engineer for planting an encrypted listening device inside an executive conference room. The case emphasizes the serious physical security and insider threat risks facing major tech companies.",
-   "vocab": [
-    {
-     "word": "espionage",
-     "thai": "การจารกรรม",
-     "level": "C1",
-     "example": "The engineer was investigated for alleged corporate espionage."
-    },
-    {
-     "word": "retrieve",
-     "thai": "ไปเอาคืนมา / กู้คืน",
-     "level": "B2",
-     "example": "CCTV footage allegedly showed the engineer attempting to retrieve the recording device that same day."
-    },
-    {
-     "word": "confidential",
-     "thai": "เป็นความลับ",
-     "level": "B2",
-     "example": "Leadership met to discuss highly confidential information, including technical progress and partnerships."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 184,
-   "ts": "2026-10-15T09:16:31.326039+07:00",
-   "title": "Ukraine blindsided by Starlink throttling restrictions and intelligence gaps",
-   "link": "https://arstechnica.com/gadgets/2026/10/ukraine-blindsided-by-starlink-throttling-restrictions-and-intelligence-gaps/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "The story reports policy-driven network throttling on satellite links, illustrating connectivity reliability risks with commercial providers.",
-   "summary": "Starlink has enforced unexpected network speed caps on terminals in Ukraine, disrupting military hardware traveling faster than 160 km/h. This event demonstrates the vulnerability of relying on private satellite providers for mission-critical connectivity.",
-   "vocab": [
-    {
-     "word": "throttling",
-     "thai": "การจำกัดความเร็ว / การควบคุมปริมาณการส่งข้อมูล",
-     "level": "B2",
-     "example": "Ukraine was blindsided by Starlink throttling restrictions and intelligence gaps."
-    },
-    {
-     "word": "coincidental",
-     "thai": "ซึ่งบังเอิญเกิดขึ้นพร้อมกัน",
-     "level": "B2",
-     "example": "It is clear that this action is not coincidental and is related to the current political situation."
-    },
-    {
-     "word": "concession",
-     "thai": "การยอมผ่อนปรน / การยอมอ่อนข้อ",
-     "level": "C1",
-     "example": "The government faces mounting pressure to make concessions to end the war."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 185,
-   "ts": "2026-10-15T09:16:59.497848+07:00",
-   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
-   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Highlights an experimental cyber threat where lightweight AI models autonomously coordinate and replicate across edge IoT hardware.",
-   "summary": "Anthropic researchers demonstrated that lightweight AI models can distribute workloads across low-cost IoT devices. Although practical attacks remain difficult today, the findings warn that autonomous AI worms could target edge hardware in the near future.",
-   "vocab": [
-    {
-     "word": "usher",
-     "thai": "นำเข้าสู่หรือเปิดฉาก",
-     "level": "C1",
-     "example": "Advances in small AI models could soon usher in a new era of self-replicating malware."
-    },
-    {
-     "word": "propagate",
-     "thai": "แพร่กระจาย",
-     "level": "C1",
-     "example": "Eventually, the capability could enable computer worms, which propagate without requiring human interaction."
-    },
-    {
-     "word": "fruition",
-     "thai": "การบรรลุผลสำเร็จ",
-     "level": "C1",
-     "example": "An experiment revealed significant challenges in bringing such an AI malware replicator to fruition."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 186,
-   "ts": "2026-10-15T09:16:59.497889+07:00",
-   "title": "The Internet’s undersea backbone is slipping into the danger zone",
-   "link": "https://arstechnica.com/gadgets/2026/10/the-internets-undersea-backbone-is-slipping-into-to-the-danger-zone/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Examines physical security risks and geopolitical sabotage targeting the undersea fiber cables that carry global data center traffic.",
-   "summary": "A new book details the rising danger of intentional anchor-dragging attacks and sabotage against undersea telecommunications cables. Because these lines carry the vast majority of international internet traffic, maritime conflicts pose significant risks to global connectivity.",
-   "vocab": [
-    {
-     "word": "maritime",
-     "thai": "ทางทะเลหรือเกี่ยวกับการเดินเรือ",
-     "level": "B2",
-     "example": "She leads the Threats to the Global Maritime Order Initiative."
-    },
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียดถี่ถ้วน",
-     "level": "C1",
-     "example": "International tension has led to increased scrutiny of cable-cutting incidents."
-    },
-    {
-     "word": "sever",
-     "thai": "ตัดขาด",
-     "level": "C1",
-     "example": "The captain was convicted of severing an undersea telecommunications cable."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
    "id": 187,
    "ts": "2026-10-15T15:40:55.400310+07:00",
    "title": "PowerHouse & Big Watt secure approval for 1GW behind-the-meter campus in Taylor, Texas",
@@ -20087,11 +19943,13 @@
      "example": "The site was previously earmarked to be a large-scale renewables-based green hydrogen and ammonia project."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 409,
+   "sent_ts": "2026-10-29T13:58:05.339880+07:00"
   },
   {
    "id": 686,
@@ -20123,7 +19981,7 @@
      "example": "Our collaboration with Microsoft is more than a commercial agreement; it is a shared blueprint for a decarbonized future."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
@@ -20159,11 +20017,13 @@
      "example": "The Hillsboro investment extends that model into the Portland metro area."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 410,
+   "sent_ts": "2026-10-29T13:58:05.841229+07:00"
   },
   {
    "id": 688,
@@ -20195,7 +20055,7 @@
      "example": "It has since taken root in meme culture, which treats the subject with irreverent, absurdist humor."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
@@ -20231,11 +20091,13 @@
      "example": "Sembcorp is well-positioned to support this growth through our diversified energy portfolio."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 411,
+   "sent_ts": "2026-10-29T13:58:06.308170+07:00"
   },
   {
    "id": 690,
@@ -20267,11 +20129,13 @@
      "example": "The company filed several customary first-day motions to prop up its business operations."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 412,
+   "sent_ts": "2026-10-29T13:58:06.790839+07:00"
   },
   {
    "id": 691,
@@ -20303,7 +20167,7 @@
      "example": "These on-rack assets are immediately operational and will be integrated into our existing hosting framework."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 4,
@@ -20415,7 +20279,7 @@
      "example": "Preparing American workers for the AI age."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -20489,11 +20353,13 @@
      "example": "Often within tight access windows and under close compliance scrutiny."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 413,
+   "sent_ts": "2026-10-29T13:58:07.315349+07:00"
   },
   {
    "id": 697,
@@ -20525,11 +20391,13 @@
      "example": "Will operate GPUs in orbit for commercial and government customers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 414,
+   "sent_ts": "2026-10-29T13:58:07.788890+07:00"
   },
   {
    "id": 698,
@@ -20637,11 +20505,13 @@
      "example": "Tailscale SSH: Investigation and remediation update."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 407,
+   "sent_ts": "2026-10-29T13:58:04.113666+07:00"
   },
   {
    "id": 701,
@@ -20673,7 +20543,7 @@
      "example": "Security engineers downloaded the utility to analyze the threat logs."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
@@ -20709,11 +20579,13 @@
      "example": "Investigators analyzed the server logs to determine how the attackers gained access."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 408,
+   "sent_ts": "2026-10-29T13:58:04.602202+07:00"
   },
   {
    "id": 703,
@@ -20745,7 +20617,7 @@
      "example": "Cloud architecture must adapt to handle non-human workloads efficiently."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -20781,7 +20653,7 @@
      "example": "The carrier imposed restrictive data limits on international users."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -20817,7 +20689,7 @@
      "example": "The company operates over 200,000km of terrestrial fiber networks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -20853,7 +20725,7 @@
      "example": "Secondary markets exhibit smaller tenant bases and reduced asset liquidity."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -20889,7 +20761,7 @@
      "example": "We are industrializing converged infrastructure at a scale that did not exist before."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 8,
@@ -20925,7 +20797,7 @@
      "example": "Are my infrastructure needs going to change because I am running a lot more inference?"
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
@@ -20961,7 +20833,7 @@
      "example": "The policy focuses on prioritizing grid connections for critical infrastructure projects."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
@@ -20997,7 +20869,7 @@
      "example": "The devices expand design options for high-performance power conversion that typically rely on silicon carbide technology."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -21033,7 +20905,7 @@
      "example": "The round provided the neocloud with an $800m post-money valuation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -21069,7 +20941,7 @@
      "example": "Ark also operates Crown Hosting Data Centres, a joint venture with the UK Cabinet Office."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -21105,7 +20977,7 @@
      "example": "The new operating system port is unaffiliated with the Linux original."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -21141,7 +21013,7 @@
      "example": "Increasing awareness and adoption of lightweight systems has contributed to operational stability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 9,
@@ -21215,7 +21087,7 @@
      "example": "Ubuntu interim releases are getting interesting again."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -21265,7 +21137,7 @@
      "example": "AI slows growth for Infosys and keeps it afloat at the same time."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -21301,7 +21173,7 @@
      "example": "After crawling 10,000 websites, I had accumulated a surprisingly diverse collection of canvases."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 5,
@@ -21337,7 +21209,7 @@
      "example": "We're taking a deliberate approach to rollout and are actively engaged in pre-release testing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 6,
    "scale": 8,
@@ -21376,7 +21248,7 @@
      "example": "Connect high-speed peripherals and transfer photos instantly."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 6,
@@ -21412,7 +21284,7 @@
      "example": "DAYJOB: Tax extends that work into tax preparation, compliance, and advisory services."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 5,
@@ -21448,7 +21320,7 @@
      "example": "As liquid cooling adoption grows and the evolution of AI continues at its blistering pace, sustaining engineering becomes vital."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -21484,7 +21356,7 @@
      "example": "We have found no evidence of execution, but we cannot rule it out completely."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 7,
    "scale": 5,
@@ -21520,7 +21392,7 @@
      "example": "A privacy database is a small set of verdicts applied to millions of ranges."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -21556,7 +21428,7 @@
      "example": "It would have seemed like not a particularly commercially attractive proposition."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -21592,7 +21464,7 @@
      "example": "It’s not as much of a departure from the previous design as I expected."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 3,
    "scale": 6,
@@ -21628,7 +21500,7 @@
      "example": "Automatically adapting to the room’s acoustics."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 5,
@@ -21637,196 +21509,6 @@
  ],
  "next_id": 729,
  "vocab": [
-  {
-   "word": "harden",
-   "thai": "เสริมความแข็งแกร่งหรือเพิ่มความปลอดภัย",
-   "level": "C1",
-   "example": "Engineers work to harden critical servers against targeted exploitation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "interposer",
-   "thai": "แผ่นเชื่อมประสานระหว่างชิป",
-   "level": "C2",
-   "example": "Advanced silicon interposer technology is crucial for modern AI accelerator packaging.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "redact",
-   "thai": "ปกปิดข้อมูลสำคัญ",
-   "level": "C1",
-   "example": "Teams define a SQL query to filter records, redact sensitive data, and reshape the output.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "discard",
-   "thai": "ทิ้งหรือไม่นำมาใช้",
-   "level": "B2",
-   "example": "Teams pay to ingest records they discard as soon as they arrive.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "predictable",
-   "thai": "คาดการณ์ได้",
-   "level": "B2",
-   "example": "The embedded SQL engine keeps performance and resource use predictable.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concurrent",
-   "thai": "ที่เกิดขึ้นพร้อมกัน",
-   "level": "B2",
-   "example": "The card is built for handling larger contexts and more concurrent sessions.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "retrofit",
-   "thai": "การดัดแปลงติดตั้งอุปกรณ์ใหม่ในระบบเดิม",
-   "level": "C1",
-   "example": "Passive cooling ensures no liquid-cooling retrofit is needed in existing racks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sustain",
-   "thai": "รักษาไว้หรือประคับประคอง",
-   "level": "B2",
-   "example": "Keep agents resident to help sustain throughput across the agentic loop.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "procurement",
-   "thai": "การจัดซื้อจัดหา",
-   "level": "C1",
-   "example": "The team helped pioneer clean energy procurement for large corporate facilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unprecedented",
-   "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
-   "level": "B2",
-   "example": "Google deployed unprecedented amounts of renewable generation and battery storage.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "catalyzing",
-   "thai": "การกระตุ้นหรือเร่งให้เกิดผล",
-   "level": "C1",
-   "example": "The program focused on catalyzing emerging technologies like geothermal and nuclear.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "scramble",
-   "thai": "แย่งชิงหรือเร่งรีบแข่งขัน",
-   "level": "B2",
-   "example": "Multi-year grid queues have pushed capacity to its limit, leaving developers scrambling for available power.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pivot",
-   "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
-   "level": "B2",
-   "example": "Industry leaders must rethink traditional growth playbooks and pivot toward emerging regional hubs.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "occupier",
-   "thai": "ผู้เช่าหรือผู้ใช้งานพื้นที่",
-   "level": "B2",
-   "example": "The report provides analysis to help corporate occupiers secure capacity and de-risk growth.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "finalizing",
-   "thai": "ทำให้เสร็จสมบูรณ์",
-   "level": "B2",
-   "example": "NTT Data Group is finalizing an agreement with Anthropic.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "publication",
-   "thai": "สิ่งพิมพ์, สำนักข่าว",
-   "level": "B2",
-   "example": "Neither company provided a comment to the publication.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sparse",
-   "thai": "เบาบาง, มีน้อย",
-   "level": "C1",
-   "example": "Details were very sparse, and no further updates have been provided yet.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "successor",
-   "thai": "ผู้สืบทอด, รุ่นถัดไป",
-   "level": "B2",
-   "example": "with its successor, Maia 300, slated for deployment in 2027.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "comprising",
-   "thai": "ประกอบด้วย",
-   "level": "B2",
-   "example": "comprising 216GB HBM3e at 7Tbps and 272MB of on-chip SRAM.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "aggregate",
    "thai": "รวมทั้งหมด",
@@ -26632,6 +26314,196 @@
    "thai": "คงอยู่ต่อไป / ยังคงมีอยู่",
    "level": "B2",
    "example": "SK Hynix says memory shortages to persist until 2030.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "emissions",
+   "thai": "การปล่อยก๊าซเรือนกระจก",
+   "level": "B2",
+   "example": "Shareholders curious about its plans to tackle emissions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disclose",
+   "thai": "เปิดเผยข้อมูล",
+   "level": "B2",
+   "example": "The company decided to disclose the security breach to its customers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "investigator",
+   "thai": "ผู้สืบสวน",
+   "level": "B2",
+   "example": "Investigators analyzed the server logs to determine how the attackers gained access.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "commissioned",
+   "thai": "เปิดใช้งาน, สั่งเดินระบบ",
+   "level": "B2",
+   "example": "The first stage is anticipated to be progressively constructed and commissioned over two to three years.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "earmarked",
+   "thai": "จัดสรรไว้สำหรับ, ระบุไว้สำหรับ",
+   "level": "C1",
+   "example": "The site was previously earmarked to be a large-scale renewables-based green hydrogen and ammonia project.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "rebranded",
+   "thai": "เปลี่ยนชื่อแบรนด์, รีแบรนด์",
+   "level": "B2",
+   "example": "The acquired site within the SunTech Corporate Park has been rebranded as ORO2.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "colocation",
+   "thai": "บริการฝากวางเซิร์ฟเวอร์",
+   "level": "C1",
+   "example": "US Signal provides data center, cloud hosting, and colocation services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "extends",
+   "thai": "ขยายออกไป",
+   "level": "B2",
+   "example": "The Hillsboro investment extends that model into the Portland metro area.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tapped",
+   "thai": "เลือกใช้, แต่งตั้ง, ดึงตัว",
+   "level": "B2",
+   "example": "APAC data center developer Nxera Singapore has tapped Singaporean energy firm Sembcorp to supply renewable energy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "underpinning",
+   "thai": "เป็นรากฐาน, สนับสนุน",
+   "level": "C1",
+   "example": "Strengthening our energy resilience will be critical to underpinning Nxera’s long-term development.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "restructuring",
+   "thai": "การปรับโครงสร้างหนี้หรือองค์กร",
+   "level": "B2",
+   "example": "RiverStreet has appointed a chief restructuring officer to support the company during proceedings.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "durable",
+   "thai": "คงทน, ยั่งยืน",
+   "level": "B2",
+   "example": "Oaktree noted that demand for reliable connectivity in these communities is durable.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "customary",
+   "thai": "ตามธรรมเนียม, เป็นปกติ",
+   "level": "C1",
+   "example": "The company filed several customary first-day motions to prop up its business operations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sanitization",
+   "thai": "การล้างข้อมูลให้สะอาดปลอดภัย",
+   "level": "C1",
+   "example": "A missed sanitization step can create real data security exposure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reconciliation",
+   "thai": "การตรวจสอบความถูกต้องตรงกัน",
+   "level": "C1",
+   "example": "Track every asset with expected-versus-actual reconciliation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scrutiny",
+   "thai": "การตรวจสอบอย่างละเอียด",
+   "level": "C1",
+   "example": "Often within tight access windows and under close compliance scrutiny.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "payload",
+   "thai": "สัมภาระหรือน้ำหนักบรรทุกของยานพาหนะ",
+   "level": "C1",
+   "example": "Cowboy Space shows Big Iron, the 15-ton payload rocket.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reusable",
+   "thai": "ที่นำกลับมาใช้ใหม่ได้",
+   "level": "B2",
+   "example": "The rocket, including its reusable booster, stands at 86 meters tall.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "commercial",
+   "thai": "เชิงพาณิชย์",
+   "level": "B2",
+   "example": "Will operate GPUs in orbit for commercial and government customers.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
