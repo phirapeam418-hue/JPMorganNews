@@ -1500,265 +1500,33 @@
   "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
   "https://carmelitegothic.com/cnc-stone-carving/",
   "https://www.apple.com/macbook-pro/proled-xdr-display/",
-  "https://surgehq.ai/blog/dayjob-tax"
+  "https://surgehq.ai/blog/dayjob-tax",
+  "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
+  "https://www.theregister.com/offbeat/2026/10/28/please-state-the-nature-of-the-medical-emergency-google-is-building-a-robot-medic-for-nasa/5306130",
+  "https://www.theregister.com/ai-and-ml/2026/10/28/anthropic-engineer-declares-the-coding-interview-dead/5306115",
+  "https://www.theregister.com/security/2026/10/28/oracle-celebrates-end-of-cybersecurity-awareness-month-with-quadruple-trouble/5306121",
+  "https://www.theregister.com/offbeat/2026/10/28/man-spends-35-years-collecting-corporatespeak-turns-it-into-an-app/5305765",
+  "https://divagr.com/blog/qwenputer",
+  "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+  "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+  "https://furbo.org/2026/10/28/a-health-update/",
+  "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+  "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+  "https://www.circuithub.com/post/unveiling-the-grid",
+  "https://vertex.degree/",
+  "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+  "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+  "https://nango.dev/careers",
+  "https://arstechnica.com/space/2026/10/ulas-vulcan-rocket-is-set-to-return-to-flight-on-friday-the-13th/",
+  "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+  "https://arstechnica.com/health/2026/10/peptide-peddlers-cheer-as-rfk-jr-unilaterally-grants-access-overruling-fda/",
+  "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
+  "https://arstechnica.com/space/2026/10/the-last-best-hope-for-space-tourism-just-rolled-onto-a-runway-in-arizona/",
+  "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+  "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+  "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/"
  ],
  "stories": [
-  {
-   "id": 176,
-   "ts": "2026-10-15T05:49:47.492194+07:00",
-   "title": "Cisco make-me-root email bug exploited as a 0-day by unknown crims",
-   "link": "https://www.theregister.com/security/2026/10/14/cisco-make-me-root-email-bug-exploited-as-a-0-day-by-unknown-crims/5303168",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "An actively exploited zero-day privilege escalation vulnerability affecting Cisco enterprise appliances.",
-   "summary": "Attackers are actively exploiting a zero-day vulnerability in Cisco email security appliances to gain root access. Both Cisco and CISA have issued urgent warnings requiring immediate patching and network defense audits.",
-   "vocab": [
-    {
-     "word": "crims",
-     "thai": "อาชญากร (คำสแลง)",
-     "level": "C2",
-     "example": "Cisco make-me-root email bug exploited as a 0-day by unknown crims."
-    },
-    {
-     "word": "exploited",
-     "thai": "ถูกใช้ประโยชน์ในทางมิชอบหรือเจาะระบบ",
-     "level": "B2",
-     "example": "A critical vulnerability was exploited as a 0-day in wild attacks."
-    },
-    {
-     "word": "sound the alarm",
-     "thai": "ส่งสัญญาณเตือนภัยเร่งด่วน",
-     "level": "B2",
-     "example": "Both Switchzilla and CISA sound the alarm over the flaw."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 112,
-   "sent_ts": "2026-10-15T12:49:40.737670+07:00"
-  },
-  {
-   "id": 177,
-   "ts": "2026-10-15T05:49:47.492285+07:00",
-   "title": "Security researchers spent 6 days doing their Chromework, built 1B user exploit",
-   "link": "https://www.theregister.com/security/2026/10/14/security-researchers-spent-6-days-doing-their-chromework-built-1b-user-exploit/5303134",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Security researchers utilized AI agents to uncover a significant browser exploit affecting a vast user base.",
-   "summary": "Security researchers at Xbow received a $250,000 bounty after demonstrating a browser vulnerability impacting over one billion users. The team used automated AI workflows to discover the flaw in under a week.",
-   "vocab": [
-    {
-     "word": "bounty",
-     "thai": "เงินรางวัลตอบแทนสำหรับการค้นหาช่องโหว่",
-     "level": "B2",
-     "example": "Xbow earned a $250K bug bounty for their security work."
-    },
-    {
-     "word": "lousy",
-     "thai": "แย่มากหรือไร้ค่า",
-     "level": "C1",
-     "example": "All the AI model got was a lousy t-shirt."
-    },
-    {
-     "word": "exploit",
-     "thai": "โค้ดหรือวิธีการเจาะระบบ",
-     "level": "B2",
-     "example": "Researchers spent 6 days doing their work and built an exploit."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 178,
-   "ts": "2026-10-15T05:49:47.492301+07:00",
-   "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-   "link": "https://blog.cloudflare.com/yandex-outage/",
-   "source": "Cloudflare Blog",
-   "score": 7,
-   "watch": true,
-   "reason": "Detailed network and cloud outage analysis following physical strikes on major Russian data center infrastructure.",
-   "summary": "Drone attacks on Yandex data centers caused severe disruptions, dropping network traffic by up to 99 percent across their search and cloud ASNs. Cloudflare traffic analysis revealed that malicious bot traffic did not cease, but instead rapidly migrated to other cloud hosts.",
-   "vocab": [
-    {
-     "word": "plummeted",
-     "thai": "ดิ่งลงฮวบอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "Traffic plummeted to 99% below baseline for Yandex Search."
-    },
-    {
-     "word": "culminated",
-     "thai": "ถึงจุดสูงสุดหรือลงเอยที่จุดสำคัญ",
-     "level": "C1",
-     "example": "This culminated in a near-total collapse of the Yandex network on October 11."
-    },
-    {
-     "word": "migrated",
-     "thai": "ย้ายตำแหน่งหรือถ่ายโอนไปยังระบบอื่น",
-     "level": "B2",
-     "example": "High-volume automation simply migrated to other hosting providers."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 179,
-   "ts": "2026-10-15T05:49:47.492345+07:00",
-   "title": "OpenCode 2.0",
-   "link": "https://anoma.ly/notes/opencode-2-0/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "A major architectural update to an AI-assisted development and orchestration platform used by engineers.",
-   "summary": "OpenCode has launched version 2.0 with an overhauled background client-server architecture and an embedded JavaScript interpreter. The release simplifies local tool composition and supports asynchronous background agents for complex coding workflows.",
-   "vocab": [
-    {
-     "word": "overhaul",
-     "thai": "การยกเครื่องหรือปรับปรุงระบบครั้งใหญ่",
-     "level": "C1",
-     "example": "OpenCode 2.0 is a major overhaul of the agent framework."
-    },
-    {
-     "word": "haphazardly",
-     "thai": "อย่างไม่เป็นระเบียบหรือส่งเดช",
-     "level": "C1",
-     "example": "The old API grew haphazardly as we learned what agents should be."
-    },
-    {
-     "word": "orchestration",
-     "thai": "การจัดการควบคุมระบบงานประสานกันอย่างมีระบบ",
-     "level": "C1",
-     "example": "The latest batch of models are incredibly good at task orchestration."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 180,
-   "ts": "2026-10-15T05:50:26.107196+07:00",
-   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-   "link": "https://typesafe.ai/blog/jev-1-14",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Releases experimental API features and multimodality updates for an AI model, relevant to AI infrastructure developers.",
-   "summary": "An AI firm released a new version of its model with experimental features like image support and bounding boxes. These features are placed in a danger zone because they are less reliable for production automation.",
-   "vocab": [
-    {
-     "word": "multimodality",
-     "thai": "ความสามารถในการประมวลผลข้อมูลหลายรูปแบบ (เช่น ข้อความและภาพ)",
-     "level": "C1",
-     "example": "Not only are we enabling multimodality for future Jev models, we're enabling it for the current Jev."
-    },
-    {
-     "word": "decomposition",
-     "thai": "การแยกย่อยปัญหาออกเป็นส่วนเล็กๆ",
-     "level": "C1",
-     "example": "Breaking down questions into the simplest possible decompositions helps a lot."
-    },
-    {
-     "word": "reliability",
-     "thai": "ความน่าเชื่อถือและความเสถียรของระบบ",
-     "level": "B2",
-     "example": "A huge debate we've been having is on the balance between reliability and creativity."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 181,
-   "ts": "2026-10-15T05:50:26.107250+07:00",
-   "title": "Passkeys are not a trap",
-   "link": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Discusses security mechanics, passkeys, and attestation standards relevant to authentication systems.",
-   "summary": "An analysis refutes claims that passkeys are a trap designed to lock users into strict operating systems. It explains that standard consumer passkeys do not send hardware attestation data to websites.",
-   "vocab": [
-    {
-     "word": "attestation",
-     "thai": "การรับรองความถูกต้องของฮาร์ดแวร์หรือซอฟต์แวร์ด้วยใบรับรองดิจิทัล",
-     "level": "C1",
-     "example": "The post makes what appears to be one central claim: Passkeys support something called attestation."
-    },
-    {
-     "word": "cryptographic",
-     "thai": "เกี่ยวกับการเข้ารหัสลับ",
-     "level": "C1",
-     "example": "It lets a website ask for cryptographic proof of what made the passkey."
-    },
-    {
-     "word": "vendor",
-     "thai": "ผู้ขายหรือผู้ผลิตผลิตภัณฑ์",
-     "level": "B2",
-     "example": "With a certificate chain from the vendor to back it up."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 182,
-   "ts": "2026-10-15T05:50:26.107356+07:00",
-   "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-   "link": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Reports a major operational security incident affecting hundreds of commercial refrigeration and IoT systems, directly concerning infrastructure security.",
-   "summary": "Poor cybersecurity practices allowed attackers to hack internet-connected controllers across hundreds of supermarkets in France. The attackers raised refrigeration temperatures, causing food spoilage and electrical fires.",
-   "vocab": [
-    {
-     "word": "spoilage",
-     "thai": "การเน่าเสียของอาหารหรือสินค้า",
-     "level": "C1",
-     "example": "Causing spoilage of untold tons of perishables and, in some cases, fires."
-    },
-    {
-     "word": "vulnerability",
-     "thai": "จุดอ่อนหรือช่องโหว่ด้านความปลอดภัย",
-     "level": "B2",
-     "example": "Contained critical vulnerabilities that allow attackers to remotely log in."
-    },
-    {
-     "word": "credential",
-     "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ (เช่น ชื่อผู้ใช้และรหัสผ่าน)",
-     "level": "B2",
-     "example": "Danfoss controllers used a credential that changes each day."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 113,
-   "sent_ts": "2026-10-15T12:49:41.443697+07:00"
-  },
   {
    "id": 183,
    "ts": "2026-10-15T09:16:31.325983+07:00",
@@ -21409,11 +21177,13 @@
      "example": "The business was acquired at the equivalent of a multi-billion dollar valuation."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 404,
+   "sent_ts": "2026-10-29T08:22:11.958950+07:00"
   },
   {
    "id": 716,
@@ -21469,11 +21239,13 @@
      "example": "SK Hynix says memory shortages to persist until 2030."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 405,
+   "sent_ts": "2026-10-29T08:22:12.457123+07:00"
   },
   {
    "id": 718,
@@ -21569,7 +21341,10 @@
    "impact": 6,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+   ]
   },
   {
    "id": 721,
@@ -21642,20 +21417,226 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 9
+  },
+  {
+   "id": 723,
+   "ts": "2026-10-29T08:25:49.838643+07:00",
+   "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
+   "link": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant analysis on the lifecycle maintenance of data center liquid cooling infrastructure.",
+   "summary": "The article highlights the importance of sustaining engineering for liquid cooling systems as data centers scale AI workloads. It emphasizes that long-term component availability, upgrades, and maintenance are critical to prevent operational obsolescence.",
+   "vocab": [
+    {
+     "word": "obsolescence",
+     "thai": "ความล้าสมัยหรือการเลิกใช้งาน",
+     "level": "C1",
+     "example": "Sustaining engineers monitor component availability and mitigate obsolescence risks before they affect customers."
+    },
+    {
+     "word": "inflection point",
+     "thai": "จุดเปลี่ยนสำคัญ",
+     "level": "C1",
+     "example": "Data centers are increasingly reaching a similar inflection point as liquid cooling matures."
+    },
+    {
+     "word": "blistering",
+     "thai": "รวดเร็วอย่างยิ่งหรือดุเดือด",
+     "level": "B2",
+     "example": "As liquid cooling adoption grows and the evolution of AI continues at its blistering pace, sustaining engineering becomes vital."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 724,
+   "ts": "2026-10-29T08:25:49.838793+07:00",
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "High severity security incident involving attempted exploitation of an underlying runtime flaw in self-hosted GitLab.",
+   "summary": "Alpine Linux reported an attempted exploitation of critical vulnerability CVE-2026-97229 on their self-hosted GitLab instance via crafted CI configurations. The incident demonstrates that upgrading GitLab source builds is insufficient unless the underlying Ruby regex engine is also patched.",
+   "vocab": [
+    {
+     "word": "crafted",
+     "thai": "ที่ประดิษฐ์ขึ้นอย่างประณีตหรือจงใจสร้างขึ้นมา",
+     "level": "B2",
+     "example": "A newly registered account sent crafted CI configurations to exploit the regex parser."
+    },
+    {
+     "word": "upstream",
+     "thai": "ต้นน้ำหรือโครงการหลักดั้งเดิม",
+     "level": "B2",
+     "example": "Upstream Ruby shipped the security fix several days after GitLab applied vendor patches."
+    },
+    {
+     "word": "rule out",
+     "thai": "ตัดออกไปหรือไม่พิจารณา",
+     "level": "B2",
+     "example": "We have found no evidence of execution, but we cannot rule it out completely."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 725,
+   "ts": "2026-10-29T08:30:18.990257+07:00",
+   "title": "How we made our MMDB files a 33% smaller",
+   "link": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Relevant to networking and server operations as MMDB files are widely used for in-memory IP geolocation and routing lookups.",
+   "summary": "IPinfo released an open-source optimization tool that reduces the size of MMDB files by up to 80% through search tree node deduplication. Because these databases are directly memory-mapped, the shrink significantly reduces RAM footprint and network transfer overhead for servers.",
+   "vocab": [
+    {
+     "word": "footprint",
+     "thai": "ขนาดพื้นที่ที่ถูกครอบครอง (เช่น หน่วยความจำ)",
+     "level": "B2",
+     "example": "MMDB files are memory-mapped and the file size is the memory footprint."
+    },
+    {
+     "word": "identical",
+     "thai": "เหมือนกันทุกประการ",
+     "level": "B2",
+     "example": "It never asks whether it has already written an identical node."
+    },
+    {
+     "word": "verdict",
+     "thai": "ผลการตัดสิน, ข้อยุติ",
+     "level": "B2",
+     "example": "A privacy database is a small set of verdicts applied to millions of ranges."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 726,
+   "ts": "2026-10-29T08:30:52.975649+07:00",
+   "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
+   "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Subsea internet cable routing directly impacts global network connectivity and international data transport infrastructure.",
+   "summary": "The European Union plans to build a direct subsea internet cable connecting Europe to Greenland to improve connectivity. This project aims to diversify routes and bypass traditional geopolitical chokepoints amid strained transatlantic relations.",
+   "vocab": [
+    {
+     "word": "autonomous",
+     "thai": "ปกตนเอง, มีอิสระ",
+     "level": "B2",
+     "example": "The agreement preserves Greenland’s autonomous territory status within the Kingdom of Denmark."
+    },
+    {
+     "word": "strained",
+     "thai": "ตึงเครียด",
+     "level": "B2",
+     "example": "Relations have grown increasingly strained between the United States and its allies."
+    },
+    {
+     "word": "proposition",
+     "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
+     "level": "B2",
+     "example": "It would have seemed like not a particularly commercially attractive proposition."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 727,
+   "ts": "2026-10-29T08:30:52.975762+07:00",
+   "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
+   "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Consumer hardware review of a touchscreen MacBook Pro, unrelated to server operations or backend infrastructure.",
+   "summary": "A hands-on review of the new touchscreen MacBook Pro highlights its lighter build, OLED display, and the integration of a Dynamic Island. The device introduces touch controls to Apple's laptop lineup for the first time.",
+   "vocab": [
+    {
+     "word": "notable",
+     "thai": "น่าสังเกต, โดดเด่น",
+     "level": "B2",
+     "example": "You might make the case that the most notable thing about this laptop is not its weight."
+    },
+    {
+     "word": "nostalgic",
+     "thai": "ที่ทำให้หวนระลึกถึงอดีต",
+     "level": "B2",
+     "example": "I just think it’s a little bit nostalgic."
+    },
+    {
+     "word": "departure",
+     "thai": "การเบี่ยงเบนจากแนวทางเดิม",
+     "level": "B2",
+     "example": "It’s not as much of a departure from the previous design as I expected."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 728,
+   "ts": "2026-10-29T08:30:52.975874+07:00",
+   "title": "Amazon turns its most capable smart speaker into a smart camera, too",
+   "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Consumer smart speaker hardware update with minor audio and camera integration features.",
+   "summary": "Amazon introduced a new version of its Echo Studio smart speaker featuring an integrated camera and AI-driven room acoustics adaptation. The device uses visual recognition to assist users and dynamically adjust audio settings.",
+   "vocab": [
+    {
+     "word": "integrated",
+     "thai": "ซึ่งรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "The latest Echo Studio adds another less-expected differentiator: an integrated camera."
+    },
+    {
+     "word": "proprietary",
+     "thai": "ที่เป็นกรรมสิทธิ์ของบริษัท",
+     "level": "C1",
+     "example": "They both support Dolby Atmos and Amazon’s proprietary algorithm."
+    },
+    {
+     "word": "acoustics",
+     "thai": "คุณสมบัติทางเสียงของห้อง",
+     "level": "C1",
+     "example": "Automatically adapting to the room’s acoustics."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 723,
+ "next_id": 729,
  "vocab": [
-  {
-   "word": "unveil",
-   "thai": "เปิดตัวหรือเผยแพร่ให้เห็นเป็นครั้งแรก",
-   "level": "B2",
-   "example": "AMD unveils Helion racks for AI agents at the annual OCP summit.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "harden",
    "thai": "เสริมความแข็งแกร่งหรือเพิ่มความปลอดภัย",
@@ -26641,6 +26622,16 @@
    "thai": "ภาวะที่กลืนไม่เข้าคายไม่ออกหรือสถานการณ์ยากลำบาก",
    "level": "C1",
    "example": "Now, the predicament is there is no clear solution for fixing the grid today.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "persist",
+   "thai": "คงอยู่ต่อไป / ยังคงมีอยู่",
+   "level": "B2",
+   "example": "SK Hynix says memory shortages to persist until 2030.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
