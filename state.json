@@ -1566,7 +1566,31 @@
   "https://www.theregister.com/os-platforms/2026/10/29/ubuntu-2704-may-bring-a-preview-of-the-long-awaited-core-desktop/5306426",
   "https://www.theregister.com/science/2026/10/29/battman-aims-to-turbocharge-us-batteries-without-robbin-critical-minerals/5306273",
   "https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430",
-  "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403"
+  "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
+  "https://www.theregister.com/ai-and-ml/2026/10/30/googles-search-revenue-ferrari-hits-an-ai-powered-speed-bump/5306520",
+  "https://www.theregister.com/systems/2026/10/30/farm-pc-maintained-by-a-14-year-old-dumped-support-chap-in-a-steaming-pile-of-tech-mess/5306217",
+  "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+  "https://www.theregister.com/security/2026/10/30/in-the-year-ai-re-wrote-the-infosec-rulebook-its-comforting-to-know-crypto-exchanges-still-have-bad-security/5306539",
+  "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+  "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
+  "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+  "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+  "https://mistral.ai/news/mistral-large-4-oss/",
+  "https://cuis.st/",
+  "https://github.com/da-luce/astroterm",
+  "https://github.com/herdrdev/herdr-app",
+  "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+  "https://labs.ycombinator.com/projects/games/index.html",
+  "https://www.workatastartup.com/jobs/98722",
+  "https://github.com/SheepSeb/tinyworldformer",
+  "https://sidbala.com/h-264-is-magic/",
+  "https://github.com/mottopanikeiku/doomformer",
+  "https://martinfowler.com/bliki/LLM-Voice.html",
+  "https://journal.animationstudies.org/article/id/66/",
+  "https://tildeweb.nl/~michiel/python-on-my-wrist.html",
+  "https://github.com/picocss/pico/discussions/754",
+  "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+  "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/"
  ],
  "stories": [
   {
@@ -20085,40 +20109,300 @@
    "credibility": 8,
    "msg_id": 432,
    "sent_ts": "2026-10-30T14:00:12.468409+07:00"
+  },
+  {
+   "id": 752,
+   "ts": "2026-10-30T14:55:02.364632+07:00",
+   "title": "AWS installs an AI accelerator every 14 seconds and eyes $1 trillion annual revenue",
+   "link": "https://www.theregister.com/off-prem/2026/10/30/aws-installs-an-ai-accelerator-every-14-seconds-and-eyes-1-trillion-annual-revenue/5306547",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on AWS's rapid deployment rate of AI hardware and massive cloud infrastructure expansion.",
+   "summary": "Amazon Web Services is deploying an AI accelerator every 14 seconds as it pursues massive revenue growth. This rapid expansion highlights the immense demand for power, cooling, and compute capacity across global cloud infrastructure.",
+   "vocab": [
+    {
+     "word": "hustle",
+     "thai": "ธุรกิจเสริมหรือกิจกรรมหารายได้เสริม",
+     "level": "B2",
+     "example": "Cloud computing might soon make retail look like a secondary hustle."
+    },
+    {
+     "word": "cope",
+     "thai": "รับมือหรือจัดการกับปัญหา",
+     "level": "B2",
+     "example": "Engineers re-architected the system to cope with heavy AI workloads."
+    },
+    {
+     "word": "dramatically",
+     "thai": "อย่างมากหรืออย่างเห็นได้ชัด",
+     "level": "B2",
+     "example": "Greenhouse gas output has risen dramatically in recent years."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 753,
+   "ts": "2026-10-30T14:55:02.364694+07:00",
+   "title": "PC chip plunge wipes out a quarter of Intel’s value",
+   "link": "https://www.theregister.com/systems/2026/10/30/pc-chip-plunge-wipes-out-a-quarter-of-intels-value/5306531",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Intel's client PC chip slump affects semiconductor market dynamics and hardware vendor supply chains.",
+   "summary": "Intel experienced a severe drop in market valuation following declining client PC chip sales and lower revenue projections. The downturn reflects shifting hardware spending priorities from personal computing toward data center AI accelerators.",
+   "vocab": [
+    {
+     "word": "plunge",
+     "thai": "การลดลงอย่างรวดเร็วและรุนแรง",
+     "level": "B2",
+     "example": "A sudden chip sales plunge wiped out a large portion of the firm's value."
+    },
+    {
+     "word": "wiped out",
+     "thai": "ถูกทำลายจนหมดสิ้น",
+     "level": "B2",
+     "example": "The market reaction wiped out billions in equity within a single day."
+    },
+    {
+     "word": "steward",
+     "thai": "ผู้ดูแลหรือผู้พิทักษ์",
+     "level": "C1",
+     "example": "Database stewards must oversee the open-source community carefully."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 754,
+   "ts": "2026-10-30T14:55:02.364725+07:00",
+   "title": "Built to bend: Postgres’s inventor and a steward on what AI really needs",
+   "link": "https://www.theregister.com/databases/2026/10/29/partner-content-built-to-bend-postgress-inventor-and-a-steward-on-what-ai-really-needs/5305957",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Provides insights from Postgres creator Michael Stonebraker on architectural requirements for databases handling AI workloads.",
+   "summary": "Postgres creator Michael Stonebraker discussed the necessity of evolving traditional relational databases to handle emerging AI workloads efficiently. The piece highlights why flexible database architectures and specialized indexing are essential for modern data infrastructure.",
+   "vocab": [
+    {
+     "word": "bend",
+     "thai": "ปรับเปลี่ยนได้อย่างยืดหยุ่น",
+     "level": "B2",
+     "example": "Modern databases must be built to bend under varied workloads."
+    },
+    {
+     "word": "inventor",
+     "thai": "ผู้ประดิษฐ์หรือผู้คิดค้น",
+     "level": "B2",
+     "example": "The inventor shared architectural perspectives on handling AI data."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำมาปรับใช้",
+     "level": "B2",
+     "example": "Increasing open-source adoption followed improvements in performance."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 755,
+   "ts": "2026-10-30T14:55:02.364754+07:00",
+   "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+   "link": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Official Cloudflare threat report detailing major shifts in DDoS attack vectors and mitigation volumes critical for network engineers.",
+   "summary": "Cloudflare reported a 208% surge in short-burst, low-bandwidth DDoS attacks during Q3 2026, alongside a sharp drop in hyper-volumetric attacks over 1 Tbps. Attackers also pivoted away from CLDAP reflection toward DNS amplification and UDP floods, directly altering edge defense priorities.",
+   "vocab": [
+    {
+     "word": "cadence",
+     "thai": "จังหวะเวลาหรือความสม่ำเสมอของรอบการทำงาน",
+     "level": "C1",
+     "example": "The report returned to its regular quarterly cadence after a combined release."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ที่เป็นไปอย่างอัตโนมัติโดยสมบูรณ์",
+     "level": "B2",
+     "example": "Cloudflare autonomously mitigated millions of network-layer attacks."
+    },
+    {
+     "word": "amplification",
+     "thai": "การขยายขนาดหรือการเพิ่มความแรง",
+     "level": "C1",
+     "example": "Attackers shifted their focus toward DNS amplification vectors."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 433,
+   "sent_ts": "2026-10-30T14:55:03.007470+07:00"
+  },
+  {
+   "id": 756,
+   "ts": "2026-10-30T14:58:04.010274+07:00",
+   "title": "We're releasing the weights of Mistral Large 4",
+   "link": "https://mistral.ai/news/mistral-large-4-oss/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Mistral released the open weights of its 1-trillion-parameter flagship model, which allows enterprises to self-host advanced coding and security agents.",
+   "summary": "Mistral AI has published the open weights for Mistral Large 4, a major multimodal model designed for coding and defensive cybersecurity. This gives infrastructure teams the option to deploy frontier-class AI locally on their own servers instead of relying on closed cloud APIs.",
+   "vocab": [
+    {
+     "word": "sovereign",
+     "thai": "มีอำนาจอธิปไตย / ปกครองตนเอง",
+     "level": "C1",
+     "example": "Mistral is defining the sovereign AI category and leading the open frontier."
+    },
+    {
+     "word": "inception",
+     "thai": "การเริ่มต้น / การก่อตั้ง",
+     "level": "C1",
+     "example": "Trained with clear lineage from inception to release, it gives organizations a trusted foundation."
+    },
+    {
+     "word": "multimodal",
+     "thai": "ที่รองรับข้อมูลหลายรูปแบบ (เช่น ข้อความและภาพ)",
+     "level": "B2",
+     "example": "Mistral released Mistral Large 4, a 1-trillion-parameter multimodal model."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 757,
+   "ts": "2026-10-30T15:01:00.485119+07:00",
+   "title": "H.264 Is Magic (2016)",
+   "link": "https://sidbala.com/h-264-is-magic/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a 2016 educational deep dive into video compression algorithms, offering general technical interest rather than data center operations news.",
+   "summary": "An engineering blog post explains the fundamental mechanisms behind the H.264 video compression standard, showing how it drastically reduces file sizes compared to uncompressed video. While H.264 is ubiquitous across streaming infrastructure, the article is an older conceptual explainer rather than actionable infrastructure news.",
+   "vocab": [
+    {
+     "word": "ubiquitous",
+     "thai": "มีอยู่ทุกหนทุกแห่ง",
+     "level": "C1",
+     "example": "It is ubiquitous - internet video, Blu-ray, phones, security cameras, drones, everything."
+    },
+    {
+     "word": "intricacy",
+     "thai": "ความละเอียดซับซ้อน",
+     "level": "C1",
+     "example": "This post will give insight into some of the details without boring you with the intricacies."
+    },
+    {
+     "word": "temporal",
+     "thai": "เกี่ยวกับเวลา",
+     "level": "C1",
+     "example": "A video is a 3D array of bytes with two spatial dimensions and one temporal dimension."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 1,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 758,
+   "ts": "2026-10-30T15:01:00.485222+07:00",
+   "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+   "link": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "A consumer web platform policy change regarding user logins affects web access and scraping, but not core data center infrastructure.",
+   "summary": "Reddit announced plans to gradually transition its platform into a mandatory logged-in experience to improve ad targeting and protect its content dataset. The rollout will begin in select international markets following a notable drop in unauthenticated search referral traffic.",
+   "vocab": [
+    {
+     "word": "impending",
+     "thai": "ที่กำลังจะเกิดขึ้นในไม่ช้า",
+     "level": "C1",
+     "example": "The CEO confirmed the impending change in a letter to shareholders about performance."
+    },
+    {
+     "word": "corpus",
+     "thai": "คลังข้อมูลขนาดใหญ่",
+     "level": "C1",
+     "example": "The policy change allows us to protect access to our extremely valuable corpus of data."
+    },
+    {
+     "word": "referral",
+     "thai": "การส่งต่อไปยังปลายทาง",
+     "level": "B2",
+     "example": "Search referral traffic dropped significantly among users who were logged out."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 759,
+   "ts": "2026-10-30T15:01:00.485243+07:00",
+   "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+   "link": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Windows 11 desktop features like context menu controls and Cloud Rebuild affect sysadmins managing endpoint fleets, though not server infrastructure.",
+   "summary": "Microsoft is rolling out a Windows 11 preview that restores customizability to the desktop right-click context menu and adds a cloud-based operating system rebuild tool. The Cloud Rebuild feature allows unbootable PCs to pull fresh recovery images over the internet without requiring physical boot media.",
+   "vocab": [
+    {
+     "word": "obliterate",
+     "thai": "ทำลายหรือลบล้างจนหมดสิ้น",
+     "level": "C1",
+     "example": "The old menu obliterated years of muscle memory regarding command locations."
+    },
+    {
+     "word": "cumulative",
+     "thai": "ที่เพิ่มพูนหรือสะสมต่อเนื่อง",
+     "level": "C1",
+     "example": "The preview update is cumulative for supported versions of the operating system."
+    },
+    {
+     "word": "gripe",
+     "thai": "ข้อร้องเรียนหรือเรื่องที่น่าหงุดหงิดใจ",
+     "level": "C1",
+     "example": "The persistent gripe had been that Microsoft hid familiar commands behind extra submenus."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 752,
+ "next_id": 760,
  "vocab": [
-  {
-   "word": "accelerate",
-   "thai": "เร่งความเร็ว",
-   "level": "B2",
-   "example": "VEIR raises $110 million Series C to accelerate commercialization of superconducting power delivery technology.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "constraint",
-   "thai": "ข้อจำกัด",
-   "level": "C1",
-   "example": "Power delivery is emerging as one of the critical constraints on how densely AI compute can scale.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "compromise",
-   "thai": "การถูกเจาะระบบ, การทำให้เสียหาย",
-   "level": "B2",
-   "example": "Fashion brands have been caught up in a fresh wave of corporate data compromises.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "incident",
    "thai": "เหตุการณ์",
@@ -25084,6 +25368,36 @@
    "thai": "งบรายจ่ายฝ่ายทุน",
    "level": "C1",
    "example": "Building dedicated AI clusters requires massive capex from cloud providers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cadence",
+   "thai": "จังหวะเวลาหรือความสม่ำเสมอของรอบการทำงาน",
+   "level": "C1",
+   "example": "The report returned to its regular quarterly cadence after a combined release.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "autonomous",
+   "thai": "ที่เป็นไปอย่างอัตโนมัติโดยสมบูรณ์",
+   "level": "B2",
+   "example": "Cloudflare autonomously mitigated millions of network-layer attacks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "amplification",
+   "thai": "การขยายขนาดหรือการเพิ่มความแรง",
+   "level": "C1",
+   "example": "Attackers shifted their focus toward DNS amplification vectors.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
