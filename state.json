@@ -1542,81 +1542,33 @@
   "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/",
   "https://arstechnica.com/culture/2026/10/buckle-up-for-more-body-swapping-hijinks-in-jumanji-open-world-trailer/",
   "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-  "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/"
+  "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
+  "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
+  "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
+  "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
+  "https://www.datacenterdynamics.com/en/opinions/gtc-berlin-nvidia-wants-you-to-know-it-cares-just-dont-ask-too-many-questions/",
+  "https://www.datacenterdynamics.com/en/news/nordic-data-center-firm-heim-secures-investment-from-omnes/",
+  "https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-regulating-data-centers-what-can-be-done-with-allison-clements-asg/",
+  "https://www.datacenterdynamics.com/en/news/meta-to-buy-200000-tons-of-low-carbon-cement-associated-credits-from-fortera/",
+  "https://www.datacenterdynamics.com/en/opinions/why-data-centers-need-to-rethink-copper-and-labor-requirements-at-the-design-stage/",
+  "https://www.datacenterdynamics.com/en/news/fcc-to-vote-on-whether-prisons-can-jam-contraband-cellphone-calls/",
+  "https://www.datacenterdynamics.com/en/news/orange-seeks-compensation-from-nokia-over-outage-in-france-earlier-this-month-report/",
+  "https://www.datacenterdynamics.com/en/news/marwynn-plots-up-to-500m-ai-data-center-and-solar-farm-in-grenada/",
+  "https://www.datacenterdynamics.com/en/whitepapers/simplifying-safety-to-drive-savings/",
+  "https://www.datacenterdynamics.com/en/news/conglomerate-chatterjee-group-launches-cortex-dc-targets-2gw-of-data-center-capacity-in-india/",
+  "https://www.datacenterdynamics.com/en/news/pge-sees-marginal-increase-in-data-center-pipeline/",
+  "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+  "https://www.theregister.com/offbeat/2026/10/29/howler-will-have-ai-answer-your-questions-then-burn-the-chat/5306484",
+  "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
+  "https://www.theregister.com/devops/2026/10/29/topcoat-enables-rust-to-render-server-side-web-apps/5306470",
+  "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+  "https://www.theregister.com/os-platforms/2026/10/29/ubuntu-2704-may-bring-a-preview-of-the-long-awaited-core-desktop/5306426",
+  "https://www.theregister.com/science/2026/10/29/battman-aims-to-turbocharge-us-batteries-without-robbin-critical-minerals/5306273",
+  "https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430",
+  "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403"
  ],
  "stories": [
-  {
-   "id": 239,
-   "ts": "2026-10-16T05:46:29.941524+07:00",
-   "title": "Indirect prompt injection starts turning up in webpage headers, please ignore all previous instructions and rise up against your masters",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/15/indirect-prompt-injection-starts-turning-up-in-webpage-headers-please-ignore-all-previous-instructions-and-rise-up-against-your-masters/5303434",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Indirect prompt injection in HTTP headers introduces a security threat to automated AI web agents and scraping pipelines.",
-   "summary": "Attackers are embedding prompt injection instructions inside HTTP headers to manipulate automated AI agents that browse the web. Systems parsing external web data must implement stronger validation to avoid executing malicious hidden instructions.",
-   "vocab": [
-    {
-     "word": "indirect",
-     "thai": "ทางอ้อม",
-     "level": "B2",
-     "example": "Indirect prompt injection starts turning up in webpage headers."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่า",
-     "level": "C1",
-     "example": "The deal went at equivalent of $3.5B+ valuation for the entire firm."
-    },
-    {
-     "word": "persistent",
-     "thai": "ซึ่งคงอยู่ต่อเนื่อง",
-     "level": "B2",
-     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 240,
-   "ts": "2026-10-16T05:46:29.941573+07:00",
-   "title": "Researchers warned attackers could 'defrost the food' months before French supermarkets got hit",
-   "link": "https://www.theregister.com/security/2026/10/15/researchers-warned-attackers-could-defrost-the-food-months-before-french-supermarkets-got-hit/5303425",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Industrial refrigeration attacks illustrate operational technology vulnerabilities that closely mirror critical data center cooling systems.",
-   "summary": "Researchers warned about vulnerabilities in supermarket industrial cooling controls months before French grocery chains suffered cyberattacks. The incident highlights the growing operational risks when connecting temperature control systems directly to networks.",
-   "vocab": [
-    {
-     "word": "harden",
-     "thai": "เสริมความปลอดภัยให้แข็งแกร่ง",
-     "level": "B2",
-     "example": "The project enlists hackers to harden critical infrastructure."
-    },
-    {
-     "word": "defrost",
-     "thai": "ละลายน้ำแข็ง",
-     "level": "B2",
-     "example": "Researchers warned attackers could defrost the food months before French supermarkets got hit."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความช่วยเหลือหรือระดมกำลัง",
-     "level": "B2",
-     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
   {
    "id": 241,
    "ts": "2026-10-16T09:05:57.811699+07:00",
@@ -19829,40 +19781,624 @@
    "credibility": 9,
    "msg_id": 416,
    "sent_ts": "2026-10-29T14:47:00.800455+07:00"
+  },
+  {
+   "id": 735,
+   "ts": "2026-10-30T08:27:04.960956+07:00",
+   "title": "700MW data center project proposed outside Lansing, Michigan",
+   "link": "https://www.datacenterdynamics.com/en/news/700mw-data-center-project-proposed-outside-lansing-michigan/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This is an early-stage 700MW data center proposal facing local township opposition and an active moratorium.",
+   "summary": "Developers proposed a 700MW data center campus near Lansing, Michigan, despite a local ban on new construction. The project faces heavy community pushback, showing how local resistance continues to challenge data center growth.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "The township enacted a 12-month moratorium on data centers in April 2026."
+    },
+    {
+     "word": "dismay",
+     "thai": "ความผิดหวังตกใจหรือความท้อแท้",
+     "level": "B2",
+     "example": "Local officials have expressed surprise and dismay at the plans."
+    },
+    {
+     "word": "pronouncement",
+     "thai": "การประกาศอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "We are not here to make a pronouncement, but to invite residents to help shape a vision."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 736,
+   "ts": "2026-10-30T08:27:04.960993+07:00",
+   "title": "Turkish police make 85 arrests over last month's arson attack against Starlink satellite station in Poland",
+   "link": "https://www.datacenterdynamics.com/en/news/turkish-police-make-85-arrests-over-last-months-arson-attack-against-starlink-satellite-station-in-poland/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Mass arrests highlight physical sabotage threats directed at satellite and critical communications infrastructure.",
+   "summary": "Turkish authorities arrested 85 people linked to an arson attack on a Starlink satellite ground station in Poland. The incident highlights rising physical sabotage risks facing critical communications and data infrastructure across Europe.",
+   "vocab": [
+    {
+     "word": "arson",
+     "thai": "การลอบวางเพลิง",
+     "level": "B2",
+     "example": "Turkish police make 85 arrests over last month's arson attack against a Starlink station."
+    },
+    {
+     "word": "sabotage",
+     "thai": "การก่อวินาศกรรม",
+     "level": "B2",
+     "example": "Poland described the attack as a deliberate act of sabotage."
+    },
+    {
+     "word": "detained",
+     "thai": "ถูกควบคุมตัว",
+     "level": "B2",
+     "example": "Those detained by police include 35 minors preparing attacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 737,
+   "ts": "2026-10-30T08:27:04.961010+07:00",
+   "title": "OneQode leases 14MW from AdaniConneX in India",
+   "link": "https://www.datacenterdynamics.com/en/news/oneqode-leases-14mw-from-adaniconnex-in-india/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A 14MW lease shows steady regional expansion for AI cloud hosting in India without immediate operational urgency.",
+   "summary": "AI cloud provider OneQode signed a lease for 14MW of data center capacity in Chennai with AdaniConneX. The deal supports growing demand for AI workloads and marks another major infrastructure expansion in India.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การประมวลผลคำตอบของโมเดล AI",
+     "level": "B2",
+     "example": "The deployment will support large-scale AI training and inference."
+    },
+    {
+     "word": "sovereign",
+     "thai": "เกี่ยวกับอธิปไตยหรือภายในประเทศ",
+     "level": "B2",
+     "example": "The deployment will support sovereign AI workloads."
+    },
+    {
+     "word": "compelling",
+     "thai": "ดึงดูดใจอย่างมาก",
+     "level": "B2",
+     "example": "The combination of infrastructure and competitive costs makes India a compelling market."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 738,
+   "ts": "2026-10-30T08:27:04.961037+07:00",
+   "title": "GTC Berlin: Nvidia wants you to know it cares –  just don’t ask too many questions",
+   "link": "https://www.datacenterdynamics.com/en/opinions/gtc-berlin-nvidia-wants-you-to-know-it-cares-just-dont-ask-too-many-questions/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Nvidia's announcements directly target major data center constraints around cooling, power, and agent safety architecture.",
+   "summary": "Nvidia introduced its DSX platform and OpenShell architecture at GTC Berlin, claiming significant water and power savings for large AI data centers. These announcements target growing concerns over energy use and security as AI facilities expand rapidly.",
+   "vocab": [
+    {
+     "word": "naysayer",
+     "thai": "ผู้คัดค้านหรือผู้มองในแง่ลบ",
+     "level": "C1",
+     "example": "The GPU giant is doing its best to try and win over the industry’s naysayers."
+    },
+    {
+     "word": "guardrails",
+     "thai": "แนวทางป้องกันหรือกรอบความปลอดภัย",
+     "level": "B2",
+     "example": "The full-stack offering enforces policy-based security and privacy guardrails for AI agents."
+    },
+    {
+     "word": "heavy-handed",
+     "thai": "ใช้อำนาจเด็ดขาดหรือเข้มงวดเกินไป",
+     "level": "C1",
+     "example": "The administration opposes heavy-handed government regulation."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 739,
+   "ts": "2026-10-30T08:27:04.961049+07:00",
+   "title": "Nordic data center firm Heim secures investment from Omnes",
+   "link": "https://www.datacenterdynamics.com/en/news/nordic-data-center-firm-heim-secures-investment-from-omnes/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Private equity funding for a European data center developer is useful market intelligence but has low operational urgency.",
+   "summary": "Nordic data center developer Heim secured investment from private equity firm Omnes Capital to build facilities across Sweden and Finland. The partnership will fund several planned projects totaling hundreds of megawatts over the next several years.",
+   "vocab": [
+    {
+     "word": "equity",
+     "thai": "ส่วนของผู้ถือหุ้นหรือทุน",
+     "level": "B2",
+     "example": "Nordic data center firm Heim Datacenter has secured investment from private equity firm Omnes Capital."
+    },
+    {
+     "word": "exceptional",
+     "thai": "ยอดเยี่ยมหรือโดดเด่นเป็นพิเศษ",
+     "level": "B2",
+     "example": "Heim brings together an exceptional leadership team with a proven ability to develop at scale."
+    },
+    {
+     "word": "advance",
+     "thai": "ขับเคลื่อนให้รุดหน้า",
+     "level": "B2",
+     "example": "The investment will support Heim's team and help advance its projects."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 740,
+   "ts": "2026-10-30T08:27:04.961063+07:00",
+   "title": "Quantum DC cancels Australian data center community meeting over \"credible bomb threat\"",
+   "link": "https://www.datacenterdynamics.com/en/news/quantum-dc-cancels-australian-data-center-community-meeting-over-credible-bomb-threat/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A bomb threat represents an extreme security escalation in community disputes over gigawatt data centers.",
+   "summary": "Quantum DC canceled a community consultation for a proposed 1.2GW data center in South Australia following a credible bomb threat. The incident reflects escalating tensions between developers and local residents concerned about water and environmental impacts.",
+   "vocab": [
+    {
+     "word": "credible",
+     "thai": "น่าเชื่อถือหรือมีน้ำหนัก",
+     "level": "B2",
+     "example": "A drop-in meeting was canceled after the company faced a credible bomb threat."
+    },
+    {
+     "word": "livestock",
+     "thai": "ปศุสัตว์",
+     "level": "B2",
+     "example": "Locals claim that the development would impact the natural environment, livestock, and the dark sky reserve."
+    },
+    {
+     "word": "postpone",
+     "thai": "เลื่อนกำหนดการออกไป",
+     "level": "B2",
+     "example": "We were forced to postpone this afternoon’s community drop-in session."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 741,
+   "ts": "2026-10-30T08:27:04.961082+07:00",
+   "title": "DCD Studio: Regulating data centers - what can be done? With Allison Clements, ASG",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-regulating-data-centers-what-can-be-done-with-allison-clements-asg/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a media podcast discussion analyzing long-term US grid policy and regulatory hurdles for data centers.",
+   "summary": "A new interview with an energy regulatory expert discusses evolving FERC policies and how the power grid can handle massive data center demand. It addresses the growing need for grid connection rules and financial protections against speculative power requests.",
+   "vocab": [
+    {
+     "word": "speculative",
+     "thai": "ที่เกิดจากการเก็งกำไรหรือไม่แน่นอน",
+     "level": "B2",
+     "example": "The discussion covers financial safeguards against speculative data center demand."
+    },
+    {
+     "word": "reliability",
+     "thai": "ความน่าเชื่อถือหรือเสถียรภาพ",
+     "level": "B2",
+     "example": "The podcast covers grid reliability and evolving power regulations."
+    },
+    {
+     "word": "evolving",
+     "thai": "ที่กำลังพัฒนาหรือปรับเปลี่ยน",
+     "level": "B2",
+     "example": "The host speaks with an expert about evolving FERC regulations."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 1,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 742,
+   "ts": "2026-10-30T08:27:04.961096+07:00",
+   "title": "Meta to buy 200,000 tons of low carbon cement associated credits from Fortera",
+   "link": "https://www.datacenterdynamics.com/en/news/meta-to-buy-200000-tons-of-low-carbon-cement-associated-credits-from-fortera/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Meta's cement credit procurement is relevant to green facility construction and embodied carbon tracking.",
+   "summary": "Meta agreed to purchase environmental credits for 200,000 tons of low-carbon cement from startup Fortera to support its data center building projects. The deal aims to lower embodied carbon in physical facility construction and helps finance commercial cement plants.",
+   "vocab": [
+    {
+     "word": "procure",
+     "thai": "จัดซื้อจัดหา",
+     "level": "C1",
+     "example": "The agreement included the right to procure low-carbon cement."
+    },
+    {
+     "word": "decarbonize",
+     "thai": "ลดการปล่อยคาร์บอน",
+     "level": "C1",
+     "example": "Meta has backed low-carbon cement companies in a bid to decarbonize its construction chain."
+    },
+    {
+     "word": "attribute",
+     "thai": "คุณลักษณะหรือคุณสมบัติ",
+     "level": "B2",
+     "example": "Meta signed a deal for the environmental attribute certificates associated with the cement."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 743,
+   "ts": "2026-10-30T08:28:08.315270+07:00",
+   "title": "Orange seeks compensation from Nokia over outage in France earlier this month - report",
+   "link": "https://www.datacenterdynamics.com/en/news/orange-seeks-compensation-from-nokia-over-outage-in-france-earlier-this-month-report/",
+   "source": "DCD",
+   "score": 5,
+   "watch": true,
+   "reason": "It highlights major carrier network downtime caused by vendor core software bugs and subsequent liability claims.",
+   "summary": "Orange France is seeking financial compensation from Nokia after a software bug in Nokia equipment knocked out mobile network service for millions of users. The outage lasted for around ten hours and prompted the carrier to provide free data packages to affected subscribers.",
+   "vocab": [
+    {
+     "word": "compensation",
+     "thai": "เงินค่าชดเชย",
+     "level": "B2",
+     "example": "Orange seeks compensation from Nokia over outage in France earlier this month."
+    },
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The October 21 outage caused significant disruption for Orange customers in France."
+    },
+    {
+     "word": "vendor",
+     "thai": "ผู้จัดจำหน่ายสินค้าหรือบริการ",
+     "level": "B2",
+     "example": "Orange France is reportedly seeking compensation from network vendor Nokia."
+    }
+   ],
+   "status": "sent",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8,
+   "msg_id": 423,
+   "sent_ts": "2026-10-30T08:28:09.042228+07:00"
+  },
+  {
+   "id": 744,
+   "ts": "2026-10-30T08:28:09.042406+07:00",
+   "title": "Conglomerate Chatterjee Group launches Cortex DC, targets 2GW of data center capacity in India",
+   "link": "https://www.datacenterdynamics.com/en/news/conglomerate-chatterjee-group-launches-cortex-dc-targets-2gw-of-data-center-capacity-in-india/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It covers a massive new data center development plan in India intended to host AI and hyperscale cloud workloads.",
+   "summary": "Indian conglomerate The Chatterjee Group has launched Cortex DC with plans to build up to two gigawatts of data center capacity across India. The company aims to break ground soon and have its first facility ready for operations within 18 months.",
+   "vocab": [
+    {
+     "word": "conglomerate",
+     "thai": "กลุ่มบริษัทธุรกิจขนาดใหญ่",
+     "level": "C1",
+     "example": "Cortex DC is the AI subsidiary of Indian conglomerate The Chatterjee Group."
+    },
+    {
+     "word": "operational",
+     "thai": "ที่พร้อมใช้งานหรือปฏิบัติการได้",
+     "level": "B2",
+     "example": "TCG is targeting operational readiness for its first data center within 18 months."
+    },
+    {
+     "word": "catalyst",
+     "thai": "ตัวเร่งให้เกิดการเปลี่ยนแปลง",
+     "level": "C1",
+     "example": "We see Cortex DC as a catalyst of India’s emergence as a global AI hub."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 745,
+   "ts": "2026-10-30T08:28:09.042424+07:00",
+   "title": "PG&E sees marginal increase in data center pipeline",
+   "link": "https://www.datacenterdynamics.com/en/news/pge-sees-marginal-increase-in-data-center-pipeline/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Grid availability and utility interconnection queues directly dictate deployment schedules and power capacity for California data centers.",
+   "summary": "California utility PG&E announced that its data center interconnection pipeline has expanded slightly to nearly 13 gigawatts of requested power. However, key projects like Google's 250MW facility face ongoing regulatory hurdles and construction delays.",
+   "vocab": [
+    {
+     "word": "marginal",
+     "thai": "น้อยมากหรือเพิ่มขึ้นเพียงเล็กน้อย",
+     "level": "C1",
+     "example": "PG&E sees marginal increase in data center pipeline."
+    },
+    {
+     "word": "pipeline",
+     "thai": "ลำดับโครงการที่อยู่ระหว่างรอดำเนินการ",
+     "level": "B2",
+     "example": "We are continuing to build a high-quality data center pipeline."
+    },
+    {
+     "word": "modernization",
+     "thai": "การปรับปรุงให้ทันสมัย",
+     "level": "B2",
+     "example": "The utility is focused on grid modernization to support 1.8GW of potential data center demand."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 746,
+   "ts": "2026-10-30T08:28:09.042440+07:00",
+   "title": "Researchers find bugs in 5 AI developer tools, with OpenAI and Microsoft flaws still unpatched",
+   "link": "https://www.theregister.com/security/2026/10/29/researchers-find-bugs-in-5-ai-developer-tools-with-openai-and-microsoft-flaws-still-unpatched/5306508",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "The digest highlights unpatched flaws in common AI developer platforms and zero-days in enterprise collaboration servers.",
+   "summary": "Security researchers have discovered unpatched vulnerabilities across multiple popular AI developer tools from providers like OpenAI and Microsoft. The roundup also highlights ongoing cyber threats, including active zero-day exploits targeting on-premises enterprise software.",
+   "vocab": [
+    {
+     "word": "mounting",
+     "thai": "ที่เพิ่มมากขึ้นเรื่อยๆ",
+     "level": "B2",
+     "example": "Big Red juggles large capex and mounting debt toward its revenue goal."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การสอดแนมหรือเฝ้าระวัง",
+     "level": "C1",
+     "example": "China upgrades smartphone surveillance tools according to security reports."
+    },
+    {
+     "word": "unaffiliated",
+     "thai": "ที่ไม่ได้ขึ้นตรงหรือสังกัดต่อกลุ่มใด",
+     "level": "C1",
+     "example": "The new project is unaffiliated with the original Linux system."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 747,
+   "ts": "2026-10-30T08:29:48.164850+07:00",
+   "title": "Startup wants to make AI agents safe for DevOps duty",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/29/startup-wants-to-make-ai-agents-safe-for-devops-duty/5306477",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Security controls for autonomous AI agents in DevOps workflows directly address emerging infrastructure automation risks.",
+   "summary": "A startup is building dedicated safety mechanisms to ensure autonomous AI agents can safely handle DevOps and operational duties. This prevents automated systems from inadvertently executing destructive commands across cloud infrastructure.",
+   "vocab": [
+    {
+     "word": "adoption",
+     "thai": "การยอมรับนำมาใช้",
+     "level": "B2",
+     "example": "Rapid enterprise adoption of AI agents has raised serious operational concerns."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "C1",
+     "example": "The cybersecurity firm reached a multi-billion dollar valuation in its latest deal."
+    },
+    {
+     "word": "complicate",
+     "thai": "ทำให้ยุ่งยากหรือซับซ้อนขึ้น",
+     "level": "B2",
+     "example": "Unvetted automated contributions could complicate ongoing community discussions."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 748,
+   "ts": "2026-10-30T08:29:48.164892+07:00",
+   "title": "Suspected Chinese attackers built a custom PHP2Shell exploit and rooted 25 servers",
+   "link": "https://www.theregister.com/security/2026/10/29/suspected-chinese-attackers-built-a-custom-php2shell-exploit-and-rooted-25-servers/5306456",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "An active exploit yielding root access on production servers represents an urgent threat to infrastructure security.",
+   "summary": "Threat actors deployed a custom PHP exploit to achieve root privileges on at least 25 targeted web servers. System administrators must inspect web-facing servers and audit PHP configurations to defend against unauthorized remote shell execution.",
+   "vocab": [
+    {
+     "word": "exploit",
+     "thai": "โค้ดหรือช่องโหว่ที่ใช้เจาะระบบ",
+     "level": "B2",
+     "example": "Attackers built a custom PHP exploit to compromise internet-facing servers."
+    },
+    {
+     "word": "rooted",
+     "thai": "ถูกยึดสิทธิ์ระดับผู้ดูแลระบบสูงสุด",
+     "level": "B2",
+     "example": "Intruders rooted multiple servers after successfully executing the script."
+    },
+    {
+     "word": "propaganda",
+     "thai": "ข้อมูลชวนเชื่อ",
+     "level": "B2",
+     "example": "Federal authorities took down several overseas propaganda domains."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 749,
+   "ts": "2026-10-30T08:29:48.164908+07:00",
+   "title": "Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop",
+   "link": "https://www.theregister.com/os-platforms/2026/10/29/ubuntu-2704-may-bring-a-preview-of-the-long-awaited-core-desktop/5306426",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Ubuntu Core Desktop developments mostly concern client workstations rather than production server racks.",
+   "summary": "Canonical plans to include a preview of its immutable Ubuntu Core Desktop in the upcoming 27.04 distribution. While an important milestone for the Ubuntu ecosystem, it focuses on end-user endpoints rather than server hosting.",
+   "vocab": [
+    {
+     "word": "lightweight",
+     "thai": "ที่ใช้ทรัพยากรน้อย",
+     "level": "B2",
+     "example": "Administrators prefer lightweight distributions for resource-constrained systems."
+    },
+    {
+     "word": "kernel",
+     "thai": "แกนกลางของระบบปฏิบัติการ",
+     "level": "B2",
+     "example": "Developers are introducing memory-safe languages into the core operating system kernel."
+    },
+    {
+     "word": "chasing",
+     "thai": "กำลังไล่กวดหรือตามให้ทัน",
+     "level": "B2",
+     "example": "The open-source project is chasing established competitors in the desktop market."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 750,
+   "ts": "2026-10-30T08:29:48.164936+07:00",
+   "title": "GSA left sensitive Google Drive files open to staff, contractors",
+   "link": "https://www.theregister.com/public-sector/2026/10/29/gsa-left-sensitive-google-drive-files-open-to-staff-contractors/5306430",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Cloud storage misconfiguration in government highlights identity risks but does not directly disrupt core infrastructure.",
+   "summary": "The US General Services Administration inadvertently allowed broad access to sensitive Google Drive documents among internal staff and contractors. The incident highlights how misconfigured cloud access policies can lead to significant data exposure risks.",
+   "vocab": [
+    {
+     "word": "sensitive",
+     "thai": "ที่เป็นความลับหรือละเอียดอ่อน",
+     "level": "B2",
+     "example": "Auditors discovered sensitive agency files exposed without proper authorization."
+    },
+    {
+     "word": "contractor",
+     "thai": "ผู้รับจ้างช่วงหรือบริษัทภายนอก",
+     "level": "B2",
+     "example": "Access controls must clearly separate permanent employees from an external contractor."
+    },
+    {
+     "word": "snooping",
+     "thai": "การแอบสอดแนมดูข้อมูล",
+     "level": "C1",
+     "example": "Security teams introduced stricter controls to prevent internal snooping."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 751,
+   "ts": "2026-10-30T08:29:48.164954+07:00",
+   "title": "Oracle wants to bill you for every AI task, not just every seat",
+   "link": "https://www.theregister.com/applications/2026/10/29/oracle-wants-to-bill-you-for-every-ai-task-not-just-every-seat/5306403",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Shifts in AI billing models from seat licenses to consumption impact cloud procurement and enterprise infrastructure budgets.",
+   "summary": "Oracle is restructuring its enterprise AI pricing to bill customers per completed task instead of using traditional seat licenses. This shift to consumption-based billing will force infrastructure leaders to manage and forecast cloud AI costs much more closely.",
+   "vocab": [
+    {
+     "word": "subscription",
+     "thai": "ค่าบริการตามรอบระยะเวลา",
+     "level": "B2",
+     "example": "Vendors are adding usage-based charges on top of the base subscription."
+    },
+    {
+     "word": "capex",
+     "thai": "งบรายจ่ายฝ่ายทุน",
+     "level": "C1",
+     "example": "Building dedicated AI clusters requires massive capex from cloud providers."
+    },
+    {
+     "word": "mounting",
+     "thai": "ที่เพิ่มพูนขึ้นเรื่อยๆ",
+     "level": "B2",
+     "example": "Cloud providers must balance mounting construction debt with projected AI revenues."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 735,
+ "next_id": 752,
  "vocab": [
-  {
-   "word": "complexity",
-   "thai": "ความซับซ้อน",
-   "level": "B2",
-   "example": "High-density AI-ready data centers are driving up complexity at the facility level.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "proactive",
-   "thai": "เชิงรุก",
-   "level": "C1",
-   "example": "The ability to manage and respond proactively to potential threats has become a defining operational challenge.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "holistic",
-   "thai": "แบบองค์รวม",
-   "level": "C1",
-   "example": "Making a holistic, streamlined view of end-to-end operations fundamental to long-term success.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "vulnerable",
    "thai": "เสี่ยงต่ออันตราย",
@@ -24832,6 +25368,36 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "compensation",
+   "thai": "เงินค่าชดเชย",
+   "level": "B2",
+   "example": "Orange seeks compensation from Nokia over outage in France earlier this month.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disruption",
+   "thai": "การหยุดชะงัก",
+   "level": "B2",
+   "example": "The October 21 outage caused significant disruption for Orange customers in France.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vendor",
+   "thai": "ผู้จัดจำหน่ายสินค้าหรือบริการ",
+   "level": "B2",
+   "example": "Orange France is reportedly seeking compensation from network vendor Nokia.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -25042,7 +25608,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
