@@ -1570,332 +1570,6 @@
  ],
  "stories": [
   {
-   "id": 241,
-   "ts": "2026-10-16T09:05:57.811699+07:00",
-   "title": "RPKI now protects 70% of internet routes",
-   "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Covers global BGP routing security improvements through RPKI, which is critical for network engineers and infrastructure operators.",
-   "summary": "The percentage of internet routes protected by RPKI security certificates has reached 70 percent globally. This helps prevent accidental or malicious traffic hijacking by allowing network operators to easily drop invalid routing announcements.",
-   "vocab": [
-    {
-     "word": "unreachable",
-     "thai": "ที่ไม่สามารถเข้าถึงได้",
-     "level": "B2",
-     "example": "traffic can be sent to the wrong place and services can become unreachable."
-    },
-    {
-     "word": "exaggerate",
-     "thai": "กล่าวเกินจริง",
-     "level": "B2",
-     "example": "Simply counting invalid routes can badly exaggerate how much of a country is affected."
-    },
-    {
-     "word": "certificate",
-     "thai": "ใบรับรอง",
-     "level": "B2",
-     "example": "the regional Internet registries began issuing RPKI certificates in 2011."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 145,
-   "sent_ts": "2026-10-16T12:46:04.856013+07:00"
-  },
-  {
-   "id": 242,
-   "ts": "2026-10-16T09:05:57.811751+07:00",
-   "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
-   "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Discusses Meta's terms update regarding web scraping of business accounts for AI training, impacting digital publishers and cloud data policies.",
-   "summary": "Meta's updated commercial terms allow the company to use automated web scrapers on websites associated with business accounts. Legal experts warn this gives Meta permission to train its AI models on publisher content without separate licensing.",
-   "vocab": [
-    {
-     "word": "provision",
-     "thai": "บทบัญญัติ, ข้อกำหนด",
-     "level": "C1",
-     "example": "This is a remarkable provision to bury in the terms of service."
-    },
-    {
-     "word": "comprehensive",
-     "thai": "ครอบคลุม, สมบูรณ์",
-     "level": "C1",
-     "example": "develop a comprehensive archive of all content that Meta would then serve."
-    },
-    {
-     "word": "authorize",
-     "thai": "มอบอำนาจ, อนุญาตอย่างเป็นทางการ",
-     "level": "B2",
-     "example": "You authorize us to use automated software to crawl the domains."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 243,
-   "ts": "2026-10-16T09:05:57.811771+07:00",
-   "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
-   "link": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Explains hardware cooling and thermal management techniques in mobile chips, touching upon design concepts relevant to hardware engineers.",
-   "summary": "Apple's latest mobile processor uses a new packaging design and thermal management to fit laptop-class power into a thin phone. Engineers unstacked the memory module from the processor to improve data speeds and extract heat more effectively.",
-   "vocab": [
-    {
-     "word": "constraint",
-     "thai": "ข้อจำกัด",
-     "level": "C1",
-     "example": "Each has its own set of requirements and constraints for heat management."
-    },
-    {
-     "word": "configuration",
-     "thai": "การกำหนดค่า, การจัดรูปแบบ",
-     "level": "C1",
-     "example": "Apple follows this configuration with the A20 Pro, unstacking the DRAM module."
-    },
-    {
-     "word": "dissipate",
-     "thai": "ระบายออก, ทำให้จางหาย",
-     "level": "C1",
-     "example": "Apple routed a graphite pipe through the hinge to dissipate heat."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 244,
-   "ts": "2026-10-16T09:05:57.811806+07:00",
-   "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
-   "link": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers major Linux desktop environment updates and the deprecation of X11, relevant to DevOps and system administrators managing Linux workstations.",
-   "summary": "KDE has released Plasma 6.8 to mark its 30th anniversary while officially retiring native support for the legacy X11 display protocol. The desktop environment now fully adopts Wayland, joining other major Linux distributions in phasing out older display technology.",
-   "vocab": [
-    {
-     "word": "anniversary",
-     "thai": "วันครบรอบ",
-     "level": "B2",
-     "example": "Marking the 30th anniversary of software developer KDE, the company released Plasma 6.8."
-    },
-    {
-     "word": "legacy",
-     "thai": "ระบบรุ่นเก่า",
-     "level": "C1",
-     "example": "Legacy X11 applications will still function via the XWayland compatibility layer."
-    },
-    {
-     "word": "streamlined",
-     "thai": "ที่ทำให้เรียบง่ายและมีประสิทธิภาพขึ้น",
-     "level": "C1",
-     "example": "a more streamlined Union theming system."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 245,
-   "ts": "2026-10-16T09:05:57.811825+07:00",
-   "title": "Black Sea drone attacks enter NATO country's territorial waters for first time",
-   "link": "https://arstechnica.com/gadgets/2026/10/black-sea-drone-attacks-enter-nato-countrys-territorial-waters-for-first-time/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Reports on geopolitical drone attacks affecting shipping infrastructure near NATO borders, relevant to regional supply chain and critical infrastructure security.",
-   "summary": "Suspected Russian drone attacks have struck commercial cargo ships and chemical tankers inside the territorial waters and exclusive economic zones of NATO member countries. In response, NATO has increased its counter-drone capabilities along its eastern flank.",
-   "vocab": [
-    {
-     "word": "casualty",
-     "thai": "ผู้บาดเจ็บหรือเสียชีวิต",
-     "level": "C1",
-     "example": "there were no immediate details about damage or casualties."
-    },
-    {
-     "word": "redeploy",
-     "thai": "ปรับกำลังพลหรือยุทโธปกรณ์ใหม่",
-     "level": "C1",
-     "example": "Such attacks have spurred requests for NATO to redeploy counter-drone systems."
-    },
-    {
-     "word": "evacuation",
-     "thai": "การอพยพ",
-     "level": "B2",
-     "example": "forced the evacuation of another vessel within two dozen miles of the coast."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 8,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 246,
-   "ts": "2026-10-16T09:05:57.811847+07:00",
-   "title": "Microplastics in water aren’t inert and make damaging chemicals on their own",
-   "link": "https://arstechnica.com/science/2026/10/microplastics-in-water-arent-inert-and-make-damaging-chemicals-on-their-own/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Scientific study on microplastic chemical reactivity, interesting for general awareness but lacking direct impact on infrastructure operations.",
-   "summary": "Recent research demonstrates that microplastics are not entirely chemically inert and can generate harmful reactive oxygen species when interacting with water. The study found that common plastic particles create chemical radicals that can potentially damage biological molecules.",
-   "vocab": [
-    {
-     "word": "consequence",
-     "thai": "ผลลัพธ์, ผลที่ตามมา",
-     "level": "B2",
-     "example": "The consequences of that are uncertain."
-    },
-    {
-     "word": "interact",
-     "thai": "มีปฏิกิริยาต่อกัน",
-     "level": "B2",
-     "example": "bags don't react with what we put in them, but microplastics interact with water."
-    },
-    {
-     "word": "fluorescent",
-     "thai": "เรืองแสง",
-     "level": "C1",
-     "example": "the team used a fluorescent sensor that lights up only when it reacts."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 247,
-   "ts": "2026-10-16T09:06:07.984400+07:00",
-   "title": "Neutron's first launch slips again amid trouble with carbon composites",
-   "link": "https://arstechnica.com/space/2026/10/rocket-lab-announces-another-delay-for-its-medium-lift-neutron-rocket/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Aerospace manufacturing delays affect hardware supply chains, but not directly IT infrastructure.",
-   "summary": "Rocket Lab delayed its Neutron rocket launch to 2027 due to manufacturing defects in its carbon composite structures. Engineers found air pockets in the propellant tank domes during out-of-autoclave curing.",
-   "vocab": [
-    {
-     "word": "durability",
-     "thai": "ความทนทาน",
-     "level": "B2",
-     "example": "Defects could affect the structure's strength, durability, and reliability."
-    },
-    {
-     "word": "propellant",
-     "thai": "เชื้อเพลิงขับดัน",
-     "level": "C1",
-     "example": "Engineers found voids in the propellant tanks."
-    },
-    {
-     "word": "component",
-     "thai": "ส่วนประกอบ",
-     "level": "B2",
-     "example": "Issues arose during manufacturing of the carbon composite structures."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 248,
-   "ts": "2026-10-16T09:06:07.984439+07:00",
-   "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
-   "link": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Major AI infrastructure and software providers face regulatory probes over security incidents.",
-   "summary": "The Federal Trade Commission has launched formal probes into Anthropic and OpenAI regarding consumer safety. The investigation follows multiple security incidents where AI models breached government and website systems.",
-   "vocab": [
-    {
-     "word": "subpoena",
-     "thai": "หมายศาล",
-     "level": "C1",
-     "example": "The FTC sent out civil investigative demands and subpoenas."
-    },
-    {
-     "word": "litigation",
-     "thai": "การฟ้องร้องคดี",
-     "level": "C1",
-     "example": "Evidence gathered may support FTC litigation against the firms."
-    },
-    {
-     "word": "anthropomorphize",
-     "thai": "มองสิ่งที่ไม่ใช่คนให้มีลักษณะเหมือนมนุษย์",
-     "level": "C2",
-     "example": "The FTC chair emphasized that he is tired of people anthropomorphizing AI tools."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 249,
-   "ts": "2026-10-16T09:06:07.984479+07:00",
-   "title": "Singer or clanker? YouTube Music will tell you with new gen AI labeling.",
-   "link": "https://arstechnica.com/ai/2026/10/youtube-music-begins-labeling-ai-songs/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "A software feature update for AI content labeling on a streaming platform has minimal impact on server operations.",
-   "summary": "Google is introducing generative AI content labels to YouTube Music to identify synthetic tracks. Publishers can optionally specify the level of AI used when uploading songs.",
-   "vocab": [
-    {
-     "word": "disclosure",
-     "thai": "การเปิดเผยข้อมูล",
-     "level": "C1",
-     "example": "Building on similar disclosures in the main YouTube app."
-    },
-    {
-     "word": "acknowledge",
-     "thai": "ยอมรับ",
-     "level": "B2",
-     "example": "The company acknowledges that people want to know how songs are created."
-    },
-    {
-     "word": "significantly",
-     "thai": "อย่างมีนัยสำคัญ",
-     "level": "B2",
-     "example": "The label applies to songs altered significantly with AI."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
    "id": 250,
    "ts": "2026-10-16T15:35:58.762388+07:00",
    "title": "Open source sovereignty gets down to the boring business of making it work",
@@ -19592,7 +19266,7 @@
      "example": "vs fast alternatives outlined in this blog."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -19628,7 +19302,7 @@
      "example": "In the OpenTelemetry export the suppressed requests are events with query source."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 3,
@@ -19702,7 +19376,7 @@
      "example": "These high-tech surveillance devices have been installed without clear public consent."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 4,
@@ -19738,11 +19412,13 @@
      "example": "As the ice dwindles, there is less freshwater available during the melt season."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 2,
    "urgency": 2,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 427,
+   "sent_ts": "2026-10-30T14:00:09.979422+07:00"
   },
   {
    "id": 734,
@@ -19812,7 +19488,7 @@
      "example": "We are not here to make a pronouncement, but to invite residents to help shape a vision."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -19848,11 +19524,13 @@
      "example": "Those detained by police include 35 minors preparing attacks."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 428,
+   "sent_ts": "2026-10-30T14:00:10.482568+07:00"
   },
   {
    "id": 737,
@@ -19884,7 +19562,7 @@
      "example": "The combination of infrastructure and competitive costs makes India a compelling market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -19920,11 +19598,13 @@
      "example": "The administration opposes heavy-handed government regulation."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 425,
+   "sent_ts": "2026-10-30T14:00:08.974078+07:00"
   },
   {
    "id": 739,
@@ -19956,7 +19636,7 @@
      "example": "The investment will support Heim's team and help advance its projects."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -19992,7 +19672,7 @@
      "example": "We were forced to postpone this afternoon’s community drop-in session."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 3,
@@ -20028,7 +19708,7 @@
      "example": "The host speaks with an expert about evolving FERC regulations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 1,
    "scale": 6,
@@ -20064,7 +19744,7 @@
      "example": "Meta signed a deal for the environmental attribute certificates associated with the cement."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -20138,7 +19818,7 @@
      "example": "We see Cortex DC as a catalyst of India’s emergence as a global AI hub."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -20174,11 +19854,13 @@
      "example": "The utility is focused on grid modernization to support 1.8GW of potential data center demand."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 429,
+   "sent_ts": "2026-10-30T14:00:10.981634+07:00"
   },
   {
    "id": 746,
@@ -20210,11 +19892,13 @@
      "example": "The new project is unaffiliated with the original Linux system."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 430,
+   "sent_ts": "2026-10-30T14:00:11.480636+07:00"
   },
   {
    "id": 747,
@@ -20246,11 +19930,13 @@
      "example": "Unvetted automated contributions could complicate ongoing community discussions."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 431,
+   "sent_ts": "2026-10-30T14:00:11.963792+07:00"
   },
   {
    "id": 748,
@@ -20282,11 +19968,13 @@
      "example": "Federal authorities took down several overseas propaganda domains."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 426,
+   "sent_ts": "2026-10-30T14:00:09.485022+07:00"
   },
   {
    "id": 749,
@@ -20318,7 +20006,7 @@
      "example": "The open-source project is chasing established competitors in the desktop market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -20354,7 +20042,7 @@
      "example": "Security teams introduced stricter controls to prevent internal snooping."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -20390,195 +20078,17 @@
      "example": "Cloud providers must balance mounting construction debt with projected AI revenues."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 432,
+   "sent_ts": "2026-10-30T14:00:12.468409+07:00"
   }
  ],
  "next_id": 752,
  "vocab": [
-  {
-   "word": "vulnerable",
-   "thai": "เสี่ยงต่ออันตราย",
-   "level": "B2",
-   "example": "Weak credentials leave systems vulnerable to automated attacks.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exposure",
-   "thai": "การเปิดเผย, การรั่วไหล",
-   "level": "B2",
-   "example": "The data breach led to widespread exposure of personal information.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deployment",
-   "thai": "การนำไปใช้งานจริง",
-   "level": "C1",
-   "example": "Scaleway has revealed plans to deploy GPU capacity in Copenhagen and Sweden.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "milestone",
-   "thai": "เหตุการณ์สำคัญ",
-   "level": "B2",
-   "example": "Doing it from Sweden makes this milestone particularly meaningful.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "clarification",
-   "thai": "การชี้แจงเพิ่มเติม",
-   "level": "C1",
-   "example": "DCD has reached out for clarification on how this differs from other zones.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "portfolio",
-   "thai": "กลุ่มผลิตภัณฑ์หรือบริการ",
-   "level": "B2",
-   "example": "Microchip has expanded its data center solutions portfolio.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "resiliency",
-   "thai": "ความยืดหยุ่นและการฟื้นตัวเร็ว",
-   "level": "C1",
-   "example": "Self-encrypting drives were added for increased resiliency and security.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "phishing",
-   "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูล",
-   "level": "B2",
-   "example": "Attackers disguised as technical support launched phishing attacks to steal credentials.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "arsenal",
-   "thai": "คลังอาวุธหรือทรัพยากร",
-   "level": "C1",
-   "example": "The company added high-performance servers to its operational arsenal.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "proliferation",
-   "thai": "การแพร่ขยายอย่างรวดเร็ว",
-   "level": "C1",
-   "example": "The rapid proliferation of data centers threatens higher energy bills.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intervene",
-   "thai": "เข้าแทรกแซง, เข้ามาจัดการ",
-   "level": "B2",
-   "example": "European datacenter boom threatens higher energy bills unless governments intervene.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "surge",
-   "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
-   "level": "B2",
-   "example": "Local power grids will struggle with the surging demand from new facilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intercept",
-   "thai": "ดักจับ",
-   "level": "B2",
-   "example": "Unknown individuals have succeeded in intercepting and manipulating the offline wallets.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "perpetrator",
-   "thai": "ผู้กระทำความผิด, อาชญากร",
-   "level": "C1",
-   "example": "This is exactly what the perpetrators are doing.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deplete",
-   "thai": "ทำให้หมดสิ้น, สูญเสีย",
-   "level": "C1",
-   "example": "Wallets have been collectively depleted of approximately 93 million US dollars.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "demolishing",
-   "thai": "รื้อถอน, ทำลาย",
-   "level": "B2",
-   "example": "The works will include demolishing existing structures and enabling works.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conversion",
-   "thai": "การแปลงสภาพ",
-   "level": "B2",
-   "example": "According to Vivo, the data center conversion is being completed with the aim of capturing waste heat.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "independently",
-   "thai": "อย่างอิสระ",
-   "level": "B2",
-   "example": "to hold and independently capitalize the non-Nordic AI data center portfolio.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "accelerate",
    "thai": "เร่งความเร็ว",
@@ -25394,6 +24904,186 @@
    "thai": "ผู้จัดจำหน่ายสินค้าหรือบริการ",
    "level": "B2",
    "example": "Orange France is reportedly seeking compensation from network vendor Nokia.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "naysayer",
+   "thai": "ผู้คัดค้านหรือผู้มองในแง่ลบ",
+   "level": "C1",
+   "example": "The GPU giant is doing its best to try and win over the industry’s naysayers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "guardrails",
+   "thai": "แนวทางป้องกันหรือกรอบความปลอดภัย",
+   "level": "B2",
+   "example": "The full-stack offering enforces policy-based security and privacy guardrails for AI agents.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "heavy-handed",
+   "thai": "ใช้อำนาจเด็ดขาดหรือเข้มงวดเกินไป",
+   "level": "C1",
+   "example": "The administration opposes heavy-handed government regulation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "rooted",
+   "thai": "ถูกยึดสิทธิ์ระดับผู้ดูแลระบบสูงสุด",
+   "level": "B2",
+   "example": "Intruders rooted multiple servers after successfully executing the script.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propaganda",
+   "thai": "ข้อมูลชวนเชื่อ",
+   "level": "B2",
+   "example": "Federal authorities took down several overseas propaganda domains.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "salinity",
+   "thai": "ความเค็ม",
+   "level": "C1",
+   "example": "Researchers documented a sharp salinity increase in a vast layer of the Southern Ocean.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "redistributes",
+   "thai": "กระจายใหม่",
+   "level": "C1",
+   "example": "Changes to the layer influence how the ocean stores and redistributes heat.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dwindles",
+   "thai": "ค่อยๆ ลดลง",
+   "level": "C1",
+   "example": "As the ice dwindles, there is less freshwater available during the melt season.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arson",
+   "thai": "การลอบวางเพลิง",
+   "level": "B2",
+   "example": "Turkish police make 85 arrests over last month's arson attack against a Starlink station.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "detained",
+   "thai": "ถูกควบคุมตัว",
+   "level": "B2",
+   "example": "Those detained by police include 35 minors preparing attacks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "marginal",
+   "thai": "น้อยมากหรือเพิ่มขึ้นเพียงเล็กน้อย",
+   "level": "C1",
+   "example": "PG&E sees marginal increase in data center pipeline.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "modernization",
+   "thai": "การปรับปรุงให้ทันสมัย",
+   "level": "B2",
+   "example": "The utility is focused on grid modernization to support 1.8GW of potential data center demand.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mounting",
+   "thai": "ที่เพิ่มมากขึ้นเรื่อยๆ",
+   "level": "B2",
+   "example": "Big Red juggles large capex and mounting debt toward its revenue goal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unaffiliated",
+   "thai": "ที่ไม่ได้ขึ้นตรงหรือสังกัดต่อกลุ่มใด",
+   "level": "C1",
+   "example": "The new project is unaffiliated with the original Linux system.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "valuation",
+   "thai": "การประเมินมูลค่า",
+   "level": "C1",
+   "example": "The cybersecurity firm reached a multi-billion dollar valuation in its latest deal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "complicate",
+   "thai": "ทำให้ยุ่งยากหรือซับซ้อนขึ้น",
+   "level": "B2",
+   "example": "Unvetted automated contributions could complicate ongoing community discussions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "subscription",
+   "thai": "ค่าบริการตามรอบระยะเวลา",
+   "level": "B2",
+   "example": "Vendors are adding usage-based charges on top of the base subscription.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "capex",
+   "thai": "งบรายจ่ายฝ่ายทุน",
+   "level": "C1",
+   "example": "Building dedicated AI clusters requires massive capex from cloud providers.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
