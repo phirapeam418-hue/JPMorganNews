@@ -20425,7 +20425,7 @@
    "thai": "การร่วมมือกัน",
    "level": "B2",
    "example": "nVent and AMD today announced a collaboration to bring rack-level cooling to the AMD Helios Rackscale solution.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21475,7 +21475,7 @@
    "thai": "ละเอียดอ่อนและซับซ้อนขึ้น",
    "level": "C1",
    "example": "Today, the conversations I am having with business leaders are becoming more nuanced.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22065,7 +22065,7 @@
    "thai": "ที่มีความหลากหลายหรือแตกต่างกันในระบบ",
    "level": "C1",
    "example": "Modern enterprise environments have become innately heterogeneous.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22095,7 +22095,7 @@
    "thai": "การเพิ่มความรุนแรงขึ้น",
    "level": "C1",
    "example": "The conflict between Ukraine and Russia has seen significant escalation.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23955,7 +23955,7 @@
    "thai": "เอาแน่เอานอนไม่ได้",
    "level": "C1",
    "example": "Internet disruptions followed the erratic patterns of an unstable power grid.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24767,26 +24767,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6248836425341469382": {
-   "word": "infrastructure",
-   "correct": 1
-  },
-  "6248836425341469383": {
-   "word": "regulator",
-   "correct": 3
-  },
-  "6248836425341469384": {
-   "word": "sabotage",
-   "correct": 3
-  },
-  "6248836425341469385": {
-   "word": "vulnerable",
-   "correct": 2
-  },
-  "6248836425341469386": {
-   "word": "occupier",
-   "correct": 1
-  },
   "6253398384984458071": {
    "word": "crawler",
    "correct": 2
@@ -24966,6 +24946,26 @@
   "6278525206386443235": {
    "word": "inoperable",
    "correct": 3
+  },
+  "6278459983013086141": {
+   "word": "heterogeneous",
+   "correct": 1
+  },
+  "6278459983013086142": {
+   "word": "collaboration",
+   "correct": 1
+  },
+  "6278459983013086143": {
+   "word": "escalation",
+   "correct": 1
+  },
+  "6278459983013086144": {
+   "word": "nuanced",
+   "correct": 2
+  },
+  "6278459983013086145": {
+   "word": "erratic",
+   "correct": 0
   }
  },
  "fail": {
