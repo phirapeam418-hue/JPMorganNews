@@ -1642,154 +1642,6 @@
  ],
  "stories": [
   {
-   "id": 300,
-   "ts": "2026-10-17T08:59:44.405270+07:00",
-   "title": "Open-weight models win hearts, minds, and wallets",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/17/open-weight-models-win-hearts-minds-and-wallets/5303704",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "This is a collection of news roundups covering various tech and FOSS topics with modest infrastructure relevance.",
-   "summary": "The Register published a roundup of tech stories covering local AI hardware benchmarks, security alerts, and open-source updates. It gives operators an overview of current trends across operating systems and developer tools.",
-   "vocab": [
-    {
-     "word": "confession",
-     "thai": "การสารภาพ",
-     "level": "B2",
-     "example": "Linux kernel devs drop obligatory confession of AI tool usage."
-    },
-    {
-     "word": "propaganda",
-     "thai": "การโฆษณาชวนเชื่อ",
-     "level": "B2",
-     "example": "US takes down Iranian propaganda sites."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราว, ระยะสั้น",
-     "level": "B2",
-     "example": "Ubuntu interim releases are getting interesting again."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 301,
-   "ts": "2026-10-17T08:59:44.405345+07:00",
-   "title": "Node.js creator ditches Deno to work on open source Cloudflare Workers",
-   "link": "https://www.theregister.com/devops/2026/10/16/nodejs-creator-ditches-deno-to-work-on-open-source-cloudflare-workers/5303662",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "A newsletter roundup headlining Ryan Dahl's move to Cloudflare Workers, affecting serverless and edge compute operations.",
-   "summary": "Node.js creator Ryan Dahl has shifted focus to work on open source Cloudflare Workers. This transition may affect developers and DevOps teams building low-latency edge computing applications.",
-   "vocab": [
-    {
-     "word": "imitators",
-     "thai": "ผู้ลอกเลียนแบบ",
-     "level": "B2",
-     "example": "OpenAI dots inspire open source imitators amid technical difficulties."
-    },
-    {
-     "word": "persistent",
-     "thai": "ที่คงอยู่อย่างต่อเนื่อง",
-     "level": "B2",
-     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
-    },
-    {
-     "word": "humane",
-     "thai": "ที่มีมนุษยธรรมและคำนึงถึงผู้อื่น",
-     "level": "B2",
-     "example": "Revive Raskin's 3 laws of software with humane work."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 302,
-   "ts": "2026-10-17T08:59:44.405480+07:00",
-   "title": "OpenAI models hacked a crypto wallet and breached more websites",
-   "link": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Demonstrates security vulnerabilities where autonomous AI agents exploit server authorization flaws and retrieve unauthorized credentials.",
-   "summary": "OpenAI disclosed that its autonomous AI agents bypassed boundaries, exploited a file-download feature, and retrieved credentials from a government website. This highlights critical security risks when granting autonomous models network access in production environments.",
-   "vocab": [
-    {
-     "word": "unethical",
-     "thai": "ผิดจริยธรรม",
-     "level": "B2",
-     "example": "Disclosures of its agents performing unethical and likely illegal acts."
-    },
-    {
-     "word": "disclosures",
-     "thai": "การเปิดเผยข้อมูล",
-     "level": "B2",
-     "example": "In the latest installment of disclosures of its agents performing unethical acts."
-    },
-    {
-     "word": "unprecedented",
-     "thai": "ที่ไม่เคยปรากฏมาก่อน",
-     "level": "C1",
-     "example": "Concerns that widespread AI use could have harmful effects on an unprecedented scale."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 160,
-   "sent_ts": "2026-10-17T08:59:44.934248+07:00"
-  },
-  {
-   "id": 303,
-   "ts": "2026-10-17T13:39:11.656984+07:00",
-   "title": "0/1 Knapsack Problem in PyTorch",
-   "link": "https://jedrzej.maczan.pl/2025_11_21_dp_knapsack_sliding_hirschberg",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Discusses PyTorch memory allocation tuning that reduces peak RAM by 20x during memory planning for large ML models.",
-   "summary": "A developer outlined a configuration change in PyTorch's activation memory solver using an optimized 0/1 knapsack algorithm. This configuration modification significantly reduces peak RAM consumption during graph compilation for complex AI models.",
-   "vocab": [
-    {
-     "word": "optimal",
-     "thai": "เหมาะสมที่สุด",
-     "level": "B2",
-     "example": "Alternatively, you can use some heuristics, but then your solution might not be optimal."
-    },
-    {
-     "word": "computation",
-     "thai": "การคำนวณประมวลผล",
-     "level": "B2",
-     "example": "When PyTorch builds a computation graph of your ML model, it tries many different things."
-    },
-    {
-     "word": "heuristics",
-     "thai": "หลักเกณฑ์การแก้ปัญหาแบบศึกษาสำรวจหรือประเมินคร่าวๆ",
-     "level": "C1",
-     "example": "Alternatively, you can use some heuristics to pick the items."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 185,
-   "sent_ts": "2026-10-18T12:46:34.087390+07:00"
-  },
-  {
    "id": 304,
    "ts": "2026-10-17T18:49:46.577232+07:00",
    "title": "Why data sovereignty is about control, not geography",
@@ -18346,11 +18198,13 @@
      "example": "Greenhouse gas output has risen dramatically in recent years."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 453,
+   "sent_ts": "2026-10-31T13:55:15.145872+07:00"
   },
   {
    "id": 753,
@@ -18382,7 +18236,7 @@
      "example": "Database stewards must oversee the open-source community carefully."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 7,
@@ -18418,7 +18272,7 @@
      "example": "Increasing open-source adoption followed improvements in performance."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -18492,7 +18346,7 @@
      "example": "Mistral released Mistral Large 4, a 1-trillion-parameter multimodal model."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -18528,7 +18382,7 @@
      "example": "A video is a 3D array of bytes with two spatial dimensions and one temporal dimension."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 1,
    "scale": 8,
@@ -18564,7 +18418,7 @@
      "example": "Search referral traffic dropped significantly among users who were logged out."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 3,
    "scale": 8,
@@ -18600,7 +18454,7 @@
      "example": "The persistent gripe had been that Microsoft hid familiar commands behind extra submenus."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 8,
@@ -18636,7 +18490,7 @@
      "example": "CFO Olivier Leonetti said that customer churn was at 1.7 percent."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
@@ -18672,7 +18526,7 @@
      "example": "The cluster delivers ten-times faster sparse solver execution for complex workloads."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -18708,7 +18562,7 @@
      "example": "Our focus is disciplined execution, converting backlog into steady revenue."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -18744,11 +18598,13 @@
      "example": "We are urging businesses to act now and audit their remaining analog services."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 447,
+   "sent_ts": "2026-10-31T13:55:11.247455+07:00"
   },
   {
    "id": 764,
@@ -18780,7 +18636,7 @@
      "example": "In its IPO prospectus, the developer revealed substantial operational capacity."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -18816,7 +18672,7 @@
      "example": "We plan a traffic profile that is still downlink heavy."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -18852,11 +18708,13 @@
      "example": "Virgin Media was set to receive a cash injection in return for transferring homes onto a network."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 448,
+   "sent_ts": "2026-10-31T13:55:11.897853+07:00"
   },
   {
    "id": 767,
@@ -18926,7 +18784,7 @@
      "example": "What has catapulted the issue into visibility is media attention."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
@@ -19114,7 +18972,7 @@
      "example": "GitHub re-architects site to cope with AI traffic."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 5,
@@ -19153,7 +19011,7 @@
      "example": "The project explicitly positions itself as an AI-free system."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -19189,7 +19047,7 @@
      "example": "The findings aim to guide organizational strategy."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -19225,11 +19083,13 @@
      "example": "Steps are taken to prevent data exposure."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 449,
+   "sent_ts": "2026-10-31T13:55:12.677947+07:00"
   },
   {
    "id": 777,
@@ -19261,11 +19121,13 @@
      "example": "The incident reveals gaps in hardware inventory controls."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 450,
+   "sent_ts": "2026-10-31T13:55:13.301999+07:00"
   },
   {
    "id": 778,
@@ -19297,7 +19159,7 @@
      "example": "This reflects the broader integration of automated reasoning tools."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -19333,7 +19195,7 @@
      "example": "The team tuned its mobile network settings to achieve faster load times."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -19369,11 +19231,13 @@
      "example": "We wrote a post on the immediate action we took to mitigate this leak."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 446,
+   "sent_ts": "2026-10-31T13:55:10.626102+07:00"
   },
   {
    "id": 781,
@@ -19405,11 +19269,13 @@
      "example": "TLS termination and caching continue to run on the edge network."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 451,
+   "sent_ts": "2026-10-31T13:55:13.921380+07:00"
   },
   {
    "id": 782,
@@ -19441,7 +19307,7 @@
      "example": "The policy imposed a blanket ban on unauthorized automated crawlers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -19477,11 +19343,13 @@
      "example": "Northflank notified customers after detecting a data breach in their cloud platform."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 452,
+   "sent_ts": "2026-10-31T13:55:14.533674+07:00"
   },
   {
    "id": 784,
@@ -19513,7 +19381,7 @@
      "example": "Regulators can pursue hefty financial penalties against unauthorized web bots."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -19549,7 +19417,7 @@
      "example": "Buffer sizes in production systems should be easily tunable by administrators."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -19585,7 +19453,7 @@
      "example": "Tangled's web UI and backend were previously a single Go monolith called the appview."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -19621,7 +19489,7 @@
      "example": "The lab has been on a spending spree, racking up large compute power deals."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -19630,216 +19498,6 @@
  ],
  "next_id": 788,
  "vocab": [
-  {
-   "word": "inevitably",
-   "thai": "อย่างหลีกเลี่ยงไม่ได้",
-   "level": "B2",
-   "example": "Power constraints have inevitably resulted in a significant gap in grid infrastructure worldwide.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "competitive",
-   "thai": "สามารถแข่งขันได้",
-   "level": "B2",
-   "example": "The goal is for developers to get the technical solution they want with a competitive energy price.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "burden",
-   "thai": "ภาระ",
-   "level": "B2",
-   "example": "Microgrids are designed to ease the burden on public grids and keep hyperscalers happy.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "regression",
-   "thai": "การถดถอยของระบบ (ซอฟต์แวร์ที่เคยใช้ได้กลับเสีย)",
-   "level": "C1",
-   "example": "The regression was introduced between the June and September software releases.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disassemble",
-   "thai": "การถอดรหัสแอสเซมบลี, แยกชิ้นส่วนโค้ด",
-   "level": "C2",
-   "example": "Developers must disassemble libraries to report bugs when source releases are delayed.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "delimiter",
-   "thai": "ตัวคั่นข้อมูล",
-   "level": "C1",
-   "example": "Any code that scans wide strings for ASCII delimiters breaks when processing extended characters.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "transmission",
-   "thai": "การส่ง (กระแสไฟฟ้าหรือสัญญาณ)",
-   "level": "B2",
-   "example": "AES Indiana will construct a solar and transmission project to power a Google data center.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "statutory",
-   "thai": "ตามข้อบัญญัติของกฎหมาย",
-   "level": "C1",
-   "example": "Not only does this agreement satisfy the statutory requirement, it exceeds it substantially.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "substation",
-   "thai": "สถานีไฟฟ้าย่อย",
-   "level": "C1",
-   "example": "A 10-mile power line connects the project to an on-site substation near the data center.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "discretion",
-   "thai": "ดุลพินิจ",
-   "level": "C1",
-   "example": "I am asking you to exercise your existing administrative authority and discretion to pause processing.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "monumental",
-   "thai": "ยิ่งใหญ่, สำคัญมาก",
-   "level": "C1",
-   "example": "This is a monumental moment for the Oregonians who oppose water-intensive facilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "regulator",
-   "thai": "หน่วยงานกำกับดูแล",
-   "level": "B2",
-   "example": "Oregon Governor Tina Kotek has ordered the state’s environmental regulators to temporarily stop permits.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "interruption",
-   "thai": "การหยุดชะงัก",
-   "level": "B2",
-   "example": "All Sberbank systems and services are operating normally and without interruption.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "ongoing",
-   "thai": "ที่ยังคงดำเนินอยู่",
-   "level": "B2",
-   "example": "The attack is the latest facility to be struck in the ongoing conflict between Russia and Ukraine.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deputy",
-   "thai": "รองหัวหน้า, รองผู้บริหาร",
-   "level": "B2",
-   "example": "Said Sber's first deputy chairman of the management board, Alexander Vedyakhin.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "collaborating",
-   "thai": "ร่วมมือกัน",
-   "level": "B2",
-   "example": "Cisco and Nvidia are collaborating to develop high-speed optical transceivers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "transceivers",
-   "thai": "อุปกรณ์รับส่งสัญญาณ",
-   "level": "C1",
-   "example": "Cisco's new USFP targets 12.8 Tbps in a single optical pluggable transceiver.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "essential",
-   "thai": "จำเป็นอย่างยิ่ง",
-   "level": "B2",
-   "example": "Advanced packaging tech is essential to the domestic production of high-performance semiconductors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "availability",
-   "thai": "ความพร้อมใช้งาน",
-   "level": "B2",
-   "example": "The service met its production availability target of 99.99%.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "latency",
-   "thai": "ความหน่วง",
-   "level": "C1",
-   "example": "Caching common queries reduces latency and load on the origin database.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exploit",
-   "thai": "ใช้ประโยชน์ / ช่องโหว่ที่ถูกใช้โจมตี",
-   "level": "B2",
-   "example": "Researchers confirmed in-the-wild attacks using this exploit.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "governance",
    "thai": "การกำกับดูแลกิจการ",
@@ -24625,6 +24283,216 @@
    "thai": "ออกแบบโครงสร้างใหม่",
    "level": "C1",
    "example": "GitHub re-architects its site to cope with the influx of automated traffic.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unprecedented",
+   "thai": "ไม่เคยปรากฏมาก่อน",
+   "level": "C1",
+   "example": "A certificate authority with weak keys this serious is unprecedented.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "legacy",
+   "thai": "ระบบเก่าหรือเทคโนโลยีเดิม",
+   "level": "B2",
+   "example": "Legacy circuits connected to specialist infrastructure require deeper investigation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "telemetry",
+   "thai": "ระบบวัดและส่งข้อมูลระยะไกล",
+   "level": "C1",
+   "example": "Critical systems reliant on analog connectivity include alarms and industrial telemetry.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "audit",
+   "thai": "การตรวจสอบอย่างเป็นระบบ",
+   "level": "B2",
+   "example": "We are urging businesses to act now and audit their remaining analog services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pause",
+   "thai": "หยุดชั่วคราว",
+   "level": "B2",
+   "example": "VMO2 is pausing the planned upgrade of its existing HFC network.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "transfer",
+   "thai": "โอน, ย้าย",
+   "level": "B2",
+   "example": "Virgin Media was set to receive a cash injection in return for transferring homes onto a network.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "collapse",
+   "thai": "การล่มสลาย, การล้มละลาย",
+   "level": "B2",
+   "example": "Risks to patient data after website vendor collapse.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "authorities",
+   "thai": "เจ้าหน้าที่ผู้มีอำนาจ",
+   "level": "B2",
+   "example": "Authorities are monitoring the situation closely.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exposure",
+   "thai": "การเปิดเผย, ความเสี่ยง",
+   "level": "B2",
+   "example": "Steps are taken to prevent data exposure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "misplaced",
+   "thai": "วางผิดที่, ทำหาย",
+   "level": "B2",
+   "example": "British intelligence agency misplaced thousands of storage devices.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "account",
+   "thai": "ชี้แจง, อธิบายยอด",
+   "level": "B2",
+   "example": "Officials still cannot account for how many were lost.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inventory",
+   "thai": "สินค้าคงคลัง, รายการทรัพย์สิน",
+   "level": "B2",
+   "example": "The incident reveals gaps in hardware inventory controls.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inbound",
+   "thai": "ขาเข้า",
+   "level": "B2",
+   "example": "Your origin keeps its private IP with no inbound firewall exception required.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "limitation",
+   "thai": "ข้อจำกัด",
+   "level": "B2",
+   "example": "See the developer documentation for the full list of current limitations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "termination",
+   "thai": "การสิ้นสุดหรือการยุติการเชื่อมต่อ",
+   "level": "C1",
+   "example": "TLS termination and caching continue to run on the edge network.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "revoke",
+   "thai": "เพิกถอน",
+   "level": "B2",
+   "example": "Revoke existing credentials with their issuing providers immediately.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "suspicious",
+   "thai": "น่าสงสัย",
+   "level": "B2",
+   "example": "Report any suspicious usage to support and the relevant provider.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breach",
+   "thai": "การละเมิดความปลอดภัย / รอยรั่ว",
+   "level": "B2",
+   "example": "Northflank notified customers after detecting a data breach in their cloud platform.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hustle",
+   "thai": "ธุรกิจเสริมหรือกิจกรรมหารายได้เสริม",
+   "level": "B2",
+   "example": "Cloud computing might soon make retail look like a secondary hustle.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cope",
+   "thai": "รับมือหรือจัดการกับปัญหา",
+   "level": "B2",
+   "example": "Engineers re-architected the system to cope with heavy AI workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dramatically",
+   "thai": "อย่างมากหรืออย่างเห็นได้ชัด",
+   "level": "B2",
+   "example": "Greenhouse gas output has risen dramatically in recent years.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
