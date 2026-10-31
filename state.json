@@ -1638,7 +1638,23 @@
   "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
   "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
   "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
-  "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
+  "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/",
+  "https://news.ycombinator.com/item?id=50312756",
+  "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+  "https://www.jacc.org/doi/epdf/10.1016/j.jaccas.2026.110397",
+  "https://arstechnica.com/culture/2026/10/oh-captain-our-captain-ars-staff-remembers-patrick-stewart/",
+  "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+  "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+  "https://arstechnica.com/tech-policy/2026/10/dartmouths-provost-warned-us-about-ai-cheating-but-his-own-ai-use-cost-him-his-job/",
+  "https://arstechnica.com/health/2026/10/over-25-of-people-lie-to-get-antibiotics-and-their-lies-arent-even-good/",
+  "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+  "https://arstechnica.com/science/2026/10/rare-meteorite-from-mars-gives-us-a-view-into-its-ancient-crust/",
+  "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+  "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+  "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+  "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+  "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+  "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
  ],
  "stories": [
   {
@@ -18978,7 +18994,8 @@
    "scale": 5,
    "credibility": 9,
    "extra_links": [
-    "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+    "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/"
    ]
   },
   {
@@ -19494,60 +19511,269 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 788,
+   "ts": "2026-10-31T14:42:17.494071+07:00",
+   "title": "Tell HN: Scribd Breached",
+   "link": "https://news.ycombinator.com/item?id=50312756",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports a potential data breach at a major online document-sharing platform, which could expose user data.",
+   "summary": "Scribd has allegedly suffered a security breach, raising concerns about data safety on the platform. Users and administrators should monitor official updates regarding the incident.",
+   "vocab": [
+    {
+     "word": "breached",
+     "thai": "ถูกเจาะระบบ",
+     "level": "B2",
+     "example": "Reports indicate that the platform was breached by attackers."
+    },
+    {
+     "word": "platform",
+     "thai": "แพลตฟอร์ม",
+     "level": "B2",
+     "example": "The document platform hosts millions of files."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "Security teams are investigating the incident closely."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 5
+  },
+  {
+   "id": 789,
+   "ts": "2026-10-31T14:42:17.494102+07:00",
+   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+   "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Massive cryptocurrency exchange hack involving billions of dollars, impacting global blockchain infrastructure and security.",
+   "summary": "Hackers stole over six billion dollars in cryptocurrency from Binance wallets across multiple blockchains in a very short time. Investigators suspect advanced state-sponsored groups are behind the massive heist.",
+   "vocab": [
+    {
+     "word": "investigation",
+     "thai": "การสืบสวน",
+     "level": "B2",
+     "example": "The company launched an internal investigation into the breach."
+    },
+    {
+     "word": "suspected",
+     "thai": "ที่สงสัยว่า",
+     "level": "B2",
+     "example": "Law enforcement agencies identified the suspected hackers."
+    },
+    {
+     "word": "analysis",
+     "thai": "การวิเคราะห์",
+     "level": "B2",
+     "example": "Blockchain analysis revealed how the funds were transferred."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 10,
+   "credibility": 9,
+   "msg_id": 454,
+   "sent_ts": "2026-10-31T14:42:18.102012+07:00",
+   "extra_links": [
+    "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
+   ]
+  },
+  {
+   "id": 790,
+   "ts": "2026-10-31T14:42:18.102302+07:00",
+   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
+   "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "An aerospace company is pivoting to manufacture gas turbines for AI data centers, touching on power infrastructure constraints.",
+   "summary": "Boom Supersonic is facing delays with its airliner project while shifting focus toward building gas turbines for AI data centers. Early airline partners have expressed doubts about the original delivery schedule.",
+   "vocab": [
+    {
+     "word": "turbulence",
+     "thai": "ความปั่นป่วน",
+     "level": "C1",
+     "example": "The company is facing financial turbulence regarding its timeline."
+    },
+    {
+     "word": "commercial",
+     "thai": "เชิงพาณิชย์",
+     "level": "B2",
+     "example": "The aircraft is not yet ready for commercial use."
+    },
+    {
+     "word": "regulations",
+     "thai": "กฎข้อบังคับ",
+     "level": "B2",
+     "example": "New rules were proposed to ease aviation regulations."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 791,
+   "ts": "2026-10-31T14:42:30.736662+07:00",
+   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly relevant to data center operations and long-term cloud data archiving strategies using magnetic tape.",
+   "summary": "Fujifilm is investing roughly $63 million to increase its magnetic tape production capacity fivefold by 2028. The surge in demand is driven by cloud operators and data centers needing secure, cost-effective archiving for exponential AI data growth.",
+   "vocab": [
+    {
+     "word": "beneficiary",
+     "thai": "ผู้ได้รับผลประโยชน์",
+     "level": "C1",
+     "example": "An unlikely beneficiary of the AI era: magnetic tape."
+    },
+    {
+     "word": "surge",
+     "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Fujifilm attributes the surge in archiving demand to generative AI."
+    },
+    {
+     "word": "trove",
+     "thai": "คลังสมบัติ, ของสะสมจำนวนมาก",
+     "level": "C1",
+     "example": "Cloud giants rely on tape to back up vast troves of data."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 455,
+   "sent_ts": "2026-10-31T14:42:31.312052+07:00"
+  },
+  {
+   "id": 792,
+   "ts": "2026-10-31T14:42:31.312203+07:00",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Involves large-scale identity fraud utilizing AI automation, relevant to enterprise security and fraud detection.",
+   "summary": "The US Department of Justice has charged five individuals in a scheme where fraudsters used stolen identities and AI tools to create 'ghost students' and steal federal student loans. Officials estimate the operation affected hundreds of thousands of accounts.",
+   "vocab": [
+    {
+     "word": "fraudster",
+     "thai": "นักต้มตุ๋น, ผู้ฉ้อโกง",
+     "level": "C1",
+     "example": "Fraudsters who steal the identities of hundreds of Americans."
+    },
+    {
+     "word": "sensitive",
+     "thai": "ละเอียดอ่อน, เป็นความลับ",
+     "level": "B2",
+     "example": "Once they have that sensitive data, they fill out applications."
+    },
+    {
+     "word": "oblivious",
+     "thai": "ที่ไม่รู้ตัว, ไม่ได้ใส่ใจ",
+     "level": "C1",
+     "example": "Oblivious Americans stuck with bills years later."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 793,
+   "ts": "2026-10-31T14:42:31.312224+07:00",
+   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
+   "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers aerospace launch capacity shortages, which impacts satellite operators and broader telecommunications.",
+   "summary": "A new industry report warns of a severe global shortage of rocket launches outside of China through the end of the decade. Rising demand from satellite operators and military needs is driving a shortfall of roughly 150 launches by 2030.",
+   "vocab": [
+    {
+     "word": "shortfall",
+     "thai": "จำนวนที่ขาดแคลน",
+     "level": "C1",
+     "example": "There will be a shortfall of about 150 launches compared to demand."
+    },
+    {
+     "word": "acutely",
+     "thai": "อย่างรุนแรง, อย่างเฉียบพลัน",
+     "level": "C1",
+     "example": "The report estimates the crunch will become most acute in 2028."
+    },
+    {
+     "word": "abate",
+     "thai": "บรรเทาลง, ลดลง",
+     "level": "C1",
+     "example": "It might not abate until sometime late in the 2030s."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 794,
+   "ts": "2026-10-31T14:42:31.312241+07:00",
+   "title": "GM to pay $220 million after selling customer Smart Driver data",
+   "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Deals with consumer data privacy violations and connected vehicle tracking settlements, impacting enterprise data practices.",
+   "summary": "General Motors has agreed to a $220 million settlement with Washington D.C. and 35 states over the unauthorized sharing of customer driving data with insurance brokers. The agreement follows previous regulatory enforcement and requires strict third-party compliance monitoring.",
+   "vocab": [
+    {
+     "word": "automaker",
+     "thai": "ผู้ผลิตรถยนต์",
+     "level": "B2",
+     "example": "Now the automaker has reached terms with the District of Columbia."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "A third party is required to assess GM’s compliance with the new privacy program."
+    },
+    {
+     "word": "prohibit",
+     "thai": "ห้าม",
+     "level": "B2",
+     "example": "The settlement was prohibiting them from sharing some kinds of driver data."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 788,
+ "next_id": 795,
  "vocab": [
-  {
-   "word": "governance",
-   "thai": "การกำกับดูแลกิจการ",
-   "level": "C1",
-   "example": "Strong governance is required for deploying enterprise AI tools.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "drastic",
-   "thai": "รุนแรง / อย่างมาก",
-   "level": "B2",
-   "example": "The update results in a drastic performance improvement.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "subsequent",
-   "thai": "ตามมา / ภายหลัง",
-   "level": "B2",
-   "example": "Connections can be reused for subsequent requests.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "archipelago",
-   "thai": "หมู่เกาะ",
-   "level": "C1",
-   "example": "The Matsu Islands are an archipelago of 36 islands in the East China Sea.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "catastrophic",
-   "thai": "ที่เป็นหายนะ",
-   "level": "B2",
-   "example": "In such a catastrophic scenario, some communities would be totally isolated.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "deliberately",
    "thai": "อย่างจงใจ",
@@ -24493,6 +24719,56 @@
    "thai": "อย่างมากหรืออย่างเห็นได้ชัด",
    "level": "B2",
    "example": "Greenhouse gas output has risen dramatically in recent years.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "suspected",
+   "thai": "ที่สงสัยว่า",
+   "level": "B2",
+   "example": "Law enforcement agencies identified the suspected hackers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "analysis",
+   "thai": "การวิเคราะห์",
+   "level": "B2",
+   "example": "Blockchain analysis revealed how the funds were transferred.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "beneficiary",
+   "thai": "ผู้ได้รับผลประโยชน์",
+   "level": "C1",
+   "example": "An unlikely beneficiary of the AI era: magnetic tape.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "surge",
+   "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "Fujifilm attributes the surge in archiving demand to generative AI.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "trove",
+   "thai": "คลังสมบัติ, ของสะสมจำนวนมาก",
+   "level": "C1",
+   "example": "Cloud giants rely on tape to back up vast troves of data.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
