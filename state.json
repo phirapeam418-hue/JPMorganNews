@@ -1614,596 +1614,33 @@
   "https://www.theregister.com/ai-and-ml/2026/10/30/ai-projects-not-paying-off-keep-at-it-says-uni-productivity-institute/5306581",
   "https://www.theregister.com/public-sector/2026/10/30/nhs-quango-warns-of-risk-to-gp-patient-data-after-website-vendor-collapse/5306647",
   "https://www.theregister.com/security/2026/10/30/british-intelligence-agency-misplaced-thousands-of-storage-devices-years-later-still-cant-say-how-many/5306605",
-  "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460"
+  "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460",
+  "https://www.theregister.com/ai-and-ml/2026/10/30/darkbloom-which-allowed-mac-users-to-rent-out-their-gpus-for-ai-inference-warns-of-low-payouts/5306782",
+  "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767",
+  "https://www.theregister.com/security/2026/10/30/crim-spent-7k-on-ai-services-in-extortion-attacks-then-left-evidence-for-all-to-see/5306754",
+  "https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396",
+  "https://www.theregister.com/cyber-crime/2026/10/30/uk-shelly-reseller-warns-payment-data-stolen-after-malware-found-on-website/5306250",
+  "https://blog.cloudflare.com/emudhra-patching/",
+  "https://blog.cloudflare.com/private-origins-public-to-private/",
+  "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+  "https://github.com/chris124567/cfsolve",
+  "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+  "https://tng.episodle.com/",
+  "https://status.northflank.com",
+  "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+  "https://blue-continuum.com/verne-paris",
+  "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+  "https://www.firezone.dev/blog/introducing-sanstun",
+  "https://github.com/dbreunig/nesformer",
+  "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
+  "https://github.com/kevinraymond/florilegium",
+  "https://tangled.org/blog/forge/",
+  "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+  "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+  "https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/",
+  "https://arstechnica.com/health/2026/10/flesh-eating-screwworms-are-feasting-on-pets-4-dogs-and-cat-attacked-this-week/"
  ],
  "stories": [
-  {
-   "id": 284,
-   "ts": "2026-10-17T05:20:15.268139+07:00",
-   "title": "Ubuntu Stonking Stingray swims into spotlight with pre-release kernel",
-   "link": "https://www.theregister.com/os-platforms/2026/10/16/ubuntu-stonking-stingray-swims-into-spotlight-with-pre-release-kernel/5303580",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Ubuntu's new pre-release kernel and TSMC's infrastructure evaluations affect server operations and hardware deployment.",
-   "summary": "Ubuntu has released a new beta kernel with advanced features, while TSMC scouts data center readiness and power supplies for future chip expansions. These updates highlight ongoing developments in server OS engineering and infrastructure capacity planning.",
-   "vocab": [
-    {
-     "word": "evaluation",
-     "thai": "การประเมิน",
-     "level": "B2",
-     "example": "In internal evaluations, the model ranks first in text-to-image generation."
-    },
-    {
-     "word": "expansion",
-     "thai": "การขยาย",
-     "level": "B2",
-     "example": "Silicon giant budgets up to $64B for expansion while keeping an eye on construction."
-    },
-    {
-     "word": "contributor",
-     "thai": "ผู้มีส่วนร่วม",
-     "level": "B2",
-     "example": "Torvalds says contributors must understand their code, whatever tools they use."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 285,
-   "ts": "2026-10-17T05:20:15.268220+07:00",
-   "title": "Claude reveals ECDSA curve origins",
-   "link": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Resolves a decades-old cryptographic mystery regarding widely used ECDSA standards affecting server security.",
-   "summary": "Researchers have uncovered the exact origins of the seeds used in standard ECDSA elliptic curves, solving a long-standing cryptographic mystery. The investigation revealed the parameters were generated using a standard random-number generator rather than hidden backdoors.",
-   "vocab": [
-    {
-     "word": "cryptographic",
-     "thai": "เกี่ยวกับการเข้ารหัสลับ",
-     "level": "C1",
-     "example": "ECDSA is one of our most widely used cryptographic standards."
-    },
-    {
-     "word": "speculation",
-     "thai": "การคาดเดา",
-     "level": "B2",
-     "example": "Readers should take this as a fun closing chapter and the end of years of speculation."
-    },
-    {
-     "word": "parameter",
-     "thai": "พารามิเตอร์, ตัวแปรควบคุม",
-     "level": "B2",
-     "example": "The specifications published a seed parameter whose hash value is used to define the curve."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 158,
-   "sent_ts": "2026-10-17T08:59:28.922574+07:00"
-  },
-  {
-   "id": 286,
-   "ts": "2026-10-17T05:20:15.268247+07:00",
-   "title": "FLUX 3 Image Klein",
-   "link": "https://bfl.ai/blog/flux-3-image-klein",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "A new open-weights AI model optimized for local consumer GPUs impacts AI deployment strategies.",
-   "summary": "A new 5.6-billion parameter open weights model for text-to-image generation has been released with optimizations for local hardware. The model enables efficient on-device execution and fine-tuning across various consumer GPUs.",
-   "vocab": [
-    {
-     "word": "optimization",
-     "thai": "การปรับให้เหมาะสม",
-     "level": "C1",
-     "example": "The model was optimized for consumer GPUs to improve performance."
-    },
-    {
-     "word": "deployment",
-     "thai": "การนำไปใช้งาน",
-     "level": "B2",
-     "example": "Teams with local deployment requirements can evaluate the model on their own infrastructure."
-    },
-    {
-     "word": "resolution",
-     "thai": "ความละเอียด",
-     "level": "B2",
-     "example": "It supports native high-resolution image generation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 287,
-   "ts": "2026-10-17T05:20:15.268285+07:00",
-   "title": "Designing more efficient quantum circuits with Claude",
-   "link": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Major AI infrastructure and algorithm advancement utilizing Claude to design efficient quantum circuits.",
-   "summary": "AI assistant Claude has successfully designed quantum circuits that significantly outperform previously published configurations for complex algorithms. These efficiency gains could accelerate the practical arrival of useful quantum computing applications.",
-   "vocab": [
-    {
-     "word": "simulation",
-     "thai": "การจำลอง",
-     "level": "B2",
-     "example": "We gave Claude plain-language specifications for physics simulation and number theory."
-    },
-    {
-     "word": "configuration",
-     "thai": "การปรับแต่งโครงสร้าง",
-     "level": "C1",
-     "example": "Claude found designs that improve on the best published circuits."
-    },
-    {
-     "word": "disturbance",
-     "thai": "การรบกวน",
-     "level": "C1",
-     "example": "A tiny disturbance can nudge a qubit’s state and cause errors."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 288,
-   "ts": "2026-10-17T05:20:15.268305+07:00",
-   "title": "C++26: The New Debugging Header",
-   "link": "https://www.sandordargo.com/blog/2026/09/30/cpp26-debugging",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Standardization of a C++ debugging header directly impacts software development, DevOps tools, and systems programming.",
-   "summary": "The upcoming C++26 standard introduces a unified debugging header that standardizes breakpoint and debugger detection functions. This change eliminates the need for projects to maintain custom platform-specific debugging macros.",
-   "vocab": [
-    {
-     "word": "standardization",
-     "thai": "การกำหนดมาตรฐาน",
-     "level": "C1",
-     "example": "The platform knowledge was well-known but lacked formal standardization."
-    },
-    {
-     "word": "unconditional",
-     "thai": "แบบไม่มีเงื่อนไข",
-     "level": "C1",
-     "example": "std::breakpoint() is an unconditional breakpoint that halts execution."
-    },
-    {
-     "word": "mechanism",
-     "thai": "กลไก",
-     "level": "B2",
-     "example": "How this works under the hood varies depending on the platform's mechanism."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 159,
-   "sent_ts": "2026-10-17T08:59:29.445976+07:00"
-  },
-  {
-   "id": 289,
-   "ts": "2026-10-17T05:20:27.169359+07:00",
-   "title": "How the Claude Code team does code review",
-   "link": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Covers high-volume AI code generation and automated code review workflows, relevant to DevOps and software engineering practices.",
-   "summary": "The Claude Code team explains how they handle massive volumes of AI-generated code by shifting reviews to automated systems. This approach preserves human attention for complex problems without increasing software incidents.",
-   "vocab": [
-    {
-     "word": "imprecise",
-     "thai": "ไม่แม่นยำ",
-     "level": "C1",
-     "example": "We think did a human read the code? is an imprecise proxy for what could go wrong."
-    },
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียด",
-     "level": "C1",
-     "example": "This catches routine mistakes and saves team attention for higher-level questions and scrutiny."
-    },
-    {
-     "word": "percentile",
-     "thai": "เปอร์เซ็นไทล์",
-     "level": "C1",
-     "example": "To measure human time, we track human approvals per PR median and 95th percentile."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 290,
-   "ts": "2026-10-17T05:20:27.169397+07:00",
-   "title": "I never authorized an integration that scans my secrets",
-   "link": "https://github.com/home-assistant/home-assistant.io/issues/49314",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Addresses security vulnerabilities, password scanning without explicit opt-in, and server-side privacy concerns.",
-   "summary": "Home Assistant users raised privacy concerns after discovering a built-in feature that checks local passwords against leaked database lists. Maintainers clarified that the system uses local hashing to protect user data, but acknowledged the feature should have been transparent.",
-   "vocab": [
-    {
-     "word": "dismissive",
-     "thai": "ที่ดูถูก, ที่ไม่ใส่ใจ",
-     "level": "C1",
-     "example": "I want to follow up because my earlier replies were more dismissive than this deserved."
-    },
-    {
-     "word": "transparent",
-     "thai": "โปร่งใส",
-     "level": "B2",
-     "example": "To be transparent, this check isn't new and has been part of the Supervisor for years."
-    },
-    {
-     "word": "credentials",
-     "thai": "ข้อมูลประจำตัว (เช่น รหัสผ่าน)",
-     "level": "B2",
-     "example": "As a red teamer, I can give you a list about how I could abuse this to loot credentials."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 291,
-   "ts": "2026-10-17T05:20:27.169423+07:00",
-   "title": "You could have invented transformers from memory",
-   "link": "https://alexwang.ai/posts/associative-memory/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Explains the fundamental memory architecture of large language models and transformers, relevant to AI infrastructure.",
-   "summary": "A technical post explores how different neural network layers function as memory stores by analyzing linear maps, MLPs, and self-attention. It demonstrates how these architectures scale in capacity and information recall.",
-   "vocab": [
-    {
-     "word": "intuition",
-     "thai": "สัญชาตญาณ, ความเข้าใจโดยสามัญสำนึก",
-     "level": "B2",
-     "example": "In this post, I will go through an intuitive way to look at linear maps and self-attention."
-    },
-    {
-     "word": "accumulate",
-     "thai": "สะสม",
-     "level": "B2",
-     "example": "The most basic memory store is linear: it simply accumulates memories via outer products."
-    },
-    {
-     "word": "unbounded",
-     "thai": "ไม่จำกัด",
-     "level": "C1",
-     "example": "Self-attention has very good recall and can store a potentially unbounded number of memories."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 292,
-   "ts": "2026-10-17T05:20:27.169486+07:00",
-   "title": "US Rep proposes bill to give video game buyers \"ownership,\" not \"a license\"",
-   "link": "https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Addresses software licensing, digital rights, and server dependency issues affecting consumer tech and gaming services.",
-   "summary": "A US representative proposed a new bill requiring companies to sell video games as owned property rather than temporary licenses. The legislation aims to prevent games from becoming permanently unplayable when publishers shut down authentication servers.",
-   "vocab": [
-    {
-     "word": "consumer",
-     "thai": "ผู้บริโภค",
-     "level": "B2",
-     "example": "A new bill aims to ensure that buying a video game gives the consumer ownership."
-    },
-    {
-     "word": "discontinue",
-     "thai": "ยุติ, เลิกผลิต",
-     "level": "B2",
-     "example": "Some consumers have been protesting Sony’s announcement that it plans to discontinue releases."
-    },
-    {
-     "word": "preservation",
-     "thai": "การอนุรักษ์, การรักษาไว้",
-     "level": "B2",
-     "example": "The argument is that physical discs aid with long-term preservation of games."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 9,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends"
-   ]
-  },
-  {
-   "id": 293,
-   "ts": "2026-10-17T05:20:27.169515+07:00",
-   "title": "Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality",
-   "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Covers a significant security and privacy bug in smart glasses hardware that secretly recorded user conversations.",
-   "summary": "Meta smart glasses suffered from a firmware bug that caused them to record private conversations without user prompts. Although Meta stated the issue has been resolved, the incident highlights ongoing privacy concerns regarding wearable devices.",
-   "vocab": [
-    {
-     "word": "consent",
-     "thai": "ความยินยอม",
-     "level": "B2",
-     "example": "Some users reported online that their smart glasses were recording without their consent."
-    },
-    {
-     "word": "replicate",
-     "thai": "ทำซ้ำ",
-     "level": "C1",
-     "example": "Android Authority said it was unable to replicate the problem before Meta fixed it."
-    },
-    {
-     "word": "inconspicuous",
-     "thai": "ที่ไม่สะดุดตา",
-     "level": "C1",
-     "example": "Meta’s glasses pushed privacy boundaries further with their more inconspicuous look."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 294,
-   "ts": "2026-10-17T05:20:27.169546+07:00",
-   "title": "RFK Jr. proposes FDA look the other way on unproven peptides, report says",
-   "link": "https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Discusses FDA policy shifts regarding unproven drug compounds, which is outside core IT and data center operations.",
-   "summary": "The FDA is reviewing a proposed policy that would grant enforcement discretion for certain unproven peptide drugs. Despite warnings from staff scientists regarding safety risks, the drugs remain popular among wellness movements.",
-   "vocab": [
-    {
-     "word": "efficacy",
-     "thai": "ประสิทธิภาพ (ของยา)",
-     "level": "C1",
-     "example": "FDA scientists found that the drugs have not been sufficiently studied to establish safety and efficacy."
-    },
-    {
-     "word": "discretion",
-     "thai": "ดุลพินิจ",
-     "level": "C1",
-     "example": "The proposal would give the FDA enforcement discretion on certain peptide drugs."
-    },
-    {
-     "word": "customized",
-     "thai": "ที่ปรับแต่งตามความต้องการ",
-     "level": "B2",
-     "example": "Compounding pharmacies make customized formulas for specialized drugs."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 295,
-   "ts": "2026-10-17T05:20:39.113503+07:00",
-   "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
-   "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Meta's new commercial terms allow automated scraping of linked websites for AI training, raising significant legal and operational concerns for web publishers.",
-   "summary": "Meta is updating its commercial terms to let automated bots crawl and scrape linked websites for AI training without allowing businesses to opt out. This move forces website owners to choose between accepting AI data harvesting or abandoning Meta business accounts.",
-   "vocab": [
-    {
-     "word": "infer",
-     "thai": "อนุมาน, สรุป",
-     "level": "C1",
-     "example": "Notably, there is no mention of AI, but it’s inferred from a single use of the word 'train'."
-    },
-    {
-     "word": "supplemental",
-     "thai": "ที่เป็นส่วนเสริม",
-     "level": "C1",
-     "example": "These terms apply alongside any other applicable supplemental terms."
-    },
-    {
-     "word": "commercial",
-     "thai": "เชิงพาณิชย์",
-     "level": "B2",
-     "example": "Meta may soon update its commercial terms to require business accounts to allow AI training."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/ai-and-ml/2026/10/16/meta-grants-itself-right-to-scrape-content-from-business-customers-for-model-training/5303658",
-    "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/"
-   ]
-  },
-  {
-   "id": 296,
-   "ts": "2026-10-17T05:20:39.113619+07:00",
-   "title": "The Surface Laptop Ultra delivers on most of Microsoft's promises",
-   "link": "https://arstechnica.com/reviews/2026/10/the-surface-laptop-ultra-delivers-on-most-of-microsofts-promises/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Evaluates high-end client hardware running local LLMs and ARM architecture, relevant to workstation and developer tooling.",
-   "summary": "Microsoft's new Surface Laptop Ultra combines powerful Nvidia graphics with ARM architecture to handle local AI models and demanding workloads. While reviewers praise its high-end performance, the steep price tag and memory configuration raise questions for power users.",
-   "vocab": [
-    {
-     "word": "prospective",
-     "thai": "ที่อาจเกิดขึ้นในอนาคต, ที่คาดหวังไว้",
-     "level": "C1",
-     "example": "Prospective buyers should note that the lower-specced model ships with Windows 11 Home."
-    },
-    {
-     "word": "configuration",
-     "thai": "การจัดรูปแบบ, โครงสร้างระบบ",
-     "level": "C1",
-     "example": "Depending on your selected processor and memory configuration, MSRP can reach high levels."
-    },
-    {
-     "word": "competently",
-     "thai": "อย่างมีความสามารถ, อย่างเหมาะสม",
-     "level": "B2",
-     "example": "The question isn't whether it can achieve things competently, but whether it provides a compelling reason to switch."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 297,
-   "ts": "2026-10-17T05:20:39.113650+07:00",
-   "title": "Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer",
-   "link": "https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers space launch capacity and commercial space partnerships affecting satellite infrastructure deployment.",
-   "summary": "Reflect Orbital has contracted with Indian launch provider Skyroot Aerospace to secure orbital deployment for its proposed in-space mirror constellation. This move highlights growing concerns among satellite operators regarding a looming shortage of launch capacity in the United States.",
-   "vocab": [
-    {
-     "word": "illumination",
-     "thai": "การให้แสงสว่าง",
-     "level": "C1",
-     "example": "The business model involves beaming sunlight to the ground for power generation and illumination."
-    },
-    {
-     "word": "procure",
-     "thai": "จัดหามา",
-     "level": "C1",
-     "example": "Companies often procure additional launch services to ensure payload delivery."
-    },
-    {
-     "word": "capacity",
-     "thai": "ความจุ, กำลังการผลิต",
-     "level": "B2",
-     "example": "Satellite operators fear a coming under-supply of launch capacity in the United States."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 298,
-   "ts": "2026-10-17T05:20:39.113698+07:00",
-   "title": "Blue Origin is going all in on the New Glenn rocket",
-   "link": "https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Details major aerospace manufacturing and launch infrastructure expansion investments in Florida.",
-   "summary": "Blue Origin is aggressively expanding its Florida launch and manufacturing facilities to support over 100 heavy-lift New Glenn rocket flights annually by the end of the decade. The multibillion-dollar investment includes new launch pads, landing ships, and payload processing integration bays.",
-   "vocab": [
-    {
-     "word": "expansion",
-     "thai": "การขยายตัว",
-     "level": "B2",
-     "example": "Blue Origin announced a major expansion of its already considerable Florida launch facilities."
-    },
-    {
-     "word": "refurbish",
-     "thai": "ปรับปรุงใหม่, ซ่อมแซม",
-     "level": "C1",
-     "example": "Blue Origin is the largest employer to manufacture, launch, and refurbish rockets on the Space Coast."
-    },
-    {
-     "word": "supersede",
-     "thai": "แทนที่, เข้ามาแทน",
-     "level": "C1",
-     "example": "That would seem to be a reference to superseding the 800-pound gorilla on the Florida Space Coast."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 299,
-   "ts": "2026-10-17T05:20:39.113730+07:00",
-   "title": "Googlebook review: Android on a laptop is still Android",
-   "link": "https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Reviews new operating system hardware adaptation targeted at laptops, relevant to end-user computing environments.",
-   "summary": "Google's new 'Googlebooks' initiative attempts to bring native Android applications and premium hardware form factors to the laptop market. While the hardware matches high-end Windows devices, the software experience still closely resembles a stretched mobile operating system.",
-   "vocab": [
-    {
-     "word": "entrench",
-     "thai": "ฝังรากลึก, ตั้งมั่น",
-     "level": "C1",
-     "example": "These platforms are entrenched with decades of software and UI conventions."
-    },
-    {
-     "word": "adapt",
-     "thai": "ปรับ, ดัดแปลง",
-     "level": "B2",
-     "example": "Android was designed for phones, but Google keeps trying to adapt the OS to larger machines."
-    },
-    {
-     "word": "convention",
-     "thai": "ธรรมเนียมปฏิบัติ, ข้อตกลง",
-     "level": "B2",
-     "example": "The dominant operating systems rely heavily on traditional software conventions."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
   {
    "id": 300,
    "ts": "2026-10-17T08:59:44.405270+07:00",
@@ -19451,11 +18888,13 @@
      "example": "HVO is a low-carbon fuel that is derived from 100 percent waste-based feedstock."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 440,
+   "sent_ts": "2026-10-31T08:12:08.471737+07:00"
   },
   {
    "id": 768,
@@ -19523,11 +18962,13 @@
      "example": "Relying on standard public clouds risks capacity bottlenecks."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 441,
+   "sent_ts": "2026-10-31T08:12:09.148190+07:00"
   },
   {
    "id": 770,
@@ -19559,11 +19000,13 @@
      "example": "Synergy's data also reveals the breakdown of the major cloud providers."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 442,
+   "sent_ts": "2026-10-31T08:12:09.806741+07:00"
   },
   {
    "id": 771,
@@ -19595,11 +19038,13 @@
      "example": "The site could generate revenue if a tenant is secured on its assumed terms."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 443,
+   "sent_ts": "2026-10-31T08:12:10.482502+07:00"
   },
   {
    "id": 772,
@@ -19631,11 +19076,13 @@
      "example": "GitHub re-architects its site to cope with the influx of automated traffic."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 444,
+   "sent_ts": "2026-10-31T08:12:11.148733+07:00"
   },
   {
    "id": 773,
@@ -19671,7 +19118,10 @@
    "impact": 5,
    "urgency": 5,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://phorion.io/blog/offical-claude-code-vsx-compromise/"
+   ]
   },
   {
    "id": 774,
@@ -19852,120 +19302,334 @@
    "urgency": 4,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 779,
+   "ts": "2026-10-31T08:18:12.964367+07:00",
+   "title": "HTTP/3 is faster with some work and help from Cloudflare",
+   "link": "https://www.theregister.com/devops/2026/10/30/http/3-is-faster-with-some-work-and-help-from-cloudflare/5306767",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Networking protocol tuning and HTTP/3 adoption are relevant for infrastructure and edge network performance optimization.",
+   "summary": "A major delivery service optimized its mobile networking stack using Cloudflare and HTTP/3 to substantially decrease latency. This demonstrates practical performance gains achieved by tuning modern transport layer protocols in production.",
+   "vocab": [
+    {
+     "word": "latency",
+     "thai": "ความหน่วง",
+     "level": "C1",
+     "example": "The delivery giant tuned its mobile networking stack to cut latency."
+    },
+    {
+     "word": "stack",
+     "thai": "ชุดซอฟต์แวร์หรือเทคโนโลยีที่ทำงานร่วมกัน",
+     "level": "B2",
+     "example": "Engineers optimized the networking stack to handle high request volumes."
+    },
+    {
+     "word": "tuned",
+     "thai": "ปรับแต่งให้มีประสิทธิภาพสูงสุด",
+     "level": "B2",
+     "example": "The team tuned its mobile network settings to achieve faster load times."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 780,
+   "ts": "2026-10-31T08:18:12.964493+07:00",
+   "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+   "link": "https://blog.cloudflare.com/emudhra-patching/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Trivially weak certificate authority private keys directly endanger TLS trust chains across web and server infrastructure globally.",
+   "summary": "Cloudflare detailed active exploitation tracking and remediation for shockingly weak private keys generated by Certificate Authority eMudhra. Infrastructure administrators must ensure their proxies and reverse proxy configurations reject these compromised intermediate keys to prevent spoofing.",
+   "vocab": [
+    {
+     "word": "unprecedented",
+     "thai": "ไม่เคยปรากฏมาก่อน",
+     "level": "C1",
+     "example": "A certificate authority with weak keys this serious is unprecedented."
+    },
+    {
+     "word": "revocation",
+     "thai": "การเพิกถอน",
+     "level": "C2",
+     "example": "They signed a certificate revocation list with a newly generated key."
+    },
+    {
+     "word": "mitigate",
+     "thai": "บรรเทาหรือลดความรุนแรง",
+     "level": "C1",
+     "example": "We wrote a post on the immediate action we took to mitigate this leak."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 781,
+   "ts": "2026-10-31T08:18:12.964532+07:00",
+   "title": "Cloudflare services for private origins is now generally available",
+   "link": "https://blog.cloudflare.com/private-origins-public-to-private/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Introduces generally available edge security and proxying for private RFC1918 backend origins, directly relevant to network architecture.",
+   "summary": "Cloudflare has made its application services, including WAF and caching, generally available for private origin servers without exposing public IPs. This allows infrastructure engineers to protect internal APIs and agent backends across private networks without port forwarding.",
+   "vocab": [
+    {
+     "word": "inbound",
+     "thai": "ขาเข้า",
+     "level": "B2",
+     "example": "Your origin keeps its private IP with no inbound firewall exception required."
+    },
+    {
+     "word": "limitation",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "See the developer documentation for the full list of current limitations."
+    },
+    {
+     "word": "termination",
+     "thai": "การสิ้นสุดหรือการยุติการเชื่อมต่อ",
+     "level": "C1",
+     "example": "TLS termination and caching continue to run on the edge network."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 782,
+   "ts": "2026-10-31T08:22:46.403684+07:00",
+   "title": "Cloudflare Turnstile solver library (no headless browser required)",
+   "link": "https://github.com/chris124567/cfsolve",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly relates to bot mitigation bypass techniques against Cloudflare Turnstile, relevant for edge security teams.",
+   "summary": "Developers released cfsolve, a headless-free Rust library that bypasses Cloudflare Turnstile challenges using captured browser profiles. This matters because automated scrapers and bots can now more easily bypass anti-bot protections without running resource-heavy browser instances.",
+   "vocab": [
+    {
+     "word": "impersonate",
+     "thai": "แอบอ้างหรือเลียนแบบตัวตน",
+     "level": "B2",
+     "example": "The tool impersonates a specific browser to bypass challenge checks."
+    },
+    {
+     "word": "inbound",
+     "thai": "ขาเข้า",
+     "level": "B2",
+     "example": "The firewall inspects all inbound network traffic."
+    },
+    {
+     "word": "blanket",
+     "thai": "ครอบคลุมทั้งหมด / แบบเหมาเข่ง",
+     "level": "B2",
+     "example": "The policy imposed a blanket ban on unauthorized automated crawlers."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 783,
+   "ts": "2026-10-31T08:22:46.403815+07:00",
+   "title": "Northflank Breached",
+   "link": "https://status.northflank.com",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "A direct security breach of a cloud/PaaS provider affecting stored customer secrets and AI credentials.",
+   "summary": "Cloud hosting platform Northflank confirmed a security breach where customer environment variables and AI API keys were compromised. Infrastructure teams using the platform must immediately revoke, rotate all stored credentials, and monitor for unauthorized AI provider usage.",
+   "vocab": [
+    {
+     "word": "revoke",
+     "thai": "เพิกถอน",
+     "level": "B2",
+     "example": "Revoke existing credentials with their issuing providers immediately."
+    },
+    {
+     "word": "suspicious",
+     "thai": "น่าสงสัย",
+     "level": "B2",
+     "example": "Report any suspicious usage to support and the relevant provider."
+    },
+    {
+     "word": "breach",
+     "thai": "การละเมิดความปลอดภัย / รอยรั่ว",
+     "level": "B2",
+     "example": "Northflank notified customers after detecting a data breach in their cloud platform."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 784,
+   "ts": "2026-10-31T08:22:46.403868+07:00",
+   "title": "Breaking the open web won't stop the bad bots",
+   "link": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Discussion of US legislative bills targeting AI web scrapers and their impact on digital rights and crawlers.",
+   "summary": "New US legislative bills seek to outlaw stealth bots and scraping to curb unauthorized AI content harvesting. While intended to protect publishers, critics argue these sweeping laws could undermine legitimate data gathering, web archiving, and security research.",
+   "vocab": [
+    {
+     "word": "grievance",
+     "thai": "ข้อร้องทุกข์ / ความคับข้องใจ",
+     "level": "B2",
+     "example": "Media outlets came to lawmakers with a legitimate grievance about bot traffic."
+    },
+    {
+     "word": "hamper",
+     "thai": "ขัดขวาง / เป็นอุปสรรค",
+     "level": "B2",
+     "example": "Broad legal definitions would hamper legitimate public-interest research."
+    },
+    {
+     "word": "penalties",
+     "thai": "บทลงโทษ / ค่าปรับ",
+     "level": "B2",
+     "example": "Regulators can pursue hefty financial penalties against unauthorized web bots."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 785,
+   "ts": "2026-10-31T08:22:46.403891+07:00",
+   "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "link": "https://www.firezone.dev/blog/introducing-sanstun",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Announces a new userspace WireGuard implementation relevant for VPN, zero trust, and network infrastructure.",
+   "summary": "Firezone released sanstun, a pure sans-IO, userspace implementation of WireGuard in Rust that separates network IO from core cryptographic state logic. This architecture offers improved performance, easier testing, and simplified concurrency for software-defined networking stacks.",
+   "vocab": [
+    {
+     "word": "idiomatic",
+     "thai": "เป็นไปตามแบบแผนหรือธรรมเนียมปฏิบัติของภาษานั้น",
+     "level": "C1",
+     "example": "The library provides an idiomatic Rust interface for networking applications."
+    },
+    {
+     "word": "incur",
+     "thai": "ก่อให้เกิด (ค่าใช้จ่ายหรือภาระ)",
+     "level": "B2",
+     "example": "Internal packet buffering incurs additional memory allocations."
+    },
+    {
+     "word": "tunable",
+     "thai": "ที่สามารถปรับแต่งค่าได้",
+     "level": "B2",
+     "example": "Buffer sizes in production systems should be easily tunable by administrators."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 786,
+   "ts": "2026-10-31T08:25:11.320732+07:00",
+   "title": "The federated code forge",
+   "link": "https://tangled.org/blog/forge/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers self-hosted developer tools, Git infrastructure, and distributed edge edge architecture, which matters for DevOps and platform teams.",
+   "summary": "Tangled has launched a federated code forge built on the AT Protocol that allows organizations to self-host Git repositories and CI runners. The platform also updated its architecture by deploying an in-memory indexer across eleven edge regions to improve global performance.",
+   "vocab": [
+    {
+     "word": "federated",
+     "thai": "แบบกระจายศูนย์ที่เชื่อมโยงกัน",
+     "level": "C1",
+     "example": "It is the first truly federated code forge where you can host code on your own servers."
+    },
+    {
+     "word": "pragmatic",
+     "thai": "ที่เน้นการปฏิบัติจริง",
+     "level": "C1",
+     "example": "Our approach is pragmatic: self-host just the parts you want."
+    },
+    {
+     "word": "monolith",
+     "thai": "ระบบเดี่ยวขนาดใหญ่",
+     "level": "C1",
+     "example": "Tangled's web UI and backend were previously a single Go monolith called the appview."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 787,
+   "ts": "2026-10-31T08:25:11.320789+07:00",
+   "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+   "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Anthropic's financial standing and credit rating directly affect massive AI infrastructure investments and compute deals.",
+   "summary": "Credit rating agencies are projected to assign Anthropic a junk-grade credit rating following its public offering, according to an investor report. Higher borrowing costs could constrain the AI developer's aggressive spending on large-scale data center compute contracts.",
+   "vocab": [
+    {
+     "word": "speculative",
+     "thai": "ที่มีความเสี่ยงสูง เชิงเก็งกำไร",
+     "level": "B2",
+     "example": "Blackstone expects a double B range rating, the top tier of speculative 'junk' grade."
+    },
+    {
+     "word": "anchor",
+     "thai": "หลักหรือสำคัญที่สุด",
+     "level": "B2",
+     "example": "Blackstone was the anchor investor in a recent $63 billion deal."
+    },
+    {
+     "word": "spree",
+     "thai": "การทำบางสิ่งมากเกินไปในช่วงสั้นๆ",
+     "level": "C1",
+     "example": "The lab has been on a spending spree, racking up large compute power deals."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 779,
+ "next_id": 788,
  "vocab": [
-  {
-   "word": "incident",
-   "thai": "เหตุการณ์",
-   "level": "B2",
-   "example": "Researchers track these security incidents to highlight ongoing retail threats.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "remediate",
-   "thai": "แก้ไขเยียวยา",
-   "level": "C1",
-   "example": "Firms must act swiftly to remediate vulnerabilities after a breach.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "degrade",
-   "thai": "ลดประสิทธิภาพลง",
-   "level": "B2",
-   "example": "Recent network driver updates severely degrade IPv6 networking performance.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "throughput",
-   "thai": "ปริมาณงานที่ระบบประมวลผลได้",
-   "level": "C1",
-   "example": "Administrators are trying to restore expected network throughput.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "mitigation",
-   "thai": "การบรรเทาปัญหา",
-   "level": "C1",
-   "example": "Engineers are seeking a quick mitigation for the routing bug.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unsoundness",
-   "thai": "ความไม่สมบูรณ์ทางตรรกะ, ข้อบกพร่อง",
-   "level": "C1",
-   "example": "11 year old unsoundness bugs found in Rust borrow checker.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bypass",
-   "thai": "หลีกเลี่ยง, ข้าม",
-   "level": "B2",
-   "example": "Struct's lifetime requirements can be bypassed via covariant field assignment.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "assumes",
-   "thai": "สันนิษฐาน, อนุमान",
-   "level": "B2",
-   "example": "Code in here has access to a non-static string but assumes that it's a static string.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "volatility",
-   "thai": "ความผันผวน",
-   "level": "C1",
-   "example": "AirTrunk plans to push its initial public offering into 2027 due to high interest rates and market volatility.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "demand",
-   "thai": "ความต้องการ",
-   "level": "B2",
-   "example": "Firmus canceled its IPO due to a lack of investor demand.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "yield",
-   "thai": "ผลตอบแทนจากการลงทุน",
-   "level": "C1",
-   "example": "AirTrunk has considered raising its REIT yield by 0.5 percentage points.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "inevitably",
    "thai": "อย่างหลีกเลี่ยงไม่ได้",
@@ -24851,6 +24515,116 @@
    "thai": "การขยายขนาดหรือการเพิ่มความแรง",
    "level": "C1",
    "example": "Attackers shifted their focus toward DNS amplification vectors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "portfolio",
+   "thai": "กลุ่มผลิตภัณฑ์, พอร์ตโฟลิโอ",
+   "level": "B2",
+   "example": "Sabey is testing HVO to determine its feasibility for broader use across the company's data center portfolio.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "substitute",
+   "thai": "ตัวแทน, สิ่งทดแทน",
+   "level": "B2",
+   "example": "The fuel acts as a drop-in substitute for conventional diesel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "derived",
+   "thai": "สกัดจาก, ได้มาจาก",
+   "level": "B2",
+   "example": "HVO is a low-carbon fuel that is derived from 100 percent waste-based feedstock.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propel",
+   "thai": "ขับเคลื่อน, ผลักดัน",
+   "level": "C1",
+   "example": "AI technology is propelling cloud markets in a way that was unimaginable four years ago.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "erode",
+   "thai": "กัดเซาะ, ลดลงทีละน้อย",
+   "level": "B2",
+   "example": "Neoclouds continue to erode the market share of the top cloud providers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breakdown",
+   "thai": "การแจกแจงรายละเอียด",
+   "level": "B2",
+   "example": "Synergy's data also reveals the breakdown of the major cloud providers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deploy",
+   "thai": "นำไปใช้งาน, ติดตั้ง",
+   "level": "B2",
+   "example": "The model is designed to bring compute online quickly at interconnection points.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "generation",
+   "thai": "การผลิต (พลังงาน)",
+   "level": "B2",
+   "example": "PowerBank holds existing generation capacity, land, and permits.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "insulate",
+   "thai": "ป้องกัน, เป็นฉนวนคุ้มกัน",
+   "level": "C1",
+   "example": "Insurance firms look to insulate domestic humanoid robot owners against inevitable chaos.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "juggernaut",
+   "thai": "พลังอันยิ่งใหญ่ที่หยุดไม่ได้",
+   "level": "C2",
+   "example": "Big Red says AI units will add to subscriptions as it juggles massive debt.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "re-architect",
+   "thai": "ออกแบบโครงสร้างใหม่",
+   "level": "C1",
+   "example": "GitHub re-architects its site to cope with the influx of automated traffic.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
