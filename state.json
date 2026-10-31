@@ -1675,44 +1675,6 @@
  ],
  "stories": [
   {
-   "id": 309,
-   "ts": "2026-10-17T21:36:18.342020+07:00",
-   "title": "Solar surpasses nuclear power globally for first time – pv magazine Global",
-   "link": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Global renewable power capacity trends and battery storage growth matter for long-term data center energy procurement.",
-   "summary": "A new global industry report shows that monthly solar and wind generation have both surpassed nuclear power output for the first time. Rapid solar expansion and falling battery storage costs continue to outpace stagnant nuclear capacity additions worldwide.",
-   "vocab": [
-    {
-     "word": "sobering",
-     "thai": "ทำให้ได้สติหรือตาสว่าง",
-     "level": "C1",
-     "example": "The reality of the nuclear industry on the ground is quite sobering for those who expected to find a booming sector."
-    },
-    {
-     "word": "deployment",
-     "thai": "การติดตั้งหรือนำมาเริ่มใช้งาน",
-     "level": "B2",
-     "example": "Grid-scale battery deployment accelerated sharply in 2025."
-    },
-    {
-     "word": "cumulative",
-     "thai": "ที่สะสมรวมกัน",
-     "level": "B2",
-     "example": "More than 78% of cumulative battery energy storage system capacity was installed between 2023 and 2025."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 9,
-   "credibility": 8,
-   "msg_id": 180,
-   "sent_ts": "2026-10-18T12:46:31.621324+07:00"
-  },
-  {
    "id": 310,
    "ts": "2026-10-18T01:06:24.491484+07:00",
    "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
@@ -20607,7 +20569,7 @@
    "thai": "ที่มีการรวมศูนย์การจัดการไว้ที่จุดเดียว",
    "level": "B2",
    "example": "Infrastructure built in a centralized way for economic efficiency has become a vulnerability.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22177,7 +22139,7 @@
    "thai": "แยกตัวประกอบ",
    "level": "B2",
    "example": "They are inherently weak single-byte keys that anyone can factor.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22977,7 +22939,7 @@
    "thai": "เพิ่มต่อท้าย",
    "level": "B2",
    "example": "Append the kernel parameter to your boot command line in the configuration file.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23777,7 +23739,7 @@
    "thai": "ถูกเปิดเผย, รั่วไหล",
    "level": "B2",
    "example": "The incident occurred after a master key was accidentally exposed.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24357,7 +24319,7 @@
    "thai": "น้อยมากหรือเพิ่มขึ้นเพียงเล็กน้อย",
    "level": "C1",
    "example": "PG&E sees marginal increase in data center pipeline.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24909,26 +24871,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6253398384984458071": {
-   "word": "crawler",
-   "correct": 2
-  },
-  "6253398384984458072": {
-   "word": "sound the alarm",
-   "correct": 2
-  },
-  "6253398384984458073": {
-   "word": "inevitably",
-   "correct": 2
-  },
-  "6253398384984458074": {
-   "word": "renderings",
-   "correct": 2
-  },
-  "6253398384984458075": {
-   "word": "predictable",
-   "correct": 1
-  },
   "6257978100022248467": {
    "word": "statutory",
    "correct": 2
@@ -25108,6 +25050,26 @@
   "6278459983013086145": {
    "word": "erratic",
    "correct": 0
+  },
+  "6282529254072649273": {
+   "word": "centralized",
+   "correct": 1
+  },
+  "6282529254072649274": {
+   "word": "exposed",
+   "correct": 0
+  },
+  "6282529254072649275": {
+   "word": "marginal",
+   "correct": 1
+  },
+  "6282529254072649276": {
+   "word": "append",
+   "correct": 1
+  },
+  "6282529254072649277": {
+   "word": "factor",
+   "correct": 2
   }
  },
  "fail": {
