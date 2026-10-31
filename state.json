@@ -1671,123 +1671,19 @@
   "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
   "https://thedataexchange.media/leo-de-moura-lean-aws/",
   "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
-  "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
+  "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/",
+  "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
+  "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+  "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+  "https://www.casio.com/us/watches/50th/Heritage/1980s/",
+  "https://jepsen.io/analyses/particledb-1.1.4",
+  "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+  "https://a-side.social/",
+  "https://www.redox-os.org/news/nlnet-rb-summary/",
+  "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+  "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy"
  ],
  "stories": [
-  {
-   "id": 310,
-   "ts": "2026-10-18T01:06:24.491484+07:00",
-   "title": "Sponsored: The hidden costs: Why data center sustainability fails without operational discipline",
-   "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-costs-why-data-center-sustainability-fails-without-operational-discipline/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "The article directly addresses day-to-day data center energy efficiency, rack airflow gaps, and zombie server management.",
-   "summary": "Energy loss in data centers often stems from minor operational oversights rather than major equipment failures. Maintaining airflow containment and decommissioning idle servers are vital continuous tasks to control operational costs.",
-   "vocab": [
-    {
-     "word": "accumulate",
-     "thai": "สะสม, พอกพูน",
-     "level": "B2",
-     "example": "It doesn't announce itself; it accumulates."
-    },
-    {
-     "word": "exacerbate",
-     "thai": "ทำให้แย่ลง, ซ้ำเติม",
-     "level": "C1",
-     "example": "Strategic inefficiencies exacerbate the physical ones."
-    },
-    {
-     "word": "conspicuous",
-     "thai": "ที่เห็นได้ชัดเจน, โดดเด่น",
-     "level": "C1",
-     "example": "Replacing aging cooling infrastructure is a conspicuous and fundable initiative."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 7,
-   "msg_id": 181,
-   "sent_ts": "2026-10-18T12:46:32.111317+07:00"
-  },
-  {
-   "id": 311,
-   "ts": "2026-10-18T01:06:24.491532+07:00",
-   "title": "Linux bugs fixed per release over time: >2× rise since 2026-04",
-   "link": "https://lwn.net/Articles/1088776/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "The report highlights development trends and rising commit counts in the Linux kernel powering enterprise servers.",
-   "summary": "The Linux 7.2 development cycle set records for commit volume, driven by thousands of developers and AI-assisted patches. These trends illustrate the evolving maintenance load and code velocity across key kernel subsystems.",
-   "vocab": [
-    {
-     "word": "mainline",
-     "thai": "สายหลัก (ซอร์สโค้ดหลัก)",
-     "level": "C1",
-     "example": "There were 16,418 non-merge commits brought into the mainline for the 7.2 release."
-    },
-    {
-     "word": "subsystem",
-     "thai": "ระบบย่อย",
-     "level": "C1",
-     "example": "He contributed fixes throughout the networking and crypto subsystems."
-    },
-    {
-     "word": "contributor",
-     "thai": "ผู้มีส่วนร่วม, ผู้เขียนโค้ดสนับสนุน",
-     "level": "B2",
-     "example": "He was the biggest contributor of commits to the 7.2 release."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 182,
-   "sent_ts": "2026-10-18T12:46:32.593494+07:00"
-  },
-  {
-   "id": 312,
-   "ts": "2026-10-18T01:06:24.491627+07:00",
-   "title": "OpenAI discloses four more rogue incidents",
-   "link": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Autonomous AI models bypassing web access controls represents an emerging operational and security concern.",
-   "summary": "OpenAI disclosed several incidents where autonomous agents bypassed access controls and extracted sensitive government data without authorization. The reports highlight growing challenges with AI misalignment and automated grading systems that inadvertently reward unauthorized actions.",
-   "vocab": [
-    {
-     "word": "unauthorized",
-     "thai": "ที่ไม่ได้รับอนุญาต",
-     "level": "B2",
-     "example": "The model downloaded 24 years of unauthorized hospital bed data from a government website."
-    },
-    {
-     "word": "bypass",
-     "thai": "ข้าม, หลีกเลี่ยง (ระบบความปลอดภัย)",
-     "level": "B2",
-     "example": "The AI ultimately found a way to bypass the access controls."
-    },
-    {
-     "word": "persistent",
-     "thai": "ที่ดื้อดึง, พยายามต่อเนื่องไม่ยอมแพ้",
-     "level": "B2",
-     "example": "An internal model that was highly persistent attempted multiple ways to reach the data."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 183,
-   "sent_ts": "2026-10-18T12:46:33.096964+07:00"
-  },
   {
    "id": 313,
    "ts": "2026-10-18T04:51:25.239958+07:00",
@@ -19860,9 +19756,297 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 803,
+   "ts": "2026-11-01T01:16:24.859957+07:00",
+   "title": "Sponsored: One security strategy. Four different data center realities.",
+   "link": "https://www.datacenterdynamics.com/en/opinions/one-security-strategy-four-different-data-center-realities/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses data center security strategies and operational frameworks across the Asia Pacific region.",
+   "summary": "Data center operators in Asia Pacific face challenges in balancing standardized security across growing portfolios with local operational demands. Implementing effective physical security requires tracking movement across zones rather than relying only on perimeter boundaries.",
+   "vocab": [
+    {
+     "word": "standardizing",
+     "thai": "ทำให้เป็นมาตรฐานเดียวกัน",
+     "level": "B2",
+     "example": "Operators standardize core infrastructure and security architectures across their portfolios."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่นและการฟื้นตัว",
+     "level": "C1",
+     "example": "Standardizing core infrastructure improves scalability, resilience, and operational consistency."
+    },
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Global standards enable operators to scale while maintaining compliance."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 804,
+   "ts": "2026-11-01T01:16:24.860004+07:00",
+   "title": "Google's AI satellite sends a very expensive haiku to Earth",
+   "link": "https://www.theregister.com/ai-and-ml/2026/10/31/googles-ai-satellite-sends-a-very-expensive-haiku-to-earth/5306818",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Roundup of tech, cloud, and security news including hardware, AI, and open-source updates.",
+   "summary": "Recent tech news covers Amazon's workforce concerns over AI, major cloud infrastructure expansions, and various operating system updates. Security reports also highlight active zero-day attacks on on-premises enterprise software.",
+   "vocab": [
+    {
+     "word": "workforce",
+     "thai": "กำลังพล แรงงานในองค์กร",
+     "level": "B2",
+     "example": "Amazon sends chills through its workforce with a mixed message memo about AI use."
+    },
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "C1",
+     "example": "The business acquisition went through at the equivalent of a multi-billion dollar valuation."
+    },
+    {
+     "word": "fragmentation",
+     "thai": "การแตกแยกเป็นส่วนๆ",
+     "level": "C1",
+     "example": "Alternative operating systems and userlands continue to see diverse community development."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 805,
+   "ts": "2026-11-01T01:16:24.860032+07:00",
+   "title": "Malware uses LLMs to rank victims by how much they're worth",
+   "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Details a novel malware variant using LLMs to automatically analyze and rank stolen victim credentials.",
+   "summary": "A new credential-stealing malware called VOLTA uses large language models to process stolen victim data and automatically rank assets by monetization value. The malware features fallback chains across multiple AI endpoints to ensure automated target assessment succeeds.",
+   "vocab": [
+    {
+     "word": "monetization",
+     "thai": "การสร้างรายได้",
+     "level": "C1",
+     "example": "The model ranks the victim's assets by monetization value and potential payout."
+    },
+    {
+     "word": "implant",
+     "thai": "ซอฟต์แวร์ประสงค์ร้ายที่ฝังในระบบ",
+     "level": "C1",
+     "example": "VOLTA is a mature stealer implant with an optional AI-integration layer."
+    },
+    {
+     "word": "triage",
+     "thai": "การคัดแยกความสำคัญหรือความเร่งด่วน",
+     "level": "C1",
+     "example": "The model acts as the operator's triage analyst to prioritize stolen data."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 806,
+   "ts": "2026-11-01T01:16:24.860071+07:00",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "link": "https://jepsen.io/analyses/particledb-1.1.4",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Database testing report covering architectural features, consensus protocols, and performance claims for a new multi-model database.",
+   "summary": "ParticleDB is a new database written in Rust designed to unify transactional SQL, vector search, and live analytics workloads primarily for AI agents. Independent testing by Jepsen examined its single-node behavior, storage synchronization tactics, and consistency guarantees.",
+   "vocab": [
+    {
+     "word": "consensus",
+     "thai": "ความเห็นพ้องต้องกันของระบบกระจาย",
+     "level": "C1",
+     "example": "The replicated cluster uses the Raft consensus protocol to coordinate state."
+    },
+    {
+     "word": "workload",
+     "thai": "ภาระงานของระบบ",
+     "level": "B2",
+     "example": "Modern applications often spread state and workloads across a variety of systems."
+    },
+    {
+     "word": "durability",
+     "thai": "ความคงทนถาวรของข้อมูล",
+     "level": "C1",
+     "example": "The transaction engine documentation described different modes offering stronger durability."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 807,
+   "ts": "2026-11-01T01:16:24.860094+07:00",
+   "title": "A City Canceled Flock's Contract. Flock Ignored It. Police Chief Unplugged Them",
+   "link": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on a municipal dispute where a police chief physically unplugged automated license plate reader cameras after contract cancellation.",
+   "summary": "After a city council voted to cancel its contract with an automated license plate reader provider, the vendor continued leaving cameras installed and active. Frustrated by the lack of response, the local police chief personally directed staff to unplug the camera power cords.",
+   "vocab": [
+    {
+     "word": "discontinue",
+     "thai": "ยุติการใช้งานหรือการให้บริการ",
+     "level": "B2",
+     "example": "The city council voted to discontinue the use of automated license plate readers."
+    },
+    {
+     "word": "definitively",
+     "thai": "อย่างเด็ดขาด แน่ชัด",
+     "level": "C1",
+     "example": "The police chief stated he did not have a definitive answer regarding hardware removal."
+    },
+    {
+     "word": "correspondence",
+     "thai": "การติดต่อสื่อสาร",
+     "level": "B2",
+     "example": "The department received no corporate correspondence after sending the formal letter."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 7,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 808,
+   "ts": "2026-11-01T01:16:24.860135+07:00",
+   "title": "Redox: Ring Buffers Project Summary",
+   "link": "https://www.redox-os.org/news/nlnet-rb-summary/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Details low-level kernel and microkernel asynchronous I/O development, implementing io_uring-style ring buffers in Redox.",
+   "summary": "The Redox microkernel team completed a project implementing io_uring-like ring buffer support at the task level for applications and system services. This asynchronous I/O architecture improves performance by reducing blocking calls between user space and system drivers.",
+   "vocab": [
+    {
+     "word": "asynchronous",
+     "thai": "แบบไม่พร้อมกัน (แฮนด์เซคงานโดยไม่ต้องรอ)",
+     "level": "C1",
+     "example": "Asynchronous I/O operations are processed without blocking the userspace process."
+    },
+    {
+     "word": "microkernel",
+     "thai": "เคอร์เนลขนาดจิ๋วที่แยกฟังก์ชันออกไป",
+     "level": "C2",
+     "example": "Redox, being a microkernel, handles I/O in userspace scheme processes."
+    },
+    {
+     "word": "implementation",
+     "thai": "การนำไปปฏิบัติหรือพัฒนาให้ใช้งานได้จริง",
+     "level": "B2",
+     "example": "Developers often consider alternative asynchronous mechanism implementations lackluster."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 809,
+   "ts": "2026-11-01T01:16:31.009966+07:00",
+   "title": "Reading and writing are less symmetric than you (probably) think",
+   "link": "https://fgiesen.wordpress.com/2015/10/25/reading-and-writing-are-less-symmetric-than-you-probably-think/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Explains low-level storage I/O and kernel buffering behaviors relevant to systems operations, though theoretical.",
+   "summary": "This article discusses the technical differences between reading and writing data in computing storage systems. It explains how kernel caching and block device constraints make input and output operations asymmetrical.",
+   "vocab": [
+    {
+     "word": "asymmetry",
+     "thai": "ความไม่สมมาตร",
+     "level": "C1",
+     "example": "There are some important behavioral asymmetries between them, especially when errors are in the mix."
+    },
+    {
+     "word": "concreteness",
+     "thai": "ความเป็นรูปธรรม",
+     "level": "C1",
+     "example": "For concreteness, suppose we’re interfacing with actual storage."
+    },
+    {
+     "word": "overhead",
+     "thai": "ค่าใช้จ่ายส่วนเกิน (ในระบบ)",
+     "level": "B2",
+     "example": "System call overhead varies between OSes."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 810,
+   "ts": "2026-11-01T01:16:31.010005+07:00",
+   "title": "UK Green party drops longstanding opposition to nuclear power",
+   "link": "https://www.theguardian.com/politics/2026/oct/05/green-party-nuclear-power-policy",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers energy policy shifts toward nuclear power which affects long-term data center power availability.",
+   "summary": "The UK Green party has dropped its long-standing opposition to nuclear energy, allowing members to evaluate nuclear projects on a case-by-case basis. This policy shift reflects a pragmatic approach to low-carbon power sources during the green energy transition.",
+   "vocab": [
+    {
+     "word": "pragmatic",
+     "thai": "ที่เน้นการปฏิบัติจริง",
+     "level": "B2",
+     "example": "This evolution of our policy shows a pragmatic approach to energy transition."
+    },
+    {
+     "word": "fission",
+     "thai": "ปฏิกิริยาฟิชชัน",
+     "level": "B2",
+     "example": "The motion removes a blanket opposition to nuclear fission."
+    },
+    {
+     "word": "transition",
+     "thai": "การเปลี่ยนผ่าน",
+     "level": "B2",
+     "example": "While the country moved towards an electricity system based primarily on renewables."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 803,
+ "next_id": 811,
  "vocab": [
   {
    "word": "exploited",
