@@ -1654,198 +1654,26 @@
   "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
   "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
   "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
-  "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/"
+  "https://arstechnica.com/cars/2026/10/2027-nissan-rogue-hybrid-drives-like-an-ev-but-theres-no-plug-involved/",
+  "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+  "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592",
+  "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+  "https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103",
+  "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+  "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+  "https://piefed.world/post/1503394",
+  "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+  "https://xoranth.net/gcc-switch/",
+  "https://nullprogram.com/blog/2026/10/31/",
+  "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+  "https://aatishb.com/myriad/lets-build-a-brain/",
+  "https://zebra.rodeo/en/blog/marelleo/",
+  "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+  "https://thedataexchange.media/leo-de-moura-lean-aws/",
+  "https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/",
+  "https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/"
  ],
  "stories": [
-  {
-   "id": 304,
-   "ts": "2026-10-17T18:49:46.577232+07:00",
-   "title": "Why data sovereignty is about control, not geography",
-   "link": "https://www.datacenterdynamics.com/en/opinions/why-data-sovereignty-is-about-control-not-geography/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "An analytical piece on data sovereignty versus residency, offering strategic insight for cloud deployments rather than breaking operational news.",
-   "summary": "The article explains why storing data within local borders does not guarantee legal sovereignty under laws like the US CLOUD Act. It argues that organizations must focus on robust access control and encryption rather than just physical server location.",
-   "vocab": [
-    {
-     "word": "sovereignty",
-     "thai": "อำนาจอธิปไตยหรือสิทธิ์ในการควบคุมเบ็ดเสร็จ",
-     "level": "C1",
-     "example": "Data sovereignty is a control requirement, determining legal and operational authority."
-    },
-    {
-     "word": "compel",
-     "thai": "บังคับหรือสั่งให้กระทำ",
-     "level": "B2",
-     "example": "The US CLOUD Act grants authorities the power to compel companies to produce data."
-    },
-    {
-     "word": "jurisdiction",
-     "thai": "เขตอำนาจศาลหรืออำนาจทางกฎหมาย",
-     "level": "C1",
-     "example": "An organization hosting workloads in Europe may still be subject to foreign jurisdiction."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 305,
-   "ts": "2026-10-17T18:49:46.577270+07:00",
-   "title": "Plans for data center in Moncalieri, Italy, put on hold by town mayor",
-   "link": "https://www.datacenterdynamics.com/en/news/plans-for-data-center-in-moncalieri-italy-put-on-hold-by-town-mayor/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Reports on local government pushback halting a major 576MW Italian data center project over environmental and grid concerns.",
-   "summary": "Municipal authorities in Moncalieri have paused approvals for what was planned to be Italy's largest data center campus, a 576MW facility. The mayor halted the project due to unresolved concerns regarding power consumption, environmental impact, and local job creation.",
-   "vocab": [
-    {
-     "word": "proponent",
-     "thai": "ผู้เสนอหรือผู้สนับสนุนโครงการ",
-     "level": "C1",
-     "example": "The mayor will discuss concerns with his majority before responding to project proponents."
-    },
-    {
-     "word": "mitigate",
-     "thai": "บรรเทาหรือลดผลกระทบเชิงลบ",
-     "level": "B2",
-     "example": "The developer failed to mitigate issues relating to the project's impact on public health."
-    },
-    {
-     "word": "stringent",
-     "thai": "เข้มงวดหรือกวดขันอย่างยิ่ง",
-     "level": "C1",
-     "example": "Regional authorities proposed a law designed to be more stringent than neighboring regulations."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 306,
-   "ts": "2026-10-17T18:49:46.577315+07:00",
-   "title": "Cybercrims go beyond stealing data to attack physical building systems",
-   "link": "https://www.theregister.com/security/2026/10/17/cybercrims-go-beyond-stealing-data-to-attack-physical-building-systems/5303677",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly impacts infrastructure facilities by highlighting rising cyberattacks and ransomware targeting Building Automation Systems (BAS) and HVAC controls.",
-   "summary": "Cybercriminals are increasingly targeting physical building automation systems such as HVAC, door locks, and refrigeration to extort organizations. These operational technology attacks directly threaten data center physical security and environmental controls.",
-   "vocab": [
-    {
-     "word": "spoil",
-     "thai": "เน่าเสียหรือทำให้เสียหาย",
-     "level": "B2",
-     "example": "The attack altered refrigeration temperatures, spoiling food across hundreds of stores."
-    },
-    {
-     "word": "extortion",
-     "thai": "การกรรโชกทรัพย์หรือการบีบบังคับรีดไถ",
-     "level": "C1",
-     "example": "Hitting physical systems turns up the pressure on executives to pay an extortion demand."
-    },
-    {
-     "word": "intrusion",
-     "thai": "การบุกรุกหรือการลักลอบเจาะเข้าระบบ",
-     "level": "B2",
-     "example": "Not all digital intrusions remain in cyberspace without affecting the real world."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 170,
-   "sent_ts": "2026-10-17T18:49:47.131433+07:00"
-  },
-  {
-   "id": 307,
-   "ts": "2026-10-17T18:49:47.131594+07:00",
-   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-   "link": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Technical release information and API routing metrics for an efficient new MoE inference model relevant to AI infrastructure sizing and hosting.",
-   "summary": "DeepSeek has introduced its V4.1 Flash snapshot, an asymmetric Mixture-of-Experts model designed for cost-efficient long-context inference and agentic workloads. The model substantially cuts KV cache memory consumption, lowering hosting and computational footprints for AI deployments.",
-   "vocab": [
-    {
-     "word": "asymmetric",
-     "thai": "ไม่สมมาตรหรือไม่เท่ากันสองด้าน",
-     "level": "C1",
-     "example": "The model uses an asymmetric parameter split between input and output to lower compute requirements."
-    },
-    {
-     "word": "throughput",
-     "thai": "ปริมาณงานหรือข้อมูลที่ประมวลผลได้ต่อหน่วยเวลา",
-     "level": "B2",
-     "example": "Throughput measures how quickly the inference server outputs generated tokens."
-    },
-    {
-     "word": "latency",
-     "thai": "ความหน่วงเวลาหรือระยะเวลาตอบสนองของระบบ",
-     "level": "B2",
-     "example": "Round-trip latency remains low across all benchmarked inference endpoints."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8,
-   "extra_links": [
-    "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017"
-   ],
-   "msg_id": 178,
-   "sent_ts": "2026-10-18T12:46:30.645424+07:00"
-  },
-  {
-   "id": 308,
-   "ts": "2026-10-17T18:50:41.078375+07:00",
-   "title": "Recipes Are Moving from Maven Central to the Code Genome Project",
-   "link": "https://docs.openrewrite.org/reference/latest-versions-of-every-openrewrite-module",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "OpenRewrite is moving recipe modules to a new repository requiring authentication, which can break CI/CD pipelines if unaddressed.",
-   "summary": "OpenRewrite modules are transitioning away from Maven Central to the Code Genome Project repository, requiring user authentication to download. DevOps engineers using these modules must update their build scripts and credential settings to keep automation working.",
-   "vocab": [
-    {
-     "word": "authentication",
-     "thai": "การยืนยันตัวตน",
-     "level": "B2",
-     "example": "Downloads require authentication, so add the repository and credentials to your build to resolve them."
-    },
-    {
-     "word": "dependency",
-     "thai": "ส่วนประกอบที่ต้องพึ่งพาในการทำงานของโปรแกรม",
-     "level": "B2",
-     "example": "Keep Maven Central configured alongside it, since OpenRewrite's transitive dependencies still resolve from there."
-    },
-    {
-     "word": "explicit",
-     "thai": "ที่ระบุไว้อย่างชัดเจน",
-     "level": "B2",
-     "example": "The use of the bill of materials means that a developer will only need to specify explicit versions of the BOM."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 9,
-   "msg_id": 179,
-   "sent_ts": "2026-10-18T12:46:31.141806+07:00"
-  },
   {
    "id": 309,
    "ts": "2026-10-17T21:36:18.342020+07:00",
@@ -19770,80 +19598,310 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 795,
+   "ts": "2026-10-31T21:00:29.212031+07:00",
+   "title": "Europe’s AI ambitions are hitting a power bottleneck",
+   "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Analyzes how Europe's power grid bottlenecks and energy limitations threaten data center expansion and AI infrastructure growth.",
+   "summary": "Europe's rapid data center and AI expansion is hitting severe power grid bottlenecks and capacity limits. Major energy shortfalls and slow grid upgrades risk stalling infrastructure growth and pushing operators toward alternative power sources.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด / อุปสรรคที่ทำให้ช้าลง",
+     "level": "B2",
+     "example": "Unprepared and outdated grid infrastructure is a serious bottleneck for the power reaching where it needs to go."
+    },
+    {
+     "word": "curtailment",
+     "thai": "การลดกำลังการผลิตลง",
+     "level": "C1",
+     "example": "In Spain, around 16 percent of solar generation was curtailed in the first quarter of 2026 alone."
+    },
+    {
+     "word": "phenomenon",
+     "thai": "ปรากฏการณ์",
+     "level": "B2",
+     "example": "Major energy projects being unable to connect to the grid is not a new phenomenon."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 456,
+   "sent_ts": "2026-10-31T21:00:30.401568+07:00"
+  },
+  {
+   "id": 796,
+   "ts": "2026-10-31T21:00:30.401922+07:00",
+   "title": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
+   "link": "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "A weekly industry news roundup covering various minor tech and open-source updates with low direct impact.",
+   "summary": "The Register published its regular weekly roundup covering recent developments in AI sentiment, cybersecurity incidents, and free software projects. The eclectic mix includes updates on Nvidia's rise, security patches, and alternative operating systems.",
+   "vocab": [
+    {
+     "word": "eclectic",
+     "thai": "หลากหลาย / คละแบบ",
+     "level": "C1",
+     "example": "The roundup offers an eclectic mix of news covering AI, infosec, and open-source software."
+    },
+    {
+     "word": "sentiment",
+     "thai": "ความรู้สึก / ทัศนคติที่มีต่อสิ่งใดสิ่งหนึ่ง",
+     "level": "B2",
+     "example": "The memo from Amazon created a bleak sentiment among software engineers regarding their future."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "Several security incidents highlighted the ongoing challenges of securing enterprise infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
+    "https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103"
+   ]
+  },
+  {
+   "id": 797,
+   "ts": "2026-10-31T21:00:30.401965+07:00",
+   "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
+   "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Examines Nvidia's massive growth in data center networking and Ethernet sales following its strategic Mellanox acquisition.",
+   "summary": "Nvidia has transformed from a GPU manufacturer into a dominant networking titan, with quarterly networking revenues rivaling Cisco. This success stems from its 2019 acquisition of Mellanox and a tightly integrated compute-and-networking design strategy optimized for AI clusters.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "B2",
+     "example": "Jensen Huang started working towards this status with the $6.9 billion acquisition of Mellanox."
+    },
+    {
+     "word": "interconnect",
+     "thai": "ระบบเชื่อมต่อโครงข่าย",
+     "level": "C1",
+     "example": "For large AI clusters, Nvidia needed high-performance interconnect solutions to move massive datasets."
+    },
+    {
+     "word": "architecture",
+     "thai": "โครงสร้างสถาปัตยกรรม",
+     "level": "B2",
+     "example": "Customers choose Nvidia for its tightly integrated compute and networking architecture."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 457,
+   "sent_ts": "2026-10-31T21:00:30.941369+07:00"
+  },
+  {
+   "id": 798,
+   "ts": "2026-10-31T21:00:30.941683+07:00",
+   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+   "link": "https://piefed.world/post/1503394",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports active security vulnerabilities in a popular Signal client fork due to missing upstream updates.",
+   "summary": "Molly, a popular fork of the Signal secure messenger, has remained unmaintained for months and is currently vulnerable to known exploits. Users are advised to switch to mainline Signal until regular maintenance resumes.",
+   "vocab": [
+    {
+     "word": "vulnerable",
+     "thai": "เสี่ยงต่ออันตราย / เปราะบาง",
+     "level": "B2",
+     "example": "Molly has not been updated in months and remains vulnerable to attacks fixed in mainline Signal."
+    },
+    {
+     "word": "exploit",
+     "thai": "ช่องโหว่ที่ถูกใช้โจมตี",
+     "level": "C1",
+     "example": "Take for example the latest exploit disclosed in October, which was promptly fixed in Signal."
+    },
+    {
+     "word": "maintain",
+     "thai": "ดูแลรักษา / ปรับปรุงให้อยู่ในสภาพดี",
+     "level": "B2",
+     "example": "Users should ensure their messaging applications are actively maintained by developers."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 799,
+   "ts": "2026-10-31T21:00:30.941708+07:00",
+   "title": "We Took over ChatGPT Accounts",
+   "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Details a critical zero-click vulnerability in ChatGPT allowing complete account takeover via shared conversation links.",
+   "summary": "Security researchers discovered a critical vulnerability in ChatGPT that allowed attackers to take over user accounts simply by sending a malicious shared link. OpenAI quickly patched the flaw and classified it as a P1 security issue.",
+   "vocab": [
+    {
+     "word": "bypass",
+     "thai": "หลีกเลี่ยง / ลัดผ่านระบบความปลอดภัย",
+     "level": "B2",
+     "example": "By bypassing ChatGPT's sandbox, researchers were able to execute arbitrary code."
+    },
+    {
+     "word": "authenticate",
+     "thai": "พิสูจน์ตัวตน",
+     "level": "C1",
+     "example": "The payload executed with full access to the victim's authenticated web session."
+    },
+    {
+     "word": "isolate",
+     "thai": "แยกออกจากส่วนอื่น",
+     "level": "B2",
+     "example": "Preview code is supposed to be safely isolated inside a restricted frame."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 458,
+   "sent_ts": "2026-10-31T21:00:31.521529+07:00"
+  },
+  {
+   "id": 800,
+   "ts": "2026-10-31T21:00:45.430087+07:00",
+   "title": "Prospero: A new coding harness for a more civilized age",
+   "link": "https://nullprogram.com/blog/2026/10/31/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Introduces a lightweight coding harness for LLMs and local AI agents, relevant to DevOps and AI tooling workflows.",
+   "summary": "A developer has built Prospero, a lightweight C++ coding harness designed to run local AI agents efficiently without massive memory overhead. It offers desktop control, subagent coordination, and independent headless execution modes.",
+   "vocab": [
+    {
+     "word": "inexplicable",
+     "thai": "อธิบายไม่ได้",
+     "level": "C1",
+     "example": "For inexplicable reasons most are built with web stacks, and consume enormous amounts of memory."
+    },
+    {
+     "word": "aficionado",
+     "thai": "ผู้ที่ชื่นชอบ",
+     "level": "C1",
+     "example": "Dark mode aficionados are covered, too."
+    },
+    {
+     "word": "coordinate",
+     "thai": "ประสานงาน",
+     "level": "B2",
+     "example": "Agents can message one another and coordinate on tasks."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 7
+  },
+  {
+   "id": 801,
+   "ts": "2026-10-31T21:00:45.430166+07:00",
+   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+   "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Reports a direct security breach into Anthropic's internal systems by a startup using AI agents, highlighting vulnerabilities.",
+   "summary": "A cybersecurity startup accessed Anthropic's internal administrative systems in under 12 hours using AI agents, exposing employee details and messages. Anthropic quickly revoked access and stated that customer data and core model weights remained unaffected.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "จุดอ่อน, ช่องโหว่",
+     "level": "B2",
+     "example": "The incident was discovered during a security test conducted to identify vulnerabilities."
+    },
+    {
+     "word": "administrative",
+     "thai": "เกี่ยวกับการบริหาร",
+     "level": "B2",
+     "example": "Cathedral used AI agents to find weaknesses in business software used by Anthropic for administrative tasks."
+    },
+    {
+     "word": "implication",
+     "thai": "ผลกระทบที่ตามมา",
+     "level": "B2",
+     "example": "Anthropic argued that Cathedral had overstated the national security implications of the incident."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 459,
+   "sent_ts": "2026-10-31T21:00:45.957380+07:00"
+  },
+  {
+   "id": 802,
+   "ts": "2026-10-31T21:00:45.957709+07:00",
+   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+   "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Discusses formal verification, Lean, and AI-driven software correctness at AWS, directly impacting reliable infrastructure engineering.",
+   "summary": "AWS scientist Leo de Moura discusses how AI and formal verification tools like Lean are transforming software engineering by replacing trust with machine-checked proofs. The interview highlights the growing need for rigorous specifications as AI code generation accelerates.",
+   "vocab": [
+    {
+     "word": "specification",
+     "thai": "ข้อกำหนดรายละเอียด",
+     "level": "B2",
+     "example": "They discuss the growing importance of specifications and machine-checked proofs."
+    },
+    {
+     "word": "conjecture",
+     "thai": "ข้อสันนิษฐาน",
+     "level": "C2",
+     "example": "You can state open conjectures in math, and you can provide proofs of these claims."
+    },
+    {
+     "word": "accelerate",
+     "thai": "เร่งความเร็ว",
+     "level": "B2",
+     "example": "As code generation speeds up, who tests the output?"
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 795,
+ "next_id": 803,
  "vocab": [
-  {
-   "word": "deliberately",
-   "thai": "อย่างจงใจ",
-   "level": "B2",
-   "example": "Modern warfare can deliberately disrupt communications systems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "offload",
-   "thai": "ถ่ายโอนภาระออกไป",
-   "level": "C1",
-   "example": "Banks are now trying to offload the AI data center debt they just underwrote.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "collateral",
-   "thai": "หลักประกัน",
-   "level": "C1",
-   "example": "Oracle sued Wisconsin's Public Service Commission over a rule that could force it to post more than $7 billion in collateral.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deterministic",
-   "thai": "ที่มีผลลัพธ์แน่นอนตามกฎ",
-   "level": "C2",
-   "example": "The planning, rendering, and validation are deterministic code.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "prerequisite",
-   "thai": "เงื่อนไขเบื้องต้น",
-   "level": "C1",
-   "example": "It reports which prerequisites are present and what each unlocks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "invert",
-   "thai": "กลับตาลปัตร",
-   "level": "C1",
-   "example": "The tool inverts the roles between humans and coding agents.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "crims",
-   "thai": "อาชญากร (คำสแลง)",
-   "level": "C2",
-   "example": "Cisco make-me-root email bug exploited as a 0-day by unknown crims.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "exploited",
    "thai": "ถูกใช้ประโยชน์ในทางมิชอบหรือเจาะระบบ",
@@ -24769,6 +24827,76 @@
    "thai": "คลังสมบัติ, ของสะสมจำนวนมาก",
    "level": "C1",
    "example": "Cloud giants rely on tape to back up vast troves of data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "curtailment",
+   "thai": "การลดกำลังการผลิตลง",
+   "level": "C1",
+   "example": "In Spain, around 16 percent of solar generation was curtailed in the first quarter of 2026 alone.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "phenomenon",
+   "thai": "ปรากฏการณ์",
+   "level": "B2",
+   "example": "Major energy projects being unable to connect to the grid is not a new phenomenon.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bypass",
+   "thai": "หลีกเลี่ยง / ลัดผ่านระบบความปลอดภัย",
+   "level": "B2",
+   "example": "By bypassing ChatGPT's sandbox, researchers were able to execute arbitrary code.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "authenticate",
+   "thai": "พิสูจน์ตัวตน",
+   "level": "C1",
+   "example": "The payload executed with full access to the victim's authenticated web session.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "isolate",
+   "thai": "แยกออกจากส่วนอื่น",
+   "level": "B2",
+   "example": "Preview code is supposed to be safely isolated inside a restricted frame.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "administrative",
+   "thai": "เกี่ยวกับการบริหาร",
+   "level": "B2",
+   "example": "Cathedral used AI agents to find weaknesses in business software used by Anthropic for administrative tasks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "implication",
+   "thai": "ผลกระทบที่ตามมา",
+   "level": "B2",
+   "example": "Anthropic argued that Cathedral had overstated the national security implications of the incident.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
