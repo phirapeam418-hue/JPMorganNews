@@ -1710,199 +1710,23 @@
   "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
   "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
   "https://arxiv.org/abs/2409.02292",
-  "http://thales.mit.edu/bush/index.php/4801-2/"
+  "http://thales.mit.edu/bush/index.php/4801-2/",
+  "https://www.datacenterdynamics.com/en/opinions/what-could-1000x-more-reliable-quantum-computation-unlock/",
+  "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+  "https://www.theregister.com/applications/2026/11/01/mother-of-all-editors-emacs-is-50/5306727",
+  "https://hackerbooks.org",
+  "https://www.ajupress.com/view/20261028171670308",
+  "https://arxiv.org/abs/2610.39302",
+  "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+  "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+  "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+  "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+  "https://tibleiz.net/copper/",
+  "https://www.nature.com/articles/s41560-026-02144-0",
+  "https://kevs3d.co.uk/phoria2/",
+  "https://huggingface.co/burner22/numbat"
  ],
  "stories": [
-  {
-   "id": 317,
-   "ts": "2026-10-18T19:15:37.068769+07:00",
-   "title": "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
-   "link": "https://www.theregister.com/offbeat/2026/10/18/oh-no-what-happened-to-my-oohpod-windows-command-prompt-puts-in-a-surprise-appearance/5303109",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "This is a diverse tech news roundup touching on data center power limits and zero-day vulnerabilities in SharePoint.",
-   "summary": "The Register published a tech roundup covering TSMC assessing US data center power supplies and active zero-day attacks on on-premise SharePoint servers. These updates are relevant for tracking physical data center growth constraints and critical enterprise server vulnerabilities.",
-   "vocab": [
-    {
-     "word": "surveillance",
-     "thai": "การเฝ้าระวังหรือการสอดแนม",
-     "level": "B2",
-     "example": "China upgrades smartphone surveillance tools."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่า",
-     "level": "C1",
-     "example": "EQT bought a majority share at a 3.5 billion dollar valuation."
-    },
-    {
-     "word": "imitator",
-     "thai": "ผู้ลอกเลียนแบบ",
-     "level": "B2",
-     "example": "OpenAI dots inspire open source imitators amid technical difficulties."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 196,
-   "sent_ts": "2026-10-19T13:03:25.122950+07:00"
-  },
-  {
-   "id": 318,
-   "ts": "2026-10-18T19:15:37.068817+07:00",
-   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
-   "link": "https://api-docs.deepseek.com/guides/search/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "DeepSeek introduced dedicated retrieval APIs for AI agents, which offers a cheap component for automated RAG pipelines.",
-   "summary": "DeepSeek launched dedicated Search and Fetch APIs to give AI agents direct access to structured web search and Markdown content. This provides developers with an official low-cost option for building automated data retrieval and RAG architectures.",
-   "vocab": [
-    {
-     "word": "retrieve",
-     "thai": "ค้นคืนหรือดึงข้อมูล",
-     "level": "B2",
-     "example": "Fetch API retrieves a single web page and returns its content as Markdown."
-    },
-    {
-     "word": "schema",
-     "thai": "โครงสร้างข้อมูล",
-     "level": "B2",
-     "example": "See the reference for the complete request and response schemas."
-    },
-    {
-     "word": "intact",
-     "thai": "สมบูรณ์หรืออยู่ในสภาพเดิม",
-     "level": "B2",
-     "example": "The query is forwarded with its search syntax intact."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 197,
-   "sent_ts": "2026-10-19T13:03:25.720847+07:00"
-  },
-  {
-   "id": 319,
-   "ts": "2026-10-18T19:15:37.068964+07:00",
-   "title": "How employment is changing at Anthropic",
-   "link": "https://www.anthropic.com/research/employment-at-anthropic",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "The report provides interesting internal workplace research on AI adoption from Anthropic, but lacks direct operational urgency.",
-   "summary": "Anthropic published internal findings revealing that AI agent working hours now outnumber human staff hours by six to one. The shift has increased individual developer output while causing human attention to become the primary bottleneck in engineering management.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวดหรือจุดที่เกิดความติดขัด",
-     "level": "B2",
-     "example": "This acceleration makes human attention the bottleneck for agent output."
-    },
-    {
-     "word": "diffuse",
-     "thai": "แพร่กระจาย",
-     "level": "C1",
-     "example": "As AI agents diffused through the company, output rose significantly."
-    },
-    {
-     "word": "redeployment",
-     "thai": "การโยกย้ายหรือจัดสรรตำแหน่งใหม่",
-     "level": "C1",
-     "example": "As jobs evolve, the company has prioritized internal redeployments."
-    }
-   ],
-   "status": "sent",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 9,
-   "msg_id": 201,
-   "sent_ts": "2026-10-19T13:03:28.090943+07:00"
-  },
-  {
-   "id": 320,
-   "ts": "2026-10-19T00:00:24.239540+07:00",
-   "title": "The end of independent infrastructure roadmaps: how AI is forcing data center co-design",
-   "link": "https://www.datacenterdynamics.com/en/opinions/the-end-of-independent-infrastructure-roadmaps-how-ai-is-forcing-data-center-co-design/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly analyzes how massive AI hardware demands are forcing data centers to co-design compute, power, cooling, and networking together.",
-   "summary": "AI workloads are ending the era where processors, networks, and data center facilities could be upgraded independently. Modern AI clusters now require tightly coupled co-design across hardware, power delivery, and cooling systems to prevent stranded capital.",
-   "vocab": [
-    {
-     "word": "coupled",
-     "thai": "ที่เชื่อมโยงกันอย่างใกล้ชิด",
-     "level": "B2",
-     "example": "AI infrastructure is now operating more as a tightly coupled system."
-    },
-    {
-     "word": "stranded",
-     "thai": "ที่ถูกทิ้งไว้โดยไม่เกิดประโยชน์หรือติดค้าง",
-     "level": "B2",
-     "example": "Hence, idle accelerators represent stranded capital and wasted energy."
-    },
-    {
-     "word": "synchronization",
-     "thai": "การทำให้สอดคล้องกันตามเวลาหรือจังหวะ",
-     "level": "C1",
-     "example": "Every training iteration requires continuous movement and synchronization of model parameters."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 198,
-   "sent_ts": "2026-10-19T13:03:26.304241+07:00"
-  },
-  {
-   "id": 321,
-   "ts": "2026-10-19T00:00:53.368789+07:00",
-   "title": "Websites are closing their doors to AI agents",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Web platforms are actively blocking automated AI agents, which impacts bot management systems and edge traffic filtering.",
-   "summary": "Major internet services including Amazon, Delta, and JPMorgan Chase are actively blocking automated AI agents from accessing their platforms. These restrictions threaten the usability of autonomous AI tools and spark debates over web scraping and access rights.",
-   "vocab": [
-    {
-     "word": "scour",
-     "thai": "ค้นหาอย่างละเอียดถี่ถ้วน",
-     "level": "C1",
-     "example": "Companies promise their agents can scour the internet on your behalf."
-    },
-    {
-     "word": "wrath",
-     "thai": "ความโกรธจัด",
-     "level": "C2",
-     "example": "The virtual assistant faced the wrath of major retailers blocking automated visits."
-    },
-    {
-     "word": "perceived",
-     "thai": "ที่ถูกมองหรือรับรู้",
-     "level": "B2",
-     "example": "Blocking access could reduce the perceived value of autonomous assistants."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 199,
-   "sent_ts": "2026-10-19T13:03:26.885573+07:00"
-  },
   {
    "id": 322,
    "ts": "2026-10-19T02:50:35.650599+07:00",
@@ -19833,7 +19657,10 @@
    "impact": 5,
    "urgency": 7,
    "scale": 4,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies"
+   ]
   },
   {
    "id": 808,
@@ -20236,9 +20063,117 @@
    "urgency": 3,
    "scale": 4,
    "credibility": 9
+  },
+  {
+   "id": 819,
+   "ts": "2026-11-02T00:25:15.910969+07:00",
+   "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
+   "link": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Basic building maintenance and environmental hazards directly affect data center uptime, cooling efficiency, and physical cabling.",
+   "summary": "Operators rushing to build data centers are frequently neglecting basic building maintenance like vegetation management, drainage, and pest control. These unaddressed facilities issues can cause serious outages through blocked HVAC airflow, wildfire hazards, and rodents chewing fiber cabling.",
+   "vocab": [
+    {
+     "word": "innocuous",
+     "thai": "ซึ่งดูเหมือนไม่เป็นอันตราย",
+     "level": "C2",
+     "example": "These innocuous building maintenance issues are flying under the radar."
+    },
+    {
+     "word": "exacerbate",
+     "thai": "ทำให้แย่ลงหรือทวีความรุนแรง",
+     "level": "C1",
+     "example": "In flood-prone areas, faulty irrigation systems can also exacerbate risk."
+    },
+    {
+     "word": "gnaw",
+     "thai": "กัดแทะ",
+     "level": "C1",
+     "example": "A rat infestation gnawing through cable fiber trunks can easily cause serious outages."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 820,
+   "ts": "2026-11-02T00:28:10.259756+07:00",
+   "title": "One-minute frequency disturbances from synchronization in power systems",
+   "link": "https://www.nature.com/articles/s41560-026-02144-0",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Critical research directly linking UPS and data center power synchronization to global power grid frequency disturbances.",
+   "summary": "Researchers discovered that clock-synchronized controls in UPS systems and data centers trigger 1-minute power oscillations across electrical grids worldwide. This unintended synchronization strains grid stability and hydropower infrastructure, requiring stricter frequency controls as data center capacity grows.",
+   "vocab": [
+    {
+     "word": "oscillatory",
+     "thai": "ซึ่งแกว่งไปมาเป็นจังหวะ",
+     "level": "C1",
+     "example": "Grid-frequency time series worldwide exhibit a persistent 1-min oscillatory pattern."
+    },
+    {
+     "word": "intertwined",
+     "thai": "เกี่ยวพันกันอย่างแยกไม่ออก",
+     "level": "C1",
+     "example": "Physical devices and digital control are deeply intertwined."
+    },
+    {
+     "word": "coherently",
+     "thai": "อย่างสอดคล้องประสานกัน",
+     "level": "C1",
+     "example": "Even benign control routines can become systemically relevant when many devices act coherently."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 821,
+   "ts": "2026-11-02T00:28:10.259815+07:00",
+   "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
+   "link": "https://huggingface.co/burner22/numbat",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Significant claim of an unreleased frontier AI model weights leak, carrying high impact for AI infrastructure teams.",
+   "summary": "An alleged internal checkpoint for Anthropic's next-generation 14-trillion-parameter model codenamed numbat was uploaded to a public repository with implementation scripts. If authentic, the massive leak reveals critical architecture specifications and training state from one of the industry's largest AI infrastructure runs.",
+   "vocab": [
+    {
+     "word": "alleged",
+     "thai": "ซึ่งถูกกล่าวอ้าง (แต่ยังไม่ได้รับการพิสูจน์)",
+     "level": "C1",
+     "example": "Alleged Mythos Class Anthropic Checkpoint Leak."
+    },
+    {
+     "word": "deterministic",
+     "thai": "ที่มีผลลัพธ์แน่นอนตามเงื่อนไขที่กำหนด",
+     "level": "C1",
+     "example": "File sizes, tensor counts, and index entries are all deterministic and self-consistent."
+    },
+    {
+     "word": "payloads",
+     "thai": "ข้อมูลเนื้อหาหลักที่ส่งผ่านหรือจัดเก็บ",
+     "level": "B2",
+     "example": "Scale blocks decode their payloads within RTNE bounds."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 6
   }
  ],
- "next_id": 819,
+ "next_id": 822,
  "vocab": [
   {
    "word": "expedite",
