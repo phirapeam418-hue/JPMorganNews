@@ -1693,81 +1693,17 @@
   "https://florianwilhelm.info/2026/10/sentinel_values/",
   "https://en.wikipedia.org/wiki/Rhind_Mathematical_Papyrus",
   "https://arstechnica.com/science/2026/10/scientists-recreate-the-1600-year-old-recipe-of-lycurgus-cup/",
-  "https://twitter.com/jiahaoshao1/status/2116475922190922088"
+  "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+  "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+  "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+  "https://uvdn7.github.io/altoids-project/",
+  "https://spectrum.ieee.org/early-electric-vehicles",
+  "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+  "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+  "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+  "https://emarzion.github.io/KSRT/"
  ],
  "stories": [
-  {
-   "id": 314,
-   "ts": "2026-10-18T06:37:07.951172+07:00",
-   "title": "JDK 28",
-   "link": "https://openjdk.org/projects/jdk/28/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "An early-access notice for a future Java release carries minor long-term software relevance but no immediate operational impact.",
-   "summary": "The OpenJDK community has opened the mainline development and released early-access binaries for JDK 28. While important for development roadmaps, this early stage does not require immediate action from operations teams.",
-   "vocab": [
-    {
-     "word": "enhancement",
-     "thai": "การปรับปรุงหรือพัฒนาเพิ่มเติม",
-     "level": "B2",
-     "example": "The main line is open for bug fixes, small enhancements, and JEPs as proposed."
-    },
-    {
-     "word": "binary",
-     "thai": "ไฟล์โปรแกรมที่คอมไพล์แล้ว",
-     "level": "B2",
-     "example": "Early-access binaries, under the GPL, are available here."
-    },
-    {
-     "word": "specify",
-     "thai": "ระบุอย่างละเอียดหรือเจาะจง",
-     "level": "B2",
-     "example": "This release will be the Reference Implementation as specified by JSR 403."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 315,
-   "ts": "2026-10-18T06:37:07.951243+07:00",
-   "title": "Codex Desktop continuously generates Crashpad pending dumps",
-   "link": "https://github.com/openai/codex/issues/25921",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "A developer workstation bug report involving unbounded disk growth caused by crash dump files in an AI desktop client.",
-   "summary": "A bug in the OpenAI Codex Desktop app causes crash dump files to continuously accumulate, consuming gigabytes of disk space each day. Engineers running the tool should monitor their local storage until a cleanup fix is delivered.",
-   "vocab": [
-    {
-     "word": "unbounded",
-     "thai": "ไร้ขีดจำกัดหรือไม่สิ้นสุด",
-     "level": "C1",
-     "example": "Crashpad is continuously generating pending dump pairs, causing unbounded local disk growth."
-    },
-    {
-     "word": "accumulate",
-     "thai": "สะสมหรือพอกพูน",
-     "level": "B2",
-     "example": "Pending Crashpad reports accumulate rapidly and consume multiple GB of local disk space."
-    },
-    {
-     "word": "stale",
-     "thai": "ตกค้างหรือล้าสมัย",
-     "level": "B2",
-     "example": "This appears to be active dump generation rather than stale one-time leftovers."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
   {
    "id": 316,
    "ts": "2026-10-18T13:59:56.383804+07:00",
@@ -19801,7 +19737,10 @@
    "impact": 5,
    "urgency": 3,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/"
+   ]
   },
   {
    "id": 805,
@@ -20049,11 +19988,13 @@
      "example": "Red Hat's security bulletin warned that attackers could trigger remote code execution."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 10,
    "urgency": 9,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 466,
+   "sent_ts": "2026-11-01T10:01:59.850588+07:00"
   },
   {
    "id": 812,
@@ -20090,40 +20031,120 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 813,
+   "ts": "2026-11-01T10:02:31.188571+07:00",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Evaluates a multi-agent coding workflow using LLMs, highly relevant to AI engineering and DevOps tools.",
+   "summary": "A multi-agent workflow using Qwen models has demonstrated high performance on hard programming benchmark tests. The setup uses distinct roles communicating via disk files to solve complex coding tasks autonomously.",
+   "vocab": [
+    {
+     "word": "harness",
+     "thai": "กรอบการทำงานหรือระบบควบคุม",
+     "level": "C1",
+     "example": "A multi-agent harness for programming problems was written as a workflow."
+    },
+    {
+     "word": "contamination",
+     "thai": "การปนเปื้อน",
+     "level": "B2",
+     "example": "Model contamination cannot be ruled out since training data might include test contests."
+    },
+    {
+     "word": "parity",
+     "thai": "ความเท่าเทียมกัน",
+     "level": "C1",
+     "example": "The test compares the multiagent solver and the workflow to ensure functional parity."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 814,
+   "ts": "2026-11-01T10:02:31.188704+07:00",
+   "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+   "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Analyzes the root cause of a major structural collapse at the Arecibo Observatory, directly relevant to physical infrastructure maintenance.",
+   "summary": "A formal engineering report concluded that long-term zinc creep in cable sockets caused the catastrophic 2020 collapse of the Arecibo Observatory telescope. The findings highlight the importance of monitoring unique infrastructure for novel material failure modes as facilities age.",
+   "vocab": [
+    {
+     "word": "deterioration",
+     "thai": "ความเสื่อมสภาพ",
+     "level": "C1",
+     "example": "Careful monitoring should be increased to detect deterioration and potential novel failure modes."
+    },
+    {
+     "word": "precedent",
+     "thai": "บรรทัดฐานหรือกรณีตัวอย่างก่อนหน้า",
+     "level": "C1",
+     "example": "The report calls the failure the first documented case of its kind with no documented precedent."
+    },
+    {
+     "word": "remedial",
+     "thai": "เกี่ยวกับการแก้ไข",
+     "level": "C1",
+     "example": "Visual inspections showed cable pullouts which should have prompted remedial action."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10,
+   "msg_id": 467,
+   "sent_ts": "2026-11-01T10:02:31.752146+07:00"
+  },
+  {
+   "id": 815,
+   "ts": "2026-11-01T10:02:31.752486+07:00",
+   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+   "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces a simulated 3D breadboard MCP server tool enabling AI integration like Claude Code, matching DevOps and tooling interests.",
+   "summary": "BBRouter offers a 3D breadboard simulation of Ben Eater's 8-bit computer with an integrated Model Context Protocol server. This allows AI coding tools like Claude Code to inspect, change, and run hardware circuits directly.",
+   "vocab": [
+    {
+     "word": "simulation",
+     "thai": "การจำลอง",
+     "level": "B2",
+     "example": "BBRouter provides a digital simulation of an 8-bit computer on 3D breadboards."
+    },
+    {
+     "word": "connector",
+     "thai": "ตัวเชื่อมต่อ",
+     "level": "B2",
+     "example": "Add a custom connector to link the application with the remote MCP server."
+    },
+    {
+     "word": "schematic",
+     "thai": "แผนผังวงจร",
+     "level": "C1",
+     "example": "Parts can be marked as placed on the schematic or taken off it."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 813,
+ "next_id": 816,
  "vocab": [
-  {
-   "word": "exploited",
-   "thai": "ถูกใช้ประโยชน์ในทางมิชอบหรือเจาะระบบ",
-   "level": "B2",
-   "example": "A critical vulnerability was exploited as a 0-day in wild attacks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sound the alarm",
-   "thai": "ส่งสัญญาณเตือนภัยเร่งด่วน",
-   "level": "B2",
-   "example": "Both Switchzilla and CISA sound the alarm over the flaw.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "spoilage",
-   "thai": "การเน่าเสียของอาหารหรือสินค้า",
-   "level": "C1",
-   "example": "Causing spoilage of untold tons of perishables and, in some cases, fires.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "outstrip",
    "thai": "เกินกว่า, เหนือกว่า",
@@ -25089,6 +25110,36 @@
    "thai": "ผลกระทบที่ตามมา",
    "level": "B2",
    "example": "Anthropic argued that Cathedral had overstated the national security implications of the incident.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bulletin",
+   "thai": "ประกาศหรือแถลงการณ์แจ้งเตือนอย่างเป็นทางการ",
+   "level": "C1",
+   "example": "Red Hat's security bulletin warned that attackers could trigger remote code execution.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "precedent",
+   "thai": "บรรทัดฐานหรือกรณีตัวอย่างก่อนหน้า",
+   "level": "C1",
+   "example": "The report calls the failure the first documented case of its kind with no documented precedent.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "remedial",
+   "thai": "เกี่ยวกับการแก้ไข",
+   "level": "C1",
+   "example": "Visual inspections showed cable pullouts which should have prompted remedial action.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
