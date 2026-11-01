@@ -1724,45 +1724,15 @@
   "https://tibleiz.net/copper/",
   "https://www.nature.com/articles/s41560-026-02144-0",
   "https://kevs3d.co.uk/phoria2/",
-  "https://huggingface.co/burner22/numbat"
+  "https://huggingface.co/burner22/numbat",
+  "https://github.com/raphlinus/nibnib",
+  "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+  "https://nullprogram.com/blog/2025/02/05/",
+  "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+  "https://github.com/ivankovic/omnidiff",
+  "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml"
  ],
  "stories": [
-  {
-   "id": 322,
-   "ts": "2026-10-19T02:50:35.650599+07:00",
-   "title": "Anthropic gives outside AI watchdog “employee-like” access",
-   "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "External auditing of frontier AI models touches governance and security, but does not immediately alter daily data center operations.",
-   "summary": "Anthropic has granted independent watchdog organization METR internal access to evaluate frontier AI models for safety and security risks. This move tests whether third-party oversight modeled after financial sector supervision can effectively manage catastrophic AI risks.",
-   "vocab": [
-    {
-     "word": "embedded",
-     "thai": "ที่ฝังตัวอยู่ภายในหรือประจำการร่วมด้วย",
-     "level": "C1",
-     "example": "METR now has a team embedded in the Claude maker's office with access to internal systems."
-    },
-    {
-     "word": "accountable",
-     "thai": "มีความรับผิดชอบที่สามารถตรวจสอบได้",
-     "level": "B2",
-     "example": "We want to be publicly accountable for the decisions we are making."
-    },
-    {
-     "word": "safeguard",
-     "thai": "มาตรการป้องกันความปลอดภัย",
-     "level": "B2",
-     "example": "As models become more powerful, they require stronger safeguards and risk assessments."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9
-  },
   {
    "id": 323,
    "ts": "2026-10-19T05:01:36.930064+07:00",
@@ -20171,9 +20141,45 @@
    "urgency": 7,
    "scale": 7,
    "credibility": 6
+  },
+  {
+   "id": 822,
+   "ts": "2026-11-02T04:30:05.574312+07:00",
+   "title": "Tips for more effective fuzz testing with AFL++",
+   "link": "https://nullprogram.com/blog/2025/02/05/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "A practical guide to fuzz testing software using AFL++, relevant for DevOps and infrastructure security testing.",
+   "summary": "A software engineer shared practical configuration tips for maximizing bug discovery using the AFL++ fuzzing tool on C and C++ programs. The guidance helps developers and security engineers detect memory corruption vulnerabilities before deploying code.",
+   "vocab": [
+    {
+     "word": "indisputable",
+     "thai": "ไม่อาจโต้แย้งได้",
+     "level": "C1",
+     "example": "This article discusses AFL++ running on Linux, currently the indisputable best fuzzing platform for C and C++."
+    },
+    {
+     "word": "complement",
+     "thai": "เสริมเพิ่มเติม",
+     "level": "B2",
+     "example": "My tips complement the official, upstream documentation, so consult them, too."
+    },
+    {
+     "word": "persistent",
+     "thai": "ต่อเนื่องยาวนาน",
+     "level": "B2",
+     "example": "Prefer the persistent mode while fuzzing."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 822,
+ "next_id": 823,
  "vocab": [
   {
    "word": "expedite",
