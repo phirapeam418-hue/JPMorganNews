@@ -20950,7 +20950,7 @@
    "thai": "เน่าเสียหรือทำให้เสียหาย",
    "level": "B2",
    "example": "The attack altered refrigeration temperatures, spoiling food across hundreds of stores.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21030,7 +21030,7 @@
    "thai": "ที่สะสมรวมกัน",
    "level": "B2",
    "example": "More than 78% of cumulative battery energy storage system capacity was installed between 2023 and 2025.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22140,7 +22140,7 @@
    "thai": "ที่มีรายละเอียดมาก",
    "level": "C1",
    "example": "A granular approach to parameter management helps optimize model efficiency.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22600,7 +22600,7 @@
    "thai": "การยกเครื่องใหม่ / การบูรณะปรับปรุงขนานใหญ่",
    "level": "C1",
    "example": "In addition, it plans to overhaul the power architecture of the existing data center.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23750,7 +23750,7 @@
    "thai": "แพตช์, โปรแกรมแก้ไขข้อบกพร่อง",
    "level": "B2",
    "example": "Microsoft patches failed to fix on-prem SharePoint.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -25182,26 +25182,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6257978100022248467": {
-   "word": "statutory",
-   "correct": 2
-  },
-  "6257978100022248468": {
-   "word": "authentication",
-   "correct": 0
-  },
-  "6257978100022248469": {
-   "word": "resilience",
-   "correct": 0
-  },
-  "6257978100022248470": {
-   "word": "phishing",
-   "correct": 1
-  },
-  "6257978100022248471": {
-   "word": "mechanism",
-   "correct": 3
-  },
   "6260229899835933472": {
    "word": "transaction",
    "correct": 2
@@ -25381,6 +25361,26 @@
   "6282529254072649277": {
    "word": "factor",
    "correct": 2
+  },
+  "6287032853700019330": {
+   "word": "overhaul",
+   "correct": 0
+  },
+  "6287032853700019331": {
+   "word": "granular",
+   "correct": 2
+  },
+  "6287032853700019332": {
+   "word": "patch",
+   "correct": 1
+  },
+  "6287032853700019333": {
+   "word": "cumulative",
+   "correct": 3
+  },
+  "6287032853700019334": {
+   "word": "spoil",
+   "correct": 1
   }
  },
  "fail": {
