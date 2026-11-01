@@ -1705,44 +1705,6 @@
  ],
  "stories": [
   {
-   "id": 316,
-   "ts": "2026-10-18T13:59:56.383804+07:00",
-   "title": "Cloud-first served its purpose. Now it's time for workload-first",
-   "link": "https://www.datacenterdynamics.com/en/opinions/cloud-first-served-its-purpose-now-its-time-for-workload-first/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Workload placement and cloud repatriation directly impact enterprise infrastructure architecture and data center planning.",
-   "summary": "Enterprise IT strategies are shifting from an automatic cloud-first mindset to a workload-first approach that balances cloud, on-premises, and mainframes. This matters because regulatory rules like the EU Data Act and rising costs require operators to justify where each system runs.",
-   "vocab": [
-    {
-     "word": "nuanced",
-     "thai": "ละเอียดอ่อนและซับซ้อนขึ้น",
-     "level": "C1",
-     "example": "Today, the conversations I am having with business leaders are becoming more nuanced."
-    },
-    {
-     "word": "interoperability",
-     "thai": "ความสามารถในการทำงานร่วมกันระหว่างระบบ",
-     "level": "C1",
-     "example": "It obliges providers to support functional interoperability through standardized interfaces."
-    },
-    {
-     "word": "repatriation",
-     "thai": "การย้ายระบบกลับจากคลาวด์มายังศูนย์ข้อมูลภายใน",
-     "level": "C1",
-     "example": "Cost is often presented as the primary driver behind workload repatriation."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 195,
-   "sent_ts": "2026-10-19T13:03:24.543476+07:00"
-  },
-  {
    "id": 317,
    "ts": "2026-10-18T19:15:37.068769+07:00",
    "title": "Oh no, what happened to my OOHPod? Windows command prompt puts in a surprise appearance",
@@ -19138,11 +19100,13 @@
      "example": "Security teams are investigating the incident closely."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 5
+   "credibility": 5,
+   "msg_id": 469,
+   "sent_ts": "2026-11-01T14:25:29.289529+07:00"
   },
   {
    "id": 789,
@@ -19215,11 +19179,13 @@
      "example": "New rules were proposed to ease aviation regulations."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 475,
+   "sent_ts": "2026-11-01T14:25:32.218875+07:00"
   },
   {
    "id": 791,
@@ -19289,11 +19255,13 @@
      "example": "Oblivious Americans stuck with bills years later."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 470,
+   "sent_ts": "2026-11-01T14:25:29.767797+07:00"
   },
   {
    "id": 793,
@@ -19325,11 +19293,13 @@
      "example": "It might not abate until sometime late in the 2030s."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 3,
    "urgency": 4,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 476,
+   "sent_ts": "2026-11-01T14:25:32.695590+07:00"
   },
   {
    "id": 794,
@@ -19361,7 +19331,7 @@
      "example": "The settlement was prohibiting them from sharing some kinds of driver data."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 5,
    "scale": 7,
@@ -19435,7 +19405,7 @@
      "example": "Several security incidents highlighted the ongoing challenges of securing enterprise infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -19513,11 +19483,13 @@
      "example": "Users should ensure their messaging applications are actively maintained by developers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 471,
+   "sent_ts": "2026-11-01T14:25:30.250490+07:00"
   },
   {
    "id": 799,
@@ -19587,7 +19559,7 @@
      "example": "Agents can message one another and coordinate on tasks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 3,
@@ -19661,11 +19633,13 @@
      "example": "As code generation speeds up, who tests the output?"
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 472,
+   "sent_ts": "2026-11-01T14:25:30.745635+07:00"
   },
   {
    "id": 803,
@@ -19697,7 +19671,7 @@
      "example": "Global standards enable operators to scale while maintaining compliance."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -19733,7 +19707,7 @@
      "example": "Alternative operating systems and userlands continue to see diverse community development."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -19772,11 +19746,13 @@
      "example": "The model acts as the operator's triage analyst to prioritize stolen data."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 8,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 473,
+   "sent_ts": "2026-11-01T14:25:31.234646+07:00"
   },
   {
    "id": 806,
@@ -19808,7 +19784,7 @@
      "example": "The transaction engine documentation described different modes offering stronger durability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 5,
@@ -19844,7 +19820,7 @@
      "example": "The department received no corporate correspondence after sending the formal letter."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 7,
    "scale": 4,
@@ -19880,7 +19856,7 @@
      "example": "Developers often consider alternative asynchronous mechanism implementations lackluster."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
@@ -19916,7 +19892,7 @@
      "example": "System call overhead varies between OSes."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -19952,7 +19928,7 @@
      "example": "While the country moved towards an electricity system based primarily on renewables."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -20026,7 +20002,7 @@
      "example": "Let's look at database aggregations to understand cache utilization."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -20062,11 +20038,13 @@
      "example": "The test compares the multiagent solver and the workflow to ensure functional parity."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 474,
+   "sent_ts": "2026-11-01T14:25:31.726361+07:00"
   },
   {
    "id": 814,
@@ -20136,7 +20114,7 @@
      "example": "Parts can be marked as placed on the schematic or taken off it."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 7,
    "scale": 5,
@@ -20145,226 +20123,6 @@
  ],
  "next_id": 816,
  "vocab": [
-  {
-   "word": "outstrip",
-   "thai": "เกินกว่า, เหนือกว่า",
-   "level": "C1",
-   "example": "AI infrastructure spending is forecasted to outstrip expected revenue.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "adoption",
-   "thai": "การนำมาใช้",
-   "level": "B2",
-   "example": "NetBSD is seeing increasing awareness and adoption as an alternative operating system.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stimulus",
-   "thai": "สิ่งกระตุ้น",
-   "level": "C1",
-   "example": "Redbank has the potential to create local jobs and economic stimulus for the area.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "allude",
-   "thai": "กล่าวถึงเป็นนัย",
-   "level": "C2",
-   "example": "The company alluded to a potential expansion to Australia earlier this year.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "renderings",
-   "thai": "ภาพจำลองทางสถาปัตยกรรม",
-   "level": "B2",
-   "example": "Site renderings suggest at least four buildings of varying sizes and an on-site substation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consortium",
-   "thai": "กลุ่มบริษัทร่วมทุน",
-   "level": "C1",
-   "example": "Orange has joined a consortium to deploy a new subsea cable linking Ireland to Europe.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "continental",
-   "thai": "เกี่ยวกับทวีปใหญ่",
-   "level": "B2",
-   "example": "The project will establish a direct digital connection between Ireland and continental Europe.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stakeholder",
-   "thai": "ผู้มีส่วนได้ส่วนเสีย",
-   "level": "B2",
-   "example": "Building trusted routes in partnership with like-minded stakeholders is the backbone of Europe's future.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sovereign",
-   "thai": "ที่เป็นอิสระ, ที่เป็นของรัฐชาติ",
-   "level": "C1",
-   "example": "The companies agreed to explore the development of sovereign, AI-ready data center infrastructure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "suitability",
-   "thai": "ความเหมาะสม",
-   "level": "B2",
-   "example": "The firms will evaluate the suitability of existing premises for transformation into edge infrastructure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dispersion",
-   "thai": "การกระจายตัว",
-   "level": "C1",
-   "example": "The design allows for higher capacity with minimized chromatic dispersion.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "transformational",
-   "thai": "ที่เปลี่ยนแปลงไปในทางที่ดีขึ้นอย่างมาก",
-   "level": "C1",
-   "example": "Hollow core fiber is seen as a potentially transformational upgrade from traditional fiber.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unanimously",
-   "thai": "อย่างเป็นเอกฉันท์",
-   "level": "B2",
-   "example": "Taylor City Council unanimously approved the proposals last week.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dedicated",
-   "thai": "เฉพาะกิจ, อุทิศให้",
-   "level": "B2",
-   "example": "The campus is designed to deliver up to 1GW of data center capacity using dedicated, behind-the-meter power.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "skyrocket",
-   "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
-   "level": "C1",
-   "example": "As demand skyrockets, architectures within the data center are becoming much more complex.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "variable",
-   "thai": "ตัวแปร",
-   "level": "B2",
-   "example": "Fiber count becomes a design-limiting variable at training-cluster scale.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "synchronous",
-   "thai": "พร้อมเพรียงกัน, ซิงโครนัส",
-   "level": "C1",
-   "example": "The first thing about model training is that it is a synchronous process.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "scarcity",
-   "thai": "ความขาดแคลน",
-   "level": "B2",
-   "example": "Hemmed in by severe land shortages, water scarcity, crippling grid congestion, and mounting regulatory scrutiny...",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pioneering",
-   "thai": "ที่เป็นผู้บุกเบิก, นวัตกรรมใหม่",
-   "level": "C1",
-   "example": "Our latest Energy & Sustainability Supplement explores the pioneering technologies and frameworks redefining sustainable compute.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "collaboration",
-   "thai": "การร่วมมือกัน",
-   "level": "B2",
-   "example": "nVent and AMD today announced a collaboration to bring rack-level cooling to the AMD Helios Rackscale solution.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "integration",
-   "thai": "การบูรณาการ, การรวมเข้าด้วยกัน",
-   "level": "B2",
-   "example": "It is fully-integrated with the AMD Helios platform and offers intelligent cooling with no wasted watts.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "architecture",
-   "thai": "สถาปัตยกรรม (ทางระบบคอมพิวเตอร์)",
-   "level": "B2",
-   "example": "AMD Helios brings those elements together in an open, standards-based architecture designed to help customers scale.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "expedite",
    "thai": "เร่งรัด, ทำให้เร็วขึ้น",
@@ -25140,6 +24898,226 @@
    "thai": "เกี่ยวกับการแก้ไข",
    "level": "C1",
    "example": "Visual inspections showed cable pullouts which should have prompted remedial action.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breached",
+   "thai": "ถูกเจาะระบบ",
+   "level": "B2",
+   "example": "Reports indicate that the platform was breached by attackers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "platform",
+   "thai": "แพลตฟอร์ม",
+   "level": "B2",
+   "example": "The document platform hosts millions of files.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "incident",
+   "thai": "เหตุการณ์",
+   "level": "B2",
+   "example": "Security teams are investigating the incident closely.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fraudster",
+   "thai": "นักต้มตุ๋น, ผู้ฉ้อโกง",
+   "level": "C1",
+   "example": "Fraudsters who steal the identities of hundreds of Americans.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sensitive",
+   "thai": "ละเอียดอ่อน, เป็นความลับ",
+   "level": "B2",
+   "example": "Once they have that sensitive data, they fill out applications.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "oblivious",
+   "thai": "ที่ไม่รู้ตัว, ไม่ได้ใส่ใจ",
+   "level": "C1",
+   "example": "Oblivious Americans stuck with bills years later.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vulnerable",
+   "thai": "เสี่ยงต่ออันตราย / เปราะบาง",
+   "level": "B2",
+   "example": "Molly has not been updated in months and remains vulnerable to attacks fixed in mainline Signal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exploit",
+   "thai": "ช่องโหว่ที่ถูกใช้โจมตี",
+   "level": "C1",
+   "example": "Take for example the latest exploit disclosed in October, which was promptly fixed in Signal.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "maintain",
+   "thai": "ดูแลรักษา / ปรับปรุงให้อยู่ในสภาพดี",
+   "level": "B2",
+   "example": "Users should ensure their messaging applications are actively maintained by developers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conjecture",
+   "thai": "ข้อสันนิษฐาน",
+   "level": "C2",
+   "example": "You can state open conjectures in math, and you can provide proofs of these claims.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accelerate",
+   "thai": "เร่งความเร็ว",
+   "level": "B2",
+   "example": "As code generation speeds up, who tests the output?",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "monetization",
+   "thai": "การสร้างรายได้",
+   "level": "C1",
+   "example": "The model ranks the victim's assets by monetization value and potential payout.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "implant",
+   "thai": "ซอฟต์แวร์ประสงค์ร้ายที่ฝังในระบบ",
+   "level": "C1",
+   "example": "VOLTA is a mature stealer implant with an optional AI-integration layer.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "triage",
+   "thai": "การคัดแยกความสำคัญหรือความเร่งด่วน",
+   "level": "C1",
+   "example": "The model acts as the operator's triage analyst to prioritize stolen data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "harness",
+   "thai": "กรอบการทำงานหรือระบบควบคุม",
+   "level": "C1",
+   "example": "A multi-agent harness for programming problems was written as a workflow.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contamination",
+   "thai": "การปนเปื้อน",
+   "level": "B2",
+   "example": "Model contamination cannot be ruled out since training data might include test contests.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "parity",
+   "thai": "ความเท่าเทียมกัน",
+   "level": "C1",
+   "example": "The test compares the multiagent solver and the workflow to ensure functional parity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "turbulence",
+   "thai": "ความปั่นป่วน",
+   "level": "C1",
+   "example": "The company is facing financial turbulence regarding its timeline.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "regulations",
+   "thai": "กฎข้อบังคับ",
+   "level": "B2",
+   "example": "New rules were proposed to ease aviation regulations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "shortfall",
+   "thai": "จำนวนที่ขาดแคลน",
+   "level": "C1",
+   "example": "There will be a shortfall of about 150 launches compared to demand.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "acutely",
+   "thai": "อย่างรุนแรง, อย่างเฉียบพลัน",
+   "level": "C1",
+   "example": "The report estimates the crunch will become most acute in 2028.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "abate",
+   "thai": "บรรเทาลง, ลดลง",
+   "level": "C1",
+   "example": "It might not abate until sometime late in the 2030s.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
