@@ -1701,7 +1701,16 @@
   "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
   "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
   "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-  "https://emarzion.github.io/KSRT/"
+  "https://emarzion.github.io/KSRT/",
+  "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+  "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+  "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+  "https://blog.zamzar.com/2026/10/30/20-years-766-million-files-two-chameleons/",
+  "https://github.com/l0ng-ai/openidea",
+  "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+  "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+  "https://arxiv.org/abs/2409.02292",
+  "http://thales.mit.edu/bush/index.php/4801-2/"
  ],
  "stories": [
   {
@@ -20119,9 +20128,117 @@
    "urgency": 7,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 816,
+   "ts": "2026-11-01T17:58:26.918196+07:00",
+   "title": "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
+   "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This is an aggregation of multiple news headlines including infrastructure, cloud, and security topics.",
+   "summary": "The Register published a roundup covering UK landline phaseouts, cloud AI accelerator growth, and zero-day issues in on-premises SharePoint. Infrastructure engineers may find the enterprise patches and networking trends relevant across various operational areas.",
+   "vocab": [
+    {
+     "word": "insulate",
+     "thai": "ป้องกัน (already-learned, skip)",
+     "level": "B2",
+     "example": ""
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "B2",
+     "example": "US takes down Iranian propaganda sites."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวังหรือสอดแนม",
+     "level": "B2",
+     "example": "China upgrades smartphone surveillance tools."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 817,
+   "ts": "2026-11-01T17:58:26.918263+07:00",
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+   "link": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Interesting security and legal precedent on prompt injection targeting automated document processing systems.",
+   "summary": "A Brazilian court sanctioned two lawyers for hiding prompt-injection instructions in white text inside a legal filing to trick an automated court AI tool. This case establishes an important legal precedent showing how enterprise AI pipelines can be actively manipulated by malicious input.",
+   "vocab": [
+    {
+     "word": "censure",
+     "thai": "ตำหนิอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "A Brazilian labor court censured and fined two lawyers."
+    },
+    {
+     "word": "conceal",
+     "thai": "ปกปิดหรือซ่อนเร้น",
+     "level": "B2",
+     "example": "Once the font color was changed, the concealed instruction became visible."
+    },
+    {
+     "word": "detriment",
+     "thai": "ความเสียหายหรือผลเสีย",
+     "level": "C1",
+     "example": "The command was crafted to the detriment of the defendant and justice itself."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 818,
+   "ts": "2026-11-01T17:58:26.918358+07:00",
+   "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+   "link": "https://arxiv.org/abs/2409.02292",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Academic paper showing an air-gap exfiltration technique via RAM radio emissions, directly relevant to physical data center security.",
+   "summary": "Researchers demonstrated an attack called RAMBO that leaks data from air-gapped systems by emitting radio signals directly from computer RAM buses. The technique can exfiltrate sensitive keys and files to a nearby software-defined radio receiver, highlighting novel physical isolation risks.",
+   "vocab": [
+    {
+     "word": "adversary",
+     "thai": "ศัตรูหรือฝ่ายตรงข้าม",
+     "level": "C1",
+     "example": "The paper presents an attack allowing adversaries to leak confidential data."
+    },
+    {
+     "word": "covert",
+     "thai": "ที่เป็นความลับหรือซ่อนเร้น",
+     "level": "C1",
+     "example": "The malware generates covert radio signals using the internal memory bus."
+    },
+    {
+     "word": "intercept",
+     "thai": "สกัดกั้นหรือดักรับข้อมูล",
+     "level": "B2",
+     "example": "An attacker can intercept transmitted raw radio signals from a distance."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
   }
  ],
- "next_id": 816,
+ "next_id": 819,
  "vocab": [
   {
    "word": "expedite",
