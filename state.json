@@ -1741,44 +1741,6 @@
  ],
  "stories": [
   {
-   "id": 324,
-   "ts": "2026-10-19T09:16:14.078066+07:00",
-   "title": "Time Lords kill leap seconds, before they become the new Y2K bug",
-   "link": "https://www.theregister.com/networks/2026/10/19/time-lords-kill-leap-seconds-before-they-become-the-new-y2k-bug/5303711",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "This is a roundup including TSMC's review of US datacenter power and active zero-day attacks on on-prem SharePoint.",
-   "summary": "The Register published a roundup highlighting TSMC assessing US datacenter power readiness and ongoing zero-day attacks hitting on-premises Microsoft SharePoint servers. These updates are directly relevant to enterprise infrastructure security and cloud capacity planning.",
-   "vocab": [
-    {
-     "word": "surveillance",
-     "thai": "การสอดแนมหรือเฝ้าระวัง",
-     "level": "B2",
-     "example": "China upgrades smartphone surveillance tools across various regions."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่า",
-     "level": "B2",
-     "example": "The cybersecurity firm went at an equivalent of a $3.5B valuation."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความช่วยเหลือหรือเกณฑ์กำลัง",
-     "level": "C1",
-     "example": "The Franklin project enlists hackers to harden critical infrastructure."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 200,
-   "sent_ts": "2026-10-19T13:03:27.491442+07:00"
-  },
-  {
    "id": 325,
    "ts": "2026-10-19T16:26:48.441152+07:00",
    "title": "Successful project handover for data centers",
@@ -19922,11 +19884,13 @@
      "example": "China upgrades smartphone surveillance tools."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 493,
+   "sent_ts": "2026-11-02T14:36:28.966625+07:00"
   },
   {
    "id": 817,
@@ -19958,11 +19922,13 @@
      "example": "The command was crafted to the detriment of the defendant and justice itself."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 494,
+   "sent_ts": "2026-11-02T14:36:29.626156+07:00"
   },
   {
    "id": 818,
@@ -19994,11 +19960,13 @@
      "example": "An attacker can intercept transmitted raw radio signals from a distance."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 489,
+   "sent_ts": "2026-11-02T14:36:26.295435+07:00"
   },
   {
    "id": 819,
@@ -20106,11 +20074,13 @@
      "example": "Scale blocks decode their payloads within RTNE bounds."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 7,
-   "credibility": 6
+   "credibility": 6,
+   "msg_id": 487,
+   "sent_ts": "2026-11-02T14:36:24.865545+07:00"
   },
   {
    "id": 822,
@@ -20142,11 +20112,13 @@
      "example": "Prefer the persistent mode while fuzzing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 490,
+   "sent_ts": "2026-11-02T14:36:26.957333+07:00"
   },
   {
    "id": 823,
@@ -20178,11 +20150,13 @@
      "example": "PostgreSQL committers were about as conservative as they were in preceding years."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 488,
+   "sent_ts": "2026-11-02T14:36:25.581255+07:00"
   },
   {
    "id": 824,
@@ -20214,11 +20188,13 @@
      "example": "The solution was a new lattice-based material."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 491,
+   "sent_ts": "2026-11-02T14:36:27.644676+07:00"
   },
   {
    "id": 825,
@@ -20250,175 +20226,17 @@
      "example": "AI does not understand accountability, trust, culture, or unwritten rules."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 2,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 492,
+   "sent_ts": "2026-11-02T14:36:28.319934+07:00"
   }
  ],
  "next_id": 826,
  "vocab": [
-  {
-   "word": "staggering",
-   "thai": "น่าตกใจ, มหาศาล",
-   "level": "C1",
-   "example": "...while we don’t have anywhere near the infrastructure needed to meet the staggering electricity demands of these massive facilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "backlash",
-   "thai": "กระแสต่อต้านอย่างรุนแรง",
-   "level": "C1",
-   "example": "Northern Virginia has been at the heart of the data center industry for years, but the region is experiencing a backlash against new AI projects.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "resilience",
-   "thai": "ความยืดหยุ่นในการคืนสภาพ",
-   "level": "C1",
-   "example": "Continuous monitoring can improve power distribution resilience.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "moratorium",
-   "thai": "คำสั่งระงับชั่วคราว",
-   "level": "C1",
-   "example": "A countrywide moratorium in the US will lead to a recession.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "forecasted",
-   "thai": "ที่คาดการณ์ไว้",
-   "level": "B2",
-   "example": "JLL said that forecasted data center capacity will require huge investments.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "opposition",
-   "thai": "การคัดค้าน",
-   "level": "B2",
-   "example": "Increasing opposition to data centers is mostly misinformation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "anonymous",
-   "thai": "นิรนาม ไม่อحي่ระบุชื่อ",
-   "level": "B2",
-   "example": "An anonymous developer was evaluating thousands of acres of land.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pinnacle",
-   "thai": "จุดสูงสุด",
-   "level": "C1",
-   "example": "Meta represents the pinnacle of technology companies.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "suspect",
-   "thai": "สงสัย",
-   "level": "B2",
-   "example": "Police suspect the explosion resulted from a gas cylinder malfunctioning.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "toxic",
-   "thai": "เป็นพิษ",
-   "level": "B2",
-   "example": "Nitrogen trifluoride is a toxic gas primarily used in semiconductor manufacturing.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "cooperate",
-   "thai": "ร่วมมือ",
-   "level": "B2",
-   "example": "We continue to cooperate fully with the authorities investigating the incident.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "formulation",
-   "thai": "การกำหนดรูปแบบ",
-   "level": "C1",
-   "example": "The common formulation runs like this.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "classify",
-   "thai": "จำแนกประเภท",
-   "level": "B2",
-   "example": "The distance definition cannot classify the interesting cases.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "implementation",
-   "thai": "การนำไปปฏิบัติจริง",
-   "level": "C1",
-   "example": "Those effects describe the implementation of scale-across.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "fluctuation",
-   "thai": "การขึ้นๆ ลงๆ, ความผันผวน",
-   "level": "C1",
-   "example": "The system is designed to handle sharp load fluctuations in grids and AI data centers.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exclusive",
-   "thai": "เฉพาะตัว, ผูกขาด",
-   "level": "B2",
-   "example": "The Estonian provider secured a strategic investment and exclusive partnership with Siemens.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "benchmark",
    "thai": "เกณฑ์มาตรฐาน, การทดสอบมาตรฐาน",
@@ -25254,6 +25072,166 @@
    "thai": "อย่างสอดคล้องประสานกัน",
    "level": "C1",
    "example": "Even benign control routines can become systemically relevant when many devices act coherently.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alleged",
+   "thai": "ซึ่งถูกกล่าวอ้าง (แต่ยังไม่ได้รับการพิสูจน์)",
+   "level": "C1",
+   "example": "Alleged Mythos Class Anthropic Checkpoint Leak.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deterministic",
+   "thai": "ที่มีผลลัพธ์แน่นอนตามเงื่อนไขที่กำหนด",
+   "level": "C1",
+   "example": "File sizes, tensor counts, and index entries are all deterministic and self-consistent.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "payloads",
+   "thai": "ข้อมูลเนื้อหาหลักที่ส่งผ่านหรือจัดเก็บ",
+   "level": "B2",
+   "example": "Scale blocks decode their payloads within RTNE bounds.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "revert",
+   "thai": "ย้อนกลับสู่สภาพเดิมหรือยกเลิกการเปลี่ยนแปลง",
+   "level": "C1",
+   "example": "Several rather large features were reverted quite late in the beta period.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "postpone",
+   "thai": "เลื่อนออกไป",
+   "level": "B2",
+   "example": "The project could decide to postpone the release further.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "adversary",
+   "thai": "ศัตรูหรือฝ่ายตรงข้าม",
+   "level": "C1",
+   "example": "The paper presents an attack allowing adversaries to leak confidential data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intercept",
+   "thai": "สกัดกั้นหรือดักรับข้อมูล",
+   "level": "B2",
+   "example": "An attacker can intercept transmitted raw radio signals from a distance.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "indisputable",
+   "thai": "ไม่อาจโต้แย้งได้",
+   "level": "C1",
+   "example": "This article discusses AFL++ running on Linux, currently the indisputable best fuzzing platform for C and C++.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "complement",
+   "thai": "เสริมเพิ่มเติม",
+   "level": "B2",
+   "example": "My tips complement the official, upstream documentation, so consult them, too.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "groundbreaking",
+   "thai": "ที่เป็นการบุกเบิกครั้งสำคัญ",
+   "level": "B2",
+   "example": "Researchers have developed a groundbreaking 3D invisibility cloak.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conceal",
+   "thai": "ปกปิดหรือซ่อนเร้น",
+   "level": "B2",
+   "example": "The device can conceal objects from infrared cameras.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lattice",
+   "thai": "โครงสร้างแบบตาข่ายหรือร่างแห",
+   "level": "C1",
+   "example": "The solution was a new lattice-based material.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stagnant",
+   "thai": "หยุดนิ่งหรือไม่เติบโต",
+   "level": "C1",
+   "example": "Corporate productivity metrics remained largely stagnant across several quarters.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "skeptical",
+   "thai": "ที่กังขาหรือไม่เชื่อถือ",
+   "level": "B2",
+   "example": "The economist sounded skeptical about claims of rapid profit growth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "censure",
+   "thai": "ตำหนิอย่างเป็นทางการ",
+   "level": "C1",
+   "example": "A Brazilian labor court censured and fined two lawyers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "detriment",
+   "thai": "ความเสียหายหรือผลเสีย",
+   "level": "C1",
+   "example": "The command was crafted to the detriment of the defendant and justice itself.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
