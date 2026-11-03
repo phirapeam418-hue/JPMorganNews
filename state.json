@@ -1761,7 +1761,31 @@
   "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
   "https://www.theregister.com/paas-and-iaas/2026/11/02/oracle-gobbles-20-billion-borrowing-limit-a-week-after-setting-it/5307014",
   "https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958",
-  "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998"
+  "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
+  "https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/",
+  "https://www.datacenterdynamics.com/en/news/korea-telecom-to-halt-sale-of-new-3g-plans/",
+  "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+  "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+  "https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124",
+  "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
+  "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
+  "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+  "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+  "https://rikiyat.github.io/blog/weight-space-programming/",
+  "https://hackertimes.ca/",
+  "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+  "https://github.com/NVIDIA/auto-ontology",
+  "https://erici.eu",
+  "https://news.ycombinator.com/item?id=50340088",
+  "https://knlb.dev/essays/surrender",
+  "https://toit.io/blog/toit-v2-0-0/",
+  "https://www.argmin.net/p/galactus-the-devourer",
+  "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+  "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+  "https://openai.com/index/scaling-git-at-openai/",
+  "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+  "https://margeux.com/rb338.html",
+  "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you"
  ],
  "stories": [
   {
@@ -19203,60 +19227,592 @@
    "credibility": 9,
    "msg_id": 505,
    "sent_ts": "2026-11-03T09:06:15.062888+07:00"
+  },
+  {
+   "id": 846,
+   "ts": "2026-11-03T15:48:02.002461+07:00",
+   "title": "Anthropic signs lease with Australian Data Centres in Western Downs, Queensland",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Anthropic signed a major lease for a huge gigawatt-scale data center project in Australia, directly impacting AI infrastructure capacity.",
+   "summary": "Anthropic has agreed to lease space in a massive upcoming hyperscale data center campus in Queensland, Australia. The huge project aims to deliver over two gigawatts of capacity to support future AI workloads.",
+   "vocab": [
+    {
+     "word": "definitive",
+     "thai": "ที่เป็นконعท้าย สุดท้าย แน่นอน",
+     "level": "B2",
+     "example": "The deal with ADC, which is majority-owned by Australian real assets manager and owner Dexus, is not yet definitive."
+    },
+    {
+     "word": "consortium",
+     "thai": "สมาคม กลุ่มบริษัท",
+     "level": "C1",
+     "example": "A consortium including Australia Data Centres entered into lease documentation with an Australian subsidiary of Anthropic."
+    },
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทลูก",
+     "level": "B2",
+     "example": "Anthropic's Australian subsidiary has signed a lease agreement with Australian Data Centres."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8,
+   "msg_id": 515,
+   "sent_ts": "2026-11-03T15:48:02.612148+07:00"
+  },
+  {
+   "id": 847,
+   "ts": "2026-11-03T15:48:02.612346+07:00",
+   "title": "Korea Telecom to halt sale of new 3G plans",
+   "link": "https://www.datacenterdynamics.com/en/news/korea-telecom-to-halt-sale-of-new-3g-plans/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Korea Telecom is shutting down legacy 3G services, marking another step in the retirement of older telecommunications infrastructure.",
+   "summary": "Korea Telecom has stopped selling new 3G subscriptions as the carrier shifts its focus entirely to modern LTE and 5G networks. The move affects a tiny percentage of remaining users while telecom operators clear spectrum for newer tech.",
+   "vocab": [
+    {
+     "word": "suspend",
+     "thai": "ระงับชั่วคราว",
+     "level": "B2",
+     "example": "The carrier will no longer be selling 3G plans to new customers as it pushes ahead with the transition."
+    },
+    {
+     "word": "disclose",
+     "thai": "เปิดเผย",
+     "level": "B2",
+     "example": "The company didn't disclose how many customers are still on 3G plans."
+    },
+    {
+     "word": "meticulous",
+     "thai": "พิถีพิถัน ละเอียดลออ",
+     "level": "C1",
+     "example": "We will provide meticulous support to minimize the inconvenience and burden on 3G users."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 848,
+   "ts": "2026-11-03T15:48:02.612380+07:00",
+   "title": "Forget retraining - AI can now tweak another AI's weights",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers critical industry updates including VMware alternatives, zero-day SharePoint attacks, and critical infrastructure hardening projects.",
+   "summary": "Recent tech news highlights various open-source developments, ongoing security flaws in enterprise software, and infrastructure updates. These changes impact system administrators and DevOps professionals managing modern server environments.",
+   "vocab": [
+    {
+     "word": "unaffiliated",
+     "thai": "ไม่สังกัด ไม่มีความเกี่ยวข้อง",
+     "level": "C1",
+     "example": "Daemonarchy is unaffiliated with the Linux original, built with AI help."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไข การบำบัด",
+     "level": "C1",
+     "example": "Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack."
+    },
+    {
+     "word": "general-purpose",
+     "thai": "อเนกประสงค์",
+     "level": "B2",
+     "example": "SparkyOS is a lightweight general-purpose Arch distribution on a pendrive."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 849,
+   "ts": "2026-11-03T15:48:02.612407+07:00",
+   "title": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Gartner research on open-source AI models offers key financial and architectural insights for DevOps teams deploying AI agents.",
+   "summary": "Gartner reports that open models can handle most agentic tasks at a fraction of the cost of frontier LLMs. This shift may alter how organizations architect and budget their automated workflows.",
+   "vocab": [
+    {
+     "word": "frontier",
+     "thai": "แนวหน้า ล้ำสมัยที่สุด",
+     "level": "B2",
+     "example": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM."
+    },
+    {
+     "word": "fraction",
+     "thai": "เศษส่วน เล็กน้อย",
+     "level": "B2",
+     "example": "Open models can execute tasks at a fraction of the traditional cost."
+    },
+    {
+     "word": "architecture",
+     "thai": "สถาปัตยกรรม",
+     "level": "B2",
+     "example": "Enterprises must re-evaluate their software architecture to leverage cheaper open-source models."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 850,
+   "ts": "2026-11-03T15:48:02.612432+07:00",
+   "title": "Architect creates open-source replacement for VM migration tool VMware has hidden",
+   "link": "https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "The release of an open-source alternative to a hidden VMware migration tool directly impacts virtualization and infrastructure operations.",
+   "summary": "An architect has released an open-source replacement for a virtual machine migration tool previously hidden by VMware. The utility is reportedly already seeing production usage at scale.",
+   "vocab": [
+    {
+     "word": "migration",
+     "thai": "การย้ายระบบ",
+     "level": "B2",
+     "example": "An architect creates an open-source replacement for a VM migration tool VMware has hidden."
+    },
+    {
+     "word": "utility",
+     "thai": "โปรแกรมอรรถประโยชน์ เครื่องมือ",
+     "level": "B2",
+     "example": "The new open-source utility helps administrators move virtual machines efficiently."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งและใช้งานจริง",
+     "level": "B2",
+     "example": "OpenVDDK is reportedly already being used in production deployments at scale."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 851,
+   "ts": "2026-11-03T15:48:02.612460+07:00",
+   "title": "Toyota shows off SoC that stores model weights and its OS on integrated memory",
+   "link": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Toyota's new SoC design highlighting integrated memory for model weights points toward future edge AI hardware trends.",
+   "summary": "Toyota has showcased a new system-on-chip that stores operating system files and AI model weights directly on integrated memory. This hardware approach improves efficiency and reduces latency for automotive edge computing.",
+   "vocab": [
+    {
+     "word": "integrated",
+     "thai": "ที่รวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Toyota shows off a SoC that stores model weights and its OS on integrated memory."
+    },
+    {
+     "word": "latency",
+     "thai": "ความหน่วง",
+     "level": "C1",
+     "example": "Storing weights locally on the chip significantly reduces inference latency."
+    },
+    {
+     "word": "automotive",
+     "thai": "เกี่ยวกับยานยนต์",
+     "level": "B2",
+     "example": "The new chip architecture is designed specifically for advanced automotive applications."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 852,
+   "ts": "2026-11-03T15:48:02.612482+07:00",
+   "title": "Token thieves costing companies $100K+ per day in illicit LLM charges",
+   "link": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Security vulnerabilities and illicit token usage directly threaten enterprise budgets and cloud infrastructure security.",
+   "summary": "Cybercriminals are stealing API tokens to run unauthorized LLM workloads, costing organizations huge sums daily. Companies must implement stricter monitoring and rate limiting to prevent these fraudulent API charges.",
+   "vocab": [
+    {
+     "word": "illicit",
+     "thai": "ผิดกฎหมาย ไม่ชอบด้วยกฎหมาย",
+     "level": "C1",
+     "example": "Token thieves are costing companies over $100K per day in illicit LLM charges."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "Security teams are racing to block unauthorized access to corporate API endpoints."
+    },
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทา การป้องกันความเสียหาย",
+     "level": "C1",
+     "example": "Effective token monitoring is essential for the mitigation of financial losses."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 8,
+   "msg_id": 516,
+   "sent_ts": "2026-11-03T15:48:03.188763+07:00"
+  },
+  {
+   "id": 853,
+   "ts": "2026-11-03T15:48:03.189067+07:00",
+   "title": "SUSE to cut one in ten employees because of... AI",
+   "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Major workforce reductions attributed to AI adoption reflect broader structural changes across the enterprise software and Linux ecosystem.",
+   "summary": "SUSE is planning to lay off ten percent of its workforce, citing AI-driven restructuring. This downsizing reflects a wider trend among technology firms shifting resources toward automation.",
+   "vocab": [
+    {
+     "word": "restructuring",
+     "thai": "การปรับโครงสร้างองค์กร",
+     "level": "B2",
+     "example": "The company announced massive internal restructuring due to increasing automation."
+    },
+    {
+     "word": "workforce",
+     "thai": "กำลังแรงงาน พนักงานในบริษัท",
+     "level": "B2",
+     "example": "SUSE is set to cut one in ten employees from its global workforce."
+    },
+    {
+     "word": "automation",
+     "thai": "ระบบอัตโนมัติ",
+     "level": "B2",
+     "example": "Firms are heavily investing in AI automation to streamline operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 854,
+   "ts": "2026-11-03T15:48:16.309064+07:00",
+   "title": "How we halved DNS build delay and cut memory use by 85%",
+   "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Cloudflare details architectural improvements to their DNS pipeline, reducing memory and latency.",
+   "summary": "Cloudflare optimized its DNS zone builder to handle significantly more records with lower resource consumption. The updates cut peak memory usage by 85% and halved the propagation delay to edge servers.",
+   "vocab": [
+    {
+     "word": "propagation",
+     "thai": "การแพร่กระจาย",
+     "level": "C1",
+     "example": "When I last wrote about our DNS propagation pipeline in 2022, the Zone Builder received about 250 DNS record changes per second."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่น",
+     "level": "C1",
+     "example": "Together, they cut peak memory by 85%, and the extra headroom let us safely shorten waits the pipeline has always needed for resilience."
+    },
+    {
+     "word": "distributed",
+     "thai": "แบบกระจาย",
+     "level": "B2",
+     "example": "The Zone Builder compares those keys with Quicksilver, our distributed key-value store."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 855,
+   "ts": "2026-11-03T15:48:16.309100+07:00",
+   "title": "Astra can read and write weights to improve Qwen",
+   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Researchers demonstrate frontier LLMs directly reading and writing neural network weights.",
+   "summary": "A new study shows that advanced language models can natively understand and edit neural network weights without traditional optimizers. This technique, called Weight-Space Programming, improved model performance on math and reasoning tasks.",
+   "vocab": [
+    {
+     "word": "interpretability",
+     "thai": "ความสามารถในการตีความ",
+     "level": "C1",
+     "example": "This might be a big deal for both optimization and interpretability."
+    },
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิม",
+     "level": "B2",
+     "example": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms."
+    },
+    {
+     "word": "generalizes",
+     "thai": "สามารถนำไปประยุกต์ใช้ได้ทั่วไป",
+     "level": "C1",
+     "example": "With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 856,
+   "ts": "2026-11-03T15:48:16.309173+07:00",
+   "title": "Nvidia – open-source auto-ontology",
+   "link": "https://github.com/NVIDIA/auto-ontology",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Nvidia releases an open library to help AI agents reliably query enterprise databases using semantic ontologies.",
+   "summary": "NVIDIA Auto Ontology is a new open-source library that helps AI agents map and validate enterprise data definitions. It translates natural-language queries into accurate SQL statements using structured metadata and vector stores.",
+   "vocab": [
+    {
+     "word": "reconciles",
+     "thai": "ทำให้สอดคล้องกัน",
+     "level": "C1",
+     "example": "NVIDIA Auto Ontology is an open library that builds that layer from enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness."
+    },
+    {
+     "word": "provenance",
+     "thai": "แหล่งที่มา",
+     "level": "C1",
+     "example": "Check generated queries against certified definitions and lineage; return provenance with every answer."
+    },
+    {
+     "word": "relational",
+     "thai": "เชิงสัมพันธ์",
+     "level": "B2",
+     "example": "Semantic catalog / ontology layer over relational sources, stored in Postgres alongside the catalog it describes."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 857,
+   "ts": "2026-11-03T15:48:16.309192+07:00",
+   "title": "European RISC-V Industrial Computing Initiative",
+   "link": "https://erici.eu",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An initiative coordinates a standard reference software stack for industrial RISC-V hardware.",
+   "summary": "The European RISC-V Industrial Computing Initiative (ERICI) aims to bridge the gap between industrial hardware and software. It provides an open reference stack designed to run real-time operating systems and Linux on RVA23 silicon.",
+   "vocab": [
+    {
+     "word": "compliant",
+     "thai": "ที่เป็นไปตามข้อกำหนด",
+     "level": "B2",
+     "example": "Software can rely on them on every compliant chip."
+    },
+    {
+     "word": "partitioning",
+     "thai": "การแบ่งส่วน",
+     "level": "B2",
+     "example": "A partitioning hypervisor runs real-time control and the operator's Linux side by side."
+    },
+    {
+     "word": "endorsement",
+     "thai": "การสนับสนุน",
+     "level": "C1",
+     "example": "No affiliation with ERICI or endorsement by the manufacturers is implied."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 858,
+   "ts": "2026-11-03T15:48:16.309226+07:00",
+   "title": "Resisting Cognitive Surrender",
+   "link": "https://knlb.dev/essays/surrender",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An essay explores the dangers of blindly trusting AI agent outputs, termed 'cognitive surrender'.",
+   "summary": "This blog post examines the hidden risks of relying too heavily on AI coding assistants without critical thought. The author argues that blind acceptance leads to technical debt and a loss of system understanding.",
+   "vocab": [
+    {
+     "word": "seductive",
+     "thai": "ที่เย้ายวนใจ",
+     "level": "C1",
+     "example": "Working this way is extremely fast, not particularly taxing, and unsurprisingly seductive."
+    },
+    {
+     "word": "inadvertent",
+     "thai": "โดยไม่ตั้งใจ",
+     "level": "C1",
+     "example": "Perhaps an inadvertent consequence of RLHF, but models tend to be astonishingly confident."
+    },
+    {
+     "word": "compounds",
+     "thai": "ทวีความรุนแรงขึ้น",
+     "level": "B2",
+     "example": "Complexity introduced by slop doesn’t bite immediately; it’s far more subtle and compounds over time."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 859,
+   "ts": "2026-11-03T15:48:27.757928+07:00",
+   "title": "Scaling Git at OpenAI",
+   "link": "https://openai.com/index/scaling-git-at-openai/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Major AI infrastructure news about scaling Git and monorepos to handle massive agentic workloads at OpenAI.",
+   "summary": "OpenAI built a new Git backend called Pando to handle massive concurrent writes and reads for its massive monorepo. The system cuts push latency significantly while remaining fully compatible with standard Git protocols.",
+   "vocab": [
+    {
+     "word": "throughput",
+     "thai": "ปริมาณงานที่ระบบประมวลผลได้ในหนึ่งหน่วยเวลา",
+     "level": "C1",
+     "example": "Maximize read throughput, so clients can download data fast enough."
+    },
+    {
+     "word": "latency",
+     "thai": "เวลาหน่วงในระบบเครือข่าย",
+     "level": "C1",
+     "example": "In production, Pando cut median push latency by nearly 5x."
+    },
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "B2",
+     "example": "We met these goals while retaining compatibility with the Git protocol."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 517,
+   "sent_ts": "2026-11-03T15:48:28.352203+07:00"
+  },
+  {
+   "id": 860,
+   "ts": "2026-11-03T15:48:28.352435+07:00",
+   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
+   "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "DevOps / browser tooling workaround to block specific media scripts and autoplay ads.",
+   "summary": "A developer shares a uBlock Origin filter configuration to block background video autoplay and tracking scripts on TechCrunch. The rules stop network resource loading and hide empty player elements.",
+   "vocab": [
+    {
+     "word": "vendor",
+     "thai": "ผู้ขาย, บริษัทผู้ผลิต",
+     "level": "B2",
+     "example": "If TechCrunch switches video vendors, the rules will probably keep hiding the box."
+    },
+    {
+     "word": "inline",
+     "thai": "ที่อยู่ภายในบรรทัดหรือหน้าเดียวกัน",
+     "level": "B2",
+     "example": "TechCrunch: stop the autoplaying JW Player video and inline promos."
+    },
+    {
+     "word": "script",
+     "thai": "สคริปต์, ชุดคำสั่ง",
+     "level": "B2",
+     "example": "Blocking their scripts stops the video from loading at all."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 861,
+   "ts": "2026-11-03T15:48:28.352479+07:00",
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Official NIST cybersecurity framework release tailored for small-scale IT environments.",
+   "summary": "NIST has released a cybersecurity guide specifically targeted at solopreneurs and small business owners with limited technical resources. The white paper adapts the NIST Cybersecurity Framework into accessible, actionable best practices.",
+   "vocab": [
+    {
+     "word": "actionable",
+     "thai": "ที่สามารถนำไปปฏิบัติจริงได้",
+     "level": "C1",
+     "example": "Provide an actionable approach to implementing a cybersecurity program."
+    },
+    {
+     "word": "rationale",
+     "thai": "เหตุผลและคำอธิบายเบื้องหลัง",
+     "level": "C1",
+     "example": "For each of these actions, the guide includes the rationale for performing it."
+    },
+    {
+     "word": "novice",
+     "thai": "ผู้เริ่มต้น, มือใหม่",
+     "level": "B2",
+     "example": "The updated publication draws its guidelines from the CSF, though written with the novice in mind."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 10
   }
  ],
- "next_id": 846,
+ "next_id": 862,
  "vocab": [
-  {
-   "word": "sabotage",
-   "thai": "การลอบทำลายทรัพย์สินหรือระบบโครงสร้างพื้นฐาน",
-   "level": "B2",
-   "example": "He took a dig at the National Security Council's preparedness for sabotage attempts.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unidentified",
-   "thai": "ที่ยังไม่สามารถระบุตัวตนได้",
-   "level": "B2",
-   "example": "An unidentified group has set fire to Starlink satellite antennas near Sofia, Bulgaria.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "detain",
-   "thai": "การควบคุมตัว",
-   "level": "B2",
-   "example": "Two Turkish citizens were detained by German services based on an arrest warrant.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conglomerate",
-   "thai": "บริษัทมหาชนขนาดใหญ่ที่ประกอบด้วยธุรกิจหลากหลาย",
-   "level": "C1",
-   "example": "Japanese engineering and manufacturing conglomerate Mitsubishi Heavy Industries.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "backlog",
-   "thai": "งานที่ค้างอยู่, ปริมาณงานสะสม",
-   "level": "B2",
-   "example": "Improve efficiency and reduce the growing order backlog.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "cryptographic",
    "thai": "เกี่ยวกับการเข้ารหัสลับ",
@@ -24202,6 +24758,56 @@
    "thai": "สิ้นหวังหรือมืดมน",
    "level": "B2",
    "example": "A lot of software engineers feel bleak about the future of the profession.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consortium",
+   "thai": "สมาคม กลุ่มบริษัท",
+   "level": "C1",
+   "example": "A consortium including Australia Data Centres entered into lease documentation with an Australian subsidiary of Anthropic.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "illicit",
+   "thai": "ผิดกฎหมาย ไม่ชอบด้วยกฎหมาย",
+   "level": "C1",
+   "example": "Token thieves are costing companies over $100K per day in illicit LLM charges.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mitigation",
+   "thai": "การบรรเทา การป้องกันความเสียหาย",
+   "level": "C1",
+   "example": "Effective token monitoring is essential for the mitigation of financial losses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "throughput",
+   "thai": "ปริมาณงานที่ระบบประมวลผลได้ในหนึ่งหน่วยเวลา",
+   "level": "C1",
+   "example": "Maximize read throughput, so clients can download data fast enough.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "latency",
+   "thai": "เวลาหน่วงในระบบเครือข่าย",
+   "level": "C1",
+   "example": "In production, Pando cut median push latency by nearly 5x.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
