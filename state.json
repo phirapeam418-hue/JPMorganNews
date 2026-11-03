@@ -1765,191 +1765,6 @@
  ],
  "stories": [
   {
-   "id": 369,
-   "ts": "2026-10-20T13:52:51.944302+07:00",
-   "title": "ICANN testing tech to let law enforcement access non-public WHOIS info",
-   "link": "https://www.theregister.com/networks/2026/10/20/icann-testing-tech-to-let-law-enforcement-access-non-public-whois-info/5304036",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "WHOIS changes affect domain operations and network governance, but this is early testing.",
-   "summary": "ICANN is evaluating technical mechanisms to grant law enforcement access to redacted WHOIS registration records. This could shift domain privacy standards and investigative processes for network operators in the future.",
-   "vocab": [
-    {
-     "word": "enforcement",
-     "thai": "การบังคับใช้ (กฎหมาย)",
-     "level": "B2",
-     "example": "ICANN is testing tech to let law enforcement access non-public WHOIS info."
-    },
-    {
-     "word": "reskin",
-     "thai": "การปรับเปลี่ยนหน้าตาภายนอกของโปรแกรม",
-     "level": "B2",
-     "example": "Firefox 157 arrives with a significant reskin of its user interface."
-    },
-    {
-     "word": "duty of care",
-     "thai": "หน้าที่ความรับผิดชอบตามกฎหมายหรือจริยธรรมในการดูแลความปลอดภัยผู้อื่น",
-     "level": "C1",
-     "example": "The guidelines advocate for humane work that considers a dev's duty of care."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 370,
-   "ts": "2026-10-20T13:52:51.944335+07:00",
-   "title": "DeepSeek deep-sixed at all US federal civilian agencies",
-   "link": "https://www.theregister.com/security/2026/10/20/deepseek-deep-sixed-at-all-us-federal-civilian-agencies/5304010",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Federal bans on specific AI tools highlight geopolitical compliance risks for government infrastructure.",
-   "summary": "US civilian federal agencies have been ordered to remove and block the DeepSeek AI tool from government systems. The ban underscores intensifying compliance requirements around foreign AI models in public-sector environments.",
-   "vocab": [
-    {
-     "word": "deep-six",
-     "thai": "ทิ้ง ทำลาย หรือยกเลิกเด็ดขาด",
-     "level": "C2",
-     "example": "DeepSeek was deep-sixed at all US federal civilian agencies."
-    },
-    {
-     "word": "civilian",
-     "thai": "พลเรือน (ที่ไม่เกี่ยวกับทหาร)",
-     "level": "B2",
-     "example": "The directive applies across all federal civilian agencies."
-    },
-    {
-     "word": "propaganda",
-     "thai": "การโฆษณาชวนเชื่อ",
-     "level": "C1",
-     "example": "The US took down several foreign propaganda sites during the coordinated security operation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8,
-   "extra_links": [
-    "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/"
-   ]
-  },
-  {
-   "id": 371,
-   "ts": "2026-10-20T13:52:51.944367+07:00",
-   "title": "OpenBSD 8.0",
-   "link": "https://www.openbsd.org/80.html",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "An OS major release is notable for BSD server hosts, though general enterprise footprint is modest.",
-   "summary": "OpenBSD version 8.0 has officially been released with updated architecture images and package trees. It provides an updated foundation for administrators maintaining security-hardened Unix network nodes and firewalls.",
-   "vocab": [
-    {
-     "word": "applicable",
-     "thai": "ที่นำมาใช้ได้ หรือที่มีผลบังคับใช้",
-     "level": "B2",
-     "example": "All applicable copyrights and credits are listed in the distribution archive."
-    },
-    {
-     "word": "comprehensive",
-     "thai": "ครอบคลุมและละเอียดถี่ถ้วน",
-     "level": "B2",
-     "example": "For a comprehensive list of improvements, consult the project changelog."
-    },
-    {
-     "word": "mirror",
-     "thai": "เซิร์ฟเวอร์สำรองที่คัดลอกข้อมูลไว้ตรงกัน",
-     "level": "B2",
-     "example": "Download the boot images directly from an official mirror site."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 372,
-   "ts": "2026-10-20T13:52:51.944384+07:00",
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "link": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Exposes prompt engineering practices and compliance risks in customer-facing support AI.",
-   "summary": "Investigations revealed WhatsApp embedded hidden prompts instructing its support AI to omit data privacy laws and regulator contacts. The discovery illustrates governance challenges when relying on LLMs for customer compliance workflows.",
-   "vocab": [
-    {
-     "word": "regulator",
-     "thai": "หน่วยงานกำกับดูแล",
-     "level": "C1",
-     "example": "The hidden prompt instructed the AI not to recommend contacting a data protection regulator."
-    },
-    {
-     "word": "deactivate",
-     "thai": "ปิดการใช้งานหรือระงับการทำงาน",
-     "level": "B2",
-     "example": "The system will purge records 30 days after an account is deactivated."
-    },
-    {
-     "word": "supervisory",
-     "thai": "ที่มีอำนาจกำกับดูแลตรวจสอบ",
-     "level": "C1",
-     "example": "Users retain the right to escalate complaints to a supervisory authority."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 373,
-   "ts": "2026-10-20T13:54:53.988119+07:00",
-   "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-   "link": "https://github.com/golang/go/issues/82345",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Security update in the Go standard library distrusting intermediate CAs directly affects Go-based infrastructure and network services.",
-   "summary": "The Go language team issued an urgent security update to distrust intermediate certificates from Certificate Authority eMudhra. Infrastructure engineers running Go-based services should patch quickly to avoid certificate validation issues or security risks.",
-   "vocab": [
-    {
-     "word": "mitigation",
-     "thai": "การบรรเทาความเสียหายหรือความเสี่ยง",
-     "level": "B2",
-     "example": "Verify provides mitigation for security concerns with a specific Certificate Authority."
-    },
-    {
-     "word": "distrust",
-     "thai": "การไม่ไว้วางใจหรือไม่ยอมรับความน่าเชื่อถือ",
-     "level": "C1",
-     "example": "Go will reject certificate chains containing distrusted intermediates."
-    },
-    {
-     "word": "intermediate",
-     "thai": "ซึ่งอยู่ระหว่างกลาง",
-     "level": "B2",
-     "example": "We are blocking trust in a small set of intermediate certificates."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 223,
-   "sent_ts": "2026-10-20T13:54:54.619834+07:00"
-  },
-  {
    "id": 374,
    "ts": "2026-10-20T20:12:48.431402+07:00",
    "title": "Ballistic strike in Kyiv, Ukraine, leaves Datagroup data center inoperable",
@@ -18673,11 +18488,13 @@
      "example": "The data center has a planned capacity to support up to one million AI accelerators."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 510,
+   "sent_ts": "2026-11-03T14:49:19.763167+07:00"
   },
   {
    "id": 827,
@@ -18709,7 +18526,7 @@
      "example": "Investigations confirmed there has been no evidence concerning the illicit transfer of chips."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -18745,11 +18562,13 @@
      "example": "The agency is seeking civil penalties of up to $25,000 per day across three sites."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 511,
+   "sent_ts": "2026-11-03T14:49:20.395782+07:00"
   },
   {
    "id": 829,
@@ -18781,7 +18600,7 @@
      "example": "While the land has been purchased, plans for construction remain distant."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -18817,7 +18636,7 @@
      "example": "Satellite launches and spectrum acquisitions will pave the way for a major mobile carrier."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18853,7 +18672,7 @@
      "example": "Building facilities inside underground mines is seen as a way to enhance infrastructure resilience."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -18889,7 +18708,7 @@
      "example": "Unit economics change drastically when the GPU cluster is sitting partially idle."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -18925,11 +18744,13 @@
      "example": "As per an unsealed NDA, the cloud and search giant is considering developing a large campus."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 512,
+   "sent_ts": "2026-11-03T14:49:21.017493+07:00"
   },
   {
    "id": 834,
@@ -18961,11 +18782,13 @@
      "example": "Memory companies have warned that the memory chip shortage is likely to persist into 2027 and beyond."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 507,
+   "sent_ts": "2026-11-03T14:49:17.892353+07:00"
   },
   {
    "id": 835,
@@ -18997,7 +18820,7 @@
      "example": "We have decided to not pursue a data center project in Natrona or Converse Counties."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -19033,11 +18856,13 @@
      "example": "Teams are putting their skilled craftsmanship into assembling the technology that cools advanced compute."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 6,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 508,
+   "sent_ts": "2026-11-03T14:49:18.512235+07:00"
   },
   {
    "id": 837,
@@ -19069,11 +18894,13 @@
      "example": "The credit support would enable Nscale to secure debt with Nvidia serving as a guarantor."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 513,
+   "sent_ts": "2026-11-03T14:49:21.641607+07:00"
   },
   {
    "id": 838,
@@ -19105,11 +18932,13 @@
      "example": "The project is unaffiliated with the original Linux software distribution."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 8,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 514,
+   "sent_ts": "2026-11-03T14:49:22.268203+07:00"
   },
   {
    "id": 839,
@@ -19179,7 +19008,7 @@
      "example": "Legal frameworks need updates to handle automated loophole detection."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -19329,11 +19158,13 @@
      "example": "The system detects unauthorized drones flying near restricted areas."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 509,
+   "sent_ts": "2026-11-03T14:49:19.148771+07:00"
   },
   {
    "id": 845,
@@ -19376,186 +19207,6 @@
  ],
  "next_id": 846,
  "vocab": [
-  {
-   "word": "discoverability",
-   "thai": "ความสามารถในการค้นพบเจอ",
-   "level": "C1",
-   "example": "Improving discoverability helps users find relevant web content.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "collaborative",
-   "thai": "ที่ร่วมมือกัน",
-   "level": "B2",
-   "example": "The collaborative pilot indexed hundreds of millions of new pages.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "crawler",
-   "thai": "โปรแกรมดึงข้อมูลเว็บ",
-   "level": "C1",
-   "example": "The search crawler indexes web pages based on helpfulness signals.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "programmable",
-   "thai": "ที่สามารถตั้งโปรแกรมได้",
-   "level": "B2",
-   "example": "A fully programmable secure web gateway.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "infrastructure",
-   "thai": "โครงสร้างพื้นฐาน",
-   "level": "B2",
-   "example": "Piles on yet another piece of infrastructure.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unreachable",
-   "thai": "ที่ไม่สามารถเข้าถึงได้",
-   "level": "B2",
-   "example": "traffic can be sent to the wrong place and services can become unreachable.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exaggerate",
-   "thai": "กล่าวเกินจริง",
-   "level": "B2",
-   "example": "Simply counting invalid routes can badly exaggerate how much of a country is affected.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "certificate",
-   "thai": "ใบรับรอง",
-   "level": "B2",
-   "example": "the regional Internet registries began issuing RPKI certificates in 2011.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "continuity",
-   "thai": "ความต่อเนื่อง",
-   "level": "B2",
-   "example": "Technical actions are needed to ensure the continuity of UTC.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "underlying",
-   "thai": "ที่เป็นพื้นฐาน / เบื้องหลัง",
-   "level": "B2",
-   "example": "This affects the software underlying operational systems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disseminate",
-   "thai": "เผยแพร่ / แจกจ่าย",
-   "level": "C1",
-   "example": "Systems allow for the possibility to disseminate the increased difference between time scales.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "fragmented",
-   "thai": "กระจัดกระจายและไม่เป็นอันหนึ่งอันเดียวกัน",
-   "level": "B2",
-   "example": "The further they get from silicon, the more fragmented the software ecosystem becomes.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "campus",
-   "thai": "พื้นที่กลุ่มอาคารขนาดใหญ่ (เช่น พื้นที่รวมดาต้าเซ็นเตอร์หลายอาคาร)",
-   "level": "B2",
-   "example": "Digital Realty is looking to build a gigawatt-scale data center campus outside Indianapolis.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "greenfield",
-   "thai": "ที่ดินเปล่าที่ไม่เคยผ่านการพัฒนามาก่อน",
-   "level": "C1",
-   "example": "Located on greenfield land in the city's Industrial Park North, the campus could total around 1GW.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "abatement",
-   "thai": "การลดหย่อนหรือบรรเทาลง (เช่น ภาษี)",
-   "level": "C1",
-   "example": "The city has also said there will be no tax abatements agreed with any company that develops the site.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deterioration",
-   "thai": "การเสื่อมสภาพลง",
-   "level": "C1",
-   "example": "Ermakov said the telecommunications infrastructure would require upgrades due to the deterioration of old cables.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "centralized",
-   "thai": "ที่มีการรวมศูนย์การจัดการไว้ที่จุดเดียว",
-   "level": "B2",
-   "example": "Infrastructure built in a centralized way for economic efficiency has become a vulnerability.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "obstacle",
-   "thai": "อุปสรรคหรือสิ่งกีดขวาง",
-   "level": "B2",
-   "example": "Compounding these challenges are significant resource shortages that will become an obstacle to transitions.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "sabotage",
    "thai": "การลอบทำลายทรัพย์สินหรือระบบโครงสร้างพื้นฐาน",
@@ -24371,6 +24022,186 @@
    "thai": "ข้อมูลประจำตัว (สำหรับเข้าสู่ระบบ)",
    "level": "C1",
    "example": "The stolen environment variables contained sensitive API credentials.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "allocation",
+   "thai": "การจัดสรรทรัพยากร",
+   "level": "B2",
+   "example": "From a global allocation perspective, having limited DRAM sit in desktop computers is inefficient.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "constrain",
+   "thai": "จำกัดหรือเหนี่ยวรั้ง",
+   "level": "B2",
+   "example": "Individuals using local inference are further constraining memory chip supply chains.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proprietary",
+   "thai": "ที่มีกรรมสิทธิ์เฉพาะหรือเป็นลิขสิทธิ์ของบริษัท",
+   "level": "C1",
+   "example": "The company said it has made enhancements to its proprietary heat exchangers and drive motors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "craftsmanship",
+   "thai": "ความประณีตหรือฝีมือเชิงช่าง",
+   "level": "C1",
+   "example": "Teams are putting their skilled craftsmanship into assembling the technology that cools advanced compute.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cellular",
+   "thai": "เกี่ยวกับโทรศัพท์มือถือ / เซลล์",
+   "level": "B2",
+   "example": "Ericsson uses existing cellular networks to track unauthorized drones.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "perimeter",
+   "thai": "แนวรอบนอก / แนวเขต",
+   "level": "C1",
+   "example": "Securing the perimeter of critical infrastructure requires advanced tracking tools.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "busbar",
+   "thai": "แถบตัวนำไฟฟ้าหลัก (บัสบาร์)",
+   "level": "C1",
+   "example": "The SST converts 10kV medium voltage AC from the grid to an 800VDC busbar.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "swings",
+   "thai": "การแกว่งตัวหรือการผันผวนอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "The controller coordinates transformers and batteries in real time to manage sudden load swings.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accelerators",
+   "thai": "ตัวเร่งความเร็วการประมวลผล (เช่น ชิป AI/GPU)",
+   "level": "B2",
+   "example": "The data center has a planned capacity to support up to one million AI accelerators.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "repurposed",
+   "thai": "ถูกดัดแปลงเพื่อนำกลับมาใช้ประโยชน์ใหม่",
+   "level": "C1",
+   "example": "Spam will see a single-story warehouse situated on 53 acres repurposed as a data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "adjacent",
+   "thai": "ติดกันหรืออยู่ใกล้เคียง",
+   "level": "B2",
+   "example": "The company filed a permit for development of another building on an adjacent land parcel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "penalties",
+   "thai": "ค่าปรับหรือบทลงโทษ",
+   "level": "B2",
+   "example": "The agency is seeking civil penalties of up to $25,000 per day across three sites.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "due diligence",
+   "thai": "การตรวจสอบสถานะความพร้อมและความเสี่ยงของโครงการ",
+   "level": "C1",
+   "example": "Hard plans are yet to be made, with Google still evaluating the site and conducting due diligence.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overlay",
+   "thai": "การกำหนดพื้นที่กำกับซ้อนทับ",
+   "level": "B2",
+   "example": "Goochland's Board of Supervisors previously approved a Technology Overlay District to attract investment.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unsealed",
+   "thai": "ที่ถูกเปิดเผยหรือปลดผนึก",
+   "level": "B2",
+   "example": "As per an unsealed NDA, the cloud and search giant is considering developing a large campus.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backstop",
+   "thai": "การเป็นหลักประกันทางการเงินสำรอง",
+   "level": "C1",
+   "example": "Nvidia is said to be in talks to backstop the large compute campus project.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "guarantor",
+   "thai": "ผู้ค้ำประกัน",
+   "level": "C1",
+   "example": "The credit support would enable Nscale to secure debt with Nvidia serving as a guarantor.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bleak",
+   "thai": "สิ้นหวังหรือมืดมน",
+   "level": "B2",
+   "example": "A lot of software engineers feel bleak about the future of the profession.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
