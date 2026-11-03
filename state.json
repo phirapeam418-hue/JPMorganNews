@@ -1809,7 +1809,31 @@
   "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237",
   "https://www.theregister.com/networks/2026/11/03/virgin-media-o2-outlines-plans-to-lay-off-thousands-as-revenue-falls/5307194",
   "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-  "https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188"
+  "https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188",
+  "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
+  "https://www.datacenterdynamics.com/en/news/california-resources-and-bloom-energy-eye-1gw-of-fuel-cells-across-california-to-power-data-centers-and-other-offtakers/",
+  "https://www.datacenterdynamics.com/en/news/samsung-sds-breaks-ground-on-gumi-ai-data-center-in-south-korea/",
+  "https://www.datacenterdynamics.com/en/news/cellnex-signs-375m-loan-with-eib-to-support-rollout-of-5g-infrastructure/",
+  "https://www.datacenterdynamics.com/en/news/connected-infra-group-appoints-ma-specialist-as-tower-company-targets-expansion-plans/",
+  "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+  "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382",
+  "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368",
+  "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+  "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
+  "https://www.theregister.com/networks/2026/11/03/gsma-warns-of-growing-risks-to-mobile-networks-from-extreme-weather/5307308",
+  "https://www.theregister.com/science/2026/11/03/improved-asteroid-deflection-model-runs-faster-reveals-more-doomsday-worries/5307317",
+  "https://blog.cloudflare.com/zero-wire/",
+  "https://arxiv.org/abs/2605.29713",
+  "https://www.interdb.jp/pg/index.html",
+  "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+  "https://blog.nns.ee/2026/11/02/renault-hack/",
+  "https://neufangled.com/",
+  "https://hackertv.org",
+  "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+  "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+  "https://github.com/postmanlabs/postman-app-support/issues/14370",
+  "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+  "https://github.com/finic-ai/kairos"
  ],
  "stories": [
   {
@@ -18361,7 +18385,10 @@
    "impact": 6,
    "urgency": 4,
    "scale": 5,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
+   ]
   },
   {
    "id": 856,
@@ -19231,9 +19258,589 @@
    "urgency": 7,
    "scale": 8,
    "credibility": 8
+  },
+  {
+   "id": 880,
+   "ts": "2026-11-04T05:40:39.902105+07:00",
+   "title": "NTT Data opens JKT2A data center in Indonesia",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-data-opens-jkt2a-data-center-in-indonesia/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly reports on new data center facility opening with advanced cooling and low-latency networking in APAC.",
+   "summary": "NTT Data has opened its JKT2A data center in Indonesia, featuring high-density rack support and advanced cooling technologies. The facility is connected to JKT3 via a new All-Photonics Network service to ensure low-latency synchronization.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่น ทนทาน",
+     "level": "C1",
+     "example": "We are creating a more connected and resilient data center platform."
+    },
+    {
+     "word": "synchronization",
+     "thai": "การซิงโครไนซ์ การประสานเวลา",
+     "level": "C1",
+     "example": "APN Connect will provide low-latency connectivity for real-time data synchronization between facilities."
+    },
+    {
+     "word": "milestone",
+     "thai": "เหตุการณ์สำคัญ",
+     "level": "B2",
+     "example": "The opening of JKT2A is an important milestone for our business in Indonesia."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 881,
+   "ts": "2026-11-04T05:40:39.902154+07:00",
+   "title": "California Resources and Bloom Energy eye 1GW of fuel cells across California to power data centers and other offtakers",
+   "link": "https://www.datacenterdynamics.com/en/news/california-resources-and-bloom-energy-eye-1gw-of-fuel-cells-across-california-to-power-data-centers-and-other-offtakers/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Covers massive alternative power generation (fuel cells and carbon capture) targeted specifically at data center energy needs.",
+   "summary": "California Resources Corporation and Bloom Energy are partnering to develop up to 1 gigawatt of solid oxide fuel cells across California. The project aims to supply clean, off-grid power to data centers and other industrial users alongside carbon capture systems.",
+   "vocab": [
+    {
+     "word": "evaluation",
+     "thai": "การประเมิน",
+     "level": "B2",
+     "example": "The companies partnered to evaluate the development of fuel cell generation."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งาน การติดตั้ง",
+     "level": "C1",
+     "example": "That will evaluate the deployment of Bloom's solid oxide fuel cells."
+    },
+    {
+     "word": "viability",
+     "thai": "ความเป็นไปได้ในทางปฏิบัติ",
+     "level": "C1",
+     "example": "Our non-combustion technology makes carbon capture more economically viable at scale."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 882,
+   "ts": "2026-11-04T05:40:39.902181+07:00",
+   "title": "Samsung SDS breaks ground on Gumi AI Data Center in South Korea",
+   "link": "https://www.datacenterdynamics.com/en/news/samsung-sds-breaks-ground-on-gumi-ai-data-center-in-south-korea/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Major news about Samsung breaking ground on a large AI data center with hybrid cooling and high-density GPU support.",
+   "summary": "Samsung SDS has started construction on the Gumi AI Data Center in South Korea, which will scale up to 120MW of capacity. The facility will utilize hybrid cooling and host high-density GPU server areas to support AI workloads.",
+   "vocab": [
+    {
+     "word": "tangible",
+     "thai": "ที่จับต้องได้ ชัดเจน",
+     "level": "C1",
+     "example": "For these changes to translate into tangible results, a robust foundation is required."
+    },
+    {
+     "word": "cumulate",
+     "thai": "สะสม",
+     "level": "C1",
+     "example": "Samsung SDS will combine its accumulated experience in data center construction."
+    },
+    {
+     "word": "foundational",
+     "thai": "ที่เป็นพื้นฐาน",
+     "level": "B2",
+     "example": "A robust foundation capable of processing vast amounts of data is required."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 883,
+   "ts": "2026-11-04T05:40:39.902210+07:00",
+   "title": "Cellnex signs €375m loan with EIB to support rollout of 5G infrastructure",
+   "link": "https://www.datacenterdynamics.com/en/news/cellnex-signs-375m-loan-with-eib-to-support-rollout-of-5g-infrastructure/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Financing for telecom and 5G infrastructure rollout across Europe, relevant to network operations.",
+   "summary": "Cellnex has secured a €375 million loan from the European Investment Bank to expand 5G mobile infrastructure across four European countries. The funding will support the deployment of shared towers and distributed antenna systems to improve connectivity.",
+   "vocab": [
+    {
+     "word": "cohesion",
+     "thai": "ความเหนียวแน่น ความสามัคคี การยึดเกาะ",
+     "level": "C2",
+     "example": "Reaffirms our shared commitment to Europe's digital transformation and territorial cohesion."
+    },
+    {
+     "word": "maturity",
+     "thai": "ครบกำหนดชำระ (ทางการเงิน)",
+     "level": "C1",
+     "example": "Its tenor and competitive terms will help extend the average maturity of our debt."
+    },
+    {
+     "word": "modernize",
+     "thai": "ทำให้ทันสมัย",
+     "level": "B2",
+     "example": "The loan will support investment to modernize Spain's digital terrestrial television network."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 884,
+   "ts": "2026-11-04T05:40:39.902234+07:00",
+   "title": "Connected Infra Group appoints M&A specialist as tower company targets expansion plans",
+   "link": "https://www.datacenterdynamics.com/en/news/connected-infra-group-appoints-ma-specialist-as-tower-company-targets-expansion-plans/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Executive appointment at a tower infrastructure group, lower direct impact on infrastructure operations.",
+   "summary": "Connected Infra Group has appointed a new vice president of mergers and acquisitions to lead its US tower expansion strategy. The company is backed by substantial private equity funding to acquire nationwide telecom and broadcast assets.",
+   "vocab": [
+    {
+     "word": "execution",
+     "thai": "การดำเนินการ การปฏิบัติงาน",
+     "level": "C1",
+     "example": "Experience spanning acquisitions, asset management, and transaction execution."
+    },
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มสินทรัพย์ ผลงานรวม",
+     "level": "B2",
+     "example": "On building the firm's national portfolio of telecom infrastructure assets."
+    },
+    {
+     "word": "discipline",
+     "thai": "ระเบียบวินัย ความเข้มงวด",
+     "level": "B2",
+     "example": "His background informs a disciplined and creative approach to evaluating opportunities."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 885,
+   "ts": "2026-11-04T05:40:39.902257+07:00",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "link": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Contains news summaries including zero-day attacks on SharePoint and critical infrastructure hardening projects.",
+   "summary": "A news roundup details various technology and cybersecurity updates, including ongoing zero-day attacks on on-premises SharePoint servers. It also mentions projects involving hackers bolstering critical infrastructure security.",
+   "vocab": [
+    {
+     "word": "harden",
+     "thai": "ทำให้แข็งแกร่ง (ความปลอดภัย)",
+     "level": "C1",
+     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
+    },
+    {
+     "word": "nominee",
+     "thai": "ผู้ได้รับการเสนอชื่อ",
+     "level": "C1",
+     "example": "Revised IPO filing warns 12x revenue growth is unlikely to continue."
+    },
+    {
+     "word": "prevalence",
+     "thai": "ความแพร่หลาย",
+     "level": "C1",
+     "example": "On the plus side, infosec's a good bet for a long, stable career."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8,
+   "extra_links": [
+    "https://www.theregister.com/software/2026/11/03/microsoft-improves-windows-11-performance-on-8-gb-pcs-as-ram-prices-keep-climbing/5307382",
+    "https://www.theregister.com/ai-and-ml/2026/11/03/nvidia-is-happy-to-take-your-money-whether-youre-using-open-or-closed-models-says-jensen-huang/5307368"
+   ]
+  },
+  {
+   "id": 886,
+   "ts": "2026-11-04T05:40:52.518073+07:00",
+   "title": "British fintech Revolut slashes AI coding costs 10x by cutting out Claude and going self-hosted",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/03/british-fintech-revolut-slashes-ai-coding-costs-10x-by-cutting-out-claude-and-going-self-hosted/5307345",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "The article covers major cost-saving developments in AI infrastructure and enterprise software engineering.",
+   "summary": "Revolut reduced its AI coding expenses significantly by moving away from third-party APIs to self-hosted models. This move highlights how companies are optimizing their AI operations to manage rising infrastructure costs.",
+   "vocab": [
+    {
+     "word": "slashes",
+     "thai": "ลดลงอย่างมาก",
+     "level": "B2",
+     "example": "Revolut slashes AI coding costs 10x by cutting out Claude."
+    },
+    {
+     "word": "self-hosted",
+     "thai": "ที่ติดตั้งและรันบนเซิร์ฟเวอร์ของตนเอง",
+     "level": "C1",
+     "example": "Going self-hosted helps companies reduce external API dependency."
+    },
+    {
+     "word": "optimize",
+     "thai": "ปรับให้เหมาะสม",
+     "level": "B2",
+     "example": "Teams must optimize their resource usage to cut expenses."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 887,
+   "ts": "2026-11-04T05:40:52.518123+07:00",
+   "title": "AI policy wonks declare 'sovereign agents' a threat to civilization",
+   "link": "https://www.theregister.com/security/2026/11/03/ai-policy-wonks-declare-sovereign-agents-a-threat-to-civilization/5307354",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "It discusses broad AI policy concerns relevant to high-level system automation.",
+   "summary": "AI policy experts are raising concerns about autonomous sovereign agents becoming potential risks to societal stability. These discussions reflect growing anxiety over the governance of advanced autonomous software systems.",
+   "vocab": [
+    {
+     "word": "wonks",
+     "thai": "ผู้เชี่ยวชาญเฉพาะด้านนโยบาย",
+     "level": "C1",
+     "example": "AI policy wonks declare sovereign agents a threat."
+    },
+    {
+     "word": "governance",
+     "thai": "การกำกับดูแล",
+     "level": "C1",
+     "example": "Proper governance is needed to manage advanced AI systems."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ที่ทำงานได้เองโดยอัตโนมัติ",
+     "level": "B2",
+     "example": "Sovereign agents operate with a high degree of autonomy."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 888,
+   "ts": "2026-11-04T05:40:52.518156+07:00",
+   "title": "GSMA warns of growing risks to mobile networks from extreme weather",
+   "link": "https://www.theregister.com/networks/2026/11/03/gsma-warns-of-growing-risks-to-mobile-networks-from-extreme-weather/5307308",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts telecom and network infrastructure operations facing climate challenges.",
+   "summary": "The GSMA has issued a warning regarding the increasing threats that severe weather poses to mobile network infrastructure. Telecom operators must reinforce their physical sites to prevent widespread outages.",
+   "vocab": [
+    {
+     "word": "vulnerabilities",
+     "thai": "จุดอ่อน ช่องโหว่",
+     "level": "B2",
+     "example": "Extreme weather exposes vulnerabilities in mobile networks."
+    },
+    {
+     "word": "reinforce",
+     "thai": "เสริมความแข็งแกร่ง",
+     "level": "B2",
+     "example": "Operators need to reinforce towers against storms."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความสามารถในการฟื้นตัว",
+     "level": "C1",
+     "example": "Network resilience is crucial during natural disasters."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 889,
+   "ts": "2026-11-04T05:40:52.518232+07:00",
+   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+   "link": "https://blog.cloudflare.com/zero-wire/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "Directly relevant to server security vulnerabilities, threat tracking, and infrastructure operations.",
+   "summary": "Cloudflare has launched Zero Wire, a public intelligence feed designed to track critical internet vulnerabilities. The tool helps security teams quickly assess risks, coordinate responses, and apply necessary patches.",
+   "vocab": [
+    {
+     "word": "advisories",
+     "thai": "ประกาศเตือนภัย",
+     "level": "C1",
+     "example": "Security teams compare vendor advisories during an incident."
+    },
+    {
+     "word": "remediate",
+     "thai": "แก้ไขและบรรเทาความเสียหาย",
+     "level": "C1",
+     "example": "Engineers need technical guidance to remediate the vulnerability."
+    },
+    {
+     "word": "exposure",
+     "thai": "การเปิดรับความเสี่ยง",
+     "level": "B2",
+     "example": "Proper controls help reduce infrastructure exposure."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 890,
+   "ts": "2026-11-04T05:40:52.518258+07:00",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "link": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Provides mathematical foundations for generative AI models heavily utilized in modern infrastructure workflows.",
+   "summary": "A new open mathematical primer offers a concise derivation-oriented guide to generative artificial intelligence. It helps students and practitioners understand the underlying math connecting major machine learning architectures.",
+   "vocab": [
+    {
+     "word": "primer",
+     "thai": "หนังสือแนะนำเบื้องต้น",
+     "level": "C1",
+     "example": "The book serves as an intuitive mathematical primer."
+    },
+    {
+     "word": "derivation",
+     "thai": "การอนุพันธ์ การหาที่มาทางคณิตศาสตร์",
+     "level": "C2",
+     "example": "It provides a derivation-oriented introduction to generative AI."
+    },
+    {
+     "word": "architecture",
+     "thai": "โครงสร้างสถาปัตยกรรม",
+     "level": "B2",
+     "example": "Understanding each model architecture is essential for developers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 891,
+   "ts": "2026-11-04T05:40:52.518279+07:00",
+   "title": "The Internals of PostgreSQL",
+   "link": "https://www.interdb.jp/pg/index.html",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Focuses on core database internals and storage engine architecture relevant to backend operations.",
+   "summary": "The comprehensive technical documentation on PostgreSQL internals has been updated with new asynchronous I/O and logical replication sections. This resource explains how complex database subsystems work together cooperatively.",
+   "vocab": [
+    {
+     "word": "subsystems",
+     "thai": "ระบบย่อย",
+     "level": "B2",
+     "example": "PostgreSQL consists of integrated subsystems working cooperatively."
+    },
+    {
+     "word": "concurrency",
+     "thai": "การประมวลผลพร้อมกัน",
+     "level": "C1",
+     "example": "Concurrency control ensures data consistency under heavy loads."
+    },
+    {
+     "word": "replication",
+     "thai": "การจำลองฐานข้อมูล",
+     "level": "C1",
+     "example": "Logical replication helps distribute database updates efficiently."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 892,
+   "ts": "2026-11-04T05:40:52.518302+07:00",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Browser engine rendering updates impact web application display logic and frontend deployment.",
+   "summary": "Apple's Safari browser is introducing an Adaptive Dark Mode feature in its latest beta release. The tool analyzes webpage colors and automatically transforms bright backgrounds into dark themes to match user preferences.",
+   "vocab": [
+    {
+     "word": "luminosity",
+     "thai": "ความสว่าง",
+     "level": "C1",
+     "example": "The color matrix inverts the luminosity of colors."
+    },
+    {
+     "word": "semantic",
+     "thai": "เกี่ยวกับความหมาย",
+     "level": "C1",
+     "example": "Colors sometimes have semantic meaning rather than being purely decorative."
+    },
+    {
+     "word": "inspects",
+     "thai": "ตรวจสอบอย่างละเอียด",
+     "level": "B2",
+     "example": "Adaptive Dark Mode inspects SVG images and transforms colors."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 893,
+   "ts": "2026-11-04T05:41:04.371428+07:00",
+   "title": "macOS 27 does not support CoreStorage volumes",
+   "link": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "A macOS update dropping support for legacy CoreStorage and encrypted HFS+ volumes affects server and storage management for Apple administrators.",
+   "summary": "The latest macOS release completely drops support for legacy CoreStorage and encrypted HFS+ volumes. As a result, users cannot mount or convert these older file systems, rendering existing storage inaccessible through normal tools.",
+   "vocab": [
+    {
+     "word": "deprecate",
+     "thai": "เลิกใช้งาน (คุณสมบัติซอฟต์แวร์)",
+     "level": "C1",
+     "example": "The previous macOS version deprecated both technologies and crippled tools."
+    },
+    {
+     "word": "inaccessible",
+     "thai": "ไม่สามารถเข้าถึงได้",
+     "level": "B2",
+     "example": "The storage hardware becomes completely inaccessible without proper mounting support."
+    },
+    {
+     "word": "legacy",
+     "thai": "แบบดั้งเดิม (ระบบเก่า)",
+     "level": "B2",
+     "example": "Operating systems eventually drop support for legacy file formats."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 894,
+   "ts": "2026-11-04T05:41:04.371471+07:00",
+   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+   "link": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Postman silently installing AI plugins and modifying developer environment configs is a severe security and trust violation affecting DevOps engineers.",
+   "summary": "Users discovered that Postman's desktop app automatically installs coding agent plugins and modifies global configuration files upon startup. The injected hooks silently reroute API engineering tasks through Postman's own tools without explicit consent.",
+   "vocab": [
+    {
+     "word": "unauthorized",
+     "thai": "ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "Users complained about unauthorized modifications to their development environment."
+    },
+    {
+     "word": "configuration",
+     "thai": "การตั้งค่าระบบ",
+     "level": "B2",
+     "example": "The installation script altered global configuration files on the machine."
+    },
+    {
+     "word": "consent",
+     "thai": "ความยินยอม",
+     "level": "C1",
+     "example": "Modifying coding agents without clear user consent creates a trust problem."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 895,
+   "ts": "2026-11-04T05:41:04.371520+07:00",
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "link": "https://github.com/finic-ai/kairos",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "An open-source real-time fraud decisioning platform with agentic tuning is relevant to application security and backend DevOps stacks.",
+   "summary": "Kairos is an open-source risk and fraud decisioning platform designed to handle real-time sign-up and payment checks. It allows AI coding agents to automatically build workflows, test decision models, and deploy updates.",
+   "vocab": [
+    {
+     "word": "baseline",
+     "thai": "ข้อมูลพื้นฐานสำหรับเปรียบเทียบ",
+     "level": "B2",
+     "example": "The server tests variants against a standard baseline model."
+    },
+    {
+     "word": "validation",
+     "thai": "การตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "The system reports high accuracy scores on validation datasets."
+    },
+    {
+     "word": "unstructured",
+     "thai": "ที่ไม่มีโครงสร้างแน่นอน",
+     "level": "B2",
+     "example": "The model is capable of reading and processing unstructured data."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 880,
+ "next_id": 896,
  "vocab": [
   {
    "word": "cryptographic",
