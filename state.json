@@ -1833,415 +1833,30 @@
   "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
   "https://github.com/postmanlabs/postman-app-support/issues/14370",
   "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-  "https://github.com/finic-ai/kairos"
+  "https://github.com/finic-ai/kairos",
+  "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+  "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+  "https://lamont.columbia.edu/news/giant-canyon-mars-still-tectonically-active-today",
+  "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+  "https://www.youtube.com/watch?v=XfLlpxE6AYM",
+  "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+  "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+  "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/",
+  "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+  "https://arstechnica.com/cars/2026/11/yes-to-storage-no-to-piano-black-how-car-interior-design-is-changing/",
+  "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+  "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+  "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+  "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+  "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+  "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+  "https://arstechnica.com/tech-policy/2026/11/epa-throws-in-the-towel-on-policing-air-pollution-from-factory-farms/",
+  "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
+  "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
+  "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
+  "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
  ],
  "stories": [
-  {
-   "id": 408,
-   "ts": "2026-10-21T05:49:27.681191+07:00",
-   "title": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster, just waiting for a failure",
-   "link": "https://www.theregister.com/systems/2026/10/20/tens-of-thousands-of-nvidia-gpus-sit-idle-in-metas-prometheus-supercluster-just-waiting-for-a-failure/5304269",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Provides valuable insight into large-scale AI hardware reliability strategies and datacenter redundancy at Meta.",
-   "summary": "Meta keeps tens of thousands of Nvidia GPUs idle in its Prometheus supercluster to immediately replace failing nodes during training. This redundancy highlights the operational challenges and high costs of maintaining uptime in massive AI compute clusters.",
-   "vocab": [
-    {
-     "word": "idle",
-     "thai": "ไม่ได้ใช้งาน / ว่าง",
-     "level": "B2",
-     "example": "Tens of thousands of Nvidia GPUs sit idle in Meta's Prometheus supercluster."
-    },
-    {
-     "word": "harden",
-     "thai": "เสริมสร้างความปลอดภัยให้เข้มแข็งขึ้น",
-     "level": "B2",
-     "example": "The project enlists hackers to harden critical infrastructure against threats."
-    },
-    {
-     "word": "reskin",
-     "thai": "การปรับเปลี่ยนหน้าตาของระบบภายนอก",
-     "level": "C1",
-     "example": "Yet another new version of Firefox arrives with a significant reskin."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9,
-   "extra_links": [
-    "https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster/"
-   ]
-  },
-  {
-   "id": 409,
-   "ts": "2026-10-21T05:49:27.681242+07:00",
-   "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-   "link": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-   "source": "Cloudflare Blog",
-   "score": 9,
-   "watch": false,
-   "reason": "A major PKI security failure allows domain impersonation and directly requires infrastructure teams to patch clients and trust stores.",
-   "summary": "Cloudflare warned that private keys for eight eMudhra intermediate certificates were compromised, allowing attackers to forge certificates and intercept traffic. The company has deployed mitigations across its network and urged customers to immediately update client tools and trust configurations.",
-   "vocab": [
-    {
-     "word": "compromised",
-     "thai": "ถูกละเมิดความปลอดภัย / ถูกเจาะระบบ",
-     "level": "B2",
-     "example": "Private keys associated with eight eMudhra intermediate certificates were compromised."
-    },
-    {
-     "word": "impersonate",
-     "thai": "แอบอ้าง / ปลอมแปลงเป็น",
-     "level": "B2",
-     "example": "An attacker can create a forged certificate and use it to impersonate servers."
-    },
-    {
-     "word": "intercept",
-     "thai": "ดักจับข้อมูล / สกัดกั้น",
-     "level": "B2",
-     "example": "The forged certificate could be used to intercept or modify traffic."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 10,
-   "extra_links": [
-    "https://emudhra.we-have-a-problem.com/",
-    "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-    "https://www.theregister.com/security/2026/10/20/indian-certification-authority-emudhras-private-keys-compromised-one-of-them-was-the-number-4/5304312"
-   ],
-   "msg_id": 238,
-   "sent_ts": "2026-10-21T12:56:43.283242+07:00"
-  },
-  {
-   "id": 410,
-   "ts": "2026-10-21T05:49:27.681290+07:00",
-   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-   "link": "https://github.com/google-pytorch/torch_tpu",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Relevant to AI infrastructure and cloud computing teams utilizing Google Cloud TPUs for model training.",
-   "summary": "Google has open-sourced TorchTPU, providing native PyTorch execution and distributed training features on TPU hardware. This makes it easier for infrastructure and ML teams to run PyTorch graph mode workloads efficiently without complex framework translation.",
-   "vocab": [
-    {
-     "word": "compilation",
-     "thai": "การรวบรวมและแปลงโค้ดเป็นภาษาเครื่อง",
-     "level": "B2",
-     "example": "It includes a compilation cache for optimized execution of XLA computations."
-    },
-    {
-     "word": "execution",
-     "thai": "การประมวลผล / การรันโปรแกรม",
-     "level": "B2",
-     "example": "The backend supports graph mode execution via torch.compile."
-    },
-    {
-     "word": "degrade",
-     "thai": "ทำให้ประสิทธิภาพลดลง",
-     "level": "B2",
-     "example": "Unoptimized compiler builds can degrade model performance significantly."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 411,
-   "ts": "2026-10-21T05:51:39.478911+07:00",
-   "title": "Merging SpaceX and Tesla would be a \"good idea,\" Musk says",
-   "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "The report discusses corporate board restructuring and potential mergers rather than operational technical news.",
-   "summary": "Elon Musk suggested merging Tesla and SpaceX to consolidate development in computing, chip design, and robotics. Independent director committees have been created at both firms, though no agreement has been reached.",
-   "vocab": [
-    {
-     "word": "consolidation",
-     "thai": "การรวมกิจการหรือรวมหน่วยงานเข้าด้วยกัน",
-     "level": "C1",
-     "example": "The executive proposed the consolidation of his business empire through a formal merger."
-    },
-    {
-     "word": "merit",
-     "thai": "ข้อดีหรือประโยชน์",
-     "level": "B2",
-     "example": "Leadership believes there is substantial merit to combining the operations of both firms."
-    },
-    {
-     "word": "constellation",
-     "thai": "กลุ่มดาวเทียมเครือข่าย",
-     "level": "B2",
-     "example": "Both companies hope to benefit from shared orbital connectivity and the satellite constellation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 412,
-   "ts": "2026-10-21T05:52:08.603879+07:00",
-   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-   "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Relevant to data privacy, web scraping policies, and tech giant terms of service updates affecting web publishers.",
-   "summary": "Meta has removed the word 'train' from its commercial terms of service following backlash from legal experts regarding web data scraping. Critics argue that the updated wording still does not go far enough to protect publishers from invasive data collection.",
-   "vocab": [
-    {
-     "word": "quell",
-     "thai": "ระงับ, ปราบปราม",
-     "level": "C2",
-     "example": "Hoping to quell criticism, Meta has dropped the word."
-    },
-    {
-     "word": "sweeping",
-     "thai": "กว้างขวาง, ครอบคลุม",
-     "level": "C1",
-     "example": "The tech giant's sweeping new commercial terms raised legal concerns."
-    },
-    {
-     "word": "supersede",
-     "thai": "แทนที่, มีอำนาจเหนือกว่า",
-     "level": "C1",
-     "example": "These updates don't give us new rights that supersede those preferences."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 413,
-   "ts": "2026-10-21T05:52:08.603910+07:00",
-   "title": "Gemini's Personal Intelligence is coming to cars",
-   "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Discusses AI assistant feature rollouts into automotive operating systems and connected applications.",
-   "summary": "Google is rolling out Personal Intelligence for Gemini to Android Auto and vehicles with Google built-in. The optional feature leverages user data from connected apps to provide contextual answers while driving.",
-   "vocab": [
-    {
-     "word": "differentiator",
-     "thai": "จุดเด่นที่ทำให้แตกต่าง",
-     "level": "C1",
-     "example": "Google sees Personal Intelligence as a differentiator versus other AI systems."
-    },
-    {
-     "word": "leverage",
-     "thai": "ใช้ประโยชน์จาก",
-     "level": "C1",
-     "example": "It can also leverage visual analysis to find locations."
-    },
-    {
-     "word": "formulate",
-     "thai": "สร้างขึ้น, กำหนด",
-     "level": "C1",
-     "example": "Allowing its AI to pull in more of your data to formulate answers."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 414,
-   "ts": "2026-10-21T05:52:08.603931+07:00",
-   "title": "OpenBSD 8.0 arrives with security record still intact",
-   "link": "https://arstechnica.com/gadgets/2026/10/openbsd-8-0-lands-with-intel-arc-graphics-support/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly impacts server operating systems, security patching, and infrastructure virtualization stacks.",
-   "summary": "OpenBSD 8.0 has been released with major updates, including expanded virtual address space, Intel Arc graphics support, and virtualization stack improvements. The project maintains its famous security record with very few default remote vulnerabilities in decades.",
-   "vocab": [
-    {
-     "word": "semiannual",
-     "thai": "เกิดขึ้นปีละสองครั้ง",
-     "level": "C1",
-     "example": "Continuing its schedule of semiannual releases dating back to 1996."
-    },
-    {
-     "word": "retire",
-     "thai": "เลิกใช้งาน, ปลดระวาง",
-     "level": "B2",
-     "example": "The new OpenBSD also retires support for Loongson architecture."
-    },
-    {
-     "word": "stack",
-     "thai": "ชุดซอฟต์แวร์หรือระบบ",
-     "level": "B2",
-     "example": "Improvements to the vmm/vmd virtualization stack."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 415,
-   "ts": "2026-10-21T05:52:08.604010+07:00",
-   "title": "TP-Link tries to appease Trump admin with pledge to assemble routers in US",
-   "link": "https://arstechnica.com/tech-policy/2026/10/tp-link-tries-to-appease-trump-admin-with-pledge-to-assemble-routers-in-us/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Relates to hardware supply chains, networking equipment manufacturing, and regulatory compliance.",
-   "summary": "TP-Link plans to assemble Wi-Fi routers in the United States starting by 2027 to comply with regulatory bans. The company has partnered with Keytronic to manufacture advanced networking gear domestically.",
-   "vocab": [
-    {
-     "word": "appease",
-     "thai": "เอาใจ, ทำให้สงบ",
-     "level": "C1",
-     "example": "TP-Link tries to appease Trump admin with a pledge to assemble routers."
-    },
-    {
-     "word": "domestic",
-     "thai": "ภายในประเทศ",
-     "level": "B2",
-     "example": "Keytronic agreed to become a primary domestic manufacturing partner."
-    },
-    {
-     "word": "exemption",
-     "thai": "การได้รับการยกเว้น",
-     "level": "C1",
-     "example": "The FCC has given exemptions to a number of prominent router makers."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 416,
-   "ts": "2026-10-21T05:52:08.604032+07:00",
-   "title": "Does anyone actually want to win the medium-lift race in the United States?",
-   "link": "https://arstechnica.com/space/2026/10/does-anyone-actually-want-to-win-the-medium-lift-race-in-the-united-states/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Discusses aerospace infrastructure, satellite launch schedules, and data center transport networks.",
-   "summary": "The United States is facing a transition period as older medium-lift rockets are retired and new vehicles come online. Satellite operators face uncertainty regarding launch availability between 2027 and 2030 as current options change.",
-   "vocab": [
-    {
-     "word": "cadence",
-     "thai": "จังหวะ, ความถี่",
-     "level": "C2",
-     "example": "Scaling up their launch cadence remains uncertain."
-    },
-    {
-     "word": "variant",
-     "thai": "รูปแบบย่อย, ตัวแปร",
-     "level": "B2",
-     "example": "The initial 100-series variant of the Antares rocket."
-    },
-    {
-     "word": "manifest",
-     "thai": "รายการบรรทุก, บัญชีสินค้าหรือภารกิจ",
-     "level": "C1",
-     "example": "Larger rockets have stacked manifests and are expensive."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 417,
-   "ts": "2026-10-21T09:24:54.357514+07:00",
-   "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-   "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "The story exposes criminal collusion inside incident response firms, which impacts security policy rather than daily infrastructure operations.",
-   "summary": "Investigators revealed that executives at ransomware negotiation firms allegedly helped operate extortion platforms for the ShinyHunters cybercrime syndicate. The findings expose serious conflicts of interest that organizations must evaluate when preparing incident response strategies.",
-   "vocab": [
-    {
-     "word": "negotiator",
-     "thai": "ผู้เจรจาต่อรอง",
-     "level": "B2",
-     "example": "Feds suspect ransom negotiator ran ShinyHunters extortion site."
-    },
-    {
-     "word": "taunt",
-     "thai": "เยาะเย้ย / ท้าทาย",
-     "level": "C1",
-     "example": "ShinyHunters hacked the FBI recruitment website and taunted the agency by threatening to publish the stolen files."
-    },
-    {
-     "word": "unravel",
-     "thai": "คลี่คลาย / แยกแยะเงื่อนงำ",
-     "level": "C1",
-     "example": "Authorities said the messages were the key to unraveling a murder-for-hire plot."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 418,
-   "ts": "2026-10-21T09:25:16.073464+07:00",
-   "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
-   "link": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Information leakage flaws in generative AI tools are an important security and privacy concern for enterprise IT environments.",
-   "summary": "Security researchers found that shared links from Meta's Muse AI agent could be uncovered easily using public DNS searches, exposing private user and company data. Meta has temporarily disabled the sharing feature while it reviews the issue.",
-   "vocab": [
-    {
-     "word": "enumerate",
-     "thai": "แจกแจงหรือระบุรายการทั้งหมด",
-     "level": "C1",
-     "example": "Researchers said they were able to enumerate 6,800 links Muse users created for sharing."
-    },
-    {
-     "word": "precaution",
-     "thai": "การป้องกันไว้ล่วงหน้า",
-     "level": "B2",
-     "example": "Muse seems to take the same precautions as other online services."
-    },
-    {
-     "word": "confidential",
-     "thai": "ที่เป็นความลับ",
-     "level": "B2",
-     "example": "The links exposed a candidate's notes preparing for a confidential executive-search call."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9
-  },
   {
    "id": 419,
    "ts": "2026-10-21T15:58:56.265902+07:00",
@@ -18746,11 +18361,13 @@
      "example": "Enabling faster, more integrated, and scalable deployment of AI systems."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 524,
+   "sent_ts": "2026-11-04T10:46:47.368602+07:00"
   },
   {
    "id": 866,
@@ -18782,11 +18399,16 @@
      "example": "The attacks follow concerted Russian bombing of data centers."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 525,
+   "sent_ts": "2026-11-04T10:46:47.917593+07:00",
+   "extra_links": [
+    "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
+   ]
   },
   {
    "id": 867,
@@ -18818,11 +18440,13 @@
      "example": "Every contract we sign under this framework is to deliver value."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 526,
+   "sent_ts": "2026-11-04T10:46:48.467651+07:00"
   },
   {
    "id": 868,
@@ -18890,11 +18514,13 @@
      "example": "Water stewardship will play a central role in the campus design."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 6,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 527,
+   "sent_ts": "2026-11-04T10:46:49.013768+07:00"
   },
   {
    "id": 870,
@@ -18926,11 +18552,13 @@
      "example": "The decree will review floor space at privately owned data centers across the country."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 528,
+   "sent_ts": "2026-11-04T10:46:49.565984+07:00"
   },
   {
    "id": 871,
@@ -18998,7 +18626,7 @@
      "example": "The company claimed its platform would eventually comprise 100,000 GPUs."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 7,
    "scale": 7,
@@ -19034,7 +18662,7 @@
      "example": "The former CEO was accused of trying to force a sale at a depressed valuation."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
@@ -19217,7 +18845,7 @@
      "example": "New security directives urge bosses to improve defense systems."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
@@ -19253,7 +18881,7 @@
      "example": "Hardware procurement costs are rising across the industry."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
@@ -19325,7 +18953,7 @@
      "example": "Our non-combustion technology makes carbon capture more economically viable at scale."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
@@ -19581,7 +19209,7 @@
      "example": "Network resilience is crucial during natural disasters."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
@@ -19617,7 +19245,7 @@
      "example": "Proper controls help reduce infrastructure exposure."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
@@ -19797,7 +19425,7 @@
      "example": "Modifying coding agents without clear user consent creates a trust problem."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
@@ -19838,110 +19466,406 @@
    "urgency": 6,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 896,
+   "ts": "2026-11-04T10:47:22.156606+07:00",
+   "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
+   "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Major industry reorganization and open-source tool updates affect the broader tech and infrastructure landscape.",
+   "summary": "Canva announced substantial layoffs affecting over a fifth of its staff as part of a corporate reorganization. Meanwhile, various open-source projects released new tools, including an alternative to hidden VMware migration utilities.",
+   "vocab": [
+    {
+     "word": "reorganization",
+     "thai": "การปรับโครงสร้างใหม่",
+     "level": "B2",
+     "example": "Canva announced layoffs in a major re-org affecting 22% of staff."
+    },
+    {
+     "word": "assailant",
+     "thai": "ผู้ทำร้าย, ผู้โจมตี",
+     "level": "C1",
+     "example": "The article refers to the company playfully as an Adobe assailant."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "An architect created an open source alternative to the migration tool."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 897,
+   "ts": "2026-11-04T10:47:22.156643+07:00",
+   "title": "C++26 Disapproved",
+   "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "The failure of the C++26 standards vote has massive implications for software engineering and programming toolchains.",
+   "summary": "The ISO C++ standard draft was unexpectedly rejected by national bodies, primarily due to disputes over new contract features. This rare failure creates uncertainty for the future timeline and evolution of the programming language.",
+   "vocab": [
+    {
+     "word": "formality",
+     "thai": "พิธีการ, สิ่งที่เป็นตามรูปแบบ",
+     "level": "B2",
+     "example": "It was supposed to be a mere formality before the vote failed."
+    },
+    {
+     "word": "penultimate",
+     "thai": "เกือบสุดท้าย (ก่อนอันสุดท้าย)",
+     "level": "C1",
+     "example": "DIS is the penultimate stage of an ISO standard."
+    },
+    {
+     "word": "unthinkable",
+     "thai": "ที่เหลือจะเชื่อ, เป็นไปไม่ได้ที่จะคิดถึง",
+     "level": "C1",
+     "example": "On October 23, 2026, the unthinkable happened."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 898,
+   "ts": "2026-11-04T10:47:22.156701+07:00",
+   "title": "There is no posttraining data commons",
+   "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Discusses foundational data availability constraints for frontier AI training, which affects high-end infrastructure planning.",
+   "summary": "While large language models benefited from decades of archived human knowledge for pretraining, modern posttraining relies heavily on complex tasks rather than raw documents. This creates a severe shortage of ready-made datasets for advanced agentic AI development.",
+   "vocab": [
+    {
+     "word": "corpus",
+     "thai": "คลังข้อมูล (ทางภาษาหรือเอกสาร)",
+     "level": "C1",
+     "example": "Training large language models required a truly vast corpus of text."
+    },
+    {
+     "word": "curate",
+     "thai": "คัดสรรและจัดการข้อมูล",
+     "level": "C1",
+     "example": "Communities spent more than a decade curating the results."
+    },
+    {
+     "word": "frontier",
+     "thai": "แนวหน้า, ล้ำสมัย",
+     "level": "B2",
+     "example": "The focus of frontier AI research has shifted to posttraining."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 899,
+   "ts": "2026-11-04T10:47:22.156722+07:00",
+   "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
+   "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Regulatory clashes over federal broadband funding and state net neutrality rules directly impact telecom and network operators.",
+   "summary": "California is accepting federal broadband grants while refusing to comply with conditions demanding the repeal of state net neutrality laws. The resulting standoff could trigger major legal battles and delay telecom infrastructure deployment.",
+   "vocab": [
+    {
+     "word": "preempt",
+     "thai": "เข้ากีดกัน, มีสิทธิ์เหนือกว่า",
+     "level": "C1",
+     "example": "The demand to preempt state laws is brazen and meritless."
+    },
+    {
+     "word": "concede",
+     "thai": "ยอมรับ, ยอมจำนน",
+     "level": "C1",
+     "example": "The state expressly does not waive or concede any legal arguments."
+    },
+    {
+     "word": "standoff",
+     "thai": "ภาวะชะงักงัน, การเผชิญหน้าที่ไม่มีใครยอมใคร",
+     "level": "C1",
+     "example": "The regulatory standoff could delay regional broadband deployment."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 900,
+   "ts": "2026-11-04T10:47:34.515720+07:00",
+   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
+   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Major lawsuit involving AI data scraping, paywall bypassing, and copyright infringement affects data and model providers.",
+   "summary": "The New York Times and other publishers are suing Brave Software for allegedly bypassing paywalls and selling scraped news content to major AI companies. The lawsuit claims Brave profits heavily from copyrighted journalism without compensating the creators.",
+   "vocab": [
+    {
+     "word": "alleging",
+     "thai": "กล่าวหา",
+     "level": "B2",
+     "example": "The lawsuit alleged that Brave has made more than $100 million by copying publishers' work."
+    },
+    {
+     "word": "circumventing",
+     "thai": "หลีกเลี่ยง, หลบเลี่ยง",
+     "level": "C1",
+     "example": "The suit said Brave violated the DMCA by circumventing technological measures used to restrict access."
+    },
+    {
+     "word": "infringement",
+     "thai": "การละเมิดลิขสิทธิ์",
+     "level": "C1",
+     "example": "The lawsuit accused Brave of all the major types of copyright infringement."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 901,
+   "ts": "2026-11-04T10:47:34.515773+07:00",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts cloud software usage policies and AI integration in the education sector.",
+   "summary": "Google will allow K-12 schools using its education products to opt out of AI tools by default. However, blocking these AI features also requires giving up access to Google Search entirely.",
+   "vocab": [
+    {
+     "word": "ubiquity",
+     "thai": "การมีอยู่ทุกหนทุกแห่ง",
+     "level": "C1",
+     "example": "The ubiquity of these devices has made the company's education products huge in schools."
+    },
+    {
+     "word": "overarching",
+     "thai": "ซึ่งครอบคลุมทั้งหมด",
+     "level": "C1",
+     "example": "Google's new overarching approach to AI in classrooms sounds good on the surface."
+    },
+    {
+     "word": "administrators",
+     "thai": "ผู้ดูแลระบบ, ผู้บริหาร",
+     "level": "B2",
+     "example": "It will be up to administrators to manually enable them when changes roll out."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 902,
+   "ts": "2026-11-04T10:47:34.515795+07:00",
+   "title": "Another child dies of measles as CDC reportedly holds up health alert",
+   "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Public health news regarding measles outbreaks and vaccine policy, outside of core IT and infrastructure scope.",
+   "summary": "A child in New York died from measles amid a rising number of vaccine-preventable outbreaks across the United States. State officials blamed the crisis on declining vaccination rates and federal health policies.",
+   "vocab": [
+    {
+     "word": "outbreak",
+     "thai": "การแพร่ระบาดของโรค",
+     "level": "B2",
+     "example": "Pennsylvania is experiencing a dramatic measles outbreak that has stricken over 1,430 people."
+    },
+    {
+     "word": "obstructing",
+     "thai": "ขัดขวาง",
+     "level": "C1",
+     "example": "Kennedy has waged a war on vaccines that has included obstructing federal vaccine recommendations."
+    },
+    {
+     "word": "devastating",
+     "thai": "ที่สร้างความเสียหายรุนแรง",
+     "level": "B2",
+     "example": "She called the child's death a devastating reminder of what is at stake."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 903,
+   "ts": "2026-11-04T10:47:34.515815+07:00",
+   "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
+   "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Critical security incident involving a massive malware botnet on certified hardware and evasion techniques.",
+   "summary": "Google dismantled a large botnet called x.cpe that infected over 1.3 million certified Android TV boxes using advanced evasion methods. The compromised hardware was used to run residential proxies and engage in ad fraud schemes.",
+   "vocab": [
+    {
+     "word": "modular",
+     "thai": "แบบแยกส่วนประกอบ",
+     "level": "C1",
+     "example": "The malware evolved quickly into a modular three-stage malware platform."
+    },
+    {
+     "word": "evaded",
+     "thai": "หลบเลี่ยง",
+     "level": "B2",
+     "example": "The compromised boxes evaded detection by using a backdoor to remotely install malware."
+    },
+    {
+     "word": "behest",
+     "thai": "ตามคำสั่งหรือความต้องการ",
+     "level": "C2",
+     "example": "It had the system-level permissions necessary to install malware modules at the operator's behest."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 904,
+   "ts": "2026-11-04T10:47:34.515837+07:00",
+   "title": "This space company is betting its future on a propellant available everywhere",
+   "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to space infrastructure, propulsion, and hardware deployment challenges for edge systems.",
+   "summary": "Argo Space is developing spacecraft propulsion systems that rely entirely on water as a propellant and coolant. During its first demonstration mission, a solar array deployment failure prevented the spacecraft from testing its propulsion system.",
+   "vocab": [
+    {
+     "word": "refurbished",
+     "thai": "ซึ่งได้รับการปรับปรุงสภาพใหม่",
+     "level": "B2",
+     "example": "The brothers launched rockets, refurbished rockets, and sold rockets."
+    },
+    {
+     "word": "incentive",
+     "thai": "สิ่งจูงใจ",
+     "level": "B2",
+     "example": "This water-based transportation will give us a commercial incentive to harvest from the Moon."
+    },
+    {
+     "word": "troubleshooting",
+     "thai": "การแก้ไขปัญหาข้อขัดข้อง",
+     "level": "B2",
+     "example": "Controllers spent about half a day troubleshooting the issue and gathering data."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 905,
+   "ts": "2026-11-04T10:47:34.515856+07:00",
+   "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
+   "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "Critical server and OS security vulnerability involving UEFI bootkits and Secure Boot bypasses on Windows.",
+   "summary": "A UEFI bootkit named BlackX successfully infected fully patched Windows systems by exploiting legacy certificate trust gaps. The malware bypasses Secure Boot to run malicious code before core operating system defenses load.",
+   "vocab": [
+    {
+     "word": "subverted",
+     "thai": "ทำลายความน่าเชื่อถือ, ทำให้ล่มสลาย",
+     "level": "C1",
+     "example": "With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code."
+    },
+    {
+     "word": "revoke",
+     "thai": "เพิกถอน, ยกเลิก",
+     "level": "C1",
+     "example": "Microsoft issued an update to revoke trust in the digital certificate used to sign older boot managers."
+    },
+    {
+     "word": "extract",
+     "thai": "ดึงข้อมูลออก",
+     "level": "B2",
+     "example": "A logic flaw allows attackers to bypass Secure Boot and extract BitLocker encryption keys."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 906,
+   "ts": "2026-11-04T10:47:34.515875+07:00",
+   "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "Platform moderation policy and automated tool errors affecting high-profile accounts during elections.",
+   "summary": "Meta temporarily suspended a prominent pro-democracy Instagram account after automated systems mistakenly flagged its AI tool usage as bot activity. Meta defended its policies during meetings with coalition leaders despite widespread criticism over content suppression.",
+   "vocab": [
+    {
+     "word": "surged",
+     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Prevent automated systems from suspending accounts if activity surged during the election."
+    },
+    {
+     "word": "suppressed",
+     "thai": "ถูกระงับ, ถูกปิดกั้น",
+     "level": "B2",
+     "example": "Americans need assurance that voting content won't be suppressed ahead of election day."
+    },
+    {
+     "word": "acknowledge",
+     "thai": "ยอมรับ",
+     "level": "B2",
+     "example": "Stone acknowledged that additional hurdles kept admins locked out of the account."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 896,
+ "next_id": 907,
  "vocab": [
-  {
-   "word": "cryptographic",
-   "thai": "เกี่ยวกับการเข้ารหัสลับ",
-   "level": "C1",
-   "example": "ECDSA is one of our most widely used cryptographic standards.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "speculation",
-   "thai": "การคาดเดา",
-   "level": "B2",
-   "example": "Readers should take this as a fun closing chapter and the end of years of speculation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "parameter",
-   "thai": "พารามิเตอร์, ตัวแปรควบคุม",
-   "level": "B2",
-   "example": "The specifications published a seed parameter whose hash value is used to define the curve.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "standardization",
-   "thai": "การกำหนดมาตรฐาน",
-   "level": "C1",
-   "example": "The platform knowledge was well-known but lacked formal standardization.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unconditional",
-   "thai": "แบบไม่มีเงื่อนไข",
-   "level": "C1",
-   "example": "std::breakpoint() is an unconditional breakpoint that halts execution.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "mechanism",
-   "thai": "กลไก",
-   "level": "B2",
-   "example": "How this works under the hood varies depending on the platform's mechanism.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unethical",
-   "thai": "ผิดจริยธรรม",
-   "level": "B2",
-   "example": "Disclosures of its agents performing unethical and likely illegal acts.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disclosures",
-   "thai": "การเปิดเผยข้อมูล",
-   "level": "B2",
-   "example": "In the latest installment of disclosures of its agents performing unethical acts.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "annualized",
-   "thai": "ซึ่งคิดเป็นอัตราต่อปี",
-   "level": "C1",
-   "example": "We recently crossed $1 billion in annualized run rate.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "comprise",
-   "thai": "ประกอบด้วย",
-   "level": "B2",
-   "example": "In total, that was said to comprise 25,000 GPUs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "tailored",
    "thai": "ที่ปรับให้เข้ากับความต้องการเฉพาะ",
@@ -24837,6 +24761,106 @@
    "thai": "เวลาหน่วงในระบบเครือข่าย",
    "level": "C1",
    "example": "In production, Pando cut median push latency by nearly 5x.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synergy",
+   "thai": "การทำงานร่วมกันเพื่อเสริมพลัง",
+   "level": "C1",
+   "example": "Creates a powerful synergy that fuels talent growth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "deployment",
+   "thai": "การปรับใช้",
+   "level": "C1",
+   "example": "Enabling faster, more integrated, and scalable deployment of AI systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "decree",
+   "thai": "กฤษฎีกา",
+   "level": "C1",
+   "example": "Russian President Putin issued a decree on Monday.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concerted",
+   "thai": "ที่ประสานร่วมมือกัน",
+   "level": "C1",
+   "example": "The attacks follow concerted Russian bombing of data centers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "strain",
+   "thai": "ความตึงเครียด",
+   "level": "B2",
+   "example": "When the grid is under strain.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fluctuation",
+   "thai": "ความผันผวน",
+   "level": "C1",
+   "example": "Using batteries and power controls to smooth demand fluctuations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expedited",
+   "thai": "ที่ทำให้รวดเร็วขึ้น",
+   "level": "C1",
+   "example": "The platform provides turnkey solutions to developers seeking an expedited route to market.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stewardship",
+   "thai": "การบริหารจัดการดูแลรักษาทรัพยากร",
+   "level": "C1",
+   "example": "Water stewardship will play a central role in the campus design.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "instruct",
+   "thai": "สั่งการ, สอน",
+   "level": "B2",
+   "example": "Putin instructed the Digital Development Ministry to conduct a study of currently available capacity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "privately owned",
+   "thai": "ที่เป็นของเอกชน",
+   "level": "B2",
+   "example": "The decree will review floor space at privately owned data centers across the country.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
