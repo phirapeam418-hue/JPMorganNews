@@ -1854,202 +1854,33 @@
   "https://arstechnica.com/cars/2026/11/beyond-screens-mercedes-benzs-new-holographic-heads-up-display/",
   "https://arstechnica.com/space/2026/11/at-home-in-space-opens-caps-air-and-space-museum-renovation/",
   "https://arstechnica.com/science/2026/11/research-roundup-6-cool-science-stories-we-almost-missed-7/",
-  "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/"
+  "https://arstechnica.com/health/2026/11/third-person-dies-of-bird-flu-since-virus-started-jumping-to-livestock/",
+  "https://www.datacenterdynamics.com/en/news/indus-towers-installs-solar-systems-across-50000-telco-sites-in-india/",
+  "https://www.datacenterdynamics.com/en/news/jll-acquires-data-center-consultancy-expanding-data-center-services-offering/",
+  "https://www.datacenterdynamics.com/en/news/speedcast-sells-satellite-ground-station-infrastructure-to-eqt/",
+  "https://www.datacenterdynamics.com/en/news/bridge-dc-appoints-drew-chen-as-co-ceo/",
+  "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-power-data-centers-without-impacting-consumers-with-maria-pope-portland-general-electric/",
+  "https://www.datacenterdynamics.com/en/news/oms-group-secures-1bn-in-financing-for-cable-laying-vessels/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-hires-international-energy-agency-attorney-for-its-energy-team/",
+  "https://www.datacenterdynamics.com/en/whitepapers/oregon-state-university-leads-the-way-in-data-center-innovation-with-liquid-cooling/",
+  "https://www.datacenterdynamics.com/en/marketwatch/all-aboard-the-ai-factory-powertrain/",
+  "https://www.theregister.com/os-platforms/2026/11/04/achieving-nirvana-enlightenment-028-hits-the-desktop/5307329",
+  "https://www.theregister.com/personal-tech/2026/11/04/microsofts-ai-pc-push-meets-a-wall-of-ram-prices-but-redmond-is-still-beating-the-drum/5307335",
+  "https://www.theregister.com/on-prem/2026/11/04/datacenter-operators-must-win-hearts-and-minds-not-just-permits/5306895",
+  "https://www.theregister.com/offbeat/2026/11/04/china-outlines-plans-for-moonshot-it-hopes-to-land-by-2030/5307457",
+  "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448",
+  "https://sw.kovidgoyal.net/kitty/changelog/",
+  "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+  "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+  "https://mrdoob.github.io/codevember-2026/01/",
+  "https://news.ycombinator.com/item?id=50363461",
+  "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+  "https://napcakes.nekoweb.org/posts/malloc/",
+  "https://uncracked.city",
+  "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+  "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai"
  ],
  "stories": [
-  {
-   "id": 419,
-   "ts": "2026-10-21T15:58:56.265902+07:00",
-   "title": "Sponsored: Shadeform launches Flex VMs, turning any bare-metal GPU cluster into marketplace-ready cloud capacity",
-   "link": "https://www.datacenterdynamics.com/en/product-news/shadeform-launches-flex-vms-turning-any-bare-metal-gpu-cluster-into-marketplace-ready-cloud-capacity/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Announces a new virtualization and marketplace layer for GPU clusters, directly impacting AI infrastructure capacity management.",
-   "summary": "Shadeform has launched Flex VMs, a platform that turns bare-metal GPU clusters into single-tenant virtual machines for instant cloud reselling. The tool aims to help data center operators monetize idle compute capacity with minimal manual overhead.",
-   "vocab": [
-    {
-     "word": "virtualization",
-     "thai": "การจำลองเสมือน",
-     "level": "B2",
-     "example": "Shadeform launched Flex VMs, a virtualization layer that can take any GPU cluster."
-    },
-    {
-     "word": "utilization",
-     "thai": "การใช้ประโยชน์",
-     "level": "B2",
-     "example": "Shadeform's current roster of Flex VMs has achieved more than 95 percent utilization."
-    },
-    {
-     "word": "monetize",
-     "thai": "สร้างรายได้",
-     "level": "C1",
-     "example": "The tool helps data center operators monetize idle compute capacity."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 420,
-   "ts": "2026-10-21T15:58:56.265951+07:00",
-   "title": "Sponsored: The metric that matters: Why AI data centers should be measured in value, not volume",
-   "link": "https://www.datacenterdynamics.com/en/marketwatch/the-metric-that-matters-why-ai-data-centers-should-be-measured-in-value-not-volume/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Examines extreme power and cooling limits for next-generation AI data centers, directly addressing core infrastructure concerns.",
-   "summary": "Single-chip power consumption is projected to reach 3,000 watts, rendering traditional air cooling obsolete. Industry experts argue that data centers must refocus on energy conversion efficiency and adopt advanced direct liquid cooling.",
-   "vocab": [
-    {
-     "word": "consumption",
-     "thai": "การบริโภค, การใช้",
-     "level": "B2",
-     "example": "That's where single-chip power consumption is heading."
-    },
-    {
-     "word": "obsolete",
-     "thai": "ล้าสมัย",
-     "level": "B2",
-     "example": "Traditional air cooling methods are becoming obsolete."
-    },
-    {
-     "word": "efficiency",
-     "thai": "ประสิทธิภาพ",
-     "level": "B2",
-     "example": "Data centers must focus heavily on energy conversion efficiency."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 246,
-   "sent_ts": "2026-10-21T15:58:56.779703+07:00"
-  },
-  {
-   "id": 421,
-   "ts": "2026-10-21T15:58:56.779878+07:00",
-   "title": "MPs urge UK government to play venture capitalist with taxpayer-funded tech",
-   "link": "https://www.theregister.com/public-sector/2026/10/21/mps-urge-uk-government-to-play-venture-capitalist-with-taxpayer-funded-tech/5304212",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers a diverse tech news roundup including security patches, open-source developments, and hardware updates.",
-   "summary": "This week's tech news covers discussions on government venture funding in the UK, unpatched on-prem SharePoint zero-day attacks, and new FOSS releases. Various updates span security vulnerabilities, hardware benchmarking, and browser changes.",
-   "vocab": [
-    {
-     "word": "vulnerability",
-     "thai": "จุดอ่อน, ช่องโหว่",
-     "level": "B2",
-     "example": "Security teams work hard to patch any newly discovered vulnerability."
-    },
-    {
-     "word": "benchmark",
-     "thai": "เกณฑ์มาตรฐาน",
-     "level": "B2",
-     "example": "New hardware releases often include a detailed performance benchmark."
-    },
-    {
-     "word": "adoption",
-     "thai": "การนำไปใช้",
-     "level": "B2",
-     "example": "The open-source project is seeing increasing adoption worldwide."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8,
-   "extra_links": [
-    "https://www.theregister.com/networks/2026/10/21/nervous-isps-replace-chrome-as-strange-consumers-of-dns-resources/5304344"
-   ]
-  },
-  {
-   "id": 422,
-   "ts": "2026-10-21T15:58:56.779908+07:00",
-   "title": "The Future of CSS",
-   "link": "https://www.joshwcomeau.com/css/interop-2027/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Discusses upcoming web standards and CSS features, relevant to web developers but low impact for core infrastructure operations.",
-   "summary": "Browser vendors are collaborating on upcoming web standards and proposing new features like CSS functions and advanced corner styling. These additions aim to bring more native programming logic and layout power directly into stylesheets.",
-   "vocab": [
-    {
-     "word": "specification",
-     "thai": "รายละเอียดเฉพาะ",
-     "level": "B2",
-     "example": "Developers follow the official specification when building web applications."
-    },
-    {
-     "word": "implementation",
-     "thai": "การนำไปปฏิบัติ",
-     "level": "B2",
-     "example": "The new feature requires browser implementation before it can be used widely."
-    },
-    {
-     "word": "syntax",
-     "thai": "ไวยากรณ์ (ในโปรแกรม)",
-     "level": "C1",
-     "example": "The proposed syntax allows developers to write custom functions inside CSS."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 423,
-   "ts": "2026-10-21T15:58:56.779933+07:00",
-   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-   "link": "https://news-web.php.net/php.announce/509",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Reports an upcoming critical PHP security release and current gateway outages on PHP infrastructure.",
-   "summary": "PHP.net experienced origin server connection failures alongside announcements for critical security releases. Administrators should monitor server status and prepare for upcoming vulnerability patches.",
-   "vocab": [
-    {
-     "word": "administrator",
-     "thai": "ผู้ดูแลระบบ",
-     "level": "B2",
-     "example": "If you are the administrator, please check your origin server status."
-    },
-    {
-     "word": "availability",
-     "thai": "ความพร้อมใช้งาน",
-     "level": "B2",
-     "example": "Server availability can be affected by unexpected gateway errors."
-    },
-    {
-     "word": "gateway",
-     "thai": "เกตเวย์, ประตูเชื่อมต่อเครือข่าย",
-     "level": "B2",
-     "example": "The proxy returned a 502 Bad Gateway error when reaching the origin server."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 7,
-   "credibility": 7,
-   "msg_id": 247,
-   "sent_ts": "2026-10-21T15:58:57.278819+07:00",
-   "extra_links": [
-    "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
-    "https://www.theregister.com/security/2026/10/21/php-devs-publish-critical-bug-fix-as-site-owners-warned-pull-em-offline-if-youre-unpatched/5304519",
-    "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
-    "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
-   ]
-  },
   {
    "id": 424,
    "ts": "2026-10-21T21:46:01.643235+07:00",
@@ -19878,60 +19709,632 @@
    "urgency": 6,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 907,
+   "ts": "2026-11-04T18:44:28.932063+07:00",
+   "title": "Indus Towers installs solar systems across 50,000 telco sites in India",
+   "link": "https://www.datacenterdynamics.com/en/news/indus-towers-installs-solar-systems-across-50000-telco-sites-in-india/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Indus Towers installed solar systems across 50,000 telecom sites in India to lower energy costs.",
+   "summary": "Indus Towers has deployed solar arrays across 50,000 telecom sites in India, adding 300MW of on-site capacity. The company aims to reach 100,000 solar-powered sites by 2029 to reduce diesel reliance and lower carbon emissions.",
+   "vocab": [
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มทรัพย์สินหรือโครงการทั้งหมด",
+     "level": "B2",
+     "example": "The company said that the solar systems added approximately 300MW of on-site capacity across its tower portfolio in the country."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน",
+     "level": "B2",
+     "example": "Based on our research, it's the largest, and we’re the first company to reach this kind of benchmark globally."
+    },
+    {
+     "word": "decarbonize",
+     "thai": "ลดการปล่อยคาร์บอน",
+     "level": "C1",
+     "example": "These deployments are part of the company's broader effort to decarbonize its operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 908,
+   "ts": "2026-11-04T18:44:28.932114+07:00",
+   "title": "JLL acquires data center consultancy, expanding data center services offering",
+   "link": "https://www.datacenterdynamics.com/en/news/jll-acquires-data-center-consultancy-expanding-data-center-services-offering/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "JLL acquired data center consultancy VIPA Digital to expand its data center services.",
+   "summary": "Commercial real estate firm JLL has acquired data center consultancy VIPA Digital to strengthen its data service capabilities. The move allows JLL to offer comprehensive solutions across the entire data center lifecycle.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "สนับสนุน, เสริมสร้าง",
+     "level": "C1",
+     "example": "JLL has acquired data center consultancy VIPA Digital in a move to bolster its data center data service capabilities."
+    },
+    {
+     "word": "lifecycle",
+     "thai": "วัฏจักรชีวิตของผลิตภัณฑ์หรือโครงการ",
+     "level": "B2",
+     "example": "The commercial real estate services firm said the acquisition reflects the growing importance of data centers, and would allow it to offer services across the data center lifecycle."
+    },
+    {
+     "word": "rigor",
+     "thai": "ความเข้มงวด, ความละเอียดถี่ถ้วน",
+     "level": "C1",
+     "example": "Partnering with JLL allows us to bring that same rigor and independence to a broader client base."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 909,
+   "ts": "2026-11-04T18:44:28.932143+07:00",
+   "title": "Speedcast sells satellite ground station infrastructure to EQT",
+   "link": "https://www.datacenterdynamics.com/en/news/speedcast-sells-satellite-ground-station-infrastructure-to-eqt/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Speedcast sold its global satellite ground station infrastructure to investment firm EQT.",
+   "summary": "Satellite communications provider Speedcast has sold its teleport and ground station infrastructure to EQT Infrastructure. The deal helps Speedcast focus on its core connectivity and edge platform while EQT scales the ground network globally.",
+   "vocab": [
+    {
+     "word": "comprise",
+     "thai": "ประกอบด้วย",
+     "level": "B2",
+     "example": "The acquired business comprises 12 teleports across 11 countries and five continents."
+    },
+    {
+     "word": "transaction",
+     "thai": "ธุรกรรมทางธุรกิจ",
+     "level": "B2",
+     "example": "The completion of this transaction positions Speedcast to continue to benefit from reliable, world-class ground infrastructure."
+    },
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "C1",
+     "example": "The satellite industry is undergoing a fundamental transformation, with rapidly growing constellations creating an unprecedented need for ground infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 910,
+   "ts": "2026-11-04T18:44:28.932168+07:00",
+   "title": "Bridge DC appoints Drew Chen as co-CEO",
+   "link": "https://www.datacenterdynamics.com/en/news/bridge-dc-appoints-drew-chen-as-co-ceo/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Bridge Data Centres appointed Drew Chen as co-CEO to scale its APAC operations.",
+   "summary": "APAC data center operator Bridge Data Centres has appointed Drew Chen as co-chief executive officer. Chen will work with Eric Fan to accelerate regional growth as the company surpasses one gigawatt of capacity.",
+   "vocab": [
+    {
+     "word": "inflection point",
+     "thai": "จุดเปลี่ยนสำคัญ",
+     "level": "C1",
+     "example": "The Asia Pacific data center sector is at an inflection point for growth, fueled by surging cloud adoption."
+    },
+    {
+     "word": "footprint",
+     "thai": "พื้นที่ปฏิบัติการ, ขอบเขตการดำเนินงาน",
+     "level": "B2",
+     "example": "I am excited to partner with Eric and the leadership team to scale BDC’s footprint across Asia Pacific."
+    },
+    {
+     "word": "intimate",
+     "thai": "ลึกซึ้ง, สนิทสนม",
+     "level": "C1",
+     "example": "Drew possesses deep expertise in the digital infrastructure space and an intimate knowledge of BDC’s business."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 911,
+   "ts": "2026-11-04T18:44:28.932229+07:00",
+   "title": "DCD Studio: How to power data centers without impacting consumers with Maria Pope, Portland General Electric",
+   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-how-to-power-data-centers-without-impacting-consumers-with-maria-pope-portland-general-electric/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "DCD Studio interview discusses powering data centers without impacting local electricity consumers.",
+   "summary": "In a DCD Studio interview, Seb Moss and Portland General Electric CEO Maria Pope discuss powering growing data center demands. They explore grid optimization, legislative changes, and renewable energy initiatives to protect regular consumers.",
+   "vocab": [
+    {
+     "word": "optimization",
+     "thai": "การปรับปรุงให้เหมาะสมที่สุด",
+     "level": "C1",
+     "example": "PGE addresses the increasing power demands of data centers through grid optimization, legislative changes & renewable energy initiatives."
+    },
+    {
+     "word": "initiative",
+     "thai": "ความคิดริเริ่ม, โครงการริเริ่ม",
+     "level": "B2",
+     "example": "PGE addresses increasing power demands through grid optimization, legislative changes & renewable energy initiatives."
+    },
+    {
+     "word": "demand",
+     "thai": "ความต้องการ",
+     "level": "B2",
+     "example": "How PGE addresses the increasing power demands of data centers through grid optimization."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 912,
+   "ts": "2026-11-04T18:44:28.932253+07:00",
+   "title": "OMS Group secures $1bn in financing for cable laying vessels",
+   "link": "https://www.datacenterdynamics.com/en/news/oms-group-secures-1bn-in-financing-for-cable-laying-vessels/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "OMS Group secured over $1 billion in financing to build new subsea cable-laying vessels.",
+   "summary": "Subsea cable operator OMS Group has secured over $1 billion in new financing facilities. The funds will support the construction of four new fiber-optic cable-laying vessels scheduled for delivery by 2028.",
+   "vocab": [
+    {
+     "word": "syndicated",
+     "thai": "ซึ่งระดมทุนร่วมกันจากหลายสถาบันการเงิน",
+     "level": "C1",
+     "example": "In 2024, OMS Group secured $300 million in loans through a syndicated facilities agreement with a financial institution consortium."
+    },
+    {
+     "word": "underpin",
+     "thai": "ค้ำจุน, สนับสนุน",
+     "level": "C1",
+     "example": "We aim to strengthen our cable-laying capacity and help customers build the networks that underpin global digital growth."
+    },
+    {
+     "word": "tailored",
+     "thai": "ที่ออกแบบมาเฉพาะ",
+     "level": "B2",
+     "example": "Combining our export finance expertise to deliver a tailored, ECA-backed vessel financing solution."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 913,
+   "ts": "2026-11-04T18:44:28.932277+07:00",
+   "title": "Microsoft hires International Energy Agency attorney for its energy team",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-hires-international-energy-agency-attorney-for-its-energy-team/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft hired a former IEA attorney for its corporate energy legal team.",
+   "summary": "Microsoft has hired former International Energy Agency legal advisor Evan Pelz as principal corporate counsel for its energy team. The hire follows other recent sustainability and energy policy staffing additions at the tech giant.",
+   "vocab": [
+    {
+     "word": "multilateral",
+     "thai": "พหุภาคี",
+     "level": "C1",
+     "example": "Advising on legal and governance matters that supported the IEA’s global energy policy work and multilateral initiatives."
+    },
+    {
+     "word": "sustainability",
+     "thai": "ความยั่งยืน",
+     "level": "B2",
+     "example": "Microsoft has been a leader in sustainability initiatives within the data center industry."
+    },
+    {
+     "word": "adjust",
+     "thai": "ปรับเปลี่ยน",
+     "level": "B2",
+     "example": "Despite announcing earlier this year that it would adjust the pace or volume of our carbon removal procurement."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 914,
+   "ts": "2026-11-04T18:44:28.932306+07:00",
+   "title": "Oregon State University leads the way in data center innovation with liquid cooling",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/oregon-state-university-leads-the-way-in-data-center-innovation-with-liquid-cooling/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Oregon State University adopted waterless direct-to-chip liquid cooling to improve AI server performance.",
+   "summary": "Oregon State University modernized its data center cooling by implementing ZutaCore's waterless direct-to-chip liquid cooling technology. The upgrade reduced processor temperatures, boosted compute performance, and avoided the need for extra cooling equipment.",
+   "vocab": [
+    {
+     "word": "retrofit",
+     "thai": "การติดตั้งอุปกรณ์ใหม่เพิ่มเติมเข้าไปในระบบเดิม",
+     "level": "C1",
+     "example": "Retrofit existing data center infrastructure while minimizing costs, disruption, and space requirements."
+    },
+    {
+     "word": "disruption",
+     "thai": "ความหยุดชะงัก",
+     "level": "B2",
+     "example": "Retrofit existing data center infrastructure while minimizing costs, disruption, and space requirements."
+    },
+    {
+     "word": "consumption",
+     "thai": "การบริโภค, การใช้",
+     "level": "B2",
+     "example": "Growing AI and high-performance computing workloads are putting increasing pressure on energy consumption."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 915,
+   "ts": "2026-11-04T18:44:41.102153+07:00",
+   "title": "Sponsored: All aboard the AI factory powertrain",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/all-aboard-the-ai-factory-powertrain/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "This is an industry expert interview directly addressing power infrastructure and high rack density challenges in AI data centers.",
+   "summary": "Data center power infrastructure must evolve rapidly to handle skyrocketing rack densities and dynamic AI computing loads. Industry leaders emphasize that designing the powertrain as a single integrated system is crucial for achieving fast and reliable compute capacity.",
+   "vocab": [
+    {
+     "word": "powertrain",
+     "thai": "ระบบส่งกำลังหรือระบบจ่ายพลังงาน",
+     "level": "C1",
+     "example": "The power infrastructure behind an AI factory can be thought of as a powertrain."
+    },
+    {
+     "word": "trajectory",
+     "thai": "วิถีหรือแนวโน้มการเติบโต",
+     "level": "B2",
+     "example": "We’re on a trajectory toward 400-600kW, eventually reaching megawatt-class racks."
+    },
+    {
+     "word": "energization",
+     "thai": "การจ่ายกระแสไฟฟ้าเข้าสู่ระบบ",
+     "level": "C1",
+     "example": "Protection coordination, redundancy, and transfer strategies should be understood before energization."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 538,
+   "sent_ts": "2026-11-04T18:44:41.734032+07:00"
+  },
+  {
+   "id": 916,
+   "ts": "2026-11-04T18:44:41.734269+07:00",
+   "title": "Achieving nirvana: Enlightenment 0.28 hits the desktop",
+   "link": "https://www.theregister.com/os-platforms/2026/11/04/achieving-nirvana-enlightenment-028-hits-the-desktop/5307329",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "It offers a broad industry roundup covering various tech topics, but lacks deep operational focus for infrastructure engineers.",
+   "summary": "Recent technology news covers new software releases, open-source developments, and ongoing security patches across the industry. Major tech firms continue to adjust their hardware and cloud strategies amidst shifting market demands.",
+   "vocab": [
+    {
+     "word": "unaffiliated",
+     "thai": "ไม่เกี่ยวข้องหรือไม่ได้สังกัด",
+     "level": "C1",
+     "example": "Daemonarchy is unaffiliated with the Linux original, built with AI help."
+    },
+    {
+     "word": "preview",
+     "thai": "การแสดงตัวอย่างล่วงหน้า",
+     "level": "B2",
+     "example": "Ubuntu 27.04 may bring a preview of the long-awaited Core Desktop."
+    },
+    {
+     "word": "replacement",
+     "thai": "สิ่งทดแทน",
+     "level": "B2",
+     "example": "Architect creates open source replacement for VM migration tool VMware has hidden."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/personal-tech/2026/11/04/microsofts-ai-pc-push-meets-a-wall-of-ram-prices-but-redmond-is-still-beating-the-drum/5307335",
+    "https://www.theregister.com/on-prem/2026/11/04/datacenter-operators-must-win-hearts-and-minds-not-just-permits/5306895",
+    "https://www.theregister.com/offbeat/2026/11/04/china-outlines-plans-for-moonshot-it-hopes-to-land-by-2030/5307457",
+    "https://www.theregister.com/systems/2026/11/04/amd-on-track-to-overtake-intel-as-biggest-x86-outfit/5307448"
+   ]
+  },
+  {
+   "id": 917,
+   "ts": "2026-11-04T18:44:41.734306+07:00",
+   "title": "Kitty 0.50",
+   "link": "https://sw.kovidgoyal.net/kitty/changelog/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "The terminal release includes major SIMD and memory performance enhancements relevant to systems engineers.",
+   "summary": "The latest terminal emulator update brings window docking, session restoration, and significant throughput speedups. Performance improvements rely on advanced vector instructions and optimized buffer management.",
+   "vocab": [
+    {
+     "word": "compositing",
+     "thai": "การประมวลผลภาพซ้อนทับ",
+     "level": "C1",
+     "example": "Speed up pixel compositing with SIMD vectorization."
+    },
+    {
+     "word": "vectorization",
+     "thai": "การประมวลผลแบบเวกเตอร์เพื่อความเร็ว",
+     "level": "C1",
+     "example": "Speed up pixel compositing with SIMD vectorization."
+    },
+    {
+     "word": "prefetch",
+     "thai": "การดึงข้อมูลล่วงหน้าเข้าสู่หน่วยความจำแคช",
+     "level": "C2",
+     "example": "Improve throughput by prefetching scrollback memory before it is written to."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 918,
+   "ts": "2026-11-04T18:44:41.734332+07:00",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "link": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "It details a major hardware and driver limitation affecting Linux AI inference performance on modern laptops.",
+   "summary": "Running native Linux on the Nvidia RTX Spark laptop leads to severe GPU clock throttling due to encrypted power management firmware. Users must rely on Windows or WSL to achieve full AI model inference performance.",
+   "vocab": [
+    {
+     "word": "throttling",
+     "thai": "การลดประสิทธิภาพการทำงานเพื่อจำกัดความเร็วหรือความร้อน",
+     "level": "C1",
+     "example": "The GPU clock throttling bug found on the Nvidia RTX Spark laptop."
+    },
+    {
+     "word": "distinction",
+     "thai": "ความแตกต่างที่ชัดเจน",
+     "level": "B2",
+     "example": "That distinction matters because Windows on ARM with CUDA support is new."
+    },
+    {
+     "word": "variant",
+     "thai": "รุ่นหรือรูปแบบที่แตกต่างออกไป",
+     "level": "B2",
+     "example": "Every one of these laptop variants ships with Windows on ARM."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 919,
+   "ts": "2026-11-04T18:44:54.369452+07:00",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "link": "https://news.ycombinator.com/item?id=50363461",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Involves data privacy concerns and cloud service usage policies for personal accounts.",
+   "summary": "Users report that Gemini uses personal chat history for training even when users have paid subscriptions. This raises data privacy issues regarding how user inputs are handled in cloud services.",
+   "vocab": [
+    {
+     "word": "subscription",
+     "thai": "การสมัครสมาชิก",
+     "level": "B1",
+     "example": "Gemini trains on chat history even for active subscribers."
+    },
+    {
+     "word": "privacy",
+     "thai": "ความเป็นส่วนตัว",
+     "level": "B1",
+     "example": "Data privacy is a major concern when chat histories are used for model training."
+    },
+    {
+     "word": "retention",
+     "thai": "การเก็บรักษาไว้",
+     "level": "C1",
+     "example": "Users often check data retention policies to protect their personal information."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 920,
+   "ts": "2026-11-04T18:44:54.369486+07:00",
+   "title": "Incident with Pull Requests, Git Operations and Issues",
+   "link": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Directly reports a major cloud and DevOps infrastructure outage affecting GitHub API and Git operations.",
+   "summary": "GitHub experienced widespread degraded performance and intermittent failures affecting pull requests, Git operations, and API requests. Engineers worked to mitigate the errors and eventually restored stable service.",
+   "vocab": [
+    {
+     "word": "degradation",
+     "thai": "การเสื่อมถอย, การลดประสิทธิภาพ",
+     "level": "C1",
+     "example": "The degradation affecting Actions has been mitigated."
+    },
+    {
+     "word": "intermittent",
+     "thai": "เป็นๆ หายๆ, ไม่ต่อเนื่อง",
+     "level": "C1",
+     "example": "We are investigating elevated errors and intermittent failures affecting GitHub."
+    },
+    {
+     "word": "availability",
+     "thai": "ความพร้อมใช้งาน",
+     "level": "B2",
+     "example": "Pull Requests is experiencing degraded availability."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 10,
+   "msg_id": 539,
+   "sent_ts": "2026-11-04T18:44:54.943528+07:00"
+  },
+  {
+   "id": 921,
+   "ts": "2026-11-04T18:44:54.943731+07:00",
+   "title": "The lost malloc()",
+   "link": "https://napcakes.nekoweb.org/posts/malloc/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Provides historical computer science context on early memory allocation in Unix, interesting for low-level developers.",
+   "summary": "An analysis of early Unix source code explores how early versions handled memory allocation using simple linear allocators and custom routines. The historical code highlights the simplicity of operating system design from over fifty years ago.",
+   "vocab": [
+    {
+     "word": "archaeology",
+     "thai": "โบราณคดี (ในที่นี้หมายถึงการขุดคุ้ยประวัติศาสตร์ซอฟต์แวร์)",
+     "level": "B2",
+     "example": "I did some Unix archaeology and looked at the original sources."
+    },
+    {
+     "word": "monolithic",
+     "thai": "ที่เป็นชิ้นเดียวกันทั้งหมด, ขนาดใหญ่และรวมศูนย์",
+     "level": "C1",
+     "example": "It wasn't a monolithic compiler as we know it today."
+    },
+    {
+     "word": "fascinating",
+     "thai": "น่าหลงใหล, น่าสนใจมาก",
+     "level": "B2",
+     "example": "Isn't that fascinating how this routine is used throughout the program?"
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 922,
+   "ts": "2026-11-04T18:44:54.943787+07:00",
+   "title": "Distinct cellular and genetic differences in colorectal cancer in young patients",
+   "link": "https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on medical and cancer research biology, completely unrelated to IT or data center operations.",
+   "summary": "Researchers have uncovered distinct cellular and genetic differences in colorectal tumors found in younger patients. The study aims to provide a foundation for developing better prevention and treatment strategies for early-onset cancer.",
+   "vocab": [
+    {
+     "word": "composition",
+     "thai": "องค์ประกอบ",
+     "level": "B2",
+     "example": "Researchers identified age-associated differences in tumor composition and gene activity."
+    },
+    {
+     "word": "collaborative",
+     "thai": "ที่ร่วมมือกัน",
+     "level": "B2",
+     "example": "This collaborative work gives us important new insight into tumor biology."
+    },
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิม, ตามธรรมเนียม",
+     "level": "B2",
+     "example": "By looking beyond conventional age cutoffs, researchers uncovered new patterns."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 923,
+   "ts": "2026-11-04T18:44:54.943813+07:00",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "link": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers major AI industry developments, safety warnings, and potential risks to critical infrastructure systems.",
+   "summary": "AI pioneer Geoffrey Hinton warned that humanity might have been better off without artificial intelligence due to the risk of severe system blackouts. He criticized tech executives for prioritizing financial gain over safety as the race to build frontier models accelerates.",
+   "vocab": [
+    {
+     "word": "underpinned",
+     "thai": "สนับสนุน, เป็นรากฐาน",
+     "level": "C1",
+     "example": "AI is underpinned by his groundbreaking research into artificial neural networks."
+    },
+    {
+     "word": "supremacy",
+     "thai": "ความเป็นใหญ่, อำนาจสูงสุด",
+     "level": "C1",
+     "example": "Tech leaders are racing for supremacy and market share in AI."
+    },
+    {
+     "word": "akin",
+     "thai": "คล้ายคลึงกัน",
+     "level": "C1",
+     "example": "He viewed recent agent hacking incidents as akin to a nuclear warning shot."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 9
   }
  ],
- "next_id": 907,
+ "next_id": 924,
  "vocab": [
-  {
-   "word": "intrusion",
-   "thai": "การบุกรุกหรือการลักลอบเจาะเข้าระบบ",
-   "level": "B2",
-   "example": "Not all digital intrusions remain in cyberspace without affecting the real world.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "asymmetric",
-   "thai": "ไม่สมมาตรหรือไม่เท่ากันสองด้าน",
-   "level": "C1",
-   "example": "The model uses an asymmetric parameter split between input and output to lower compute requirements.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "authentication",
-   "thai": "การยืนยันตัวตน",
-   "level": "B2",
-   "example": "Downloads require authentication, so add the repository and credentials to your build to resolve them.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dependency",
-   "thai": "ส่วนประกอบที่ต้องพึ่งพาในการทำงานของโปรแกรม",
-   "level": "B2",
-   "example": "Keep Maven Central configured alongside it, since OpenRewrite's transitive dependencies still resolve from there.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "explicit",
-   "thai": "ที่ระบุไว้อย่างชัดเจน",
-   "level": "B2",
-   "example": "The use of the bill of materials means that a developer will only need to specify explicit versions of the BOM.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "sobering",
    "thai": "ทำให้ได้สติหรือตาสว่าง",
@@ -24877,6 +25280,56 @@
    "thai": "ภาวะชะงักงัน, การเผชิญหน้าที่ไม่มีใครยอมใคร",
    "level": "C1",
    "example": "The regulatory standoff could delay regional broadband deployment.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "powertrain",
+   "thai": "ระบบส่งกำลังหรือระบบจ่ายพลังงาน",
+   "level": "C1",
+   "example": "The power infrastructure behind an AI factory can be thought of as a powertrain.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "energization",
+   "thai": "การจ่ายกระแสไฟฟ้าเข้าสู่ระบบ",
+   "level": "C1",
+   "example": "Protection coordination, redundancy, and transfer strategies should be understood before energization.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "degradation",
+   "thai": "การเสื่อมถอย, การลดประสิทธิภาพ",
+   "level": "C1",
+   "example": "The degradation affecting Actions has been mitigated.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intermittent",
+   "thai": "เป็นๆ หายๆ, ไม่ต่อเนื่อง",
+   "level": "C1",
+   "example": "We are investigating elevated errors and intermittent failures affecting GitHub.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "availability",
+   "thai": "ความพร้อมใช้งาน",
+   "level": "B2",
+   "example": "Pull Requests is experiencing degraded availability.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
