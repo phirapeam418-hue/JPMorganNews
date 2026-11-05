@@ -1918,47 +1918,17 @@
   "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
   "https://www.datacenterdynamics.com/en/analysis/everything-you-need-to-know-about-in-line-amplifiers/",
   "https://www.datacenterdynamics.com/en/news/quint-computing-raises-91-million-for-development-of-fault-tolerant-quantum-computing-architecture/",
-  "https://www.datacenterdynamics.com/en/opinions/how-nickel-zinc-is-advancing-in-rack-energy-storage-for-the-ai-era/"
+  "https://www.datacenterdynamics.com/en/opinions/how-nickel-zinc-is-advancing-in-rack-energy-storage-for-the-ai-era/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+  "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/",
+  "https://www.datacenterdynamics.com/en/news/21-injured-in-mackenzie-bc-bus-crash-involving-iren-contractor/",
+  "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/",
+  "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+  "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
+  "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
+  "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
  ],
  "stories": [
-  {
-   "id": 531,
-   "ts": "2026-10-23T05:51:15.845158+07:00",
-   "title": "Max-severity GitLab bug allows remote code execution over 12 years of releases",
-   "link": "https://www.theregister.com/security/2026/10/22/max-severity-gitlab-bug-allows-remote-code-execution-over-12-years-of-releases/5304854",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": false,
-   "reason": "Critical maximum-severity RCE flaw affecting GitLab enterprise instances, demanding immediate patching from DevOps and infrastructure engineers.",
-   "summary": "GitLab has patched a critical remote code execution vulnerability that affects versions spanning over 12 years of releases. Infrastructure administrators must patch their self-managed GitLab servers immediately to prevent full system compromise.",
-   "vocab": [
-    {
-     "word": "severity",
-     "thai": "ความรุนแรง",
-     "level": "B2",
-     "example": "A max-severity GitLab bug allows remote code execution."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราว / ระยะสั้น",
-     "level": "B2",
-     "example": "Ubuntu interim releases are getting interesting again."
-    },
-    {
-     "word": "persistent",
-     "thai": "คงอยู่ต่อเนื่อง / ดื้อดึง",
-     "level": "B2",
-     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 288,
-   "sent_ts": "2026-10-23T12:58:03.220073+07:00"
-  },
   {
    "id": 532,
    "ts": "2026-10-23T09:28:41.042134+07:00",
@@ -17834,9 +17804,297 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 962,
+   "ts": "2026-11-06T06:01:24.644518+07:00",
+   "title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Microsoft declined an expansion of its Texas compute lease with Nscale, which directly impacts major AI infrastructure planning.",
+   "summary": "Microsoft passed on an option to expand its large AI data center compute agreement with Nscale in Texas. However, Nscale quickly reassigned the capacity to other major tech firms and robotics companies.",
+   "vocab": [
+    {
+     "word": "backlog",
+     "thai": "ยอดค้างส่ง / งานที่ยังค้างอยู่",
+     "level": "B2",
+     "example": "The source told DCD that the Ionic Digital site planned to expand capacity, contributing to Nscale's total backlog worth $103bn."
+    },
+    {
+     "word": "prospectus",
+     "thai": "หนังสือชี้ชวนการลงทุน",
+     "level": "C1",
+     "example": "The company published its IPO prospectus in September, which noted that Nscale has five active data centers."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่ากิจการ",
+     "level": "B2",
+     "example": "Nscale is in the process of launching an initial public offering, targeting a valuation of up to $35bn."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 963,
+   "ts": "2026-11-06T06:01:24.644571+07:00",
+   "title": "Two dead and five injured following fire at Panasonic chip packaging facility in Taiwan",
+   "link": "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A fatal factory fire at a Panasonic chip packaging plant in Taiwan affects semiconductor supply chains.",
+   "summary": "A severe fire and explosion at a Panasonic semiconductor packaging facility in Taiwan resulted in two deaths and five injuries. The incident disrupted operations at the plant used for manufacturing printed circuit boards and chip materials.",
+   "vocab": [
+    {
+     "word": "debris",
+     "thai": "ซากปรักหักพัง",
+     "level": "B2",
+     "example": "Twelve vehicles and 23 firefighters were dispatched to the site, and heavy machinery was required to dig through the debris."
+    },
+    {
+     "word": "deceased",
+     "thai": "ผู้เสียชีวิต",
+     "level": "B2",
+     "example": "It was then that the deceased workers, who had previously been reported missing, were discovered."
+    },
+    {
+     "word": "flammable",
+     "thai": "ติดไฟง่าย",
+     "level": "B2",
+     "example": "Initial reports suggested the fire was caused by flammable chemical solvents used at the factory."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 964,
+   "ts": "2026-11-06T06:01:24.644602+07:00",
+   "title": "21 injured in Mackenzie, B.C., bus crash involving Iren contractor",
+   "link": "https://www.datacenterdynamics.com/en/news/21-injured-in-mackenzie-bc-bus-crash-involving-iren-contractor/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A major bus crash involving data center contractors in Canada caused multiple injuries and activated hospital emergency codes.",
+   "summary": "A bus crash carrying contractors working for an Iren data center in British Columbia left 21 people injured, three seriously. Local hospitals declared a code orange to handle the sudden influx of casualties.",
+   "vocab": [
+    {
+     "word": "chaotic",
+     "thai": "โกลาหล / วุ่นวาย",
+     "level": "B2",
+     "example": "This was a chaotic scene, and police will need time to sort out many of the details."
+    },
+    {
+     "word": "designating",
+     "thai": "กำหนด / บ่งชี้",
+     "level": "B2",
+     "example": "A code orange, designating a large number of injured, was declared at Mackenzie and District Hospital."
+    },
+    {
+     "word": "influx",
+     "thai": "การหลั่งไหลเข้ามา",
+     "level": "C1",
+     "example": "The crash occurred at 9am, while the code orange was lifted later in the day."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 7,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 965,
+   "ts": "2026-11-06T06:01:24.644630+07:00",
+   "title": "OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "OpenAI's new community policies and compute campus pledges directly address the recent wave of local anti-data center pushback.",
+   "summary": "OpenAI has introduced new community pledges and dropped certain non-disclosure agreements with public officials to ease growing local resistance against AI data centers. The company also promised to help stabilize power grids and increase project transparency.",
+   "vocab": [
+    {
+     "word": "pledge",
+     "thai": "คำมั่นสัญญา",
+     "level": "B2",
+     "example": "OpenAI has detailed its community pledges for locations where it plans to build and operate data centers."
+    },
+    {
+     "word": "concretely",
+     "thai": "อย่างเป็นรูปธรรม",
+     "level": "B2",
+     "example": "More concretely, OpenAI said that it will no longer use non-disclosure agreements with public officials."
+    },
+    {
+     "word": "differentiating",
+     "thai": "การสร้างความแตกต่าง",
+     "level": "B2",
+     "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 966,
+   "ts": "2026-11-06T06:01:24.644664+07:00",
+   "title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
+   "link": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Caterpillar is significantly ramping up production of large reciprocating engines and turbines due to massive data center power demand.",
+   "summary": "Heavy machinery giant Caterpillar reported record earnings driven by soaring demand for backup and primary power generation in data centers. The company plans to expand manufacturing capacity for large engines and turbines to support AI infrastructure.",
+   "vocab": [
+    {
+     "word": "skyrocketing",
+     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Caterpillar is looking to expand its production of large reciprocating engines to meet skyrocketing demand from the data center sector."
+    },
+    {
+     "word": "anticipate",
+     "thai": "คาดการณ์ล่วงหน้า",
+     "level": "B2",
+     "example": "We continue to anticipate full-year growth in Power Generation for both Cat reciprocating engines and Solar turbines."
+    },
+    {
+     "word": "prime",
+     "thai": "หลัก / สำคัญที่สุด",
+     "level": "B2",
+     "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 967,
+   "ts": "2026-11-06T06:01:24.644694+07:00",
+   "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
+   "link": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Analyst reports warn that over half of US hyperscale data center projects face regulatory friction following the midterm elections.",
+   "summary": "Recent midterm election results and newly elected governors in states like Texas and Ohio could subject over half of the US hyperscale data center pipeline to increased regulatory friction and slowdown risks. Analysts note that while a national moratorium is unlikely, subnational political hurdles will affect future capital expenditures.",
+   "vocab": [
+    {
+     "word": "friction",
+     "thai": "ความขัดแย้ง / แรงเสียดทาน",
+     "level": "B2",
+     "example": "More than half of the US hyperscale data center pipeline could face heightened regulatory friction following the midterm elections."
+    },
+    {
+     "word": "plausibly",
+     "thai": "อย่างเป็นไปได้",
+     "level": "B2",
+     "example": "Texas is already under a construction pause that analysts believe could plausibly extend into late 2027."
+    },
+    {
+     "word": "compress",
+     "thai": "บีบอัด / ลดลง",
+     "level": "C1",
+     "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 968,
+   "ts": "2026-11-06T06:01:24.644721+07:00",
+   "title": "Lambda to develop four-building data center campus in Lowndes County, Alabama",
+   "link": "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Lambda is planning a massive 1GW to 1.5GW AI data center campus in Alabama, representing significant cloud infrastructure expansion.",
+   "summary": "Neocloud provider Lambda has announced plans to develop a 1GW data center campus in Lowndes County, Alabama, with a multi-billion dollar investment. The project will feature closed-loop cooling and is expected to begin construction in early 2027.",
+   "vocab": [
+    {
+     "word": "aggregate",
+     "thai": "รวมทั้งหมด",
+     "level": "B2",
+     "example": "The company agrees to invest at least $16 billion in aggregate capital investment in the project."
+    },
+    {
+     "word": "pending",
+     "thai": "รอดำเนินการ / อยู่ระหว่างพิจารณา",
+     "level": "B2",
+     "example": "The project will be powered by Alabama Power, pending regulatory approval."
+    },
+    {
+     "word": "span",
+     "thai": "ครอบคลุมพื้นที่",
+     "level": "B2",
+     "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 969,
+   "ts": "2026-11-06T06:01:24.644745+07:00",
+   "title": "The White House is apparently a popular residential proxy exit spot",
+   "link": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Contains multiple relevant infrastructure news items including Anthropic's financial projections, server sales trends, and Linux updates.",
+   "summary": "Recent tech industry reports highlight Anthropic's massive compute expenditure forecasts alongside rising on-premise server sales for HPC and AI workloads. Additionally, various security patches and open-source infrastructure releases were announced.",
+   "vocab": [
+    {
+     "word": "harden",
+     "thai": "ทำให้ปลอดภัยยิ่งขึ้น / เสริมความมั่นคง",
+     "level": "B2",
+     "example": "The DEF CON Franklin project enlists hackers to help harden critical infrastructure."
+    },
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "openSUSE Leap 16.1 gives Linux users the right to remain immutable with read-only systems."
+    },
+    {
+     "word": "spruce",
+     "thai": "ตกแต่งให้ดูเรียบร้อยสวยงาม",
+     "level": "C1",
+     "example": "The nearly 30-year-old desktop environment gets spruced up in the latest release."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 962,
+ "next_id": 970,
  "vocab": [
   {
    "word": "critical",
