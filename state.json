@@ -1902,7 +1902,15 @@
   "https://www.theregister.com/offbeat/2026/11/04/turn-your-home-into-a-giant-crane-game-with-this-open-source-robot/5307628",
   "https://www.theregister.com/ai-and-ml/2026/11/04/boffins-use-machine-learning-tricks-to-create-a-starlight-dimmer-switch/5307625",
   "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
-  "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466"
+  "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466",
+  "https://www.datacenterdynamics.com/en/marketwatch/from-compute-race-to-data-showdown-the-agent-era-will-be-won-in-the-storage-layer/",
+  "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
+  "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732",
+  "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
+  "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
+  "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
+  "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
+  "https://blog.cloudflare.com/personal-agents-visibility-control/"
  ],
  "stories": [
   {
@@ -18970,40 +18978,302 @@
    "credibility": 9,
    "msg_id": 559,
    "sent_ts": "2026-11-05T14:52:21.195154+07:00"
+  },
+  {
+   "id": 946,
+   "ts": "2026-11-05T15:43:29.885578+07:00",
+   "title": "Sponsored: From compute race to data showdown: The agent era will be won in the storage layer",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/from-compute-race-to-data-showdown-the-agent-era-will-be-won-in-the-storage-layer/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Huawei outlines enterprise AI infrastructure strategies shifting from compute capacity to data storage layers.",
+   "summary": "Huawei executives explain that enterprise AI is moving from compute power to data storage and management. Proper data architecture is now essential for efficient AI reasoning, agent operations, and reducing hallucinations.",
+   "vocab": [
+    {
+     "word": "astronomically",
+     "thai": "อย่างมหาศาล",
+     "level": "C1",
+     "example": "Global computing capacity grew astronomically as customers rushed to buy GPUs."
+    },
+    {
+     "word": "converged",
+     "thai": "มาบรรจบกัน",
+     "level": "C1",
+     "example": "Computing power and algorithms have converged, making it difficult to build differentiated advantages."
+    },
+    {
+     "word": "appreciate",
+     "thai": "มีมูลค่าเพิ่มขึ้น",
+     "level": "B2",
+     "example": "Only data continues to appreciate in value long-term as business operations progress."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 947,
+   "ts": "2026-11-05T15:43:29.885616+07:00",
+   "title": "When datacenters lose power, generators should kick in. That didn’t happen for Google in London",
+   "link": "https://www.theregister.com/off-prem/2026/11/05/when-datacenters-lose-power-generators-should-kick-in-that-didnt-happen-for-google-in-london/5307739",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": true,
+   "reason": "Covers a critical data center power failure incident at Google in London.",
+   "summary": "Google's data center in London experienced a serious power outage when backup generators failed to activate. The incident highlights potential vulnerabilities in critical facility infrastructure and backup power systems.",
+   "vocab": [
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "When datacenters lose power, generators should kick in, but that didn't happen during the incident."
+    },
+    {
+     "word": "vulnerabilities",
+     "thai": "จุดอ่อน",
+     "level": "B2",
+     "example": "The power failure exposed unexpected vulnerabilities in the backup power systems."
+    },
+    {
+     "word": "facility",
+     "thai": "สิ่งอำนวยความสะดวก",
+     "level": "B2",
+     "example": "The facility requires robust backup power to ensure continuous uptime."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 560,
+   "sent_ts": "2026-11-05T15:43:30.687167+07:00"
+  },
+  {
+   "id": 948,
+   "ts": "2026-11-05T15:43:30.687528+07:00",
+   "title": "VMware quietly offers European users extended sales and support for low-end vSphere",
+   "link": "https://www.theregister.com/virtualization/2026/11/05/vmware-quietly-offers-european-users-extended-sales-and-support-for-low-end-vsphere/5307732",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "VMware extends lifecycle support for low-end vSphere, affecting enterprise IT infrastructure management.",
+   "summary": "VMware is quietly offering European users extended sales and support options for low-end vSphere products. This provides relief for enterprise customers managing legacy server virtualization budgets.",
+   "vocab": [
+    {
+     "word": "extended",
+     "thai": "ขยายเวลา",
+     "level": "B2",
+     "example": "VMware quietly offers European users extended sales and support for low-end vSphere."
+    },
+    {
+     "word": "legacy",
+     "thai": "ระบบรุ่นเก่า",
+     "level": "B2",
+     "example": "Many companies still rely on legacy server infrastructure for daily operations."
+    },
+    {
+     "word": "budget",
+     "thai": "งบประมาณ",
+     "level": "B1",
+     "example": "Customers are sweating assets amid tight budgets for IT infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 949,
+   "ts": "2026-11-05T15:43:30.687573+07:00",
+   "title": "Microsoft admits certifications can be a drag, launches creds that recognize skills",
+   "link": "https://www.theregister.com/software/2026/11/05/microsoft-admits-certifications-can-be-a-drag-launches-creds-that-recognize-skills/5307725",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Microsoft updates its professional certification and credentialing programs for tech workers.",
+   "summary": "Microsoft is adjusting its credential programs to focus more on practical skills rather than traditional exams. The shift aims to better reflect real-world technical proficiencies in cloud and DevOps roles.",
+   "vocab": [
+    {
+     "word": "proficiency",
+     "thai": "ความเชี่ยวชาญ",
+     "level": "C1",
+     "example": "The new credentials aim to measure practical technical proficiency."
+    },
+    {
+     "word": "traditional",
+     "thai": "แบบดั้งเดิม",
+     "level": "B1",
+     "example": "Microsoft admits traditional certifications can sometimes be a drag on hiring."
+    },
+    {
+     "word": "practical",
+     "thai": "ใช้งานได้จริง",
+     "level": "B1",
+     "example": "New credentials recognize hands-on skills over theoretical exam knowledge."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 950,
+   "ts": "2026-11-05T15:43:30.687603+07:00",
+   "title": "Uber says it alone can make robotaxis pay, hours after Waymo quit its app",
+   "link": "https://www.theregister.com/personal-tech/2026/11/05/uber-says-it-alone-can-make-robotaxis-pay-hours-after-waymo-quit-its-app/5307718",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "App-level industry news regarding Uber and Waymo robotaxis, tangential to core infrastructure.",
+   "summary": "Uber claims it can make autonomous robotaxis profitable shortly after Waymo leaves its booking app. The shift alters the competitive landscape for urban mobility software platforms.",
+   "vocab": [
+    {
+     "word": "autonomous",
+     "thai": "ไร้คนขับ",
+     "level": "C1",
+     "example": "Uber says it can make autonomous robotaxis profitable at scale."
+    },
+    {
+     "word": "landscape",
+     "thai": "สภาพแวดล้อม",
+     "level": "B2",
+     "example": "This move changes the competitive landscape for ride-hailing services."
+    },
+    {
+     "word": "profitable",
+     "thai": "ที่ทำกำไรได้",
+     "level": "B2",
+     "example": "Companies are trying to find ways to make robotaxis profitable."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 951,
+   "ts": "2026-11-05T15:43:30.687628+07:00",
+   "title": "Meta brings Conductor on board its model train",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/meta-brings-conductor-on-board-its-model-train/5307711",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Meta acquires AI agent orchestration startup Conductor, expanding its AI capabilities.",
+   "summary": "Meta has acquired agent orchestration startup Conductor to bolster its AI development efforts. The acquisition helps Meta integrate complex workflow tools into its AI infrastructure.",
+   "vocab": [
+    {
+     "word": "acquisition",
+     "thai": "การเข้าซื้อกิจการ",
+     "level": "C1",
+     "example": "The acquisition gives Meta new capabilities in agent orchestration."
+    },
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ",
+     "level": "C1",
+     "example": "Seamless workflow integration is critical for AI agent platforms."
+    },
+    {
+     "word": "orchestration",
+     "thai": "การประสานการทำงาน",
+     "level": "C2",
+     "example": "Agent orchestration startup Conductor got its exit through Meta."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 952,
+   "ts": "2026-11-05T15:43:30.687660+07:00",
+   "title": "US gov IT worker pleads guilty to sending Top Secret files to Ethiopia",
+   "link": "https://www.theregister.com/security/2026/11/04/us-gov-it-worker-pleads-guilty-to-sending-top-secret-files-to-ethiopia/5307595",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "A US government IT worker pleads guilty to leaking classified files, a security personnel issue.",
+   "summary": "A US government IT worker has pleaded guilty to transmitting Top Secret files to a foreign government. The case underscores ongoing insider threat challenges within public sector IT operations.",
+   "vocab": [
+    {
+     "word": "classified",
+     "thai": "ที่เป็นความลับทางราชการ",
+     "level": "C1",
+     "example": "The IT worker was caught sending classified files to an outside country."
+    },
+    {
+     "word": "insider",
+     "thai": "บุคคลภายในองค์กร",
+     "level": "B2",
+     "example": "Insider threats remain a major challenge for government IT security."
+    },
+    {
+     "word": "prosecution",
+     "thai": "การดำเนินคดี",
+     "level": "C1",
+     "example": "He pleaded guilty to avoid a harsher sentence in court prosecution."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 953,
+   "ts": "2026-11-05T15:43:30.687701+07:00",
+   "title": "See the agents, set the terms: new visibility and control for personal agents",
+   "link": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Cloudflare introduces new bot analytics and security tools to monitor AI personal agents.",
+   "summary": "Cloudflare is launching new analytics tools to help web administrators track and manage traffic from AI personal agents. The feature provides granular visibility and control policies to secure enterprise web applications.",
+   "vocab": [
+    {
+     "word": "intermediary",
+     "thai": "คนกลาง",
+     "level": "C1",
+     "example": "Personal agents act as the intermediary between humans and internet services."
+    },
+    {
+     "word": "granular",
+     "thai": "ที่มีรายละเอียดเจาะลึก",
+     "level": "C2",
+     "example": "New granular access policies allow site owners to control bot traffic precisely."
+    },
+    {
+     "word": "analytics",
+     "thai": "ระบบวิเคราะห์ข้อมูล",
+     "level": "B2",
+     "example": "Security teams use traffic analytics to identify unauthorized automated requests."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 561,
+   "sent_ts": "2026-11-05T15:43:31.441605+07:00"
   }
  ],
- "next_id": 946,
+ "next_id": 954,
  "vocab": [
-  {
-   "word": "enlist",
-   "thai": "ขอความช่วยเหลือหรือเกณฑ์กำลัง",
-   "level": "C1",
-   "example": "The Franklin project enlists hackers to harden critical infrastructure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "diffuse",
-   "thai": "แพร่กระจาย",
-   "level": "C1",
-   "example": "As AI agents diffused through the company, output rose significantly.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "redeployment",
-   "thai": "การโยกย้ายหรือจัดสรรตำแหน่งใหม่",
-   "level": "C1",
-   "example": "As jobs evolve, the company has prioritized internal redeployments.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "critical",
    "thai": "วิกฤต",
@@ -23973,6 +24243,36 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "facility",
+   "thai": "สิ่งอำนวยความสะดวก",
+   "level": "B2",
+   "example": "The facility requires robust backup power to ensure continuous uptime.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intermediary",
+   "thai": "คนกลาง",
+   "level": "C1",
+   "example": "Personal agents act as the intermediary between humans and internet services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "analytics",
+   "thai": "ระบบวิเคราะห์ข้อมูล",
+   "level": "B2",
+   "example": "Security teams use traffic analytics to identify unauthorized automated requests.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -24183,7 +24483,7 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 1
  },
  "level": "B2",
  "answers": []
