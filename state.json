@@ -17171,7 +17171,7 @@
      "example": "Only data continues to appreciate in value long-term as business operations progress."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 5,
    "scale": 8,
@@ -17245,7 +17245,7 @@
      "example": "Customers are sweating assets amid tight budgets for IT infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
@@ -17281,7 +17281,7 @@
      "example": "New credentials recognize hands-on skills over theoretical exam knowledge."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -17317,7 +17317,7 @@
      "example": "Companies are trying to find ways to make robotaxis profitable."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 5,
@@ -17353,7 +17353,7 @@
      "example": "Agent orchestration startup Conductor got its exit through Meta."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -17389,7 +17389,7 @@
      "example": "He pleaded guilty to avoid a harsher sentence in court prosecution."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 3,
@@ -17539,7 +17539,7 @@
      "example": "For critical US market infrastructure, IP provenance and security of supply matter alongside performance."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -17575,7 +17575,7 @@
      "example": "One of the first places the companies trialed an at-the-tower edge module was in Texas."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 7,
@@ -17649,7 +17649,7 @@
      "example": "James Flitton is VP of network development and optimisation at Colt Technology Services."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
@@ -17685,7 +17685,7 @@
      "example": "The race to build commercially viable quantum computers is gaining momentum."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -17721,7 +17721,7 @@
      "example": "What matters is the combination of characteristics the underlying energy storage technology can provide."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
@@ -17795,7 +17795,7 @@
      "example": "Initial reports suggested the fire was caused by flammable chemical solvents used at the factory."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 6,
    "scale": 4,
@@ -17831,7 +17831,7 @@
      "example": "The crash occurred at 9am, while the code orange was lifted later in the day."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 7,
    "scale": 3,
@@ -17905,11 +17905,13 @@
      "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 576,
+   "sent_ts": "2026-11-06T14:52:20.549379+07:00"
   },
   {
    "id": 967,
@@ -17941,14 +17943,16 @@
      "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
    "credibility": 9,
    "extra_links": [
     "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790"
-   ]
+   ],
+   "msg_id": 577,
+   "sent_ts": "2026-11-06T14:52:21.263405+07:00"
   },
   {
    "id": 968,
@@ -17980,11 +17984,13 @@
      "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 7,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 578,
+   "sent_ts": "2026-11-06T14:52:21.922386+07:00"
   },
   {
    "id": 969,
@@ -18016,11 +18022,13 @@
      "example": "The nearly 30-year-old desktop environment gets spruced up in the latest release."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 579,
+   "sent_ts": "2026-11-06T14:52:23.364375+07:00"
   },
   {
    "id": 970,
@@ -18052,11 +18060,13 @@
      "example": "Teams need to monitor infrastructure closely during weekends."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 580,
+   "sent_ts": "2026-11-06T14:52:24.012915+07:00"
   },
   {
    "id": 971,
@@ -18088,7 +18098,7 @@
      "example": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 6,
    "scale": 5,
@@ -18124,11 +18134,13 @@
      "example": "The cloud giant refits its agentic dev tools for agent orchestration."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 581,
+   "sent_ts": "2026-11-06T14:52:24.925901+07:00"
   },
   {
    "id": 973,
@@ -18160,11 +18172,13 @@
      "example": "Administrators must review their server configuration for vulnerable packages."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 574,
+   "sent_ts": "2026-11-06T14:52:19.045596+07:00"
   },
   {
    "id": 974,
@@ -18196,7 +18210,7 @@
      "example": "Attackers gained unauthorized access to sensitive law enforcement tokens."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
@@ -18232,7 +18246,7 @@
      "example": "This popular Linux distribution offers conventional and read-only systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
@@ -18268,7 +18282,7 @@
      "example": "The model assists engineers with automated vulnerability discovery."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 7,
    "scale": 7,
@@ -18304,7 +18318,7 @@
      "example": "Teams experienced unexpected throttling when hitting service limits."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 8,
@@ -18340,7 +18354,7 @@
      "example": "The firm initially denied the data was genuine."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -18376,7 +18390,7 @@
      "example": "Buyers face severe price increases and ongoing shortages."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 8,
    "scale": 9,
@@ -18412,7 +18426,7 @@
      "example": "The software giant released another patch to resolve the issue."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -18448,7 +18462,7 @@
      "example": "This could allow threat actors to cross corporate boundaries."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
@@ -18484,7 +18498,7 @@
      "example": "No specific cybercrime gang has claimed responsibility for the incident yet."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 7,
    "scale": 5,
@@ -18520,7 +18534,7 @@
      "example": "Sites need mechanisms to verify automated users."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 6,
    "scale": 8,
@@ -18556,7 +18570,7 @@
      "example": "Users expressed frustration over the leak."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 8,
    "scale": 7,
@@ -18592,7 +18606,7 @@
      "example": "The software manages the workload cluster lifecycle, including upgrades and node replacement."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 7,
    "scale": 6,
@@ -18628,7 +18642,7 @@
      "example": "It far surpasses previous models on standard intelligence index benchmarks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
@@ -18664,11 +18678,13 @@
      "example": "Administrators should check their SSH configuration file for vulnerable settings."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 575,
+   "sent_ts": "2026-11-06T14:52:19.828605+07:00"
   },
   {
    "id": 988,
@@ -18700,7 +18716,7 @@
      "example": "Closed models were able to undercut open alternatives on price and capability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 7,
@@ -18709,196 +18725,6 @@
  ],
  "next_id": 989,
  "vocab": [
-  {
-   "word": "flagship",
-   "thai": "โครงการสำคัญที่สุด, เรือธง",
-   "level": "B2",
-   "example": "Tech giant walks away from flagship Essex project.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unauthenticated",
-   "thai": "ที่ไม่ได้ยืนยันตัวตน",
-   "level": "C1",
-   "example": "The flaw allows unauthenticated command execution on affected appliances.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "probe",
-   "thai": "ตรวจสอบหรือสืบสวนหาความจริง",
-   "level": "B2",
-   "example": "The provider shut down services to probe a potential security flaw.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "snafu",
-   "thai": "ความวุ่นวายโกลาหลหรือข้อผิดพลาดร้ายแรง",
-   "level": "C2",
-   "example": "Engineers worked urgently to resolve the unexpected security snafu.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "cease",
-   "thai": "ยุติ",
-   "level": "B2",
-   "example": "Will wonders never cease?",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "wits",
-   "thai": "สติปัญญา",
-   "level": "C1",
-   "example": "This week I somehow kept my wits together long enough to keep track of the day of the week.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "alternative",
-   "thai": "ทางเลือก",
-   "level": "B2",
-   "example": "Significant changes include alternative data-stream support in the ntfs3 filesystem.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "equivalent",
-   "thai": "เท่ากัน / มีค่าเท่ากัน",
-   "level": "B2",
-   "example": "The firm was sold at the equivalent of a multi-billion dollar valuation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "awareness",
-   "thai": "ความตระหนักรู้",
-   "level": "B2",
-   "example": "Raising security awareness helps employees spot suspicious incoming messages.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stable",
-   "thai": "มั่นคง / มีเสถียรภาพ",
-   "level": "B2",
-   "example": "Information security remains an attractive field for a long, stable career.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stifle",
-   "thai": "ยับยั้ง, ขัดขวาง",
-   "level": "C1",
-   "example": "The report claims that the limits stifled Ukraine’s drone defenses.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "investigation",
-   "thai": "การสอบสวน",
-   "level": "B2",
-   "example": "An investigation into the attempted attack in Lithuania is underway.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "onboarding",
-   "thai": "การนำเข้ามาใช้งานหรือเข้าร่วม",
-   "level": "B2",
-   "example": "This data center of 60MW will enable the onboarding of next-generation capabilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "possess",
-   "thai": "ครอบครอง, มี",
-   "level": "B2",
-   "example": "The company that gets the contract will have to possess security clearance.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "distrust",
-   "thai": "การไม่ไว้วางใจหรือไม่ยอมรับความน่าเชื่อถือ",
-   "level": "C1",
-   "example": "Go will reject certificate chains containing distrusted intermediates.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intermediate",
-   "thai": "ซึ่งอยู่ระหว่างกลาง",
-   "level": "B2",
-   "example": "We are blocking trust in a small set of intermediate certificates.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "elevate",
-   "thai": "เพิ่มสูงขึ้น",
-   "level": "B2",
-   "example": "Users are experiencing elevate errors and network failures.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disaggregation",
-   "thai": "การแยกส่วนประกอบออกจากกัน",
-   "level": "C2",
-   "example": "The service relies on prefill and decode disaggregation for efficiency.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "asynchronous",
-   "thai": "ที่ไม่ประสานเวลาพร้อมกัน (ทำงานแบบอะซิงโครนัส)",
-   "level": "C1",
-   "example": "Asynchronous scheduling overlaps CPU batch preparation with device execution.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "disrupted",
    "thai": "ถูกขัดจังหวะ",
@@ -23704,6 +23530,196 @@
    "thai": "การสร้างความแตกต่าง",
    "level": "B2",
    "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "advisory",
+   "thai": "ประกาศเตือนภัย",
+   "level": "C1",
+   "example": "The security advisory urges administrators to update their software immediately.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unauthorized",
+   "thai": "ซึ่งไม่ได้รับอนุญาต",
+   "level": "B2",
+   "example": "The bug could potentially allow unauthorized remote access to the system.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "skyrocketing",
+   "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "Caterpillar is looking to expand its production of large reciprocating engines to meet skyrocketing demand from the data center sector.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "prime",
+   "thai": "หลัก / สำคัญที่สุด",
+   "level": "B2",
+   "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "friction",
+   "thai": "ความขัดแย้ง / แรงเสียดทาน",
+   "level": "B2",
+   "example": "More than half of the US hyperscale data center pipeline could face heightened regulatory friction following the midterm elections.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "plausibly",
+   "thai": "อย่างเป็นไปได้",
+   "level": "B2",
+   "example": "Texas is already under a construction pause that analysts believe could plausibly extend into late 2027.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compress",
+   "thai": "บีบอัด / ลดลง",
+   "level": "C1",
+   "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "aggregate",
+   "thai": "รวมทั้งหมด",
+   "level": "B2",
+   "example": "The company agrees to invest at least $16 billion in aggregate capital investment in the project.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pending",
+   "thai": "รอดำเนินการ / อยู่ระหว่างพิจารณา",
+   "level": "B2",
+   "example": "The project will be powered by Alabama Power, pending regulatory approval.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "span",
+   "thai": "ครอบคลุมพื้นที่",
+   "level": "B2",
+   "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "harden",
+   "thai": "ทำให้ปลอดภัยยิ่งขึ้น / เสริมความมั่นคง",
+   "level": "B2",
+   "example": "The DEF CON Franklin project enlists hackers to help harden critical infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "immutable",
+   "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
+   "level": "C1",
+   "example": "openSUSE Leap 16.1 gives Linux users the right to remain immutable with read-only systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spruce",
+   "thai": "ตกแต่งให้ดูเรียบร้อยสวยงาม",
+   "level": "C1",
+   "example": "The nearly 30-year-old desktop environment gets spruced up in the latest release.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fintechs",
+   "thai": "บริษัทเทคโนโลยีทางการเงิน",
+   "level": "B2",
+   "example": "Threat actor targets Indian fintechs on weekends when defenders aren't watching.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "defenders",
+   "thai": "ผู้ปกป้องระบบหรือเจ้าหน้าที่ความปลอดภัย",
+   "level": "B2",
+   "example": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "monitor",
+   "thai": "ตรวจสอบเฝ้าระวัง",
+   "level": "B2",
+   "example": "Teams need to monitor infrastructure closely during weekends.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "identity",
+   "thai": "เอกลักษณ์หรือการระบุตัวตน",
+   "level": "B2",
+   "example": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "capabilities",
+   "thai": "ความสามารถ",
+   "level": "B2",
+   "example": "The cloud giant refits its agentic dev tools for agent orchestration capabilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "orchestration",
+   "thai": "การประสานการทำงานร่วมกันของระบบ",
+   "level": "C1",
+   "example": "The cloud giant refits its agentic dev tools for agent orchestration.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
