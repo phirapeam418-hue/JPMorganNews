@@ -1950,7 +1950,31 @@
   "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
   "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
   "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-  "https://github.com/saragordic/window-sweaters"
+  "https://github.com/saragordic/window-sweaters",
+  "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+  "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
+  "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
+  "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
+  "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/",
+  "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/",
+  "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
+  "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+  "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+  "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+  "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+  "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+  "https://www.datacenterdynamics.com/en/news/iran-linked-ships-circle-subsea-cables-in-the-middle-east-report/",
+  "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+  "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
+  "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
+  "https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187",
+  "https://www.theregister.com/offbeat/2026/11/06/rip-to-the-worlds-ugliest-car/5308198",
+  "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
+  "https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951",
+  "https://www.theregister.com/offbeat/2026/11/06/blue-origin-unveils-more-thrust-less-haste-as-new-glenn-slips-to-2027/5308138",
+  "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
+  "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+  "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059"
  ],
  "stories": [
   {
@@ -18015,9 +18039,801 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 989,
+   "ts": "2026-11-07T03:10:27.116370+07:00",
+   "title": "SpaceXAI plans data center in Arizona, Musk's firm claims it will have 6GW capacity",
+   "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-arizona-cochise-county-elon-musk/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "This article details a massive proposed 6GW AI data center project with significant power infrastructure and grid implications.",
+   "summary": "SpaceXAI has applied for permits to build a massive six-gigawatt data center campus in Arizona. The multi-billion dollar project includes a huge battery storage system to reduce the impact on the local power grid.",
+   "vocab": [
+    {
+     "word": "fluctuate",
+     "thai": "ผันผวน",
+     "level": "B2",
+     "example": "Power usage fluctuates depending on peak demand during the day."
+    },
+    {
+     "word": "foot",
+     "thai": "ออกค่าใช้จ่าย",
+     "level": "C1",
+     "example": "The company is going to foot the bill for major grid upgrades."
+    },
+    {
+     "word": "dispute",
+     "thai": "โต้แย้ง",
+     "level": "B2",
+     "example": "These capacity claims have been disputed by industry analysts."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 990,
+   "ts": "2026-11-07T03:10:27.116417+07:00",
+   "title": "Sponsored: Why SLA risk = Credit risk",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-sla-risk-credit-risk/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "It explains how operational outages and SLA breaches directly affect the financial credit and debt coverage of GPU infrastructure providers.",
+   "summary": "Operational outages in GPU infrastructure can trigger service credits that weaken financial covenants and lender trust. Operators must align SLA commitments with debt financing terms to avoid severe liquidity issues.",
+   "vocab": [
+    {
+     "word": "covenant",
+     "thai": "ข้อกำหนดในสัญญาทางการเงิน",
+     "level": "C1",
+     "example": "Lower cash flow creates covenant pressure on the financing vehicle."
+    },
+    {
+     "word": "remedy",
+     "thai": "การเยียวยาตามสัญญา",
+     "level": "B2",
+     "example": "An availability failure can result in service credits or other contractual remedies."
+    },
+    {
+     "word": "constrain",
+     "thai": "จำกัด",
+     "level": "B2",
+     "example": "The operator may find its ability to reinvest significantly constrained."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 991,
+   "ts": "2026-11-07T03:10:27.116449+07:00",
+   "title": "Two days of anti-data center protests planned across Europe",
+   "link": "https://www.datacenterdynamics.com/en/news/two-days-of-anti-data-center-protest-planned-across-europe/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Coordinated anti-data center protests across Europe highlight growing public and political resistance to large-scale facility expansion.",
+   "summary": "Climate activists have organized coordinated anti-data center protests across nine European countries to demand a halt on new facilities. These demonstrations reflect rising public concern over the environmental and social impacts of digital infrastructure.",
+   "vocab": [
+    {
+     "word": "galvanize",
+     "thai": "กระตุ้นหรือปลุกเร้า",
+     "level": "C1",
+     "example": "The anti-data center movement was galvanized by recent political events."
+    },
+    {
+     "word": "robust",
+     "thai": "เข้มข้นและถี่ถ้วน",
+     "level": "B2",
+     "example": "The mechanism forces robust consideration of environmental harms before building."
+    },
+    {
+     "word": "simultaneously",
+     "thai": "ในเวลาเดียวกัน",
+     "level": "B2",
+     "example": "The two protests occurred simultaneously across different locations."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 992,
+   "ts": "2026-11-07T03:10:27.116479+07:00",
+   "title": "ING Bank looks to sell $500m in data center loans at once, including at Stargate site",
+   "link": "https://www.datacenterdynamics.com/en/news/ing-bank-looks-to-sell-500m-in-data-center-loans-at-once-including-at-stargate-site/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "ING's sale of $500 million in data center loans signals rising market concern over debt levels in the AI and data center sectors.",
+   "summary": "ING Bank is auctioning off half a billion dollars in data center loans amid growing financial uncertainty in the sector. The portfolio includes debt connected to major developers and high-profile AI infrastructure projects.",
+   "vocab": [
+    {
+     "word": "shield",
+     "thai": "ป้องกันหรือปกป้อง",
+     "level": "B2",
+     "example": "Oracle sent a notice to shield itself from potential increased costs."
+    },
+    {
+     "word": "setback",
+     "thai": "อุปสรรคหรือปัญหาที่ทำให้สะดุด",
+     "level": "B2",
+     "example": "Despite setbacks, the first phase was topped out this October."
+    },
+    {
+     "word": "uncertainty",
+     "thai": "ความไม่แน่นอน",
+     "level": "B2",
+     "example": "The auction comes amid growing market uncertainty about debt levels."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 993,
+   "ts": "2026-11-07T03:10:27.116509+07:00",
+   "title": "Why Ireland’s data centers need a new approach to energy resilience",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-irelands-data-centers-need-a-new-approach-to-energy-resilience/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Proposed grid rules in Ireland will force data centers to actively support grid stability during power faults rather than just disconnecting.",
+   "summary": "Ireland is introducing strict new grid regulations that require data centers to stay connected and support stability during power disturbances. Facilities will need to optimize their complete electrical and backup architecture to meet these compliance standards.",
+   "vocab": [
+    {
+     "word": "disturbance",
+     "thai": "ความผิดปกติของระบบหรือการรบกวน",
+     "level": "B2",
+     "example": "Facilities must remain connected during voltage disturbances on the grid."
+    },
+    {
+     "word": "stringent",
+     "thai": "เข้มงวด",
+     "level": "C1",
+     "example": "Large electricity users previously faced less stringent standards."
+    },
+    {
+     "word": "sustain",
+     "thai": "รักษาไว้หรือดำรงไว้",
+     "level": "B2",
+     "example": "That distinction between generators and consumers is becoming harder to sustain."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 994,
+   "ts": "2026-11-07T03:10:27.116536+07:00",
+   "title": "More than 100 protesters break into Microsoft data center construction site in Amsterdam",
+   "link": "https://www.datacenterdynamics.com/en/news/more-than-100-protesters-break-into-microsoft-data-center-construction-site-in-amsterdam/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Protesters breached a major data center construction site in Amsterdam, highlighting physical security risks and local opposition to tech infrastructure.",
+   "summary": "Climate activists broke into a Microsoft data center construction site in Amsterdam as part of broader anti-data center protests in Europe. Police arrested one individual following the disruption, which did not stop overall construction work.",
+   "vocab": [
+    {
+     "word": "condone",
+     "thai": "ยอมรับหรือปล่อยผ่านการกระทำผิด",
+     "level": "C1",
+     "example": "The spokesperson stated that they do not condone unlawful actions."
+    },
+    {
+     "word": "circumvent",
+     "thai": "หลบเลี่ยงกฎระเบียบ",
+     "level": "C1",
+     "example": "The site was accused of trying to circumvent a nationwide ban."
+    },
+    {
+     "word": "threshold",
+     "thai": "เกณฑ์ขั้นต่ำหรือขีดจำกัด",
+     "level": "B2",
+     "example": "The facility is below the floor-area threshold set by national restrictions."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 8,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 995,
+   "ts": "2026-11-07T03:10:27.116568+07:00",
+   "title": "Plans for Poland’s National Data Processing Center fleshed out by NASK",
+   "link": "https://www.datacenterdynamics.com/en/news/plans-for-polands-national-data-processing-center-fleshed-out-by-nask/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Poland is advancing plans for a state-owned 15MW data center complex to secure critical digital government services.",
+   "summary": "Poland's research agency NASK has detailed plans to build a 15-megawatt national data center to host essential government digital services. The project will cost up to $411 million for its first phase and is scheduled for completion by 2029.",
+   "vocab": [
+    {
+     "word": "flesh out",
+     "thai": "เติมรายละเอียดให้สมบูรณ์",
+     "level": "B2",
+     "example": "Plans for the national center were fleshed out by government officials."
+    },
+    {
+     "word": "facilitate",
+     "thai": "อำนวยความสะดวก",
+     "level": "B2",
+     "example": "The facility will use a modular design that facilitates expansion."
+    },
+    {
+     "word": "substantially",
+     "thai": "อย่างมาก",
+     "level": "B2",
+     "example": "The project cost rose substantially due to earlier delays."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 996,
+   "ts": "2026-11-07T03:10:27.116594+07:00",
+   "title": "Deutsche Telekom CEO welcomes SpaceX terrestrial challenge, warns it will cost Musk at least $200bn",
+   "link": "https://www.datacenterdynamics.com/en/news/deutsche-telekom-ceo-welcomes-spacex-terrestrial-challenge-warns-it-will-cost-musk-at-least-200bn/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Deutsche Telekom's CEO emphasized that building a terrestrial telecom network will require massive capital investment from SpaceX.",
+   "summary": "The head of Deutsche Telekom stated that SpaceX will need to invest at least $200 billion to build a competitive ground mobile network. While acknowledging Musk's ambitions, telecom executives argue that satellite spectrum cannot fully replace ground-based tower networks.",
+   "vocab": [
+    {
+     "word": "substitute",
+     "thai": "สิ่งทดแทน",
+     "level": "B2",
+     "example": "Satellite connectivity is not a complete substitute for ground-based networks."
+    },
+    {
+     "word": "assessment",
+     "thai": "การประเมิน",
+     "level": "B2",
+     "example": "The executive shared his assessment that building a network requires huge capital."
+    },
+    {
+     "word": "prospectively",
+     "thai": "ในอนาคตหรือตามที่คาดการณ์",
+     "level": "C1",
+     "example": "He noted the costs needed if one buys the spectrum prospectively."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 997,
+   "ts": "2026-11-07T03:10:57.553481+07:00",
+   "title": "DTE Energy ups five-year utility investment plan to $44bn, cites data center demand",
+   "link": "https://www.datacenterdynamics.com/en/news/dte-energy-ups-five-year-utility-investment-plan-to-44bn-cites-data-center-demand/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "DTE Energy's $44 billion plan highlights massive utility grid expansions driven directly by hyperscale AI data centers.",
+   "summary": "Michigan utility DTE Energy raised its five-year investment plan to $44 billion to support massive data center growth. The expansion includes securing 2.4 gigawatts of power load for major projects involving Oracle, OpenAI, and Google.",
+   "vocab": [
+    {
+     "word": "earmarked",
+     "thai": "ถูกจัดสรรไว้สำหรับวัตถุประสงค์เฉพาะ",
+     "level": "B2",
+     "example": "A further $12bn is earmarked for the electric distribution system."
+    },
+    {
+     "word": "tariff",
+     "thai": "อัตราค่าบริการหรือภาษี",
+     "level": "B2",
+     "example": "The utility filed a large load tariff designed to make data centers cover their own costs."
+    },
+    {
+     "word": "collateral",
+     "thai": "หลักทรัพย์ค้ำประกัน",
+     "level": "C1",
+     "example": "The power supply deals include termination fees and collateral requirements."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 998,
+   "ts": "2026-11-07T03:10:57.553530+07:00",
+   "title": "Ongoing labor dispute sees Micron pause construction at its $4.5bn memory fab in Taoyuan, Taiwan – report",
+   "link": "https://www.datacenterdynamics.com/en/news/ongoing-labor-dispute-sees-micron-pause-construction-at-its-45bn-memory-fab-in-taoyuan-taiwan-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "A paused construction at Micron's primary HBM and DRAM fab could worsen global AI memory hardware shortages.",
+   "summary": "Micron suspended construction at its $4.5 billion memory manufacturing facility in Taiwan due to an unresolved labor dispute with workers. This delay could worsen global memory shortages as data center demand for high-bandwidth memory continues to rise.",
+   "vocab": [
+    {
+     "word": "unionized",
+     "thai": "ซึ่งเข้าร่วมเป็นสมาชิกสหภาพแรงงาน",
+     "level": "B2",
+     "example": "Unionized workers at Samsung called off a proposed strike after reaching an agreement."
+    },
+    {
+     "word": "compensation",
+     "thai": "ค่าตอบแทน",
+     "level": "B2",
+     "example": "Workers fought for increased compensation in the wake of record-breaking profits."
+    },
+    {
+     "word": "persist",
+     "thai": "ยังคงดำเนินอยู่ต่อเนื่อง",
+     "level": "B2",
+     "example": "Memory companies warned that the chip shortage is likely to persist into 2027."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 999,
+   "ts": "2026-11-07T03:10:57.553568+07:00",
+   "title": "Almost 600,000 Nvidia H200s stranded in Hong Kong as Chinese gov’t stalls on import approvals – report",
+   "link": "https://www.datacenterdynamics.com/en/news/almost-600000-nvidia-h200s-stranded-in-hong-kong-as-chinese-govt-stalls-on-import-approvals-report/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Bureaucratic stalls in China are delaying the delivery of hundreds of thousands of Nvidia AI GPUs to major internet companies.",
+   "summary": "Nearly 600,000 Nvidia H200 AI GPUs are currently stuck in Hong Kong while awaiting import approvals from China's government. Although small shipments continue through indirect routes, capacity constraints and trade rules are severely limiting deliveries.",
+   "vocab": [
+    {
+     "word": "intermediaries",
+     "thai": "คนกลางหรือตัวแทน",
+     "level": "C1",
+     "example": "Small quantities of chips have been shipped via intermediaries and indirect routes."
+    },
+    {
+     "word": "provisions",
+     "thai": "ข้อกำหนดหรือเงื่อนไขทางกฎหมาย",
+     "level": "B2",
+     "example": "The regulation came with a number of new provisions that had not been previously announced."
+    },
+    {
+     "word": "smuggle",
+     "thai": "ลักลอบนำเข้าหรือส่งออก",
+     "level": "B2",
+     "example": "He was arrested on charges of violating export-control laws by trying to smuggle GPU servers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1000,
+   "ts": "2026-11-07T03:10:57.553593+07:00",
+   "title": "NTT Data signs 900MW fuel cell supply deal with Bloom Energy",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-data-signs-900mw-fuel-cell-supply-deal-with-bloom-energy/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "NTT Data's 900MW fuel cell agreement addresses grid power constraints to accelerate global AI data center deployments.",
+   "summary": "NTT Data partnered with Bloom Energy to supply 900 megawatts of solid oxide fuel cells for its global data center portfolio. The deal provides an on-site, off-grid power solution to bypass utility grid delays for heavy AI workloads.",
+   "vocab": [
+    {
+     "word": "combustion",
+     "thai": "การเผาไหม้",
+     "level": "C1",
+     "example": "Fuel cells convert fuels into electricity through an electrochemical process without combustion."
+    },
+    {
+     "word": "stationary",
+     "thai": "ที่อยู่กับที่ ไม่เคลื่อนที่",
+     "level": "B2",
+     "example": "They are stationary power generators that convert fuels into electricity."
+    },
+    {
+     "word": "accelerated",
+     "thai": "ที่เร่งความเร็วหรือทำได้เร็วขึ้น",
+     "level": "B2",
+     "example": "Companies securing power quickly will have an accelerated path to revenue."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 1001,
+   "ts": "2026-11-07T03:10:57.553620+07:00",
+   "title": "Iran-linked ships circle subsea cables in the Middle East - report",
+   "link": "https://www.datacenterdynamics.com/en/news/iran-linked-ships-circle-subsea-cables-in-the-middle-east-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Geopolitical threats and ship movements around Middle Eastern subsea cables pose severe operational risks to regional connectivity and cloud sites.",
+   "summary": "Iranian-linked vessels have been detected loitering near critical subsea telecom cables in the Gulf of Oman following threats against regional digital infrastructure. Any damage to these cables could disrupt internet connectivity and cloud operations across multiple Middle Eastern countries.",
+   "vocab": [
+    {
+     "word": "loitering",
+     "thai": "การลอยลำหรือวนเวียนอยู่ในบริเวณใดบริเวณหนึ่ง",
+     "level": "C1",
+     "example": "Vessels were spotted taking unusual routes and loitering over subsea cables."
+    },
+    {
+     "word": "traversing",
+     "thai": "ซึ่งทอดข้ามหรือผ่าน",
+     "level": "C1",
+     "example": "The vessels were hovering over cables traversing the Gulf of Oman."
+    },
+    {
+     "word": "remnants",
+     "thai": "เศษซากที่เหลืออยู่",
+     "level": "C1",
+     "example": "The spokesperson claimed they would sweep the remnants of foreign power out of the region."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1002,
+   "ts": "2026-11-07T03:10:57.553646+07:00",
+   "title": "Google announces $17bn data center campus in Cheyenne, Wyoming",
+   "link": "https://www.datacenterdynamics.com/en/news/google-announces-17bn-data-center-campus-in-cheyenne-wyoming/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Google's $17 billion Wyoming campus introduces a novel power architecture combining natural gas fuel cells with carbon capture.",
+   "summary": "Google announced a $17 billion data center campus in Cheyenne, Wyoming, which could eventually scale up to 2.7 gigawatts. The facility will use natural gas fuel cells paired with carbon capture technology to meet its immense power requirements cleanly.",
+   "vocab": [
+    {
+     "word": "sequestered",
+     "thai": "ถูกกักเก็บอย่างปลอดภัย",
+     "level": "C1",
+     "example": "The associated CO2 will be sequestered and stored at a nearby sequestration hub."
+    },
+    {
+     "word": "parcel",
+     "thai": "ที่ดินแปลงหนึ่ง",
+     "level": "B2",
+     "example": "The campus will be developed on a 716-acre parcel of land."
+    },
+    {
+     "word": "slated",
+     "thai": "มีกำหนดการหรือถูกวางแผนไว้",
+     "level": "B2",
+     "example": "Construction is slated to be completed by 2031."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 1003,
+   "ts": "2026-11-07T03:10:57.553671+07:00",
+   "title": "Playmobil owner to enter data center market with new facility in Dietenhofen, Germany",
+   "link": "https://www.datacenterdynamics.com/en/news/playmobil-owner-to-enter-data-center-market-with-new-facility-in-dietenhofen-germany/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Toy manufacturer Horst Brandstätter Group plans to repurpose a former factory in Germany into a 100MW data center campus.",
+   "summary": "The parent company of toy maker Playmobil plans to convert a former manufacturing factory in Germany into a 100-megawatt data center campus. Named 'Playmobil digital,' the facility aims to serve international cloud providers, local businesses, and AI startups.",
+   "vocab": [
+    {
+     "word": "cornerstone",
+     "thai": "เสาหลักหรือส่วนสำคัญพื้นฐาน",
+     "level": "C1",
+     "example": "The campus would form the cornerstone for a new digital division."
+    },
+    {
+     "word": "contingent",
+     "thai": "ขึ้นอยู่กับปัจจัยอื่น",
+     "level": "C1",
+     "example": "The project will be built in phases, with each new facility contingent on market demand."
+    },
+    {
+     "word": "siphoned",
+     "thai": "ถูกถ่ายโอนหรือดึงออกไปใช้",
+     "level": "C1",
+     "example": "Waste heat from the servers will be siphoned into the municipal heating network."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1004,
+   "ts": "2026-11-07T03:10:57.553698+07:00",
+   "title": "Mac lookalikes multiply as Linux raids Apple's wardrobe",
+   "link": "https://www.theregister.com/os-platforms/2026/11/06/mac-lookalikes-multiply-as-linux-raids-apples-wardrobe/5308070",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "This article is a news compilation covering open-source OS updates, server sales, and minor security patches.",
+   "summary": "The Register published a round-up covering various IT infrastructure developments, including rising on-premise server sales for AI workloads and an open-source tool for VMware migration. It also highlighted Linux desktop updates, SharePoint vulnerabilities, and PyTorch improvements for fault-tolerant GPU training.",
+   "vocab": [
+    {
+     "word": "tackles",
+     "thai": "รับมือหรือจัดการกับปัญหา",
+     "level": "B2",
+     "example": "PyTorch tackles the bad GPU problem to make large-scale AI training more reliable."
+    },
+    {
+     "word": "spike",
+     "thai": "การเพิ่มขึ้นอย่างรวดเร็วและสูงขึ้นมาก",
+     "level": "B2",
+     "example": "The spike in revenue is as much about increased costs as higher sales."
+    },
+    {
+     "word": "unspecified",
+     "thai": "ไม่ได้ระบุไว้อย่างชัดเจน",
+     "level": "B2",
+     "example": "Portion sold was unspecified in the acquisition announcement."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1005,
+   "ts": "2026-11-07T03:11:25.918373+07:00",
+   "title": "Oak Ridge labs gets hybrid quantum-HPC system to test qubit error correction",
+   "link": "https://www.theregister.com/hpc/2026/11/06/oak-ridge-labs-gets-hybrid-quantum-hpc-system-to-test-qubit-error-correction/5308187",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Focuses on high-performance supercomputing research and quantum hardware integration rather than immediate cloud operations.",
+   "summary": "Oak Ridge National Laboratory has deployed a new hybrid quantum-HPC system to test qubit error correction methods. This research aims to make future supercomputing clusters more reliable by combining quantum processors with classic hardware.",
+   "vocab": [
+    {
+     "word": "hybrid",
+     "thai": "แบบผสมผสาน",
+     "level": "B2",
+     "example": "Oak Ridge labs gets a hybrid quantum-HPC system to test qubit error correction."
+    },
+    {
+     "word": "quantum",
+     "thai": "เกี่ยวกับควอนตัม",
+     "level": "B2",
+     "example": "Researchers are combining quantum computing with traditional supercomputers."
+    },
+    {
+     "word": "simulation",
+     "thai": "การจำลอง",
+     "level": "B2",
+     "example": "The system will run advanced simulation tasks to detect hardware errors."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1006,
+   "ts": "2026-11-07T03:11:25.918441+07:00",
+   "title": "DoJ's 'Super Intelligence Task Force' up and running",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/06/dojs-super-intelligence-task-force-up-and-running/5308074",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers legal and regulatory policy around frontier AI models, which indirectly touches on governance for AI infrastructure.",
+   "summary": "The US Department of Justice has established a specialized task force dedicated to overseeing advanced artificial intelligence technology. The group will focus on mitigating security risks and prosecuting AI-assisted crimes.",
+   "vocab": [
+    {
+     "word": "oversight",
+     "thai": "การกำกับดูแล",
+     "level": "C1",
+     "example": "The new task force will provide regulatory oversight for AI models."
+    },
+    {
+     "word": "enforcement",
+     "thai": "การบังคับใช้กฎหมาย",
+     "level": "B2",
+     "example": "Law enforcement agencies are monitoring risks associated with frontier AI."
+    },
+    {
+     "word": "initiative",
+     "thai": "ข้อคิดริเริ่ม",
+     "level": "B2",
+     "example": "The Department of Justice launched an initiative to address AI crime."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1007,
+   "ts": "2026-11-07T03:11:25.918471+07:00",
+   "title": "Crowd fave Linux Mint update approaches, fresh from autumn release of Cinnamon desktop",
+   "link": "https://www.theregister.com/os-platforms/2026/11/06/crowd-fave-linux-mint-update-approaches-fresh-from-autumn-release-of-cinnamon-desktop/5307951",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers desktop Linux operating systems rather than enterprise server infrastructure or data center administration.",
+   "summary": "The developers of Linux Mint are preparing to release version 27 featuring updates to the Cinnamon desktop environment. The new version brings stability enhancements and improved display server support for desktop users.",
+   "vocab": [
+    {
+     "word": "environment",
+     "thai": "สภาพแวดล้อม (ระบบ)",
+     "level": "B2",
+     "example": "The Cinnamon desktop environment offers improved display server support."
+    },
+    {
+     "word": "adoption",
+     "thai": "การนำมาใช้",
+     "level": "B2",
+     "example": "Linux Mint continues to see steady adoption among desktop users."
+    },
+    {
+     "word": "stability",
+     "thai": "ความเสถียร",
+     "level": "B2",
+     "example": "The new update focuses on enhancing overall system stability."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1008,
+   "ts": "2026-11-07T03:11:25.918520+07:00",
+   "title": "DigiCert admits 16-month security lapse exposed customer information",
+   "link": "https://www.theregister.com/security/2026/11/06/digicert-admits-16-month-security-lapse-exposed-customer-information/5308097",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A major security certificate authority exposed customer account information, affecting enterprise infrastructure security posture.",
+   "summary": "Certificate authority DigiCert revealed a security misconfiguration that exposed customer account details over a 16-month period. Infrastructure and security engineering teams should audit their DigiCert accounts to gauge potential risk exposure.",
+   "vocab": [
+    {
+     "word": "lapse",
+     "thai": "ความผิดพลาดชั่วขณะ/การหละหลวม",
+     "level": "C1",
+     "example": "DigiCert admitted to a security lapse that exposed customer data."
+    },
+    {
+     "word": "misconfiguration",
+     "thai": "การตั้งค่าระบบผิดพลาด",
+     "level": "C1",
+     "example": "A server misconfiguration went undetected for sixteen months."
+    },
+    {
+     "word": "exposure",
+     "thai": "การเปิดรับความเสี่ยง",
+     "level": "B2",
+     "example": "Security teams must evaluate their exposure to the data leak."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1009,
+   "ts": "2026-11-07T03:11:25.918551+07:00",
+   "title": "Home Office cloud services contract may net AWS £1B",
+   "link": "https://www.theregister.com/public-sector/2026/11/06/home-office-cloud-services-contract-may-net-aws-1b/5308106",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Details large-scale enterprise public cloud spending, offering useful market context on AWS cloud operations contracts.",
+   "summary": "The UK Home Office is extending its public cloud infrastructure agreement with Amazon Web Services, potentially reaching one billion pounds in value. The deal highlights massive government reliance on major public cloud providers for operational workloads.",
+   "vocab": [
+    {
+     "word": "expenditure",
+     "thai": "รายจ่าย/การใช้จ่าย",
+     "level": "C1",
+     "example": "The government approved a major expenditure for public cloud services."
+    },
+    {
+     "word": "dependency",
+     "thai": "การพึ่งพาอาศัย",
+     "level": "B2",
+     "example": "Growing dependency on single cloud vendors creates strategic risks."
+    },
+    {
+     "word": "framework",
+     "thai": "กรอบทำงาน/ข้อตกลงกรอบงาน",
+     "level": "B2",
+     "example": "The enterprise signed a broad procurement framework with AWS."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1010,
+   "ts": "2026-11-07T03:11:25.918575+07:00",
+   "title": "Bank of England pours cold water on AI productivity boom",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/06/bank-of-england-pours-cold-water-on-ai-productivity-boom/5308059",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses economic views on AI ROI, which influences long-term data center capital investment and hyperscale capacity planning.",
+   "summary": "The Bank of England has cast doubt on claims of an immediate economic productivity spike driven by artificial intelligence adoption. Officials noted that major corporate returns on heavy AI hardware spending may take significantly longer to realize.",
+   "vocab": [
+    {
+     "word": "skepticism",
+     "thai": "ความกังขา/ความสงสัย",
+     "level": "C1",
+     "example": "Economists expressed skepticism about sudden productivity spikes."
+    },
+    {
+     "word": "materialize",
+     "thai": "ปรากฏเป็นรูปธรรม",
+     "level": "C1",
+     "example": "Expected financial returns may take several years to materialize."
+    },
+    {
+     "word": "transformational",
+     "thai": "เกี่ยวกับการเปลี่ยนแปลงอย่างสิ้นเชิง",
+     "level": "C1",
+     "example": "The central bank questioned whether AI would offer transformational gains immediately."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 989,
+ "next_id": 1011,
  "vocab": [
   {
    "word": "disrupted",
@@ -23228,7 +24044,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
