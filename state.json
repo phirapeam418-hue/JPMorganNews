@@ -1926,117 +1926,33 @@
   "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
   "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
   "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
-  "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969"
+  "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
+  "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+  "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+  "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+  "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+  "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+  "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
+  "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+  "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+  "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+  "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+  "https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782",
+  "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790",
+  "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+  "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+  "https://blog.cloudflare.com/trusted-agent-delegation/",
+  "https://github.com/anthropics/claude-code/issues/107757",
+  "https://sshhole.com",
+  "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+  "https://github.com/dsx-ai-factory/nvke",
+  "https://thinkingmachines.ai/news/inkling-2-small/",
+  "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+  "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+  "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+  "https://github.com/saragordic/window-sweaters"
  ],
  "stories": [
-  {
-   "id": 532,
-   "ts": "2026-10-23T09:28:41.042134+07:00",
-   "title": "Docker is weird",
-   "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Offers an insightful technical breakdown of Linux container internals, which is relevant for infrastructure and DevOps engineers.",
-   "summary": "A developer building a custom container runtime explains the low-level Linux mechanisms behind Docker, including namespaces and cgroups. Understanding these architectural details helps infrastructure engineers grasp the security and networking trade-offs in containerized environments.",
-   "vocab": [
-    {
-     "word": "restriction",
-     "thai": "ข้อจำกัด",
-     "level": "B2",
-     "example": "Unlike VMs, containers are just processes with special restrictions on them."
-    },
-    {
-     "word": "isolate",
-     "thai": "แยกส่วนหรือกักกัน",
-     "level": "B2",
-     "example": "There is a whole bunch of networking magic that lets you isolate a container's network."
-    },
-    {
-     "word": "approximate",
-     "thai": "จำลองหรือเลียนแบบให้ใกล้เคียง",
-     "level": "C1",
-     "example": "To get around this, runc execs the process to approximate a fork."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 533,
-   "ts": "2026-10-23T09:28:41.042181+07:00",
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "link": "https://www.anthropic.com/research/formal-verification",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers high-level AI applications in formal verification for systems code, which affects security auditing of server software.",
-   "summary": "Researchers demonstrated that large language models can generate formal verification proofs at scale to mathematically prove software security. This breakthrough detected subtle bugs in open-source assembly libraries and could significantly enhance future system-level code security.",
-   "vocab": [
-    {
-     "word": "adept",
-     "thai": "เชี่ยวชาญ",
-     "level": "C1",
-     "example": "Even mature, heavily tested software contains bugs, and LLMs are increasingly adept at finding them."
-    },
-    {
-     "word": "devoid",
-     "thai": "ปราศจาก",
-     "level": "C1",
-     "example": "Repeating this process will ultimately yield proof that the code is devoid of any bug."
-    },
-    {
-     "word": "elude",
-     "thai": "หลบหลีกหรือรอดพ้นไปได้",
-     "level": "C1",
-     "example": "Claude also discovered bugs that had eluded detection for years."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 534,
-   "ts": "2026-10-23T09:29:17.771010+07:00",
-   "title": "Comcast loses more customers, claims other ISPs' cheap prices are \"irrational\"",
-   "link": "https://arstechnica.com/tech-policy/2026/10/comcast-loses-more-customers-claims-other-isps-cheap-prices-are-irrational/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "This report centers on consumer broadband market pressures and ISP financial restructuring rather than enterprise infrastructure.",
-   "summary": "Comcast plans significant workforce restructuring after losing 144,000 residential broadband subscribers to competitive fiber and wireless providers. The telecom giant called rival low-cost fiber pricing irrational and will incur over one billion dollars in transition charges.",
-   "vocab": [
-    {
-     "word": "capitalize",
-     "thai": "ฉวยโอกาสหรือหาประโยชน์จากสิ่งใดสิ่งหนึ่ง",
-     "level": "B2",
-     "example": "Comcast historically capitalized on a lack of competition for high-speed wired broadband."
-    },
-    {
-     "word": "irrational",
-     "thai": "ไม่สมเหตุสมผล",
-     "level": "B2",
-     "example": "Fiber construction remains elevated, with pockets of irrational pricing and promotional activity."
-    },
-    {
-     "word": "retention",
-     "thai": "การรักษาลูกค้าหรือบุคลากรไว้",
-     "level": "B2",
-     "example": "We’ve been refining our offers and retention strategies to better manage these transitions."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 9
-  },
   {
    "id": 535,
    "ts": "2026-10-23T15:56:12.737677+07:00",
@@ -17547,11 +17463,13 @@
      "example": "AI's rapid growth is increasing demands on data center infrastructure, and cooling is becoming a critical constraint."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 568,
+   "sent_ts": "2026-11-06T11:02:14.690415+07:00"
   },
   {
    "id": 955,
@@ -17583,11 +17501,13 @@
      "example": "Their engineering depth and procurement capabilities complement our team's experience."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 569,
+   "sent_ts": "2026-11-06T11:02:15.260032+07:00"
   },
   {
    "id": 956,
@@ -17691,11 +17611,13 @@
      "example": "Financial committees warned about increasing leverage and opacity in AI-linked investments."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 570,
+   "sent_ts": "2026-11-06T11:02:15.792921+07:00"
   },
   {
    "id": 959,
@@ -17835,11 +17757,13 @@
      "example": "Nscale is in the process of launching an initial public offering, targeting a valuation of up to $35bn."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 571,
+   "sent_ts": "2026-11-06T11:02:16.390206+07:00"
   },
   {
    "id": 963,
@@ -17943,11 +17867,13 @@
      "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 572,
+   "sent_ts": "2026-11-06T11:02:16.958716+07:00"
   },
   {
    "id": 966,
@@ -17979,7 +17905,7 @@
      "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 8,
    "scale": 9,
@@ -18015,11 +17941,14 @@
      "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790"
+   ]
   },
   {
    "id": 968,
@@ -18051,7 +17980,7 @@
      "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 9,
    "urgency": 7,
    "scale": 9,
@@ -18087,115 +18016,699 @@
      "example": "The nearly 30-year-old desktop environment gets spruced up in the latest release."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 970,
+   "ts": "2026-11-06T11:03:23.620341+07:00",
+   "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
+   "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "It highlights active security threats targeting financial systems during off-hours, directly relevant to security and server operations.",
+   "summary": "Threat actors are increasingly focusing attacks on Indian financial technology companies during weekends when fewer defenders are monitoring networks. This requires operations teams to maintain strict round-the-clock monitoring and automated incident response.",
+   "vocab": [
+    {
+     "word": "fintechs",
+     "thai": "บริษัทเทคโนโลยีทางการเงิน",
+     "level": "B2",
+     "example": "Threat actor targets Indian fintechs on weekends when defenders aren't watching."
+    },
+    {
+     "word": "defenders",
+     "thai": "ผู้ปกป้องระบบหรือเจ้าหน้าที่ความปลอดภัย",
+     "level": "B2",
+     "example": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching."
+    },
+    {
+     "word": "monitor",
+     "thai": "ตรวจสอบเฝ้าระวัง",
+     "level": "B2",
+     "example": "Teams need to monitor infrastructure closely during weekends."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 971,
+   "ts": "2026-11-06T11:03:23.620386+07:00",
+   "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
+   "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "It warns about potential IoT and industrial control system vulnerabilities in commercial refrigeration.",
+   "summary": "Federal authorities are warning grocery store operators to strengthen their cybersecurity defenses against potential freezer hacking sprees. Although no confirmed attacks have hit American supermarkets yet, connected industrial refrigeration systems remain vulnerable.",
+   "vocab": [
+    {
+     "word": "defenses",
+     "thai": "ระบบป้องกัน",
+     "level": "B2",
+     "example": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up."
+    },
+    {
+     "word": "authorities",
+     "thai": "เจ้าหน้าที่ผู้มีอำนาจ",
+     "level": "B2",
+     "example": "Federal authorities issued a warning to supermarket operators."
+    },
+    {
+     "word": "spree",
+     "thai": "ช่วงเวลาของการทำกิจกรรมอย่างต่อเนื่อง (มักในทางลบ)",
+     "level": "C1",
+     "example": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 972,
+   "ts": "2026-11-06T11:03:23.620436+07:00",
+   "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "It covers major cloud provider updates regarding DevOps orchestration tools and identity management.",
+   "summary": "AWS is updating its developer tools to include bot orchestration capabilities and address identity management challenges. This development helps enterprise engineers manage complex multi-agent workflows in cloud environments.",
+   "vocab": [
+    {
+     "word": "identity",
+     "thai": "เอกลักษณ์หรือการระบุตัวตน",
+     "level": "B2",
+     "example": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator."
+    },
+    {
+     "word": "capabilities",
+     "thai": "ความสามารถ",
+     "level": "B2",
+     "example": "The cloud giant refits its agentic dev tools for agent orchestration capabilities."
+    },
+    {
+     "word": "orchestration",
+     "thai": "การประสานการทำงานร่วมกันของระบบ",
+     "level": "C1",
+     "example": "The cloud giant refits its agentic dev tools for agent orchestration."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 973,
+   "ts": "2026-11-06T11:03:23.620460+07:00",
+   "title": "Get root on a musl Linux system by slamming it with an overly long password",
+   "link": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "It details a critical root privilege escalation vulnerability affecting Linux systems using the musl library.",
+   "summary": "A severe security flaw allows attackers to gain root access on musl Linux systems by submitting an overly long password. Administrators running affected configurations must apply patches immediately to prevent complete system compromise.",
+   "vocab": [
+    {
+     "word": "privilege",
+     "thai": "สิทธิ์พิเศษในการเข้าถึงระบบ",
+     "level": "C1",
+     "example": "The flaw allows local users to gain root privilege unexpectedly."
+    },
+    {
+     "word": "compromise",
+     "thai": "การถูกเจาะระบบหรือความเสียหายด้านความปลอดภัย",
+     "level": "B2",
+     "example": "Unpatched servers face a high risk of complete system compromise."
+    },
+    {
+     "word": "configuration",
+     "thai": "การตั้งค่าระบบ",
+     "level": "B2",
+     "example": "Administrators must review their server configuration for vulnerable packages."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 974,
+   "ts": "2026-11-06T11:03:23.620485+07:00",
+   "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "It reports a significant security breach involving cryptographic and law enforcement tracking tools.",
+   "summary": "Attackers breached blockchain analysis platform Chainalysis and stole sensitive law enforcement access tokens. This incident compromises specialized tracking tools frequently used by police agencies to investigate illicit crypto transactions.",
+   "vocab": [
+    {
+     "word": "investigation",
+     "thai": "การสืบสวนสอบสวน",
+     "level": "B2",
+     "example": "Law enforcement relies on these tools for ongoing financial investigation."
+    },
+    {
+     "word": "breach",
+     "thai": "การเจาะระบบหรือการละเมิดความปลอดภัย",
+     "level": "B2",
+     "example": "The crypto-tracker hack resulted in a major security breach of tracking tools."
+    },
+    {
+     "word": "sensitive",
+     "thai": "อ่อนไหว (เช่น ข้อมูลที่เป็นความลับ)",
+     "level": "B2",
+     "example": "Attackers gained unauthorized access to sensitive law enforcement tokens."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 975,
+   "ts": "2026-11-06T11:03:23.620506+07:00",
+   "title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
+   "link": "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "It discusses Linux distribution updates regarding immutable root filesystems, relevant to server administrators.",
+   "summary": "The openSUSE Leap 16.1 release introduces new options for managing immutable and read-only Linux system installations. This approach helps system administrators improve server security by preventing unauthorized modifications to core binaries.",
+   "vocab": [
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "openSUSE Leap 16.1 gives Linux users the right to remain immutable."
+    },
+    {
+     "word": "modification",
+     "thai": "การแก้ไขเปลี่ยนแปลง",
+     "level": "B2",
+     "example": "Read-only filesystems prevent unauthorized modification of system files."
+    },
+    {
+     "word": "distribution",
+     "thai": "ชุดซอฟต์แวร์ระบบปฏิบัติการลินุกซ์",
+     "level": "B2",
+     "example": "This popular Linux distribution offers conventional and read-only systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 976,
+   "ts": "2026-11-06T11:03:23.620531+07:00",
+   "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
+   "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "It discusses automated bug-hunting AI models relevant to enterprise vulnerability management.",
+   "summary": "OpenAI has released a new specialized security model designed to assist with automated vulnerability discovery. The company claims the model strictly adheres to pre-defined testing boundaries and avoids unauthorized target exploitation.",
+   "vocab": [
+    {
+     "word": "exploitation",
+     "thai": "การใช้ช่องโหว่โจมตี",
+     "level": "C1",
+     "example": "The latest bug hunting model avoided exploiting out-of-scope services."
+    },
+    {
+     "word": "boundaries",
+     "thai": "ขอบเขต",
+     "level": "B2",
+     "example": "Automated tools must operate strictly within approved testing boundaries."
+    },
+    {
+     "word": "discovery",
+     "thai": "การค้นพบ",
+     "level": "B2",
+     "example": "The model assists engineers with automated vulnerability discovery."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 977,
+   "ts": "2026-11-06T11:03:23.620556+07:00",
+   "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "It reports on usage limitations for enterprise AI assistant tools, affecting developer workflows.",
+   "summary": "Microsoft has implemented strict usage caps on its Copilot Chat service for users. Developers and system administrators must adapt their workflows to handle unexpected throttling during peak operational hours.",
+   "vocab": [
+    {
+     "word": "limitation",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Users must navigate around the strict usage caps and service limitations."
+    },
+    {
+     "word": "operational",
+     "thai": "เกี่ยวกับการปฏิบัติงาน",
+     "level": "B2",
+     "example": "Usage caps can disrupt normal operational workflows during peak hours."
+    },
+    {
+     "word": "unexpected",
+     "thai": "ที่ไม่คาดคิด",
+     "level": "B2",
+     "example": "Teams experienced unexpected throttling when hitting service limits."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 978,
+   "ts": "2026-11-06T11:03:35.080034+07:00",
+   "title": "Tobacco company got smoked by leaving secret recipes on a file share",
+   "link": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "A tobacco firm exposed confidential files on an open share, highlighting critical internal security and data management flaws.",
+   "summary": "A tobacco corporation left confidential recipes on an unprotected network file share. The company initially denied the data was genuine before deleting it.",
+   "vocab": [
+    {
+     "word": "confidential",
+     "thai": "ที่เป็นความลับ",
+     "level": "B2",
+     "example": "A tobacco firm exposed confidential files on an open share."
+    },
+    {
+     "word": "unprotected",
+     "thai": "ที่ไม่มีการป้องกัน",
+     "level": "B2",
+     "example": "The company left recipes on an unprotected network file share."
+    },
+    {
+     "word": "genuine",
+     "thai": "แท้จริง",
+     "level": "B2",
+     "example": "The firm initially denied the data was genuine."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 979,
+   "ts": "2026-11-06T11:03:35.080070+07:00",
+   "title": "Memory makers mint megabucks while buyers beg for mercy",
+   "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Massive DRAM revenue surges demonstrate extreme hardware cost pressures relevant to all infrastructure and data center procurement.",
+   "summary": "DRAM memory revenue surged by 369 percent as soaring AI demand kept hardware supplies extremely tight. Buyers face severe price increases and ongoing shortages.",
+   "vocab": [
+    {
+     "word": "surged",
+     "thai": "พุ่งสูงขึ้น",
+     "level": "B2",
+     "example": "DRAM memory revenue surged by 369 percent."
+    },
+    {
+     "word": "soaring",
+     "thai": "ที่เพิ่มขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Soaring AI demand kept hardware supplies tight."
+    },
+    {
+     "word": "shortages",
+     "thai": "การขาดแคลน",
+     "level": "B2",
+     "example": "Buyers face severe price increases and ongoing shortages."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 980,
+   "ts": "2026-11-06T11:03:35.080096+07:00",
+   "title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
+   "link": "https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Software regression issues in enterprise tools reflect common patch management pitfalls in IT administration.",
+   "summary": "Microsoft accidentally brought back an old Excel copy-paste bug shortly after issuing a fix for it. The software giant has since released another patch to resolve the issue.",
+   "vocab": [
+    {
+     "word": "accidentally",
+     "thai": "โดยบังเอิญ",
+     "level": "B2",
+     "example": "Microsoft accidentally brought back an old bug."
+    },
+    {
+     "word": "shortly",
+     "thai": "ในไม่ช้า",
+     "level": "B2",
+     "example": "This happened shortly after issuing a fix."
+    },
+    {
+     "word": "resolve",
+     "thai": "แก้ไข",
+     "level": "B2",
+     "example": "The software giant released another patch to resolve the issue."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 981,
+   "ts": "2026-11-06T11:03:35.080176+07:00",
+   "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
+   "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "An unpatched RCE vulnerability in Claude Dispatch presents significant enterprise security risks for corporate networks.",
+   "summary": "Anthropic has chosen not to fix a Claude Dispatch flaw that enables attackers to execute remote commands. This security vulnerability could allow threat actors to cross corporate boundaries.",
+   "vocab": [
+    {
+     "word": "enables",
+     "thai": "ทำให้สามารถ",
+     "level": "B2",
+     "example": "A flaw enables attackers to execute remote commands."
+    },
+    {
+     "word": "significant",
+     "thai": "สำคัญ, มาก",
+     "level": "B2",
+     "example": "This presents significant enterprise security risks."
+    },
+    {
+     "word": "actors",
+     "thai": "ผู้ไม่หวังดีในระบบ",
+     "level": "B2",
+     "example": "This could allow threat actors to cross corporate boundaries."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 982,
+   "ts": "2026-11-06T11:03:35.080199+07:00",
+   "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": true,
+   "reason": "A public library network being knocked offline by ransomware highlights ongoing municipal and institutional cyber attacks.",
+   "summary": "New York's Queens Public Library suffered a ransomware attack that took its website, Wi-Fi, and checkouts offline. No specific cybercrime gang has claimed responsibility for the incident yet.",
+   "vocab": [
+    {
+     "word": "suffered",
+     "thai": "ประสบกับ",
+     "level": "B2",
+     "example": "The library suffered a ransomware attack."
+    },
+    {
+     "word": "responsibility",
+     "thai": "ความรับผิดชอบ",
+     "level": "B2",
+     "example": "No gang has claimed responsibility for the incident."
+    },
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "No specific cybercrime gang has claimed responsibility for the incident yet."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 983,
+   "ts": "2026-11-06T11:03:35.080232+07:00",
+   "title": "Agents aren’t humans (but they kinda are)",
+   "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "The rapid growth of AI agent web traffic introduces major identity, security, and infrastructure tracking challenges for site operators.",
+   "summary": "AI agents operating on behalf of users are rapidly increasing and changing internet traffic patterns. Websites now struggle to identify, verify, and hold accountable automated intermediaries.",
+   "vocab": [
+    {
+     "word": "patterns",
+     "thai": "รูปแบบ",
+     "level": "B2",
+     "example": "AI agents are changing internet traffic patterns."
+    },
+    {
+     "word": "struggle",
+     "thai": "ดิ้นรน, พยายามอย่างยากลำบาก",
+     "level": "B2",
+     "example": "Websites now struggle to identify automated intermediaries."
+    },
+    {
+     "word": "verify",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "Sites need mechanisms to verify automated users."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 984,
+   "ts": "2026-11-06T11:03:35.080248+07:00",
+   "title": "Claude Code sends your email address to websites",
+   "link": "https://github.com/anthropics/claude-code/issues/107757",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "A privacy leak sending user emails in HTTP headers during web searches poses an immediate security flaw for developers.",
+   "summary": "Anthropic's Claude Code tool inadvertently leaked user email addresses to third-party websites via request headers during web searches. Although a built-in privacy mod was introduced to block this, users expressed frustration over the initial oversight.",
+   "vocab": [
+    {
+     "word": "inadvertently",
+     "thai": "โดยไม่ตั้งใจ",
+     "level": "C1",
+     "example": "The tool inadvertently leaked user email addresses."
+    },
+    {
+     "word": "oversight",
+     "thai": "ความผิดพลาดจากการมองข้าม",
+     "level": "C1",
+     "example": "Users expressed frustration over the initial oversight."
+    },
+    {
+     "word": "frustration",
+     "thai": "ความหงุดหงิดผิดหวัง",
+     "level": "B2",
+     "example": "Users expressed frustration over the leak."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 985,
+   "ts": "2026-11-06T11:03:48.309200+07:00",
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "link": "https://github.com/dsx-ai-factory/nvke",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "This is major AI infrastructure news detailing NVIDIA's new Kubernetes engine for managing GPU infrastructure, directly relevant to cloud and AI ops.",
+   "summary": "NVIDIA introduced its Kubernetes Engine in preview to let platform teams manage Kubernetes clusters on their own GPU hardware. The tool provides node lifecycle management and integrates with security primitives like SPIFFE/SPIRE, though it is not yet recommended for production.",
+   "vocab": [
+    {
+     "word": "primitive",
+     "thai": "องค์ประกอบพื้นฐาน",
+     "level": "C1",
+     "example": "The platform integrates with security primitives like TPM and SPIFFE."
+    },
+    {
+     "word": "prerequisite",
+     "thai": "เงื่อนไขเบื้องต้น, สิ่งที่จำเป็นต้องมีก่อน",
+     "level": "C1",
+     "example": "Check the prerequisites and sequence for preparing nodes before installation."
+    },
+    {
+     "word": "lifecycle",
+     "thai": "วงจรชีวิต",
+     "level": "B2",
+     "example": "The software manages the workload cluster lifecycle, including upgrades and node replacement."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 986,
+   "ts": "2026-11-06T11:03:48.309231+07:00",
+   "title": "Inkling 2 Small",
+   "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Announcing a major new AI model with significant coding and reasoning benchmarks directly impacts AI infrastructure and deployment trends.",
+   "summary": "The company introduced Inkling 2 Small, a new Mixture-of-Experts AI model with advanced capabilities in autonomous coding and vision tasks. The model will initially be available on a hosted platform before its full weights are released under an open license.",
+   "vocab": [
+    {
+     "word": "autonomous",
+     "thai": "ซึ่งทำงานได้เองโดยอัตโนมัติ",
+     "level": "B2",
+     "example": "The new model shows strong performance in long-horizon autonomous work."
+    },
+    {
+     "word": "iteratively",
+     "thai": "แบบทำซ้ำเพื่อปรับปรุงทีละน้อย",
+     "level": "C1",
+     "example": "It can incorporate visual feedback to iteratively build and refine digital designs."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน",
+     "level": "B2",
+     "example": "It far surpasses previous models on standard intelligence index benchmarks."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 987,
+   "ts": "2026-11-06T11:03:48.309251+07:00",
+   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical security vulnerability affecting SSH servers on Alpine Linux, directly impacting server administration, security, and operations.",
+   "summary": "Alpine Linux issued a critical security advisory warning that certain configurations of its OpenSSH server allow unauthenticated password bypass. Administrators must update their packages immediately or disable password authentication to prevent unauthorized remote access.",
+   "vocab": [
+    {
+     "word": "advisory",
+     "thai": "ประกาศเตือนภัย",
+     "level": "C1",
+     "example": "The security advisory urges administrators to update their software immediately."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ซึ่งไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "The bug could potentially allow unauthorized remote access to the system."
+    },
+    {
+     "word": "configuration",
+     "thai": "การกำหนดค่าระบบ",
+     "level": "B2",
+     "example": "Administrators should check their SSH configuration file for vulnerable settings."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 988,
+   "ts": "2026-11-06T11:03:48.309280+07:00",
+   "title": "Closed AI models dominate the price-performance frontier",
+   "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Market analysis on AI model pricing and cost-performance trends, relevant for enterprise AI procurement and infrastructure cost planning.",
+   "summary": "Recent market data shows that closed-source AI models currently dominate the cost-performance frontier across almost all budget tiers. Open-weight models now capture only a tiny fraction of the best-buy market share as major labs rapidly ship cheaper proprietary tiers.",
+   "vocab": [
+    {
+     "word": "proprietary",
+     "thai": "ที่เป็นกรรมสิทธิ์, ของเอกชนเฉพาะ",
+     "level": "C1",
+     "example": "Major labs quickly followed up with cheaper proprietary options."
+    },
+    {
+     "word": "fraction",
+     "thai": "เศษส่วน, ส่วนน้อย",
+     "level": "B2",
+     "example": "Open-weight models now capture only a small fraction of the top budget tiers."
+    },
+    {
+     "word": "undercut",
+     "thai": "ตัดราคา, ขายถูกกว่า",
+     "level": "C1",
+     "example": "Closed models were able to undercut open alternatives on price and capability."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 970,
+ "next_id": 989,
  "vocab": [
-  {
-   "word": "critical",
-   "thai": "วิกฤต",
-   "level": "B2",
-   "example": "Linux KVM guest-host escape rated critical, may represent a new way to attack penguin-powered networking.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "majority",
-   "thai": "ส่วนใหญ่",
-   "level": "B2",
-   "example": "EQT buys majority share in Swiss cybersecurity biz Acronis.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intervention",
-   "thai": "การเข้าแทรกแซง",
-   "level": "C1",
-   "example": "The company claims its fuel and helium coolant prevent a meltdown without requiring active systems or human intervention.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intertwined",
-   "thai": "เกี่ยวพันกันอย่างใกล้ชิด",
-   "level": "C1",
-   "example": "Data security and energy security are increasingly intertwined.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "ambition",
-   "thai": "ความทะเยอทะยาน, เป้าหมายอันยิ่งใหญ่",
-   "level": "B2",
-   "example": "This announcement highlights the role Nova Scotians can play in driving Canada’s renewed economic ambitions.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accelerator",
-   "thai": "ฮาร์ดแวร์เร่งความเร็ว (เช่น ชิป AI)",
-   "level": "B2",
-   "example": "Tenstorrent builds scalable artificial intelligence accelerators to compete with Nvidia.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "administer",
-   "thai": "จัดการ, บริหารระบบ",
-   "level": "B2",
-   "example": "I spent all weekend on my servers after Microsoft broke Exchange Server.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "malfunction",
-   "thai": "การทำงานผิดปกติ",
-   "level": "B2",
-   "example": "The update caused a major malfunction in the mail server environment.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "remediation",
-   "thai": "การแก้ไขปัญหา",
-   "level": "C1",
-   "example": "Admins required urgent remediation steps to restore email services.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "abandon",
-   "thai": "ละทิ้ง, เลิกทำ",
-   "level": "B2",
-   "example": "Microsoft abandons UK AI supercomputer as grid struggles to keep up.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "flagship",
    "thai": "โครงการสำคัญที่สุด, เรือธง",
@@ -23095,6 +23608,106 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "immersion",
+   "thai": "การจุ่มหรือแช่ลงในของเหลว",
+   "level": "C1",
+   "example": "Chemours has released a new range of fluids for two-phase direct-to-chip and immersion cooling systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "constraint",
+   "thai": "ข้อจำกัด",
+   "level": "C1",
+   "example": "AI's rapid growth is increasing demands on data center infrastructure, and cooling is becoming a critical constraint.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "counterparty",
+   "thai": "คู่สัญญา (ในธุรกรรมทางการเงิน)",
+   "level": "C1",
+   "example": "We structured our Anthropic leases from the outset to address counterparty credit and financing costs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "speculative",
+   "thai": "ที่เป็นการเก็งกำไรหรือมีความเสี่ยงสูง",
+   "level": "C1",
+   "example": "The Bank of England has reached out to understand loans to UK data center projects without tenants.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interdependence",
+   "thai": "ความพึ่งพาอาศัยซึ่งกันและกัน",
+   "level": "C1",
+   "example": "The bank has also been examining the interdependence of data center financing over the past year.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "opacity",
+   "thai": "ความไม่โปร่งใส",
+   "level": "C2",
+   "example": "Financial committees warned about increasing leverage and opacity in AI-linked investments.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backlog",
+   "thai": "ยอดค้างส่ง / งานที่ยังค้างอยู่",
+   "level": "B2",
+   "example": "The source told DCD that the Ionic Digital site planned to expand capacity, contributing to Nscale's total backlog worth $103bn.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "prospectus",
+   "thai": "หนังสือชี้ชวนการลงทุน",
+   "level": "C1",
+   "example": "The company published its IPO prospectus in September, which noted that Nscale has five active data centers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concretely",
+   "thai": "อย่างเป็นรูปธรรม",
+   "level": "B2",
+   "example": "More concretely, OpenAI said that it will no longer use non-disclosure agreements with public officials.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "differentiating",
+   "thai": "การสร้างความแตกต่าง",
+   "level": "B2",
+   "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -23305,7 +23918,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
