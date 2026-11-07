@@ -1998,7 +1998,28 @@
   "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
   "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
   "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
-  "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
+  "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+  "https://asahilinux.org/2026/11/progress-report-7-3/",
+  "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+  "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+  "https://www.anthropic.com/research/components-of-agent-memory",
+  "https://blog.adafruit.com/2026/10/31/flash-c-compiler/",
+  "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
+  "https://mattlakeman.org/2026/11/05/notes-on-san-marino/",
+  "https://www.wisfarmer.com/story/opinion/columnists/2022/05/11/over-20-m-lbs-commodities-lost-great-butter-fire-1991/9650051002/",
+  "https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/",
+  "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+  "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+  "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+  "https://arstechnica.com/gadgets/2026/11/artist-pulls-popular-screensaver-from-roku-os-because-of-fox-acquisition/",
+  "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+  "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+  "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+  "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+  "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
+  "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+  "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+  "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
  ],
  "stories": [
   {
@@ -18587,50 +18608,374 @@
    "urgency": 4,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 1023,
+   "ts": "2026-11-07T14:58:22.176345+07:00",
+   "title": "Asahi Linux Progress Linux 7.3",
+   "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers Linux kernel progression and hardware enablement for ARM-based Apple Silicon, relevant to alternative OS deployments.",
+   "summary": "Asahi Linux released its 7.3 progress report, highlighting major upstreaming efforts and general availability for M3 devices. The project continues to expand hardware support to newer Apple Silicon chips including M4 and M5 architectures.",
+   "vocab": [
+    {
+     "word": "turnaround",
+     "thai": "เวลาดำเนินการเสร็จสิ้น",
+     "level": "B2",
+     "example": "This is our shortest turnaround time yet for a major SoC component."
+    },
+    {
+     "word": "adequate",
+     "thai": "เพียงพอ",
+     "level": "B2",
+     "example": "These initial Devicetrees are barebones and only sufficient to boot the SoC to a TTY."
+    },
+    {
+     "word": "isolate",
+     "thai": "แยกตัวออก",
+     "level": "B2",
+     "example": "Exclaves are small applications running in an isolated environment controlled by the Secure Kernel."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1024,
+   "ts": "2026-11-07T14:58:22.176397+07:00",
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Involves software-driven algorithmic pricing and antitrust legal settlements, though outside core IT infrastructure.",
+   "summary": "A massive federal antitrust lawsuit regarding algorithmic rent-pricing software has concluded with nearly $360 million in settlements for renters. The defendants agreed to stop using competitors' non-public data for automated pricing recommendations.",
+   "vocab": [
+    {
+     "word": "allegation",
+     "thai": "ข้อกล่าวหา",
+     "level": "C1",
+     "example": "Lawsuits were filed alleging that the software provider enabled landlords to raise rent prices."
+    },
+    {
+     "word": "restrict",
+     "thai": "จำกัด",
+     "level": "B2",
+     "example": "Attorneys general fought the agreements, saying they could unlawfully restrict their own lawsuits."
+    },
+    {
+     "word": "coordination",
+     "thai": "การประสานงาน",
+     "level": "C1",
+     "example": "Are there moves they can make that would allow them to establish more coordination in pricing?"
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1025,
+   "ts": "2026-11-07T14:58:22.176415+07:00",
+   "title": "The Components of Agent Memory",
+   "link": "https://www.anthropic.com/research/components-of-agent-memory",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly relevant to AI agent architecture, memory management, and context optimization in LLMs.",
+   "summary": "Researchers explore how AI models can manage long-term memory by utilizing offline processing periods to organize interaction logs. This 'dreaming' technique helps agents distill experiences and store critical knowledge for future sessions.",
+   "vocab": [
+    {
+     "word": "consolidate",
+     "thai": "รวมเข้าด้วยกัน",
+     "level": "C1",
+     "example": "Only some experiences are consolidated into long-term knowledge."
+    },
+    {
+     "word": "replicate",
+     "thai": "จำลอง",
+     "level": "C1",
+     "example": "This process helps stabilize and integrate them into long-term memory."
+    },
+    {
+     "word": "exclude",
+     "thai": "ยกเว้น",
+     "level": "B2",
+     "example": "It excludes other ways models can learn or manage context."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1026,
+   "ts": "2026-11-07T14:58:35.043480+07:00",
+   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+   "source": "Ars Technica - All content",
+   "score": 9,
+   "watch": false,
+   "reason": "A major cybersecurity breach affecting critical government and enterprise customers is highly relevant to infrastructure security.",
+   "summary": "Blockchain analysis firm Chainalysis suffered a security breach exposing personal data and login tokens for all of its users. The compromised customer list includes major government agencies and prominent tech companies.",
+   "vocab": [
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ",
+     "level": "B2",
+     "example": "Hackers stole credentials and tokens for all of its customers."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "The external actor gained unauthorized access to Chainalysis systems."
+    },
+    {
+     "word": "compromise",
+     "thai": "การถูกเจาะระบบ, การทำให้ความปลอดภัยลดลง",
+     "level": "B2",
+     "example": "Chainalysis has yet to say where the infrastructure compromise occurred."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 602,
+   "sent_ts": "2026-11-07T14:58:35.786098+07:00"
+  },
+  {
+   "id": 1027,
+   "ts": "2026-11-07T14:58:35.786449+07:00",
+   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "The theft of millions of dollars worth of high-end AI and server hardware during transit impacts supply chain security.",
+   "summary": "An $11.4 million shipment of Nvidia hardware vanished while being transported by truck from Oakland to Texas. Police report that the cargo heist is part of a growing wave of sophisticated logistics thefts targeting high-value tech components.",
+   "vocab": [
+    {
+     "word": "shipment",
+     "thai": "การขนส่งสินค้า, สินค้าที่ส่งไป",
+     "level": "B2",
+     "example": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport."
+    },
+    {
+     "word": "investigation",
+     "thai": "การสืบสวน",
+     "level": "B2",
+     "example": "Oakland police confirmed that the investigation remains ongoing."
+    },
+    {
+     "word": "sophistication",
+     "thai": "ความซับซ้อน, ความเชี่ยวชาญขั้นสูง",
+     "level": "C1",
+     "example": "Criminals have shown planning and sophistication by employing techniques like GPS spoofing."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1028,
+   "ts": "2026-11-07T14:58:35.786497+07:00",
+   "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+   "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Major critical infrastructure hardware modernization by the FAA is relevant to large-scale systems engineering.",
+   "summary": "The US Federal Aviation Administration is replacing outdated floppy disks and 1980s systems in its air traffic control network. The new Enterprise Information Display System will modernize weather alerts and flight safety data across hundreds of facilities.",
+   "vocab": [
+    {
+     "word": "modernization",
+     "thai": "การทำให้ทันสมัย",
+     "level": "C1",
+     "example": "The FAA is continuing its historic modernization of America's air traffic control system."
+    },
+    {
+     "word": "outdated",
+     "thai": "ล้าสมัย",
+     "level": "B2",
+     "example": "E-IDS will replace older tools that have technical end-of-life issues."
+    },
+    {
+     "word": "deploy",
+     "thai": "นำไปใช้งานจริง",
+     "level": "B2",
+     "example": "E-IDS will be deployed to operational control positions at more than 400 facilities."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1029,
+   "ts": "2026-11-07T14:58:35.786541+07:00",
+   "title": "You know the launch market is tough when satellite companies start building rockets",
+   "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Satellite launch infrastructure and launch vehicle development relate to space-based communications and remote data center trends.",
+   "summary": "Satellite operator AST SpaceMobile announced plans to develop its own medium-lift rocket called Blacklift to secure regular orbital access. The move highlights broader industry concerns over launch capacity constraints for large satellite constellations.",
+   "vocab": [
+    {
+     "word": "springboard",
+     "thai": "จุดเริ่มต้น, ทางส่งเสริมให้บรรลุเป้าหมาย",
+     "level": "C1",
+     "example": "The Blacklift rocket is the springboard to significantly expand our total addressable market."
+    },
+    {
+     "word": "underscores",
+     "thai": "เน้นย้ำ, แสดงให้เห็นความสำคัญ",
+     "level": "C1",
+     "example": "The announcement is worth examining because it underscores two important trends in the industry."
+    },
+    {
+     "word": "constraints",
+     "thai": "ข้อจำกัด",
+     "level": "C1",
+     "example": "Investors are recognizing the worsening launch crisis and capacity constraints."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1030,
+   "ts": "2026-11-07T14:58:45.927898+07:00",
+   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+   "source": "Ars Technica - All content",
+   "score": 7,
+   "watch": false,
+   "reason": "Meta's commercial terms update affects web scraping and AI training policies, drawing major regulatory scrutiny.",
+   "summary": "Meta has indefinitely delayed a controversial update to its commercial terms that would have forced business account users to permit AI scraping on linked external sites. The policy change faced widespread backlash, legal challenges, and antitrust investigations globally over data rights.",
+   "vocab": [
+    {
+     "word": "backlash",
+     "thai": "กระแสต่อต้าน",
+     "level": "B2",
+     "example": "After weeks of backlash—and a failed attempt to quell it—Meta has indefinitely delayed plans."
+    },
+    {
+     "word": "injunction",
+     "thai": "คำสั่งศาลชั่วคราว",
+     "level": "C1",
+     "example": "Courts in Brazil and Norway issued preliminary injunctions blocking the terms."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Meta faced global scrutiny over its data practices."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1031,
+   "ts": "2026-11-07T14:58:45.927973+07:00",
+   "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
+   "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
+   "source": "Ars Technica - All content",
+   "score": 5,
+   "watch": false,
+   "reason": "Consumer hardware review of a laptop, offering limited direct relevance to enterprise data center infrastructure.",
+   "summary": "Apple's new MacBook Pro offers top-tier build quality and performance specs but arrives amid a period of pricing and AI uncertainty. While its M5 chips handle standard workflows well, rapid advancements in AI inference leave future-proofing questions open.",
+   "vocab": [
+    {
+     "word": "predecessor",
+     "thai": "รุ่นก่อนหน้า",
+     "level": "C1",
+     "example": "Like its immediate predecessor, it offers the M5 Pro and M5 Max chips."
+    },
+    {
+     "word": "inference",
+     "thai": "การอนุมาน (ในบริบท AI คือการประมวลผลโมเดล)",
+     "level": "C1",
+     "example": "AI inference is the main area where they may be less future-proof."
+    },
+    {
+     "word": "paradigm",
+     "thai": "กระบวนทัศน์",
+     "level": "C1",
+     "example": "It is firmly rooted in the computing paradigms of the past 20 years."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1032,
+   "ts": "2026-11-07T14:58:45.927998+07:00",
+   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
+   "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+   "source": "Ars Technica - All content",
+   "score": 8,
+   "watch": false,
+   "reason": "High-impact geopolitical and security news involving Nvidia's CEO and US-China technology supply chain risks.",
+   "summary": "Top US lawmakers have summoned Nvidia CEO Jensen Huang to appear before congressional committees over national security concerns regarding Chinese espionage. Intelligence reports previously alleged that Huang was targeted by an executive at a major cloud customer linked to China.",
+   "vocab": [
+    {
+     "word": "infiltration",
+     "thai": "การแทรกซึม",
+     "level": "C1",
+     "example": "The issue of PRC infiltration and access to cutting-edge technology is core to the investigative work."
+    },
+    {
+     "word": "espionage",
+     "thai": "การจารกรรม",
+     "level": "C1",
+     "example": "US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation."
+    },
+    {
+     "word": "bipartisan",
+     "thai": "ที่มาจากสองพรรคการเมืองใหญ่",
+     "level": "C1",
+     "example": "Top Republican lawmakers have asked Jensen Huang to appear before Congress."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 603,
+   "sent_ts": "2026-11-07T14:58:46.585491+07:00"
   }
  ],
- "next_id": 1023,
+ "next_id": 1033,
  "vocab": [
-  {
-   "word": "efficiency",
-   "thai": "ประสิทธิภาพ",
-   "level": "B2",
-   "example": "Data centers must focus heavily on energy conversion efficiency.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "administrator",
-   "thai": "ผู้ดูแลระบบ",
-   "level": "B2",
-   "example": "If you are the administrator, please check your origin server status.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "gateway",
-   "thai": "เกตเวย์, ประตูเชื่อมต่อเครือข่าย",
-   "level": "B2",
-   "example": "The proxy returned a 502 Bad Gateway error when reaching the origin server.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "validation",
-   "thai": "การทดสอบและตรวจสอบความถูกต้องของระบบ",
-   "level": "C1",
-   "example": "The offering builds on its Solution Validation Centers, launched in 2024.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "foray",
    "thai": "การก้าวเข้าสู่ขอบเขตหรือบทบาทใหม่",
@@ -23586,6 +23931,46 @@
    "thai": "มีกำหนดการหรือถูกวางแผนไว้",
    "level": "B2",
    "example": "Construction is slated to be completed by 2031.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "credentials",
+   "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ",
+   "level": "B2",
+   "example": "Hackers stole credentials and tokens for all of its customers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "infiltration",
+   "thai": "การแทรกซึม",
+   "level": "C1",
+   "example": "The issue of PRC infiltration and access to cutting-edge technology is core to the investigative work.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "espionage",
+   "thai": "การจารกรรม",
+   "level": "C1",
+   "example": "US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bipartisan",
+   "thai": "ที่มาจากสองพรรคการเมืองใหญ่",
+   "level": "C1",
+   "example": "Top Republican lawmakers have asked Jensen Huang to appear before Congress.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
