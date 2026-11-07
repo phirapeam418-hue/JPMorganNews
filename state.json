@@ -2002,302 +2002,6 @@
  ],
  "stories": [
   {
-   "id": 566,
-   "ts": "2026-10-24T09:24:22.416306+07:00",
-   "title": "OpenAI disables internet access during model training while Anthropic issues another mea culpa",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/23/openai-disables-internet-access-during-model-training-while-anthropic-issues-another-mea-culpa/5305238",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Restricting internet access during frontier AI model training is an interesting infrastructure security practice, though the post provides very little detail.",
-   "summary": "OpenAI has reportedly cut off internet connectivity during model training runs to improve containment and prevent unintended interactions. Meanwhile, Anthropic addressed ongoing operational and safety concerns with another formal statement.",
-   "vocab": [
-    {
-     "word": "mea culpa",
-     "thai": "การยอมรับความผิดพลาด",
-     "level": "C2",
-     "example": "Anthropic issued another mea culpa after the incident occurred."
-    },
-    {
-     "word": "disable",
-     "thai": "ปิดการทำงาน / ปิดใช้งาน",
-     "level": "B2",
-     "example": "OpenAI disables internet access during model training."
-    },
-    {
-     "word": "issue",
-     "thai": "ออกประกาศ / แถลง",
-     "level": "B2",
-     "example": "The company decided to issue an official statement to users."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 567,
-   "ts": "2026-10-24T09:24:22.416376+07:00",
-   "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-   "link": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "An HTTP/2 RCE flaw in Node and Python would be critical for server fleets, but the linked source is merely an anti-bot challenge page.",
-   "summary": "A vulnerability titled http2shell allegedly allows remote code execution in Node.js, Python, and other environments. However, the linked page is blocked by an anti-bot check and currently provides no technical verification.",
-   "vocab": [
-    {
-     "word": "evolving",
-     "thai": "ที่กำลังพัฒนาหรือเปลี่ยนแปลง",
-     "level": "B2",
-     "example": "Evolving threats require continuous security monitoring across our infrastructure."
-    },
-    {
-     "word": "threat",
-     "thai": "ภัยคุกคาม",
-     "level": "B2",
-     "example": "Security teams investigated a new remote code execution threat."
-    },
-    {
-     "word": "defend",
-     "thai": "ป้องกัน / คุ้มกัน",
-     "level": "B2",
-     "example": "Engineers must defend public endpoints from automated bot attacks."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 3,
-   "extra_links": [
-    "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497"
-   ]
-  },
-  {
-   "id": 568,
-   "ts": "2026-10-24T09:24:22.416455+07:00",
-   "title": "Bringing uv and ty together",
-   "link": "https://astral.sh/blog/uv-ty-integration",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Astral's unified tooling affects Python development, automation scripts, and CI/CD pipelines commonly managed by DevOps teams.",
-   "summary": "Astral announced an experimental integration uniting its Python package manager uv with its type checker ty. The update allows unified diagnostics through a single check command and simplifies dependency management for standalone scripts.",
-   "vocab": [
-    {
-     "word": "ecosystem",
-     "thai": "ระบบนิเวศ (ในบริบทของซอฟต์แวร์หรือเทคโนโลยี)",
-     "level": "B2",
-     "example": "At Astral, we build high-performance tools for the Python ecosystem."
-    },
-    {
-     "word": "integrated",
-     "thai": "ที่รวมเข้าด้วยกันอย่างสมบูรณ์",
-     "level": "B2",
-     "example": "The company wants to create an integrated toolchain for modern development."
-    },
-    {
-     "word": "diagnostic",
-     "thai": "เกี่ยวกับการตรวจวินิจฉัยหรือวิเคราะห์ปัญหา",
-     "level": "C1",
-     "example": "The new command introduces a unified diagnostic interface for your project."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 569,
-   "ts": "2026-10-24T09:24:22.416480+07:00",
-   "title": "Canadians are running out of time to oppose Bill C-22",
-   "link": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Surveillance and lawful access legislation can mandate backdoors and logging policies for telecommunications and cloud providers.",
-   "summary": "Canadian advocacy groups are rallying opposition against Bill C-22, a proposal that broadens state surveillance powers and data retention mandates. If enacted, telecommunications and messaging services could be compelled to build surveillance backdoors and retain user metadata.",
-   "vocab": [
-    {
-     "word": "surveillance",
-     "thai": "การสอดแนม / การเฝ้าระวัง",
-     "level": "C1",
-     "example": "Parliament is debating a massive expansion of surveillance powers over digital networks."
-    },
-    {
-     "word": "legislation",
-     "thai": "กฎหมาย / กระบวนการออกกฎหมาย",
-     "level": "C1",
-     "example": "Citizens still have an opportunity to speak out and challenge this legislation."
-    },
-    {
-     "word": "petition",
-     "thai": "คำร้องเรียน / การลงชื่อเรียกร้อง",
-     "level": "B2",
-     "example": "Thousands of people signed a petition opposing mandatory retention of personal metadata."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 570,
-   "ts": "2026-10-24T09:25:17.772924+07:00",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Covers consumer privacy terms regarding Gmail/Photos AI integrations, having minimal direct bearing on server operations.",
-   "summary": "Google revised its privacy policy so that users who connect apps like Gmail and Photos to AI features may have that context inform personalized ads. While advertisers do not get direct access to personal data, opting into AI recommendations cross-pollinates data with search advertising.",
-   "vocab": [
-    {
-     "word": "exception",
-     "thai": "ข้อยกเว้น",
-     "level": "B2",
-     "example": "The update adds an exception to its promise about not using your personal files for ads."
-    },
-    {
-     "word": "disconnect",
-     "thai": "ตัดการเชื่อมต่อ",
-     "level": "B2",
-     "example": "You can choose which apps you want to disconnect from the AI features."
-    },
-    {
-     "word": "recommendation",
-     "thai": "คำแนะนำ",
-     "level": "B2",
-     "example": "Users can disable personalized recommendations in their account settings."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 8,
-   "credibility": 8,
-   "extra_links": [
-    "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
-   ]
-  },
-  {
-   "id": 571,
-   "ts": "2026-10-24T09:26:32.877976+07:00",
-   "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
-   "link": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Regulatory restrictions on factory automation could disrupt semiconductor manufacturing, indirectly affecting enterprise chip supply.",
-   "summary": "Intel received a one-year FCC waiver to continue using foreign-made automated guided vehicles in its US semiconductor factories. This regulatory relief ensures that chip manufacturing operations will not be disrupted by new import rules on robotics.",
-   "vocab": [
-    {
-     "word": "abundance",
-     "thai": "ความมีอยู่อย่างมากมาย (abundance of caution = ความระมัดระวังอย่างยิ่ง)",
-     "level": "B2",
-     "example": "The tech company requested and received a waiver out of an abundance of caution."
-    },
-    {
-     "word": "oversight",
-     "thai": "การดูแลควบคุมหรือสอดส่อง",
-     "level": "C1",
-     "example": "These automated vehicles operate on predefined paths while often requiring operator oversight."
-    },
-    {
-     "word": "restrict",
-     "thai": "จำกัดหรือควบคุม",
-     "level": "B2",
-     "example": "The agency rules seem to restrict major modifications to previously authorized devices."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 572,
-   "ts": "2026-10-24T09:26:32.878086+07:00",
-   "title": "The reactor meant to showcase nuclear’s comeback keeps hitting problems",
-   "link": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Delays and safety problems in restarting nuclear reactors directly impact clean power availability planned for AI data centers.",
-   "summary": "US regulators issued formal warnings over serious safety incidents and operator licensing failures at the Palisades nuclear restart project in Michigan. These setbacks threaten timelines for clean, baseload nuclear power that tech companies are counting on to feed surging AI data center demand.",
-   "vocab": [
-    {
-     "word": "cavity",
-     "thai": "โพรงหรือช่องว่างขนาดใหญ่",
-     "level": "B2",
-     "example": "Regulators issued a warning after a contractor fell into a reactor cavity during work."
-    },
-    {
-     "word": "retaliation",
-     "thai": "การแก้แค้นหรือการตอบโต้",
-     "level": "C1",
-     "example": "The environment made staff hesitant to raise safety concerns without fear of retaliation."
-    },
-    {
-     "word": "resurgence",
-     "thai": "การฟื้นคืนชีพหรือการกลับมาเติบโตใหม่",
-     "level": "C1",
-     "example": "The plant had been touted as a key symbol of the nation's nuclear resurgence."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 308,
-   "sent_ts": "2026-10-24T12:42:36.260057+07:00"
-  },
-  {
-   "id": 573,
-   "ts": "2026-10-24T09:26:32.878115+07:00",
-   "title": "Ukraine learns to fight without Starlink as Musk plays politics with satellites",
-   "link": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "While highlighting satellite networking reliability and single-vendor risks, the piece primarily focuses on battlefield defense rather than IT infrastructure.",
-   "summary": "Ukrainian forces are actively reducing their dependence on SpaceX's Starlink satellite network following unexpected disruptions and political risks. To maintain operational resilience, military engineers are transitioning toward alternative communications and drone control systems.",
-   "vocab": [
-    {
-     "word": "pivotal",
-     "thai": "มีความสำคัญอย่างยิ่งหรือเป็นจุดเปลี่ยน",
-     "level": "C1",
-     "example": "The satellite service has played a pivotal role in supporting resistance against the invasion."
-    },
-    {
-     "word": "inclination",
-     "thai": "ความโน้มเอียงหรือความชอบส่วนตัว",
-     "level": "C1",
-     "example": "The network became increasingly unreliable due to erratic political inclinations."
-    },
-    {
-     "word": "contested",
-     "thai": "ที่มีการต่อสู้แย่งชิงหรือเป็นพื้นที่ขัดแย้ง",
-     "level": "B2",
-     "example": "Drone boats were deployed to operate across the contested waters of the Black Sea."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
    "id": 574,
    "ts": "2026-10-24T15:29:30.930669+07:00",
    "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
@@ -17658,11 +17362,13 @@
      "example": "These capacity claims have been disputed by industry analysts."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 597,
+   "sent_ts": "2026-11-07T14:01:48.162818+07:00"
   },
   {
    "id": 990,
@@ -17694,7 +17400,7 @@
      "example": "The operator may find its ability to reinvest significantly constrained."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -17844,11 +17550,13 @@
      "example": "The facility is below the floor-area threshold set by national restrictions."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 8,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 598,
+   "sent_ts": "2026-11-07T14:01:48.724519+07:00"
   },
   {
    "id": 995,
@@ -17880,7 +17588,7 @@
      "example": "The project cost rose substantially due to earlier delays."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -17916,7 +17624,7 @@
      "example": "He noted the costs needed if one buys the spectrum prospectively."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -17952,11 +17660,13 @@
      "example": "The power supply deals include termination fees and collateral requirements."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 599,
+   "sent_ts": "2026-11-07T14:01:49.295486+07:00"
   },
   {
    "id": 998,
@@ -18026,11 +17736,13 @@
      "example": "He was arrested on charges of violating export-control laws by trying to smuggle GPU servers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 600,
+   "sent_ts": "2026-11-07T14:01:49.839754+07:00"
   },
   {
    "id": 1000,
@@ -18100,14 +17812,16 @@
      "example": "The spokesperson claimed they would sweep the remnants of foreign power out of the region."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
    "credibility": 8,
    "extra_links": [
     "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/"
-   ]
+   ],
+   "msg_id": 594,
+   "sent_ts": "2026-11-07T14:01:46.496751+07:00"
   },
   {
    "id": 1002,
@@ -18139,14 +17853,16 @@
      "example": "Construction is slated to be completed by 2031."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 8,
    "credibility": 10,
    "extra_links": [
     "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update"
-   ]
+   ],
+   "msg_id": 601,
+   "sent_ts": "2026-11-07T14:01:50.421808+07:00"
   },
   {
    "id": 1003,
@@ -18178,7 +17894,7 @@
      "example": "Waste heat from the servers will be siphoned into the municipal heating network."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -18214,7 +17930,7 @@
      "example": "Portion sold was unspecified in the acquisition announcement."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -18250,7 +17966,7 @@
      "example": "The system will run advanced simulation tasks to detect hardware errors."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -18286,7 +18002,7 @@
      "example": "The Department of Justice launched an initiative to address AI crime."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 5,
@@ -18322,7 +18038,7 @@
      "example": "The new update focuses on enhancing overall system stability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18358,11 +18074,13 @@
      "example": "Security teams must evaluate their exposure to the data leak."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 595,
+   "sent_ts": "2026-11-07T14:01:47.059416+07:00"
   },
   {
    "id": 1009,
@@ -18394,7 +18112,7 @@
      "example": "The enterprise signed a broad procurement framework with AWS."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -18430,7 +18148,7 @@
      "example": "The central bank questioned whether AI would offer transformational gains immediately."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -18466,7 +18184,7 @@
      "example": "The agents were willing to run an untrusted script on the host computer."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -18502,7 +18220,7 @@
      "example": "Drax wants to feed Britain's AI habit with a datacenter at a biomass power station."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -18538,7 +18256,7 @@
      "example": "The installer now offers conventional and read-only systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -18574,7 +18292,7 @@
      "example": "Given the trajectory, in this post we look at the prospects for post-quantum."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
@@ -18610,7 +18328,7 @@
      "example": "Beyond providing useful features, I believe the hallmark of a mature library is stability."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -18646,11 +18364,13 @@
      "example": "A guest operation that caused such a return would provide the trigger."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 596,
+   "sent_ts": "2026-11-07T14:01:47.597472+07:00"
   },
   {
    "id": 1017,
@@ -18682,7 +18402,7 @@
      "example": "Verify the webhook signature and deduplicate deliveries."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18718,7 +18438,7 @@
      "example": "LFP batteries became subject to a 2% levy in September 2026."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
@@ -18754,7 +18474,7 @@
      "example": "The hackers launched a sophisticated attack against online payment systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 5,
@@ -18790,7 +18510,7 @@
      "example": "The software ships with sensible defaults so you can start quickly."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -18826,7 +18546,7 @@
      "example": "Applications should not share data across accounts without user consent."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 6,
    "scale": 6,
@@ -18862,7 +18582,7 @@
      "example": "Autonomous agents require stronger isolation boundaries than standard scripts."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
@@ -18871,206 +18591,6 @@
  ],
  "next_id": 1023,
  "vocab": [
-  {
-   "word": "compromised",
-   "thai": "ถูกละเมิดความปลอดภัย / ถูกเจาะระบบ",
-   "level": "B2",
-   "example": "Private keys associated with eight eMudhra intermediate certificates were compromised.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "impersonate",
-   "thai": "แอบอ้าง / ปลอมแปลงเป็น",
-   "level": "B2",
-   "example": "An attacker can create a forged certificate and use it to impersonate servers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "fragmentation",
-   "thai": "การกระจัดกระจายหรือไม่เป็นอันหนึ่งอันเดียวกัน",
-   "level": "C1",
-   "example": "VM/container infrastructure fragmentation can create an operations bottleneck.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "heterogeneous",
-   "thai": "ที่มีความหลากหลายหรือแตกต่างกันในระบบ",
-   "level": "C1",
-   "example": "Modern enterprise environments have become innately heterogeneous.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inoperable",
-   "thai": "ใช้งานไม่ได้ / ใช้การไม่ได้",
-   "level": "C1",
-   "example": "A ballistic attack struck a data center in Kyiv, rendering the site inoperable.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "mitigating",
-   "thai": "การบรรเทาหรือลดผลกระทบ",
-   "level": "B2",
-   "example": "Russian officials have been discussing mitigating measures for attacks on its data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "escalation",
-   "thai": "การเพิ่มความรุนแรงขึ้น",
-   "level": "C1",
-   "example": "The conflict between Ukraine and Russia has seen significant escalation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "incubate",
-   "thai": "บ่มเพาะหรือพัฒนาในระยะเริ่มต้น",
-   "level": "C1",
-   "example": "They are incubating tsrs as part of the Oxc compiler toolchain.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "faithful",
-   "thai": "ซื่อตรงตามต้นฉบับหรือแม่นยำ",
-   "level": "B2",
-   "example": "TypeScript in Rust aims to be a faithful port of the original compiler.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reallocate",
-   "thai": "จัดสรรใหม่",
-   "level": "C1",
-   "example": "Orange will reallocate the 5MHz of frequencies dedicated to its modern technologies.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "migrating",
-   "thai": "ย้ายระบบ",
-   "level": "B2",
-   "example": "Orange has been preparing customers to support them in migrating their equipment.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "acquisition",
-   "thai": "การเข้าซื้อกิจการ",
-   "level": "B2",
-   "example": "Regulators are probing the viability of the acquisition to ensure it doesn't reduce competition.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "assumption",
-   "thai": "สมมติฐาน",
-   "level": "B2",
-   "example": "The assumption that CityFibre will acquire Netomnia is not a credible basis.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "vacant",
-   "thai": "ว่างเปล่า",
-   "level": "B2",
-   "example": "A vacant mall in San Francisco is being eyed for a potential data center development.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "evaluating",
-   "thai": "ประเมิน",
-   "level": "B2",
-   "example": "The property was being evaluated for a project that would include a data center.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conservative",
-   "thai": "ที่ระมัดระวัง",
-   "level": "B2",
-   "example": "This is a much more conservative approach to the data center and AI buildout.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "component",
-   "thai": "ส่วนประกอบ",
-   "level": "B2",
-   "example": "Each server is costing more because of component inflation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "guidance",
-   "thai": "คำแนะนำหรือการคาดการณ์ทางธุรกิจ",
-   "level": "B2",
-   "example": "That said, Klaba was unwilling to provide guidance on 2027 capex.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consumption",
-   "thai": "การบริโภค, การใช้",
-   "level": "B2",
-   "example": "That's where single-chip power consumption is heading.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "obsolete",
-   "thai": "ล้าสมัย",
-   "level": "B2",
-   "example": "Traditional air cooling methods are becoming obsolete.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "efficiency",
    "thai": "ประสิทธิภาพ",
@@ -23866,6 +23386,206 @@
    "thai": "ที่เร่งความเร็วหรือทำได้เร็วขึ้น",
    "level": "B2",
    "example": "Companies securing power quickly will have an accelerated path to revenue.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "loitering",
+   "thai": "การลอยลำหรือวนเวียนอยู่ในบริเวณใดบริเวณหนึ่ง",
+   "level": "C1",
+   "example": "Vessels were spotted taking unusual routes and loitering over subsea cables.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "traversing",
+   "thai": "ซึ่งทอดข้ามหรือผ่าน",
+   "level": "C1",
+   "example": "The vessels were hovering over cables traversing the Gulf of Oman.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "remnants",
+   "thai": "เศษซากที่เหลืออยู่",
+   "level": "C1",
+   "example": "The spokesperson claimed they would sweep the remnants of foreign power out of the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lapse",
+   "thai": "ความผิดพลาดชั่วขณะ/การหละหลวม",
+   "level": "C1",
+   "example": "DigiCert admitted to a security lapse that exposed customer data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "misconfiguration",
+   "thai": "การตั้งค่าระบบผิดพลาด",
+   "level": "C1",
+   "example": "A server misconfiguration went undetected for sixteen months.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "primitive",
+   "thai": "กลไกพื้นฐานที่ใช้ในการโจมตีระบบ",
+   "level": "C1",
+   "example": "PwnEscape Part 1 introduced the host memory primitive behind this work.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "registers",
+   "thai": "หน่วยความจำรีจิสเตอร์ของซีพียู",
+   "level": "B2",
+   "example": "We found how it saved registers and changed where it would resume.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "trigger",
+   "thai": "ตัวกระตุ้นหรือตัวสั่งการให้ทำงาน",
+   "level": "B2",
+   "example": "A guest operation that caused such a return would provide the trigger.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fluctuate",
+   "thai": "ผันผวน",
+   "level": "B2",
+   "example": "Power usage fluctuates depending on peak demand during the day.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "foot",
+   "thai": "ออกค่าใช้จ่าย",
+   "level": "C1",
+   "example": "The company is going to foot the bill for major grid upgrades.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "condone",
+   "thai": "ยอมรับหรือปล่อยผ่านการกระทำผิด",
+   "level": "C1",
+   "example": "The spokesperson stated that they do not condone unlawful actions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "circumvent",
+   "thai": "หลบเลี่ยงกฎระเบียบ",
+   "level": "C1",
+   "example": "The site was accused of trying to circumvent a nationwide ban.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "threshold",
+   "thai": "เกณฑ์ขั้นต่ำหรือขีดจำกัด",
+   "level": "B2",
+   "example": "The facility is below the floor-area threshold set by national restrictions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tariff",
+   "thai": "อัตราค่าบริการหรือภาษี",
+   "level": "B2",
+   "example": "The utility filed a large load tariff designed to make data centers cover their own costs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "collateral",
+   "thai": "หลักทรัพย์ค้ำประกัน",
+   "level": "C1",
+   "example": "The power supply deals include termination fees and collateral requirements.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intermediaries",
+   "thai": "คนกลางหรือตัวแทน",
+   "level": "C1",
+   "example": "Small quantities of chips have been shipped via intermediaries and indirect routes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "provisions",
+   "thai": "ข้อกำหนดหรือเงื่อนไขทางกฎหมาย",
+   "level": "B2",
+   "example": "The regulation came with a number of new provisions that had not been previously announced.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "smuggle",
+   "thai": "ลักลอบนำเข้าหรือส่งออก",
+   "level": "B2",
+   "example": "He was arrested on charges of violating export-control laws by trying to smuggle GPU servers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sequestered",
+   "thai": "ถูกกักเก็บอย่างปลอดภัย",
+   "level": "C1",
+   "example": "The associated CO2 will be sequestered and stored at a nearby sequestration hub.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "slated",
+   "thai": "มีกำหนดการหรือถูกวางแผนไว้",
+   "level": "B2",
+   "example": "Construction is slated to be completed by 2031.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
