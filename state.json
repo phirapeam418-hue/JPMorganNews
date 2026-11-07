@@ -2043,48 +2043,15 @@
   "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
   "https://mceglowski.substack.com/p/how-long-can-life-wait",
   "https://sheets.works/data-viz/cpu-dies",
-  "https://textjs.org/"
+  "https://textjs.org/",
+  "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+  "https://www.retrosongbird.com/",
+  "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+  "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+  "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
+  "https://eyesrhythm.com/"
  ],
  "stories": [
-  {
-   "id": 584,
-   "ts": "2026-10-25T02:57:55.788525+07:00",
-   "title": "No Signs of AI Payoff Outside the Tech Sector",
-   "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Macroeconomic analysis showing non-tech enterprises are reducing token and AI infrastructure expenditure, impacting enterprise data center demand.",
-   "summary": "Apollo reported that corporate America outside the major tech giants is seeing zero financial return from recent AI investments. As a result, non-tech firms are treating AI token expenditure as a cost center rather than a growth driver.",
-   "vocab": [
-    {
-     "word": "commoditized",
-     "thai": "กลายเป็นสินค้าโภคภัณฑ์ทั่วไป (แข่งขันด้วยราคา)",
-     "level": "C1",
-     "example": "The question is whether, even as models become commoditized, mainstream corporate America can turn them into profit."
-    },
-    {
-     "word": "confined",
-     "thai": "ถูกจำกัดอยู่ในวงแคบ",
-     "level": "B2",
-     "example": "As long as agentic AI and token spending are confined to a small part of the economy, macroeconomic effects remain limited."
-    },
-    {
-     "word": "margin",
-     "thai": "อัตรากำไร",
-     "level": "B2",
-     "example": "Mainstream corporate America views token spending as a cost center that weighs on margins."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 7,
-   "extra_links": [
-    "https://www.theregister.com/ai-and-ml/2026/10/26/private-equity-giant-ai-payoff-strictly-limited-to-big-tech/5305358"
-   ]
-  },
   {
    "id": 585,
    "ts": "2026-10-25T15:49:20.659208+07:00",
@@ -19015,9 +18982,45 @@
    "urgency": 4,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 1044,
+   "ts": "2026-11-08T06:15:54.580768+07:00",
+   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "AI coding assistants leaking credentials directly affects infrastructure security and DevOps repository hygiene.",
+   "summary": "A configuration option in Claude Code has inadvertently exposed sensitive credentials across more than one thousand public repositories. DevOps and security teams must audit developer environments to prevent automated credential leaks.",
+   "vocab": [
+    {
+     "word": "expose",
+     "thai": "เปิดเผยหรือทำให้ตกอยู่ในความเสี่ยง",
+     "level": "B2",
+     "example": "The setting inadvertently exposes sensitive passwords in public repositories."
+    },
+    {
+     "word": "enterprise",
+     "thai": "องค์กรธุรกิจขนาดใหญ่",
+     "level": "B2",
+     "example": "The tool was designed to enhance security across the enterprise."
+    },
+    {
+     "word": "dynamic",
+     "thai": "ซึ่งเปลี่ยนแปลงและพัฒนาอย่างต่อเนื่อง",
+     "level": "B2",
+     "example": "Modern development workflows require dynamic security scanning tools."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 1044,
+ "next_id": 1045,
  "vocab": [
   {
    "word": "evaporation",
