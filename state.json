@@ -2031,7 +2031,19 @@
   "https://brisk4t.github.io/blog/toothpaste/",
   "https://uploadyourram.org",
   "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
-  "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
+  "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+  "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+  "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+  "https://hunch.net/?p=13764006",
+  "https://blog.bosscher.ch/posts/openstick/",
+  "https://github.com/hedgerow-dev/coldframe",
+  "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+  "https://maxxbench.unlap.ai/research/why-maxxbench/",
+  "https://prog21.dadgum.com/19.html",
+  "https://www.metropolitanreview.org/p/the-typo-generation-is-damaging-literature",
+  "https://mceglowski.substack.com/p/how-long-can-life-wait",
+  "https://sheets.works/data-viz/cpu-dies",
+  "https://textjs.org/"
  ],
  "stories": [
   {
@@ -18859,9 +18871,153 @@
    "urgency": 5,
    "scale": 3,
    "credibility": 9
+  },
+  {
+   "id": 1040,
+   "ts": "2026-11-08T02:44:02.985388+07:00",
+   "title": "Sponsored: Water stewardship starts with design, not offsets",
+   "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored opinion piece discussing cooling system design and water sustainability strategies in modern data centers.",
+   "summary": "Data center developer Rowan outlines design strategies to reduce water consumption, arguing that water stewardship begins with architectural cooling choices rather than carbon or water offsets. Closed-loop, air-cooled systems can significantly mitigate water stress in arid regions like Texas before operations even begin.",
+   "vocab": [
+    {
+     "word": "stewardship",
+     "thai": "การดูแลจัดการอย่างรับผิดชอบ",
+     "level": "C1",
+     "example": "Water stewardship starts with design, not offsets."
+    },
+    {
+     "word": "hydrologic",
+     "thai": "ทางอุทกวิทยา (เกี่ยวกับวัฏจักรและการกระจายตัวของน้ำ)",
+     "level": "C2",
+     "example": "Regional demands and hydrologic conditions vary considerably by geography."
+    },
+    {
+     "word": "replenish",
+     "thai": "เติมเต็ม, เติมให้สมบูรณ์",
+     "level": "C1",
+     "example": "The most effective gallon of water to replenish is often the gallon that did not need to be consumed."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 1041,
+   "ts": "2026-11-08T02:44:02.985446+07:00",
+   "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Newsletter roundup aggregating diverse tech stories including on-prem HPC server growth, VMware migration tools, and unpatched SharePoint exploits.",
+   "summary": "A technology news roundup highlights a 20 percent surge in on-prem server sales for HPC and AI alongside open-source tools replacing VMware utilities. It also reports ongoing zero-day attacks exploiting patched on-premises SharePoint installations.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่นและคืนสภาพได้เร็ว",
+     "level": "B2",
+     "example": "Technical debt shoveled aside to make large-scale AI training more resilient."
+    },
+    {
+     "word": "biomass",
+     "thai": "ชีวมวล",
+     "level": "B2",
+     "example": "Drax wants to feed Britain's AI habit with a datacenter at a biomass power station."
+    },
+    {
+     "word": "installer",
+     "thai": "โปรแกรมสำหรับติดตั้งระบบ",
+     "level": "B2",
+     "example": "One installer now offers conventional and read-only systems as separate options."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1042,
+   "ts": "2026-11-08T02:44:02.985474+07:00",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Firsthand account of Microsoft reorganizing its AI research groups to prioritize brute compute scaling over exploratory research.",
+   "summary": "A researcher details the dissolution of Microsoft Research's AI Frontiers group following its merger into Microsoft AI leadership. The piece explains an industry-wide philosophical pivot where tech giants favor predictable returns from model scaling over exploratory capability research.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด, จุดติดขัดที่ชะลอการทำงาน",
+     "level": "B2",
+     "example": "Compute availability was also an often-severe bottleneck."
+    },
+    {
+     "word": "monorepo",
+     "thai": "ที่เก็บโค้ดแบบรวมศูนย์ในคลังเดียว",
+     "level": "C1",
+     "example": "AIF decided to develop a monorepo that was shared by default with all of Microsoft Research."
+    },
+    {
+     "word": "incompatible",
+     "thai": "เข้ากันไม่ได้, ขัดแย้งกัน",
+     "level": "B2",
+     "example": "In practice, there are substantial issues because the philosophy of the leadership is incompatible."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1043,
+   "ts": "2026-11-08T02:44:02.985516+07:00",
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "link": "https://github.com/hedgerow-dev/coldframe",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Releases an OT/ICS honeypot replicating industrial cooling controllers frequently targeted in real-world infrastructure attacks.",
+   "summary": "Security researchers released Coldframe, a standalone Python honeypot that mimics vulnerable industrial supermarket refrigeration controllers. The tool traps attackers and logs exploit payloads, helping infrastructure defenders study attacks directed at operational control systems.",
+   "vocab": [
+    {
+     "word": "decoy",
+     "thai": "ตัวล่อ, สิ่งล่อใจ",
+     "level": "C1",
+     "example": "Point INDEX_FILE at that index.html and the decoy serves it byte for byte."
+    },
+    {
+     "word": "defrost",
+     "thai": "ละลายน้ำแข็ง",
+     "level": "B2",
+     "example": "Attackers broke into refrigeration supervisors and forced defrost cycles."
+    },
+    {
+     "word": "traversal",
+     "thai": "การท่องหรือเข้าถึงเส้นทางไดเรกทอรี",
+     "level": "C2",
+     "example": "The log catches attempts at path traversal via get_file."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 1040,
+ "next_id": 1044,
  "vocab": [
   {
    "word": "evaporation",
