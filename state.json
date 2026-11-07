@@ -2019,309 +2019,21 @@
   "https://arstechnica.com/health/2026/11/wisconsin-reports-measles-death-of-a-baby-first-death-in-over-35-years/",
   "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
   "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-  "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/"
+  "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
+  "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+  "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862",
+  "https://nfsu2.xyz/",
+  "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+  "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+  "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
+  "https://ejfox.com/projects/nbc-big-board",
+  "https://github.com/hyphatech/spindle",
+  "https://brisk4t.github.io/blog/toothpaste/",
+  "https://uploadyourram.org",
+  "https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/",
+  "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/"
  ],
  "stories": [
-  {
-   "id": 574,
-   "ts": "2026-10-24T15:29:30.930669+07:00",
-   "title": "Sponsored: GF completes LiquidCore portfolio with intelligent Multi Control Valve to maximize direct liquid cooling efficiency",
-   "link": "https://www.datacenterdynamics.com/en/product-news/gf-completes-liquidcore-portfolio-with-intelligent-multi-control-valve-to-maximize-direct-liquid-cooling-efficiency/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly covers advanced liquid cooling hardware innovations designed for high-density AI data center racks.",
-   "summary": "GF introduced a new Multi Control Valve for data center direct liquid cooling to optimize flow and monitor thermal energy. The polymer-based design reduces weight and complexity for high-density server racks.",
-   "vocab": [
-    {
-     "word": "architecture",
-     "thai": "สถาปัตยกรรม (ระบบโครงสร้าง)",
-     "level": "B2",
-     "example": "This intelligent valve integrates seamlessly into high-density direct liquid cooling architectures."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "Built for next gen industry compliance frameworks."
-    },
-    {
-     "word": "mitigating",
-     "thai": "บรรเทา, ลดความรุนแรง",
-     "level": "C1",
-     "example": "The resulting design is significantly mitigating mechanical load and structural stress."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 320,
-   "sent_ts": "2026-10-25T12:58:35.361695+07:00"
-  },
-  {
-   "id": 575,
-   "ts": "2026-10-24T15:29:30.930706+07:00",
-   "title": "OBS Studio 33",
-   "link": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Release notes for OBS Studio software update, peripheral to core server infrastructure operations.",
-   "summary": "OBS Studio version 33.0 is now available with framework updates, plugin loading improvements, and bug fixes. The release enhances stability and hardware encoding support across multiple platforms.",
-   "vocab": [
-    {
-     "word": "underlying",
-     "thai": "ที่เป็นพื้นฐานอยู่เบื้องหลัง",
-     "level": "B2",
-     "example": "This is a massive update to the underlying framework used for browser sources."
-    },
-    {
-     "word": "legacy",
-     "thai": "ระบบเก่า, มรดกตกทอด",
-     "level": "B2",
-     "example": "Existing third-party plugins will continue to load from the legacy locations."
-    },
-    {
-     "word": "resolution",
-     "thai": "ความละเอียด",
-     "level": "B2",
-     "example": "Fixed outputs getting stuck running when a bad rescale output resolution is set."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 576,
-   "ts": "2026-10-24T15:29:30.930726+07:00",
-   "title": "Twelve years of distributed SQLite",
-   "link": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Retrospective on distributed SQLite architectures, relevant to backend development and database clustering.",
-   "summary": "The creator of rqlite reflects on twelve years of distributed SQLite development and consensus-based replication. The article traces how combining SQLite with Raft evolved from a niche idea into an established category.",
-   "vocab": [
-    {
-     "word": "consensus",
-     "thai": "ความเห็นพ้องต้องกัน (ในระบบกระจาย)",
-     "level": "C1",
-     "example": "Replicating SQLite with a consensus protocol solved it."
-    },
-    {
-     "word": "embedded",
-     "thai": "ฝังตัวอยู่ภายใน",
-     "level": "B2",
-     "example": "Canonical built dqlite to get an embedded replicated store."
-    },
-    {
-     "word": "standalone",
-     "thai": "ทำงานด้วยตัวเองได้โดยอิสระ",
-     "level": "B2",
-     "example": "What rqlite did was make it a standalone, general-purpose open-source thing."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 322,
-   "sent_ts": "2026-10-25T12:58:36.431042+07:00"
-  },
-  {
-   "id": 577,
-   "ts": "2026-10-24T15:29:30.930758+07:00",
-   "title": "A practical guide to AI image generation, from diffusion to agents",
-   "link": "https://danielball.com/notes/ai_image_generation.html",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Practical guide on AI image generation and API integration, relevant to developers building AI pipelines.",
-   "summary": "A comprehensive practical guide explains how AI image generation models work from diffusion to multimodal agents. It offers actionable advice on API management, pricing variability, and hybrid pipelines.",
-   "vocab": [
-    {
-     "word": "photorealistic",
-     "thai": "เหมือนภาพถ่ายจริง",
-     "level": "C1",
-     "example": "NVIDIA's StyleGAN powers a photorealistic fake face on every refresh."
-    },
-    {
-     "word": "variability",
-     "thai": "ความแปรปรวน, ความไม่แน่นอน",
-     "level": "C1",
-     "example": "Prices vary widely, highlighting the high variability in API costs."
-    },
-    {
-     "word": "multimodal",
-     "thai": "หลายรูปแบบ (รองรับทั้งข้อความ ภาพ เสียง)",
-     "level": "C1",
-     "example": "A multimodal agent can write the prompt, call the API, and evaluate the result."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 323,
-   "sent_ts": "2026-10-25T12:58:36.929679+07:00"
-  },
-  {
-   "id": 578,
-   "ts": "2026-10-24T15:29:30.930801+07:00",
-   "title": "Apple Security Research Device",
-   "link": "https://security.apple.com/research-device/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly covers specialized Apple hardware for security research and vulnerability discovery in iOS.",
-   "summary": "Apple's Security Research Device gives approved researchers specialized hardware access to investigate iOS vulnerabilities safely. Participants can use shell access and custom kernels while remaining eligible for security bounty programs.",
-   "vocab": [
-    {
-     "word": "eligible",
-     "thai": "มีคุณสมบัติเหมาะสม, มีสิทธิ์",
-     "level": "B2",
-     "example": "All iOS components are eligible for research under this program."
-    },
-    {
-     "word": "customize",
-     "thai": "ปรับแต่งตามความต้องการ",
-     "level": "B2",
-     "example": "You can run tools, choose entitlements, and even customize the kernel."
-    },
-    {
-     "word": "discovery",
-     "thai": "การค้นพบ",
-     "level": "B2",
-     "example": "Special tooling to augment research and vulnerability discovery."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 10,
-   "msg_id": 321,
-   "sent_ts": "2026-10-25T12:58:35.897692+07:00"
-  },
-  {
-   "id": 579,
-   "ts": "2026-10-24T20:45:05.733860+07:00",
-   "title": "Georgia's Silk Cloud deploys Nvidia Blackwell Ultra GPUs",
-   "link": "https://www.datacenterdynamics.com/en/news/georgias-silk-cloud-deploys-nvidia-blackwell-ultra-gpus/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Announcements of new GPU infrastructure deployments in Georgia and the UK expand global AI capacity, though timelines stretch into 2027.",
-   "summary": "Silk Cloud in Georgia and Fuse Energy in the UK have both announced plans to deploy Nvidia GPU compute infrastructure. Silk Cloud plans to launch Nvidia Blackwell systems by 2027, while Fuse is leveraging its energy infrastructure to add modular compute capacity.",
-   "vocab": [
-    {
-     "word": "subsidiary",
-     "thai": "บริษัทย่อย",
-     "level": "B2",
-     "example": "Silk Cloud is a subsidiary of Silknet and part of the Silk Road Group."
-    },
-    {
-     "word": "envisage",
-     "thai": "คาดการณ์หรือวางแผนไว้",
-     "level": "C1",
-     "example": "The strategy envisages promoting advanced digital and AI development."
-    },
-    {
-     "word": "backbone",
-     "thai": "โครงข่ายหลัก",
-     "level": "B2",
-     "example": "The facility will sit on top of a national fiber backbone with cross-border connections."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 580,
-   "ts": "2026-10-24T20:45:05.733907+07:00",
-   "title": "SpaceXAI facing $6.1m fine in Mississippi for building data centers without securing correct permits",
-   "link": "https://www.datacenterdynamics.com/en/news/spacexai-data-center-mississippi-memphis-elon-musk/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Regulatory actions, fines, and legal challenges against data center power generation directly highlight compliance risks in hyperscale facility buildouts.",
-   "summary": "SpaceXAI faces up to $6.1 million in fines from Mississippi environmental regulators for constructing data center sites without proper stormwater permits. Meanwhile, a federal judge rejected the DOJ's bid to dismiss an environmental lawsuit over the company's unpermitted gas-fired turbines.",
-   "vocab": [
-    {
-     "word": "civil penalty",
-     "thai": "โทษปรับทางแพ่ง",
-     "level": "C1",
-     "example": "MDEQ is seeking civil penalties of up to $25,000 per day."
-    },
-    {
-     "word": "exposure",
-     "thai": "ความเสี่ยงต่อความเสียหายหรือภาระผูกพันทางการเงิน",
-     "level": "B2",
-     "example": "The company has a preliminary claimed exposure of approximately $6.1 million across three sites."
-    },
-    {
-     "word": "injunction",
-     "thai": "คำสั่งห้ามของศาล",
-     "level": "C1",
-     "example": "The plaintiffs are seeking an injunction to halt turbine operations."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 324,
-   "sent_ts": "2026-10-25T12:58:37.500817+07:00"
-  },
-  {
-   "id": 581,
-   "ts": "2026-10-24T20:45:05.733988+07:00",
-   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-   "link": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Highlights digital sovereignty and geopolitical risks of relying solely on US cloud, telecom, and software vendors for critical operations.",
-   "summary": "European policymakers are increasingly treating reliance on US enterprise tech and infrastructure as a critical vendor risk following restrictions on Starlink services in Ukraine. This development is driving momentum behind sovereign cloud, domestic AI infrastructure, and local tech alternatives across Europe.",
-   "vocab": [
-    {
-     "word": "blowback",
-     "thai": "ผลกระทบเชิงลบที่ไม่คาดคิดตามมา",
-     "level": "C1",
-     "example": "The political blowback from the decision is causing allied nations to reconsider reliance on US vendors."
-    },
-    {
-     "word": "insurmountable",
-     "thai": "ที่ยากจะเอาชนะหรือข้ามพ้น",
-     "level": "C1",
-     "example": "Cloning the capabilities of foreign tech giants once seemed like an insurmountable problem."
-    },
-    {
-     "word": "outsource",
-     "thai": "จัดจ้างภายนอก",
-     "level": "B2",
-     "example": "No nation can safely outsource its critical digital infrastructure to a single foreign partner."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 325,
-   "sent_ts": "2026-10-25T12:58:38.011905+07:00"
-  },
   {
    "id": 582,
    "ts": "2026-10-25T00:05:26.048558+07:00",
@@ -18972,30 +18684,264 @@
    "credibility": 9,
    "msg_id": 603,
    "sent_ts": "2026-11-07T14:58:46.585491+07:00"
+  },
+  {
+   "id": 1033,
+   "ts": "2026-11-07T21:39:15.490785+07:00",
+   "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
+   "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on the operational and emotional fallout of a major healthcare data breach and its support helpline.",
+   "summary": "An NHS trust review revealed that staff running a helpline after a severe data breach suffered significant emotional strain due to poor preparation. The incident highlights operational failures when handling fallout from leaked sensitive information.",
+   "vocab": [
+    {
+     "word": "safeguarding",
+     "thai": "การปกป้องคุ้มครองสวัสดิภาพ",
+     "level": "C1",
+     "example": "Call handlers had to make safeguarding assessments without proper training."
+    },
+    {
+     "word": "sensitivity",
+     "thai": "ความละเอียดอ่อน",
+     "level": "B2",
+     "example": "Callers were distressed by the sensitivity of the disclosures."
+    },
+    {
+     "word": "circulated",
+     "thai": "เผยแพร่, ส่งต่อ",
+     "level": "B2",
+     "example": "The review and its findings have since been circulated among staff."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1034,
+   "ts": "2026-11-07T21:39:15.490837+07:00",
+   "title": "Windows takes a break at UK motorway services",
+   "link": "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Covers multiple important IT, infrastructure, AI hardware trends, and zero-day security vulnerabilities affecting servers.",
+   "summary": "A weekly industry roundup highlights rising on-premises server costs, unpatched SharePoint zero-day vulnerabilities, and new Linux developments. These updates impact infrastructure budgets and server security management.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "มีความยืดหยุ่น, ทนทาน",
+     "level": "C1",
+     "example": "Technical debt was set aside to make large-scale AI training more resilient."
+    },
+    {
+     "word": "unpatched",
+     "thai": "ที่ยังไม่ได้แก้ไขช่องโหว่",
+     "level": "B2",
+     "example": "Microsoft patches failed to fix on-prem SharePoint, which is now under attack."
+    },
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิม",
+     "level": "B2",
+     "example": "One installer now offers conventional and read-only systems as separate options."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 604,
+   "sent_ts": "2026-11-07T21:39:16.288023+07:00"
+  },
+  {
+   "id": 1035,
+   "ts": "2026-11-07T21:39:16.288415+07:00",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Exposes undocumented background data aggregation and AI knowledge graph collection mechanisms in macOS.",
+   "summary": "Security researchers discovered that modern macOS versions run built-in background services that construct detailed personal relationship graphs. This process cross-references local databases to feed personal AI features.",
+   "vocab": [
+    {
+     "word": "undocumented",
+     "thai": "ที่ไม่มีการบันทึกเอกสารหรืออธิบายไว้",
+     "level": "C1",
+     "example": "Every Mac ships with an undocumented family member classifier."
+    },
+    {
+     "word": "inference",
+     "thai": "การอนุมาน, การสรุปผล",
+     "level": "C1",
+     "example": "There is little documentation about the kinship inference discussed below."
+    },
+    {
+     "word": "aggregate",
+     "thai": "รวบรวม, สะสม",
+     "level": "C1",
+     "example": "This graph is built on device by aggregating behavioral signals."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1036,
+   "ts": "2026-11-07T21:39:16.288458+07:00",
+   "title": "Building the NBC News Big Board",
+   "link": "https://ejfox.com/projects/nbc-big-board",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Describes the engineering workflow and remote deployment pipeline behind a major live broadcast election dashboard.",
+   "summary": "An engineer explains the high-stress deployment workflow used to update a live television election results board in real-time. The system relies on standard web technologies, JSON configs, and SSH server management during broadcasts.",
+   "vocab": [
+    {
+     "word": "prototype",
+     "thai": "ต้นแบบ",
+     "level": "B2",
+     "example": "It started as a prototype I made in January to explore election results."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "C1",
+     "example": "The workflow involved pushing updates to the live server via SSH."
+    },
+    {
+     "word": "perked",
+     "thai": "ตั้งใจฟังอย่างระมัดระวัง",
+     "level": "C1",
+     "example": "You keep your ears perked for your own name during live broadcasts."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1037,
+   "ts": "2026-11-07T21:39:16.288485+07:00",
+   "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+   "link": "https://github.com/hyphatech/spindle",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces a new high-performance, RFC-strict web framework designed for modern OCaml developers.",
+   "summary": "Developers released Spindle, a new web framework built natively for OCaml 5 with multicore support and strict protocol compliance. It offers end-to-end type safety and automated OpenAPI documentation generation.",
+   "vocab": [
+    {
+     "word": "compliant",
+     "thai": "ที่เป็นไปตามกฎระเบียบ",
+     "level": "C1",
+     "example": "The framework is strictly compliant with recent HTTP and WebSocket RFC standards."
+    },
+    {
+     "word": "endpoint",
+     "thai": "จุดเชื่อมต่อบริการเครือข่าย",
+     "level": "B2",
+     "example": "Each endpoint lists its schema and every error it may answer."
+    },
+    {
+     "word": "native",
+     "thai": "ที่มีมาแต่เดิม, ทำงานโดยตรงบนระบบ",
+     "level": "B2",
+     "example": "The library is Eio-native and multicore by design."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1038,
+   "ts": "2026-11-07T21:39:25.049276+07:00",
+   "title": "ToothPaste",
+   "link": "https://brisk4t.github.io/blog/toothpaste/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "An open-source hardware project combining Bluetooth and USB HID for pentesting and device control, relevant to security and systems engineering.",
+   "summary": "ToothPaste V2 is a hardware-backed clipboard tool that uses an ESP32-S3 and Web-BLE to transmit encrypted keystrokes over USB. It provides a quick way to control air-gapped or restricted machines without installing third-party software.",
+   "vocab": [
+    {
+     "word": "transmit",
+     "thai": "ส่งสัญญาณ",
+     "level": "B2",
+     "example": "ToothPaste allows a user to transmit AES-256 encrypted keyboard and mouse commands."
+    },
+    {
+     "word": "compatible",
+     "thai": "เข้ากันได้",
+     "level": "B2",
+     "example": "Almost every USB-host compatible device supports using a keyboard."
+    },
+    {
+     "word": "firmware",
+     "thai": "เฟิร์มแวร์",
+     "level": "C1",
+     "example": "Flash the latest .bin firmware file using a flasher utility."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 7
+  },
+  {
+   "id": 1039,
+   "ts": "2026-11-07T21:39:25.049356+07:00",
+   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
+   "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
+   "source": "Ars Technica - All content",
+   "score": 6,
+   "watch": false,
+   "reason": "A military operational security failure resulting in blackmail and a court-martial, highlighting the critical importance of mobile security.",
+   "summary": "A British soldier was court-martialed and sentenced to 10 months in detention after ignoring orders to remove his SIM card during a deployment near the Russian border. His phone was subsequently hacked, exposing him to extortion.",
+   "vocab": [
+    {
+     "word": "disobey",
+     "thai": "ขัดคำสั่ง",
+     "level": "B2",
+     "example": "A British soldier disobeyed a direct order to remove the SIM card."
+    },
+    {
+     "word": "blackmail",
+     "thai": "แบล็กเมล์, ขู่กรรโชก",
+     "level": "B2",
+     "example": "Nude photos of himself were stolen and used as blackmail against him."
+    },
+    {
+     "word": "deployment",
+     "thai": "การส่งกำลังพลประจำการ",
+     "level": "C1",
+     "example": "Before being deployed to a part of Estonia near the Russian border."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 3,
+   "credibility": 9
   }
  ],
- "next_id": 1033,
+ "next_id": 1040,
  "vocab": [
-  {
-   "word": "foray",
-   "thai": "การก้าวเข้าสู่ขอบเขตหรือบทบาทใหม่",
-   "level": "C2",
-   "example": "It marks Equinix’s latest foray into high-density AI infrastructure.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concept",
-   "thai": "แนวคิดหรือเค้าโครงเบื้องต้น",
-   "level": "B2",
-   "example": "We are working to accelerate the path from concept to production for our customers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "evaporation",
    "thai": "การระเหยกลายเป็นไอ",
@@ -23971,6 +23917,26 @@
    "thai": "ที่มาจากสองพรรคการเมืองใหญ่",
    "level": "C1",
    "example": "Top Republican lawmakers have asked Jensen Huang to appear before Congress.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unpatched",
+   "thai": "ที่ยังไม่ได้แก้ไขช่องโหว่",
+   "level": "B2",
+   "example": "Microsoft patches failed to fix on-prem SharePoint, which is now under attack.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conventional",
+   "thai": "แบบดั้งเดิม",
+   "level": "B2",
+   "example": "One installer now offers conventional and read-only systems as separate options.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
