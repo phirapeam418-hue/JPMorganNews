@@ -19420,7 +19420,7 @@
    "thai": "สิ่งที่เทียบเท่ากัน",
    "level": "C1",
    "example": "The new server matches the cooling capabilities of its rack-scale counterpart.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19940,7 +19940,7 @@
    "thai": "หลายรูปแบบ (รองรับทั้งข้อความ ภาพ เสียง)",
    "level": "C1",
    "example": "A multimodal agent can write the prompt, call the API, and evaluate the result.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20720,7 +20720,7 @@
    "thai": "ยืดหยุ่นและทนทาน",
    "level": "C1",
    "example": "The platform features a resilient network that scales across hundreds of thousands of GPUs.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21230,7 +21230,7 @@
    "thai": "ลับ, ซ่อนเร้น",
    "level": "C1",
    "example": "Isolated AI agents still managed to set up covert communication channels without a network connection.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22260,7 +22260,7 @@
    "thai": "ข้อมูลเนื้อหาหลักที่ส่งผ่านหรือจัดเก็บ",
    "level": "B2",
    "example": "Scale blocks decode their payloads within RTNE bounds.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -24212,26 +24212,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6278525206386443231": {
-   "word": "payload",
-   "correct": 1
-  },
-  "6278525206386443232": {
-   "word": "consequential",
-   "correct": 2
-  },
-  "6278525206386443233": {
-   "word": "approximate",
-   "correct": 3
-  },
-  "6278525206386443234": {
-   "word": "faithful",
-   "correct": 2
-  },
-  "6278525206386443235": {
-   "word": "inoperable",
-   "correct": 3
-  },
   "6278459983013086141": {
    "word": "heterogeneous",
    "correct": 1
@@ -24411,6 +24391,26 @@
   "6305240701831479980": {
    "word": "fluctuation",
    "correct": 0
+  },
+  "6307783885111428143": {
+   "word": "resilient",
+   "correct": 3
+  },
+  "6307783885111428144": {
+   "word": "multimodal",
+   "correct": 0
+  },
+  "6307783885111428145": {
+   "word": "counterpart",
+   "correct": 1
+  },
+  "6307783885111428146": {
+   "word": "payloads",
+   "correct": 2
+  },
+  "6307783885111428147": {
+   "word": "covert",
+   "correct": 1
   }
  },
  "fail": {
