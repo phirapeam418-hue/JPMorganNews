@@ -2053,7 +2053,18 @@
   "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
   "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
   "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
-  "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
+  "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+  "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+  "https://www.lorekit.io/blog/open-agent-memory-format",
+  "https://caleb.software/posts/claude-to-pi.html",
+  "https://github.com/torvalds/linux",
+  "https://clj.rs/",
+  "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+  "https://www.itsnicethat.com/news/typeland-shakespeares-globe-amifer-folio-graphic-design-090323",
+  "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
+  "https://github.com/graealex/WaveDudeNext",
+  "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+  "https://github.com/kobaltgit/StatCraft"
  ],
  "stories": [
   {
@@ -19072,9 +19083,45 @@
    "urgency": 2,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 1047,
+   "ts": "2026-11-08T17:53:01.145598+07:00",
+   "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
+   "link": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "This newsletter aggregates multiple infrastructure topics including on-prem AI server sales, unpatched SharePoint exploits, and datacenter construction.",
+   "summary": "The Register published a roundup covering major enterprise tech developments, including a surge in on-premises AI server sales and active zero-day attacks on SharePoint. It matters to operators because it highlights ongoing hardware demand and critical enterprise security risks.",
+   "vocab": [
+    {
+     "word": "quadrennial",
+     "thai": "ทุกสี่ปี",
+     "level": "C2",
+     "example": "Internet governance is facing its quadrennial stress test at the upcoming conference."
+    },
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่น ทนทานต่อปัญหา",
+     "level": "B2",
+     "example": "Technical debt was resolved to make large-scale AI training clusters more resilient."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความร่วมมือ เกณฑ์กำลัง",
+     "level": "B2",
+     "example": "The defense initiative enlists ethical hackers to protect critical national infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 1047,
+ "next_id": 1048,
  "vocab": [
   {
    "word": "inherently",
