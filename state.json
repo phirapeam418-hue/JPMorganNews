@@ -2064,85 +2064,23 @@
   "https://readonlymemo.com/legend-of-xanadu-pc-engine-fan-translation-interview-making-of/",
   "https://github.com/graealex/WaveDudeNext",
   "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-  "https://github.com/kobaltgit/StatCraft"
+  "https://github.com/kobaltgit/StatCraft",
+  "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+  "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+  "https://www.theregister.com/offbeat/2026/11/08/doom-delivers-five-minutes-of-terminal-violence-on-an-ibm-mainframe/5308092",
+  "https://github.com/synchopate/llama-modchip",
+  "https://www.bundesarchiv.de/en/stasi-records-archive/the-reconstruction-of-torn-documents/",
+  "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought/",
+  "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+  "https://goldstein.lol/posts/deno-security/",
+  "https://z1x.us/blog/four-hundred-bucks-of-e-waste",
+  "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+  "https://linebender.org/blog/jit-bitmap-text/",
+  "https://krthr.co/person-of-interest/",
+  "https://aworkinglibrary.com/writing/petered",
+  "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
  ],
  "stories": [
-  {
-   "id": 586,
-   "ts": "2026-10-25T21:05:03.447331+07:00",
-   "title": "The power behind AI: Data centers drive the demand for qualified electricians",
-   "link": "https://www.datacenterdynamics.com/en/opinions/the-power-behind-ai-data-centers-drive-the-demand-for-qualified-electricians/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Highlights the critical labor shortage of certified electricians needed to build and power new AI data centers.",
-   "summary": "Expanding AI infrastructure requires massive electrical capacity, leading tech giants to heavily fund skilled trade programs. However, a worsening shortage of qualified electricians is emerging as a primary bottleneck for data center construction.",
-   "vocab": [
-    {
-     "word": "apprehensive",
-     "thai": "วิตกกังวลหรือหวั่นเกรง",
-     "level": "B2",
-     "example": "While some are still apprehensive, many have seen the extensive benefits of AI."
-    },
-    {
-     "word": "shortage",
-     "thai": "การขาดแคลน",
-     "level": "B2",
-     "example": "To say we have a significant skilled labor shortage is likely an understatement."
-    },
-    {
-     "word": "understatement",
-     "thai": "การกล่าวถึงสิ่งที่ต่ำกว่าความเป็นจริง",
-     "level": "B2",
-     "example": "To say we have a shortage is likely an understatement."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 346,
-   "sent_ts": "2026-10-26T13:01:55.331819+07:00"
-  },
-  {
-   "id": 587,
-   "ts": "2026-10-26T00:29:00.402259+07:00",
-   "title": "Samsung TV privacy issues",
-   "link": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "A significant security finding detailing root access and heavy telemetry/privacy issues on modern smart TVs, touching on embedded system security.",
-   "summary": "A security researcher gained root shell access on a modern Samsung smart TV after bypassing AES encryption and hardware debugging interfaces. The analysis revealed extensive built-in telemetry, automatic content recognition, and always-on microphone data collection.",
-   "vocab": [
-    {
-     "word": "firmware",
-     "thai": "ซอฟต์แวร์ฝังตัว",
-     "level": "B2",
-     "example": "I tried reversing the firmware but it was AES encrypted."
-    },
-    {
-     "word": "telemetry",
-     "thai": "การส่งข้อมูลทางไกล",
-     "level": "C1",
-     "example": "The system collects a huge amount of juicy telemetry."
-    },
-    {
-     "word": "debug",
-     "thai": "แก้ไขข้อบกพร่อง",
-     "level": "B2",
-     "example": "Hardware debugging interfaces can sometimes expose root shells."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 336,
-   "sent_ts": "2026-10-26T09:10:34.605612+07:00"
-  },
   {
    "id": 588,
    "ts": "2026-10-26T03:07:27.218791+07:00",
@@ -19119,9 +19057,153 @@
    "urgency": 5,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 1048,
+   "ts": "2026-11-09T00:24:17.764723+07:00",
+   "title": "Sponsored: Why contamination control is now critical",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly relevant to physical data center operations, raised floor maintenance, and preventing human-error outages.",
+   "summary": "Data hall cleaning poses severe operational risks if treated as routine janitorial work rather than strict contamination control. Facilities must apply formal change management and rigorous procedures to prevent equipment failure and airflow disruption.",
+   "vocab": [
+    {
+     "word": "contamination",
+     "thai": "การปนเปื้อน",
+     "level": "B2",
+     "example": "Cleaning a live hall is contamination control work."
+    },
+    {
+     "word": "intermittent",
+     "thai": "เป็นพักๆ หรือเกิดขึ้นไม่สม่ำเสมอ",
+     "level": "B2",
+     "example": "Older raised floors add another hazard: zinc whiskers, which can cause intermittent equipment failures."
+    },
+    {
+     "word": "debris",
+     "thai": "เศษซากสิ่งปรักหักพังหรือสิ่งสกปรก",
+     "level": "B2",
+     "example": "Vacuums without HEPA filtration capture large debris while exhausting fine particles back into the room."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1049,
+   "ts": "2026-11-09T00:24:17.764760+07:00",
+   "title": "What data centers need to consider when storing produced water",
+   "link": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers critical data center cooling infrastructure and alternative industrial water storage strategies.",
+   "summary": "Data center operators are exploring produced water from oil and gas fields to alleviate pressure on local potable drinking supplies. Implementing this requires specialized on-site storage tanks and materials capable of handling corrosive and high-salinity water.",
+   "vocab": [
+    {
+     "word": "potable",
+     "thai": "ที่ดื่มได้",
+     "level": "C1",
+     "example": "The sector's ability to add capacity will depend partly on how well it manages demand without placing unnecessary pressure on potable supplies."
+    },
+    {
+     "word": "repurpose",
+     "thai": "นำกลับมาดัดแปลงใช้ประโยชน์ใหม่",
+     "level": "B2",
+     "example": "Where that water can be efficiently repurposed for data center cooling, there is an opportunity to reduce water stress."
+    },
+    {
+     "word": "corrosion",
+     "thai": "การกัดกร่อน",
+     "level": "B2",
+     "example": "Those differences should guide the material selection to protect against corrosion and extend the working life of the tank."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1050,
+   "ts": "2026-11-09T00:24:17.764800+07:00",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "link": "https://github.com/synchopate/llama-modchip",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces an AI infrastructure optimization technique allowing large MoE models to run locally on commodity CPU servers.",
+   "summary": "The llama-modchip project enables running massive DeepSeek mixture-of-experts models entirely on system RAM without requiring GPUs. It combines aggressive quantization, algorithmic pruning, and CPU cache tiling to reach usable inference speeds on standard workstations.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การอนุมานหรือการประมวลผลโมเดลปัญญาประดิษฐ์",
+     "level": "B2",
+     "example": "Real-time Frontier and Agentic MoE inference is now possible on the CPU workstation you already own."
+    },
+    {
+     "word": "saturate",
+     "thai": "ทำให้อิ่มตัวหรือใช้งานจนเต็มขีดจำกัด",
+     "level": "B2",
+     "example": "Register tiling saturates 8-channel DDR5 memory bandwidth."
+    },
+    {
+     "word": "bottleneck",
+     "thai": "คอขวดหรือจุดที่ทำให้การทำงานชะงัก",
+     "level": "B2",
+     "example": "The tool eliminates the 45-second CPU agent prompt re-evaluation bottleneck via warm restore."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1051,
+   "ts": "2026-11-09T00:24:17.764853+07:00",
+   "title": "I'm not a fan of Deno's security model (2024)",
+   "link": "https://goldstein.lol/posts/deno-security/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "A technical critique of the security architecture and terminal prompt isolation in the Deno runtime.",
+   "summary": "An engineer argues that Deno's permission model is flawed because its interactive permission prompts run directly in standard terminal streams. Malicious code could exploit uncontrolled standard output escape sequences to mislead users into granting broad system access.",
+   "vocab": [
+    {
+     "word": "bypass",
+     "thai": "ข้ามผ่านหรือหลีกเลี่ยง",
+     "level": "B2",
+     "example": "Run again with the flag to bypass this security prompt."
+    },
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจหรือไม่จำกัด",
+     "level": "B2",
+     "example": "Deno allows untrusted programs to print arbitrary data directly to stdout."
+    },
+    {
+     "word": "prompt",
+     "thai": "ข้อความแจ้งเตือนที่รอการตอบรับจากผู้ใช้",
+     "level": "B2",
+     "example": "This nice little prompt is displayed in the terminal waiting for user approval."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 7
   }
  ],
- "next_id": 1048,
+ "next_id": 1052,
  "vocab": [
   {
    "word": "inherently",
