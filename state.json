@@ -18255,7 +18255,7 @@
      "example": "Exclaves are small applications running in an isolated environment controlled by the Secure Kernel."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 3,
@@ -18291,7 +18291,7 @@
      "example": "Are there moves they can make that would allow them to establish more coordination in pricing?"
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 3,
    "scale": 6,
@@ -18327,11 +18327,13 @@
      "example": "It excludes other ways models can learn or manage context."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 612,
+   "sent_ts": "2026-11-08T14:12:53.605545+07:00"
   },
   {
    "id": 1026,
@@ -18401,11 +18403,13 @@
      "example": "Criminals have shown planning and sophistication by employing techniques like GPS spoofing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 613,
+   "sent_ts": "2026-11-08T14:12:54.199929+07:00"
   },
   {
    "id": 1028,
@@ -18437,11 +18441,13 @@
      "example": "E-IDS will be deployed to operational control positions at more than 400 facilities."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 614,
+   "sent_ts": "2026-11-08T14:12:54.779714+07:00"
   },
   {
    "id": 1029,
@@ -18473,7 +18479,7 @@
      "example": "Investors are recognizing the worsening launch crisis and capacity constraints."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -18509,11 +18515,13 @@
      "example": "Meta faced global scrutiny over its data practices."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 615,
+   "sent_ts": "2026-11-08T14:12:55.512619+07:00"
   },
   {
    "id": 1031,
@@ -18545,7 +18553,7 @@
      "example": "It is firmly rooted in the computing paradigms of the past 20 years."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 5,
@@ -18619,7 +18627,7 @@
      "example": "The review and its findings have since been circulated among staff."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -18693,11 +18701,13 @@
      "example": "This graph is built on device by aggregating behavioral signals."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 616,
+   "sent_ts": "2026-11-08T14:12:56.100147+07:00"
   },
   {
    "id": 1036,
@@ -18729,7 +18739,7 @@
      "example": "You keep your ears perked for your own name during live broadcasts."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -18765,11 +18775,13 @@
      "example": "The library is Eio-native and multicore by design."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 618,
+   "sent_ts": "2026-11-08T14:12:57.285502+07:00"
   },
   {
    "id": 1038,
@@ -18801,7 +18813,7 @@
      "example": "Flash the latest .bin firmware file using a flasher utility."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 3,
@@ -18837,11 +18849,13 @@
      "example": "Before being deployed to a part of Estonia near the Russian border."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 3,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 619,
+   "sent_ts": "2026-11-08T14:12:57.860634+07:00"
   },
   {
    "id": 1040,
@@ -18873,7 +18887,7 @@
      "example": "The most effective gallon of water to replenish is often the gallon that did not need to be consumed."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -18909,7 +18923,7 @@
      "example": "One installer now offers conventional and read-only systems as separate options."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -18945,7 +18959,7 @@
      "example": "In practice, there are substantial issues because the philosophy of the leadership is incompatible."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -18981,7 +18995,7 @@
      "example": "The log catches attempts at path traversal via get_file."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -19017,11 +19031,13 @@
      "example": "Modern development workflows require dynamic security scanning tools."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 617,
+   "sent_ts": "2026-11-08T14:12:56.692217+07:00"
   },
   {
    "id": 1045,
@@ -19053,7 +19069,7 @@
      "example": "Filter for unresolved conversations or comments you wrote to find open questions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 8,
@@ -19089,7 +19105,7 @@
      "example": "It bootstraps so fast that we don’t need that startup modal at all."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 7,
@@ -19098,176 +19114,6 @@
  ],
  "next_id": 1047,
  "vocab": [
-  {
-   "word": "evaporation",
-   "thai": "การระเหยกลายเป็นไอ",
-   "level": "B2",
-   "example": "The design combines closed-loop liquid cooling with heat rejection that avoids evaporation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "catalyse",
-   "thai": "เร่งปฏิกิริยา หรือกระตุ้น",
-   "level": "C1",
-   "example": "Using local compute to catalyse development of the local AI ecosystem.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "democratise",
-   "thai": "ทำให้ทุกคนเข้าถึงได้ง่าย",
-   "level": "C1",
-   "example": "Working with local partners to further democratise access to compute.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pioneer",
-   "thai": "ผู้บุกเบิก",
-   "level": "B2",
-   "example": "Working with AI-RAN pioneers Nvidia and Nokia.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "redundancy",
-   "thai": "ระบบสำรองเพื่อความปลอดภัย",
-   "level": "C1",
-   "example": "Thanks to geographical redundancy, all GigaTrans services continue to work.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "indefinitely",
-   "thai": "อย่างไม่มีกำหนดเวลาสิ้นสุด",
-   "level": "B2",
-   "example": "We are forced to stop our work indefinitely.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "decentralized",
-   "thai": "ซึ่งกระจายศูนย์กลางออกไป",
-   "level": "C1",
-   "example": "Services continue to operate normally on backup decentralized sites.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "repeatable",
-   "thai": "สามารถทำซ้ำได้มาตรฐานเดียวกัน",
-   "level": "C1",
-   "example": "Moving 800 VDC from a concept to a repeatable, deployed platform.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pipeline",
-   "thai": "โครงการหรือแผนงานที่กำลังดำเนินการ",
-   "level": "B2",
-   "example": "The pipeline comprises about 430MW of upcoming load on its distribution network.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "hygiene",
-   "thai": "สุขอนามัย (ความสะอาดปลอดภัยในระบบ)",
-   "level": "B2",
-   "example": "To maintain good security hygiene, it is highly recommended that all customers upgrade.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "malicious",
-   "thai": "ที่เป็นอันตราย",
-   "level": "B2",
-   "example": "The security tool evaluates each HTTP request to determine if it is malicious.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inspection",
-   "thai": "การตรวจสอบ",
-   "level": "B2",
-   "example": "Request inspection remains an essential defense against common web attacks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "granular",
-   "thai": "ที่มีรายละเอียดมาก",
-   "level": "C1",
-   "example": "A granular approach to parameter management helps optimize model efficiency.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "preview",
-   "thai": "การแสดงตัวอย่างก่อนเปิดตัวจริง",
-   "level": "B2",
-   "example": "The new AI model is currently available for public preview.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "anomalous",
-   "thai": "ผิดปกติ",
-   "level": "C1",
-   "example": "Railway detected anomalous activity involving systems that store customer environment variables.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "proactively",
-   "thai": "อย่างเชิงรุก",
-   "level": "B2",
-   "example": "We have notified these upstream providers to revoke all keys proactively.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "precaution",
-   "thai": "การป้องกันล่วงหน้า",
-   "level": "B2",
-   "example": "We are recommending that all users take these actions as a precaution.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "inherently",
    "thai": "โดยธรรมชาติของมัน",
@@ -24093,6 +23939,176 @@
    "thai": "แบบดั้งเดิม",
    "level": "B2",
    "example": "One installer now offers conventional and read-only systems as separate options.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consolidate",
+   "thai": "รวมเข้าด้วยกัน",
+   "level": "C1",
+   "example": "Only some experiences are consolidated into long-term knowledge.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "replicate",
+   "thai": "จำลอง",
+   "level": "C1",
+   "example": "This process helps stabilize and integrate them into long-term memory.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exclude",
+   "thai": "ยกเว้น",
+   "level": "B2",
+   "example": "It excludes other ways models can learn or manage context.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "shipment",
+   "thai": "การขนส่งสินค้า, สินค้าที่ส่งไป",
+   "level": "B2",
+   "example": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "investigation",
+   "thai": "การสืบสวน",
+   "level": "B2",
+   "example": "Oakland police confirmed that the investigation remains ongoing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sophistication",
+   "thai": "ความซับซ้อน, ความเชี่ยวชาญขั้นสูง",
+   "level": "C1",
+   "example": "Criminals have shown planning and sophistication by employing techniques like GPS spoofing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outdated",
+   "thai": "ล้าสมัย",
+   "level": "B2",
+   "example": "E-IDS will replace older tools that have technical end-of-life issues.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "backlash",
+   "thai": "กระแสต่อต้าน",
+   "level": "B2",
+   "example": "After weeks of backlash—and a failed attempt to quell it—Meta has indefinitely delayed plans.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "undocumented",
+   "thai": "ที่ไม่มีการบันทึกเอกสารหรืออธิบายไว้",
+   "level": "C1",
+   "example": "Every Mac ships with an undocumented family member classifier.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expose",
+   "thai": "เปิดเผยหรือทำให้ตกอยู่ในความเสี่ยง",
+   "level": "B2",
+   "example": "The setting inadvertently exposes sensitive passwords in public repositories.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enterprise",
+   "thai": "องค์กรธุรกิจขนาดใหญ่",
+   "level": "B2",
+   "example": "The tool was designed to enhance security across the enterprise.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dynamic",
+   "thai": "ซึ่งเปลี่ยนแปลงและพัฒนาอย่างต่อเนื่อง",
+   "level": "B2",
+   "example": "Modern development workflows require dynamic security scanning tools.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compliant",
+   "thai": "ที่เป็นไปตามกฎระเบียบ",
+   "level": "C1",
+   "example": "The framework is strictly compliant with recent HTTP and WebSocket RFC standards.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "endpoint",
+   "thai": "จุดเชื่อมต่อบริการเครือข่าย",
+   "level": "B2",
+   "example": "Each endpoint lists its schema and every error it may answer.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "native",
+   "thai": "ที่มีมาแต่เดิม, ทำงานโดยตรงบนระบบ",
+   "level": "B2",
+   "example": "The library is Eio-native and multicore by design.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disobey",
+   "thai": "ขัดคำสั่ง",
+   "level": "B2",
+   "example": "A British soldier disobeyed a direct order to remove the SIM card.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "blackmail",
+   "thai": "แบล็กเมล์, ขู่กรรโชก",
+   "level": "B2",
+   "example": "Nude photos of himself were stolen and used as blackmail against him.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
