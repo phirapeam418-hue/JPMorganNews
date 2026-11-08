@@ -2078,313 +2078,19 @@
   "https://linebender.org/blog/jit-bitmap-text/",
   "https://krthr.co/person-of-interest/",
   "https://aworkinglibrary.com/writing/petered",
-  "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/"
+  "https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/",
+  "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+  "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+  "https://duxlabs.dev/",
+  "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+  "https://declarative-dragging.github.io/",
+  "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+  "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+  "https://packethound.app/",
+  "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+  "https://ftrain.com/aboard-the-web-is-more-than-enough"
  ],
  "stories": [
-  {
-   "id": 588,
-   "ts": "2026-10-26T03:07:27.218791+07:00",
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "link": "https://talkweb.eu/openweb/4558/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This discusses internet censorship, circumvention tools, and developer rooms at FOSDEM, touching on networking and privacy infrastructure.",
-   "summary": "The FOSDEM Digital Dissident devroom brings together developers to build toolchains that resist censorship and protect user privacy under authoritarian regimes. Participants focus on interoperability, circumvention methods, and the complete chain of secure tools.",
-   "vocab": [
-    {
-     "word": "censorship",
-     "thai": "การเซ็นเซอร์",
-     "level": "C1",
-     "example": "We need tools people can trust and control to communicate safely, expose the truth, and resist censorship."
-    },
-    {
-     "word": "interoperability",
-     "thai": "ความสามารถในการทำงานร่วมกัน",
-     "level": "C1",
-     "example": "Each session is judged on how well it advances the toolchain: interoperability, shared threat models, and shared failure data."
-    },
-    {
-     "word": "sophisticated",
-     "thai": "ซับซ้อน, ทันสมัยมาก",
-     "level": "B2",
-     "example": "Censorship in Russia, Iran and China has grown much more sophisticated."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 340,
-   "sent_ts": "2026-10-26T13:01:51.473509+07:00"
-  },
-  {
-   "id": 589,
-   "ts": "2026-10-26T03:07:27.218831+07:00",
-   "title": "JetBrains Thinkrail",
-   "link": "https://github.com/JetBrains/thinkrail",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This covers an agentic IDE (ThinkRail) with isolated workspaces and concurrent coding agents, directly fitting the DevOps tools interest.",
-   "summary": "ThinkRail is a new agentic IDE built around a coding agent that provides isolated git-worktree workspaces and durable project knowledge through living specs. It helps developers run concurrent sessions, manage pull requests, and automate workflows effectively.",
-   "vocab": [
-    {
-     "word": "concurrent",
-     "thai": "เกิดขึ้นพร้อมกัน",
-     "level": "C1",
-     "example": "Several concurrent pi sessions per workspace each have their own model and live token readout."
-    },
-    {
-     "word": "durable",
-     "thai": "ทนทาน, ยาวนาน",
-     "level": "B2",
-     "example": "We built a rich interface around the coding agent and gave it durable project knowledge."
-    },
-    {
-     "word": "delegate",
-     "thai": "มอบหมายหน้าที่",
-     "level": "C1",
-     "example": "Steer a running turn or queue a follow-up, delegate to subagents, and work a shared plan."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 341,
-   "sent_ts": "2026-10-26T13:01:52.139329+07:00"
-  },
-  {
-   "id": 590,
-   "ts": "2026-10-26T03:07:27.218845+07:00",
-   "title": "Eunice is almost here (William Gibson, Agency)",
-   "link": "https://armincat.com/articles/eunice-is-almost-here",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "This is an essay connecting William Gibson's science fiction novel 'Agency' to modern autonomous AI agents, relevant to AI trends.",
-   "summary": "William Gibson's 2020 novel 'Agency' featured an experimental AI assistant named Eunice that could perform complex tasks independently while conversing. Today's emerging full-duplex AI models and background agents demonstrate that Gibson's science fiction vision is rapidly becoming reality.",
-   "vocab": [
-    {
-     "word": "intricate",
-     "thai": "ซับซ้อน, ละเอียดอ่อน",
-     "level": "C1",
-     "example": "Without getting lost in its intricate plot, one storyline takes place in an alternate San Francisco."
-    },
-    {
-     "word": "autonomous",
-     "thai": "ซึ่งปกครองตนเอง, ทำงานได้เอง",
-     "level": "C1",
-     "example": "We now have models bringing us full-duplex conversations and increasingly autonomous AI agents."
-    },
-    {
-     "word": "independently",
-     "thai": "อย่างอิสระ",
-     "level": "B2",
-     "example": "OpenAI and Meta are introducing agents capable of independently pursuing goals and taking action."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 347,
-   "sent_ts": "2026-10-26T13:01:55.944590+07:00"
-  },
-  {
-   "id": 591,
-   "ts": "2026-10-26T03:07:27.218859+07:00",
-   "title": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
-   "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This discusses the impact of advanced AI on university-level academics and grading, touching on major AI advancements.",
-   "summary": "A UC Berkeley mathematics professor stopped grading student homework for correctness because widespread AI usage makes accurate assessment nearly impossible. Following massive AI breakthroughs in math, educators are grappling with how to evaluate student work fairly.",
-   "vocab": [
-    {
-     "word": "unavoidable",
-     "thai": "หลีกเลี่ยงไม่ได้",
-     "level": "B2",
-     "example": "He felt there was no point in paying readers to grade for correctness as AI use is now unavoidable."
-    },
-    {
-     "word": "discretion",
-     "thai": "ดุลยพินิจ",
-     "level": "C1",
-     "example": "AI policy for classes is up to the discretion of faculty members."
-    },
-    {
-     "word": "adequate",
-     "thai": "เพียงพอ, เหมาะสม",
-     "level": "B2",
-     "example": "Campus has tried several AI detection tools but determined they aren’t adequate enough to standardize."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 342,
-   "sent_ts": "2026-10-26T13:01:52.796530+07:00"
-  },
-  {
-   "id": 592,
-   "ts": "2026-10-26T03:07:27.218870+07:00",
-   "title": "Active incident at Dreamhost forcing password reset",
-   "link": "https://www.dreamhoststatus.com/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "This reports an active security incident and forced password reset at DreamHost, directly aligning with security vulnerabilities and outages.",
-   "summary": "DreamHost experienced an active security incident requiring a mandatory password reset for affected email and FTP accounts. While control panel features and notifications were deployed to guide users, certain file management tools remained temporarily unavailable.",
-   "vocab": [
-    {
-     "word": "notification",
-     "thai": "การแจ้งเตือน",
-     "level": "B2",
-     "example": "Our notification will not ask you to log in through an external link."
-    },
-    {
-     "word": "temporary",
-     "thai": "ชั่วคราว",
-     "level": "B2",
-     "example": "The file manager remains unavailable while we continue to work on this issue."
-    },
-    {
-     "word": "instruction",
-     "thai": "คำแนะนำ",
-     "level": "B2",
-     "example": "The majority of emails to affected account owners with step-by-step instructions have been sent."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 337,
-   "sent_ts": "2026-10-26T09:10:35.121823+07:00"
-  },
-  {
-   "id": 593,
-   "ts": "2026-10-26T03:07:37.501148+07:00",
-   "title": "Dijkstra vs. A* vs. Contraction Hierarchies",
-   "link": "https://arcadedb.com/route-planning.html",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This is an in-depth technical analysis of routing and graph algorithms relevant to network infrastructure and logistics.",
-   "summary": "The article compares classic pathfinding algorithms like Dijkstra and A* with Customizable Contraction Hierarchies. It demonstrates how precomputed hierarchies drastically improve query performance for large networks.",
-   "vocab": [
-    {
-     "word": "coordinate",
-     "thai": "พิกัด",
-     "level": "B2",
-     "example": "Needs coordinates on the vertices."
-    },
-    {
-     "word": "estimate",
-     "thai": "การประมาณ",
-     "level": "B2",
-     "example": "Adds an estimate of the time left from the straight line to Coral Gables."
-    },
-    {
-     "word": "hierarchy",
-     "thai": "ลำดับชั้น",
-     "level": "B2",
-     "example": "Climbs a precomputed hierarchy from both ends until the two climbs meet."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 343,
-   "sent_ts": "2026-10-26T13:01:53.428615+07:00"
-  },
-  {
-   "id": 594,
-   "ts": "2026-10-26T03:07:37.501175+07:00",
-   "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
-   "link": "https://huggingface.co/destined/hurston-1",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This introduces an open-source text-to-speech model optimized for telephony systems, relevant to AI voice infrastructure.",
-   "summary": "Destined AI released Hurston-1, an open-source text-to-speech model specifically trained on regional English accents and telephony audio standards. It provides narrowband modes tailored for integration with customer service phone lines.",
-   "vocab": [
-    {
-     "word": "contributor",
-     "thai": "ผู้มีส่วนร่วม",
-     "level": "B2",
-     "example": "It learned in part from real phone calls between our contributors and AI voice agents."
-    },
-    {
-     "word": "endorsement",
-     "thai": "การรับรอง",
-     "level": "C1",
-     "example": "The name is a tribute; it does not imply any endorsement by her estate."
-    },
-    {
-     "word": "independent",
-     "thai": "ที่เป็นอิสระ",
-     "level": "B2",
-     "example": "Hurston-1 was built in Atlanta by a small, independent team."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 344,
-   "sent_ts": "2026-10-26T13:01:54.090962+07:00"
-  },
-  {
-   "id": 595,
-   "ts": "2026-10-26T03:07:37.501197+07:00",
-   "title": "UTS #39: Unicode Security Mechanisms",
-   "link": "https://unicode.org/reports/tr39/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "This is an official Unicode standard update addressing security mechanisms and identifier spoofing, critical for server security.",
-   "summary": "The Unicode Consortium published version 18.0.0 of UTS #39, detailing security mechanisms to detect risks from varied writing systems. It specifies identifier profiles that implementations must follow to prevent spoofing attacks.",
-   "vocab": [
-    {
-     "word": "specification",
-     "thai": "ข้อกำหนดรายละเอียด",
-     "level": "C1",
-     "example": "This document specifies mechanisms that can be used to detect possible security problems."
-    },
-    {
-     "word": "conformance",
-     "thai": "การปฏิบัติตาม",
-     "level": "C1",
-     "example": "An implementation claiming conformance to this specification must do so in conformance to specific clauses."
-    },
-    {
-     "word": "precise",
-     "thai": "แม่นยำ, แน่นอน",
-     "level": "B2",
-     "example": "The implementation shall provide a precise list of characters that are added or removed."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 9,
-   "credibility": 10,
-   "msg_id": 338,
-   "sent_ts": "2026-10-26T09:10:35.637035+07:00"
-  },
   {
    "id": 596,
    "ts": "2026-10-26T06:43:07.249314+07:00",
@@ -19201,9 +18907,117 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 7
+  },
+  {
+   "id": 1052,
+   "ts": "2026-11-09T04:29:13.655687+07:00",
+   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a corporate AI governance decision affecting banking staff rather than core data center or cloud infrastructure.",
+   "summary": "Goldman Sachs has restricted AI coding agents like Claude Code to software engineers, barring general traders and bankers. The decision was prompted by productivity reviews and security concerns regarding non-engineers running automated code against client data.",
+   "vocab": [
+    {
+     "word": "underwriter",
+     "thai": "ผู้รับประกันการจำหน่ายหลักทรัพย์",
+     "level": "C1",
+     "example": "The bank barred its Hong Kong bankers from Claude in April and is now a lead underwriter on Anthropic's IPO."
+    },
+    {
+     "word": "arrangement",
+     "thai": "การจัดเตรียมข้อตกลง",
+     "level": "B2",
+     "example": "That arrangement let the people closest to a problem build a first version without waiting for engineering time."
+    },
+    {
+     "word": "frustrated",
+     "thai": "รู้สึกหงุดหงิดผิดหวัง",
+     "level": "B2",
+     "example": "The change has frustrated some traders, a person familiar with the matter told Bloomberg."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1053,
+   "ts": "2026-11-09T04:29:13.655799+07:00",
+   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+   "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "This directly impacts mail server and DNS operations, causing silent delivery failures to major Microsoft consumer domains.",
+   "summary": "Microsoft has quietly started rejecting emails sent to Outlook, Hotmail, and MSN addresses from domains lacking a DMARC DNS record. Infrastructure administrators must quickly add a DMARC policy to avoid silent email delivery failures.",
+   "vocab": [
+    {
+     "word": "vendor",
+     "thai": "คู่ค้าหรือผู้ให้บริการภายนอก",
+     "level": "B2",
+     "example": "If your company emails customers, vendors or applicants with outlook.com addresses, some of that mail may be bouncing."
+    },
+    {
+     "word": "inconsistency",
+     "thai": "ความไม่สม่ำเสมอหรือไม่แน่นอน",
+     "level": "B2",
+     "example": "That inconsistency is what makes this one dangerous: the person who sent the message sees a bounce and assumes a glitch."
+    },
+    {
+     "word": "invoice",
+     "thai": "ใบแจ้งหนี้",
+     "level": "B2",
+     "example": "Invoices that don't arrive and appointment confirmations that never land can quietly harm your business."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1054,
+   "ts": "2026-11-09T04:31:02.264016+07:00",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "While this corporate inquiry affects the premier AI chipmaker's leadership, it does not immediately impact day-to-day data center operations.",
+   "summary": "Nvidia's board of directors has launched an independent inquiry following reports that CEO Jensen Huang was targeted by foreign intelligence. Although the board believes no corporate or national secrets were compromised, the move reflects rising geopolitical tension around AI infrastructure.",
+   "vocab": [
+    {
+     "word": "initiate",
+     "thai": "เริ่มต้น, ริเริ่ม",
+     "level": "B2",
+     "example": "The NVIDIA Board is initiating an independent investigation in light of recent reporting."
+    },
+    {
+     "word": "paramount",
+     "thai": "มีความสำคัญสูงสุด",
+     "level": "C1",
+     "example": "The Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA."
+    },
+    {
+     "word": "inquiry",
+     "thai": "การไต่สวน, การตรวจสอบ",
+     "level": "B2",
+     "example": "The Board's inquiry will examine all available information."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 1052,
+ "next_id": 1055,
  "vocab": [
   {
    "word": "inherently",
