@@ -2049,7 +2049,11 @@
   "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
   "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
   "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-  "https://eyesrhythm.com/"
+  "https://eyesrhythm.com/",
+  "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+  "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+  "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+  "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/"
  ],
  "stories": [
   {
@@ -19018,9 +19022,81 @@
    "urgency": 7,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 1045,
+   "ts": "2026-11-08T10:11:55.734187+07:00",
+   "title": "GitHub New pull request overview page in public preview",
+   "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Relevant to DevOps workflows and infrastructure-as-code reviews on GitHub, though it is an opt-in UI preview.",
+   "summary": "GitHub has launched an opt-in public preview of a redesigned pull request overview page to reduce scrolling and surface blockers quickly. The new interface consolidates check statuses, review signals, and conversation filters into a compact summary at the top of the page.",
+   "vocab": [
+    {
+     "word": "distilled",
+     "thai": "สรุปย่อหรือคัดเฉพาะส่วนสำคัญ",
+     "level": "C1",
+     "example": "We’re starting with the merge box, distilled to show key details clearly."
+    },
+    {
+     "word": "readiness",
+     "thai": "ความพร้อม",
+     "level": "B2",
+     "example": "Check merge readiness and merge when requirements are met."
+    },
+    {
+     "word": "unresolved",
+     "thai": "ที่ยังค้างคาหรือไม่ได้รับการแก้ไข",
+     "level": "B2",
+     "example": "Filter for unresolved conversations or comments you wrote to find open questions."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1046,
+   "ts": "2026-11-08T10:11:55.734237+07:00",
+   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
+   "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Desktop application performance and Electron vs Rust rewrites are interesting to developers, but not directly related to data center or infrastructure operations.",
+   "summary": "Discord showcased a preview of a new desktop client rewritten in Rust that loads significantly faster and uses less memory than its Electron predecessor. The new version eliminates the traditional startup loading screen by handling updates in the background.",
+   "vocab": [
+    {
+     "word": "boot",
+     "thai": "การเริ่มระบบหรือเปิดโปรแกรม",
+     "level": "B2",
+     "example": "Clicking around feels instant, check out the boot time."
+    },
+    {
+     "word": "janky",
+     "thai": "คุณภาพแย่หรือไม่น่าเชื่อถือ (คำสแลง)",
+     "level": "C2",
+     "example": "Vishnevskiy thanked him for finding these janky old laptops to test."
+    },
+    {
+     "word": "modal",
+     "thai": "หน้าต่างป๊อปอัปแจ้งเตือนที่บังคับให้ผู้ใช้โต้ตอบก่อน",
+     "level": "B2",
+     "example": "It bootstraps so fast that we don’t need that startup modal at all."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 1045,
+ "next_id": 1047,
  "vocab": [
   {
    "word": "evaporation",
