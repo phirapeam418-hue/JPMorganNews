@@ -2057,44 +2057,6 @@
  ],
  "stories": [
   {
-   "id": 585,
-   "ts": "2026-10-25T15:49:20.659208+07:00",
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly covers major AI infrastructure innovations regarding wafer-scale chips and large model deployment.",
-   "summary": "Cerebras explains how they deploy multi-trillion parameter AI models across multiple wafer-scale chips using high-speed interconnects. This breakthrough allows massive language models to run at exceptionally high token speeds using on-chip memory.",
-   "vocab": [
-    {
-     "word": "illustrative",
-     "thai": "ที่เป็นตัวอย่าง, ซึ่งอธิบาย",
-     "level": "C1",
-     "example": "We use this case as an illustrative example of how the system scales."
-    },
-    {
-     "word": "quantization",
-     "thai": "การควอนไทเซชัน (การแปลงข้อมูลเป็นช่วงค่าที่จำกัด)",
-     "level": "C2",
-     "example": "4-bit weight quantization helps reduce the memory footprint of the model."
-    },
-    {
-     "word": "concurrent",
-     "thai": "ที่เกิดขึ้นพร้อมกัน",
-     "level": "C1",
-     "example": "The hardware handles a high number of concurrent requests efficiently."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 329,
-   "sent_ts": "2026-10-25T15:49:21.176283+07:00"
-  },
-  {
    "id": 586,
    "ts": "2026-10-25T21:05:03.447331+07:00",
    "title": "The power behind AI: Data centers drive the demand for qualified electricians",
