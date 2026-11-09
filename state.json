@@ -18692,11 +18692,13 @@
      "example": "The defense initiative enlists ethical hackers to protect critical national infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 629,
+   "sent_ts": "2026-11-09T14:52:26.000802+07:00"
   },
   {
    "id": 1048,
@@ -18728,11 +18730,13 @@
      "example": "Vacuums without HEPA filtration capture large debris while exhausting fine particles back into the room."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 630,
+   "sent_ts": "2026-11-09T14:52:26.499016+07:00"
   },
   {
    "id": 1049,
@@ -18764,11 +18768,13 @@
      "example": "Those differences should guide the material selection to protect against corrosion and extend the working life of the tank."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 631,
+   "sent_ts": "2026-11-09T14:52:26.997776+07:00"
   },
   {
    "id": 1050,
@@ -18800,11 +18806,13 @@
      "example": "The tool eliminates the 45-second CPU agent prompt re-evaluation bottleneck via warm restore."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 632,
+   "sent_ts": "2026-11-09T14:52:27.558594+07:00"
   },
   {
    "id": 1051,
@@ -18836,11 +18844,13 @@
      "example": "This nice little prompt is displayed in the terminal waiting for user approval."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 634,
+   "sent_ts": "2026-11-09T14:52:28.538954+07:00"
   },
   {
    "id": 1052,
@@ -18872,11 +18882,13 @@
      "example": "The change has frustrated some traders, a person familiar with the matter told Bloomberg."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 635,
+   "sent_ts": "2026-11-09T14:52:29.093046+07:00"
   },
   {
    "id": 1053,
@@ -18946,158 +18958,20 @@
      "example": "The Board's inquiry will examine all available information."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
    "credibility": 9,
    "extra_links": [
     "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/"
-   ]
+   ],
+   "msg_id": 633,
+   "sent_ts": "2026-11-09T14:52:28.048304+07:00"
   }
  ],
  "next_id": 1055,
  "vocab": [
-  {
-   "word": "brute-force",
-   "thai": "การลองผิดลองถูกทุกความเป็นไปได้",
-   "level": "B2",
-   "example": "I pulled all 16 certificates and brute-forced them.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unilateral",
-   "thai": "ฝ่ายเดียว",
-   "level": "C1",
-   "example": "Chainguard unilaterally broke the embargo and published built images.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dispute",
-   "thai": "ข้อพิพาท, โต้แย้ง",
-   "level": "B2",
-   "example": "PHP developers have accused software supply chain security shop Chainguard.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "operationalize",
-   "thai": "ทำให้สามารถปฏิบัติงานได้จริง",
-   "level": "C1",
-   "example": "The competitive advantage lies in how quickly operators can operationalize that power.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deviation",
-   "thai": "การเบี่ยงเบน",
-   "level": "C1",
-   "example": "Every infrastructure dependency was important, because any deviation could delay the project.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consecutive",
-   "thai": "ที่ติดต่อกันอย่างต่อเนื่อง",
-   "level": "B2",
-   "example": "The database export script executed for eighty-eight consecutive runs before being halted.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "audit trail",
-   "thai": "บันทึกร่องรอยการตรวจสอบระบบ",
-   "level": "B2",
-   "example": "The internal audit trail mapped confidential tenant identifiers to enterprise customer accounts.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bandwidth",
-   "thai": "ความกว้างของช่องสัญญาณส่งข้อมูล",
-   "level": "B2",
-   "example": "The combination of compute performance and high-bandwidth connectivity allows us to scale research.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reinforcement",
-   "thai": "การเสริมแรงหรือการสนับสนุน",
-   "level": "B2",
-   "example": "The high interconnect speeds help advance their reinforcement learning research.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "tenant",
-   "thai": "ผู้เช่าพื้นที่ระบบคลาวด์",
-   "level": "B2",
-   "example": "Thousands of cloud tenants were compromised in the breach.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "actor",
-   "thai": "ผู้กระทำกิจกรรม (เช่น แฮกเกอร์รัฐ)",
-   "level": "B2",
-   "example": "Chinese state actors launched the campaign.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "revocation",
-   "thai": "การเพิกถอน",
-   "level": "C1",
-   "example": "The company handled the quick revocation of affected certificates.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "parcel",
-   "thai": "แปลงที่ดิน",
-   "level": "C1",
-   "example": "The company submitted an application for a large land parcel.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "incorporate",
-   "thai": "รวมเข้าด้วยกัน",
-   "level": "B2",
-   "example": "The new site will incorporate several developments across the region.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "utilization",
    "thai": "การใช้ประโยชน์",
@@ -23953,6 +23827,146 @@
    "thai": "ใบแจ้งหนี้",
    "level": "B2",
    "example": "Invoices that don't arrive and appointment confirmations that never land can quietly harm your business.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "quadrennial",
+   "thai": "ทุกสี่ปี",
+   "level": "C2",
+   "example": "Internet governance is facing its quadrennial stress test at the upcoming conference.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enlist",
+   "thai": "ขอความร่วมมือ เกณฑ์กำลัง",
+   "level": "B2",
+   "example": "The defense initiative enlists ethical hackers to protect critical national infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "debris",
+   "thai": "เศษซากสิ่งปรักหักพังหรือสิ่งสกปรก",
+   "level": "B2",
+   "example": "Vacuums without HEPA filtration capture large debris while exhausting fine particles back into the room.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "potable",
+   "thai": "ที่ดื่มได้",
+   "level": "C1",
+   "example": "The sector's ability to add capacity will depend partly on how well it manages demand without placing unnecessary pressure on potable supplies.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "repurpose",
+   "thai": "นำกลับมาดัดแปลงใช้ประโยชน์ใหม่",
+   "level": "B2",
+   "example": "Where that water can be efficiently repurposed for data center cooling, there is an opportunity to reduce water stress.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "corrosion",
+   "thai": "การกัดกร่อน",
+   "level": "B2",
+   "example": "Those differences should guide the material selection to protect against corrosion and extend the working life of the tank.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "saturate",
+   "thai": "ทำให้อิ่มตัวหรือใช้งานจนเต็มขีดจำกัด",
+   "level": "B2",
+   "example": "Register tiling saturates 8-channel DDR5 memory bandwidth.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "initiate",
+   "thai": "เริ่มต้น, ริเริ่ม",
+   "level": "B2",
+   "example": "The NVIDIA Board is initiating an independent investigation in light of recent reporting.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "paramount",
+   "thai": "มีความสำคัญสูงสุด",
+   "level": "C1",
+   "example": "The Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inquiry",
+   "thai": "การไต่สวน, การตรวจสอบ",
+   "level": "B2",
+   "example": "The Board's inquiry will examine all available information.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "prompt",
+   "thai": "ข้อความแจ้งเตือนที่รอการตอบรับจากผู้ใช้",
+   "level": "B2",
+   "example": "This nice little prompt is displayed in the terminal waiting for user approval.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "underwriter",
+   "thai": "ผู้รับประกันการจำหน่ายหลักทรัพย์",
+   "level": "C1",
+   "example": "The bank barred its Hong Kong bankers from Claude in April and is now a lead underwriter on Anthropic's IPO.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "arrangement",
+   "thai": "การจัดเตรียมข้อตกลง",
+   "level": "B2",
+   "example": "That arrangement let the people closest to a problem build a first version without waiting for engineering time.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "frustrated",
+   "thai": "รู้สึกหงุดหงิดผิดหวัง",
+   "level": "B2",
+   "example": "The change has frustrated some traders, a person familiar with the matter told Bloomberg.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
