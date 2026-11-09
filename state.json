@@ -2088,83 +2088,17 @@
   "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
   "https://packethound.app/",
   "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-  "https://ftrain.com/aboard-the-web-is-more-than-enough"
+  "https://ftrain.com/aboard-the-web-is-more-than-enough",
+  "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+  "https://ketchup3d.github.io/app/",
+  "https://isocpp.org/files/papers/P4454R0.pdf",
+  "https://chimera-vocal-synth.vercel.app/",
+  "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+  "https://news.ycombinator.com/item?id=50417407",
+  "https://www.delorie.com/djgpp/history.html",
+  "https://serd.es/2026/11/08/playing-with-stm32mp2.html"
  ],
  "stories": [
-  {
-   "id": 596,
-   "ts": "2026-10-26T06:43:07.249314+07:00",
-   "title": "The State of Context Engineering",
-   "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Discusses AI context engineering and prompt harness design, which is tangentially relevant to AI application builders rather than infra ops.",
-   "summary": "An AI practitioner explores context engineering challenges, analyzing why simply expanding LLM context windows does not eliminate system failures. The presentation emphasizes balancing deterministic rules with probabilistic model behavior when building robust AI harnesses.",
-   "vocab": [
-    {
-     "word": "deterministic",
-     "thai": "ที่ให้ผลลัพธ์แน่นอนตามกฎเกณฑ์",
-     "level": "C1",
-     "example": "The job is knowing when to be deterministic and when to be probabilistic."
-    },
-    {
-     "word": "inadvertently",
-     "thai": "โดยไม่ได้ตั้งใจ",
-     "level": "C1",
-     "example": "As model makers target new capabilities, they inadvertently create challenges we must overcome."
-    },
-    {
-     "word": "obsolete",
-     "thai": "ล้าสมัย / ตกรุ่น",
-     "level": "B2",
-     "example": "They asked me a very reasonable question about how to ensure this won't become obsolete quickly."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 597,
-   "ts": "2026-10-26T06:43:07.249359+07:00",
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "link": "https://minimaxir.com/2026/10/cheap-llms/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Tracks aggressive pricing trends and token caching costs for major LLM providers, which impacts budgets for enterprise AI workloads.",
-   "summary": "OpenAI and Anthropic have dramatically slashed LLM API prices and prompt caching costs over recent months due to intense competition and improved inference efficiency. Prompt cache discounts provide substantial operational savings for agentic coding workflows that reuse lengthy conversation histories.",
-   "vocab": [
-    {
-     "word": "expenditure",
-     "thai": "รายจ่าย / การใช้จ่าย",
-     "level": "B2",
-     "example": "Cache read costs make up the vast majority of total token expenditure in agent workflows."
-    },
-    {
-     "word": "correlate",
-     "thai": "มีความสัมพันธ์สอดคล้องกัน",
-     "level": "C1",
-     "example": "A 75% reduction in cache cost correlates to a major reduction in overall operational price."
-    },
-    {
-     "word": "footnote",
-     "thai": "เรื่องเล็กน้อย / เชิงอรรถ",
-     "level": "C1",
-     "example": "Cache costs are typically treated as a footnote even though they dominate total usage."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 7,
-   "msg_id": 345,
-   "sent_ts": "2026-10-26T13:01:54.710940+07:00"
-  },
   {
    "id": 598,
    "ts": "2026-10-26T16:32:22.891390+07:00",
@@ -18974,11 +18908,13 @@
      "example": "Invoices that don't arrive and appointment confirmations that never land can quietly harm your business."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 627,
+   "sent_ts": "2026-11-09T08:17:45.937153+07:00"
   },
   {
    "id": 1054,
@@ -19014,31 +18950,14 @@
    "impact": 5,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/"
+   ]
   }
  ],
  "next_id": 1055,
  "vocab": [
-  {
-   "word": "inherently",
-   "thai": "โดยธรรมชาติของมัน",
-   "level": "C1",
-   "example": "They are inherently weak single-byte keys that anyone can factor.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "factor",
-   "thai": "แยกตัวประกอบ",
-   "level": "B2",
-   "example": "They are inherently weak single-byte keys that anyone can factor.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "brute-force",
    "thai": "การลองผิดลองถูกทุกความเป็นไปได้",
@@ -24014,6 +23933,26 @@
    "thai": "แบล็กเมล์, ขู่กรรโชก",
    "level": "B2",
    "example": "Nude photos of himself were stolen and used as blackmail against him.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inconsistency",
+   "thai": "ความไม่สม่ำเสมอหรือไม่แน่นอน",
+   "level": "B2",
+   "example": "That inconsistency is what makes this one dangerous: the person who sent the message sees a bounce and assumes a glitch.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "invoice",
+   "thai": "ใบแจ้งหนี้",
+   "level": "B2",
+   "example": "Invoices that don't arrive and appointment confirmations that never land can quietly harm your business.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
