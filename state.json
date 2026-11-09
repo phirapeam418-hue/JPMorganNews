@@ -2096,7 +2096,19 @@
   "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
   "https://news.ycombinator.com/item?id=50417407",
   "https://www.delorie.com/djgpp/history.html",
-  "https://serd.es/2026/11/08/playing-with-stm32mp2.html"
+  "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+  "https://www.theregister.com/software/2026/11/09/dev-error-bricked-600-pcs-caused-1m-cd-rom-write-off/5308039",
+  "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+  "https://www.theregister.com/systems/2026/11/09/huawei-says-its-made-a-100-percent-chinese-pc/5308335",
+  "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+  "https://arxiv.org/abs/2610.14162",
+  "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+  "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+  "https://blog.coredump.cx/p/quasi-logarithmic-kitchen-timer",
+  "https://www.worldhistory.org/Ur-Nammu/",
+  "https://twitter.com/shanemelaugh/status/2119192075505893695",
+  "https://aphyr.com/posts/427-rip-harvest",
+  "http://mamememo.blogspot.com/2010/09/qlobe.html"
  ],
  "stories": [
   {
@@ -18964,13 +18976,51 @@
    "scale": 8,
    "credibility": 9,
    "extra_links": [
-    "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/"
+    "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
+    "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
+    "https://nvidianews.nvidia.com/news/a-message-to-our-company"
    ],
    "msg_id": 633,
    "sent_ts": "2026-11-09T14:52:28.048304+07:00"
+  },
+  {
+   "id": 1055,
+   "ts": "2026-11-09T15:53:49.246454+07:00",
+   "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
+   "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Kernel development practices affect foundational infrastructure software, though the change in patch volume requires no immediate action.",
+   "summary": "Linus Torvalds noted that the recent surge of low-quality, AI-generated code submissions to the Linux kernel appears to have reached its peak. This provides some relief to open-source maintainers who have struggled to review an influx of automated pull requests.",
+   "vocab": [
+    {
+     "word": "peak",
+     "thai": "ขึ้นถึงจุดสูงสุด",
+     "level": "B2",
+     "example": "Linus Torvalds sees signs the AI-prompted patch flood has peaked."
+    },
+    {
+     "word": "sweat",
+     "thai": "ใช้งานอุปกรณ์อย่างหนักจนคุ้มค่าที่สุด",
+     "level": "C1",
+     "example": "Customers are sweating assets amid tight budgets and high hardware prices."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวังหรือการสอดแนม",
+     "level": "B2",
+     "example": "Authorities continue to upgrade smartphone surveillance tools."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 1055,
+ "next_id": 1056,
  "vocab": [
   {
    "word": "utilization",
