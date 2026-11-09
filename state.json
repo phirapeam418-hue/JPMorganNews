@@ -2112,305 +2112,6 @@
  ],
  "stories": [
   {
-   "id": 620,
-   "ts": "2026-10-27T05:04:33.670385+07:00",
-   "title": "Ecoblox partners with Rimac on modular data center solution",
-   "link": "https://www.datacenterdynamics.com/en/news/ecoblox-partners-with-rimac-on-modular-data-center-solution/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly covers modular data center power innovations by integrating EV battery packs into AI facilities.",
-   "summary": "Ecoblox and EV maker Rimac have partnered to build high-density modular data centers using automotive-grade battery modules. The system aims to provide extended backup power and bypass electrical grid constraints for AI computing clusters.",
-   "vocab": [
-    {
-     "word": "continuous",
-     "thai": "อย่างต่อเนื่อง",
-     "level": "B2",
-     "example": "The modules will enable longer continuous backup power for critical computing hardware."
-    },
-    {
-     "word": "resilient",
-     "thai": "ที่ฟื้นตัวได้เร็ว/ทนทาน",
-     "level": "C1",
-     "example": "They enable cloud providers to deploy power-resilient AI clusters faster."
-    },
-    {
-     "word": "industrialize",
-     "thai": "ทำให้เป็นมาตรฐานเชิงอุตสาหกรรม",
-     "level": "C2",
-     "example": "Our power electronics technologies have been developed and industrialized to meet demanding requirements."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 621,
-   "ts": "2026-10-27T05:04:33.670434+07:00",
-   "title": "Cadence unveils Nvidia-powered AI data center in Munich, Germany",
-   "link": "https://www.datacenterdynamics.com/en/news/cadence-unveils-nvidia-powered-ai-data-center-in-munich-germany/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Reports on a new sovereign AI data center facility tailored for chip design and digital twins in Europe.",
-   "summary": "Cadence launched a sovereign AI data center in Munich equipped with Nvidia hardware for chip simulation and design. The facility provides European engineering teams with secure cloud infrastructure that complies with regional data privacy rules.",
-   "vocab": [
-    {
-     "word": "complement",
-     "thai": "เติมเต็ม/เสริม",
-     "level": "B2",
-     "example": "The data center will complement existing European cloud resources."
-    },
-    {
-     "word": "validate",
-     "thai": "ตรวจสอบความถูกต้อง",
-     "level": "B2",
-     "example": "The platform allows customers to design, validate, and optimize next-generation AI infrastructure."
-    },
-    {
-     "word": "strategic",
-     "thai": "เชิงกลยุทธ์",
-     "level": "B2",
-     "example": "Chip designs and AI infrastructure are strategic assets for European industry."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 622,
-   "ts": "2026-10-27T05:04:33.670463+07:00",
-   "title": "Verizon signs $2bn AWS AI infrastructure deal",
-   "link": "https://www.datacenterdynamics.com/en/news/verizon-signs-2bn-aws-ai-infrastructure-deal/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Details a multi-billion dollar networking deal between a telecom giant and AWS for AI infrastructure connectivity.",
-   "summary": "Verizon secured a $2 billion deal with AWS to provide optical fiber connectivity and edge computing for AI workloads. The carrier is rapidly monetizing its dark and lit fiber networks to support hyperscale cloud data centers.",
-   "vocab": [
-    {
-     "word": "momentum",
-     "thai": "แรงขับเคลื่อน/ความต่อเนื่อง",
-     "level": "B2",
-     "example": "We are seeing momentum with numerous partners to use our network hubs."
-    },
-    {
-     "word": "backbone",
-     "thai": "เครือข่ายแกนหลัก/กระดูกสันหลัง",
-     "level": "B2",
-     "example": "That deal supports Verizon's efforts to support the long-haul backbone that AI hyperscalers need."
-    },
-    {
-     "word": "meaningfully",
-     "thai": "อย่างมีนัยสำคัญ",
-     "level": "B2",
-     "example": "We expect both our fiber and edge computing to add meaningfully to our future growth."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 367,
-   "sent_ts": "2026-10-27T13:11:40.675692+07:00"
-  },
-  {
-   "id": 623,
-   "ts": "2026-10-27T05:04:33.670488+07:00",
-   "title": "Sponsored: The next evolution of data center backup power",
-   "link": "https://www.datacenterdynamics.com/en/opinions/the-next-evolution-of-data-center-backup-power/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored opinion/analysis piece examining distributed backup power architecture for data centers.",
-   "summary": "This sponsored article explores how surging AI power demands require data centers to shift toward modular, distributed backup generators. By adopting smaller parallel generator sets, operators can scale capacity gradually without costly overprovisioning.",
-   "vocab": [
-    {
-     "word": "standby",
-     "thai": "การเตรียมพร้อมสำรอง",
-     "level": "B2",
-     "example": "These systems are designed to remain on standby, ready to take over when primary power fails."
-    },
-    {
-     "word": "adaptability",
-     "thai": "ความสามารถในการปรับตัว",
-     "level": "C1",
-     "example": "Equal attention must be given to the adaptability of the backup power infrastructure."
-    },
-    {
-     "word": "parallel",
-     "thai": "ขนานกัน",
-     "level": "B2",
-     "example": "With these units operating in parallel, operators can add backup power capacity in stages."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 6
-  },
-  {
-   "id": 624,
-   "ts": "2026-10-27T05:04:33.670592+07:00",
-   "title": "AWS capacity \"largely\" sold out in 2027, Amazon CEO claims",
-   "link": "https://www.datacenterdynamics.com/en/news/aws-capacity-largely-sold-out-in-2027-amazon-ceo-claims/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly impacts cloud and infrastructure teams planning capacity; AWS is essentially booked through 2027.",
-   "summary": "Amazon CEO Andy Jassy revealed that AWS data center capacity is largely sold out through 2027 despite spending $220 billion this year. He warned that persistent supply chain constraints, especially memory, will limit cloud expansion for several years.",
-   "vocab": [
-    {
-     "word": "tradeoff",
-     "thai": "การได้ประโยชน์อย่างหนึ่งโดยต้องเสียอีกอย่างหนึ่ง",
-     "level": "B2",
-     "example": "The company had to make real tradeoffs over which vertical to focus on."
-    },
-    {
-     "word": "constraint",
-     "thai": "ข้อจำกัด",
-     "level": "B2",
-     "example": "I wish I could tell you that the supply constraints would be just a 2027 issue."
-    },
-    {
-     "word": "satisfy",
-     "thai": "ตอบสนอง (ความต้องการ)",
-     "level": "B2",
-     "example": "We still probably wouldn't satisfy all the demand right now."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 9,
-   "credibility": 9
-  },
-  {
-   "id": 625,
-   "ts": "2026-10-27T05:07:28.873511+07:00",
-   "title": "PHP2Shell is a warning shot for vulnerability disclosure",
-   "link": "https://www.theregister.com/columnists/2026/10/26/php2shell-is-a-warning-shot-for-vulnerability-disclosure/5304918",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Addresses vulnerability disclosure ethics and security practices around PHP exploits, moderately relevant for web infrastructure hosts.",
-   "summary": "A high-profile capture-the-flag contest highlighted systemic vulnerabilities in widely deployed PHP components. Industry experts emphasize that software ecosystems must improve vulnerability disclosure and patching habits.",
-   "vocab": [
-    {
-     "word": "enlist",
-     "thai": "เกณฑ์, ขอความช่วยเหลือ",
-     "level": "C1",
-     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราว, ระยะเปลี่ยนผ่าน",
-     "level": "C1",
-     "example": "Ubuntu interim releases are getting interesting again."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่า",
-     "level": "B2",
-     "example": "Went at equivalent of $3.5B+ valuation for entire firm, though portion sold not specified."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "extra_links": [
-    "https://blog.cloudflare.com/php-ctf/"
-   ]
-  },
-  {
-   "id": 626,
-   "ts": "2026-10-27T05:07:28.873556+07:00",
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model, and our remediation with SGLang",
-   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "source": "Cloudflare Blog",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly impacts cloud and AI infrastructure operators running multi-tenant LLM serving engines and GPU clusters.",
-   "summary": "Cloudflare disclosed a multi-tenant cross-request memory exposure vulnerability in its Workers AI inference engine using SGLang. Misconfiguration combined with a bug in over-length prompt handling caused key-value cache data from one customer to leak to another.",
-   "vocab": [
-    {
-     "word": "remediation",
-     "thai": "การแก้ไขเยียวยาข้อผิดพลาดหรือปัญหา",
-     "level": "C1",
-     "example": "We have remediated the issue, and we restored the model on September 9."
-    },
-    {
-     "word": "disaggregated",
-     "thai": "ที่แยกส่วนออกจากกัน",
-     "level": "C2",
-     "example": "The second was a bug in how SGLang handled requests in disaggregated prefill/decode mode."
-    },
-    {
-     "word": "placeholder",
-     "thai": "ตัวแทนหรือสัญลักษณ์ชั่วคราวที่ใช้กันที่ไว้",
-     "level": "B2",
-     "example": "A prompt that did not fit the pool was internally replaced with a one-token placeholder."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 10,
-   "msg_id": 363,
-   "sent_ts": "2026-10-27T13:11:37.972757+07:00"
-  },
-  {
-   "id": 627,
-   "ts": "2026-10-27T05:12:16.332130+07:00",
-   "title": "Microsoft offers voluntary buyouts to a quarter of its workforce",
-   "link": "https://www.kuow.org/technology/2026-10-26/microsoft-offers-voluntary-buyouts-to-a-quarter-of-its-workforce",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Major corporate headcount reductions at a hyperscaler can influence cloud operations and partnership support.",
-   "summary": "Microsoft is offering voluntary severance packages to roughly 60,000 employees, representing about 25% of its global workforce up to the vice-president level. The initiative aims to lower operational overhead as the company continues directing capital expenditures toward AI infrastructure.",
-   "vocab": [
-    {
-     "word": "severance",
-     "thai": "เงินชดเชยการเลิกจ้าง",
-     "level": "C1",
-     "example": "The offer will be comparable to the company’s standard severance package."
-    },
-    {
-     "word": "tenure",
-     "thai": "ระยะเวลาการดำรงตำแหน่งหรือการทำงาน",
-     "level": "C1",
-     "example": "It typically includes base pay for a certain amount of time based on tenure."
-    },
-    {
-     "word": "incentivize",
-     "thai": "จูงใจด้วยผลตอบแทน",
-     "level": "C1",
-     "example": "The voluntary retirement program offered more generous terms to incentivize uptake."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "extra_links": [
-    "https://www.theregister.com/cxo/2026/10/26/microsoft-offers-parachutes-to-60k-employees-if-they-jump-by-the-end-of-the-year/5305538",
-    "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/"
-   ]
-  },
-  {
    "id": 628,
    "ts": "2026-10-27T16:29:36.391606+07:00",
    "title": "Sponsored: The extinction of data breaches: Degauss, destroy, recycle",
@@ -18558,7 +18259,7 @@
    "thai": "ซึ่งเกี่ยวกับการทดลอง",
    "level": "B2",
    "example": "The new API is currently available as an experimental feature in origin trial.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18658,7 +18359,7 @@
    "thai": "อำนาจอธิปไตย (ในที่นี้คือ อธิปไตยทางดิจิทัล)",
    "level": "C1",
    "example": "The project focuses on enhancing Switzerland’s digital sovereignty.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18848,7 +18549,7 @@
    "thai": "การสะสมหรือการรวมยอดข้อมูลตัวเลข",
    "level": "B2",
    "example": "Tests used five-sample medians with FP32 accumulation.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19678,7 +19379,7 @@
    "thai": "การรวมกลุ่ม, พันธมิตร",
    "level": "C1",
    "example": "The coalition published manufacturing rules to standardize optical interconnects.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20358,7 +20059,7 @@
    "thai": "ตัวแทน, สิ่งทดแทน",
    "level": "B2",
    "example": "The fuel acts as a drop-in substitute for conventional diesel.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -23210,26 +22911,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6278459983013086141": {
-   "word": "heterogeneous",
-   "correct": 1
-  },
-  "6278459983013086142": {
-   "word": "collaboration",
-   "correct": 1
-  },
-  "6278459983013086143": {
-   "word": "escalation",
-   "correct": 1
-  },
-  "6278459983013086144": {
-   "word": "nuanced",
-   "correct": 2
-  },
-  "6278459983013086145": {
-   "word": "erratic",
-   "correct": 0
-  },
   "6282529254072649273": {
    "word": "centralized",
    "correct": 1
@@ -23408,6 +23089,26 @@
   },
   "6307783885111428147": {
    "word": "covert",
+   "correct": 1
+  },
+  "6309706857933964432": {
+   "word": "coalition",
+   "correct": 0
+  },
+  "6309706857933964433": {
+   "word": "substitute",
+   "correct": 2
+  },
+  "6309706857933964434": {
+   "word": "experimental",
+   "correct": 2
+  },
+  "6309706857933964435": {
+   "word": "sovereignty",
+   "correct": 1
+  },
+  "6309706857933964436": {
+   "word": "accumulation",
    "correct": 1
   }
  },
