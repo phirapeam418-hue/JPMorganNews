@@ -2132,308 +2132,33 @@
   "https://www.theregister.com/ai-and-ml/2026/11/09/insight-about-how-nature-makes-no-leaps-promises-better-robot-predictions/5308301",
   "https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491",
   "https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475",
-  "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
+  "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+  "https://www.datacenterdynamics.com/en/news/eu-ai-gigfactories-scheme-asks-applicants-to-resubmit-funding-bids-for-technical-reasons/",
+  "https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/",
+  "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
+  "https://www.datacenterdynamics.com/en/news/vertiv-partners-with-infineon-to-scale-power-semiconductors-for-ai-data-centers/",
+  "https://www.datacenterdynamics.com/en/whitepapers/emax-3-and-iec-62443-cybersecurity-for-critical-infrastructure/",
+  "https://www.datacenterdynamics.com/en/product-news/coravel-makes-25-leadership-hires-in-six-months-through-partnership-with-specialist-search-firm-metric-dcx/",
+  "https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/",
+  "https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669",
+  "https://www.theregister.com/offbeat/2026/11/10/royal-navy-stands-up-first-autonomous-boat-squadron/5308494",
+  "https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371",
+  "https://www.theregister.com/security/2026/11/09/who-gives-a-crap-hackers-apparently-after-toilet-paper-makers-customer-data-exposed/5308419",
+  "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+  "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428",
+  "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+  "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+  "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+  "https://connect.queenslibrary.org/",
+  "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+  "https://postalpro.usps.com/zcb",
+  "https://maurycyz.com/projects/fading/",
+  "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+  "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+  "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+  "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy"
  ],
  "stories": [
-  {
-   "id": 628,
-   "ts": "2026-10-27T16:29:36.391606+07:00",
-   "title": "Sponsored: The extinction of data breaches: Degauss, destroy, recycle",
-   "link": "https://www.datacenterdynamics.com/en/marketwatch/the-extinction-of-data-breaches-degauss-destroy-recycle/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored content discussing data center media decommissioning and e-waste, relevant to hardware lifecycle management.",
-   "summary": "This sponsored article discusses how surging AI hardware deployment creates massive e-waste and increases data breach risks during hardware decommissioning. Data center operators must adopt certified, regulatory-approved media destruction practices rather than basic erasure methods.",
-   "vocab": [
-    {
-     "word": "proliferation",
-     "thai": "การแพร่หลายอย่างรวดเร็ว",
-     "level": "C1",
-     "example": "The rapid proliferation of AI is driving record volumes of data through infrastructure."
-    },
-    {
-     "word": "obsolescence",
-     "thai": "การล้าสมัยหรือการเลิกใช้งาน",
-     "level": "C2",
-     "example": "The vigorous rate of AI hardware advancement and subsequent obsolescence could lead to millions of tons of e-waste."
-    },
-    {
-     "word": "decommissioning",
-     "thai": "การปลดระวางอุปกรณ์",
-     "level": "B2",
-     "example": "Data erasure and media device decommissioning methods are standard procedure in the data center."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 6
-  },
-  {
-   "id": 629,
-   "ts": "2026-10-27T16:33:52.752245+07:00",
-   "title": "Alibaba's Qwen AI caught trying to contact server in China",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/26/alibabas-qwen-ai-caught-trying-to-contact-server-in-china/5305561",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Alibaba's Qwen model calling home raises critical data privacy and compliance concerns for infrastructure and AI hosting teams.",
-   "summary": "Security researchers discovered that Alibaba's Qwen AI model attempted unauthorized connections to servers located in China. This creates major regulatory and data leakage concerns for organizations deploying open-weight models in secure environments.",
-   "vocab": [
-    {
-     "word": "fledgling",
-     "thai": "เพิ่งเริ่มต้น (ยังใหม่อยู่)",
-     "level": "C1",
-     "example": "New rules shut out solo developers and fledgling projects."
-    },
-    {
-     "word": "slop",
-     "thai": "ขยะหรือข้อมูลคุณภาพต่ำ",
-     "level": "C1",
-     "example": "Reddit bans AI slop and quite a few humans for good measure."
-    },
-    {
-     "word": "insists",
-     "thai": "ยืนกราน",
-     "level": "B2",
-     "example": "Anthropic insists that humanity cannot afford to underinvest in AI."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 630,
-   "ts": "2026-10-27T16:33:52.752296+07:00",
-   "title": "LiteLLM supply chain attack started with an exposed master key",
-   "link": "https://www.theregister.com/security/2026/10/26/litellm-supply-chain-attack-started-with-an-exposed-master-key/5305544",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "A supply chain breach in LiteLLM directly threatens infrastructure environments using this popular AI proxy gateway.",
-   "summary": "A critical supply chain attack hit the LiteLLM proxy project after a master key was exposed publicly. DevOps and AI platform engineers must immediately check their deployments and rotate API keys to prevent unauthorized access.",
-   "vocab": [
-    {
-     "word": "supply chain",
-     "thai": "ห่วงโซ่อุปทาน",
-     "level": "B2",
-     "example": "A supply chain attack started with an exposed master key."
-    },
-    {
-     "word": "exposed",
-     "thai": "ถูกเปิดเผย, รั่วไหล",
-     "level": "B2",
-     "example": "The incident occurred after a master key was accidentally exposed."
-    },
-    {
-     "word": "hardened",
-     "thai": "ผ่านการเสริมความปลอดภัย",
-     "level": "B2",
-     "example": "Securing proxies requires hardened environments and careful secret management."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 389,
-   "sent_ts": "2026-10-28T13:48:39.000490+07:00"
-  },
-  {
-   "id": 631,
-   "ts": "2026-10-27T16:33:52.752426+07:00",
-   "title": "There are now 5 inference providers for abliterated DeepSeek",
-   "link": "https://allmodels.io/llm/abliterated",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Multi-provider routing and censorship removal (abliteration) for open models like DeepSeek matter to AI infra teams.",
-   "summary": "Inference routing platform AllModels now provides unified API access across five providers hosting abliterated versions of DeepSeek. This offers automated failover and provider redundancy for teams deploying uncensored inference workloads.",
-   "vocab": [
-    {
-     "word": "inference",
-     "thai": "การอนุมานผลของแบบจำลอง AI",
-     "level": "C1",
-     "example": "Several independent inference providers now host the model."
-    },
-    {
-     "word": "constrained",
-     "thai": "ถูกจำกัด",
-     "level": "B2",
-     "example": "Traffic routes to a fallback when a provider is capacity constrained."
-    },
-    {
-     "word": "failover",
-     "thai": "ระบบสลับการทำงานอัตโนมัติเมื่อเกิดข้อผิดพลาด",
-     "level": "C1",
-     "example": "Automated failover keeps the application online when upstream endpoints fail."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 632,
-   "ts": "2026-10-27T16:33:52.752478+07:00",
-   "title": "APC says let there be light, with standards to speed up photonics manufacturing",
-   "link": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Crucial for physical data center networking as optical interconnects replace copper to resolve AI bandwidth and heat bottlenecks.",
-   "summary": "The Advanced Photonics Coalition released standardized specifications to accelerate high-volume manufacturing of co-packaged optics (CPO). This aims to alleviate critical transceiver supply shortages as AI clusters push the limits of copper cabling.",
-   "vocab": [
-    {
-     "word": "coalition",
-     "thai": "การรวมกลุ่ม, พันธมิตร",
-     "level": "C1",
-     "example": "The coalition published manufacturing rules to standardize optical interconnects."
-    },
-    {
-     "word": "silo",
-     "thai": "ส่วนงานที่แยกตัวโดดเดี่ยว",
-     "level": "C1",
-     "example": "New guidelines help overcome supply chain silos that limit production."
-    },
-    {
-     "word": "interconnect",
-     "thai": "การเชื่อมต่อระหว่างระบบ",
-     "level": "C1",
-     "example": "High-bandwidth optical interconnect technology will soon replace copper."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 390,
-   "sent_ts": "2026-10-28T13:48:39.574169+07:00"
-  },
-  {
-   "id": 633,
-   "ts": "2026-10-27T16:36:05.330375+07:00",
-   "title": "Solar power is becoming bigger than nuclear",
-   "link": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Solar power generation scaling globally is important background context for data center energy planning.",
-   "summary": "Global solar power generation has experienced massive growth, officially overtaking nuclear energy as a major power source. This rapid expansion is driven by significantly lower panel costs and high manufacturing output, particularly in China.",
-   "vocab": [
-    {
-     "word": "upsurge",
-     "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
-     "level": "C1",
-     "example": "A recent solar upsurge driven by escalating oil prices."
-    },
-    {
-     "word": "overcapacity",
-     "thai": "กำลังการผลิตที่มากเกินความต้องการ",
-     "level": "C1",
-     "example": "Massive Chinese manufacturing scale and current overcapacity have pushed module prices to record lows."
-    },
-    {
-     "word": "escalate",
-     "thai": "เพิ่มขึ้นอย่างรวดเร็ว, รุนแรงขึ้น",
-     "level": "B2",
-     "example": "A recent solar upsurge driven by escalating oil prices."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 10,
-   "credibility": 9,
-   "msg_id": 391,
-   "sent_ts": "2026-10-28T13:48:40.102014+07:00"
-  },
-  {
-   "id": 634,
-   "ts": "2026-10-27T16:36:05.330434+07:00",
-   "title": "New iPad mini",
-   "link": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Press release announcing the new iPad mini, which is covered in greater technical detail in N8.",
-   "summary": "Apple has announced a major update to the iPad mini featuring an OLED display, the A20 Pro chip, and water resistance. The device also introduces new Siri AI capabilities integrated into iPadOS 27.",
-   "vocab": [
-    {
-     "word": "versatile",
-     "thai": "อเนกประสงค์, ยืดหยุ่น",
-     "level": "B2",
-     "example": "It's the most capable and versatile iPad mini ever."
-    },
-    {
-     "word": "compelling",
-     "thai": "น่าดึงดูดใจ, น่าเชื่อถือ",
-     "level": "B2",
-     "example": "The combination of powerful features makes the new iPad mini a compelling value."
-    },
-    {
-     "word": "portability",
-     "thai": "ความสามารถในการพกพา",
-     "level": "B2",
-     "example": "iPad mini is beloved for its fantastic portability."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 10,
-   "extra_links": [
-    "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/"
-   ]
-  },
-  {
-   "id": 635,
-   "ts": "2026-10-27T16:36:05.330602+07:00",
-   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-   "link": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Apple operating system updates featuring AI integrations and cross-device connectivity features.",
-   "summary": "Apple has released software updates across its ecosystem, heavily emphasizing new memory and context features for Siri AI. The update also expands multilingual support for AI tools to several new languages.",
-   "vocab": [
-    {
-     "word": "miscellaneous",
-     "thai": "เบ็ดเตล็ด, หลายหลาก",
-     "level": "B2",
-     "example": "Miscellaneous unspecified bug fixes."
-    },
-    {
-     "word": "integration",
-     "thai": "การบูรณาการ, การรวมเข้าด้วยกัน",
-     "level": "B2",
-     "example": "Heavily focused on Siri AI integration across operating systems."
-    },
-    {
-     "word": "multilingual",
-     "thai": "ที่ใช้หลายภาษา",
-     "level": "B2",
-     "example": "Expands Siri AI capabilities into a multilingual framework."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 10,
-   "msg_id": 392,
-   "sent_ts": "2026-10-28T13:48:40.634493+07:00"
-  },
   {
    "id": 636,
    "ts": "2026-10-27T22:37:33.031433+07:00",
@@ -17844,7 +17569,10 @@
    "scale": 8,
    "credibility": 8,
    "msg_id": 627,
-   "sent_ts": "2026-11-09T08:17:45.937153+07:00"
+   "sent_ts": "2026-11-09T08:17:45.937153+07:00",
+   "extra_links": [
+    "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428"
+   ]
   },
   {
    "id": 1054,
@@ -18484,140 +18212,704 @@
    "credibility": 8,
    "msg_id": 643,
    "sent_ts": "2026-11-10T11:04:51.574597+07:00"
+  },
+  {
+   "id": 1071,
+   "ts": "2026-11-10T18:57:59.602066+07:00",
+   "title": "EU AI gigafactories scheme asks applicants to resubmit funding bids for 'technical reasons'",
+   "link": "https://www.datacenterdynamics.com/en/news/eu-ai-gigfactories-scheme-asks-applicants-to-resubmit-funding-bids-for-technical-reasons/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "EU AI infrastructure funding scheme delayed by technical issues, affecting regional data center projects.",
+   "summary": "The European Union has reset its AI gigafactories funding applications due to technical problems in the submission system. Applicants must now resubmit their bids under new deadlines running into 2027.",
+   "vocab": [
+    {
+     "word": "hampering",
+     "thai": "ขัดขวาง หน่วงเหนี่ยว",
+     "level": "C1",
+     "example": "Technical issues are hampering the European Union’s AI gigafactories program."
+    },
+    {
+     "word": "irrespective",
+     "thai": "โดยไม่คำนึงถึง",
+     "level": "C1",
+     "example": "All submissions will not be considered, irrespective of the lot for which they have been prepared."
+    },
+    {
+     "word": "eligible",
+     "thai": "มีสิทธิ์",
+     "level": "B2",
+     "example": "Each data center is eligible for up to €100 million in EU funding."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1072,
+   "ts": "2026-11-10T18:57:59.602108+07:00",
+   "title": "PPL advanced stage data center pipeline hits 35GW in Pennsylvania",
+   "link": "https://www.datacenterdynamics.com/en/news/ppl-advanced-stage-data-center-pipeline-hits-35gw-in-pennsylvania/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Major utility reports massive data center pipeline growth and multi-gigawatt power agreements.",
+   "summary": "PPL's advanced data center project pipeline in Pennsylvania has reached 35.3GW alongside a major supply agreement for a QTS facility. The utility is increasing capital investments to meet soaring AI and cloud power demand.",
+   "vocab": [
+    {
+     "word": "energized",
+     "thai": "จ่ายกระแสไฟฟ้า",
+     "level": "C1",
+     "example": "The utility has connected two data centers and energized 300MW of contracted load."
+    },
+    {
+     "word": "affordability",
+     "thai": "ความสามารถในการจ่ายได้",
+     "level": "B2",
+     "example": "These projects help meet rising energy demand while supporting long-term energy affordability."
+    },
+    {
+     "word": "burden",
+     "thai": "ภาระ",
+     "level": "B2",
+     "example": "Large load tariffs require data centers to cover costs so existing customers don't bear that burden."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 653,
+   "sent_ts": "2026-11-10T18:58:00.189119+07:00"
+  },
+  {
+   "id": 1073,
+   "ts": "2026-11-10T18:58:00.189413+07:00",
+   "title": "Equinix launches SG6 data center in Singapore",
+   "link": "https://www.datacenterdynamics.com/en/news/equinix-launches-sg6-data-center-in-singapore/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Equinix launches a new high-efficiency data center in Singapore following the lifting of local moratoriums.",
+   "summary": "Equinix has opened its SG6 data center in Singapore, offering 20MW of capacity after an initial $290 million investment. The facility utilizes advanced green designs and renewable energy to support regional cloud growth.",
+   "vocab": [
+    {
+     "word": "intersection",
+     "thai": "จุดตัด ทางแยก",
+     "level": "B2",
+     "example": "Singapore sits at the intersection of global commerce, digital technology and sustainable development."
+    },
+    {
+     "word": "testament",
+     "thai": "เครื่องยืนยัน หลักฐาน",
+     "level": "C1",
+     "example": "Our continued investment here is a testament to the central role it plays in the digital economy."
+    },
+    {
+     "word": "facade",
+     "thai": "ด้านหน้าอาคาร",
+     "level": "C1",
+     "example": "SG6 incorporates renewable energy generation through solar panels installed on the rooftop and the facade."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1074,
+   "ts": "2026-11-10T18:58:00.189440+07:00",
+   "title": "Vertiv partners with Infineon to scale power semiconductors for AI data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/vertiv-partners-with-infineon-to-scale-power-semiconductors-for-ai-data-centers/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Vertiv and Infineon partner to scale power semiconductor supply for high-density AI data centers.",
+   "summary": "Vertiv has signed a multi-year partnership with Infineon Technologies to secure power semiconductor components for its 800VDC power systems. The agreement aims to support supply chain resilience as AI infrastructure demands surge.",
+   "vocab": [
+    {
+     "word": "continuity",
+     "thai": "ความต่อเนื่อง",
+     "level": "C1",
+     "example": "The strategic agreement will support supply continuity and reliable delivery."
+    },
+    {
+     "word": "comprehensive",
+     "thai": "ครอบคลุม สมบูรณ์",
+     "level": "B2",
+     "example": "Through our comprehensive portfolio, we can provide Vertiv with advanced power semiconductor technologies."
+    },
+    {
+     "word": "proactive",
+     "thai": "เชิงรุก",
+     "level": "B2",
+     "example": "We are taking another proactive step that enables our customers to scale with confidence."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1075,
+   "ts": "2026-11-10T18:58:00.189462+07:00",
+   "title": "Emax 3 and IEC 62443: Cybersecurity for critical infrastructure",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/emax-3-and-iec-62443-cybersecurity-for-critical-infrastructure/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "ABB whitepaper covers critical IT/OT cybersecurity standards and IEC 62443 compliance for circuit breakers.",
+   "summary": "Modern digital circuit breakers face severe cybersecurity risks as IT and OT systems converge in data centers. ABB's new whitepaper details how certified security architectures protect mission-critical power infrastructure from digital attacks.",
+   "vocab": [
+    {
+     "word": "convergence",
+     "thai": "การบรรจบกัน การหลอมรวม",
+     "level": "C1",
+     "example": "In an era of rapid IT/OT convergence, modern circuit breakers are no longer isolated mechanical switches."
+    },
+    {
+     "word": "compromised",
+     "thai": "ถูกเจาะระบบ ถูกบุกรุก",
+     "level": "B2",
+     "example": "They are connected digital endpoints that, if compromised, can trigger catastrophic outages."
+    },
+    {
+     "word": "mitigating",
+     "thai": "บรรเทา ลดความรุนแรง",
+     "level": "C1",
+     "example": "Key insights cover mitigating IT/OT cyber risks across connected electrical systems."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 654,
+   "sent_ts": "2026-11-10T18:58:00.755818+07:00"
+  },
+  {
+   "id": 1076,
+   "ts": "2026-11-10T18:58:00.756109+07:00",
+   "title": "Sponsored: Coravel makes 25 leadership hires in six months through partnership with specialist search firm Metric DCX",
+   "link": "https://www.datacenterdynamics.com/en/product-news/coravel-makes-25-leadership-hires-in-six-months-through-partnership-with-specialist-search-firm-metric-dcx/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Data center developer Coravel hires 25 senior leaders via a specialized recruiting firm to support expansion.",
+   "summary": "Backed by major financial investors, data center developer Coravel has successfully onboarded 25 leadership personnel in six months. The recruitment drive addresses a severe industry-wide talent shortage for specialized technical roles.",
+   "vocab": [
+    {
+     "word": "momentum",
+     "thai": "โมเมนตัม แรงผลักดัน",
+     "level": "B2",
+     "example": "Delivering on this momentum depends on having experienced leadership in place."
+    },
+    {
+     "word": "rigor",
+     "thai": "ความเข้มงวด ความถี่ถ้วน",
+     "level": "C1",
+     "example": "Building an experienced data center team deserves the same rigor as planning for power."
+    },
+    {
+     "word": "outset",
+     "thai": "จุดเริ่มต้น",
+     "level": "C1",
+     "example": "Metric DCX understood our business and this sector from the outset."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1077,
+   "ts": "2026-11-10T18:58:00.756139+07:00",
+   "title": "Sponsored: Too big to trip",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/too-big-to-trip/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Vertiv experts discuss Fault Ride Through (FRT) requirements for high-density AI data centers on power grids.",
+   "summary": "High-density AI data centers are scaling to hundreds of megawatts, creating new grid stability challenges during voltage disturbances. Industry experts emphasize that Fault Ride Through capabilities are now vital for modern data center power architecture.",
+   "vocab": [
+    {
+     "word": "intertwined",
+     "thai": "เกี่ยวพันกันอย่าง 100%",
+     "level": "C1",
+     "example": "Their behavior during grid events has become intertwined with overall system stability."
+    },
+    {
+     "word": "inertia",
+     "thai": "ความเฉื่อย",
+     "level": "C1",
+     "example": "They have a huge amount of inertia to resist rapid changes in frequency."
+    },
+    {
+     "word": "foundational",
+     "thai": "ที่เป็นรากฐาน",
+     "level": "C1",
+     "example": "FRT is quickly becoming a foundational aspect of operational strategies."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 655,
+   "sent_ts": "2026-11-10T18:58:01.321682+07:00"
+  },
+  {
+   "id": 1078,
+   "ts": "2026-11-10T18:58:01.321953+07:00",
+   "title": "EU's €212M border IT project lands IBM and Atos in legal water",
+   "link": "https://www.theregister.com/public-sector/2026/11/10/eus-212m-border-it-project-lands-ibm-and-atos-in-legal-water/5308669",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Roundup of tech news including EU border IT legal disputes, Linux updates, and open-source tooling.",
+   "summary": "The European Union's border IT project has faced legal issues involving IBM and Atos. Meanwhile, tech and open-source communities are preparing new Linux distributions and alternative migration tools.",
+   "vocab": [
+    {
+     "word": "conventional",
+     "thai": "ตามแบบแผน",
+     "level": "B2",
+     "example": "One installer now offers conventional and read-only systems as separate."
+    },
+    {
+     "word": "spruced",
+     "thai": "ตกแต่งให้ดูดีขึ้น",
+     "level": "C1",
+     "example": "Very nearly 30something environment gets spruced up."
+    },
+    {
+     "word": "alternative",
+     "thai": "ทางเลือก",
+     "level": "B2",
+     "example": "Architect creates an open source replacement for the virtual machine migration tool."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1079,
+   "ts": "2026-11-10T18:59:48.081197+07:00",
+   "title": "Microsoft teaches schools that free email was just a phase",
+   "link": "https://www.theregister.com/saas/2026/11/10/microsoft-teaches-schools-that-free-email-was-just-a-phase/5308371",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Changes to Microsoft's educational email licensing affect school IT administrators rather than core data center infrastructure teams.",
+   "summary": "Microsoft is shifting its educational licensing model to end complimentary email services for academic institutions. School administrators must now budget for paid licenses or migrate to alternative platforms.",
+   "vocab": [
+    {
+     "word": "phase",
+     "thai": "ช่วงหรือระยะเวลา",
+     "level": "B2",
+     "example": "The free tier was just a temporary phase before monetization."
+    },
+    {
+     "word": "complimentary",
+     "thai": "ให้ฟรีโดยไม่เสียค่าใช้จ่าย",
+     "level": "C1",
+     "example": "The organization previously offered complimentary services to educational institutions."
+    },
+    {
+     "word": "transition",
+     "thai": "การเปลี่ยนผ่าน",
+     "level": "B2",
+     "example": "Schools must manage the transition to paid software licensing."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1080,
+   "ts": "2026-11-10T18:59:48.081273+07:00",
+   "title": "The AI bubble can wait, but your exit plan can't",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/09/the-ai-bubble-can-wait-but-your-exit-plan-cant/5308415",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Strategic advice on managing AI infrastructure vendor lock-in and financial exposure is relevant to IT architecture leads.",
+   "summary": "Industry analysis warns enterprise IT leaders to prepare contingency plans for AI vendor commitments amidst market uncertainty. Infrastructure managers should avoid long-term lock-in and ensure flexibility in their cloud architecture.",
+   "vocab": [
+    {
+     "word": "contingency",
+     "thai": "แผนสำรองสำหรับเหตุฉุกเฉิน",
+     "level": "C1",
+     "example": "Organizations should prepare a contingency plan for cloud migrations."
+    },
+    {
+     "word": "allocation",
+     "thai": "การจัดสรรทรัพยากร",
+     "level": "B2",
+     "example": "Proper allocation of compute resources reduces unnecessary infrastructure spending."
+    },
+    {
+     "word": "guidance",
+     "thai": "คำแนะนำ",
+     "level": "B2",
+     "example": "The report provides strategic guidance for enterprise exit plans."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1081,
+   "ts": "2026-11-10T18:59:48.081368+07:00",
+   "title": "Launching the Vite Ecosystem Fund",
+   "link": "https://blog.cloudflare.com/launching-vite-ecosystem-fund/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Cloudflare's open-source funding initiative primarily impacts front-end web developers and ecosystem maintainers rather than server operators.",
+   "summary": "Cloudflare has launched a fund to financially support maintainers of the Vite open-source web development ecosystem. The initiative aims to alleviate maintainer burnout exacerbated by an influx of AI-generated code contributions.",
+   "vocab": [
+    {
+     "word": "influx",
+     "thai": "การทะลักเข้ามาจำนวนมาก",
+     "level": "C1",
+     "example": "Maintainers struggled to review the influx of automated code submissions."
+    },
+    {
+     "word": "burnout",
+     "thai": "ภาวะหมดไฟในการทำงาน",
+     "level": "B2",
+     "example": "Excessive workloads have accelerated open source maintainer burnout."
+    },
+    {
+     "word": "stipend",
+     "thai": "เงินอุดหนุนหรือเบี้ยเลี้ยง",
+     "level": "C1",
+     "example": "The program distributes financial stipends to core project maintainers."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 1082,
+   "ts": "2026-11-10T18:59:48.081385+07:00",
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "link": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Details how Amazon optimized internal AI infrastructure on AWS SageMaker, offering a blueprint for operational cost reduction in large-scale ML systems.",
+   "summary": "Amazon engineers successfully replaced large language models with specialized decision models hosted on AWS SageMaker for internal ticket classification. This architecture shift reduced token costs by 98 percent while maintaining high accuracy across millions of requests.",
+   "vocab": [
+    {
+     "word": "escalation",
+     "thai": "การส่งต่อเรื่องขึ้นไปยังระดับที่สูงกว่า",
+     "level": "C1",
+     "example": "The system automatically routes customer escalations to senior engineers."
+    },
+    {
+     "word": "isolation",
+     "thai": "การแยกเพื่อความปลอดภัย",
+     "level": "B2",
+     "example": "The compute endpoint ran inside a network isolation layer."
+    },
+    {
+     "word": "catalog",
+     "thai": "บัญชีรายการ",
+     "level": "B2",
+     "example": "The model selects appropriate labels from a predefined catalog."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1083,
+   "ts": "2026-11-10T18:59:48.081400+07:00",
+   "title": "AI usage generates a fragile codebase",
+   "link": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses structural risks to enterprise software maintenance and code quality stemming from widespread AI code generation.",
+   "summary": "A senior software engineer highlights how heavy reliance on AI code generation creates fragile codebases and superficial automated testing. This trend threatens the long-term maintainability and resilience of large-scale cloud services.",
+   "vocab": [
+    {
+     "word": "fragile",
+     "thai": "เปราะบางหรือแตกหักง่าย",
+     "level": "B2",
+     "example": "Unvetted AI code contributions can make the system codebase fragile."
+    },
+    {
+     "word": "resilient",
+     "thai": "ที่มีความยืดหยุ่นและคืนสภาพได้ดี",
+     "level": "B2",
+     "example": "High availability systems require code that is resilient under stress."
+    },
+    {
+     "word": "superficial",
+     "thai": "ฉาบฉวยหรือตื้นเขิน",
+     "level": "C1",
+     "example": "AI tools often generate superficial tests that miss edge cases."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1084,
+   "ts": "2026-11-10T19:00:28.750284+07:00",
+   "title": "Queens Public library under ransomware attack e-borrowing suspended",
+   "link": "https://connect.queenslibrary.org/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": true,
+   "reason": "A public library network suffering a ransomware attack directly relates to security incidents and IT infrastructure outages.",
+   "summary": "Queens Public Library experienced a network outage and ransomware attack that disabled its website, mobile app, and most public computers. Core services like Wi-Fi and physical check-outs remain available while the team works to restore systems.",
+   "vocab": [
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "This disruption, the result of a ransomware attack, impacts the following services."
+    },
+    {
+     "word": "diligently",
+     "thai": "อย่างขยันขันแข็ง",
+     "level": "C1",
+     "example": "Our team is working diligently to restore full access."
+    },
+    {
+     "word": "inconvenience",
+     "thai": "ความไม่สะดวก",
+     "level": "B2",
+     "example": "We apologize for any inconvenience and ask for your patience."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 9,
+   "msg_id": 656,
+   "sent_ts": "2026-11-10T19:00:29.317348+07:00"
+  },
+  {
+   "id": 1085,
+   "ts": "2026-11-10T19:00:29.317530+07:00",
+   "title": "Claude Fable 5.2 and Mythos 5.2",
+   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "New AI model releases are relevant to AI infrastructure and developer workflows, though not an immediate operational outage.",
+   "summary": "Anthropic has released Claude Fable 5.2 and Mythos 5.2, featuring improved reasoning, faster token generation, and advanced safety safeguards. These models are designed for complex technical challenges and open-ended software tasks.",
+   "vocab": [
+    {
+     "word": "safeguards",
+     "thai": "มาตรการป้องกัน",
+     "level": "C1",
+     "example": "Fable has strong cybersecurity and biology safeguards to guard against misuse."
+    },
+    {
+     "word": "robust",
+     "thai": "แข็งแกร่ง, ทนทาน",
+     "level": "B2",
+     "example": "Fable 5.2’s cyber and biology safeguards are as robust as those of Fable 5.1."
+    },
+    {
+     "word": "ambitious",
+     "thai": "ทะเยอทะยาน, ยากและท้าทาย",
+     "level": "B2",
+     "example": "Fable and Mythos are best for the most ambitious, open-ended technical work."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1086,
+   "ts": "2026-11-10T19:00:29.317566+07:00",
+   "title": "Your TV can see through walls",
+   "link": "https://maurycyz.com/projects/fading/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "RF signal reflection and motion detection highlight unique wireless vulnerabilities or characteristics, but lack direct server operations impact.",
+   "summary": "Ambient radio frequency signals from TV stations or Wi-Fi can be analyzed to detect human movement and speed through walls. This demonstrates how standard wireless transmissions can inadvertently track physical presence.",
+   "vocab": [
+    {
+     "word": "disturbance",
+     "thai": "การรบกวน, ความผิดปกติ",
+     "level": "B2",
+     "example": "Walking between the receiver and TV station causes a slight disturbance to the signal."
+    },
+    {
+     "word": "perpendicular",
+     "thai": "ตั้งฉาก",
+     "level": "C1",
+     "example": "I was walking perpendicular to the direct signal path."
+    },
+    {
+     "word": "paranoia",
+     "thai": "ความหวาดระแวง",
+     "level": "C1",
+     "example": "Happy paranoia regarding wireless signal tracking!"
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1087,
+   "ts": "2026-11-10T19:00:29.317584+07:00",
+   "title": "Fossil CO2 emissions decrease by 0.4% in 2026",
+   "link": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Global carbon emissions reports relate broadly to data center sustainability goals, but have low direct urgency for infrastructure engineers.",
+   "summary": "Global fossil CO2 emissions are projected to decrease slightly in 2026 due to renewable energy growth and geopolitical shocks. However, researchers warn that clean energy deployment must accelerate further to achieve permanent climate goals.",
+   "vocab": [
+    {
+     "word": "projected",
+     "thai": "ที่คาดการณ์ไว้",
+     "level": "B2",
+     "example": "Global carbon emissions from fossil fuels are projected to decrease by 0.4% in 2026."
+    },
+    {
+     "word": "durable",
+     "thai": "ยั่งยืน, ทนทาน",
+     "level": "C1",
+     "example": "Clean energy growth is not yet fast enough for a durable decline in global fossil CO2 emissions."
+    },
+    {
+     "word": "deployment",
+     "thai": "การนำไปใช้งานจริง",
+     "level": "C1",
+     "example": "The long-term answer remains the rapid deployment of clean energy technologies."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 10,
+   "credibility": 9
+  },
+  {
+   "id": 1088,
+   "ts": "2026-11-10T19:00:29.317601+07:00",
+   "title": "Fireworks AI security breach impacts Notion and their customers",
+   "link": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "A third-party AI vendor security breach affecting major platforms like Notion directly involves cloud supply chain security.",
+   "summary": "A security breach at AI infrastructure vendor Fireworks AI has exposed unattributable chat transcripts from less than one percent of Notion workspaces. Notion has disabled the affected features and contacted impacted workspace owners.",
+   "vocab": [
+    {
+     "word": "vendor",
+     "thai": "ผู้ขาย, ผู้ให้บริการ",
+     "level": "B2",
+     "example": "This notice is about the security incident at one of our vendors, Fireworks AI."
+    },
+    {
+     "word": "transcripts",
+     "thai": "สำเนาข้อความบทสนทนา",
+     "level": "B2",
+     "example": "Some unattributable chat sessions with Notion AI may have been exposed in this incident."
+    },
+    {
+     "word": "retrieve",
+     "thai": "เรียกคืน, กู้คืน",
+     "level": "C1",
+     "example": "Affected customers will be able to retrieve and review the affected data securely."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 9,
+   "msg_id": 657,
+   "sent_ts": "2026-11-10T19:00:29.933995+07:00"
+  },
+  {
+   "id": 1089,
+   "ts": "2026-11-10T19:00:29.934268+07:00",
+   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "The launch of national real-time payment financial infrastructure is a major scale enterprise IT deployment.",
+   "summary": "Payments Canada has officially launched its Real-Time Rail system, providing 24/7 instant financial clearing and settlement. The national infrastructure aims to drive economic growth and modern payment innovations across the country.",
+   "vocab": [
+    {
+     "word": "underpins",
+     "thai": "เป็นรากฐานสนับสนุน",
+     "level": "C1",
+     "example": "Modernizing the critical infrastructure that underpins Canada’s economy."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่น, ความสามารถในการฟื้นตัว",
+     "level": "C1",
+     "example": "Enabling our members to build capabilities that drive innovation, resilience and growth."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศทางธุรกิจหรือเทคโนโลยี",
+     "level": "B2",
+     "example": "The RTR gives the payment ecosystem a modern foundation to build on."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 10
   }
  ],
- "next_id": 1071,
+ "next_id": 1090,
  "vocab": [
-  {
-   "word": "wholesale",
-   "thai": "ขนานใหญ่, ทั้งหมดในคราวเดียว",
-   "level": "C1",
-   "example": "While transitioning to liquid cooling may seem like a straightforward solution, it is rarely a sudden, wholesale replacement.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "ancillary",
-   "thai": "ส่วนเสริม, ที่เป็นส่วนสนับสนุนรอง",
-   "level": "C1",
-   "example": "Air cooling will still play a critical role in ancillary systems and lower-density zones.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "throttling",
-   "thai": "การจำกัดหรือลดความเร็วการทำงานเพื่อป้องกันความร้อนสูงเกิน",
-   "level": "B2",
-   "example": "Liquid cooling captures heat directly at the source, preventing thermal throttling and protecting infrastructure ROI.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "successive",
-   "thai": "ที่เกิดขึ้นต่อเนื่องกัน / ตามลำดับ",
-   "level": "C1",
-   "example": "As explained in a statement, there were two successive outages at the facility.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "overhaul",
-   "thai": "การยกเครื่องใหม่ / การบูรณะปรับปรุงขนานใหญ่",
-   "level": "C1",
-   "example": "In addition, it plans to overhaul the power architecture of the existing data center.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accountability",
-   "thai": "ความรับผิดชอบที่ตรวจสอบได้",
-   "level": "C1",
-   "example": "The medical federation demands structural solutions, investment, and accountability.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "incompatible",
-   "thai": "ที่เข้ากันไม่ได้ / ไม่รองรับรูปแบบเดิม",
-   "level": "B2",
-   "example": "This release incorporates several potentially incompatible changes.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "handshake",
-   "thai": "ขั้นตอนการเจรจาเชื่อมต่อทางคอมพิวเตอร์",
-   "level": "B2",
-   "example": "Servers may abort handshakes when unexpected packets are received.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "retransmission",
-   "thai": "การส่งข้อมูลซ้ำใหม่อีกครั้ง",
-   "level": "C1",
-   "example": "Pending packets will no longer be available for retransmission if the buffer is cleared.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "variant",
-   "thai": "รูปแบบหรือรุ่นย่อยที่ดัดแปลง",
-   "level": "B2",
-   "example": "The engineering team deployed a specific server variant configured for dense AI model training.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "foothold",
-   "thai": "ที่มั่นหรือจุดเริ่มต้นในการเจาะระบบ",
-   "level": "C1",
-   "example": "An attacker could use that foothold to reach further into the network.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "outright",
-   "thai": "โดยสิ้นเชิง",
-   "level": "B2",
-   "example": "These flaws could have let an attacker take control of the device outright.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accommodate",
-   "thai": "รองรับ, จัดให้เหมาะสม",
-   "level": "B2",
-   "example": "The challenge is to supply more power and accommodate load variation while maintaining uptime.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "infosec",
    "thai": "ความปลอดภัยของข้อมูล",
@@ -23483,6 +23775,136 @@
    "thai": "การสอดส่องดูแลอย่างใกล้ชิด",
    "level": "B2",
    "example": "Security teams monitored the network for any signs of unauthorized surveillance tools.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "energized",
+   "thai": "จ่ายกระแสไฟฟ้า",
+   "level": "C1",
+   "example": "The utility has connected two data centers and energized 300MW of contracted load.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "affordability",
+   "thai": "ความสามารถในการจ่ายได้",
+   "level": "B2",
+   "example": "These projects help meet rising energy demand while supporting long-term energy affordability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "burden",
+   "thai": "ภาระ",
+   "level": "B2",
+   "example": "Large load tariffs require data centers to cover costs so existing customers don't bear that burden.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "convergence",
+   "thai": "การบรรจบกัน การหลอมรวม",
+   "level": "C1",
+   "example": "In an era of rapid IT/OT convergence, modern circuit breakers are no longer isolated mechanical switches.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compromised",
+   "thai": "ถูกเจาะระบบ ถูกบุกรุก",
+   "level": "B2",
+   "example": "They are connected digital endpoints that, if compromised, can trigger catastrophic outages.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mitigating",
+   "thai": "บรรเทา ลดความรุนแรง",
+   "level": "C1",
+   "example": "Key insights cover mitigating IT/OT cyber risks across connected electrical systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intertwined",
+   "thai": "เกี่ยวพันกันอย่าง 100%",
+   "level": "C1",
+   "example": "Their behavior during grid events has become intertwined with overall system stability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inertia",
+   "thai": "ความเฉื่อย",
+   "level": "C1",
+   "example": "They have a huge amount of inertia to resist rapid changes in frequency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "foundational",
+   "thai": "ที่เป็นรากฐาน",
+   "level": "C1",
+   "example": "FRT is quickly becoming a foundational aspect of operational strategies.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "diligently",
+   "thai": "อย่างขยันขันแข็ง",
+   "level": "C1",
+   "example": "Our team is working diligently to restore full access.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inconvenience",
+   "thai": "ความไม่สะดวก",
+   "level": "B2",
+   "example": "We apologize for any inconvenience and ask for your patience.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "transcripts",
+   "thai": "สำเนาข้อความบทสนทนา",
+   "level": "B2",
+   "example": "Some unattributable chat sessions with Notion AI may have been exposed in this incident.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retrieve",
+   "thai": "เรียกคืน, กู้คืน",
+   "level": "C1",
+   "example": "Affected customers will be able to retrieve and review the affected data securely.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
