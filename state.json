@@ -2108,7 +2108,31 @@
   "https://www.worldhistory.org/Ur-Nammu/",
   "https://twitter.com/shanemelaugh/status/2119192075505893695",
   "https://aphyr.com/posts/427-rip-harvest",
-  "http://mamememo.blogspot.com/2010/09/qlobe.html"
+  "http://mamememo.blogspot.com/2010/09/qlobe.html",
+  "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+  "https://www.datacenterdynamics.com/en/whitepapers/mastering-compliance/",
+  "https://www.datacenterdynamics.com/en/news/telecom-infrastructure-partners-names-lutfu-kitapci-as-ceo/",
+  "https://www.datacenterdynamics.com/en/news/police-charge-two-men-with-copper-theft-from-cell-tower-in-liberty-north-carolina/",
+  "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+  "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
+  "https://www.datacenterdynamics.com/en/news/akamai-predicts-revenue-to-exceed-7bn-in-2028-driven-by-cloud-infrastructure-services-growth/",
+  "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+  "https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/",
+  "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-s%C3%A3o-paulo-brazil/",
+  "https://www.datacenterdynamics.com/en/news/riot-platforms-signs-910mw-agreement-with-unnamed-frontier-ai-lab/",
+  "https://www.datacenterdynamics.com/en/news/copper-cable-theft-causes-disruption-to-internet-services-across-bedfordshire-impacts-m1-gantry-signs/",
+  "https://www.datacenterdynamics.com/en/news/qant-partners-with-ionos-for-photonic-computing-pilot-program/",
+  "https://www.datacenterdynamics.com/en/news/faa-to-upgrade-air-traffic-control-by-replacing-floppy-disks-with-new-enterprise-information-display-system/",
+  "https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660",
+  "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+  "https://www.theregister.com/security/2026/11/09/france-blames-iran-for-supermarket-hack-meltdowns/5308591",
+  "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+  "https://www.theregister.com/security/2026/11/09/researchers-pwn-automakers-android-apps-to-remotely-unlock-cars-honk-horns/5308483",
+  "https://www.theregister.com/ai-and-ml/2026/11/09/insight-about-how-nature-makes-no-leaps-promises-better-robot-predictions/5308301",
+  "https://www.theregister.com/os-platforms/2026/11/09/microsoft-takes-three-decades-to-make-sticky-keys-less-sticky/5308491",
+  "https://www.theregister.com/science/2026/11/09/nasa-keeps-its-promise-to-raid-mars-testbeds-for-parts/5308475",
+  "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434"
  ],
  "stories": [
   {
@@ -17900,60 +17924,554 @@
    "urgency": 2,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 1056,
+   "ts": "2026-11-10T10:56:28.712554+07:00",
+   "title": "Norway halts grid connection applications for new data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/norway-halts-grid-connection-applications-for-new-data-centers/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Norway is a major Nordic data center hub, and halting grid connection reservations directly impacts site selection and expansion timelines.",
+   "summary": "Norway has suspended new grid connection reservations for data centers until up to August 2027 to protect power supplies. This temporary freeze will force cloud and data center operators to reconsider their European expansion plans.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "The move effectively acts as a moratorium on new grid-connected data center developments until regulations are in place."
+    },
+    {
+     "word": "societal",
+     "thai": "เกี่ยวกับสังคม",
+     "level": "B2",
+     "example": "We must control the growth and ensure that Norway gets the data centers that provide the greatest societal benefit."
+    },
+    {
+     "word": "scarce",
+     "thai": "ขาดแคลนหรือมีจำกัด",
+     "level": "B2",
+     "example": "It becomes necessary to align policy so that we get the most out of scarce resources."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1057,
+   "ts": "2026-11-10T10:56:28.712600+07:00",
+   "title": "Former US DOE staffers launch modular data center firm Mavria",
+   "link": "https://www.datacenterdynamics.com/en/news/former-us-doe-staffers-launch-modular-data-center-firm-mavria/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Modular 5MW deployments designed to plug into local distribution lines offer an interesting alternative to long grid interconnection queues.",
+   "summary": "A startup named Mavria has raised $130 million to manufacture standardized 5MW modular data center units in Texas. The design aims to bypass grid connection backlogs by plugging directly into local power distribution lines.",
+   "vocab": [
+    {
+     "word": "modular",
+     "thai": "ซึ่งประกอบขึ้นจากชิ้นส่วนมาตรฐาน",
+     "level": "B2",
+     "example": "A group of Department of Energy alumni has launched a new modular data center firm."
+    },
+    {
+     "word": "bypass",
+     "thai": "หลีกเลี่ยงหรือข้ามไป",
+     "level": "B2",
+     "example": "The company claims the unit can bypass grid delays that have plagued most data center builds."
+    },
+    {
+     "word": "alumni",
+     "thai": "ศิษย์เก่าหรืออดีตพนักงาน",
+     "level": "B2",
+     "example": "A group of Department of Energy alumni has launched a new modular data center firm, valued at $1 billion."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1058,
+   "ts": "2026-11-10T10:56:28.712687+07:00",
+   "title": "New Jersey Senate passes bill banning data center-related NDAs",
+   "link": "https://www.datacenterdynamics.com/en/news/new-jersey-senate-passes-bill-banning-data-center-related-ndas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Banning NDAs affects project planning secrecy and community engagement for data center developments in New Jersey.",
+   "summary": "The New Jersey Senate passed a bill prohibiting data center developers from using non-disclosure agreements with municipal agencies or sellers. If enacted, developers will no longer be able to keep their site acquisition and utility requirements secret from the public.",
+   "vocab": [
+    {
+     "word": "conceal",
+     "thai": "ปกปิดหรือซ่อนเร้น",
+     "level": "B2",
+     "example": "The bill orders applicants not to enter into any agreement that conceals details of a project."
+    },
+    {
+     "word": "unenforceable",
+     "thai": "ไม่สามารถบังคับใช้ได้ตามกฎหมาย",
+     "level": "C1",
+     "example": "The bill describes data center NDAs as against public policy and unenforceable."
+    },
+    {
+     "word": "animosity",
+     "thai": "ความรู้สึกเป็นปรปักษ์หรือความเกลียดชัง",
+     "level": "C1",
+     "example": "Amid growing animosity towards data centers, the use of secrecy agreements has become increasingly controversial."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1059,
+   "ts": "2026-11-10T10:56:28.712715+07:00",
+   "title": "IBM deploys Quantum System Two in Chicago, Illinois",
+   "link": "https://www.datacenterdynamics.com/en/news/ibm-deploys-quantum-system-two-in-chicago-illinois/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Advanced research deployment for quantum computing that does not immediately change enterprise operations.",
+   "summary": "IBM has deployed an IBM Quantum System Two in Chicago to support advanced quantum algorithm research across regional institutions. The company is also collaborating with AMD and Oak Ridge National Laboratory to test hybrid quantum error correction architectures.",
+   "vocab": [
+    {
+     "word": "predecessor",
+     "thai": "รุ่นก่อนหน้าหรือสิ่งที่มีอยู่ก่อน",
+     "level": "B2",
+     "example": "IBM’s Quantum System Two is larger than its predecessor, comprising three supercooling fridges instead of one."
+    },
+    {
+     "word": "unveil",
+     "thai": "เปิดตัวหรือเผยแพร่เป็นครั้งแรก",
+     "level": "B2",
+     "example": "IBM unveiled a co-design platform for quantum error correction built in partnership with AMD."
+    },
+    {
+     "word": "breakthrough",
+     "thai": "การค้นพบหรือความก้าวหน้าครั้งสำคัญ",
+     "level": "B2",
+     "example": "The governor expressed hope that the next generation of breakthroughs would happen locally."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1060,
+   "ts": "2026-11-10T10:56:28.712741+07:00",
+   "title": "Akamai predicts revenue to exceed $7bn in 2028, driven by cloud infrastructure services growth",
+   "link": "https://www.datacenterdynamics.com/en/news/akamai-predicts-revenue-to-exceed-7bn-in-2028-driven-by-cloud-infrastructure-services-growth/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Akamai's multi-gigawatt cloud buildouts and large deals with Anthropic highlight major shifts in AI inference infrastructure.",
+   "summary": "Akamai expects strong revenue growth driven by billions of dollars in multiyear cloud infrastructure contracts with Anthropic and other AI firms. The edge company is heavily deploying CPU capacity across distributed sites to handle large-scale enterprise inference workloads.",
+   "vocab": [
+    {
+     "word": "surpass",
+     "thai": "เกินกว่าหรือมากกว่า",
+     "level": "B2",
+     "example": "The company is anticipating that total revenue could surpass $7 billion in 2028."
+    },
+    {
+     "word": "commence",
+     "thai": "เริ่มต้น",
+     "level": "C1",
+     "example": "Two of the large deals are generating revenue and the third is anticipated to commence next quarter."
+    },
+    {
+     "word": "backbone",
+     "thai": "โครงข่ายหลัก",
+     "level": "B2",
+     "example": "Akamai’s large existing backbone has enabled the company to deploy compute capacity quickly across many locations."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1061,
+   "ts": "2026-11-10T11:01:58.502220+07:00",
+   "title": "AirTrunk named as operator behind data center project in Melbourne, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-named-as-operator-behind-data-center-project-in-melbourne-australia/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "AirTrunk is expanding major data center capacity in Australia, showing continued global infrastructure growth and air-cooling design choices.",
+   "summary": "AirTrunk has been identified as the developer behind two massive data center projects in Victoria and New South Wales, Australia. Both planned facilities will rely on air-based cooling rather than community water resources to minimize environmental impact.",
+   "vocab": [
+    {
+     "word": "deduction",
+     "thai": "การหักลดหย่อน",
+     "level": "B2",
+     "example": "Nearby households would receive an annual deduction on their electricity bill."
+    },
+    {
+     "word": "smelter",
+     "thai": "โรงถลุงโลหะ",
+     "level": "C1",
+     "example": "AirTrunk has also been named as the operator behind a data center project at a former aluminum smelter."
+    },
+    {
+     "word": "adjacent",
+     "thai": "ติดกัน, อยู่ติดกับ",
+     "level": "B2",
+     "example": "The company aims to develop a facility on a site adjacent to the power station."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1062,
+   "ts": "2026-11-10T11:01:58.502272+07:00",
+   "title": "AI’s next infrastructure constraint",
+   "link": "https://www.datacenterdynamics.com/en/opinions/ais-next-infrastructure-constraint/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "An analytical piece detailing network bottlenecks, DCI bandwidth demand, and latency requirements shifting from training to inference.",
+   "summary": "Growing AI inference workloads and geographically distributed facilities are creating severe network bandwidth and latency bottlenecks between metro data centers. Unlike latency-tolerant model training, real-time inference requires microsecond response times and dramatically higher interconnect capacity.",
+   "vocab": [
+    {
+     "word": "interconnect",
+     "thai": "การเชื่อมต่อระหว่างระบบหรือเครือข่าย",
+     "level": "B2",
+     "example": "Respondents predicted a sixfold increase in data center interconnect bandwidth."
+    },
+    {
+     "word": "synchronous",
+     "thai": "ที่เกิดขึ้นพร้อมกันหรือประสานเวลาตรงกัน",
+     "level": "C1",
+     "example": "Data-intensive workloads like synchronous storage replication generate substantial traffic."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่นในการคืนสภาพ",
+     "level": "B2",
+     "example": "Capacity, latency and resilience are now critical requirements for digital infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1063,
+   "ts": "2026-11-10T11:01:58.502304+07:00",
+   "title": "Digital Realty launches liquid cooling lab in São Paulo, Brazil",
+   "link": "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-s%C3%A3o-paulo-brazil/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly relates to data center cooling operations and testing extreme rack power densities (150kW+) for AI workloads.",
+   "summary": "Digital Realty has opened an innovation lab in São Paulo to allow customers to validate liquid cooling systems and high-density AI infrastructure up to 150kW per rack. The facility lets operators test chilled-water and hybrid cooling architectures before deploying production workloads.",
+   "vocab": [
+    {
+     "word": "interoperability",
+     "thai": "ความสามารถในการทำงานร่วมกันของระบบ",
+     "level": "C1",
+     "example": "AI infrastructure is evolving at a pace that makes interoperability increasingly complex."
+    },
+    {
+     "word": "containment",
+     "thai": "การกักเก็บหรือควบคุมพื้นที่ (เช่น อุณหภูมิหรือลม)",
+     "level": "C1",
+     "example": "The lab includes chilled-water cooling and containment systems for testing."
+    },
+    {
+     "word": "dummy",
+     "thai": "แบบจำลอง, สิ่งจำลองขึ้นเพื่อทดสอบ",
+     "level": "B2",
+     "example": "They test against their own workloads using only dummy data for testing."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1064,
+   "ts": "2026-11-10T11:01:58.502331+07:00",
+   "title": "Riot Platforms signs 910MW agreement with unnamed frontier AI lab",
+   "link": "https://www.datacenterdynamics.com/en/news/riot-platforms-signs-910mw-agreement-with-unnamed-frontier-ai-lab/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A massive 910MW capacity lease by a former crypto miner turning into an AI data center operator, reflecting massive power shifts in Texas.",
+   "summary": "Riot Platforms has signed a 15-year, 910-megawatt IT capacity lease with an unnamed frontier AI lab for its Corsicana data center campus in Texas. The agreement highlights the accelerating pivot of large-scale crypto mining infrastructure toward dedicated AI and HPC computing.",
+   "vocab": [
+    {
+     "word": "pivoting",
+     "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
+     "level": "B2",
+     "example": "The company has been pivoting towards AI and HPC data centers since 2024."
+    },
+    {
+     "word": "discipline",
+     "thai": "ความมีวินัยหรือการควบคุมอย่างเคร่งครัด",
+     "level": "B2",
+     "example": "We will allocate our capital with discipline to whichever use creates the most value."
+    },
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "The deal significantly limits procurement, development, and ongoing operational risk."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1065,
+   "ts": "2026-11-10T11:01:58.502356+07:00",
+   "title": "Copper cable theft causes disruption to Internet services across Bedfordshire, impacts M1 gantry signs",
+   "link": "https://www.datacenterdynamics.com/en/news/copper-cable-theft-causes-disruption-to-internet-services-across-bedfordshire-impacts-m1-gantry-signs/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Physical infrastructure vandalism caused local telecom outages and affected motorway signs, relevant to network operations and physical security.",
+   "summary": "Thieves stealing copper cables severely disrupted internet services and disabled highway overhead signs across Bedfordshire in the UK. The incident severed telecom connections and mistakenly damaged fiber lines, requiring emergency road closures to conduct repairs.",
+   "vocab": [
+    {
+     "word": "gantry",
+     "thai": "โครงเหล็กคร่อมเหนือถนนสำหรับติดป้ายจราจรหรืออุปกรณ์",
+     "level": "C2",
+     "example": "Cable theft affected overhead gantry signs along the country's main highway."
+    },
+    {
+     "word": "premises",
+     "thai": "อาคารสถานที่หรือบ้านเรือน",
+     "level": "B2",
+     "example": "Openreach is pushing ahead with its fiber rollout, passing 24 million premises."
+    },
+    {
+     "word": "legacy",
+     "thai": "ระบบเก่าที่ยังคงใช้งานอยู่",
+     "level": "B2",
+     "example": "Engineers had to focus their time on restoring legacy copper services."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1066,
+   "ts": "2026-11-10T11:01:58.502408+07:00",
+   "title": "FAA to upgrade air traffic control by replacing floppy disks with new Enterprise Information Display System",
+   "link": "https://www.datacenterdynamics.com/en/news/faa-to-upgrade-air-traffic-control-by-replacing-floppy-disks-with-new-enterprise-information-display-system/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Public sector IT modernization replacing floppy disks; amusing but low direct relevance to core data center ops.",
+   "summary": "The US Federal Aviation Administration is replacing 1980s-era floppy disk systems across hundreds of facilities with a modern digital display network. The upgrade aims to streamline operational updates and weather monitoring for air traffic controllers by 2028.",
+   "vocab": [
+    {
+     "word": "advisories",
+     "thai": "ประกาศคำเตือนหรือรายงานข้อแนะนำ",
+     "level": "B2",
+     "example": "The display includes notices about equipment issues and important weather advisories."
+    },
+    {
+     "word": "streamlined",
+     "thai": "ที่ปรับปรุงให้มีประสิทธิภาพและคล่องตัวยิ่งขึ้น",
+     "level": "B2",
+     "example": "They are replacing outdated floppy disks with a streamlined modern system."
+    },
+    {
+     "word": "allocated",
+     "thai": "จัดสรรให้",
+     "level": "B2",
+     "example": "The recent bill allocated billions of dollars to support infrastructure upgrades."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1067,
+   "ts": "2026-11-10T11:01:58.502432+07:00",
+   "title": "Cisco to link all future products to its SaaS-y Cloud Control management tool",
+   "link": "https://www.theregister.com/networks/2026/11/10/cisco-to-link-all-future-products-to-its-saas-y-cloud-control-management-tool/5308660",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a table of contents / headline aggregation snippet from The Register rather than a single cohesive story.",
+   "summary": "The Register published a roundup covering diverse enterprise IT news, including on-prem server sales growth, Azure Linux patching, and open-source tooling. Highlights include growing on-premises infrastructure for AI/HPC and new hypervisor migration utilities.",
+   "vocab": [
+    {
+     "word": "almighty",
+     "thai": "ยิ่งใหญ่มาก, มหาศาล",
+     "level": "C1",
+     "example": "Azure Linux received hundreds of security fixes in one almighty patching session."
+    },
+    {
+     "word": "shoveled",
+     "thai": "โกยหรือตักทิ้งไป",
+     "level": "C1",
+     "example": "Technical debt was shoveled aside to make AI training more resilient."
+    },
+    {
+     "word": "sweating",
+     "thai": "การรีดใช้ประโยชน์จากอุปกรณ์เก่าให้คุ้มค่าที่สุด",
+     "level": "C2",
+     "example": "Customers are sweating assets amid tight budgets and rising hardware costs."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1068,
+   "ts": "2026-11-10T11:04:50.379062+07:00",
+   "title": "Anthropic's super bug-finding Mythos model is going into Cisco and IBM products",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/10/anthropics-super-bug-finding-mythos-model-is-going-into-cisco-and-ibm-products/5308616",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Integrating Anthropic's vulnerability-finding AI model into Cisco and IBM solutions could enhance enterprise networking and server security tools.",
+   "summary": "Anthropic is integrating its specialized Mythos AI model into enterprise offerings from Cisco and IBM to detect software vulnerabilities. This partnership could help enterprise security and network operations teams discover bugs before attackers exploit them.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ที่ยืดหยุ่นและคืนสภาพได้เร็ว",
+     "level": "B2",
+     "example": "The update is designed to make large-scale AI training more resilient against hardware failures."
+    },
+    {
+     "word": "nirvana",
+     "thai": "สภาวะสมบูรณ์แบบหรือความสงบสุขสูงสุด",
+     "level": "C2",
+     "example": "The software project reached nirvana after decades of steady development."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การสอดส่องดูแลอย่างใกล้ชิด",
+     "level": "B2",
+     "example": "Security teams monitored the network for any signs of unauthorized surveillance tools."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1069,
+   "ts": "2026-11-10T11:04:50.379127+07:00",
+   "title": "Attackers backdoor trusted AWS integrations to steal secrets",
+   "link": "https://www.theregister.com/security/2026/11/09/attackers-backdoor-trusted-aws-integrations-to-steal-secrets/5308553",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Backdoored AWS integrations directly threaten cloud infrastructure by allowing threat actors to steal sensitive credentials and secrets.",
+   "summary": "Attackers are compromising trusted AWS integrations to establish backdoors and exfiltrate confidential operational secrets. DevOps and cloud engineers should review third-party AWS permissions and audit IAM access across their environments immediately.",
+   "vocab": [
+    {
+     "word": "backdoor",
+     "thai": "ช่องทางลับหรือประตูลับที่ผู้บุกรุกสร้างขึ้น",
+     "level": "B2",
+     "example": "Attackers attempted to backdoor trusted integrations to maintain persistent access."
+    },
+    {
+     "word": "integration",
+     "thai": "การผสานระบบหรือเชื่อมต่อระบบเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Third-party integrations require careful auditing to prevent unauthorized data exposure."
+    },
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางไซเบอร์เพื่อขโมยข้อมูล",
+     "level": "B2",
+     "example": "Hostile groups carried out phishing campaigns disguised as technical support messages."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8,
+   "msg_id": 642,
+   "sent_ts": "2026-11-10T11:04:51.077894+07:00"
+  },
+  {
+   "id": 1070,
+   "ts": "2026-11-10T11:04:51.078346+07:00",
+   "title": "Microsoft's Azure Linux gets 470-plus security fixes in one almighty patching session",
+   "link": "https://www.theregister.com/security/2026/11/09/microsofts-azure-linux-gets-470-plus-security-fixes-in-one-almighty-patching-session/5308434",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Massive security patching for Microsoft's host OS directly impacts Azure cloud deployments and container infrastructure running Azure Linux.",
+   "summary": "Microsoft released a massive update containing over 470 security patches and certificate cleanups for Azure Linux. Administrators managing Azure Kubernetes Service or Azure-hosted Linux instances should test and deploy these updates promptly to protect against known vulnerabilities.",
+   "vocab": [
+    {
+     "word": "almighty",
+     "thai": "ยิ่งใหญ่หรือมหาศาล",
+     "level": "C1",
+     "example": "The operating system received an almighty security update covering hundreds of vulnerabilities."
+    },
+    {
+     "word": "cleanup",
+     "thai": "การเก็บกวาดหรือการสะสางปัญหา",
+     "level": "B2",
+     "example": "The maintainers executed a thorough certificate cleanup alongside the CVE fixes."
+    },
+    {
+     "word": "resilient",
+     "thai": "ที่ยืดหยุ่นและคืนสภาพได้เร็ว",
+     "level": "B2",
+     "example": "Patching legacy software components helps make production systems more resilient."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 643,
+   "sent_ts": "2026-11-10T11:04:51.574597+07:00"
   }
  ],
- "next_id": 1056,
+ "next_id": 1071,
  "vocab": [
-  {
-   "word": "utilization",
-   "thai": "การใช้ประโยชน์",
-   "level": "C1",
-   "example": "Scheduler software helps improve GPU utilization across different projects.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "transparency",
-   "thai": "ความโปร่งใส",
-   "level": "B2",
-   "example": "Organizations require high standards of data security and transparency.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "suspend",
-   "thai": "ระงับชั่วคราว",
-   "level": "B2",
-   "example": "The action resulted in the suspension of data center construction.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "litigate",
-   "thai": "ดำเนินคดี",
-   "level": "C2",
-   "example": "Developers have traditionally had to lobby or litigate these halts.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "synchronize",
-   "thai": "ทำให้ประสานกัน",
-   "level": "B2",
-   "example": "Devices are synchronized and dispatched in response to grid needs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "counterpart",
    "thai": "สิ่งที่เทียบเท่ากัน",
@@ -22903,6 +23421,56 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "backdoor",
+   "thai": "ช่องทางลับหรือประตูลับที่ผู้บุกรุกสร้างขึ้น",
+   "level": "B2",
+   "example": "Attackers attempted to backdoor trusted integrations to maintain persistent access.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "integration",
+   "thai": "การผสานระบบหรือเชื่อมต่อระบบเข้าด้วยกัน",
+   "level": "B2",
+   "example": "Third-party integrations require careful auditing to prevent unauthorized data exposure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "phishing",
+   "thai": "การหลอกลวงทางไซเบอร์เพื่อขโมยข้อมูล",
+   "level": "B2",
+   "example": "Hostile groups carried out phishing campaigns disguised as technical support messages.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "almighty",
+   "thai": "ยิ่งใหญ่หรือมหาศาล",
+   "level": "C1",
+   "example": "The operating system received an almighty security update covering hundreds of vulnerabilities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cleanup",
+   "thai": "การเก็บกวาดหรือการสะสางปัญหา",
+   "level": "B2",
+   "example": "The maintainers executed a thorough certificate cleanup alongside the CVE fixes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -23113,7 +23681,7 @@
   }
  },
  "fail": {
-  "gemini": 1
+  "gemini": 0
  },
  "level": "B2",
  "answers": []
