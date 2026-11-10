@@ -17919,7 +17919,7 @@
      "example": "Authorities continue to upgrade smartphone surveillance tools."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -17955,11 +17955,13 @@
      "example": "It becomes necessary to align policy so that we get the most out of scarce resources."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 645,
+   "sent_ts": "2026-11-10T15:19:18.763958+07:00"
   },
   {
    "id": 1057,
@@ -17991,7 +17993,7 @@
      "example": "A group of Department of Energy alumni has launched a new modular data center firm, valued at $1 billion."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -18027,11 +18029,13 @@
      "example": "Amid growing animosity towards data centers, the use of secrecy agreements has become increasingly controversial."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 646,
+   "sent_ts": "2026-11-10T15:19:19.497597+07:00"
   },
   {
    "id": 1059,
@@ -18063,7 +18067,7 @@
      "example": "The governor expressed hope that the next generation of breakthroughs would happen locally."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18099,11 +18103,13 @@
      "example": "Akamai’s large existing backbone has enabled the company to deploy compute capacity quickly across many locations."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 647,
+   "sent_ts": "2026-11-10T15:19:20.313011+07:00"
   },
   {
    "id": 1061,
@@ -18135,7 +18141,7 @@
      "example": "The company aims to develop a facility on a site adjacent to the power station."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -18171,11 +18177,13 @@
      "example": "Capacity, latency and resilience are now critical requirements for digital infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 648,
+   "sent_ts": "2026-11-10T15:19:21.032504+07:00"
   },
   {
    "id": 1063,
@@ -18207,11 +18215,13 @@
      "example": "They test against their own workloads using only dummy data for testing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 649,
+   "sent_ts": "2026-11-10T15:19:21.733167+07:00"
   },
   {
    "id": 1064,
@@ -18243,11 +18253,13 @@
      "example": "The deal significantly limits procurement, development, and ongoing operational risk."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 650,
+   "sent_ts": "2026-11-10T15:19:22.473982+07:00"
   },
   {
    "id": 1065,
@@ -18279,11 +18291,13 @@
      "example": "Engineers had to focus their time on restoring legacy copper services."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 5,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 651,
+   "sent_ts": "2026-11-10T15:19:23.143074+07:00"
   },
   {
    "id": 1066,
@@ -18315,7 +18329,7 @@
      "example": "The recent bill allocated billions of dollars to support infrastructure upgrades."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -18351,7 +18365,7 @@
      "example": "Customers are sweating assets amid tight budgets and rising hardware costs."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -18387,11 +18401,13 @@
      "example": "Security teams monitored the network for any signs of unauthorized surveillance tools."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 652,
+   "sent_ts": "2026-11-10T15:19:23.823186+07:00"
   },
   {
    "id": 1069,
@@ -18472,166 +18488,6 @@
  ],
  "next_id": 1071,
  "vocab": [
-  {
-   "word": "counterpart",
-   "thai": "สิ่งที่เทียบเท่ากัน",
-   "level": "C1",
-   "example": "The new server matches the cooling capabilities of its rack-scale counterpart.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "competitive advantage",
-   "thai": "ความได้เปรียบทางการแข่งขัน",
-   "level": "B2",
-   "example": "AI infrastructure drives growth and provides a competitive advantage.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "privilege",
-   "thai": "สิทธิ์พิเศษในการเข้าถึงระบบ",
-   "level": "B2",
-   "example": "The flaw allowed authenticated users to gain elevated operator privileges.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consolidated",
-   "thai": "รวมเข้าด้วยกัน",
-   "level": "C1",
-   "example": "The team was consolidated under Sachin Katti before further leadership changes occurred.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unorthodox",
-   "thai": "นอกรีต, ไม่ธรรมดา, แหวกแนว",
-   "level": "C1",
-   "example": "The company announced unorthodox plans to counter that dearth of terrestrial infrastructure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "modular",
-   "thai": "ที่เป็นโมดูล, แยกส่วนประกอบ",
-   "level": "B2",
-   "example": "Nvidia launched DSX POD, a modular version of the reference design for Vera Rubin-powered AI data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "severity",
-   "thai": "ความรุนแรง",
-   "level": "B2",
-   "example": "A max-severity GitLab bug allows remote code execution.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consequential",
-   "thai": "ที่มีความสำคัญ, ซึ่งส่งผลตามมา",
-   "level": "C1",
-   "example": "As the market matures, the more consequential question is no longer how many megawatts can be announced.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "envelope",
-   "thai": "ขอบเขตจำกัด",
-   "level": "C2",
-   "example": "Demand is high, but the harder question is whether a project can be delivered within a credible cost envelope.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "proposition",
-   "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
-   "level": "B2",
-   "example": "Delivery capability is therefore becoming part of the value proposition itself.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unavailable",
-   "thai": "ไม่สามารถใช้งานได้",
-   "level": "B2",
-   "example": "Ministers report 32 unavailable services and four partly disrupted systems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "neutrality",
-   "thai": "ความเป็นกลาง",
-   "level": "B2",
-   "example": "Network neutrality ensures all internet traffic is treated equally.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unfavorable",
-   "thai": "ไม่เป็นผลดี, ไม่น่าพอใจ",
-   "level": "B2",
-   "example": "The court handed down an unfavorable ruling against the provider.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "runtime",
-   "thai": "สภาพแวดล้อมขณะโปรแกรมกำลังทำงาน",
-   "level": "B2",
-   "example": "The application requires a secure runtime environment to execute safely.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "enforcement",
-   "thai": "การบังคับใช้",
-   "level": "B2",
-   "example": "Strict security policy enforcement prevents unauthorized access.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "verification",
-   "thai": "การตรวจสอบความถูกต้อง",
-   "level": "B2",
-   "example": "Formal verification checks policy changes before they are applied.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "wholesale",
    "thai": "ขนานใหญ่, ทั้งหมดในคราวเดียว",
@@ -23467,6 +23323,166 @@
    "thai": "การเก็บกวาดหรือการสะสางปัญหา",
    "level": "B2",
    "example": "The maintainers executed a thorough certificate cleanup alongside the CVE fixes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "moratorium",
+   "thai": "การสั่งระงับชั่วคราว",
+   "level": "C1",
+   "example": "The move effectively acts as a moratorium on new grid-connected data center developments until regulations are in place.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "societal",
+   "thai": "เกี่ยวกับสังคม",
+   "level": "B2",
+   "example": "We must control the growth and ensure that Norway gets the data centers that provide the greatest societal benefit.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scarce",
+   "thai": "ขาดแคลนหรือมีจำกัด",
+   "level": "B2",
+   "example": "It becomes necessary to align policy so that we get the most out of scarce resources.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unenforceable",
+   "thai": "ไม่สามารถบังคับใช้ได้ตามกฎหมาย",
+   "level": "C1",
+   "example": "The bill describes data center NDAs as against public policy and unenforceable.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "animosity",
+   "thai": "ความรู้สึกเป็นปรปักษ์หรือความเกลียดชัง",
+   "level": "C1",
+   "example": "Amid growing animosity towards data centers, the use of secrecy agreements has become increasingly controversial.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "surpass",
+   "thai": "เกินกว่าหรือมากกว่า",
+   "level": "B2",
+   "example": "The company is anticipating that total revenue could surpass $7 billion in 2028.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synchronous",
+   "thai": "ที่เกิดขึ้นพร้อมกันหรือประสานเวลาตรงกัน",
+   "level": "C1",
+   "example": "Data-intensive workloads like synchronous storage replication generate substantial traffic.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interoperability",
+   "thai": "ความสามารถในการทำงานร่วมกันของระบบ",
+   "level": "C1",
+   "example": "AI infrastructure is evolving at a pace that makes interoperability increasingly complex.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "containment",
+   "thai": "การกักเก็บหรือควบคุมพื้นที่ (เช่น อุณหภูมิหรือลม)",
+   "level": "C1",
+   "example": "The lab includes chilled-water cooling and containment systems for testing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dummy",
+   "thai": "แบบจำลอง, สิ่งจำลองขึ้นเพื่อทดสอบ",
+   "level": "B2",
+   "example": "They test against their own workloads using only dummy data for testing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pivoting",
+   "thai": "การปรับเปลี่ยนทิศทางหรือกลยุทธ์",
+   "level": "B2",
+   "example": "The company has been pivoting towards AI and HPC data centers since 2024.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discipline",
+   "thai": "ความมีวินัยหรือการควบคุมอย่างเคร่งครัด",
+   "level": "B2",
+   "example": "We will allocate our capital with discipline to whichever use creates the most value.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "gantry",
+   "thai": "โครงเหล็กคร่อมเหนือถนนสำหรับติดป้ายจราจรหรืออุปกรณ์",
+   "level": "C2",
+   "example": "Cable theft affected overhead gantry signs along the country's main highway.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "premises",
+   "thai": "อาคารสถานที่หรือบ้านเรือน",
+   "level": "B2",
+   "example": "Openreach is pushing ahead with its fiber rollout, passing 24 million premises.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "nirvana",
+   "thai": "สภาวะสมบูรณ์แบบหรือความสงบสุขสูงสุด",
+   "level": "C2",
+   "example": "The software project reached nirvana after decades of steady development.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "surveillance",
+   "thai": "การสอดส่องดูแลอย่างใกล้ชิด",
+   "level": "B2",
+   "example": "Security teams monitored the network for any signs of unauthorized surveillance tools.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
