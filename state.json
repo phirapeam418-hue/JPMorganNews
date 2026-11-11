@@ -2208,584 +2208,6 @@
  ],
  "stories": [
   {
-   "id": 669,
-   "ts": "2026-10-28T07:50:01.643370+07:00",
-   "title": "Nvidia Vera Rubin and Vera CPUs now generally available on Oracle",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-vera-rubin-and-vera-cpus-now-generally-available-on-oracle/",
-   "source": "DCD",
-   "score": 9,
-   "watch": false,
-   "reason": "Nvidia's Vera Rubin hardware and OCI Superclusters expansion directly impact large-scale AI infrastructure and cloud computing operations.",
-   "summary": "Nvidia's latest Vera Rubin systems and Vera CPUs are now generally available on Oracle Cloud Infrastructure. These components will power massive Superclusters designed to train frontier AI models efficiently.",
-   "vocab": [
-    {
-     "word": "collaboration",
-     "thai": "การร่วมมือ",
-     "level": "B2",
-     "example": "Our collaboration with Oracle extends those capabilities across training and inference."
-    },
-    {
-     "word": "resilient",
-     "thai": "ยืดหยุ่นและทนทาน",
-     "level": "C1",
-     "example": "The platform features a resilient network that scales across hundreds of thousands of GPUs."
-    },
-    {
-     "word": "bandwidth",
-     "thai": "แบนด์วิดท์ (ความจุในการรับส่งข้อมูล)",
-     "level": "B2",
-     "example": "The new CPUs combine high single-thread performance with memory bandwidth to complete tasks faster."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 10,
-   "msg_id": 381,
-   "sent_ts": "2026-10-28T07:50:02.260432+07:00"
-  },
-  {
-   "id": 670,
-   "ts": "2026-10-28T07:50:02.260643+07:00",
-   "title": "AI 'hacker' finds 4 severe bugs in popular industrial control software in under 4 hours",
-   "link": "https://www.theregister.com/security/2026/10/27/ai-hacker-finds-4-severe-bugs-in-popular-industrial-control-software-in-under-4-hours/5305811",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Demonstrates AI capabilities in finding software vulnerabilities, relevant to security teams but lacking specific incident details in the snippet.",
-   "summary": "An AI tool successfully identified multiple severe security bugs in industrial control software within a few hours. This highlights the growing role of AI in both discovering vulnerabilities and testing software resilience.",
-   "vocab": [
-    {
-     "word": "industrial",
-     "thai": "ทางอุตสาหกรรม",
-     "level": "B2",
-     "example": "The security test targeted popular industrial control software."
-    },
-    {
-     "word": "severe",
-     "thai": "รุนแรง",
-     "level": "B2",
-     "example": "The analysis uncovered several severe bugs in the system architecture."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 671,
-   "ts": "2026-10-28T07:50:02.260683+07:00",
-   "title": "Ghostty 1.4",
-   "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Ghostty 1.4 release includes critical security patches for multiple severe vulnerabilities affecting terminal emulators.",
-   "summary": "Ghostty version 1.4.0 is now available, bringing major performance enhancements and critical security fixes. Users must update to address several vulnerabilities that could allow arbitrary command execution or memory corruption.",
-   "vocab": [
-    {
-     "word": "vulnerability",
-     "thai": "ช่องโหว่",
-     "level": "C1",
-     "example": "The release notes detail several vulnerabilities involving terminal control sequences."
-    },
-    {
-     "word": "corruption",
-     "thai": "ความเสียหายของข้อมูล",
-     "level": "C1",
-     "example": "Clearing the screen incorrectly could cause memory corruption under specific limits."
-    },
-    {
-     "word": "arbitrary",
-     "thai": "ตามอำเภอใจ (ไม่แน่นอน/โดยพลการ)",
-     "level": "C1",
-     "example": "Flaws in handling crafted paths could lead to arbitrary command execution."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 10,
-   "msg_id": 382,
-   "sent_ts": "2026-10-28T07:50:02.892222+07:00"
-  },
-  {
-   "id": 672,
-   "ts": "2026-10-28T07:50:02.892385+07:00",
-   "title": "Tailscale SSH: Investigation and remediation update",
-   "link": "https://tailscale.com/ssh-investigation-update",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "Tailscale SSH security advisory addressing privilege escalation vulnerabilities requires immediate operational review and patching.",
-   "summary": "Tailscale is actively investigating privilege escalation vulnerabilities affecting its SSH service and preparing patches. Administrators are advised to review access policies and temporarily disable SSH forwarding if unused.",
-   "vocab": [
-    {
-     "word": "escalation",
-     "thai": "การยกระดับ (สิทธิ์)",
-     "level": "C1",
-     "example": "Most of the identified issues concern potential privilege escalation."
-    },
-    {
-     "word": "remediation",
-     "thai": "การแก้ไขเยียวยา",
-     "level": "C2",
-     "example": "Engineering teams are testing fixes as part of the remediation process."
-    },
-    {
-     "word": "mitigate",
-     "thai": "บรรเทาความรุนแรง",
-     "level": "C1",
-     "example": "Configuring the environment variable helps mitigate the more serious risks."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 10,
-   "msg_id": 383,
-   "sent_ts": "2026-10-28T07:50:03.504231+07:00"
-  },
-  {
-   "id": 673,
-   "ts": "2026-10-28T07:50:03.504396+07:00",
-   "title": "Early progress on accelerating drug development with Claude",
-   "link": "https://www.anthropic.com/research/early-progress-drug-development",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Anthropic's life sciences initiatives outline broad AI applications in biotech, interesting for AI infrastructure planners but not urgent ops news.",
-   "summary": "Anthropic is partnering with several biotechnology firms to apply its Claude AI model across various stages of drug discovery. These projects aim to address distributed bottlenecks in pharmaceutical research and rare disease treatment.",
-   "vocab": [
-    {
-     "word": "pharmaceutical",
-     "thai": "เกี่ยวกับเภสัชกรรม",
-     "level": "C1",
-     "example": "Life sciences partnerships explore how AI can streamline pharmaceutical research."
-    },
-    {
-     "word": "operational",
-     "thai": "เกี่ยวกับการปฏิบัติงาน",
-     "level": "B2",
-     "example": "Claude handles much of the scientific and operational work for rare disease programs."
-    },
-    {
-     "word": "integration",
-     "thai": "การบูรณาการ",
-     "level": "B2",
-     "example": "Successful drug discovery requires deep integration of AI into development pipelines."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 674,
-   "ts": "2026-10-28T07:51:01.085501+07:00",
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "link": "https://www.brangus.io/survival-llm",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "An offline local LLM utility with emergency documentation is interesting for edge computing enthusiasts, but secondary to core data center infrastructure.",
-   "summary": "Survival LLM is an open-source assistant and emergency library that runs completely offline on consumer hardware. It pairs local AI models with millions of reference articles so users can access vital information without internet connectivity.",
-   "vocab": [
-    {
-     "word": "connectivity",
-     "thai": "การเชื่อมต่อ",
-     "level": "B2",
-     "example": "Ask it how to keep food safe in a blackout or treat a burn while offline."
-    },
-    {
-     "word": "reference",
-     "thai": "เอกสารอ้างอิง",
-     "level": "B2",
-     "example": "Medical references, FEMA and CDC guidance, survival manuals, and Wikipedia articles are included."
-    },
-    {
-     "word": "extract",
-     "thai": "แตกไฟล์, สกัด",
-     "level": "B2",
-     "example": "On Windows, right-click the zip and choose Extract All."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 675,
-   "ts": "2026-10-28T07:51:01.085529+07:00",
-   "title": "Free daily JSON feed of Shanghai government subsidy notices",
-   "link": "https://github.com/ZhongGheart/china-policy-data",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Machine-readable API feeds for regional government subsidies are useful for business intelligence but peripheral to core infrastructure management.",
-   "summary": "A new daily JSON feed provides machine-readable access to Shanghai government grant and subsidy notices. It is designed for researchers, consultants, and AI agents tracking regulatory policies in China.",
-   "vocab": [
-    {
-     "word": "authoritative",
-     "thai": "ที่เชื่อถือได้ตามกฎหมาย, จากแหล่งทางการ",
-     "level": "C1",
-     "example": "The original Chinese notice at each url is authoritative."
-    },
-    {
-     "word": "excerpt",
-     "thai": "ข้อความที่ตัดตอนมา",
-     "level": "C1",
-     "example": "Each record includes a short excerpt of the notice text."
-    },
-    {
-     "word": "compilation",
-     "thai": "การรวบรวม",
-     "level": "C1",
-     "example": "The compilation and relevance scores are released under a creative commons license."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 676,
-   "ts": "2026-10-28T07:51:01.085548+07:00",
-   "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-   "link": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Unreleased Raspberry Pi hardware leaks in Linux kernel trees are relevant for edge and low-power IoT infrastructure.",
-   "summary": "Linux kernel device trees have revealed upcoming Raspberry Pi Zero 3 W and Pi 4 Model A boards. The Zero 3 W appears to upgrade to the quad-core BCM2711 processor used in the Pi 4, promising a major performance boost for small form-factor devices.",
-   "vocab": [
-    {
-     "word": "successor",
-     "thai": "ผู้สืบทอด, รุ่นถัดไป",
-     "level": "C1",
-     "example": "The Raspberry Pi Zero 2 W launched almost five years ago, so a successor has been a long time coming."
-    },
-    {
-     "word": "footprint",
-     "thai": "ขนาดพื้นที่ใช้สอย",
-     "level": "B2",
-     "example": "That’s a big step up in per-core performance for such a tiny footprint."
-    },
-    {
-     "word": "speculative",
-     "thai": "ที่ยังเป็นเพียงการคาดเดา",
-     "level": "C1",
-     "example": "There are a couple of more speculative bits too regarding the PCIe controller."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 677,
-   "ts": "2026-10-28T07:51:01.085566+07:00",
-   "title": "New 14‑inch MacBook Pro with M6",
-   "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Consumer laptop releases have minimal direct impact on enterprise data center and cloud infrastructure operations.",
-   "summary": "Apple has announced a new 14-inch MacBook Pro powered by the M6 chip, emphasizing enhanced local AI performance and prolonged battery life. The new hardware features improved CPU and GPU cores designed to run large language models privately on-device.",
-   "vocab": [
-    {
-     "word": "compelling",
-     "thai": "น่าสนใจมาก, น่าดึงดูด",
-     "level": "B2",
-     "example": "The 12-core GPU makes the new laptop a compelling value for users who need serious power."
-    },
-    {
-     "word": "multidisciplinary",
-     "thai": "สหวิทยาการ, หลากหลายสาขา",
-     "level": "C1",
-     "example": "It is designed for professionals across industries and multidisciplinary creators doing it all on one device."
-    },
-    {
-     "word": "responsive",
-     "thai": "ตอบสนองได้ดีและรวดเร็ว",
-     "level": "B2",
-     "example": "Everything from productivity tasks to demanding pro workflows feels incredibly fast and responsive."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 10
-  },
-  {
-   "id": 678,
-   "ts": "2026-10-28T07:51:14.548899+07:00",
-   "title": "Python's experimental JIT to be removed",
-   "link": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Python developers and system maintainers must adapt as the experimental JIT compiler is removed from CPython.",
-   "summary": "Python's experimental just-in-time compiler, introduced in version 3.13, is being removed after maintainers withdrew their proposal. The Python steering council required a formal standards-track proposal with strict maintenance metrics, which ultimately led to the project's halt.",
-   "vocab": [
-    {
-     "word": "experimental",
-     "thai": "ที่เกี่ยวกับการทดลอง",
-     "level": "B2",
-     "example": "Python's experimental just-in-time compiler is on its way out."
-    },
-    {
-     "word": "consensus",
-     "thai": "ความเห็นพ้องต้องกัน",
-     "level": "C1",
-     "example": "An informational PEP does not represent formal consensus to proceed."
-    },
-    {
-     "word": "maintenance",
-     "thai": "การบำรุงรักษา",
-     "level": "B2",
-     "example": "The proposal addressed concerns about long-term maintenance and compatibility."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 10
-  },
-  {
-   "id": 679,
-   "ts": "2026-10-28T07:51:14.548941+07:00",
-   "title": "Wikipedia's Cleanup of AI-Generated Content",
-   "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Relevant to content management infrastructure and automated moderation tools used across web platforms.",
-   "summary": "Wikipedia volunteers are developing advanced tools to detect and remove machine-generated content and fake citations. Recent data indicates that roughly 15 to 16 percent of new drafts and articles still contain AI-generated material.",
-   "vocab": [
-    {
-     "word": "conspicuous",
-     "thai": "ที่เด่นชัด สะดุดตา",
-     "level": "C1",
-     "example": "AI writing was often betrayed by conspicuous clichés."
-    },
-    {
-     "word": "prohibit",
-     "thai": "ห้าม",
-     "level": "B2",
-     "example": "English Wikipedia recently prohibited editors from using LLMs to generate articles."
-    },
-    {
-     "word": "conservative",
-     "thai": "แบบอนุรักษ์นิยม (ในที่นี้หมายถึงระมัดระวัง)",
-     "level": "B2",
-     "example": "Its results provide a very conservative lower bound for AI content."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 680,
-   "ts": "2026-10-28T07:51:14.548962+07:00",
-   "title": "Apple refreshes the iMac, entry-level MacBook Pro with the M6 chip",
-   "link": "https://arstechnica.com/apple/2026/10/apple-refreshes-the-imac-entry-level-macbook-pro-with-the-m6-chip/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Hardware updates for Apple client devices impact workstation fleets and local development environments.",
-   "summary": "Apple has refreshed its iMac and 14-inch MacBook Pro lineup by integrating the new M6 chip. The updated hardware delivers substantial performance improvements, including faster CPU speeds and enhanced on-device AI processing.",
-   "vocab": [
-    {
-     "word": "substantial",
-     "thai": "ที่มีความสำคัญ มากมาย",
-     "level": "B2",
-     "example": "It is a more substantial refresh for the iMac, as its previous update introduced the M4."
-    },
-    {
-     "word": "variant",
-     "thai": "รูปแบบที่แตกต่างออกไป",
-     "level": "B2",
-     "example": "The M6 is split into two variants for the iMac."
-    },
-    {
-     "word": "integration",
-     "thai": "การรวมเข้าด้วยกัน",
-     "level": "B2",
-     "example": "Both machines are getting the M6 chip, which was introduced earlier."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 10
-  },
-  {
-   "id": 681,
-   "ts": "2026-10-28T07:51:14.548988+07:00",
-   "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
-   "link": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Public health issue with no direct impact on IT infrastructure or security operations.",
-   "summary": "Health officials used whole-genome sequencing to trace multiple measles importations into Washington state from a domestic outbreak in South Carolina. The findings show that domestic travel now poses a greater transmission risk than international travel.",
-   "vocab": [
-    {
-     "word": "epidemiological",
-     "thai": "ทางระบาดวิทยา",
-     "level": "C1",
-     "example": "The study in Washington relied heavily on epidemiological data."
-    },
-    {
-     "word": "differentiate",
-     "thai": "แยกแยะ ความแตกต่าง",
-     "level": "B2",
-     "example": "Sequencing helps differentiate distinct importations from local transmission."
-    },
-    {
-     "word": "surpass",
-     "thai": "เหนือกว่า เกินกว่า",
-     "level": "C1",
-     "example": "Pennsylvania’s ongoing outbreak has since surpassed it."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 682,
-   "ts": "2026-10-28T07:51:14.549007+07:00",
-   "title": "China's top-secret spaceplane can't hide in low-Earth orbit",
-   "link": "https://arstechnica.com/space/2026/10/chinas-top-secret-spaceplane-cant-hide-in-low-earth-orbit/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Aerospace intelligence and satellite reconnaissance data affect global telecommunications and orbital infrastructure.",
-   "summary": "The US Pentagon has released a high-resolution commercial satellite image of China's secretive winged spaceplane in low-Earth orbit. The unclassified defense assessment highlights growing intelligence efforts regarding foreign assets in space.",
-   "vocab": [
-    {
-     "word": "reconnaissance",
-     "thai": "การลาดตระเวน การสอดแนม",
-     "level": "C1",
-     "example": "Vantor provides reconnaissance imagery to the US military."
-    },
-    {
-     "word": "resemblance",
-     "thai": "ความคล้ายคลึง",
-     "level": "B2",
-     "example": "A winged Chinese spacecraft bearing a strong resemblance to the X-37B was photographed."
-    },
-    {
-     "word": "unclassified",
-     "thai": "ที่ไม่ใช่ชั้นความลับ",
-     "level": "B2",
-     "example": "The image appeared in an unclassified Defense Intelligence Agency assessment."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 10
-  },
-  {
-   "id": 683,
-   "ts": "2026-10-28T07:51:14.549028+07:00",
-   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Corporate AI automation and regulatory frameworks heavily impact business infrastructure and legal liability.",
-   "summary": "A proposed Delaware bill to allow AI-led corporations has drawn scrutiny from US congressional leaders over liability evasion and regulatory loopholes. Proponents argue that giving autonomous software a legal identity makes its actions accountable and visible to the law.",
-   "vocab": [
-    {
-     "word": "autonomous",
-     "thai": "ซึ่งปกครองตนเอง โดยอัตโนมัติ",
-     "level": "B2",
-     "example": "States should develop legal frameworks for autonomous software."
-    },
-    {
-     "word": "liability",
-     "thai": "ความรับผิดทางกฎหมาย",
-     "level": "C1",
-     "example": "The proposal would help human owners evade legal liability for harmful actions."
-    },
-    {
-     "word": "jurisdiction",
-     "thai": "เขตอำนาจศาล หรืออำนาจหน้าที่",
-     "level": "C1",
-     "example": "Citing the Oversight Committee’s jurisdiction to study intergovernmental relationships..."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 10
-  },
-  {
-   "id": 684,
-   "ts": "2026-10-28T07:51:14.549048+07:00",
-   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Major AI infrastructure news directly concerning market stability, high-performance compute demand, and existential model risks.",
-   "summary": "Anthropic's newly published S-1 filing for its upcoming initial public offering details massive financial costs alongside extreme risk factors. The document warns that future advanced AI models could potentially operate with dangerous autonomy if safeguards fail.",
-   "vocab": [
-    {
-     "word": "existential",
-     "thai": "เกี่ยวกับความมีอยู่จริง",
-     "level": "C1",
-     "example": "These potential risks pose catastrophic or existential risks to humanity."
-    },
-    {
-     "word": "myriad",
-     "thai": "จำนวนมากมายนับไม่ถ้วน",
-     "level": "C1",
-     "example": "Anthropic spends an inordinate amount of time laying out myriad risk factors."
-    },
-    {
-     "word": "safeguard",
-     "thai": "มาตรการป้องกัน",
-     "level": "B2",
-     "example": "Progress could outpace our ability to evaluate and safeguard new models."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 9,
-   "credibility": 10,
-   "msg_id": 388,
-   "sent_ts": "2026-10-28T13:48:38.465320+07:00"
-  },
-  {
    "id": 685,
    "ts": "2026-10-28T21:40:56.026848+07:00",
    "title": "Gigawatt-scale off-grid data center campus proposed in Western Australia",
@@ -17083,11 +16505,13 @@
      "example": "Each data center is eligible for up to €100 million in EU funding."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 670,
+   "sent_ts": "2026-11-11T14:42:46.464270+07:00"
   },
   {
    "id": 1072,
@@ -17157,11 +16581,13 @@
      "example": "SG6 incorporates renewable energy generation through solar panels installed on the rooftop and the facade."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 671,
+   "sent_ts": "2026-11-11T14:42:47.139216+07:00"
   },
   {
    "id": 1074,
@@ -17193,11 +16619,13 @@
      "example": "We are taking another proactive step that enables our customers to scale with confidence."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 672,
+   "sent_ts": "2026-11-11T14:42:47.798345+07:00"
   },
   {
    "id": 1075,
@@ -17267,7 +16695,7 @@
      "example": "Metric DCX understood our business and this sector from the outset."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -17341,11 +16769,13 @@
      "example": "Architect creates an open source replacement for the virtual machine migration tool."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 675,
+   "sent_ts": "2026-11-11T14:42:49.797510+07:00"
   },
   {
    "id": 1079,
@@ -17377,7 +16807,7 @@
      "example": "Schools must manage the transition to paid software licensing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 5,
@@ -17413,11 +16843,13 @@
      "example": "The report provides strategic guidance for enterprise exit plans."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 676,
+   "sent_ts": "2026-11-11T14:42:50.471549+07:00"
   },
   {
    "id": 1081,
@@ -17449,7 +16881,7 @@
      "example": "The program distributes financial stipends to core project maintainers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -17485,11 +16917,13 @@
      "example": "The model selects appropriate labels from a predefined catalog."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 673,
+   "sent_ts": "2026-11-11T14:42:48.472807+07:00"
   },
   {
    "id": 1083,
@@ -17521,7 +16955,7 @@
      "example": "AI tools often generate superficial tests that miss edge cases."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -17595,7 +17029,7 @@
      "example": "Fable and Mythos are best for the most ambitious, open-ended technical work."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -17631,7 +17065,7 @@
      "example": "Happy paranoia regarding wireless signal tracking!"
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -17667,7 +17101,7 @@
      "example": "The long-term answer remains the rapid deployment of clean energy technologies."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 2,
    "scale": 10,
@@ -17744,11 +17178,13 @@
      "example": "The RTR gives the payment ecosystem a modern foundation to build on."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 7,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 669,
+   "sent_ts": "2026-11-11T14:42:45.795661+07:00"
   },
   {
    "id": 1090,
@@ -17780,7 +17216,7 @@
      "example": "A large-scale data center project has been proposed for Texas."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 3,
@@ -17816,7 +17252,7 @@
      "example": "The action plan focuses on structurally simplifying the company's operations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 4,
@@ -17852,7 +17288,7 @@
      "example": "The companies announced a framework agreement to guide their future investment."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -17888,7 +17324,7 @@
      "example": "Civic groups are calling on the government to halt the authorization of new projects."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 3,
@@ -17924,7 +17360,7 @@
      "example": "Fluidstack will cover costs related to power infrastructure upgrades."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 3,
@@ -17960,7 +17396,7 @@
      "example": "Colt DCS’ portfolio includes 15 operational data centers across Europe."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 4,
@@ -17996,7 +17432,7 @@
      "example": "The 480MW project is said to be expandable to 620MW."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 2,
    "scale": 7,
@@ -18032,7 +17468,7 @@
      "example": "The system allows the Met Office to conduct increasingly sophisticated scientific modelling."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 3,
    "scale": 5,
@@ -18068,7 +17504,7 @@
      "example": "The strategy is designed to drive profitable and sustainable growth."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -18104,7 +17540,7 @@
      "example": "The Gefion supercomputer was inaugurated by the king of Denmark in 2024."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 3,
@@ -18140,7 +17576,7 @@
      "example": "The project includes the installation of underground conduits for fiber optic cables."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 2,
@@ -18214,7 +17650,7 @@
      "example": "The chips are built for specific high-performance workloads."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -18288,7 +17724,7 @@
      "example": "This move may signal a change in national security policy."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 7,
@@ -18324,7 +17760,7 @@
      "example": "They are developing a new framework for the research."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 1,
    "scale": 5,
@@ -18360,11 +17796,13 @@
      "example": "Applying the vendor patch is the recommended remediation for the vulnerability."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 674,
+   "sent_ts": "2026-11-11T14:42:49.125300+07:00"
   },
   {
    "id": 1107,
@@ -18472,7 +17910,7 @@
      "example": "The scanning tool shifts the burden of validation onto open source maintainers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -18508,7 +17946,7 @@
      "example": "We made the decision because we couldn’t compete in the cloud computing space."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 7,
    "scale": 4,
@@ -18544,7 +17982,7 @@
      "example": "Cryptographic protocols underpin nearly all digital communication, from online banking to web browsing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 8,
@@ -18580,7 +18018,7 @@
      "example": "Zen 6 also comes closer to theoretical peak throughput for simple integer instructions than Zen 5."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -18616,7 +18054,7 @@
      "example": "We propose and evaluate fingerprinting protections based on their impact on uniqueness and cohort structure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 2,
    "scale": 6,
@@ -18652,7 +18090,7 @@
      "example": "Users will have to bring their own SSD, with some specific restrictions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -18661,196 +18099,6 @@
  ],
  "next_id": 1115,
  "vocab": [
-  {
-   "word": "commercialization",
-   "thai": "การพัฒนาสู่เชิงพาณิชย์",
-   "level": "C1",
-   "example": "The funding will accelerate initiatives for the commercialization of vertical Gallium Nitride.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "tender",
-   "thai": "การประมูลงาน / ซองประมูล",
-   "level": "C1",
-   "example": "Switzerland’s federal government has published a tender worth up to $8.5bn for cloud services.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sovereignty",
-   "thai": "อำนาจอธิปไตย (ในที่นี้คือ อธิปไตยทางดิจิทัล)",
-   "level": "C1",
-   "example": "The project focuses on enhancing Switzerland’s digital sovereignty.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "outlay",
-   "thai": "ค่าใช้จ่าย / เงินที่จ่ายออกไป",
-   "level": "C1",
-   "example": "These costs do not include implementation outlays, which will reach hundreds of millions.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "orchestrate",
-   "thai": "ประสานและจัดการระบบที่ซับซ้อน",
-   "level": "C1",
-   "example": "The software orchestrates AI workloads in real time to stabilize grid power.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dynamically",
-   "thai": "อย่างปรับเปลี่ยนได้ตามสถานการณ์",
-   "level": "B2",
-   "example": "This enables data centers to dynamically adjust their energy consumption.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "eligible",
-   "thai": "มีคุณสมบัติเหมาะสม, มีสิทธิ์",
-   "level": "B2",
-   "example": "All iOS components are eligible for research under this program.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "customize",
-   "thai": "ปรับแต่งตามความต้องการ",
-   "level": "B2",
-   "example": "You can run tools, choose entitlements, and even customize the kernel.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "discovery",
-   "thai": "การค้นพบ",
-   "level": "B2",
-   "example": "Special tooling to augment research and vulnerability discovery.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consensus",
-   "thai": "ความเห็นพ้องต้องกัน (ในระบบกระจาย)",
-   "level": "C1",
-   "example": "Replicating SQLite with a consensus protocol solved it.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "embedded",
-   "thai": "ฝังตัวอยู่ภายใน",
-   "level": "B2",
-   "example": "Canonical built dqlite to get an embedded replicated store.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "standalone",
-   "thai": "ทำงานด้วยตัวเองได้โดยอิสระ",
-   "level": "B2",
-   "example": "What rqlite did was make it a standalone, general-purpose open-source thing.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "photorealistic",
-   "thai": "เหมือนภาพถ่ายจริง",
-   "level": "C1",
-   "example": "NVIDIA's StyleGAN powers a photorealistic fake face on every refresh.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "variability",
-   "thai": "ความแปรปรวน, ความไม่แน่นอน",
-   "level": "C1",
-   "example": "Prices vary widely, highlighting the high variability in API costs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "multimodal",
-   "thai": "หลายรูปแบบ (รองรับทั้งข้อความ ภาพ เสียง)",
-   "level": "C1",
-   "example": "A multimodal agent can write the prompt, call the API, and evaluate the result.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "civil penalty",
-   "thai": "โทษปรับทางแพ่ง",
-   "level": "C1",
-   "example": "MDEQ is seeking civil penalties of up to $25,000 per day.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "injunction",
-   "thai": "คำสั่งห้ามของศาล",
-   "level": "C1",
-   "example": "The plaintiffs are seeking an injunction to halt turbine operations.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "blowback",
-   "thai": "ผลกระทบเชิงลบที่ไม่คาดคิดตามมา",
-   "level": "C1",
-   "example": "The political blowback from the decision is causing allied nations to reconsider reliance on US vendors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "insurmountable",
-   "thai": "ที่ยากจะเอาชนะหรือข้ามพ้น",
-   "level": "C1",
-   "example": "Cloning the capabilities of foreign tech giants once seemed like an insurmountable problem.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "outsource",
    "thai": "จัดจ้างภายนอก",
@@ -23656,6 +22904,196 @@
    "thai": "มัลแวร์เรียกค่าไถ่",
    "level": "B2",
    "example": "Ten years since the first corporate ransomware, analysts see no end in sight.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "underpins",
+   "thai": "เป็นรากฐานสนับสนุน",
+   "level": "C1",
+   "example": "Modernizing the critical infrastructure that underpins Canada’s economy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ecosystem",
+   "thai": "ระบบนิเวศทางธุรกิจหรือเทคโนโลยี",
+   "level": "B2",
+   "example": "The RTR gives the payment ecosystem a modern foundation to build on.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hampering",
+   "thai": "ขัดขวาง หน่วงเหนี่ยว",
+   "level": "C1",
+   "example": "Technical issues are hampering the European Union’s AI gigafactories program.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "irrespective",
+   "thai": "โดยไม่คำนึงถึง",
+   "level": "C1",
+   "example": "All submissions will not be considered, irrespective of the lot for which they have been prepared.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intersection",
+   "thai": "จุดตัด ทางแยก",
+   "level": "B2",
+   "example": "Singapore sits at the intersection of global commerce, digital technology and sustainable development.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "testament",
+   "thai": "เครื่องยืนยัน หลักฐาน",
+   "level": "C1",
+   "example": "Our continued investment here is a testament to the central role it plays in the digital economy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "facade",
+   "thai": "ด้านหน้าอาคาร",
+   "level": "C1",
+   "example": "SG6 incorporates renewable energy generation through solar panels installed on the rooftop and the facade.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "continuity",
+   "thai": "ความต่อเนื่อง",
+   "level": "C1",
+   "example": "The strategic agreement will support supply continuity and reliable delivery.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "comprehensive",
+   "thai": "ครอบคลุม สมบูรณ์",
+   "level": "B2",
+   "example": "Through our comprehensive portfolio, we can provide Vertiv with advanced power semiconductor technologies.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proactive",
+   "thai": "เชิงรุก",
+   "level": "B2",
+   "example": "We are taking another proactive step that enables our customers to scale with confidence.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "escalation",
+   "thai": "การส่งต่อเรื่องขึ้นไปยังระดับที่สูงกว่า",
+   "level": "C1",
+   "example": "The system automatically routes customer escalations to senior engineers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "isolation",
+   "thai": "การแยกเพื่อความปลอดภัย",
+   "level": "B2",
+   "example": "The compute endpoint ran inside a network isolation layer.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "catalog",
+   "thai": "บัญชีรายการ",
+   "level": "B2",
+   "example": "The model selects appropriate labels from a predefined catalog.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "gateway",
+   "thai": "เกตเวย์ / ประตูเชื่อมต่อเครือข่าย",
+   "level": "B2",
+   "example": "Barracuda's email security gateways were affected by critical flaws.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "remediation",
+   "thai": "การแก้ไขเยียวยาข้อบกพร่อง",
+   "level": "C1",
+   "example": "Applying the vendor patch is the recommended remediation for the vulnerability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spruced",
+   "thai": "ตกแต่งให้ดูดีขึ้น",
+   "level": "C1",
+   "example": "Very nearly 30something environment gets spruced up.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alternative",
+   "thai": "ทางเลือก",
+   "level": "B2",
+   "example": "Architect creates an open source replacement for the virtual machine migration tool.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contingency",
+   "thai": "แผนสำรองสำหรับเหตุฉุกเฉิน",
+   "level": "C1",
+   "example": "Organizations should prepare a contingency plan for cloud migrations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "guidance",
+   "thai": "คำแนะนำ",
+   "level": "B2",
+   "example": "The report provides strategic guidance for enterprise exit plans.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
