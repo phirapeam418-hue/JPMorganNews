@@ -2204,643 +2204,33 @@
   "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
   "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
   "https://arstechnica.com/space/2026/11/the-us-military-seems-to-be-getting-nervous-about-the-launch-supply-crunch/",
-  "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+  "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/",
+  "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
+  "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+  "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
+  "https://www.datacenterdynamics.com/en/analysis/evri-cto-marcus-hunter-aws/",
+  "https://www.datacenterdynamics.com/en/news/lcl-partners-with-wellen-real-estate-on-rooftop-solar-project-in-antwerp-belgium/",
+  "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+  "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/bt-delays-starlink-partnership-amid-recent-ukrainian-disruption-report/",
+  "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+  "https://www.datacenterdynamics.com/en/news/proposal-for-ai-data-center-at-former-paper-mill-in-maine-resurfaces/",
+  "https://www.datacenterdynamics.com/en/news/oak-hill-capital-to-snap-up-fiber-provider-wyyerd-group-holdings/",
+  "https://www.datacenterdynamics.com/en/news/ld-armateurs-to-procure-three-subsea-cable-laying-ships/",
+  "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+  "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+  "https://www.theregister.com/systems/2026/11/11/us-bit-barn-boom-sees-energy-needs-grow-10x-as-fast-as-grid-capacity/5309191",
+  "https://www.theregister.com/science/2026/11/11/scientists-check-their-work-and-confirm-it-with-update-on-iconic-black-hole-image/5309183",
+  "https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186",
+  "https://www.theregister.com/personal-tech/2026/11/11/apples-touchscreen-macbook-pro-does-not-like-to-be-taken-apart/5309110",
+  "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+  "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
+  "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
+  "https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090",
+  "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
  ],
  "stories": [
-  {
-   "id": 705,
-   "ts": "2026-10-29T03:42:32.293467+07:00",
-   "title": "Tata Communications to invest $450m into 10,000km of AI-ready fiber to support data center connectivity in India",
-   "link": "https://www.datacenterdynamics.com/en/news/tata-communications-to-invest-450m-into-10000km-of-ai-ready-fiber-to-support-data-center-connectivity-in-india/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Tata's multi-million dollar fiber buildout will significantly improve long-haul network capacity connecting data centers across India.",
-   "summary": "Tata Communications is spending up to $450 million to install 10,000 kilometers of high-capacity fiber across India to connect emerging data center clusters. The network will link major regional facilities directly to subsea cable landing stations to support growing AI and hyperscale traffic.",
-   "vocab": [
-    {
-     "word": "long-haul",
-     "thai": "ทางไกล / ระยะไกล",
-     "level": "B2",
-     "example": "Tata has announced plans to invest in around 10,000km of long-haul, AI-ready fiber."
-    },
-    {
-     "word": "corridor",
-     "thai": "ระเบียงเส้นทางคมนาคม",
-     "level": "B2",
-     "example": "The first phase focuses on the Mumbai-Pune-Hyderabad-Chennai corridor."
-    },
-    {
-     "word": "terrestrial",
-     "thai": "ภาคพื้นดิน / บนบก",
-     "level": "C1",
-     "example": "The company operates over 200,000km of terrestrial fiber networks."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 706,
-   "ts": "2026-10-29T03:42:32.293504+07:00",
-   "title": "KBRA assigns preliminary ratings to up to $525m in US Signal notes, secured against ten data centers",
-   "link": "https://www.datacenterdynamics.com/en/news/kbra-assigns-preliminary-ratings-to-up-to-525m-in-us-signal-notes-secured-against-ten-data-centers/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "This is a financial asset-backed securities transaction involving US Signal's secondary colocation data center assets.",
-   "summary": "Data center firm US Signal plans to raise up to $525 million through debt secured by ten of its owned colocation facilities. Credit agency KBRA noted that the portfolio consists of older facilities in secondary markets, which carry higher capitalization risk.",
-   "vocab": [
-    {
-     "word": "collateralized",
-     "thai": "ซึ่งค้ำประกันด้วยสินทรัพย์",
-     "level": "C1",
-     "example": "ABS is a type of financial investment that is collateralized by an underlying pool of assets."
-    },
-    {
-     "word": "recurring",
-     "thai": "ที่เกิดขึ้นซ้ำ / ต่อเนื่อง",
-     "level": "B2",
-     "example": "The facilities generate over $111 million of annualized recurring revenue."
-    },
-    {
-     "word": "liquidity",
-     "thai": "สภาพคล่องทางการเงิน",
-     "level": "C1",
-     "example": "Secondary markets exhibit smaller tenant bases and reduced asset liquidity."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 707,
-   "ts": "2026-10-29T03:42:32.293522+07:00",
-   "title": "Vertiv shares jump 14 percent as data center earnings beat expectations",
-   "link": "https://www.datacenterdynamics.com/en/news/vertiv-shares-jump-14-percent-as-data-center-earnings-beat-expectations/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Vertiv is a critical power and cooling supplier whose doubling order volume confirms surging data center buildout activity.",
-   "summary": "Equipment maker Vertiv reported quarterly earnings that beat Wall Street estimates, propelled by orders that doubled compared to last year. The surge highlights intense ongoing demand for high-density power and cooling infrastructure driven by hyperscale AI deployments.",
-   "vocab": [
-    {
-     "word": "replicate",
-     "thai": "ทำซ้ำ / ลอกเลียนแบบ",
-     "level": "B2",
-     "example": "The company is strengthening competencies that are very hard to replicate."
-    },
-    {
-     "word": "rigor",
-     "thai": "ความเข้มงวดและความแม่นยำ",
-     "level": "C1",
-     "example": "We are expanding capacity, improving productivity, and executing with rigor."
-    },
-    {
-     "word": "industrialize",
-     "thai": "พัฒนาสู่ระดับอุตสาหกรรม",
-     "level": "C1",
-     "example": "We are industrializing converged infrastructure at a scale that did not exist before."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 708,
-   "ts": "2026-10-29T03:42:32.293537+07:00",
-   "title": "Oracle AI World takeaways: making Nvidia envious, and storage... sexy?",
-   "link": "https://www.datacenterdynamics.com/en/opinions/oracle-ai-world-takeaways-making-nvidia-envious-and-storage-sexy/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Oracle becoming the first non-Google cloud to offer Google TPUs marks a major shift in hyperscaler chip sourcing and AI compute options.",
-   "summary": "Oracle announced that it will provide access to Google's custom Tensor Processing Units (TPUs) across gigawatt-scale cloud deployments. The partnership gives infrastructure customers alternate accelerator options to Nvidia GPUs amid ongoing hardware and power constraints.",
-   "vocab": [
-    {
-     "word": "idle",
-     "thai": "ว่าง / ไม่ได้ใช้งาน",
-     "level": "B2",
-     "example": "This will prevent a valuable hardware asset from sitting idle."
-    },
-    {
-     "word": "constraint",
-     "thai": "ข้อจำกัด",
-     "level": "B2",
-     "example": "Oracle is operating in a very supply-constrained hardware market."
-    },
-    {
-     "word": "inference",
-     "thai": "การประมวลผลอนุมาน (ในระบบ AI)",
-     "level": "C1",
-     "example": "Are my infrastructure needs going to change because I am running a lot more inference?"
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 709,
-   "ts": "2026-10-29T03:42:32.293555+07:00",
-   "title": "UK budget: Grid connection incentives for data centers under new “covenant”",
-   "link": "https://www.datacenterdynamics.com/en/news/uk-budget-grid-connection-incentives-for-data-centers-under-new-covenant/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "The UK policy creates a framework linking grid interconnection prioritization directly to community, water, and power commitments.",
-   "summary": "The UK government introduced a Data Center Covenant allowing operators priority grid connections and on-site generation permits if they meet strict local economic and environmental standards. The policy offers a faster path to power capacity for developers who agree to protect local water supplies and invest in nearby communities.",
-   "vocab": [
-    {
-     "word": "covenant",
-     "thai": "ข้อตกลงหรือพันธสัญญาร่วมกัน",
-     "level": "C2",
-     "example": "The chancellor announced a British Data Center Covenant for facility operators."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎเกณฑ์",
-     "level": "C1",
-     "example": "In return for compliance, critical data centers will get priority grid connections."
-    },
-    {
-     "word": "priority",
-     "thai": "ลำดับความสำคัญก่อน",
-     "level": "B2",
-     "example": "The policy focuses on prioritizing grid connections for critical infrastructure projects."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 710,
-   "ts": "2026-10-29T03:44:55.310827+07:00",
-   "title": "Enphase and Infineon deploy 900V GaN switches in solid-state transformers designed for AI data centers",
-   "link": "https://www.datacenterdynamics.com/en/news/enphase-and-infineon-deploy-900v-gan-switches-in-solid-state-transformers-designed-for-ai-data-centers/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Novel solid-state transformer technology directly tackles data center power conversion efficiency and rack power distribution for AI workloads.",
-   "summary": "Enphase and Infineon have deployed 900V gallium nitride switches within solid-state transformers engineered for AI data centers. This architecture minimizes conversion losses and cuts down component counts to help facilities handle medium-voltage power distribution efficiently.",
-   "vocab": [
-    {
-     "word": "monolithic",
-     "thai": "ที่สร้างรวมอยู่ในชิ้นเดียว",
-     "level": "C1",
-     "example": "The companies deployed the world's first 900 Volt gallium nitride monolithic bidirectional switch devices."
-    },
-    {
-     "word": "headroom",
-     "thai": "ส่วนเผื่อหรือระยะขอบเขตความปลอดภัย",
-     "level": "C1",
-     "example": "Moving to 900V gives us more voltage headroom without giving up high-frequency switching."
-    },
-    {
-     "word": "conversion",
-     "thai": "การแปลงรูปหรือการเปลี่ยนรูปพลังงาน",
-     "level": "B2",
-     "example": "The devices expand design options for high-performance power conversion that typically rely on silicon carbide technology."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 711,
-   "ts": "2026-10-29T03:44:55.310858+07:00",
-   "title": "Neocloud General Compute raises $100m in Series A funding round",
-   "link": "https://www.datacenterdynamics.com/en/news/neocloud-general-compute-raises-100m-in-series-a-funding-round/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Funding for an emerging neocloud highlights hardware diversification and growing capacity demands in AI infrastructure.",
-   "summary": "AI cloud startup General Compute raised $100 million in Series A funding, bringing its valuation to $800 million. The company aims to deploy 75MW of computing capacity by 2027 by integrating alternative AI processors such as Cerebras wafer-scale chips.",
-   "vocab": [
-    {
-     "word": "consolidation",
-     "thai": "การควบรวมกิจการ",
-     "level": "C1",
-     "example": "He claimed that neoclouds are going to see guppy-level death and consolidation."
-    },
-    {
-     "word": "overstate",
-     "thai": "กล่าวเกินจริง",
-     "level": "B2",
-     "example": "The CEO said the negative predictions about the industry were massively overstated."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่าทางธุรกิจ",
-     "level": "B2",
-     "example": "The round provided the neocloud with an $800m post-money valuation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 712,
-   "ts": "2026-10-29T03:44:55.310873+07:00",
-   "title": "TPG eyes UK data center firm Ark - report",
-   "link": "https://www.datacenterdynamics.com/en/news/tpg-eyes-uk-data-center-firm-ark-report/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "A major private equity acquisition of a 560MW UK data center operator illustrates continuing investment and valuation trends in European digital infrastructure.",
-   "summary": "Private equity firm TPG is reportedly negotiating to acquire UK-based Ark Data Centres from Elliott Investment Management for around $5 billion. Ark operates 27 data centers spanning more than 560MW and supplies hosting services to UK government departments.",
-   "vocab": [
-    {
-     "word": "adjacent",
-     "thai": "ที่อยู่ติดกันหรืออยู่ใกล้เคียง",
-     "level": "B2",
-     "example": "Its Meridian Park data center is powered via a direct line from an adjacent Energy from Waste plant."
-    },
-    {
-     "word": "minority",
-     "thai": "ส่วนน้อยหรือสัดส่วนข้างน้อย",
-     "level": "B2",
-     "example": "The company operates with European real estate investor Revcap as a minority investor."
-    },
-    {
-     "word": "venture",
-     "thai": "กิจการร่วมค้าหรือธุรกิจที่มีความเสี่ยง",
-     "level": "B2",
-     "example": "Ark also operates Crown Hosting Data Centres, a joint venture with the UK Cabinet Office."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 713,
-   "ts": "2026-10-29T03:44:55.310888+07:00",
-   "title": "Amazon tells tokenmaxxing devs to slow their AI roll",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/28/amazon-tells-tokenmaxxing-devs-to-slow-their-ai-roll/5306090",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "The piece touches on cloud providers managing excessive AI token consumption, though the provided text lacks comprehensive technical depth.",
-   "summary": "Amazon is advising developers to manage excessive AI token usage that risks overloading backend computing infrastructure. The report highlights emerging operational friction as cloud providers seek to balance surging automated agent traffic with platform stability.",
-   "vocab": [
-    {
-     "word": "surveillance",
-     "thai": "การสอดส่องตรวจตราหรือการเฝ้าระวัง",
-     "level": "B2",
-     "example": "China upgrades smartphone surveillance tools while privacy concerns continue to grow."
-    },
-    {
-     "word": "persistent",
-     "thai": "ที่ทำงานต่อเนื่องหรือคงอยู่ตลอดเวลา",
-     "level": "B2",
-     "example": "Persistent agents appeal to AI companies, but enterprise demand isn't entirely obvious."
-    },
-    {
-     "word": "unaffiliated",
-     "thai": "ซึ่งไม่ได้สังกัดหรือไม่มีความเกี่ยวข้อง",
-     "level": "C1",
-     "example": "The new operating system port is unaffiliated with the Linux original."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 6
-  },
-  {
-   "id": 714,
-   "ts": "2026-10-29T03:44:55.310903+07:00",
-   "title": "GitHub powering up four million extra cores to stop its service going down",
-   "link": "https://www.theregister.com/ai-and-ml/2026/10/28/github-powering-up-four-million-extra-cores-to-stop-its-service-going-down/5305863",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "GitHub is a crucial DevOps platform, and expanding compute by millions of cores directly addresses service availability against AI-driven load.",
-   "summary": "GitHub is adding four million processor cores and re-architecting its platform to withstand massive surges in automated AI traffic. The substantial infrastructure expansion aims to protect the developer platform from downtime caused by runaway bot workloads.",
-   "vocab": [
-    {
-     "word": "cope",
-     "thai": "รับมือหรือจัดการกับปัญหา",
-     "level": "B2",
-     "example": "The platform re-architects its site to cope with an unprecedented influx of automated activity."
-    },
-    {
-     "word": "rival",
-     "thai": "ทัดเทียมหรือแข่งขันกับ",
-     "level": "B2",
-     "example": "The budget model rivals pricier alternatives on several common enterprise tasks."
-    },
-    {
-     "word": "adoption",
-     "thai": "การนำมาปรับใช้หรือการเริ่มใช้งาน",
-     "level": "B2",
-     "example": "Increasing awareness and adoption of lightweight systems has contributed to operational stability."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 9,
-   "credibility": 7
-  },
-  {
-   "id": 715,
-   "ts": "2026-10-29T03:44:55.310921+07:00",
-   "title": "Serial ransomware crook gets 70 months behind bars for Nefilim, Hive roles",
-   "link": "https://www.theregister.com/cyber-crime/2026/10/28/serial-ransomware-crook-gets-70-months-behind-bars-for-nefilim-hive-roles/5306050",
-   "source": "www.theregister.com - Articles",
-   "score": 4,
-   "watch": true,
-   "reason": "Legal sentencing of past ransomware operators provides criminal accountability but does not require operational changes from infrastructure teams.",
-   "summary": "A serial cybercriminal has received a 70-month prison sentence for participating in attacks using the Nefilim and Hive ransomware variants. While law enforcement continues to prosecute threat actors, ransomware operations remain a persistent operational threat to enterprise environments.",
-   "vocab": [
-    {
-     "word": "phishing",
-     "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูล",
-     "level": "B2",
-     "example": "Attackers are posing as support staff to launch deceptive phishing campaigns."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราวหรือขั้นระหว่างกลาง",
-     "level": "C1",
-     "example": "Developers are testing the new interim releases before pushing updates to production."
-    },
-    {
-     "word": "equivalent",
-     "thai": "สิ่งที่มีมูลค่าหรือจำนวนเท่าเทียมกัน",
-     "level": "B2",
-     "example": "The business was acquired at the equivalent of a multi-billion dollar valuation."
-    }
-   ],
-   "status": "sent",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 7,
-   "msg_id": 404,
-   "sent_ts": "2026-10-29T08:22:11.958950+07:00"
-  },
-  {
-   "id": 716,
-   "ts": "2026-10-29T03:45:33.933774+07:00",
-   "title": "How Google fumbled the frontend with Angular 2",
-   "link": "https://www.theregister.com/devops/2026/10/28/how-google-fumbled-the-frontend-with-angular-2/5306030",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Discusses GitHub scaling infrastructure for AI workloads and various software updates, moderately relevant to DevOps.",
-   "summary": "GitHub is expanding its computing cores and re-architecting its platform to handle heavy traffic and AI-generated content. Meanwhile, various open-source and security developments are reported across the tech industry.",
-   "vocab": [
-    {
-     "word": "unaffiliated",
-     "thai": "ไม่เกี่ยวข้อง / ไม่อยู่ในสังกัด",
-     "level": "B2",
-     "example": "Daemonarchy is unaffiliated with the Linux original, built with AI help."
-    },
-    {
-     "word": "persistent",
-     "thai": "ที่คงอยู่ / ต่อเนื่อง",
-     "level": "B2",
-     "example": "Persistent agents appeal to AI companies, but demand isn't obvious."
-    },
-    {
-     "word": "interim",
-     "thai": "ชั่วคราว",
-     "level": "B2",
-     "example": "Ubuntu interim releases are getting interesting again."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 717,
-   "ts": "2026-10-29T03:45:33.933805+07:00",
-   "title": "SK Hynix says memory shortages to persist until 2030",
-   "link": "https://www.theregister.com/systems/2026/10/28/sk-hynix-says-memory-shortages-to-persist-until-2030/5305887",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Reports on long-term memory component shortages affecting hardware supply chains and data center builds.",
-   "summary": "SK Hynix predicts that memory component shortages will persist until 2030 due to high demand. This ongoing limitation could impact hardware provisioning for cloud infrastructure and data centers.",
-   "vocab": [
-    {
-     "word": "persist",
-     "thai": "คงอยู่ต่อไป / ยังคงมีอยู่",
-     "level": "B2",
-     "example": "SK Hynix says memory shortages to persist until 2030."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 9,
-   "credibility": 8,
-   "msg_id": 405,
-   "sent_ts": "2026-10-29T08:22:12.457123+07:00"
-  },
-  {
-   "id": 718,
-   "ts": "2026-10-29T03:45:33.933824+07:00",
-   "title": "AI slows growth for Infosys and keeps it afloat at the same time",
-   "link": "https://www.theregister.com/channel/2026/10/28/ai-slows-growth-for-infosys-and-keeps-it-afloat-at-the-same-time/5305879",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Covers enterprise IT services market trends regarding AI integration, with indirect relevance to infrastructure operations.",
-   "summary": "IT services firm Infosys reports that artificial intelligence is simultaneously slowing down certain traditional revenue streams while sustaining its business. Enterprise service providers are navigating how automation changes their operational models.",
-   "vocab": [
-    {
-     "word": "afloat",
-     "thai": "ประคับประคองให้อยู่รอดได้",
-     "level": "B2",
-     "example": "AI slows growth for Infosys and keeps it afloat at the same time."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 719,
-   "ts": "2026-10-29T03:45:33.933836+07:00",
-   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-   "link": "https://nullpt.rs/fingerprinting-bioweapons",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Analyzes browser fingerprinting scripts and unexpected code content, touching on security and reverse engineering.",
-   "summary": "A researcher analyzing web browser fingerprinting scripts discovered unusual symbol names embedded inside a third-party script. The peculiar naming conventions appear designed to trip up automated analysis or large language models.",
-   "vocab": [
-    {
-     "word": "benign",
-     "thai": "ไม่เป็นอันตราย",
-     "level": "C1",
-     "example": "I would hook canvas toDataURL calls and common properties to filter out benign canvases."
-    },
-    {
-     "word": "obfuscation",
-     "thai": "การอำพรางโค้ด",
-     "level": "C1",
-     "example": "I've spent enough time reverse engineering JavaScript to recognize most common obfuscation techniques."
-    },
-    {
-     "word": "accumulated",
-     "thai": "สะสม",
-     "level": "B2",
-     "example": "After crawling 10,000 websites, I had accumulated a surprisingly diverse collection of canvases."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 720,
-   "ts": "2026-10-29T03:45:33.933847+07:00",
-   "title": "Gemini 4 Carbon",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Announces a major new frontier AI model with cybersecurity capabilities, relevant to AI infrastructure and security.",
-   "summary": "Google has announced its new frontier model, Gemini 4 Carbon, featuring advanced cybersecurity and long-horizon reasoning capabilities. The model is being rolled out gradually with a focus on secure code generation and vulnerability detection.",
-   "vocab": [
-    {
-     "word": "remediation",
-     "thai": "การแก้ไขปัญหา",
-     "level": "C1",
-     "example": "It achieves state-of-the-art performance across vulnerability detection, validation, and remediation."
-    },
-    {
-     "word": "multimodal",
-     "thai": "ที่รองรับหลายรูปแบบข้อมูล",
-     "level": "C1",
-     "example": "Designed for complex engineering tasks as well as full-stack web development and multimodal understanding."
-    },
-    {
-     "word": "deliberate",
-     "thai": "รอบคอบ / ตั้งใจ",
-     "level": "B2",
-     "example": "We're taking a deliberate approach to rollout and are actively engaged in pre-release testing."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "extra_links": [
-    "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
-   ]
-  },
-  {
-   "id": 721,
-   "ts": "2026-10-29T03:45:33.933867+07:00",
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Presents consumer and professional Apple hardware updates with minimal impact on enterprise data center operations.",
-   "summary": "Apple has introduced new MacBook Pro models featuring advanced tandem OLED displays and upgraded M-series processors. These laptops offer higher brightness levels, enhanced touch controls, and faster connectivity ports.",
-   "vocab": [
-    {
-     "word": "pinnacle",
-     "thai": "จุดสูงสุด",
-     "level": "C1",
-     "example": "It is the pinnacle of pro performance."
-    },
-    {
-     "word": "gamut",
-     "thai": "ช่วงทั้งหมด (ของสีหรือเสียง)",
-     "level": "C1",
-     "example": "A wider color gamut covering both P3 and Adobe RGB."
-    },
-    {
-     "word": "peripherals",
-     "thai": "อุปกรณ์ต่อพ่วง",
-     "level": "B2",
-     "example": "Connect high-speed peripherals and transfer photos instantly."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9,
-   "extra_links": [
-    "https://arstechnica.com/apple/2026/10/apple-announces-touchscreen-macbook-pro-with-oled-display/"
-   ]
-  },
-  {
-   "id": 722,
-   "ts": "2026-10-29T03:45:33.933883+07:00",
-   "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-   "link": "https://surgehq.ai/blog/dayjob-tax",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Evaluates AI agent performance on professional tax workflows, relevant to AI capabilities but outside core IT infrastructure.",
-   "summary": "A new benchmark called DAYJOB: Tax evaluates how effectively AI agents handle complex professional tax assignments. While top models show strong calculation skills, they still struggle with identifying critical nuanced deadlines.",
-   "vocab": [
-    {
-     "word": "consequential",
-     "thai": "ที่มีความสำคัญมาก / ซึ่งส่งผลกระทบตามมา",
-     "level": "C1",
-     "example": "A tax adviser should recognize consequential issues even when the client doesn't know to ask."
-    },
-    {
-     "word": "eligibility",
-     "thai": "คุณสมบัติที่จะได้รับสิทธิ",
-     "level": "B2",
-     "example": "If her sale was delayed beyond August 2027, she could lose eligibility."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "DAYJOB: Tax extends that work into tax preparation, compliance, and advisory services."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
   {
    "id": 723,
    "ts": "2026-10-29T08:25:49.838643+07:00",
@@ -17349,9 +16739,513 @@
    "urgency": 2,
    "scale": 4,
    "credibility": 9
+  },
+  {
+   "id": 1115,
+   "ts": "2026-11-12T06:50:30.502690+07:00",
+   "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Leadership turmoil and potential ouster of Nvidia's CEO has massive ramifications across the entire AI hardware and data center supply chain.",
+   "summary": "Nvidia's board is reportedly preparing to remove CEO Jensen Huang following allegations of a second affair with a company executive. A leadership change at Nvidia could destabilize the primary supplier of chips driving global AI data center buildouts.",
+   "vocab": [
+    {
+     "word": "ouster",
+     "thai": "การขับไล่ออกจากตำแหน่ง",
+     "level": "C1",
+     "example": "The board considers the ouster of the chief executive amid growing scandals."
+    },
+    {
+     "word": "affectionate",
+     "thai": "ที่แสดงความรักใคร่",
+     "level": "B2",
+     "example": "The two were allegedly captured on video being affectionate at a hotel."
+    },
+    {
+     "word": "successor",
+     "thai": "ผู้สืบทอดตำแหน่ง",
+     "level": "B2",
+     "example": "The CEO has dozens of direct reports but no clear successor."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 1116,
+   "ts": "2026-11-12T06:50:30.502741+07:00",
+   "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers legal and corporate investigation steps into Nvidia's CEO, slightly lower operational urgency than the direct ouster threat in N1.",
+   "summary": "Nvidia has hired law firm Wachtell Lipton to lead an independent investigation into allegations concerning CEO Jensen Huang and a suspected Chinese spy. The ongoing scandal has already erased billions from Nvidia's market value and triggered shareholder lawsuits.",
+   "vocab": [
+    {
+     "word": "espionage",
+     "thai": "การจารกรรม",
+     "level": "C1",
+     "example": "The prosecutor has extensive experience investigating economic espionage."
+    },
+    {
+     "word": "lawsuit",
+     "thai": "คดีความทางกฎหมาย",
+     "level": "B2",
+     "example": "A number of shareholders have filed a lawsuit against the company over the losses."
+    },
+    {
+     "word": "prosecute",
+     "thai": "ดำเนินคดี",
+     "level": "B2",
+     "example": "He listed experience in prosecuting complex financial crimes and sanctions violations."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1117,
+   "ts": "2026-11-12T06:50:30.502780+07:00",
+   "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
+   "link": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A significant 400MW hyperscale project announcement showing continued international data center growth, but early in development.",
+   "summary": "A consortium has pledged $3 billion to construct a 400MW hyperscale AI data center facility powered by solar and battery storage in Oman. Crusoe has expressed interest as a potential tenant, expanding Middle Eastern AI infrastructure capacity.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทร่วมทุน",
+     "level": "C1",
+     "example": "A consortium of international companies announced plans for an AI data center complex."
+    },
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มหลักทรัพย์หรือพอร์ตการลงทุน",
+     "level": "B2",
+     "example": "The investment group maintains an extensive portfolio across energy and healthcare."
+    },
+    {
+     "word": "generation",
+     "thai": "การผลิต (พลังงานไฟฟ้า)",
+     "level": "B2",
+     "example": "The firm will develop 400MW of solar generation with battery storage for the project."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1118,
+   "ts": "2026-11-12T06:50:30.502806+07:00",
+   "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
+   "link": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Routine enterprise cloud migration announcement for a university medical center; useful case study but low daily operational impact for most engineers.",
+   "summary": "Ohio State University's Wexner Medical Center signed a five-year deal with Microsoft to migrate up to 80 percent of its compute and storage to Azure. The move aims to streamline clinical data, enhance disaster recovery, and support AI-assisted diagnostics.",
+   "vocab": [
+    {
+     "word": "accelerate",
+     "thai": "เร่งความเร็ว",
+     "level": "B2",
+     "example": "The university plans to use cloud technologies to accelerate scientific discovery."
+    },
+    {
+     "word": "workload",
+     "thai": "ภาระงานประมวลผล",
+     "level": "B2",
+     "example": "They plan to migrate storage and compute workloads to the public cloud."
+    },
+    {
+     "word": "reimagine",
+     "thai": "จินตนาการหรือออกแบบใหม่",
+     "level": "C1",
+     "example": "The partnership offers an opportunity to help reimagine the future of healthcare."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1119,
+   "ts": "2026-11-12T06:50:30.502878+07:00",
+   "title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
+   "link": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly impacts grid interconnection queues for massive power projects (220GW), addressing a critical bottleneck in new data center deployment.",
+   "summary": "Tapestry deployed its HyperQ AI platform to accelerate PJM Interconnection's review process, assessing 220GW of power project documentation in less than a day. Automating these intake assessments could significantly reduce the lengthy queue times required to bring power to energy-hungry data centers.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวด, อุปสรรคที่ทำให้ล่าช้า",
+     "level": "B2",
+     "example": "Lengthy site evaluations have become a major bottleneck for grid expansion."
+    },
+    {
+     "word": "audit",
+     "thai": "ตรวจสอบอย่างเป็นระบบ",
+     "level": "B2",
+     "example": "Every assessment links to the source document to provide reviewers with an audit trail."
+    },
+    {
+     "word": "velocity",
+     "thai": "ความเร็ว",
+     "level": "C1",
+     "example": "Automating intake provides the foundational velocity needed to hit the target timeline."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1120,
+   "ts": "2026-11-12T06:50:30.502903+07:00",
+   "title": "Sponsored: Harmonic considerations for data centers",
+   "link": "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored technical explainer about power harmonics, critical for facility and electrical engineering teams running data centers.",
+   "summary": "This sponsored article explores how non-linear loads like chillers and CDUs cause power signal harmonics that can overheat data center transformers. It highlights active harmonic filters, including silicon carbide options, to protect power stability and improve overall efficiency.",
+   "vocab": [
+    {
+     "word": "distortion",
+     "thai": "การบิดเบือน, ความผิดเพี้ยนของสัญญาณ",
+     "level": "C1",
+     "example": "Harmonics create electrical distortion that disrupts smooth power waveforms."
+    },
+    {
+     "word": "substantial",
+     "thai": "มาก, มีนัยสำคัญ",
+     "level": "B2",
+     "example": "For large data centers, a one percent efficiency increase is substantial."
+    },
+    {
+     "word": "upstream",
+     "thai": "ต้นน้ำ, ฝั่งต้นทางของระบบ",
+     "level": "B2",
+     "example": "Harmonic currents can cause excessive heating in upstream transformers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 6
+  },
+  {
+   "id": 1121,
+   "ts": "2026-11-12T06:53:22.827778+07:00",
+   "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
+   "link": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "This outlines an early-stage proposal for a massive 900MW data center campus with significant cooling and power considerations.",
+   "summary": "The Kraft Group is proposing a 900MW, $16 billion data center development in Sutton, Massachusetts, targeting an initial launch in 2029. The project plans to use reclaimed water for cooling, though it still requires grid negotiations and local community approvals.",
+   "vocab": [
+    {
+     "word": "conglomerate",
+     "thai": "กลุ่มบริษัทในเครือ / กลุ่มธุรกิจขนาดใหญ่",
+     "level": "C1",
+     "example": "The Robert Kraft-owned conglomerate was planning the development alongside a packaging firm."
+    },
+    {
+     "word": "tentative",
+     "thai": "ยังไม่แน่นอน / อยู่ในขั้นเตรียมการ",
+     "level": "B2",
+     "example": "While these calculations have been made, the proposal remains tentative."
+    },
+    {
+     "word": "levy",
+     "thai": "การจัดเก็บภาษี / เงินภาษีที่เรียกเก็บ",
+     "level": "C1",
+     "example": "Cyganiewicz said this would almost match the entire 2027 tax levy of the town."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1122,
+   "ts": "2026-11-12T06:53:22.827859+07:00",
+   "title": "LD Armateurs to procure three subsea cable-laying ships",
+   "link": "https://www.datacenterdynamics.com/en/news/ld-armateurs-to-procure-three-subsea-cable-laying-ships/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Subsea cable vessel capacity is critical for long-term global internet routing and physical network repair speed.",
+   "summary": "Maritime company LD Armateurs has acquired three supply vessels to convert them into subsea cable installation and maintenance ships by 2028. This fleet expansion directly addresses a global bottleneck of aging cable ships needed to service undersea internet trunks.",
+   "vocab": [
+    {
+     "word": "procure",
+     "thai": "จัดซื้อ / จัดหา",
+     "level": "C1",
+     "example": "LD Armateurs is procuring new cable ships to lay and repair subsea fiber systems."
+    },
+    {
+     "word": "commissioning",
+     "thai": "การนำเข้าประจำการ / การเปิดใช้งานอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "Modifications will follow, with commissioning scheduled for early 2028."
+    },
+    {
+     "word": "propulsion",
+     "thai": "ระบบขับเคลื่อน",
+     "level": "C1",
+     "example": "The vessels will also utilize hybrid electric propulsion to improve their energy efficiency."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1123,
+   "ts": "2026-11-12T06:53:22.827885+07:00",
+   "title": "10-year data center moratorium approved in Ottawa, Kansas",
+   "link": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This illustrates a growing regulatory trend where local communities ban large data centers due to power grid and land-use concerns.",
+   "summary": "Voters in Ottawa, Kansas, approved a 10-year ban on data centers larger than 25MW following community protests against a proposed 450MW campus. The ordinance reflects a growing wave of local legislative resistance across the US against high-density computing infrastructure.",
+   "vocab": [
+    {
+     "word": "ordinance",
+     "thai": "เทศบัญญัติ / กฎหมายท้องถิ่น",
+     "level": "C1",
+     "example": "More than 71 percent of those who voted backed the new ordinance."
+    },
+    {
+     "word": "ire",
+     "thai": "ความไม่พอใจ / ความโกรธเคือง",
+     "level": "C2",
+     "example": "The data center project that sparked Ottawa United’s ire was canned before the vote even took place."
+    },
+    {
+     "word": "terminate",
+     "thai": "ยกเลิก / ทำให้สิ้นสุด",
+     "level": "B2",
+     "example": "Councilors terminated the sale agreement at a meeting in September."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1124,
+   "ts": "2026-11-12T06:53:22.827911+07:00",
+   "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
+   "link": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Connecting quantum hardware to AI data centers is a notable development for high-performance computing architecture.",
+   "summary": "Quantinuum upgraded its quantum computer at Japan's Riken institute to 56 qubits and partnered with SoftBank to link quantum systems with AI data centers. The initiative aims to test how hybrid quantum-classical architectures can run commercial workloads across shared infrastructure.",
+   "vocab": [
+    {
+     "word": "fault-tolerant",
+     "thai": "ที่รองรับความผิดพลาด / ทนทานต่อความล้มเหลว",
+     "level": "C1",
+     "example": "The partners will work toward the development of a fault-tolerant quantum computer."
+    },
+    {
+     "word": "readiness",
+     "thai": "ความพร้อม",
+     "level": "B2",
+     "example": "The partners will assess infrastructure readiness and examine how connected systems could operate."
+    },
+    {
+     "word": "domestic",
+     "thai": "ภายในประเทศ",
+     "level": "B2",
+     "example": "The work will combine quantum technology with domestic research and manufacturing expertise."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1125,
+   "ts": "2026-11-12T06:57:57.675400+07:00",
+   "title": "Canonical web services get stage fright ahead of Ubuntu Summit",
+   "link": "https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": true,
+   "reason": "Outages in Canonical's web ecosystem can temporarily disrupt Linux package distribution and tooling pipelines.",
+   "summary": "Canonical experienced technical difficulties with several of its online services right before the Ubuntu Summit event. The disruption matters to infrastructure teams because outages in distribution channels can delay software deployments.",
+   "vocab": [
+    {
+     "word": "stage fright",
+     "thai": "ความประหม่าเมื่อต้องแสดงต่อหน้าสาธารณะ",
+     "level": "B2",
+     "example": "Canonical web services experienced stage fright ahead of the major conference."
+    },
+    {
+     "word": "conventional",
+     "thai": "ตามธรรมเนียมหรือแบบดั้งเดิม",
+     "level": "B2",
+     "example": "The installer offers both conventional and read-only operating systems."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "B2",
+     "example": "Authorities acted to shut down malicious propaganda networks."
+    }
+   ],
+   "status": "night",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1126,
+   "ts": "2026-11-12T06:57:57.675468+07:00",
+   "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
+   "link": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Failed patch installations leave Windows servers exposed to security vulnerabilities and disrupt patch cycles.",
+   "summary": "Microsoft's latest monthly update package has failed to install properly on many enterprise systems. This matters to administrators because failed installations leave servers vulnerable to known security issues.",
+   "vocab": [
+    {
+     "word": "exposure",
+     "thai": "การเปิดเผยหรือการตกอยู่ในความเสี่ยง",
+     "level": "B2",
+     "example": "The team worked quickly to limit customer data exposure after the breach."
+    },
+    {
+     "word": "replacement",
+     "thai": "สิ่งหรือตัวแทนที่นำมาทดแทน",
+     "level": "B2",
+     "example": "Engineers developed an open source replacement for the virtualization tool."
+    },
+    {
+     "word": "stable",
+     "thai": "มั่นคงและมีเสถียรภาพ",
+     "level": "B2",
+     "example": "System administrators prefer to deploy stable releases in production environments."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1127,
+   "ts": "2026-11-12T06:57:57.675527+07:00",
+   "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "An old credential dump poses minor credential-stuffing risks but lacks immediate exploit urgency.",
+   "summary": "Millions of user credentials from a 2013 Russian cybercrime forum breach have recently reappeared on the internet. While the information is very old, security teams should stay alert to credential reuse risks.",
+   "vocab": [
+    {
+     "word": "resurface",
+     "thai": "ปรากฏขึ้นมาใหม่อีกครั้ง",
+     "level": "B2",
+     "example": "Stolen credentials often resurface on underground forums years later."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัวหรือข้อมูลการเข้าสู่ระบบ",
+     "level": "B2",
+     "example": "Users should not reuse any exposed credential across corporate accounts."
+    },
+    {
+     "word": "pose",
+     "thai": "ก่อให้เกิดหรือวางท่าเป็น",
+     "level": "B2",
+     "example": "Attackers pose as help desk technicians to trick unsuspecting employees."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1128,
+   "ts": "2026-11-12T06:57:57.675576+07:00",
+   "title": "Shipping giant Maersk probes 'IT security incident,' data theft",
+   "link": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Cyberattacks on global logistics leaders highlight critical supply chain and enterprise security dependencies.",
+   "summary": "Global shipping company Maersk is investigating a cyber security breach that resulted in stolen data. This matters to operations teams because attacks on major logistics firms can disrupt global supply chains.",
+   "vocab": [
+    {
+     "word": "probe",
+     "thai": "ตรวจสอบหรือสืบสวน",
+     "level": "B2",
+     "example": "Investigators continue to probe the unauthorized network intrusion."
+    },
+    {
+     "word": "theft",
+     "thai": "การโจรกรรมหรือการลักขโมย",
+     "level": "B2",
+     "example": "The organization reported data theft following the network breach."
+    },
+    {
+     "word": "giant",
+     "thai": "บริษัทยักษ์ใหญ่หรือผู้เล่นรายใหญ่ในอุตสาหกรรม",
+     "level": "B2",
+     "example": "A disruption at a shipping giant can impact international logistics."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 1115,
+ "next_id": 1129,
  "vocab": [
   {
    "word": "outsource",
