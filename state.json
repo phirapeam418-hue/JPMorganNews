@@ -2228,7 +2228,31 @@
   "https://www.theregister.com/offbeat/2026/11/11/nasa-asks-earthlings-to-wave-as-voyager-1-reaches-a-light-day-away/5309127",
   "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
   "https://www.theregister.com/personal-tech/2026/11/11/apple-tells-its-support-community-to-stfu/5309090",
-  "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096"
+  "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
+  "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/",
+  "https://www.datacenterdynamics.com/en/news/telia-to-acquire-nordic-mvno-telavox-for-381m/",
+  "https://www.datacenterdynamics.com/en/news/us-dept-of-energys-jefferson-lab-decommissions-sciphi-xvi-supercomputer/",
+  "https://www.datacenterdynamics.com/en/news/uk-chip-startup-fractile-valued-at-7bn-following-720m-series-c-funding-round/",
+  "https://www.datacenterdynamics.com/en/news/meta-signs-series-of-low-carbon-building-materials-purchase-commitments/",
+  "https://www.datacenterdynamics.com/en/news/mufg-enters-mou-with-japanese-industry-coalition-to-build-satellite-mega-constellation/",
+  "https://www.datacenterdynamics.com/en/news/aws-launches-chile-cloud-region-for-select-customers/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/",
+  "https://www.datacenterdynamics.com/en/whitepapers/protecting-data-center-integrity-from-top-to-bottom/",
+  "https://www.datacenterdynamics.com/en/whitepapers/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/",
+  "https://www.datacenterdynamics.com/en/marketwatch/restructuring-data-center-financing-to-deliver-the-future/",
+  "https://www.datacenterdynamics.com/en/news/coreweave-ceo-addresses-volatility-in-the-capital-markets-as-company-posts-366bn-in-revenue/",
+  "https://www.datacenterdynamics.com/en/news/rackspace-signs-capacity-agreements-with-together-ai-and-blacksmith/",
+  "https://www.datacenterdynamics.com/en/news/energy-storage-firm-torus-launches-prefabricated-modular-data-center-product-raises-500m/",
+  "https://www.theregister.com/systems/2026/11/12/quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-with-nighthawk-r3-processor/5309357",
+  "https://www.theregister.com/security/2026/11/12/hackers-exploiting-screenconnect-plugin-flaw-to-spread-malware-across-hundreds-of-pcs/5309361",
+  "https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
+  "https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349",
+  "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+  "https://www.theregister.com/software/2026/11/12/rockstar-workers-vote-on-union-recognition-as-gta-vi-launch-looms/5309319",
+  "https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134",
+  "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
+  "https://www.theregister.com/storage/2026/11/12/sponsored-data-sovereignty-takes-more-than-keeping-data-close-to-home/5308742",
+  "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469"
  ],
  "stories": [
   {
@@ -16332,11 +16356,13 @@
      "example": "The CEO has dozens of direct reports but no clear successor."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 697,
+   "sent_ts": "2026-11-12T21:11:18.001445+07:00"
   },
   {
    "id": 1116,
@@ -16706,11 +16732,13 @@
      "example": "Authorities acted to shut down malicious propaganda networks."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 5,
    "urgency": 5,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 698,
+   "sent_ts": "2026-11-12T21:11:18.554478+07:00"
   },
   {
    "id": 1126,
@@ -16742,11 +16770,13 @@
      "example": "System administrators prefer to deploy stable releases in production environments."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 699,
+   "sent_ts": "2026-11-12T21:11:19.071194+07:00"
   },
   {
    "id": 1127,
@@ -16821,130 +16851,416 @@
    "credibility": 9,
    "msg_id": 689,
    "sent_ts": "2026-11-12T15:12:41.906736+07:00"
+  },
+  {
+   "id": 1129,
+   "ts": "2026-11-12T21:14:24.810250+07:00",
+   "title": "Nvidia CEO Jensen Huang resigns after multiple affairs",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-resigns-after-multiple-affairs/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Massive leadership shakeup at the dominant AI accelerator vendor directly affects the AI infrastructure roadmap.",
+   "summary": "Nvidia founder Jensen Huang has resigned immediately as CEO and board member following multiple affair scandals, with CFO Colette Kress stepping in as interim CEO. This leadership change creates uncertainty for the dominant vendor in AI hardware and datacenter accelerators.",
+   "vocab": [
+    {
+     "word": "interim",
+     "thai": "ชั่วคราว (ในตำแหน่งหน้าที่)",
+     "level": "B2",
+     "example": "Colette Kress, current EVP and CFO, will serve as Interim Chief Executive Officer."
+    },
+    {
+     "word": "instrumental",
+     "thai": "มีบทบาทสำคัญอย่างยิ่ง",
+     "level": "C1",
+     "example": "She is supported by an experienced leadership team that has been instrumental in executing Nvidia’s strategy."
+    },
+    {
+     "word": "roadmap",
+     "thai": "แผนกลยุทธ์หรือแผนพัฒนาผลิตภัณฑ์",
+     "level": "B2",
+     "example": "The board expects the company's product roadmap to continue without interruption."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 700,
+   "sent_ts": "2026-11-12T21:14:25.403977+07:00",
+   "extra_links": [
+    "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/"
+   ]
+  },
+  {
+   "id": 1130,
+   "ts": "2026-11-12T21:14:25.404218+07:00",
+   "title": "UK chip startup Fractile valued at $7bn following $720m Series C funding round",
+   "link": "https://www.datacenterdynamics.com/en/news/uk-chip-startup-fractile-valued-at-7bn-following-720m-series-c-funding-round/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Early-stage in-memory AI compute startup funding; relevant to future AI infrastructure hardware.",
+   "summary": "UK startup Fractile secured $720 million in Series C funding at a $7 billion valuation to develop in-memory compute chips. The architecture aims to speed up large AI model inference by cutting DRAM bottlenecks before its first hardware ships next year.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "ส่งเสริม, หนุนหรือเสริมกำลัง",
+     "level": "B2",
+     "example": "The startup announced plans to invest £100 million to bolster its UK operations."
+    },
+    {
+     "word": "inference",
+     "thai": "การประมวลผลคำตอบของโมเดล AI (การอนุมาน)",
+     "level": "C1",
+     "example": "Fractile hopes to create hardware allowing for faster and less expensive inference at scale."
+    },
+    {
+     "word": "breakthroughs",
+     "thai": "การค้นพบหรือความก้าวหน้าครั้งสำคัญ",
+     "level": "B2",
+     "example": "While we've already scored some key breakthroughs, we have very big ambitions."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1131,
+   "ts": "2026-11-12T21:14:25.404260+07:00",
+   "title": "AWS launches Chile cloud region for \"select customers\"",
+   "link": "https://www.datacenterdynamics.com/en/news/aws-launches-chile-cloud-region-for-select-customers/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "New cloud region launch directly impacts infrastructure latency, data residency, and failover designs.",
+   "summary": "AWS has launched its new cloud region in Santiago, Chile, initially accessible to select enterprise customers ahead of general availability. The $4 billion investment features water-free, air-cooled data centers aimed at meeting local compliance and latency requirements.",
+   "vocab": [
+    {
+     "word": "resilience",
+     "thai": "ความยืดหยุ่นในการคืนสภาพหรือทนต่อความเสียหาย",
+     "level": "B2",
+     "example": "The new region opens opportunities for us to improve our processing capacity and resilience."
+    },
+    {
+     "word": "adopters",
+     "thai": "ผู้ที่เริ่มนำเทคโนโลยีหรือสิ่งใหม่มาใช้",
+     "level": "B2",
+     "example": "Early adopters of the Chilean region include several major financial institutions."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎระเบียบหรือข้อบังคับ",
+     "level": "B2",
+     "example": "Customers needed to keep their data in the country and meet regulatory requirements more easily."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1132,
+   "ts": "2026-11-12T21:21:58.963849+07:00",
+   "title": "CoreWeave CEO addresses \"volatility in the capital markets\" as company posts $3.66bn in revenue",
+   "link": "https://www.datacenterdynamics.com/en/news/coreweave-ceo-addresses-volatility-in-the-capital-markets-as-company-posts-366bn-in-revenue/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Significant earnings and debt details from a prominent AI neocloud operator.",
+   "summary": "CoreWeave reported $3.66 billion in quarterly revenue alongside a $709 million net loss amid heavy infrastructure capex. The CEO dismissed concerns regarding bond market volatility, noting that term loans matched to enterprise contracts fund most expansion.",
+   "vocab": [
+    {
+     "word": "volatility",
+     "thai": "ความผันผวน",
+     "level": "B2",
+     "example": "The CEO addressed recent volatility in the capital markets."
+    },
+    {
+     "word": "speculation",
+     "thai": "การคาดเดาหรือเก็งกำไร",
+     "level": "B2",
+     "example": "The report follows weeks of speculation about high bond yields."
+    },
+    {
+     "word": "backlog",
+     "thai": "ยอดคำสั่งซื้อที่คั่งค้างหรือรอส่งมอบ",
+     "level": "B2",
+     "example": "Revenue backlog reached a record high for the company."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1133,
+   "ts": "2026-11-12T21:21:58.963874+07:00",
+   "title": "Rackspace signs capacity agreements with Together AI and Blacksmith",
+   "link": "https://www.datacenterdynamics.com/en/news/rackspace-signs-capacity-agreements-with-together-ai-and-blacksmith/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Notable infrastructure partnership involving liquid-cooled Nvidia GB300 systems and enterprise compute.",
+   "summary": "Rackspace secured capacity contracts to host Nvidia GB300 NVL72 liquid-cooled hardware for Together AI and AMD Epyc compute for Blacksmith. The deals highlight managed service providers evolving into operational hosts for AI inference and developer platforms.",
+   "vocab": [
+    {
+     "word": "dedicated",
+     "thai": "ที่จัดสรรไว้เฉพาะหรือใช้งานเฉพาะด้าน",
+     "level": "B2",
+     "example": "Rackspace will provide dedicated compute powered by AMD Epyc CPUs."
+    },
+    {
+     "word": "accountability",
+     "thai": "ความรับผิดชอบที่ตรวจสอบได้",
+     "level": "B2",
+     "example": "Sustained success requires deep expertise combined with operational accountability."
+    },
+    {
+     "word": "bottleneck",
+     "thai": "คอขวดหรือจุดติดขัด",
+     "level": "B2",
+     "example": "Getting code tested is becoming a critical development bottleneck."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1134,
+   "ts": "2026-11-12T21:21:58.963890+07:00",
+   "title": "Energy storage firm Torus launches prefabricated modular data center product, raises $500m",
+   "link": "https://www.datacenterdynamics.com/en/news/energy-storage-firm-torus-launches-prefabricated-modular-data-center-product-raises-500m/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Directly covers modular data center design, battery storage, and rapid deployment for AI inference.",
+   "summary": "Energy startup Torus raised $500 million to deploy modular, containerized data centers backed by battery and flywheel storage. The units tap existing utility transformer headroom to bypass long interconnection queues for AI inference workloads.",
+   "vocab": [
+    {
+     "word": "prefabricated",
+     "thai": "ที่สร้างสำเร็จรูปมาจากโรงงาน",
+     "level": "B2",
+     "example": "The company launched a prefabricated modular solution delivered in shipping containers."
+    },
+    {
+     "word": "headroom",
+     "thai": "กำลังการผลิตหรือพื้นที่รองรับส่วนเกินที่ยังเหลืออยู่",
+     "level": "B2",
+     "example": "The units will be installed behind the meter, utilizing headroom at existing transformers."
+    },
+    {
+     "word": "turnkey",
+     "thai": "แบบเบ็ดเสร็จพร้อมใช้งานได้ทันที",
+     "level": "B2",
+     "example": "Customers can purchase a turnkey bare-metal unit equipped with GPUs."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 1135,
+   "ts": "2026-11-12T21:24:22.950887+07:00",
+   "title": "The latest FreeBSD report is here, and the AI debate is ongoing",
+   "link": "https://www.theregister.com/os-platforms/2026/11/12/the-latest-freebsd-report-is-here-and-the-ai-debate-is-ongoing/5309206",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "This is a broad industry roundup covering multiple critical infrastructure and security topics relevant to data center operations.",
+   "summary": "This report highlights significant updates in hardware, security, and open-source software. It covers new AMD chip developments and critical security patches for Azure Linux and SharePoint.",
+   "vocab": [
+    {
+     "word": "thwart",
+     "thai": "ขัดขวาง",
+     "level": "C1",
+     "example": "The team implemented new protocols to thwart unauthorized access to the server."
+    },
+    {
+     "word": "immutable",
+     "thai": "ซึ่งไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "The new operating system offers a read-only, immutable file system for better security."
+    },
+    {
+     "word": "miscreants",
+     "thai": "คนร้าย",
+     "level": "C2",
+     "example": "The data breach was attributed to cloud provider vulnerabilities and malicious miscreants."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 1136,
+   "ts": "2026-11-12T21:24:22.950915+07:00",
+   "title": "Microsoft admits SQL Servers might wobble after October update",
+   "link": "https://www.theregister.com/databases/2026/11/12/microsoft-admits-sql-servers-might-wobble-after-october-update/5309349",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "SQL Server stability is critical for data center operations, making this a high-impact operational alert.",
+   "summary": "Microsoft has confirmed that a recent update may cause stability issues for SQL Server instances. Administrators should review the update status to prevent potential service disruptions.",
+   "vocab": [
+    {
+     "word": "wobble",
+     "thai": "สั่นคลอน",
+     "level": "B2",
+     "example": "The server performance began to wobble after the latest software update was applied."
+    },
+    {
+     "word": "instances",
+     "thai": "กรณี/ตัวอย่าง (ในทางเทคนิคหมายถึงหน่วยประมวลผลที่รันอยู่)",
+     "level": "B2",
+     "example": "We need to monitor all active SQL Server instances for signs of instability."
+    },
+    {
+     "word": "disruptions",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The IT team is working to minimize service disruptions during the maintenance window."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 9,
+   "scale": 7,
+   "credibility": 10,
+   "msg_id": 701,
+   "sent_ts": "2026-11-12T21:24:23.511693+07:00"
+  },
+  {
+   "id": 1137,
+   "ts": "2026-11-12T21:24:23.511912+07:00",
+   "title": "European tech buyers add digital sovereignty to cyber shopping list",
+   "link": "https://www.theregister.com/security/2026/11/12/european-tech-buyers-add-digital-sovereignty-to-cyber-shopping-list/5309216",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Digital sovereignty is a growing strategic concern for European data center infrastructure planning.",
+   "summary": "European organizations are increasingly prioritizing digital sovereignty when procuring technology services. This shift influences how data centers are designed and where data is stored.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย",
+     "level": "C1",
+     "example": "Digital sovereignty ensures that a country maintains control over its own data infrastructure."
+    },
+    {
+     "word": "procuring",
+     "thai": "การจัดหา",
+     "level": "C1",
+     "example": "The company is currently procuring new hardware to expand its data center capacity."
+    },
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "Choosing the right cloud provider is a strategic decision for long-term infrastructure growth."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/storage/2026/11/12/sponsored-data-sovereignty-takes-more-than-keeping-data-close-to-home/5308742"
+   ]
+  },
+  {
+   "id": 1138,
+   "ts": "2026-11-12T21:24:23.511955+07:00",
+   "title": "London hotel put admin login for booking website on whiteboard behind the front desk",
+   "link": "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "This serves as a critical reminder of physical security risks in operational environments.",
+   "summary": "A London hotel was found displaying administrative login credentials on a whiteboard in a public area. This highlights the ongoing risk of simple physical security failures.",
+   "vocab": [
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัว (เช่น ชื่อผู้ใช้และรหัสผ่าน)",
+     "level": "B2",
+     "example": "Never write down your login credentials where others can easily see them."
+    },
+    {
+     "word": "administrative",
+     "thai": "เกี่ยวกับการบริหาร/การดูแลระบบ",
+     "level": "B2",
+     "example": "The administrative account has full access to the booking system settings."
+    },
+    {
+     "word": "failures",
+     "thai": "ความล้มเหลว",
+     "level": "B2",
+     "example": "Physical security failures are often the easiest way for attackers to gain access."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1139,
+   "ts": "2026-11-12T21:24:23.511972+07:00",
+   "title": "Your AI agent is only as good as your endpoint data",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "This addresses the quality of data feeding AI agents, which is a growing concern for infrastructure teams managing AI workloads.",
+   "summary": "The effectiveness of AI agents depends heavily on the quality and accuracy of endpoint data. Infrastructure teams must ensure data integrity to support reliable AI operations.",
+   "vocab": [
+    {
+     "word": "effectiveness",
+     "thai": "ประสิทธิผล",
+     "level": "B2",
+     "example": "The effectiveness of the AI model is limited by the quality of the input data."
+    },
+    {
+     "word": "integrity",
+     "thai": "ความถูกต้องสมบูรณ์",
+     "level": "C1",
+     "example": "Maintaining data integrity is essential for the success of any AI-driven project."
+    },
+    {
+     "word": "reliable",
+     "thai": "เชื่อถือได้",
+     "level": "B2",
+     "example": "We need a reliable data source to ensure the AI agent performs correctly."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 1129,
+ "next_id": 1140,
  "vocab": [
-  {
-   "word": "delegate",
-   "thai": "มอบหมายหน้าที่",
-   "level": "C1",
-   "example": "Steer a running turn or queue a follow-up, delegate to subagents, and work a shared plan.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unavoidable",
-   "thai": "หลีกเลี่ยงไม่ได้",
-   "level": "B2",
-   "example": "He felt there was no point in paying readers to grade for correctness as AI use is now unavoidable.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "adequate",
-   "thai": "เพียงพอ, เหมาะสม",
-   "level": "B2",
-   "example": "Campus has tried several AI detection tools but determined they aren’t adequate enough to standardize.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "coordinate",
-   "thai": "พิกัด",
-   "level": "B2",
-   "example": "Needs coordinates on the vertices.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "estimate",
-   "thai": "การประมาณ",
-   "level": "B2",
-   "example": "Adds an estimate of the time left from the straight line to Coral Gables.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "hierarchy",
-   "thai": "ลำดับชั้น",
-   "level": "B2",
-   "example": "Climbs a precomputed hierarchy from both ends until the two climbs meet.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "endorsement",
-   "thai": "การรับรอง",
-   "level": "C1",
-   "example": "The name is a tribute; it does not imply any endorsement by her estate.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "independent",
-   "thai": "ที่เป็นอิสระ",
-   "level": "B2",
-   "example": "Hurston-1 was built in Atlanta by a small, independent team.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "expenditure",
-   "thai": "รายจ่าย / การใช้จ่าย",
-   "level": "B2",
-   "example": "Cache read costs make up the vast majority of total token expenditure in agent workflows.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "correlate",
-   "thai": "มีความสัมพันธ์สอดคล้องกัน",
-   "level": "C1",
-   "example": "A 75% reduction in cache cost correlates to a major reduction in overall operational price.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "footnote",
-   "thai": "เรื่องเล็กน้อย / เชิงอรรถ",
-   "level": "C1",
-   "example": "Cache costs are typically treated as a footnote even though they dominate total usage.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "apprehensive",
-   "thai": "วิตกกังวลหรือหวั่นเกรง",
-   "level": "B2",
-   "example": "While some are still apprehensive, many have seen the extensive benefits of AI.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "shortage",
    "thai": "การขาดแคลน",
@@ -21820,6 +22136,126 @@
    "thai": "ต้นน้ำ, ฝั่งต้นทางของระบบ",
    "level": "B2",
    "example": "Harmonic currents can cause excessive heating in upstream transformers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ouster",
+   "thai": "การขับไล่ออกจากตำแหน่ง",
+   "level": "C1",
+   "example": "The board considers the ouster of the chief executive amid growing scandals.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "affectionate",
+   "thai": "ที่แสดงความรักใคร่",
+   "level": "B2",
+   "example": "The two were allegedly captured on video being affectionate at a hotel.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "successor",
+   "thai": "ผู้สืบทอดตำแหน่ง",
+   "level": "B2",
+   "example": "The CEO has dozens of direct reports but no clear successor.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stage fright",
+   "thai": "ความประหม่าเมื่อต้องแสดงต่อหน้าสาธารณะ",
+   "level": "B2",
+   "example": "Canonical web services experienced stage fright ahead of the major conference.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "replacement",
+   "thai": "สิ่งหรือตัวแทนที่นำมาทดแทน",
+   "level": "B2",
+   "example": "Engineers developed an open source replacement for the virtualization tool.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stable",
+   "thai": "มั่นคงและมีเสถียรภาพ",
+   "level": "B2",
+   "example": "System administrators prefer to deploy stable releases in production environments.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interim",
+   "thai": "ชั่วคราว (ในตำแหน่งหน้าที่)",
+   "level": "B2",
+   "example": "Colette Kress, current EVP and CFO, will serve as Interim Chief Executive Officer.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "instrumental",
+   "thai": "มีบทบาทสำคัญอย่างยิ่ง",
+   "level": "C1",
+   "example": "She is supported by an experienced leadership team that has been instrumental in executing Nvidia’s strategy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "roadmap",
+   "thai": "แผนกลยุทธ์หรือแผนพัฒนาผลิตภัณฑ์",
+   "level": "B2",
+   "example": "The board expects the company's product roadmap to continue without interruption.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "wobble",
+   "thai": "สั่นคลอน",
+   "level": "B2",
+   "example": "The server performance began to wobble after the latest software update was applied.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "instances",
+   "thai": "กรณี/ตัวอย่าง (ในทางเทคนิคหมายถึงหน่วยประมวลผลที่รันอยู่)",
+   "level": "B2",
+   "example": "We need to monitor all active SQL Server instances for signs of instability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disruptions",
+   "thai": "การหยุดชะงัก",
+   "level": "B2",
+   "example": "The IT team is working to minimize service disruptions during the maintenance window.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
