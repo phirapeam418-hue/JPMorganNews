@@ -17566,7 +17566,7 @@
    "thai": "ขัดขวาง",
    "level": "C1",
    "example": "The use of certain spectrum could hamper their core 5G networks.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18316,7 +18316,7 @@
    "thai": "ใช้อำนาจเด็ดขาดหรือเข้มงวดเกินไป",
    "level": "C1",
    "example": "The administration opposes heavy-handed government regulation.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19376,7 +19376,7 @@
    "thai": "ตำหนิอย่างเป็นทางการ",
    "level": "C1",
    "example": "A Brazilian labor court censured and fined two lawyers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21276,7 +21276,7 @@
    "thai": "การกัดกร่อน",
    "level": "B2",
    "example": "Those differences should guide the material selection to protect against corrosion and extend the working life of the tank.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22086,7 +22086,7 @@
    "thai": "การนำเข้าประจำการ / การเปิดใช้งานอย่างเป็นทางการ",
    "level": "C1",
    "example": "Modifications will follow, with commissioning scheduled for early 2028.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22268,26 +22268,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6289644369909646327": {
-   "word": "foray",
-   "correct": 3
-  },
-  "6289644369909646328": {
-   "word": "asynchronous",
-   "correct": 0
-  },
-  "6289644369909646329": {
-   "word": "underpinning",
-   "correct": 1
-  },
-  "6289644369909646330": {
-   "word": "turbulence",
-   "correct": 3
-  },
-  "6289644369909646331": {
-   "word": "disrupt",
-   "correct": 3
-  },
   "6292056917464318888": {
    "word": "harmonic",
    "correct": 3
@@ -22467,6 +22447,26 @@
   "6314316431584396824": {
    "word": "investment",
    "correct": 0
+  },
+  "6318926963012535797": {
+   "word": "hamper",
+   "correct": 3
+  },
+  "6318926963012535798": {
+   "word": "commissioning",
+   "correct": 3
+  },
+  "6318926963012535799": {
+   "word": "corrosion",
+   "correct": 0
+  },
+  "6318926963012535800": {
+   "word": "heavy-handed",
+   "correct": 0
+  },
+  "6318926963012535801": {
+   "word": "censure",
+   "correct": 2
   }
  },
  "fail": {
