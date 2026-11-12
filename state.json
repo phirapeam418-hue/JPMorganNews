@@ -2252,7 +2252,31 @@
   "https://www.theregister.com/os-platforms/2026/11/12/orbit-global-menu-a-working-global-menu-addon-for-gnome/5309134",
   "https://www.theregister.com/security/2026/11/12/london-hotel-put-admin-login-for-booking-website-on-whiteboard-behind-the-front-desk/5308889",
   "https://www.theregister.com/storage/2026/11/12/sponsored-data-sovereignty-takes-more-than-keeping-data-close-to-home/5308742",
-  "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469"
+  "https://www.theregister.com/ai-and-ml/2026/11/12/partner-content-your-ai-agent-is-only-as-good-as-your-endpoint-data/5308469",
+  "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
+  "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
+  "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+  "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
+  "https://www.datacenterdynamics.com/en/magazines/advancing-thermal-management-for-the-ai-era/",
+  "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+  "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-expands-fiber-net-through-network-sharing-agreement-with-deutsche-glasfaser/",
+  "https://www.datacenterdynamics.com/en/news/one-year-moratorium-could-be-implemented-in-indiantown-florida/",
+  "https://www.datacenterdynamics.com/en/news/developers-propose-inference-point-facility-in-swansea-massachusetts/",
+  "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/",
+  "https://www.datacenterdynamics.com/en/opinions/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/",
+  "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/",
+  "https://www.theregister.com/ai-and-ml/2026/11/12/a-third-of-us-ai-chatters-are-hot-at-bots-hurling-insults-at-llms/5309506",
+  "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+  "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
+  "https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480",
+  "https://www.theregister.com/software/2026/11/12/palantirs-karp-takes-a-sharp-left-turn-says-he-and-the-companys-products-are-actually-progressive/5309441",
+  "https://www.theregister.com/security/2026/11/12/software-samaritan-revamps-borked-indian-certs-to-block-smart-tv-ads/5309467",
+  "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
+  "https://www.theregister.com/ai-and-ml/2026/11/12/united-airlines-wants-you-to-check-in-not-your-chatbot/5309373",
+  "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
+  "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411",
+  "https://blog.cloudflare.com/choosing-quepaxa/"
  ],
  "stories": [
   {
@@ -16890,7 +16914,10 @@
    "msg_id": 700,
    "sent_ts": "2026-11-12T21:14:25.403977+07:00",
    "extra_links": [
-    "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/"
+    "https://www.datacenterdynamics.com/en/news/nvidia-board-weighs-temporary-ceo-starts-search-for-potential-replacements-after-jensen-huang-affairs/",
+    "https://www.datacenterdynamics.com/en/news/ousted-nvidia-ceo-jensen-huang-accused-of-third-affair-with-another-staffer/",
+    "https://www.theregister.com/ai-and-ml/2026/11/12/jensen-huangs-self-sabotage-sends-nvidia-into-a-midlife-crisis/5309480",
+    "https://www.theregister.com/systems/2026/11/12/jensen-huang-resigns-as-nvidia-chief-executive/5309411"
    ]
   },
   {
@@ -17257,9 +17284,585 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 1140,
+   "ts": "2026-11-13T04:58:46.731320+07:00",
+   "title": "Sabey signs 43.5MW PPA in Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/sabey-signs-435mw-ppa-in-texas/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Details a virtual power purchase agreement signed by Sabey Data Centers to meet sustainability goals.",
+   "summary": "Sabey Data Centers signed a 10-year virtual power purchase agreement for 43.5MW from a Texas solar farm. This long-term contract helps the operator move toward its 2029 net-zero carbon targets.",
+   "vocab": [
+    {
+     "word": "annually",
+     "thai": "เป็นประจำทุกปี",
+     "level": "B2",
+     "example": "The solar farm is capable of generating an estimated 130GWh annually."
+    },
+    {
+     "word": "commitment",
+     "thai": "ข้อตกลงผูกพัน",
+     "level": "B2",
+     "example": "This agreement is a long-term commitment that supports renewable generation."
+    },
+    {
+     "word": "meaningfully",
+     "thai": "อย่างมีนัยสำคัญ",
+     "level": "B2",
+     "example": "This agreement moves us meaningfully closer to where we want to be."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1141,
+   "ts": "2026-11-13T04:58:46.731357+07:00",
+   "title": "Forest County Potawatomi Community seeks to expand Milwaukee data center",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-pledges-to-cover-power-costs-for-data-center-buildout/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers a data center operator seeking zoning approval to expand a Milwaukee facility despite local moratoriums.",
+   "summary": "The Forest County Potawatomi Community plans to expand its 46,000-square-foot data center facility in Milwaukee. The expansion proceeds under an exemption to the city's recent temporary data center moratorium.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การชะลอชั่วคราว",
+     "level": "C1",
+     "example": "The application comes shortly after Milwaukee enacted a temporary moratorium against data centers."
+    },
+    {
+     "word": "adjacent",
+     "thai": "ที่อยู่ติดกัน",
+     "level": "B2",
+     "example": "We are exploring a potential expansion onto an adjacent vacant lot."
+    },
+    {
+     "word": "redevelopment",
+     "thai": "การพัฒนาพื้นที่ใหม่",
+     "level": "C1",
+     "example": "Opposition from local residents led to the build being cut from the redevelopment plan."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1142,
+   "ts": "2026-11-13T04:58:46.731380+07:00",
+   "title": "CDC files to develop 1.4GW data center campus in Kemps Creek, Australia",
+   "link": "https://www.datacenterdynamics.com/en/news/cdc-files-to-develop-14gw-data-center-campus-in-kemps-creek-australia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Outlines massive hyperscale data center expansion plans in New South Wales.",
+   "summary": "CDC has expanded its planning application to construct a 1.4GW data center campus in Australia across six buildings. The huge project significantly increases the company's long-term infrastructure footprint in the region.",
+   "vocab": [
+    {
+     "word": "pipeline",
+     "thai": "แผนงานที่อยู่ระหว่างการพัฒนา",
+     "level": "C1",
+     "example": "The company's future development pipeline now totals a further 1.6GW out to 2034."
+    },
+    {
+     "word": "scope",
+     "thai": "ขอบเขต",
+     "level": "B2",
+     "example": "CDC has now filed an updated application, increasing the scope of the project."
+    },
+    {
+     "word": "substation",
+     "thai": "สถานีไฟฟ้าย่อย",
+     "level": "C1",
+     "example": "The company is looking to develop six two-story buildings as well as an on-site substation."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1143,
+   "ts": "2026-11-13T04:58:46.731400+07:00",
+   "title": "Nebius signs $12bn in deals for Q3, all deals reportedly cover its capex",
+   "link": "https://www.datacenterdynamics.com/en/news/nebius-signs-12bn-in-deals-for-q3-all-deals-reportedly-cover-its-capex/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Explains Nebius's financial strategy of using upfront customer prepayments to fully cover AI infrastructure capex.",
+   "summary": "Nebius signed $12 billion in Q3 contracts with high prepayments that fully cover capital expenditure for new infrastructure. This aggressive financing strategy shortens payback periods and rapidly scales AI cloud revenue.",
+   "vocab": [
+    {
+     "word": "prepayment",
+     "thai": "การชำระเงินล่วงหน้า",
+     "level": "C1",
+     "example": "The company has increased customer prepayments for contracts signed this quarter."
+    },
+    {
+     "word": "volatility",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "Volozh immediately addressed recent chatter and market volatility in the AI infrastructure market."
+    },
+    {
+     "word": "opportunistic",
+     "thai": "ที่แสวงหาโอกาส",
+     "level": "C1",
+     "example": "We will be very opportunistic about raising capital at attractive terms."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1144,
+   "ts": "2026-11-13T04:58:46.731445+07:00",
+   "title": "SpaceX developing custom Nvidia Vera Rubin rack dubbed Kessel for its orbital data centers – report",
+   "link": "https://www.datacenterdynamics.com/en/news/spacex-developing-custom-nvidia-vera-rubin-rack-dubbed-kessel-for-its-orbital-data-centers-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Describes SpaceX's custom hardware architecture designed to bypass standard Nvidia rack components for orbital data centers.",
+   "summary": "SpaceX is developing a custom rack architecture named Kessel based on Nvidia's Vera Rubin GPUs for terrestrial and orbital deployments. By simplifying the internal circuit board design, SpaceX aims to avoid manufacturing delays affecting standard Nvidia racks.",
+   "vocab": [
+    {
+     "word": "terrestrial",
+     "thai": "บนพื้นโลก",
+     "level": "C1",
+     "example": "SpaceX is planning to use the custom Kessel racks for both terrestrial and orbital deployment."
+    },
+    {
+     "word": "orbital",
+     "thai": "ในวงโคจร",
+     "level": "C1",
+     "example": "SpaceX is developing custom Nvidia racks for its orbital data centers."
+    },
+    {
+     "word": "circuit",
+     "thai": "วงจร",
+     "level": "B2",
+     "example": "The setup swaps out cable cartridges with an 84-layer printed circuit board."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1145,
+   "ts": "2026-11-13T04:58:46.731466+07:00",
+   "title": "Telefónica Germany expands fiber net through network-sharing agreement with Deutsche Glasfaser",
+   "link": "https://www.datacenterdynamics.com/en/news/telef%C3%B3nica-germany-expands-fiber-net-through-network-sharing-agreement-with-deutsche-glasfaser/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Details a wholesale network sharing agreement expanding fiber broadband coverage across Germany.",
+   "summary": "Telefónica Germany signed a long-term network-sharing agreement with Deutsche Glasfaser to expand its fiber reach by 3 million households. This partnership helps Telefónica offer fixed-line products in rural and suburban areas across Germany.",
+   "vocab": [
+    {
+     "word": "wholesale",
+     "thai": "การขายส่ง",
+     "level": "C1",
+     "example": "Jörg Kablitz serves as chief partner & wholesale officer for the company."
+    },
+    {
+     "word": "suburban",
+     "thai": "ชานเมือง",
+     "level": "B2",
+     "example": "The agreement will enable the company to bolster availability of fiber in rural and suburban areas."
+    },
+    {
+     "word": "interplay",
+     "thai": "การส่งผลกระทบซึ่งกันและกัน",
+     "level": "C1",
+     "example": "It is precisely this interplay of reach and competition that is driving the fiber market forward."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1146,
+   "ts": "2026-11-13T05:02:59.112448+07:00",
+   "title": "One-year moratorium could be implemented in Indiantown, Florida",
+   "link": "https://www.datacenterdynamics.com/en/news/one-year-moratorium-could-be-implemented-in-indiantown-florida/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers local regulatory developments and moratorium exceptions for data center projects in Florida.",
+   "summary": "Indiantown, Florida is considering a one-year moratorium on new data center developments, though current projects remain exempt. The measure follows local public pushback, with a final public hearing scheduled for late November.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การระงับชั่วคราว",
+     "level": "C1",
+     "example": "Officials proposed a one-year moratorium on new data center developments."
+    },
+    {
+     "word": "contaminated",
+     "thai": "ซึ่งปนเปื้อนสารพิษ",
+     "level": "B2",
+     "example": "The project is located on land considered a heavily contaminated site."
+    },
+    {
+     "word": "incumbent",
+     "thai": "ผู้ดำรงตำแหน่งปัจจุบัน",
+     "level": "C1",
+     "example": "All three incumbents were voted out of office during the local election."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1147,
+   "ts": "2026-11-13T05:02:59.112484+07:00",
+   "title": "Developers propose “inference point facility” in Swansea, Massachusetts",
+   "link": "https://www.datacenterdynamics.com/en/news/developers-propose-inference-point-facility-in-swansea-massachusetts/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Explores how edge AI developers are rebranding small data centers to navigate local planning pushback.",
+   "summary": "Developers in Massachusetts are proposing 20MW edge AI infrastructure hubs termed 'inference point facilities' inside existing buildings. This strategy aims to sidestep public opposition associated with massive, water-intensive data centers.",
+   "vocab": [
+    {
+     "word": "distance",
+     "thai": "เว้นระยะห่าง / ปฏิเสธความเกี่ยวข้อง",
+     "level": "B2",
+     "example": "The company has gone to lengths to distance itself from being called a traditional data center."
+    },
+    {
+     "word": "embedded",
+     "thai": "ฝังตัว / ซึ่งถูกผนวกรวม",
+     "level": "B2",
+     "example": "The facility relies on AI workloads embedded within existing building structures."
+    },
+    {
+     "word": "contrast",
+     "thai": "ความแตกต่างอย่างเห็นได้ชัด",
+     "level": "B2",
+     "example": "That is in sharp contrast to a massive multi-acre data center campus."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 8
+  },
+  {
+   "id": 1148,
+   "ts": "2026-11-13T05:02:59.112498+07:00",
+   "title": "Japan's NTT Docomo apologizes after second 5G SA network outage in five days",
+   "link": "https://www.datacenterdynamics.com/en/news/japans-ntt-docomo-apologizes-after-second-5g-sa-network-outage-in-five-days/",
+   "source": "DCD",
+   "score": 8,
+   "watch": true,
+   "reason": "Reports on major telecom infrastructure outages affecting 1.5 million subscribers due to core network congestion.",
+   "summary": "Japanese carrier NTT Docomo suffered two major network outages within five days, disrupting voice and data services for 1.5 million 5G SA users. The carrier attributed the downtime to core exchange equipment congestion rather than a cyberattack.",
+   "vocab": [
+    {
+     "word": "glitch",
+     "thai": "ข้อผิดพลาดเล็กน้อยทางเทคนิค",
+     "level": "B2",
+     "example": "The carrier apologized after suffering a second nationwide network glitch."
+    },
+    {
+     "word": "congestion",
+     "thai": "ความแออัด / การติดขัดของเครือข่าย",
+     "level": "B2",
+     "example": "The company blamed the service disruption on core exchange equipment congestion."
+    },
+    {
+     "word": "accommodate",
+     "thai": "รองรับ / จัดที่ให้",
+     "level": "B2",
+     "example": "Equipment accommodating customers with 5G contracts suffered a major bottleneck."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1149,
+   "ts": "2026-11-13T05:02:59.112528+07:00",
+   "title": "Sponsored: Cooling orchestration software: A welcome addition to AI data center operations",
+   "link": "https://www.datacenterdynamics.com/en/opinions/cooling-orchestration-software-a-welcome-addition-to-ai-data-center-operations/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Discusses thermal management strategies and software orchestration for high-density liquid cooling in AI facilities.",
+   "summary": "Orchestration software for data center liquid cooling helps manage thermal systems continuously to match fluctuating AI workloads. By dynamically adjusting setpoints across chillers and distribution units, operators can optimize energy, water use, and GPU performance.",
+   "vocab": [
+    {
+     "word": "fluctuate",
+     "thai": "ผันผวน / ขึ้นๆ ลงๆ",
+     "level": "B2",
+     "example": "AI workloads can fluctuate rapidly across high-density computing clusters."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ที่เป็นอิสระ / ทำงานโดยอัตโนมัติ",
+     "level": "C1",
+     "example": "The software enables autonomous optimization of thermal performance and energy use."
+    },
+    {
+     "word": "dynamic",
+     "thai": "ซึ่งมีการเปลี่ยนแปลงและปรับตัวตลอดเวลา",
+     "level": "B2",
+     "example": "Dynamic setpoints help manage complex cooling loops efficiently."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 1150,
+   "ts": "2026-11-13T05:02:59.112548+07:00",
+   "title": "OpenAI faces civil racketeering charges over $30bn data center planned in Effingham County, Georgia",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-faces-civil-racketeering-charges-over-30bn-data-center-planned-in-effingham-county-georgia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details legal resistance and racketeering allegations facing a massive 3.2GW OpenAI data center project in Georgia.",
+   "summary": "Local residents in Georgia have filed a civil racketeering lawsuit against OpenAI and county officials over a proposed 3.2 GW data center project. The suit alleges secret meetings and improper procedures that have hurt neighboring property values.",
+   "vocab": [
+    {
+     "word": "allegation",
+     "thai": "ข้อกล่าวหา",
+     "level": "B2",
+     "example": "The lawsuit contains a list of serious civil racketeering allegations."
+    },
+    {
+     "word": "parcel",
+     "thai": "แปลงดิน / ผืนดิน",
+     "level": "B2",
+     "example": "The facility is planned for a massive land parcel inside the industrial hub."
+    },
+    {
+     "word": "conspiracy",
+     "thai": "การสมคบคิด",
+     "level": "B2",
+     "example": "Officials are accused of civil conspiracy during behind-closed-door discussions."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1151,
+   "ts": "2026-11-13T05:02:59.112588+07:00",
+   "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them",
+   "link": "https://www.theregister.com/security/2026/11/12/openai-launches-security-products-tells-orgs-theyre-doomed-if-they-dont-use-them/5309500",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers OpenAI's expansion into enterprise security tooling to protect AI deployments and workflows.",
+   "summary": "OpenAI has introduced new security products designed to help organizations protect their AI deployments against threats. The company emphasizes that adopting robust security measures is critical for enterprise AI integration.",
+   "vocab": [
+    {
+     "word": "doom",
+     "thai": "ทำให้ประสบหายนะ",
+     "level": "B2",
+     "example": "Vendors warn that organizations are doomed to fail if they neglect cybersecurity."
+    },
+    {
+     "word": "harden",
+     "thai": "เสริมความเข้มแข็ง / เพิ่มความปลอดภัยระบบ",
+     "level": "B2",
+     "example": "The initiative enlists hackers to harden critical digital infrastructure."
+    },
+    {
+     "word": "prompt",
+     "thai": "กระตุ้น / นำไปสู่",
+     "level": "B2",
+     "example": "Rising cyber threats prompt enterprise firms to deploy modern security tools."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1152,
+   "ts": "2026-11-13T05:02:59.112598+07:00",
+   "title": "Lego marketplace BrickLink in pieces after 'unusual activity' takes it offline for almost a week",
+   "link": "https://www.theregister.com/security/2026/11/12/lego-marketplace-bricklink-in-pieces-after-unusual-activity-takes-it-offline-for-almost-a-week/5309425",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": true,
+   "reason": "Reports on an extended outage affecting a niche online marketplace following suspicious security activity.",
+   "summary": "The online Lego marketplace BrickLink was taken offline for nearly a week following suspicious cyber activity. The prolonged downtime highlights operational recovery challenges during unconfirmed security incidents.",
+   "vocab": [
+    {
+     "word": "prolonged",
+     "thai": "ยืดเยื้อ / ยาวนาน",
+     "level": "B2",
+     "example": "The site experienced a prolonged outage lasting almost a full week."
+    },
+    {
+     "word": "suspicious",
+     "thai": "น่าสงสัย",
+     "level": "B2",
+     "example": "Unusual and suspicious activity forced administrators to take the platform offline."
+    },
+    {
+     "word": "investigate",
+     "thai": "สืบสวน / ตรวจสอบ",
+     "level": "B2",
+     "example": "Engineers continue to investigate the source of the platform disruption."
+    }
+   ],
+   "status": "night",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1153,
+   "ts": "2026-11-13T05:03:39.265700+07:00",
+   "title": "Microsoft has an image problem with November's Windows security update",
+   "link": "https://www.theregister.com/os-platforms/2026/11/12/microsoft-has-an-image-problem-with-novembers-windows-security-update/5309435",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Problems with Microsoft's monthly security updates affect patching schedules and system stability for Windows enterprise hosts.",
+   "summary": "Microsoft is dealing with public relations issues and deployment failures tied to its recent Windows security patches. System administrators are expressing caution about applying updates that may cause system instability.",
+   "vocab": [
+    {
+     "word": "harden",
+     "thai": "ปรับปรุงความมั่นคงปลอดภัย",
+     "level": "B2",
+     "example": "Security teams work to harden critical infrastructure against external attacks."
+    },
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางอินเทอร์เน็ต",
+     "level": "B2",
+     "example": "Attackers launched phishing campaigns by impersonating official support staff."
+    },
+    {
+     "word": "read-only",
+     "thai": "ที่อ่านได้เพียงอย่างเดียว",
+     "level": "B2",
+     "example": "The server partition was configured as read-only to prevent unauthorized changes."
+    }
+   ],
+   "status": "night",
+   "impact": 6,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1154,
+   "ts": "2026-11-13T05:03:39.265756+07:00",
+   "title": "Microsoft Exchange Server 2016 and 2019 enter their 'permanently vulnerable' era",
+   "link": "https://www.theregister.com/saas/2026/11/12/microsoft-exchange-server-2016-and-2019-enter-their-permanently-vulnerable-era/5309401",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Permanently unpatched security flaws in Microsoft Exchange Server present immediate operational risks for enterprise networks.",
+   "summary": "Microsoft Exchange Server 2016 and 2019 have entered a state where key security vulnerabilities will remain unpatched. System administrators must implement strict network defenses or migrate to supported mail platforms.",
+   "vocab": [
+    {
+     "word": "vulnerable",
+     "thai": "ที่มีช่องโหว่หรือเสี่ยงต่ออันตราย",
+     "level": "B2",
+     "example": "Unpatched servers remain highly vulnerable to remote code execution attacks."
+    },
+    {
+     "word": "interconnect",
+     "thai": "จุดเชื่อมต่อสัญญาณระบบ",
+     "level": "C1",
+     "example": "High-bandwidth interconnects link compute nodes inside the server rack."
+    },
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถแก้ไขได้",
+     "level": "C1",
+     "example": "Deploying an immutable operating system helps protect host nodes."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 1155,
+   "ts": "2026-11-13T05:03:39.265798+07:00",
+   "title": "Choosing QuePaxa, an unusual consensus algorithm",
+   "link": "https://blog.cloudflare.com/choosing-quepaxa/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Adopting leaderless consensus algorithms like QuePaxa is directly relevant to building resilient distributed systems and global control planes.",
+   "summary": "Cloudflare adopted the leaderless QuePaxa consensus algorithm for its global control plane service named Meerkat. Unlike standard protocols like Raft or Paxos, QuePaxa maintains high availability across volatile, high-latency wide-area networks.",
+   "vocab": [
+    {
+     "word": "consensus",
+     "thai": "ความเห็นพ้อง/ข้อตกลงร่วมกันของระบบ",
+     "level": "C1",
+     "example": "Distributed systems require a consensus protocol to guarantee data consistency."
+    },
+    {
+     "word": "replica",
+     "thai": "สำเนาข้อมูล/เครื่องจำลอง",
+     "level": "C1",
+     "example": "Each replica updates its local state after receiving committed log events."
+    },
+    {
+     "word": "volatile",
+     "thai": "ที่ผันผวน/ไม่เสถียร",
+     "level": "C1",
+     "example": "The algorithm maintains stability across high-latency, volatile networks."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 10
   }
  ],
- "next_id": 1140,
+ "next_id": 1156,
  "vocab": [
   {
    "word": "shortage",
