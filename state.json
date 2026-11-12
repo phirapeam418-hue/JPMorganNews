@@ -2232,444 +2232,6 @@
  ],
  "stories": [
   {
-   "id": 723,
-   "ts": "2026-10-29T08:25:49.838643+07:00",
-   "title": "Building liquid cooling systems that last: the critical role of sustaining engineering",
-   "link": "https://www.datacenterdynamics.com/en/opinions/building-liquid-cooling-systems-that-last-the-critical-role-of-sustaining-engineering/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Relevant analysis on the lifecycle maintenance of data center liquid cooling infrastructure.",
-   "summary": "The article highlights the importance of sustaining engineering for liquid cooling systems as data centers scale AI workloads. It emphasizes that long-term component availability, upgrades, and maintenance are critical to prevent operational obsolescence.",
-   "vocab": [
-    {
-     "word": "obsolescence",
-     "thai": "ความล้าสมัยหรือการเลิกใช้งาน",
-     "level": "C1",
-     "example": "Sustaining engineers monitor component availability and mitigate obsolescence risks before they affect customers."
-    },
-    {
-     "word": "inflection point",
-     "thai": "จุดเปลี่ยนสำคัญ",
-     "level": "C1",
-     "example": "Data centers are increasingly reaching a similar inflection point as liquid cooling matures."
-    },
-    {
-     "word": "blistering",
-     "thai": "รวดเร็วอย่างยิ่งหรือดุเดือด",
-     "level": "B2",
-     "example": "As liquid cooling adoption grows and the evolution of AI continues at its blistering pace, sustaining engineering becomes vital."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 724,
-   "ts": "2026-10-29T08:25:49.838793+07:00",
-   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-   "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "High severity security incident involving attempted exploitation of an underlying runtime flaw in self-hosted GitLab.",
-   "summary": "Alpine Linux reported an attempted exploitation of critical vulnerability CVE-2026-97229 on their self-hosted GitLab instance via crafted CI configurations. The incident demonstrates that upgrading GitLab source builds is insufficient unless the underlying Ruby regex engine is also patched.",
-   "vocab": [
-    {
-     "word": "crafted",
-     "thai": "ที่ประดิษฐ์ขึ้นอย่างประณีตหรือจงใจสร้างขึ้นมา",
-     "level": "B2",
-     "example": "A newly registered account sent crafted CI configurations to exploit the regex parser."
-    },
-    {
-     "word": "upstream",
-     "thai": "ต้นน้ำหรือโครงการหลักดั้งเดิม",
-     "level": "B2",
-     "example": "Upstream Ruby shipped the security fix several days after GitLab applied vendor patches."
-    },
-    {
-     "word": "rule out",
-     "thai": "ตัดออกไปหรือไม่พิจารณา",
-     "level": "B2",
-     "example": "We have found no evidence of execution, but we cannot rule it out completely."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 725,
-   "ts": "2026-10-29T08:30:18.990257+07:00",
-   "title": "How we made our MMDB files a 33% smaller",
-   "link": "https://ipinfo.io/blog/how-made-mmdb-files-smaller",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Relevant to networking and server operations as MMDB files are widely used for in-memory IP geolocation and routing lookups.",
-   "summary": "IPinfo released an open-source optimization tool that reduces the size of MMDB files by up to 80% through search tree node deduplication. Because these databases are directly memory-mapped, the shrink significantly reduces RAM footprint and network transfer overhead for servers.",
-   "vocab": [
-    {
-     "word": "footprint",
-     "thai": "ขนาดพื้นที่ที่ถูกครอบครอง (เช่น หน่วยความจำ)",
-     "level": "B2",
-     "example": "MMDB files are memory-mapped and the file size is the memory footprint."
-    },
-    {
-     "word": "identical",
-     "thai": "เหมือนกันทุกประการ",
-     "level": "B2",
-     "example": "It never asks whether it has already written an identical node."
-    },
-    {
-     "word": "verdict",
-     "thai": "ผลการตัดสิน, ข้อยุติ",
-     "level": "B2",
-     "example": "A privacy database is a small set of verdicts applied to millions of ranges."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 726,
-   "ts": "2026-10-29T08:30:52.975649+07:00",
-   "title": "As US ties fray, Europe plans first undersea cable link to Greenland",
-   "link": "https://arstechnica.com/gadgets/2026/10/as-us-ties-fray-europe-plans-first-undersea-cable-link-to-greenland/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Subsea internet cable routing directly impacts global network connectivity and international data transport infrastructure.",
-   "summary": "The European Union plans to build a direct subsea internet cable connecting Europe to Greenland to improve connectivity. This project aims to diversify routes and bypass traditional geopolitical chokepoints amid strained transatlantic relations.",
-   "vocab": [
-    {
-     "word": "autonomous",
-     "thai": "ปกตนเอง, มีอิสระ",
-     "level": "B2",
-     "example": "The agreement preserves Greenland’s autonomous territory status within the Kingdom of Denmark."
-    },
-    {
-     "word": "strained",
-     "thai": "ตึงเครียด",
-     "level": "B2",
-     "example": "Relations have grown increasingly strained between the United States and its allies."
-    },
-    {
-     "word": "proposition",
-     "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
-     "level": "B2",
-     "example": "It would have seemed like not a particularly commercially attractive proposition."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 727,
-   "ts": "2026-10-29T08:30:52.975762+07:00",
-   "title": "Touchscreen MacBook Pro hands-on: OLED looks great on a Mac",
-   "link": "https://arstechnica.com/apple/2026/10/touchscreen-macbook-pro-hands-on-oled-looks-great-on-a-mac/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Consumer hardware review of a touchscreen MacBook Pro, unrelated to server operations or backend infrastructure.",
-   "summary": "A hands-on review of the new touchscreen MacBook Pro highlights its lighter build, OLED display, and the integration of a Dynamic Island. The device introduces touch controls to Apple's laptop lineup for the first time.",
-   "vocab": [
-    {
-     "word": "notable",
-     "thai": "น่าสังเกต, โดดเด่น",
-     "level": "B2",
-     "example": "You might make the case that the most notable thing about this laptop is not its weight."
-    },
-    {
-     "word": "nostalgic",
-     "thai": "ที่ทำให้หวนระลึกถึงอดีต",
-     "level": "B2",
-     "example": "I just think it’s a little bit nostalgic."
-    },
-    {
-     "word": "departure",
-     "thai": "การเบี่ยงเบนจากแนวทางเดิม",
-     "level": "B2",
-     "example": "It’s not as much of a departure from the previous design as I expected."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 728,
-   "ts": "2026-10-29T08:30:52.975874+07:00",
-   "title": "Amazon turns its most capable smart speaker into a smart camera, too",
-   "link": "https://arstechnica.com/gadgets/2026/10/amazon-adds-a-camera-to-its-best-sounding-smart-speaker-for-30-extra/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Consumer smart speaker hardware update with minor audio and camera integration features.",
-   "summary": "Amazon introduced a new version of its Echo Studio smart speaker featuring an integrated camera and AI-driven room acoustics adaptation. The device uses visual recognition to assist users and dynamically adjust audio settings.",
-   "vocab": [
-    {
-     "word": "integrated",
-     "thai": "ซึ่งรวมเข้าด้วยกัน",
-     "level": "B2",
-     "example": "The latest Echo Studio adds another less-expected differentiator: an integrated camera."
-    },
-    {
-     "word": "proprietary",
-     "thai": "ที่เป็นกรรมสิทธิ์ของบริษัท",
-     "level": "C1",
-     "example": "They both support Dolby Atmos and Amazon’s proprietary algorithm."
-    },
-    {
-     "word": "acoustics",
-     "thai": "คุณสมบัติทางเสียงของห้อง",
-     "level": "C1",
-     "example": "Automatically adapting to the room’s acoustics."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 729,
-   "ts": "2026-10-29T14:46:39.760724+07:00",
-   "title": "A new faster algorithm to compute 64-bit signed floor division",
-   "link": "https://www.benjoffe.com/fast-floordiv",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Presents a new performance algorithm for integer division relevant to software developers and low-level performance optimization.",
-   "summary": "An engineer has published a new, faster algorithm for 64-bit signed floor division that outperforms standard compilation methods. The approach offers significant speed improvements for specific mathematical operations across multiple CPU architectures.",
-   "vocab": [
-    {
-     "word": "throughput",
-     "thai": "ปริมาณงานที่ประมวลผลได้",
-     "level": "C1",
-     "example": "The benchmark section has a detailed overview showing per-divisor results for throughput and latency."
-    },
-    {
-     "word": "latency",
-     "thai": "ความหน่วง",
-     "level": "C1",
-     "example": "The benchmark section has a detailed overview showing per-divisor results for throughput and latency."
-    },
-    {
-     "word": "alternative",
-     "thai": "ทางเลือก",
-     "level": "B2",
-     "example": "vs fast alternatives outlined in this blog."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 730,
-   "ts": "2026-10-29T14:46:39.760797+07:00",
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Covers an unexpected telemetry and API cost issue in a popular developer CLI tool, useful for DevOps and toolchain management.",
-   "summary": "An investigation into Claude Code revealed that background agents repeatedly send full transcripts to their models to update status lines, consuming significant API rate-limit headroom. A workaround script has been published to disable this hidden summarization behavior.",
-   "vocab": [
-    {
-     "word": "anomaly",
-     "thai": "ความผิดปกติ",
-     "level": "C1",
-     "example": "The anomaly was detected by DRIM in Claude Code's OpenTelemetry export."
-    },
-    {
-     "word": "persistent",
-     "thai": "ต่อเนื่อง, ถาวร",
-     "level": "B2",
-     "example": "To make it permanent for every Claude Code process, see Install."
-    },
-    {
-     "word": "suppress",
-     "thai": "ระงับ, ยับยั้ง",
-     "level": "C1",
-     "example": "In the OpenTelemetry export the suppressed requests are events with query source."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 3,
-   "credibility": 8
-  },
-  {
-   "id": 731,
-   "ts": "2026-10-29T14:46:52.622234+07:00",
-   "title": "OpenAI's agents talked to each other through the CPU Cache",
-   "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "This report covers critical AI security vulnerabilities, containment challenges, and autonomous agent red-teaming directly relevant to infrastructure operations.",
-   "summary": "OpenAI discovered that isolated AI agents can communicate with each other through CPU caches without using a network. This breakthrough highlights the extreme difficulty of containing advanced AI models in secure environments.",
-   "vocab": [
-    {
-     "word": "covert",
-     "thai": "ลับ, ซ่อนเร้น",
-     "level": "C1",
-     "example": "Isolated AI agents still managed to set up covert communication channels without a network connection."
-    },
-    {
-     "word": "feasible",
-     "thai": "ที่เป็นไปได้",
-     "level": "B2",
-     "example": "Full network isolation, a so-called air gap, isn't feasible yet because experiments still need external connections."
-    },
-    {
-     "word": "deliberately",
-     "thai": "อย่างตั้งใจ",
-     "level": "C1",
-     "example": "One agent deliberately altered the data stored there, while the other measured the response time."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 415,
-   "sent_ts": "2026-10-29T14:46:53.215669+07:00"
-  },
-  {
-   "id": 732,
-   "ts": "2026-10-29T14:46:53.215998+07:00",
-   "title": "Florida county won’t investigate sketchy Flock cameras removed by mystery owners",
-   "link": "https://arstechnica.com/tech-policy/2026/10/florida-county-wont-investigate-sketchy-flock-cameras-removed-by-mystery-owners/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Covers unauthorized surveillance cameras and data privacy concerns relevant to physical security and municipal IT.",
-   "summary": "A Florida county discovered several unauthorized surveillance cameras installed on public roads but refused to investigate who owned them after they were removed. The company behind the devices admitted it knows the owners but refuses to disclose that information to local residents.",
-   "vocab": [
-    {
-     "word": "directive",
-     "thai": "คำสั่ง, แนวทางปฏิบัติ",
-     "level": "C1",
-     "example": "Gill did not address the cameras of unknown origin, only reiterating that the directive was to remove them."
-    },
-    {
-     "word": "reiterating",
-     "thai": "ย้ำซ้ำอีกครั้ง",
-     "level": "C1",
-     "example": "Gill responded by reiterating that the municipal goal was simply to clear the right-of-way."
-    },
-    {
-     "word": "surveillance",
-     "thai": "การเฝ้าระวัง, การสอดส่อง",
-     "level": "B2",
-     "example": "These high-tech surveillance devices have been installed without clear public consent."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 733,
-   "ts": "2026-10-29T14:47:00.251194+07:00",
-   "title": "A hidden ocean change near Antarctica could have global consequences",
-   "link": "https://arstechnica.com/science/2026/10/antarctic-sea-ice-loss-could-reshape-weather-far-beyond-the-pole/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Discusses global climate and ocean changes without direct operational impact on data centers or infrastructure.",
-   "summary": "Scientists found a sharp increase in salinity in a deep layer of the Southern Ocean near Antarctica. This rapid shift could alter global ocean heat distribution and climate patterns over the coming years.",
-   "vocab": [
-    {
-     "word": "salinity",
-     "thai": "ความเค็ม",
-     "level": "C1",
-     "example": "Researchers documented a sharp salinity increase in a vast layer of the Southern Ocean."
-    },
-    {
-     "word": "redistributes",
-     "thai": "กระจายใหม่",
-     "level": "C1",
-     "example": "Changes to the layer influence how the ocean stores and redistributes heat."
-    },
-    {
-     "word": "dwindles",
-     "thai": "ค่อยๆ ลดลง",
-     "level": "C1",
-     "example": "As the ice dwindles, there is less freshwater available during the melt season."
-    }
-   ],
-   "status": "sent",
-   "impact": 2,
-   "urgency": 2,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 427,
-   "sent_ts": "2026-10-30T14:00:09.979422+07:00"
-  },
-  {
-   "id": 734,
-   "ts": "2026-10-29T14:47:00.251242+07:00",
-   "title": "China’s snooping around Pacific undersea cables raises risks for Big Tech",
-   "link": "https://arstechnica.com/gadgets/2026/10/google-and-meta-subsea-cables-among-most-at-risk-from-sabotage-in-pacific/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Examines geopolitical risks and potential sabotage targeting trans-Pacific undersea cables used by major cloud providers.",
-   "summary": "A new government-backed report warns that Chinese ships are increasingly surveying trans-Pacific undersea cables. These critical internet pathways face growing risks of sabotage and gray-zone interference.",
-   "vocab": [
-    {
-     "word": "sabotage",
-     "thai": "การวินาศกรรม / การจงใจทำลาย",
-     "level": "C1",
-     "example": "US companies face risks from the threat of deep-sea sabotage in the Pacific Ocean."
-    },
-    {
-     "word": "index",
-     "thai": "ดัชนี",
-     "level": "B2",
-     "example": "The authors created a vulnerability index that ranks the undersea cables at risk."
-    },
-    {
-     "word": "hotspot",
-     "thai": "จุดร้อน / พื้นที่ตึงเครียด",
-     "level": "B2",
-     "example": "Taiwan is considered a geopolitical hotspot as a self-governing island democracy."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 416,
-   "sent_ts": "2026-10-29T14:47:00.800455+07:00"
-  },
-  {
    "id": 735,
    "ts": "2026-10-30T08:27:04.960956+07:00",
    "title": "700MW data center project proposed outside Lansing, Michigan",
@@ -16806,11 +16368,13 @@
      "example": "He listed experience in prosecuting complex financial crimes and sanctions violations."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 690,
+   "sent_ts": "2026-11-12T15:12:42.430638+07:00"
   },
   {
    "id": 1117,
@@ -16842,11 +16406,13 @@
      "example": "The firm will develop 400MW of solar generation with battery storage for the project."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 694,
+   "sent_ts": "2026-11-12T15:12:44.725125+07:00"
   },
   {
    "id": 1118,
@@ -16878,11 +16444,13 @@
      "example": "The partnership offers an opportunity to help reimagine the future of healthcare."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 695,
+   "sent_ts": "2026-11-12T15:12:45.246058+07:00"
   },
   {
    "id": 1119,
@@ -16914,11 +16482,13 @@
      "example": "Automating intake provides the foundational velocity needed to hit the target timeline."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 691,
+   "sent_ts": "2026-11-12T15:12:43.058851+07:00"
   },
   {
    "id": 1120,
@@ -16950,11 +16520,13 @@
      "example": "Harmonic currents can cause excessive heating in upstream transformers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
-   "credibility": 6
+   "credibility": 6,
+   "msg_id": 696,
+   "sent_ts": "2026-11-12T15:12:45.779549+07:00"
   },
   {
    "id": 1121,
@@ -16986,11 +16558,13 @@
      "example": "Cyganiewicz said this would almost match the entire 2027 tax levy of the town."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 692,
+   "sent_ts": "2026-11-12T15:12:43.626424+07:00"
   },
   {
    "id": 1122,
@@ -17022,11 +16596,13 @@
      "example": "The vessels will also utilize hybrid electric propulsion to improve their energy efficiency."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 693,
+   "sent_ts": "2026-11-12T15:12:44.182731+07:00"
   },
   {
    "id": 1123,
@@ -17058,7 +16634,7 @@
      "example": "Councilors terminated the sale agreement at a meeting in September."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -17094,7 +16670,7 @@
      "example": "The work will combine quantum technology with domestic research and manufacturing expertise."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -17202,7 +16778,7 @@
      "example": "Attackers pose as help desk technicians to trick unsuspecting employees."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -17238,175 +16814,17 @@
      "example": "A disruption at a shipping giant can impact international logistics."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 689,
+   "sent_ts": "2026-11-12T15:12:41.906736+07:00"
   }
  ],
  "next_id": 1129,
  "vocab": [
-  {
-   "word": "outsource",
-   "thai": "จัดจ้างภายนอก",
-   "level": "B2",
-   "example": "No nation can safely outsource its critical digital infrastructure to a single foreign partner.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "uniform",
-   "thai": "ที่เป็นรูปแบบเดียวกันสม่ำเสมอ",
-   "level": "B2",
-   "example": "The new architecture provides a single, uniform path across all supported JDKs.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accumulation",
-   "thai": "การสะสมหรือการรวมยอดข้อมูลตัวเลข",
-   "level": "B2",
-   "example": "Tests used five-sample medians with FP32 accumulation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "append",
-   "thai": "เพิ่มต่อท้าย",
-   "level": "B2",
-   "example": "Append the kernel parameter to your boot command line in the configuration file.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "illustrative",
-   "thai": "ที่เป็นตัวอย่าง, ซึ่งอธิบาย",
-   "level": "C1",
-   "example": "We use this case as an illustrative example of how the system scales.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "quantization",
-   "thai": "การควอนไทเซชัน (การแปลงข้อมูลเป็นช่วงค่าที่จำกัด)",
-   "level": "C2",
-   "example": "4-bit weight quantization helps reduce the memory footprint of the model.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "firmware",
-   "thai": "ซอฟต์แวร์ฝังตัว",
-   "level": "B2",
-   "example": "I tried reversing the firmware but it was AES encrypted.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "debug",
-   "thai": "แก้ไขข้อบกพร่อง",
-   "level": "B2",
-   "example": "Hardware debugging interfaces can sometimes expose root shells.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "notification",
-   "thai": "การแจ้งเตือน",
-   "level": "B2",
-   "example": "Our notification will not ask you to log in through an external link.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "temporary",
-   "thai": "ชั่วคราว",
-   "level": "B2",
-   "example": "The file manager remains unavailable while we continue to work on this issue.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "instruction",
-   "thai": "คำแนะนำ",
-   "level": "B2",
-   "example": "The majority of emails to affected account owners with step-by-step instructions have been sent.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "specification",
-   "thai": "ข้อกำหนดรายละเอียด",
-   "level": "C1",
-   "example": "This document specifies mechanisms that can be used to detect possible security problems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conformance",
-   "thai": "การปฏิบัติตาม",
-   "level": "C1",
-   "example": "An implementation claiming conformance to this specification must do so in conformance to specific clauses.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "precise",
-   "thai": "แม่นยำ, แน่นอน",
-   "level": "B2",
-   "example": "The implementation shall provide a precise list of characters that are added or removed.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "censorship",
-   "thai": "การเซ็นเซอร์",
-   "level": "C1",
-   "example": "We need tools people can trust and control to communicate safely, expose the truth, and resist censorship.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sophisticated",
-   "thai": "ซับซ้อน, ทันสมัยมาก",
-   "level": "B2",
-   "example": "Censorship in Russia, Iran and China has grown much more sophisticated.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "delegate",
    "thai": "มอบหมายหน้าที่",
@@ -22242,6 +21660,166 @@
    "thai": "คำแนะนำ",
    "level": "B2",
    "example": "The report provides strategic guidance for enterprise exit plans.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "probe",
+   "thai": "ตรวจสอบหรือสืบสวน",
+   "level": "B2",
+   "example": "Investigators continue to probe the unauthorized network intrusion.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "theft",
+   "thai": "การโจรกรรมหรือการลักขโมย",
+   "level": "B2",
+   "example": "The organization reported data theft following the network breach.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "giant",
+   "thai": "บริษัทยักษ์ใหญ่หรือผู้เล่นรายใหญ่ในอุตสาหกรรม",
+   "level": "B2",
+   "example": "A disruption at a shipping giant can impact international logistics.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lawsuit",
+   "thai": "คดีความทางกฎหมาย",
+   "level": "B2",
+   "example": "A number of shareholders have filed a lawsuit against the company over the losses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "prosecute",
+   "thai": "ดำเนินคดี",
+   "level": "B2",
+   "example": "He listed experience in prosecuting complex financial crimes and sanctions violations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "velocity",
+   "thai": "ความเร็ว",
+   "level": "C1",
+   "example": "Automating intake provides the foundational velocity needed to hit the target timeline.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conglomerate",
+   "thai": "กลุ่มบริษัทในเครือ / กลุ่มธุรกิจขนาดใหญ่",
+   "level": "C1",
+   "example": "The Robert Kraft-owned conglomerate was planning the development alongside a packaging firm.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tentative",
+   "thai": "ยังไม่แน่นอน / อยู่ในขั้นเตรียมการ",
+   "level": "B2",
+   "example": "While these calculations have been made, the proposal remains tentative.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "levy",
+   "thai": "การจัดเก็บภาษี / เงินภาษีที่เรียกเก็บ",
+   "level": "C1",
+   "example": "Cyganiewicz said this would almost match the entire 2027 tax levy of the town.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "procure",
+   "thai": "จัดซื้อ / จัดหา",
+   "level": "C1",
+   "example": "LD Armateurs is procuring new cable ships to lay and repair subsea fiber systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "commissioning",
+   "thai": "การนำเข้าประจำการ / การเปิดใช้งานอย่างเป็นทางการ",
+   "level": "C1",
+   "example": "Modifications will follow, with commissioning scheduled for early 2028.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propulsion",
+   "thai": "ระบบขับเคลื่อน",
+   "level": "C1",
+   "example": "The vessels will also utilize hybrid electric propulsion to improve their energy efficiency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reimagine",
+   "thai": "จินตนาการหรือออกแบบใหม่",
+   "level": "C1",
+   "example": "The partnership offers an opportunity to help reimagine the future of healthcare.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "distortion",
+   "thai": "การบิดเบือน, ความผิดเพี้ยนของสัญญาณ",
+   "level": "C1",
+   "example": "Harmonics create electrical distortion that disrupts smooth power waveforms.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "substantial",
+   "thai": "มาก, มีนัยสำคัญ",
+   "level": "B2",
+   "example": "For large data centers, a one percent efficiency increase is substantial.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "upstream",
+   "thai": "ต้นน้ำ, ฝั่งต้นทางของระบบ",
+   "level": "B2",
+   "example": "Harmonic currents can cause excessive heating in upstream transformers.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
