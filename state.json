@@ -2324,7 +2324,31 @@
   "https://www.theregister.com/software/2026/11/13/developer-cleverly-shrank-2600-lines-of-c-into-a-six-line-script-but-still-ending-up-losing-sleep/5309264",
   "https://www.theregister.com/legal/2026/11/13/singapore-says-us-authorities-and-supermicro-hardly-helped-investigation-of-jensen-huangs-chinese-friend/5309579",
   "https://www.theregister.com/ai-and-ml/2026/11/13/alibabas-qwen38-re-educated-with-a-more-western-worldview/5309555",
-  "https://status.claude.com/incidents/nn11wk485zfn"
+  "https://status.claude.com/incidents/nn11wk485zfn",
+  "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+  "https://www.datacenterdynamics.com/en/news/charlotte-hornets-taps-boldyn-networks-for-cellular-5g/",
+  "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
+  "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+  "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+  "https://www.datacenterdynamics.com/en/opinions/why-ai-infrastructure-must-rethink-facility-water-loop-management/",
+  "https://www.datacenterdynamics.com/en/opinions/beyond-data-location-why-the-control-plane-is-europes-real-sovereignty-challenge/",
+  "https://www.datacenterdynamics.com/en/news/quantum-earnings-q3-2026-d-wave-ionq-iqm-quantinuum-rigetti-and-xanadu-publish-third-quarter-results-alongside-newly-public-pasqal/",
+  "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+  "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
+  "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+  "https://www.datacenterdynamics.com/en/news/vodafonethree-considers-feasibility-of-uk-norway-subsea-cable-route/",
+  "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
+  "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+  "https://www.theregister.com/software/2026/11/13/mozilla-leaves-solo-website-owners-to-go-it-alone-as-hosting-shuts-down/5309632",
+  "https://www.theregister.com/cyber-crime/2026/11/13/email-addresses-used-in-european-school-bomb-hoaxes-spotted-in-old-infostealer-logs/5309765",
+  "https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679",
+  "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805",
+  "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
+  "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
+  "https://www.theregister.com/applications/2026/11/13/oh-my-word-microsoft-retires-compatibility-options-because-who-needs-layouts-to-stay-put/5309664",
+  "https://www.theregister.com/security/2026/11/13/quantum-systems-drones-back-in-the-air-after-malware-scare/5309658",
+  "https://www.theregister.com/public-sector/2026/11/13/palantir-adds-three-uk-police-forces-to-its-beat-with-101m-deal/5309699",
+  "https://www.theregister.com/bofh/2026/11/13/bofh-the-best-way-to-stop-an-idea-spreading-is-a-controlled-burn/5309292"
  ],
  "stories": [
   {
@@ -17084,7 +17108,8 @@
    "extra_links": [
     "https://status.cloud.microsoft/",
     "https://www.datacenterdynamics.com/en/news/microsoft-hit-by-major-global-outage-impacts-outlook-teams-openai-and-more/",
-    "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609"
+    "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609",
+    "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805"
    ],
    "msg_id": 714,
    "sent_ts": "2026-11-13T14:49:06.847202+07:00"
@@ -18037,9 +18062,549 @@
    "credibility": 10,
    "msg_id": 724,
    "sent_ts": "2026-11-13T18:43:24.508165+07:00"
+  },
+  {
+   "id": 1184,
+   "ts": "2026-11-14T01:57:29.592171+07:00",
+   "title": "DCD Connect Virginia 2026: It’s all about the power (and public perception)",
+   "link": "https://www.datacenterdynamics.com/en/analysis/dcd-connect-virginia-2026-its-all-about-the-power-and-public-perception/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The conference recap highlights key data center challenges including grid power constraints, public opposition, and mid-range site strategies.",
+   "summary": "Industry leaders at DCD Connect Virginia emphasized that power availability remains the primary obstacle to data center expansion. To overcome grid constraints and public backlash, operators are exploring modular builds, grid-active designs, and smaller sub-50MW facilities.",
+   "vocab": [
+    {
+     "word": "discourse",
+     "thai": "การอภิปรายหรือการถกเถียงในที่สาธารณะ",
+     "level": "C1",
+     "example": "Data centers have become far more visible in public discourse recently."
+    },
+    {
+     "word": "imperative",
+     "thai": "สิ่งจำเป็นเร่งด่วนที่ต้องทำ",
+     "level": "C1",
+     "example": "Speed to grid power and time to bring IT capacity online were the key imperatives."
+    },
+    {
+     "word": "hindrance",
+     "thai": "อุปสรรคหรือสิ่งกีดขวาง",
+     "level": "C1",
+     "example": "The audience heard that data centers need to be a grid resource, not a hindrance."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1185,
+   "ts": "2026-11-14T01:57:29.592241+07:00",
+   "title": "Integrated data center infrastructure",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/integrated-data-center-infrastructure/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The whitepaper offers useful technical insights on balancing cooling, power, and BMS interdependencies for AI workloads.",
+   "summary": "A technical whitepaper addresses systemic data center resilience by analyzing interdependencies between power generation, cooling, and management systems. It provides operational frameworks for maintaining uptime during grid disturbances while optimizing efficiency.",
+   "vocab": [
+    {
+     "word": "resilience",
+     "thai": "ความสามารถในการฟื้นตัวหรือรับมือกับปัญหา",
+     "level": "C1",
+     "example": "True data center resilience is a property of the entire operating chain."
+    },
+    {
+     "word": "interdependency",
+     "thai": "การพึ่งพาอาศัยกันและกัน",
+     "level": "C2",
+     "example": "Hidden interdependencies across critical power systems can leave facilities exposed."
+    },
+    {
+     "word": "margin",
+     "thai": "ระยะขอบหรือระดับความมั่นคงที่เผื่อไว้",
+     "level": "B2",
+     "example": "Operators must optimize cooling efficiency without sacrificing critical uptime margins."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1186,
+   "ts": "2026-11-14T01:57:29.592269+07:00",
+   "title": "ASIC ambition",
+   "link": "https://www.datacenterdynamics.com/en/analysis/asic-custom-silicon-amazon-arm-meta/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The shift toward custom ASICs directly affects compute hardware choices, energy efficiency, and infrastructure planning for AI inference.",
+   "summary": "Major tech companies and startups are accelerating the development of specialized ASICs to replace generic GPUs for AI inference. Designing custom silicon allows operators to significantly increase compute efficiency per watt and reduce long-term operational expenses.",
+   "vocab": [
+    {
+     "word": "specialization",
+     "thai": "การทำงานเฉพาะทางหรือการเชี่ยวชาญเฉพาะด้าน",
+     "level": "C1",
+     "example": "Industry executives declared that specialization is the future of server hardware."
+    },
+    {
+     "word": "flurry",
+     "thai": "ความตื่นตัวหรือเหตุการณ์ที่เกิดขึ้นอย่างรวดเร็ว",
+     "level": "C1",
+     "example": "This flurry of investment activity highlights the demand for custom silicon."
+    },
+    {
+     "word": "exponentially",
+     "thai": "อย่างทวีคูณ",
+     "level": "C1",
+     "example": "Demand for compute hardware to support AI models has risen exponentially."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1187,
+   "ts": "2026-11-14T01:57:29.592297+07:00",
+   "title": "Samsung in talks to acquire data center cooling company Modine Manufacturing - report",
+   "link": "https://www.datacenterdynamics.com/en/news/samsung-in-talks-to-acquire-data-center-cooling-company-modine-manufacturing-report/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Samsung acquiring a major cooling vendor would impact the supply chain and availability of CDUs and liquid cooling equipment.",
+   "summary": "Samsung Electronics is reportedly negotiating to acquire Modine Manufacturing, a key provider of data center cooling solutions valued at over seven billion dollars. The acquisition would strengthen Samsung's position in supplying HVAC and liquid cooling equipment to global hyperscalers.",
+   "vocab": [
+    {
+     "word": "suitor",
+     "thai": "ผู้ขอซื้อกิจการหรือผู้สนใจร่วมทุน",
+     "level": "C2",
+     "example": "Another suitor could also make a financial bid for the cooling company."
+    },
+    {
+     "word": "throughput",
+     "thai": "ปริมาณผลผลิตหรืออัตราการประมวลผลผ่านระบบ",
+     "level": "C1",
+     "example": "The manufacturer is actively increasing throughput at its main liquid cooling facility."
+    },
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มผลิตภัณฑ์หรือบริการทั้งหมด",
+     "level": "B2",
+     "example": "Demand continues to be incredibly strong across our entire data center cooling portfolio."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1188,
+   "ts": "2026-11-14T01:57:29.592326+07:00",
+   "title": "Sponsored: Why AI infrastructure must rethink facility water loop management",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-ai-infrastructure-must-rethink-facility-water-loop-management/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The article details practical facility cooling management and water quality strategies vital for maintaining dense AI racks and CDUs.",
+   "summary": "High-density AI workloads require infrastructure teams to manage facility water loops continuously rather than relying on standard periodic treatment. Maintaining precise water quality prevents heat exchanger fouling, protects liquid cooling manifolds, and avoids server downtime.",
+   "vocab": [
+    {
+     "word": "concentrate",
+     "thai": "กระจุกตัวหรือรวมศูนย์",
+     "level": "B2",
+     "example": "High-density server racks concentrate far more heat into a smaller physical footprint."
+    },
+    {
+     "word": "propagate",
+     "thai": "แพร่กระจายหรือส่งผลลุกลาม",
+     "level": "C1",
+     "example": "Primary cooling degradation can propagate into higher secondary-loop temperatures."
+    },
+    {
+     "word": "fouling",
+     "thai": "การเกิดคราบสกปรกอุดตันในระบบ",
+     "level": "C2",
+     "example": "Primary-side fouling reduces the thermal margin of liquid cooling units."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1189,
+   "ts": "2026-11-14T01:57:29.592352+07:00",
+   "title": "Beyond data location: why the control plane is Europe’s real sovereignty challenge",
+   "link": "https://www.datacenterdynamics.com/en/opinions/beyond-data-location-why-the-control-plane-is-europes-real-sovereignty-challenge/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Focuses on cloud architecture control planes, data portability, and European operational sovereignty strategies.",
+   "summary": "European organizations are shifting focus from physical data residency to maintaining operational control over AI control planes and orchestration software. Experts warn that relying heavily on non-local hyperscalers for critical management infrastructure creates strategic dependencies.",
+   "vocab": [
+    {
+     "word": "autonomy",
+     "thai": "อิสรภาพในการจัดการตนเอง",
+     "level": "C1",
+     "example": "European governments see sovereign AI as an essential lever for strategic autonomy."
+    },
+    {
+     "word": "portability",
+     "thai": "ความสามารถในการย้ายระบบหรือข้อมูล",
+     "level": "C1",
+     "example": "A major challenge for infrastructure providers is ensuring seamless data portability."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียดถี่ถ้วน",
+     "level": "C1",
+     "example": "Realizing these goals requires closer scrutiny of who controls the orchestration layer."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1190,
+   "ts": "2026-11-14T01:57:59.621340+07:00",
+   "title": "PowerBridge breaks ground on gigawatt-scale powered land campus in Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/powerbridge-breaks-ground-on-gigawatt-scale-powered-land-campus-in-texas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports groundbreaking on a multi-gigawatt powered campus in Texas dedicated to supporting large-scale data center infrastructure.",
+   "summary": "PowerBridge has broken ground on its 2GW Alpha Digital campus in West Texas to supply powered land and infrastructure for future data centers. The site will feature modular natural gas power generation and closed-loop liquid cooling designed for high-density computing.",
+   "vocab": [
+    {
+     "word": "break ground",
+     "thai": "เริ่มดำเนินการก่อสร้าง",
+     "level": "B2",
+     "example": "The company announced it has broken ground on Alpha Digital, its flagship multi-gigawatt powered campus."
+    },
+    {
+     "word": "convergence",
+     "thai": "การรวมตัวกันของสองสิ่งขึ้นไป",
+     "level": "C1",
+     "example": "This project represents the convergence of two enormous industries: energy and digital infrastructure."
+    },
+    {
+     "word": "non-potable",
+     "thai": "ไม่เหมาะสำหรับการดื่ม",
+     "level": "C2",
+     "example": "The campus aims to export excess energy to the grid and use non-potable water for cooling."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1191,
+   "ts": "2026-11-14T01:57:59.621377+07:00",
+   "title": "Syntys breaks ground on 20MW data center in Qatar",
+   "link": "https://www.datacenterdynamics.com/en/news/syntys-breaks-ground-on-20mw-data-center-in-qatar/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Describes new data center construction in Qatar targeting GPU-accelerated AI infrastructure.",
+   "summary": "Syntys has broken ground on a 20MW carrier-neutral data center expansion at its existing campus in Qatar. The expansion is specifically engineered to handle high-density GPU deployments for sovereign AI cloud services.",
+   "vocab": [
+    {
+     "word": "carve out",
+     "thai": "การแยกส่วนธุรกิจออกเป็นบริษัทใหม่",
+     "level": "B2",
+     "example": "Syntys was formed last year after Ooredoo carved out its data centers across MENA."
+    },
+    {
+     "word": "density",
+     "thai": "ความหนาแน่น",
+     "level": "B2",
+     "example": "The facility will support higher-density configurations for GPU-accelerated AI."
+    },
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มสินทรัพย์หรือบริการที่มีอยู่",
+     "level": "B2",
+     "example": "The acquisition added two operational, Tier III-quality facilities to its portfolio."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1192,
+   "ts": "2026-11-14T01:57:59.621404+07:00",
+   "title": "Cerebras secures Microsoft as a customer",
+   "link": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights Microsoft adopting Cerebras AI chips and details severe US data center capacity bottlenecks driving international expansion.",
+   "summary": "Microsoft has contracted with AI hardware firm Cerebras to deploy its specialized chips alongside AWS and Oracle. Facing severe US data center power and shell constraints, Cerebras is shifting over 75 percent of its future buildout to Canada, Europe, and South America.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การประมวลผลการสรุปผลของระบบเอไอ",
+     "level": "C1",
+     "example": "Cerebras needed to demonstrate that its systems could deliver industry-leading inference performance at scale."
+    },
+    {
+     "word": "sequentially",
+     "thai": "ตามลำดับเวลาต่อเนื่องกัน",
+     "level": "C1",
+     "example": "Q3 saw revenues of $231 million, up 10 percent sequentially and 70 percent year-on-year."
+    },
+    {
+     "word": "crossover",
+     "thai": "การเปลี่ยนผ่านระหว่างรุ่นผลิตภัณฑ์",
+     "level": "B2",
+     "example": "The company expects crossover between CS-3 and CS-4 to happen in Q1 of 2027."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1193,
+   "ts": "2026-11-14T01:57:59.621427+07:00",
+   "title": "VodafoneThree considers feasibility of UK-Norway subsea cable route",
+   "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-considers-feasibility-of-uk-norway-subsea-cable-route/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details a feasibility study for a UK-Norway subsea cable intended to strengthen network redundancy and support regional data centers.",
+   "summary": "VodafoneThree has initiated a feasibility study to construct a subsea fiber optic cable linking Scotland, Shetland, and Norway. The proposed route aims to bolster critical national infrastructure security and support future data center expansion across the North Sea.",
+   "vocab": [
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้ในการทำงาน",
+     "level": "C1",
+     "example": "VodafoneThree is exploring the feasibility of a subsea cable route connecting the UK with Norway."
+    },
+    {
+     "word": "adversary",
+     "thai": "ฝ่ายตรงข้ามหรือศัตรู",
+     "level": "C1",
+     "example": "Our adversaries are increasingly targeting our critical national infrastructure."
+    },
+    {
+     "word": "corridor",
+     "thai": "เส้นทางเชื่อมต่อดิจิทัลหรือการขนส่ง",
+     "level": "B2",
+     "example": "A new digital corridor would strengthen the physical links between our countries."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1194,
+   "ts": "2026-11-14T01:57:59.621457+07:00",
+   "title": "Poste Italiane establishes €600m co-investment fund to support data center projects",
+   "link": "https://www.datacenterdynamics.com/en/news/poste-italiane-establishes-600m-co-investment-fund-to-support-data-center-projects/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Announces a new €600m co-investment fund to build data centers in Italy following a telecom takeover.",
+   "summary": "Italian postal service operator Poste Italiane has created a €600 million co-investment fund dedicated to expanding digital infrastructure. Its initial pilot will finance a 20MW data center project in partnership with Telecom Italia.",
+   "vocab": [
+    {
+     "word": "pilot",
+     "thai": "โครงการนำร่อง",
+     "level": "B2",
+     "example": "In its first pilot, direct co-investment will finance a small 20 MW of new data center capacity."
+    },
+    {
+     "word": "virtuous",
+     "thai": "ที่เป็นประโยชน์และส่งผลดีต่อเนื่อง",
+     "level": "C1",
+     "example": "This funding structure creates a virtuous model that preserves capital efficiency."
+    },
+    {
+     "word": "preserve",
+     "thai": "สงวนไว้หรือรักษาความคงอยู่",
+     "level": "B2",
+     "example": "The project supports infrastructure expansion while preserving capital efficiency."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1195,
+   "ts": "2026-11-14T01:57:59.621481+07:00",
+   "title": "Three data center developments in Australia change course after community backlash",
+   "link": "https://www.datacenterdynamics.com/en/news/three-data-center-developments-in-australia-change-course-after-community-backlash/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers multiple data center cancellations in Australia due to local public opposition and regulatory shifts.",
+   "summary": "Fierce local community pushback and changing local regulations have forced developers to cancel two major data center projects and pause another in Australia. AirTrunk and Stockland abandoned their respective Sydney developments following public protests.",
+   "vocab": [
+    {
+     "word": "backlash",
+     "thai": "การต่อต้านอย่างรุนแรงจากสังคม",
+     "level": "C1",
+     "example": "Three data center developments in Australia changed course after strong community backlash."
+    },
+    {
+     "word": "mitigating",
+     "thai": "ที่ช่วยบรรเทาหรือลดความรุนแรง",
+     "level": "C1",
+     "example": "Goodman cited community feedback as a mitigating factor in dropping the project."
+    },
+    {
+     "word": "mobilized",
+     "thai": "ระดมพลหรือรวบรวมผู้คนเพื่อทำกิจกรรม",
+     "level": "B2",
+     "example": "Protest organizers claim to have mobilized hundreds of people to oppose the data center development."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1196,
+   "ts": "2026-11-14T01:58:30.479517+07:00",
+   "title": "HPE debuts hybrid storage configs: Rising SSD costs hit supercomputing",
+   "link": "https://www.theregister.com/storage/2026/11/13/hpe-debuts-hybrid-storage-configs-rising-ssd-costs-hit-supercomputing/5309679",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on HPE introducing hybrid storage options for supercomputing due to rising SSD costs.",
+   "summary": "HPE introduced new hybrid storage configurations for supercomputing and AI workloads in response to rising SSD costs. This shift allows enterprise infrastructure teams to manage high-capacity storage budgets more efficiently.",
+   "vocab": [
+    {
+     "word": "debut",
+     "thai": "เปิดตัวครั้งแรก",
+     "level": "B2",
+     "example": "HPE debuts new hybrid storage options for supercomputing workloads."
+    },
+    {
+     "word": "supercomputing",
+     "thai": "การประมวลผลขั้นสูงแบบซูเปอร์คอมพิวเตอร์",
+     "level": "C1",
+     "example": "Rising SSD costs hit high-performance supercomputing deployments."
+    },
+    {
+     "word": "immutable",
+     "thai": "ซึ่งไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "Immutable system images protect server infrastructure from unintended modifications."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1197,
+   "ts": "2026-11-14T01:58:30.479626+07:00",
+   "title": "Another Linux kernel developer steps back from some duties due to overload",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/13/another-linux-kernel-developer-steps-back-from-some-duties-due-to-overload/5309628",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Discusses developer burnout within the Linux kernel project, which affects the long-term maintainability of core server OS software.",
+   "summary": "A prominent Linux kernel developer has announced a step back from certain maintainer duties due to excessive workload. The decision underscores growing concerns about developer burnout and sustainability within open-source infrastructure projects.",
+   "vocab": [
+    {
+     "word": "overload",
+     "thai": "ภาระงานที่มากเกินไป",
+     "level": "B2",
+     "example": "Developer overload can lead to delays in open-source software maintenance."
+    },
+    {
+     "word": "excessive",
+     "thai": "ที่มากเกินไป",
+     "level": "B2",
+     "example": "He stepped back from maintainer duties due to an excessive workload."
+    },
+    {
+     "word": "minority",
+     "thai": "ชนกลุ่มน้อยหรือส่วนน้อย",
+     "level": "B2",
+     "example": "Only a minority of developers supported banning AI tools completely."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1198,
+   "ts": "2026-11-14T01:58:30.479660+07:00",
+   "title": "Most affairs don't matter except to the people involved. Ex-Nvidia CEO Jensen's blunder will rock the world",
+   "link": "https://www.theregister.com/columnists/2026/11/13/most-affairs-dont-matter-except-to-the-people-involved-ex-nvidia-ceo-jensens-blunder-will-rock-the-world/5309649",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Provides commentary on market challenges and strategic missteps facing Nvidia in the AI hardware space.",
+   "summary": "An analysis argues that strategic mistakes by Nvidia leadership could create openings for rival chipmakers in the AI market. Any shift in Nvidia dominance could significantly alter hardware choices for AI data center infrastructure.",
+   "vocab": [
+    {
+     "word": "blunder",
+     "thai": "ข้อผิดพลาดร้ายแรง",
+     "level": "C1",
+     "example": "A strategic blunder by industry leaders can change market dynamics."
+    },
+    {
+     "word": "circling",
+     "thai": "วนเวียนรอบๆ",
+     "level": "B2",
+     "example": "Competitors are circling like vultures to capture market share."
+    },
+    {
+     "word": "sabotage",
+     "thai": "การขัดขวางหรือทำลาย",
+     "level": "C1",
+     "example": "Self-sabotage in product planning can weaken market dominance."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 7
   }
  ],
- "next_id": 1184,
+ "next_id": 1199,
  "vocab": [
   {
    "word": "default",
