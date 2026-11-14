@@ -2372,276 +2372,33 @@
   "https://isometricsf.com/",
   "https://twitter.com/flightradar24/status/2121347654714077605",
   "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
-  "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+  "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+  "https://www.datacenterdynamics.com/en/marketwatch/when-the-pressure-heats-up-what-really-cools-servers-down/",
+  "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+  "https://www.datacenterdynamics.com/en/news/ntt-docomo-to-pilot-data-center-heat-reuse-for-on-shore-shrimp-farm-in-japan/",
+  "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912",
+  "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+  "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+  "https://unsloth.ai/docs/models/qwen3.8",
+  "https://dfarq.homeip.net/what-happened-to-3com/",
+  "https://grounds.top/",
+  "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+  "https://monkeyisland.pages.dev/",
+  "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+  "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+  "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+  "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+  "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+  "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/",
+  "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+  "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+  "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+  "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
+  "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
+  "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+  "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
  ],
  "stories": [
-  {
-   "id": 788,
-   "ts": "2026-10-31T14:42:17.494071+07:00",
-   "title": "Tell HN: Scribd Breached",
-   "link": "https://news.ycombinator.com/item?id=50312756",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Reports a potential data breach at a major online document-sharing platform, which could expose user data.",
-   "summary": "Scribd has allegedly suffered a security breach, raising concerns about data safety on the platform. Users and administrators should monitor official updates regarding the incident.",
-   "vocab": [
-    {
-     "word": "breached",
-     "thai": "ถูกเจาะระบบ",
-     "level": "B2",
-     "example": "Reports indicate that the platform was breached by attackers."
-    },
-    {
-     "word": "platform",
-     "thai": "แพลตฟอร์ม",
-     "level": "B2",
-     "example": "The document platform hosts millions of files."
-    },
-    {
-     "word": "incident",
-     "thai": "เหตุการณ์",
-     "level": "B2",
-     "example": "Security teams are investigating the incident closely."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 5,
-   "msg_id": 469,
-   "sent_ts": "2026-11-01T14:25:29.289529+07:00"
-  },
-  {
-   "id": 789,
-   "ts": "2026-10-31T14:42:17.494102+07:00",
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "link": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "Massive cryptocurrency exchange hack involving billions of dollars, impacting global blockchain infrastructure and security.",
-   "summary": "Hackers stole over six billion dollars in cryptocurrency from Binance wallets across multiple blockchains in a very short time. Investigators suspect advanced state-sponsored groups are behind the massive heist.",
-   "vocab": [
-    {
-     "word": "investigation",
-     "thai": "การสืบสวน",
-     "level": "B2",
-     "example": "The company launched an internal investigation into the breach."
-    },
-    {
-     "word": "suspected",
-     "thai": "ที่สงสัยว่า",
-     "level": "B2",
-     "example": "Law enforcement agencies identified the suspected hackers."
-    },
-    {
-     "word": "analysis",
-     "thai": "การวิเคราะห์",
-     "level": "B2",
-     "example": "Blockchain analysis revealed how the funds were transferred."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 10,
-   "credibility": 9,
-   "msg_id": 454,
-   "sent_ts": "2026-10-31T14:42:18.102012+07:00",
-   "extra_links": [
-    "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/"
-   ]
-  },
-  {
-   "id": 790,
-   "ts": "2026-10-31T14:42:18.102302+07:00",
-   "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
-   "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "An aerospace company is pivoting to manufacture gas turbines for AI data centers, touching on power infrastructure constraints.",
-   "summary": "Boom Supersonic is facing delays with its airliner project while shifting focus toward building gas turbines for AI data centers. Early airline partners have expressed doubts about the original delivery schedule.",
-   "vocab": [
-    {
-     "word": "turbulence",
-     "thai": "ความปั่นป่วน",
-     "level": "C1",
-     "example": "The company is facing financial turbulence regarding its timeline."
-    },
-    {
-     "word": "commercial",
-     "thai": "เชิงพาณิชย์",
-     "level": "B2",
-     "example": "The aircraft is not yet ready for commercial use."
-    },
-    {
-     "word": "regulations",
-     "thai": "กฎข้อบังคับ",
-     "level": "B2",
-     "example": "New rules were proposed to ease aviation regulations."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 475,
-   "sent_ts": "2026-11-01T14:25:32.218875+07:00"
-  },
-  {
-   "id": 791,
-   "ts": "2026-10-31T14:42:30.736662+07:00",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly relevant to data center operations and long-term cloud data archiving strategies using magnetic tape.",
-   "summary": "Fujifilm is investing roughly $63 million to increase its magnetic tape production capacity fivefold by 2028. The surge in demand is driven by cloud operators and data centers needing secure, cost-effective archiving for exponential AI data growth.",
-   "vocab": [
-    {
-     "word": "beneficiary",
-     "thai": "ผู้ได้รับผลประโยชน์",
-     "level": "C1",
-     "example": "An unlikely beneficiary of the AI era: magnetic tape."
-    },
-    {
-     "word": "surge",
-     "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "Fujifilm attributes the surge in archiving demand to generative AI."
-    },
-    {
-     "word": "trove",
-     "thai": "คลังสมบัติ, ของสะสมจำนวนมาก",
-     "level": "C1",
-     "example": "Cloud giants rely on tape to back up vast troves of data."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 455,
-   "sent_ts": "2026-10-31T14:42:31.312052+07:00"
-  },
-  {
-   "id": 792,
-   "ts": "2026-10-31T14:42:31.312203+07:00",
-   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
-   "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Involves large-scale identity fraud utilizing AI automation, relevant to enterprise security and fraud detection.",
-   "summary": "The US Department of Justice has charged five individuals in a scheme where fraudsters used stolen identities and AI tools to create 'ghost students' and steal federal student loans. Officials estimate the operation affected hundreds of thousands of accounts.",
-   "vocab": [
-    {
-     "word": "fraudster",
-     "thai": "นักต้มตุ๋น, ผู้ฉ้อโกง",
-     "level": "C1",
-     "example": "Fraudsters who steal the identities of hundreds of Americans."
-    },
-    {
-     "word": "sensitive",
-     "thai": "ละเอียดอ่อน, เป็นความลับ",
-     "level": "B2",
-     "example": "Once they have that sensitive data, they fill out applications."
-    },
-    {
-     "word": "oblivious",
-     "thai": "ที่ไม่รู้ตัว, ไม่ได้ใส่ใจ",
-     "level": "C1",
-     "example": "Oblivious Americans stuck with bills years later."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 470,
-   "sent_ts": "2026-11-01T14:25:29.767797+07:00"
-  },
-  {
-   "id": 793,
-   "ts": "2026-10-31T14:42:31.312224+07:00",
-   "title": "Analysts find looming launch crisis is \"more severe\" than anticipated",
-   "link": "https://arstechnica.com/space/2026/10/analysts-find-looming-launch-crisis-is-more-severe-than-anticipated/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers aerospace launch capacity shortages, which impacts satellite operators and broader telecommunications.",
-   "summary": "A new industry report warns of a severe global shortage of rocket launches outside of China through the end of the decade. Rising demand from satellite operators and military needs is driving a shortfall of roughly 150 launches by 2030.",
-   "vocab": [
-    {
-     "word": "shortfall",
-     "thai": "จำนวนที่ขาดแคลน",
-     "level": "C1",
-     "example": "There will be a shortfall of about 150 launches compared to demand."
-    },
-    {
-     "word": "acutely",
-     "thai": "อย่างรุนแรง, อย่างเฉียบพลัน",
-     "level": "C1",
-     "example": "The report estimates the crunch will become most acute in 2028."
-    },
-    {
-     "word": "abate",
-     "thai": "บรรเทาลง, ลดลง",
-     "level": "C1",
-     "example": "It might not abate until sometime late in the 2030s."
-    }
-   ],
-   "status": "sent",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 476,
-   "sent_ts": "2026-11-01T14:25:32.695590+07:00"
-  },
-  {
-   "id": 794,
-   "ts": "2026-10-31T14:42:31.312241+07:00",
-   "title": "GM to pay $220 million after selling customer Smart Driver data",
-   "link": "https://arstechnica.com/cars/2026/10/gm-to-pay-220-million-after-selling-customer-smart-driver-data/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Deals with consumer data privacy violations and connected vehicle tracking settlements, impacting enterprise data practices.",
-   "summary": "General Motors has agreed to a $220 million settlement with Washington D.C. and 35 states over the unauthorized sharing of customer driving data with insurance brokers. The agreement follows previous regulatory enforcement and requires strict third-party compliance monitoring.",
-   "vocab": [
-    {
-     "word": "automaker",
-     "thai": "ผู้ผลิตรถยนต์",
-     "level": "B2",
-     "example": "Now the automaker has reached terms with the District of Columbia."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "A third party is required to assess GM’s compliance with the new privacy program."
-    },
-    {
-     "word": "prohibit",
-     "thai": "ห้าม",
-     "level": "B2",
-     "example": "The settlement was prohibiting them from sharing some kinds of driver data."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
   {
    "id": 795,
    "ts": "2026-10-31T21:00:29.212031+07:00",
@@ -17645,7 +17402,9 @@
    "extra_links": [
     "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
     "https://twitter.com/flightradar24/status/2121347654714077605",
-    "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+    "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
+    "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912",
+    "https://grounds.top/"
    ]
   },
   {
@@ -17865,60 +17624,338 @@
    "urgency": 3,
    "scale": 4,
    "credibility": 8
+  },
+  {
+   "id": 1206,
+   "ts": "2026-11-14T15:19:40.354864+07:00",
+   "title": "Humain raises $667m for AI buildout in Saudi Arabia",
+   "link": "https://www.datacenterdynamics.com/en/news/humain-raises-667m-for-ai-buildout-in-saudi-arabia/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It covers major financing for power and GPU infrastructure supporting AI data center deployments in Saudi Arabia.",
+   "summary": "Saudi AI firm Humain secured $667 million in financing from the National Infrastructure Fund to build power infrastructure and deploy GPUs. The investment supports substation buildouts and hardware procurement toward a 1GW computing target.",
+   "vocab": [
+    {
+     "word": "transmission",
+     "thai": "การส่งผ่าน (กระแสไฟฟ้า)",
+     "level": "B2",
+     "example": "The facility will finance the development of substations and transmission infrastructure."
+    },
+    {
+     "word": "viability",
+     "thai": "ความสามารถที่จะอยู่รอดหรือใช้งานได้จริง",
+     "level": "C1",
+     "example": "Commercial viability and economic value guide how capital is deployed into data centers."
+    },
+    {
+     "word": "bankability",
+     "thai": "ความพร้อมและความน่าเชื่อถือทางการเงินเพื่อการกู้ยืม",
+     "level": "C2",
+     "example": "Our role is to strengthen project readiness and bankability for digital infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1207,
+   "ts": "2026-11-14T15:19:40.354993+07:00",
+   "title": "Ggml v1.0.0",
+   "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "The major v1.0.0 release of GGML brings significant performance optimizations and API updates for AI inference backends.",
+   "summary": "The GGML library reached version 1.0.0, introducing FP8 support, GPU backend optimizations, and pruning deprecated APIs. These updates improve performance and memory handling for local and edge AI inference pipelines.",
+   "vocab": [
+    {
+     "word": "prune",
+     "thai": "ตัดส่วนที่ไม่จำเป็นออก",
+     "level": "B2",
+     "example": "The release pruned the deprecated public API to simplify future maintenance."
+    },
+    {
+     "word": "deterministic",
+     "thai": "ที่ให้ผลลัพธ์แน่นอนตามเงื่อนไขที่กำหนด",
+     "level": "C1",
+     "example": "The developers made the sorting algorithm deterministic for ties."
+    },
+    {
+     "word": "graceful",
+     "thai": "ที่ดำเนินไปอย่างราบรื่นหรือไม่ก่อให้เกิดความเสียหายรุนแรง",
+     "level": "B2",
+     "example": "The updated network protocol supports graceful failure on unreachable endpoints."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1208,
+   "ts": "2026-11-14T15:19:40.355037+07:00",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Allegations of artificial GPU demand manipulation could heavily influence enterprise hardware procurement strategies and AI hardware market valuations.",
+   "summary": "A report alleged that Nvidia artificially inflated GPU demand by funding AI startups to purchase its hardware and absorb semiconductor oversupply. If confirmed, this circular financing model could shake enterprise confidence in AI hardware pricing and availability.",
+   "vocab": [
+    {
+     "word": "scarcity",
+     "thai": "ความขาดแคลน",
+     "level": "B2",
+     "example": "The company allegedly engineered scarcity by investing in startups that bought its GPUs."
+    },
+    {
+     "word": "artificially",
+     "thai": "อย่างไม่เป็นธรรมชาติหรือโดยการปรุงแต่ง",
+     "level": "B2",
+     "example": "The report claims the supplier artificially inflated demand to clear excess inventory."
+    },
+    {
+     "word": "circular",
+     "thai": "เป็นวงกลมหรือหมุนเวียนไปมา",
+     "level": "B2",
+     "example": "Executives pushed to reduce circular financing agreements with partner startups."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 7
+  },
+  {
+   "id": 1209,
+   "ts": "2026-11-14T15:19:40.355067+07:00",
+   "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+   "link": "https://unsloth.ai/docs/models/qwen3.8",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "It offers updated quantized models allowing infrastructure engineers to deploy reasoning models locally with lower VRAM overhead.",
+   "summary": "Unsloth released updated quantizations for the Qwen3.8-27B model using an algorithm that boosts accuracy while fitting within consumer VRAM limits. This allows operations teams to run reasoning and coding models locally with reduced hardware requirements.",
+   "vocab": [
+    {
+     "word": "nested",
+     "thai": "ที่ซ้อนกันอยู่ข้างใน",
+     "level": "B2",
+     "example": "The update improved parsing for nested objects to make tool calls succeed."
+    },
+    {
+     "word": "methodology",
+     "thai": "ระเบียบวิธีหรือขั้นตอนการทำงาน",
+     "level": "C1",
+     "example": "Engineers followed the same benchmarking methodology for evaluating model performance."
+    },
+    {
+     "word": "comparable",
+     "thai": "ที่เปรียบเทียบกันได้หรือใกล้เคียงกัน",
+     "level": "B2",
+     "example": "The algorithm achieves higher accuracy at comparable model sizes."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1210,
+   "ts": "2026-11-14T15:23:19.497186+07:00",
+   "title": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+   "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Meta introduces an LLDB architecture to debug workloads across CPUs and GPUs, directly relevant to AI systems.",
+   "summary": "Meta developed a vendor-neutral accelerator plugin architecture for lldb-server to debug applications running across both CPUs and GPUs. This design treats host and accelerator execution as coordinated processes to streamline heterogeneous AI debugging.",
+   "vocab": [
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ของแพลตฟอร์มหรือเทคโนโลยี)",
+     "level": "B2",
+     "example": "The architecture evolved through contributions from across the accelerator ecosystem."
+    },
+    {
+     "word": "lockstep",
+     "thai": "การเคลื่อนที่พร้อมเพรียงกันอย่างเคร่งครัด",
+     "level": "C1",
+     "example": "A GPU may execute groups of processing lanes in lockstep."
+    },
+    {
+     "word": "unified",
+     "thai": "รวมเป็นหนึ่งเดียว",
+     "level": "B2",
+     "example": "The legacy debugger forced independent memory models into one unified space."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1211,
+   "ts": "2026-11-14T15:23:19.497271+07:00",
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "source": "Ars Technica",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on the national rollout of a cloud AI system for airspace management.",
+   "summary": "The FAA expanded its cloud-based AI system named SMART to help controllers optimize flight paths and curb travel delays across the country. While airline leadership supports the rollout, labor representatives noted that frontline controllers were not included in testing.",
+   "vocab": [
+    {
+     "word": "replicated",
+     "thai": "ทำซ้ำหรือลอกเลียนแบบผลลัพธ์",
+     "level": "C1",
+     "example": "Aviation officials hope positive trial results can be replicated nationwide."
+    },
+    {
+     "word": "optimal",
+     "thai": "เหมาะสมที่สุดหรือดีที่สุด",
+     "level": "C1",
+     "example": "The scheduling algorithm identifies optimal flight routes to reduce fuel burn."
+    },
+    {
+     "word": "conscientious",
+     "thai": "มีความรับผิดชอบสูงและรอบคอบ",
+     "level": "C1",
+     "example": "Air traffic controllers are conscientious professionals who must handle heavy workloads."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1212,
+   "ts": "2026-11-14T15:27:03.990597+07:00",
+   "title": "Windows 0-day dropped by disgruntled researcher hands hackers System rights",
+   "link": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/",
+   "source": "Ars Technica",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts Windows server and endpoint security with a newly dropped, active zero-day privilege escalation vulnerability.",
+   "summary": "A security researcher dropped a zero-day exploit named SignDrop affecting the Windows Common Log File System. The vulnerability lets standard users abuse Windows Defender file-creation mechanisms to escalate privileges to full System rights.",
+   "vocab": [
+    {
+     "word": "disgruntled",
+     "thai": "ไม่พอใจหรือไม่สบอารมณ์",
+     "level": "C2",
+     "example": "A Windows 0-day was dropped by a disgruntled researcher."
+    },
+    {
+     "word": "mitigation",
+     "thai": "การบรรเทาหรือลดผลกระทบ",
+     "level": "C1",
+     "example": "Funnily this legit security mitigation can be used against itself."
+    },
+    {
+     "word": "legitimate",
+     "thai": "ถูกต้องตามกฎหรือแบบแผน",
+     "level": "B2",
+     "example": "The exploit calls a legitimate Defender function for processing updates."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 741,
+   "sent_ts": "2026-11-14T15:27:04.511690+07:00"
+  },
+  {
+   "id": 1213,
+   "ts": "2026-11-14T15:27:04.511882+07:00",
+   "title": "Microsoft’s global outage may be worse than Amazon's or CrowdStrike's, expert says",
+   "link": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/",
+   "source": "Ars Technica",
+   "score": 10,
+   "watch": true,
+   "reason": "Massive ongoing global cloud outage affecting Microsoft 365, core infrastructure, and enterprise communications.",
+   "summary": "Microsoft is struggling with a massive ongoing global outage affecting Microsoft 365 cloud, email, and AI services worldwide. The disruption has paralyzed operations across hospitals, financial institutions, and government bodies, with Microsoft attributing it to failed server health checks.",
+   "vocab": [
+    {
+     "word": "hobbled",
+     "thai": "ถูกขัดขวางจนทำงานไม่สะดวก",
+     "level": "C1",
+     "example": "Justice systems were also hobbled by the disruption."
+    },
+    {
+     "word": "blindsided",
+     "thai": "ถูกจู่โจมโดยไม่ทันตั้งตัว",
+     "level": "C1",
+     "example": "Statements make clear that the tech giant was blindsided by the outage."
+    },
+    {
+     "word": "derailed",
+     "thai": "ทำให้หยุดชะงักหรือล้มเหลว",
+     "level": "C1",
+     "example": "The Supreme Court saw its legal work derailed."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 10,
+   "credibility": 10,
+   "msg_id": 742,
+   "sent_ts": "2026-11-14T15:27:05.013840+07:00"
+  },
+  {
+   "id": 1214,
+   "ts": "2026-11-14T15:27:05.014177+07:00",
+   "title": "Scientists warn 1.5°C climate change threshold could arrive by 2029",
+   "link": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
+   "source": "Ars Technica",
+   "score": 6,
+   "watch": false,
+   "reason": "Global climate change reporting; while power/sustainability matters broadly, it lacks direct infrastructure operational focus.",
+   "summary": "New reports released at COP31 warn that global warming could exceed the 1.5°C threshold as early as 2029 rather than 2045. Experts and activists noted that global policy interventions have failed to slow the rapid acceleration of greenhouse gas emissions.",
+   "vocab": [
+    {
+     "word": "stark",
+     "thai": "ชัดเจนจนน่าตกใจหรือเข้มงวด",
+     "level": "C1",
+     "example": "Two new reports offered a stark reminder of how far the world remains from containing global warming."
+    },
+    {
+     "word": "detached",
+     "thai": "แยกตัวออกไปหรือไม่เชื่อมโยงกับความจริง",
+     "level": "C1",
+     "example": "The actions from those in power here are completely detached from reality."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐานหรือจุดอ้างอิง",
+     "level": "B2",
+     "example": "Warming is now projected to cross that benchmark as soon as 2029."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 3,
+   "scale": 9,
+   "credibility": 9
   }
  ],
- "next_id": 1206,
+ "next_id": 1215,
  "vocab": [
-  {
-   "word": "mitigate",
-   "thai": "บรรเทาความรุนแรง",
-   "level": "C1",
-   "example": "Configuring the environment variable helps mitigate the more serious risks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "favorable",
-   "thai": "ที่เป็นประโยชน์, เอื้ออำนวย",
-   "level": "B2",
-   "example": "Under favorable conditions, some base stations could operate without drawing external electricity.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "patch",
-   "thai": "แพตช์, โปรแกรมแก้ไขข้อบกพร่อง",
-   "level": "B2",
-   "example": "Microsoft patches failed to fix on-prem SharePoint.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "existential",
-   "thai": "เกี่ยวกับความมีอยู่จริง",
-   "level": "C1",
-   "example": "These potential risks pose catastrophic or existential risks to humanity.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "myriad",
-   "thai": "จำนวนมากมายนับไม่ถ้วน",
-   "level": "C1",
-   "example": "Anthropic spends an inordinate amount of time laying out myriad risk factors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "safeguard",
    "thai": "มาตรการป้องกัน",
@@ -22864,6 +22901,56 @@
    "thai": "การเปลี่ยนผ่านระหว่างรุ่นผลิตภัณฑ์",
    "level": "B2",
    "example": "The company expects crossover between CS-3 and CS-4 to happen in Q1 of 2027.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disgruntled",
+   "thai": "ไม่พอใจหรือไม่สบอารมณ์",
+   "level": "C2",
+   "example": "A Windows 0-day was dropped by a disgruntled researcher.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "legitimate",
+   "thai": "ถูกต้องตามกฎหรือแบบแผน",
+   "level": "B2",
+   "example": "The exploit calls a legitimate Defender function for processing updates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hobbled",
+   "thai": "ถูกขัดขวางจนทำงานไม่สะดวก",
+   "level": "C1",
+   "example": "Justice systems were also hobbled by the disruption.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "blindsided",
+   "thai": "ถูกจู่โจมโดยไม่ทันตั้งตัว",
+   "level": "C1",
+   "example": "Statements make clear that the tech giant was blindsided by the outage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "derailed",
+   "thai": "ทำให้หยุดชะงักหรือล้มเหลว",
+   "level": "C1",
+   "example": "The Supreme Court saw its legal work derailed.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
