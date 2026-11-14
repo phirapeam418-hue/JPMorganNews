@@ -2417,7 +2417,15 @@
   "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
   "https://beyondloom.com/blog/postscript.html",
   "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
-  "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
+  "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/",
+  "https://www.crissyfield.de/research/lovable-en/",
+  "https://x.com/i/broadcasts/2brajgZlOKRMka",
+  "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+  "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+  "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+  "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+  "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+  "https://www.forethought.org/research/will-we-really-put-data-centers-in-space"
  ],
  "stories": [
   {
@@ -17626,9 +17634,81 @@
    "urgency": 4,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 1222,
+   "ts": "2026-11-15T04:49:40.336225+07:00",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "link": "https://www.crissyfield.de/research/lovable-en/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An investigation found thousands of AI-built applications leaking backend database data due to missing authentication controls.",
+   "summary": "A security analysis of over 150,000 apps built on the Lovable AI platform revealed widespread exposure of sensitive data like emails and private messages. The issue stems from default frontend database queries lacking proper row-level access control.",
+   "vocab": [
+    {
+     "word": "unauthorized",
+     "thai": "ที่ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "Is that data protected against unauthorized access?"
+    },
+    {
+     "word": "confidential",
+     "thai": "ที่เป็นความลับ",
+     "level": "B2",
+     "example": "We found many cases where personal and confidential information was accessible without logging in."
+    },
+    {
+     "word": "misconfigurations",
+     "thai": "การกำหนดค่าระบบที่ผิดพลาด",
+     "level": "C1",
+     "example": "Similar misconfigurations may occur there too, but we did not examine them."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1223,
+   "ts": "2026-11-15T04:49:40.336314+07:00",
+   "title": "Will we put data centers in space?",
+   "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Analysis of orbital data centers as an alternative solution to severe terrestrial grid and cooling bottlenecks.",
+   "summary": "A technical study evaluated the economic and practical feasibility of placing AI compute clusters in orbit to bypass power grid delays. While orbital solar and radiative cooling show promise, bandwidth limits and unserviceable hardware will likely restrict early space facilities to inference.",
+   "vocab": [
+    {
+     "word": "disentangle",
+     "thai": "คลี่คลาย หรือแยกแยะออกจากกัน",
+     "level": "C1",
+     "example": "Here we try to disentangle the hype from reality."
+    },
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้ในการปฏิบัติ",
+     "level": "B2",
+     "example": "The study provides a sober assessment of technical and economic feasibility."
+    },
+    {
+     "word": "exfiltration",
+     "thai": "การลักลอบนำข้อมูลออกจากระบบ",
+     "level": "C2",
+     "example": "Orbital facilities may be more secure against physical data exfiltration."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 1222,
+ "next_id": 1224,
  "vocab": [
   {
    "word": "safeguard",
