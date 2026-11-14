@@ -2396,313 +2396,30 @@
   "https://arstechnica.com/science/2026/11/its-the-end-of-the-world-as-we-know-it-per-a-physicists-1960-prediction/",
   "https://arstechnica.com/culture/2026/11/screenless-gps-slate-auto-says-remember-the-road-atlas/",
   "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/",
-  "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/"
+  "https://arstechnica.com/space/2026/11/rocket-report-starship-set-for-historic-test-flight-a-century-of-electron/",
+  "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+  "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+  "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+  "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+  "https://www.theregister.com/saas/2026/11/14/microsofts-school-email-bill-gives-rivals-something-to-smile-about/5309296",
+  "https://www.theregister.com/security/2026/11/14/big-tech-takes-a-beating-as-online-safety-experts-accuse-companies-of-doing-bare-minimum/5309302",
+  "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+  "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+  "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+  "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+  "https://gitlab.com/snipedbywifi/terminactory",
+  "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+  "https://github.com/FURSOY/fursoy-cpu",
+  "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+  "https://github.com/paul-nameless/agweb",
+  "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+  "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+  "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+  "https://beyondloom.com/blog/postscript.html",
+  "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/",
+  "https://arstechnica.com/science/2026/11/winemakers-are-learning-that-conservation-can-be-good-for-business/"
  ],
  "stories": [
-  {
-   "id": 795,
-   "ts": "2026-10-31T21:00:29.212031+07:00",
-   "title": "Europe’s AI ambitions are hitting a power bottleneck",
-   "link": "https://www.datacenterdynamics.com/en/opinions/europes-ai-ambitions-are-hitting-a-power-bottleneck/",
-   "source": "DCD",
-   "score": 9,
-   "watch": false,
-   "reason": "Analyzes how Europe's power grid bottlenecks and energy limitations threaten data center expansion and AI infrastructure growth.",
-   "summary": "Europe's rapid data center and AI expansion is hitting severe power grid bottlenecks and capacity limits. Major energy shortfalls and slow grid upgrades risk stalling infrastructure growth and pushing operators toward alternative power sources.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวด / อุปสรรคที่ทำให้ช้าลง",
-     "level": "B2",
-     "example": "Unprepared and outdated grid infrastructure is a serious bottleneck for the power reaching where it needs to go."
-    },
-    {
-     "word": "curtailment",
-     "thai": "การลดกำลังการผลิตลง",
-     "level": "C1",
-     "example": "In Spain, around 16 percent of solar generation was curtailed in the first quarter of 2026 alone."
-    },
-    {
-     "word": "phenomenon",
-     "thai": "ปรากฏการณ์",
-     "level": "B2",
-     "example": "Major energy projects being unable to connect to the grid is not a new phenomenon."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 456,
-   "sent_ts": "2026-10-31T21:00:30.401568+07:00"
-  },
-  {
-   "id": 796,
-   "ts": "2026-10-31T21:00:30.401922+07:00",
-   "title": "Goth aesthetic gone wild: a user's self-inflicted black screen of non-death in Windows 3.1’s",
-   "link": "https://www.theregister.com/offbeat/2026/10/31/goth-aesthetic-gone-wild-a-users-self-inflicted-black-screen-of-non-death-in-windows-31s/5306592",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "A weekly industry news roundup covering various minor tech and open-source updates with low direct impact.",
-   "summary": "The Register published its regular weekly roundup covering recent developments in AI sentiment, cybersecurity incidents, and free software projects. The eclectic mix includes updates on Nvidia's rise, security patches, and alternative operating systems.",
-   "vocab": [
-    {
-     "word": "eclectic",
-     "thai": "หลากหลาย / คละแบบ",
-     "level": "C1",
-     "example": "The roundup offers an eclectic mix of news covering AI, infosec, and open-source software."
-    },
-    {
-     "word": "sentiment",
-     "thai": "ความรู้สึก / ทัศนคติที่มีต่อสิ่งใดสิ่งหนึ่ง",
-     "level": "B2",
-     "example": "The memo from Amazon created a bleak sentiment among software engineers regarding their future."
-    },
-    {
-     "word": "incident",
-     "thai": "เหตุการณ์",
-     "level": "B2",
-     "example": "Several security incidents highlighted the ongoing challenges of securing enterprise infrastructure."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8,
-   "extra_links": [
-    "https://www.theregister.com/ai-and-ml/2026/10/31/amazon-sends-chills-through-its-workforce-with-mixed-message-memo-about-ai-use-corey-quinn/5306804",
-    "https://www.theregister.com/offbeat/2026/10/31/chocolate-caterpillar-or-chocolate-teapot-top-up-the-disk-space-for-windows-10-to-find-out/5306103"
-   ]
-  },
-  {
-   "id": 797,
-   "ts": "2026-10-31T21:00:30.401965+07:00",
-   "title": "Backbone of a beast – charting Nvidia's rise to networking titan",
-   "link": "https://www.theregister.com/networks/2026/10/31/backbone-of-a-beast-charting-nvidias-rise-to-networking-titan/5306499",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Examines Nvidia's massive growth in data center networking and Ethernet sales following its strategic Mellanox acquisition.",
-   "summary": "Nvidia has transformed from a GPU manufacturer into a dominant networking titan, with quarterly networking revenues rivaling Cisco. This success stems from its 2019 acquisition of Mellanox and a tightly integrated compute-and-networking design strategy optimized for AI clusters.",
-   "vocab": [
-    {
-     "word": "acquisition",
-     "thai": "การเข้าซื้อกิจการ",
-     "level": "B2",
-     "example": "Jensen Huang started working towards this status with the $6.9 billion acquisition of Mellanox."
-    },
-    {
-     "word": "interconnect",
-     "thai": "ระบบเชื่อมต่อโครงข่าย",
-     "level": "C1",
-     "example": "For large AI clusters, Nvidia needed high-performance interconnect solutions to move massive datasets."
-    },
-    {
-     "word": "architecture",
-     "thai": "โครงสร้างสถาปัตยกรรม",
-     "level": "B2",
-     "example": "Customers choose Nvidia for its tightly integrated compute and networking architecture."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 457,
-   "sent_ts": "2026-10-31T21:00:30.941369+07:00"
-  },
-  {
-   "id": 798,
-   "ts": "2026-10-31T21:00:30.941683+07:00",
-   "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-   "link": "https://piefed.world/post/1503394",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Reports active security vulnerabilities in a popular Signal client fork due to missing upstream updates.",
-   "summary": "Molly, a popular fork of the Signal secure messenger, has remained unmaintained for months and is currently vulnerable to known exploits. Users are advised to switch to mainline Signal until regular maintenance resumes.",
-   "vocab": [
-    {
-     "word": "vulnerable",
-     "thai": "เสี่ยงต่ออันตราย / เปราะบาง",
-     "level": "B2",
-     "example": "Molly has not been updated in months and remains vulnerable to attacks fixed in mainline Signal."
-    },
-    {
-     "word": "exploit",
-     "thai": "ช่องโหว่ที่ถูกใช้โจมตี",
-     "level": "C1",
-     "example": "Take for example the latest exploit disclosed in October, which was promptly fixed in Signal."
-    },
-    {
-     "word": "maintain",
-     "thai": "ดูแลรักษา / ปรับปรุงให้อยู่ในสภาพดี",
-     "level": "B2",
-     "example": "Users should ensure their messaging applications are actively maintained by developers."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 471,
-   "sent_ts": "2026-11-01T14:25:30.250490+07:00"
-  },
-  {
-   "id": 799,
-   "ts": "2026-10-31T21:00:30.941708+07:00",
-   "title": "We Took over ChatGPT Accounts",
-   "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "Details a critical zero-click vulnerability in ChatGPT allowing complete account takeover via shared conversation links.",
-   "summary": "Security researchers discovered a critical vulnerability in ChatGPT that allowed attackers to take over user accounts simply by sending a malicious shared link. OpenAI quickly patched the flaw and classified it as a P1 security issue.",
-   "vocab": [
-    {
-     "word": "bypass",
-     "thai": "หลีกเลี่ยง / ลัดผ่านระบบความปลอดภัย",
-     "level": "B2",
-     "example": "By bypassing ChatGPT's sandbox, researchers were able to execute arbitrary code."
-    },
-    {
-     "word": "authenticate",
-     "thai": "พิสูจน์ตัวตน",
-     "level": "C1",
-     "example": "The payload executed with full access to the victim's authenticated web session."
-    },
-    {
-     "word": "isolate",
-     "thai": "แยกออกจากส่วนอื่น",
-     "level": "B2",
-     "example": "Preview code is supposed to be safely isolated inside a restricted frame."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 458,
-   "sent_ts": "2026-10-31T21:00:31.521529+07:00"
-  },
-  {
-   "id": 800,
-   "ts": "2026-10-31T21:00:45.430087+07:00",
-   "title": "Prospero: A new coding harness for a more civilized age",
-   "link": "https://nullprogram.com/blog/2026/10/31/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Introduces a lightweight coding harness for LLMs and local AI agents, relevant to DevOps and AI tooling workflows.",
-   "summary": "A developer has built Prospero, a lightweight C++ coding harness designed to run local AI agents efficiently without massive memory overhead. It offers desktop control, subagent coordination, and independent headless execution modes.",
-   "vocab": [
-    {
-     "word": "inexplicable",
-     "thai": "อธิบายไม่ได้",
-     "level": "C1",
-     "example": "For inexplicable reasons most are built with web stacks, and consume enormous amounts of memory."
-    },
-    {
-     "word": "aficionado",
-     "thai": "ผู้ที่ชื่นชอบ",
-     "level": "C1",
-     "example": "Dark mode aficionados are covered, too."
-    },
-    {
-     "word": "coordinate",
-     "thai": "ประสานงาน",
-     "level": "B2",
-     "example": "Agents can message one another and coordinate on tasks."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 3,
-   "credibility": 7
-  },
-  {
-   "id": 801,
-   "ts": "2026-10-31T21:00:45.430166+07:00",
-   "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-   "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Reports a direct security breach into Anthropic's internal systems by a startup using AI agents, highlighting vulnerabilities.",
-   "summary": "A cybersecurity startup accessed Anthropic's internal administrative systems in under 12 hours using AI agents, exposing employee details and messages. Anthropic quickly revoked access and stated that customer data and core model weights remained unaffected.",
-   "vocab": [
-    {
-     "word": "vulnerability",
-     "thai": "จุดอ่อน, ช่องโหว่",
-     "level": "B2",
-     "example": "The incident was discovered during a security test conducted to identify vulnerabilities."
-    },
-    {
-     "word": "administrative",
-     "thai": "เกี่ยวกับการบริหาร",
-     "level": "B2",
-     "example": "Cathedral used AI agents to find weaknesses in business software used by Anthropic for administrative tasks."
-    },
-    {
-     "word": "implication",
-     "thai": "ผลกระทบที่ตามมา",
-     "level": "B2",
-     "example": "Anthropic argued that Cathedral had overstated the national security implications of the incident."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 459,
-   "sent_ts": "2026-10-31T21:00:45.957380+07:00"
-  },
-  {
-   "id": 802,
-   "ts": "2026-10-31T21:00:45.957709+07:00",
-   "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-   "link": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Discusses formal verification, Lean, and AI-driven software correctness at AWS, directly impacting reliable infrastructure engineering.",
-   "summary": "AWS scientist Leo de Moura discusses how AI and formal verification tools like Lean are transforming software engineering by replacing trust with machine-checked proofs. The interview highlights the growing need for rigorous specifications as AI code generation accelerates.",
-   "vocab": [
-    {
-     "word": "specification",
-     "thai": "ข้อกำหนดรายละเอียด",
-     "level": "B2",
-     "example": "They discuss the growing importance of specifications and machine-checked proofs."
-    },
-    {
-     "word": "conjecture",
-     "thai": "ข้อสันนิษฐาน",
-     "level": "C2",
-     "example": "You can state open conjectures in math, and you can provide proofs of these claims."
-    },
-    {
-     "word": "accelerate",
-     "thai": "เร่งความเร็ว",
-     "level": "B2",
-     "example": "As code generation speeds up, who tests the output?"
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 472,
-   "sent_ts": "2026-11-01T14:25:30.745635+07:00"
-  },
   {
    "id": 803,
    "ts": "2026-11-01T01:16:24.859957+07:00",
@@ -17404,7 +17121,8 @@
     "https://twitter.com/flightradar24/status/2121347654714077605",
     "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
     "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912",
-    "https://grounds.top/"
+    "https://grounds.top/",
+    "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/"
    ]
   },
   {
@@ -17952,9 +17670,261 @@
    "urgency": 3,
    "scale": 9,
    "credibility": 9
+  },
+  {
+   "id": 1215,
+   "ts": "2026-11-14T23:18:05.770096+07:00",
+   "title": "Developer Westend Real Assets buys two data centers in Hamburg",
+   "link": "https://www.datacenterdynamics.com/en/news/developer-westend-real-assets-buys-two-data-centers-in-hamburg/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Routine regional data center real estate acquisition in Germany with moderate infrastructure relevance.",
+   "summary": "Real estate investor Westend Real Assets acquired two operational colocation data centers in Hamburg, Germany, for over €100 million. The acquisition expands the firm's German digital infrastructure portfolio across two established facilities.",
+   "vocab": [
+    {
+     "word": "capitalizing",
+     "thai": "การฉวยโอกาสหรือใช้ประโยชน์จาก",
+     "level": "C1",
+     "example": "By acquiring the two Hamburg sites, we are capitalizing on current market opportunities."
+    },
+    {
+     "word": "portfolio",
+     "thai": "พอร์ตการลงทุนหรือกลุ่มสินทรัพย์",
+     "level": "B2",
+     "example": "The acquisition strengthens the fund's data center portfolio."
+    },
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทย่อย",
+     "level": "B2",
+     "example": "Westend Real Assets is a subsidiary of Westend Bank."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1216,
+   "ts": "2026-11-14T23:18:05.770144+07:00",
+   "title": "AirTrunk signs MoU for 1.8GW of data center capacity in Andhra Pradesh, India",
+   "link": "https://www.datacenterdynamics.com/en/news/airtrunk-signs-mou-for-18gw-of-data-center-capacity-in-andhra-pradesh-india/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Announcement of massive 1.8GW proposed data center campuses highlights rapid APAC AI infrastructure growth.",
+   "summary": "AirTrunk has signed an agreement to develop two massive data center campuses totaling 1.8GW in Andhra Pradesh, India. The project represents a significant expansion of hyperscale digital infrastructure in the region following AirTrunk's entry into the Indian market.",
+   "vocab": [
+    {
+     "word": "memorandum",
+     "thai": "บันทึกข้อตกลง",
+     "level": "C1",
+     "example": "AirTrunk signed a Memorandum of Understanding for two proposed data center campuses."
+    },
+    {
+     "word": "proposed",
+     "thai": "ที่ถูกเสนอหรือวางแผนไว้",
+     "level": "B2",
+     "example": "The agreement was signed for two proposed data center campuses in India."
+    },
+    {
+     "word": "outlining",
+     "thai": "การสรุปโครงร่างหรือกำหนดแผนงาน",
+     "level": "B2",
+     "example": "The company outlined plans for major data center capacity across the region."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1217,
+   "ts": "2026-11-14T23:18:05.770175+07:00",
+   "title": "European Union offers to build data center for Moldova",
+   "link": "https://www.datacenterdynamics.com/en/news/european-union-offers-to-build-data-center-for-moldova/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The EU's proposed national data center for Moldova highlights international efforts to secure sovereign infrastructure against cyber threats.",
+   "summary": "The European Union has proposed building a secure government data center for Moldova to protect citizen data from cyberattacks. The initiative aims to strengthen regional digital infrastructure and connect the nation to the European AI ecosystem.",
+   "vocab": [
+    {
+     "word": "hypothetical",
+     "thai": "สมมติขึ้นหรือเชิงสมมติฐาน",
+     "level": "C1",
+     "example": "The cost of the hypothetical data center proposed by the EU remains unknown."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (เครือข่ายองค์ประกอบ)",
+     "level": "B2",
+     "example": "The center will help connect Moldova to the European artificial intelligence ecosystem."
+    },
+    {
+     "word": "consolidate",
+     "thai": "รวมเข้าด้วยกันให้มั่นคง",
+     "level": "C1",
+     "example": "The nation needs a government facility to consolidate public digital services."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1218,
+   "ts": "2026-11-14T23:18:05.770318+07:00",
+   "title": "PyPI's redesigned project pages with clearer security signals are now live",
+   "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "PyPI's updated interface directly impacts DevOps security workflows by highlighting software supply chain provenance and build attestations.",
+   "summary": "PyPI has launched redesigned package pages featuring clear security signals to display digital attestations and provenance data. The update helps developers visually verify package origins and build integrity to defend against supply chain attacks.",
+   "vocab": [
+    {
+     "word": "attestation",
+     "thai": "การรับรองความถูกต้อง",
+     "level": "C2",
+     "example": "PyPI displays per-file attestations to verify package origins."
+    },
+    {
+     "word": "provenance",
+     "thai": "แหล่งที่มาประวัติความเป็นมา",
+     "level": "C1",
+     "example": "Digital attestations confirm the verifiable record of a release file's provenance."
+    },
+    {
+     "word": "verifiable",
+     "thai": "ซึ่งสามารถตรวจสอบความถูกต้องได้",
+     "level": "C1",
+     "example": "Attestations provide a verifiable record of where the build file originated."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 1219,
+   "ts": "2026-11-14T23:22:13.504371+07:00",
+   "title": "Advancing science and engineering with Antigravity's /teamwork",
+   "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Google introduced multi-agent collaborative AI workflows for research and engineering, which has mild relevance to AI operations and software engineering.",
+   "summary": "Google Research announced Antigravity teamwork, a multi-agent AI system designed to help human experts solve complex problems in math and engineering. The tool uses Gemini models and context partitioning to automate search, coding, and verification tasks.",
+   "vocab": [
+    {
+     "word": "partition",
+     "thai": "แบ่งออกเป็นส่วนๆ",
+     "level": "C1",
+     "example": "To prevent context loss, teamwork partitions context by construction."
+    },
+    {
+     "word": "audit",
+     "thai": "ตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Critics and auditors challenge and verify results from clean contexts."
+    },
+    {
+     "word": "trajectory",
+     "thai": "เส้นทางการพัฒนาหรือการเคลื่อนที่",
+     "level": "C1",
+     "example": "The workflow is a sequential solve-and-verify loop refined from prior trajectories."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1220,
+   "ts": "2026-11-14T23:22:13.504446+07:00",
+   "title": "Show HN: Fursoy – Out-of-order RV64IMAFDV core in SystemVerilog (Linux 6.6)",
+   "link": "https://github.com/FURSOY/fursoy-cpu",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Open-source 64-bit out-of-order RISC-V processor implementation booting Linux provides technical insight into custom chip design relevant to server hardware engineering.",
+   "summary": "A developer released Fursoy, an open-source 64-bit out-of-order RISC-V processor implemented in SystemVerilog that boots mainline Linux 6.6. The chip design features advanced vector extensions, memory management units, and synthesizes at 500 MHz on a 45nm process.",
+   "vocab": [
+    {
+     "word": "coherent",
+     "thai": "สอดคล้องกันตามหลักตรรกะ/แคช",
+     "level": "C1",
+     "example": "Page table walks execute with non-destructive L1D dirty snoop coherency."
+    },
+    {
+     "word": "speculative",
+     "thai": "การทำงานล่วงหน้าโดยคาดการณ์ไว้ก่อน",
+     "level": "C1",
+     "example": "The core features 128 speculative free-list entries for RAT rollback."
+    },
+    {
+     "word": "execution",
+     "thai": "การประมวลผลหรือการทำงานของคำสั่ง",
+     "level": "B2",
+     "example": "Single-cycle execution is supported by the branch unit."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1221,
+   "ts": "2026-11-14T23:23:55.470267+07:00",
+   "title": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
+   "link": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Practical technical guide on multi-node AI model serving across Nvidia DGX hardware, directly relevant to AI infrastructure engineering.",
+   "summary": "Engineers demonstrated serving the 753-billion parameter GLM-5.3 model using vLLM across two Nvidia DGX stations connected via high-speed RDMA. This setup uses tensor parallelism across GB300 GPUs to maintain high token generation speeds without offloading weights to CPU memory.",
+   "vocab": [
+    {
+     "word": "concurrent",
+     "thai": "ที่เกิดขึ้นพร้อมกัน",
+     "level": "B2",
+     "example": "This post shows how to measure behavior under concurrent load."
+    },
+    {
+     "word": "baseline",
+     "thai": "เกณฑ์มาตรฐาน",
+     "level": "B2",
+     "example": "By the end, you will have a baseline for how it behaves under load."
+    },
+    {
+     "word": "quantized",
+     "thai": "ที่ถูกปรับลดความละเอียดของข้อมูล",
+     "level": "C1",
+     "example": "The model is a quantized version of Z.ai's mixture-of-experts model."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 1215,
+ "next_id": 1222,
  "vocab": [
   {
    "word": "safeguard",
