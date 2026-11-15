@@ -2462,120 +2462,6 @@
  ],
  "stories": [
   {
-   "id": 819,
-   "ts": "2026-11-02T00:25:15.910969+07:00",
-   "title": "Beyond the grid: the maintenance challenges putting the data center boom at risk",
-   "link": "https://www.datacenterdynamics.com/en/opinions/beyond-the-grid-the-maintenance-challenges-putting-the-data-center-boom-at-risk/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Basic building maintenance and environmental hazards directly affect data center uptime, cooling efficiency, and physical cabling.",
-   "summary": "Operators rushing to build data centers are frequently neglecting basic building maintenance like vegetation management, drainage, and pest control. These unaddressed facilities issues can cause serious outages through blocked HVAC airflow, wildfire hazards, and rodents chewing fiber cabling.",
-   "vocab": [
-    {
-     "word": "innocuous",
-     "thai": "ซึ่งดูเหมือนไม่เป็นอันตราย",
-     "level": "C2",
-     "example": "These innocuous building maintenance issues are flying under the radar."
-    },
-    {
-     "word": "exacerbate",
-     "thai": "ทำให้แย่ลงหรือทวีความรุนแรง",
-     "level": "C1",
-     "example": "In flood-prone areas, faulty irrigation systems can also exacerbate risk."
-    },
-    {
-     "word": "gnaw",
-     "thai": "กัดแทะ",
-     "level": "C1",
-     "example": "A rat infestation gnawing through cable fiber trunks can easily cause serious outages."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 484,
-   "sent_ts": "2026-11-02T08:06:45.318846+07:00"
-  },
-  {
-   "id": 820,
-   "ts": "2026-11-02T00:28:10.259756+07:00",
-   "title": "One-minute frequency disturbances from synchronization in power systems",
-   "link": "https://www.nature.com/articles/s41560-026-02144-0",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Critical research directly linking UPS and data center power synchronization to global power grid frequency disturbances.",
-   "summary": "Researchers discovered that clock-synchronized controls in UPS systems and data centers trigger 1-minute power oscillations across electrical grids worldwide. This unintended synchronization strains grid stability and hydropower infrastructure, requiring stricter frequency controls as data center capacity grows.",
-   "vocab": [
-    {
-     "word": "oscillatory",
-     "thai": "ซึ่งแกว่งไปมาเป็นจังหวะ",
-     "level": "C1",
-     "example": "Grid-frequency time series worldwide exhibit a persistent 1-min oscillatory pattern."
-    },
-    {
-     "word": "intertwined",
-     "thai": "เกี่ยวพันกันอย่างแยกไม่ออก",
-     "level": "C1",
-     "example": "Physical devices and digital control are deeply intertwined."
-    },
-    {
-     "word": "coherently",
-     "thai": "อย่างสอดคล้องประสานกัน",
-     "level": "C1",
-     "example": "Even benign control routines can become systemically relevant when many devices act coherently."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 485,
-   "sent_ts": "2026-11-02T08:06:45.831952+07:00"
-  },
-  {
-   "id": 821,
-   "ts": "2026-11-02T00:28:10.259815+07:00",
-   "title": "Alleged Mythos Class Anthropic Checkpoint Leak",
-   "link": "https://huggingface.co/burner22/numbat",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Significant claim of an unreleased frontier AI model weights leak, carrying high impact for AI infrastructure teams.",
-   "summary": "An alleged internal checkpoint for Anthropic's next-generation 14-trillion-parameter model codenamed numbat was uploaded to a public repository with implementation scripts. If authentic, the massive leak reveals critical architecture specifications and training state from one of the industry's largest AI infrastructure runs.",
-   "vocab": [
-    {
-     "word": "alleged",
-     "thai": "ซึ่งถูกกล่าวอ้าง (แต่ยังไม่ได้รับการพิสูจน์)",
-     "level": "C1",
-     "example": "Alleged Mythos Class Anthropic Checkpoint Leak."
-    },
-    {
-     "word": "deterministic",
-     "thai": "ที่มีผลลัพธ์แน่นอนตามเงื่อนไขที่กำหนด",
-     "level": "C1",
-     "example": "File sizes, tensor counts, and index entries are all deterministic and self-consistent."
-    },
-    {
-     "word": "payloads",
-     "thai": "ข้อมูลเนื้อหาหลักที่ส่งผ่านหรือจัดเก็บ",
-     "level": "B2",
-     "example": "Scale blocks decode their payloads within RTNE bounds."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 7,
-   "credibility": 6,
-   "msg_id": 487,
-   "sent_ts": "2026-11-02T14:36:24.865545+07:00"
-  },
-  {
    "id": 822,
    "ts": "2026-11-02T04:30:05.574312+07:00",
    "title": "Tips for more effective fuzz testing with AFL++",
@@ -17908,7 +17794,7 @@
    "thai": "ค่อยๆ ลดลง",
    "level": "C1",
    "example": "As the ice dwindles, there is less freshwater available during the melt season.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18278,7 +18164,7 @@
    "thai": "ขาเข้า",
    "level": "B2",
    "example": "Your origin keeps its private IP with no inbound firewall exception required.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18388,7 +18274,7 @@
    "thai": "ผู้ได้รับผลประโยชน์",
    "level": "C1",
    "example": "An unlikely beneficiary of the AI era: magnetic tape.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19408,7 +19294,7 @@
    "thai": "ตามทฤษฎี, ยังไม่เกิดขึ้นจริง",
    "level": "B2",
    "example": "Such massive capacity figures remain theoretical until built and operational.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20538,7 +20424,7 @@
    "thai": "การจารกรรม",
    "level": "C1",
    "example": "US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22580,26 +22466,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6298557676884329544": {
-   "word": "standoff",
-   "correct": 1
-  },
-  "6298557676884329545": {
-   "word": "surplus",
-   "correct": 0
-  },
-  "6298557676884329546": {
-   "word": "groundbreaking",
-   "correct": 0
-  },
-  "6298557676884329547": {
-   "word": "reintroduce",
-   "correct": 3
-  },
-  "6298557676884329548": {
-   "word": "allocation",
-   "correct": 0
-  },
   "6300737102204109461": {
    "word": "apprehensive",
    "correct": 2
@@ -22779,6 +22645,26 @@
   "6325854801095557924": {
    "word": "negotiate",
    "correct": 0
+  },
+  "6327851329528006133": {
+   "word": "inbound",
+   "correct": 1
+  },
+  "6327851329528006134": {
+   "word": "espionage",
+   "correct": 0
+  },
+  "6327851329528006135": {
+   "word": "beneficiary",
+   "correct": 0
+  },
+  "6327851329528006136": {
+   "word": "dwindles",
+   "correct": 2
+  },
+  "6327851329528006137": {
+   "word": "theoretical",
+   "correct": 3
   }
  },
  "fail": {
