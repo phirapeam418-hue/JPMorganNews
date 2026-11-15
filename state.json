@@ -2425,83 +2425,16 @@
   "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
   "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
   "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
-  "https://www.forethought.org/research/will-we-really-put-data-centers-in-space"
+  "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
+  "https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912",
+  "https://www.spacex.com/launches/starship-flight-15",
+  "https://retrocomputing.stackexchange.com/questions/17957",
+  "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+  "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
+  "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+  "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
  ],
  "stories": [
-  {
-   "id": 811,
-   "ts": "2026-11-01T05:57:53.377105+07:00",
-   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-   "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "This is a critical remote kernel vulnerability affecting TCP handshakes across major Linux server distributions.",
-   "summary": "A critical CVSS 9.8 use-after-free vulnerability in the Linux kernel allows remote attackers to execute code during TCP handshakes. Enterprise distributions like Ubuntu and RHEL remain unpatched, posing an immediate risk to virtually all Linux servers.",
-   "vocab": [
-    {
-     "word": "unauthenticated",
-     "thai": "ซึ่งไม่ได้รับการยืนยันตัวตน",
-     "level": "C1",
-     "example": "A remote, unauthenticated peer can exploit the kernel bug during the handshake."
-    },
-    {
-     "word": "severity",
-     "thai": "ระดับความรุนแรง",
-     "level": "B2",
-     "example": "The security team raised the severity of the flaw to critical."
-    },
-    {
-     "word": "bulletin",
-     "thai": "ประกาศหรือแถลงการณ์แจ้งเตือนอย่างเป็นทางการ",
-     "level": "C1",
-     "example": "Red Hat's security bulletin warned that attackers could trigger remote code execution."
-    }
-   ],
-   "status": "sent",
-   "impact": 10,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 466,
-   "sent_ts": "2026-11-01T10:01:59.850588+07:00"
-  },
-  {
-   "id": 812,
-   "ts": "2026-11-01T05:57:53.377165+07:00",
-   "title": "It's the Memory Latency, Stupid",
-   "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "This is an architectural deep dive into CPU cache lines and memory latency for database query optimization.",
-   "summary": "The author explains how slow memory access causes CPUs to stall during large database aggregations despite showing 100% usage. Understanding CPU cache efficiency helps systems engineers diagnose server bottlenecks and optimize high-throughput workloads.",
-   "vocab": [
-    {
-     "word": "latency",
-     "thai": "เวลาแฝงหรือความล่าช้าในการตอบสนอง",
-     "level": "B2",
-     "example": "Memory accesses are orders of magnitude slower due to latency."
-    },
-    {
-     "word": "saturated",
-     "thai": "อิ่มตัวเต็มที่จนไม่สามารถรองรับเพิ่มได้",
-     "level": "C1",
-     "example": "The meter showed high load, but the CPU itself was not fully saturated."
-    },
-    {
-     "word": "aggregation",
-     "thai": "การรวบรวมหรือประมวลผลข้อมูลเป็นกลุ่ม",
-     "level": "C1",
-     "example": "Let's look at database aggregations to understand cache utilization."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 8
-  },
   {
    "id": 813,
    "ts": "2026-11-01T10:02:31.188571+07:00",
@@ -16834,7 +16767,8 @@
     "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/",
     "https://www.theregister.com/offbeat/2026/11/13/faa-lifts-ground-stop-after-hours-long-delays-snag-travelers/5309912",
     "https://grounds.top/",
-    "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/"
+    "https://www.datacenterdynamics.com/en/news/us-flights-resume-after-telecommunications-outage-causes-nationwide-ground-stop/",
+    "https://www.theregister.com/offbeat/2026/11/13/faa-blames-ground-stop-on-faulty-copper-wiring/5309912"
    ]
   },
   {
@@ -17161,7 +17095,10 @@
    "impact": 7,
    "urgency": 3,
    "scale": 8,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
+   ]
   },
   {
    "id": 1209,
@@ -17521,11 +17458,13 @@
      "example": "Attestations provide a verifiable record of where the build file originated."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 749,
+   "sent_ts": "2026-11-15T08:25:40.653690+07:00"
   },
   {
    "id": 1219,
@@ -17710,36 +17649,6 @@
  ],
  "next_id": 1224,
  "vocab": [
-  {
-   "word": "safeguard",
-   "thai": "มาตรการป้องกัน",
-   "level": "B2",
-   "example": "Progress could outpace our ability to evaluate and safeguard new models.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "supply chain",
-   "thai": "ห่วงโซ่อุปทาน",
-   "level": "B2",
-   "example": "A supply chain attack started with an exposed master key.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exposed",
-   "thai": "ถูกเปิดเผย, รั่วไหล",
-   "level": "B2",
-   "example": "The incident occurred after a master key was accidentally exposed.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "hardened",
    "thai": "ผ่านการเสริมความปลอดภัย",
@@ -22705,6 +22614,36 @@
    "thai": "ทำให้หยุดชะงักหรือล้มเหลว",
    "level": "C1",
    "example": "The Supreme Court saw its legal work derailed.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "attestation",
+   "thai": "การรับรองความถูกต้อง",
+   "level": "C2",
+   "example": "PyPI displays per-file attestations to verify package origins.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "provenance",
+   "thai": "แหล่งที่มาประวัติความเป็นมา",
+   "level": "C1",
+   "example": "Digital attestations confirm the verifiable record of a release file's provenance.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "verifiable",
+   "thai": "ซึ่งสามารถตรวจสอบความถูกต้องได้",
+   "level": "C1",
+   "example": "Attestations provide a verifiable record of where the build file originated.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
