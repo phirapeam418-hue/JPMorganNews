@@ -2436,118 +2436,6 @@
  ],
  "stories": [
   {
-   "id": 813,
-   "ts": "2026-11-01T10:02:31.188571+07:00",
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Evaluates a multi-agent coding workflow using LLMs, highly relevant to AI engineering and DevOps tools.",
-   "summary": "A multi-agent workflow using Qwen models has demonstrated high performance on hard programming benchmark tests. The setup uses distinct roles communicating via disk files to solve complex coding tasks autonomously.",
-   "vocab": [
-    {
-     "word": "harness",
-     "thai": "กรอบการทำงานหรือระบบควบคุม",
-     "level": "C1",
-     "example": "A multi-agent harness for programming problems was written as a workflow."
-    },
-    {
-     "word": "contamination",
-     "thai": "การปนเปื้อน",
-     "level": "B2",
-     "example": "Model contamination cannot be ruled out since training data might include test contests."
-    },
-    {
-     "word": "parity",
-     "thai": "ความเท่าเทียมกัน",
-     "level": "C1",
-     "example": "The test compares the multiagent solver and the workflow to ensure functional parity."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 474,
-   "sent_ts": "2026-11-01T14:25:31.726361+07:00"
-  },
-  {
-   "id": 814,
-   "ts": "2026-11-01T10:02:31.188704+07:00",
-   "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-   "link": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Analyzes the root cause of a major structural collapse at the Arecibo Observatory, directly relevant to physical infrastructure maintenance.",
-   "summary": "A formal engineering report concluded that long-term zinc creep in cable sockets caused the catastrophic 2020 collapse of the Arecibo Observatory telescope. The findings highlight the importance of monitoring unique infrastructure for novel material failure modes as facilities age.",
-   "vocab": [
-    {
-     "word": "deterioration",
-     "thai": "ความเสื่อมสภาพ",
-     "level": "C1",
-     "example": "Careful monitoring should be increased to detect deterioration and potential novel failure modes."
-    },
-    {
-     "word": "precedent",
-     "thai": "บรรทัดฐานหรือกรณีตัวอย่างก่อนหน้า",
-     "level": "C1",
-     "example": "The report calls the failure the first documented case of its kind with no documented precedent."
-    },
-    {
-     "word": "remedial",
-     "thai": "เกี่ยวกับการแก้ไข",
-     "level": "C1",
-     "example": "Visual inspections showed cable pullouts which should have prompted remedial action."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 10,
-   "msg_id": 467,
-   "sent_ts": "2026-11-01T10:02:31.752146+07:00"
-  },
-  {
-   "id": 815,
-   "ts": "2026-11-01T10:02:31.752486+07:00",
-   "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
-   "link": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Introduces a simulated 3D breadboard MCP server tool enabling AI integration like Claude Code, matching DevOps and tooling interests.",
-   "summary": "BBRouter offers a 3D breadboard simulation of Ben Eater's 8-bit computer with an integrated Model Context Protocol server. This allows AI coding tools like Claude Code to inspect, change, and run hardware circuits directly.",
-   "vocab": [
-    {
-     "word": "simulation",
-     "thai": "การจำลอง",
-     "level": "B2",
-     "example": "BBRouter provides a digital simulation of an 8-bit computer on 3D breadboards."
-    },
-    {
-     "word": "connector",
-     "thai": "ตัวเชื่อมต่อ",
-     "level": "B2",
-     "example": "Add a custom connector to link the application with the remote MCP server."
-    },
-    {
-     "word": "schematic",
-     "thai": "แผนผังวงจร",
-     "level": "C1",
-     "example": "Parts can be marked as placed on the schematic or taken off it."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 7,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
    "id": 816,
    "ts": "2026-11-01T17:58:26.918196+07:00",
    "title": "Landline phones will switch off across Britland in 100 days, no extensions – Openreach",
@@ -17019,7 +16907,7 @@
      "example": "Our role is to strengthen project readiness and bankability for digital infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -17055,11 +16943,13 @@
      "example": "The updated network protocol supports graceful failure on unreachable endpoints."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 751,
+   "sent_ts": "2026-11-15T14:46:54.686197+07:00"
   },
   {
    "id": 1208,
@@ -17091,14 +16981,16 @@
      "example": "Executives pushed to reduce circular financing agreements with partner startups."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
    "credibility": 7,
    "extra_links": [
     "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html"
-   ]
+   ],
+   "msg_id": 752,
+   "sent_ts": "2026-11-15T14:46:55.205510+07:00"
   },
   {
    "id": 1209,
@@ -17130,7 +17022,7 @@
      "example": "The algorithm achieves higher accuracy at comparable model sizes."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -17166,11 +17058,13 @@
      "example": "The legacy debugger forced independent memory models into one unified space."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 753,
+   "sent_ts": "2026-11-15T14:46:55.726015+07:00"
   },
   {
    "id": 1211,
@@ -17202,11 +17096,13 @@
      "example": "Air traffic controllers are conscientious professionals who must handle heavy workloads."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 3,
    "urgency": 3,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 754,
+   "sent_ts": "2026-11-15T14:46:56.230656+07:00"
   },
   {
    "id": 1212,
@@ -17314,11 +17210,13 @@
      "example": "Warming is now projected to cross that benchmark as soon as 2029."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 2,
    "urgency": 3,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 755,
+   "sent_ts": "2026-11-15T14:46:56.747386+07:00"
   },
   {
    "id": 1215,
@@ -17350,7 +17248,7 @@
      "example": "Westend Real Assets is a subsidiary of Westend Bank."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -17386,11 +17284,13 @@
      "example": "The company outlined plans for major data center capacity across the region."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 756,
+   "sent_ts": "2026-11-15T14:46:57.259884+07:00"
   },
   {
    "id": 1217,
@@ -17422,7 +17322,7 @@
      "example": "The nation needs a government facility to consolidate public digital services."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -17496,7 +17396,7 @@
      "example": "The workflow is a sequential solve-and-verify loop refined from prior trajectories."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
@@ -17532,7 +17432,7 @@
      "example": "Single-cycle execution is supported by the branch unit."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 3,
@@ -17568,11 +17468,13 @@
      "example": "The model is a quantized version of Z.ai's mixture-of-experts model."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 757,
+   "sent_ts": "2026-11-15T14:46:57.779593+07:00"
   },
   {
    "id": 1222,
@@ -17604,11 +17506,13 @@
      "example": "Similar misconfigurations may occur there too, but we did not examine them."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 758,
+   "sent_ts": "2026-11-15T14:46:58.299722+07:00"
   },
   {
    "id": 1223,
@@ -17640,7 +17544,7 @@
      "example": "Orbital facilities may be more secure against physical data exfiltration."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -17649,216 +17553,6 @@
  ],
  "next_id": 1224,
  "vocab": [
-  {
-   "word": "hardened",
-   "thai": "ผ่านการเสริมความปลอดภัย",
-   "level": "B2",
-   "example": "Securing proxies requires hardened environments and careful secret management.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "coalition",
-   "thai": "การรวมกลุ่ม, พันธมิตร",
-   "level": "C1",
-   "example": "The coalition published manufacturing rules to standardize optical interconnects.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "silo",
-   "thai": "ส่วนงานที่แยกตัวโดดเดี่ยว",
-   "level": "C1",
-   "example": "New guidelines help overcome supply chain silos that limit production.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "interconnect",
-   "thai": "การเชื่อมต่อระหว่างระบบ",
-   "level": "C1",
-   "example": "High-bandwidth optical interconnect technology will soon replace copper.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "upsurge",
-   "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
-   "level": "C1",
-   "example": "A recent solar upsurge driven by escalating oil prices.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "overcapacity",
-   "thai": "กำลังการผลิตที่มากเกินความต้องการ",
-   "level": "C1",
-   "example": "Massive Chinese manufacturing scale and current overcapacity have pushed module prices to record lows.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "escalate",
-   "thai": "เพิ่มขึ้นอย่างรวดเร็ว, รุนแรงขึ้น",
-   "level": "B2",
-   "example": "A recent solar upsurge driven by escalating oil prices.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "miscellaneous",
-   "thai": "เบ็ดเตล็ด, หลายหลาก",
-   "level": "B2",
-   "example": "Miscellaneous unspecified bug fixes.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "multilingual",
-   "thai": "ที่ใช้หลายภาษา",
-   "level": "B2",
-   "example": "Expands Siri AI capabilities into a multilingual framework.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "harmonized",
-   "thai": "ทำให้สอดคล้องเป็นหนึ่งเดียวกัน (เช่น คลื่นความถี่)",
-   "level": "C1",
-   "example": "The deal adds mobile-satellite service spectrum that is internationally harmonized.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "constellation",
-   "thai": "กลุ่มดาวเทียมในวงโคจร",
-   "level": "C1",
-   "example": "Globalstar's first-generation constellation consists of 48 low-Earth orbit satellites.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "commence",
-   "thai": "เริ่มต้น",
-   "level": "B2",
-   "example": "The first stage is anticipated to commence operations in 2028.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "anticipate",
-   "thai": "คาดการณ์",
-   "level": "B2",
-   "example": "The first stage is anticipated to commence operations in 2028.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "approximate",
-   "thai": "ประมาณ",
-   "level": "B2",
-   "example": "The site covers approximately 220 hectares.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "density",
-   "thai": "ความหนาแน่น",
-   "level": "C1",
-   "example": "Addressing the challenges of increasing power density in data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "assess",
-   "thai": "ประเมิน",
-   "level": "B2",
-   "example": "Partnered with Nvidia to assess whether its former nuclear power sites could host AI data centers.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "subsidiary",
-   "thai": "บริษัทลูก",
-   "level": "C1",
-   "example": "PreussenElektra, a subsidiary of German utility E.ON.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "leverage",
-   "thai": "ใช้ประโยชน์จาก",
-   "level": "C1",
-   "example": "Whether these conditions can be leveraged for AI factories.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "influx",
-   "thai": "การหลั่งไหลเข้ามา",
-   "level": "C1",
-   "example": "Amid the influx of data centers switching over to AI compute.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "predicament",
-   "thai": "ภาวะที่กลืนไม่เข้าคายไม่ออกหรือสถานการณ์ยากลำบาก",
-   "level": "C1",
-   "example": "Now, the predicament is there is no clear solution for fixing the grid today.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "persist",
-   "thai": "คงอยู่ต่อไป / ยังคงมีอยู่",
-   "level": "B2",
-   "example": "SK Hynix says memory shortages to persist until 2030.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "emissions",
    "thai": "การปล่อยก๊าซเรือนกระจก",
@@ -22644,6 +22338,216 @@
    "thai": "ซึ่งสามารถตรวจสอบความถูกต้องได้",
    "level": "C1",
    "example": "Attestations provide a verifiable record of where the build file originated.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "prune",
+   "thai": "ตัดส่วนที่ไม่จำเป็นออก",
+   "level": "B2",
+   "example": "The release pruned the deprecated public API to simplify future maintenance.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "graceful",
+   "thai": "ที่ดำเนินไปอย่างราบรื่นหรือไม่ก่อให้เกิดความเสียหายรุนแรง",
+   "level": "B2",
+   "example": "The updated network protocol supports graceful failure on unreachable endpoints.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scarcity",
+   "thai": "ความขาดแคลน",
+   "level": "B2",
+   "example": "The company allegedly engineered scarcity by investing in startups that bought its GPUs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "artificially",
+   "thai": "อย่างไม่เป็นธรรมชาติหรือโดยการปรุงแต่ง",
+   "level": "B2",
+   "example": "The report claims the supplier artificially inflated demand to clear excess inventory.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "circular",
+   "thai": "เป็นวงกลมหรือหมุนเวียนไปมา",
+   "level": "B2",
+   "example": "Executives pushed to reduce circular financing agreements with partner startups.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lockstep",
+   "thai": "การเคลื่อนที่พร้อมเพรียงกันอย่างเคร่งครัด",
+   "level": "C1",
+   "example": "A GPU may execute groups of processing lanes in lockstep.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unified",
+   "thai": "รวมเป็นหนึ่งเดียว",
+   "level": "B2",
+   "example": "The legacy debugger forced independent memory models into one unified space.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "replicated",
+   "thai": "ทำซ้ำหรือลอกเลียนแบบผลลัพธ์",
+   "level": "C1",
+   "example": "Aviation officials hope positive trial results can be replicated nationwide.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "optimal",
+   "thai": "เหมาะสมที่สุดหรือดีที่สุด",
+   "level": "C1",
+   "example": "The scheduling algorithm identifies optimal flight routes to reduce fuel burn.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conscientious",
+   "thai": "มีความรับผิดชอบสูงและรอบคอบ",
+   "level": "C1",
+   "example": "Air traffic controllers are conscientious professionals who must handle heavy workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "stark",
+   "thai": "ชัดเจนจนน่าตกใจหรือเข้มงวด",
+   "level": "C1",
+   "example": "Two new reports offered a stark reminder of how far the world remains from containing global warming.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "detached",
+   "thai": "แยกตัวออกไปหรือไม่เชื่อมโยงกับความจริง",
+   "level": "C1",
+   "example": "The actions from those in power here are completely detached from reality.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "benchmark",
+   "thai": "เกณฑ์มาตรฐานหรือจุดอ้างอิง",
+   "level": "B2",
+   "example": "Warming is now projected to cross that benchmark as soon as 2029.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "memorandum",
+   "thai": "บันทึกข้อตกลง",
+   "level": "C1",
+   "example": "AirTrunk signed a Memorandum of Understanding for two proposed data center campuses.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proposed",
+   "thai": "ที่ถูกเสนอหรือวางแผนไว้",
+   "level": "B2",
+   "example": "The agreement was signed for two proposed data center campuses in India.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outlining",
+   "thai": "การสรุปโครงร่างหรือกำหนดแผนงาน",
+   "level": "B2",
+   "example": "The company outlined plans for major data center capacity across the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concurrent",
+   "thai": "ที่เกิดขึ้นพร้อมกัน",
+   "level": "B2",
+   "example": "This post shows how to measure behavior under concurrent load.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "baseline",
+   "thai": "เกณฑ์มาตรฐาน",
+   "level": "B2",
+   "example": "By the end, you will have a baseline for how it behaves under load.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "quantized",
+   "thai": "ที่ถูกปรับลดความละเอียดของข้อมูล",
+   "level": "C1",
+   "example": "The model is a quantized version of Z.ai's mixture-of-experts model.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "confidential",
+   "thai": "ที่เป็นความลับ",
+   "level": "B2",
+   "example": "We found many cases where personal and confidential information was accessible without logging in.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "misconfigurations",
+   "thai": "การกำหนดค่าระบบที่ผิดพลาด",
+   "level": "C1",
+   "example": "Similar misconfigurations may occur there too, but we did not examine them.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
