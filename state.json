@@ -2432,7 +2432,17 @@
   "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
   "https://blog.csongor.co.uk/cachet-grids-and-tiles/",
   "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
-  "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/"
+  "https://arstechnica.com/space/2026/11/with-starship-catch-spacex-still-shows-it-can-dazzle-the-world/",
+  "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+  "https://www.lloydslist.com/LL1158922/A-rare-glimpse-inside-the-highrisk-highreward-Hormuz-trade",
+  "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+  "https://github.com/matheuzgomes/gawain",
+  "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+  "https://netbsd.org/~nia/disk-encrypt/",
+  "https://www.ardc.net/rhizomaticas-hermes-and-mercury-expand-open-source-hf-communications-for-remote-communities-while-appealing-to-experimenters/",
+  "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+  "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+  "https://aosabook.org/en/500L/a-3d-modeller.html"
  ],
  "stories": [
   {
@@ -17549,9 +17559,81 @@
    "urgency": 2,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 1224,
+   "ts": "2026-11-15T15:37:44.578112+07:00",
+   "title": "Memory Safety Bugs in Rust Standard Library",
+   "link": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft researchers found memory safety bugs in the Rust standard library, which underpins critical infrastructure and operating system code.",
+   "summary": "Microsoft's FORGE Lab identified multiple memory safety flaws in Rust's standard library using AI-assisted analysis tools. These flaws are significant because they can cause undefined behavior even in code written entirely in safe Rust.",
+   "vocab": [
+    {
+     "word": "recurring",
+     "thai": "ที่เกิดขึ้นซ้ำๆ",
+     "level": "B2",
+     "example": "The findings reveal three recurring patterns of misplaced trust in unsafe code."
+    },
+    {
+     "word": "foundational",
+     "thai": "ที่เป็นรากฐานสำคัญ",
+     "level": "C1",
+     "example": "Much of this software relies on Rust’s foundational libraries, core and std."
+    },
+    {
+     "word": "soundness",
+     "thai": "ความถูกต้องสมบูรณ์เชิงระบบ",
+     "level": "C1",
+     "example": "This post focuses on soundness bugs in the standard library’s unsafe code."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1225,
+   "ts": "2026-11-15T15:37:44.578161+07:00",
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "DRAM and HBM production shifts and pricing directly affect hardware procurement budgets for server fleets and AI clusters.",
+   "summary": "A federal judge refused to dismiss an antitrust lawsuit against Samsung, SK Hynix, and Micron over alleged DRAM price-fixing. The suit claims the chipmakers intentionally restricted conventional DDR5 memory supplies while shifting manufacturing capacity to high-bandwidth memory for AI.",
+   "vocab": [
+    {
+     "word": "conspired",
+     "thai": "สมคบคิดหรือร่วมมือกันทำสิ่งผิด",
+     "level": "C1",
+     "example": "The lawsuit alleges the chipmakers conspired to cut conventional DRAM supply."
+    },
+    {
+     "word": "plausible",
+     "thai": "สมเหตุสมผลและน่าเชื่อถือ",
+     "level": "B2",
+     "example": "The judge found the evidence supported a plausible inference of conspiracy."
+    },
+    {
+     "word": "cartel",
+     "thai": "กลุ่มผู้ผลิตที่รวมหัวกันผูกขาดตลาด",
+     "level": "C1",
+     "example": "The court took into account the companies' prior cartel history in the memory market."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 1224,
+ "next_id": 1226,
  "vocab": [
   {
    "word": "emissions",
@@ -22762,7 +22844,8 @@
   }
  },
  "fail": {
-  "gemini": 0
+  "gemini": 0,
+  "https://www.theregister.com/headlines.atom": 1
  },
  "level": "B2",
  "answers": []
