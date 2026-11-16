@@ -19634,7 +19634,7 @@
    "thai": "ที่ไม่ได้จัดตั้งเป็นเทศบาล",
    "level": "C1",
    "example": "Zoning rules were adopted for unincorporated areas to give locals more control.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20784,7 +20784,7 @@
    "thai": "ทุกสี่ปี",
    "level": "C2",
    "example": "Internet governance is facing its quadrennial stress test at the upcoming conference.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21254,7 +21254,7 @@
    "thai": "เรียกคืน, กู้คืน",
    "level": "C1",
    "example": "Affected customers will be able to retrieve and review the affected data securely.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21314,7 +21314,7 @@
    "thai": "ช่องโหว่ที่ไม่เคยเปิดเผยและยังไม่มีแพตช์ทางการมาก่อน",
    "level": "B2",
    "example": "Attackers exploited a zero-day flaw before the vendor could release a fix.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21994,7 +21994,7 @@
    "thai": "คนร้าย",
    "level": "C2",
    "example": "The data breach was attributed to cloud provider vulnerabilities and malicious miscreants.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22756,26 +22756,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6300737102204109461": {
-   "word": "apprehensive",
-   "correct": 2
-  },
-  "6300737102204109462": {
-   "word": "pause",
-   "correct": 1
-  },
-  "6300737102204109463": {
-   "word": "accommodate",
-   "correct": 0
-  },
-  "6300737102204109464": {
-   "word": "alleged",
-   "correct": 2
-  },
-  "6300737102204109465": {
-   "word": "conceal",
-   "correct": 2
-  },
   "6305240701831479976": {
    "word": "dramatically",
    "correct": 3
@@ -22955,6 +22935,26 @@
   "6327851329528006137": {
    "word": "theoretical",
    "correct": 3
+  },
+  "6332354929155376068": {
+   "word": "retrieve",
+   "correct": 3
+  },
+  "6332354929155376069": {
+   "word": "unincorporated",
+   "correct": 0
+  },
+  "6332354929155376070": {
+   "word": "quadrennial",
+   "correct": 3
+  },
+  "6332354929155376071": {
+   "word": "zero-day",
+   "correct": 0
+  },
+  "6332354929155376072": {
+   "word": "miscreants",
+   "correct": 1
   }
  },
  "fail": {
