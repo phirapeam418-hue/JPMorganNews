@@ -2492,7 +2492,31 @@
   "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
   "https://qwen.ai/blog?id=qwen4-max",
   "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-  "https://muni.works/research/vcad"
+  "https://muni.works/research/vcad",
+  "https://www.datacenterdynamics.com/en/news/sk-hynix-to-partner-with-south-korean-govt-on-chip-testing-facility/",
+  "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
+  "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+  "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
+  "https://www.datacenterdynamics.com/en/news/belgian-telcos-to-retire-2g-networks-by-2029/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
+  "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+  "https://www.datacenterdynamics.com/en/news/south-africas-mtn-group-revives-telkom-takeover-efforts/",
+  "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+  "https://www.datacenterdynamics.com/en/analysis/array-digital-infrastructure-towerco-telco-anthony-carlson-us-big-three/",
+  "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+  "https://www.datacenterdynamics.com/en/whitepapers/the-university-of-m%C3%BCnster-deploys-zutacores-waterless-two-phase-liquid-cooling/",
+  "https://www.datacenterdynamics.com/en/news/one-nz-dials-in-carriers-first-5g-standalone-call/",
+  "https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/",
+  "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+  "https://www.theregister.com/devops/2026/11/16/html-in-canvas-ships-and-could-make-the-web-a-lot-more-creativeand-a-lot-stupider/5310135",
+  "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
+  "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
+  "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
+  "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+  "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
+  "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
+  "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
  ],
  "stories": [
   {
@@ -17745,9 +17769,801 @@
    "urgency": 3,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 1238,
+   "ts": "2026-11-17T06:10:18.567610+07:00",
+   "title": "SK Hynix to partner with South Korean gov’t on chip testing facility",
+   "link": "https://www.datacenterdynamics.com/en/news/sk-hynix-to-partner-with-south-korean-govt-on-chip-testing-facility/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "While relevant to global semiconductor supply chains, this chip testing facility in South Korea has minimal direct operational impact on data center engineers today.",
+   "summary": "SK Hynix is partnering with the South Korean government to build a $654 million chip testing facility scheduled to open in May 2027. The facility will let local suppliers test semiconductor materials and equipment on 12-inch wafers under realistic production conditions.",
+   "vocab": [
+    {
+     "word": "mimic",
+     "thai": "เลียนแบบ",
+     "level": "B2",
+     "example": "The facility will allow small semiconductor suppliers to test their products under conditions that mimic those found on commercial chip production lines."
+    },
+    {
+     "word": "deploy",
+     "thai": "ติดตั้งหรือนำมาใช้งาน",
+     "level": "B2",
+     "example": "Suppliers will be able to evaluate materials using 12-inch wafers before deploying them on production lines."
+    },
+    {
+     "word": "sensitive",
+     "thai": "ที่ต้องระมัดระวังเป็นพิเศษหรือเป็นความลับ",
+     "level": "B2",
+     "example": "The facility will be run by an independent foundation to protect intellectual property and commercially sensitive information."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1239,
+   "ts": "2026-11-17T06:10:18.567652+07:00",
+   "title": "US Dep’t of Commerce issues rule to restrict remote access to advanced AI chips",
+   "link": "https://www.datacenterdynamics.com/en/news/us-dept-of-commerce-issues-rule-to-restrict-remote-access-to-advanced-ai-chips/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "New US regulations restrict remote AI chip access via third-country data centers and require strict customer due diligence for cloud operators.",
+   "summary": "The US Department of Commerce has issued a new rule restricting remote access to advanced AI chips hosted in third-country data centers. Cloud operators and data centers must perform strict due diligence on foreign customers to prevent circumvention of export controls.",
+   "vocab": [
+    {
+     "word": "circumvention",
+     "thai": "การหลบเลี่ยง (กฎหรือข้อจำกัด)",
+     "level": "C1",
+     "example": "The new rule ensures existing export restrictions cannot be avoided through remote computing circumvention."
+    },
+    {
+     "word": "diligence",
+     "thai": "การตรวจสอบอย่างถี่ถ้วน",
+     "level": "C1",
+     "example": "Data centers and chip exporters will be required to perform robust due diligence on customers."
+    },
+    {
+     "word": "destined",
+     "thai": "ถูกกำหนดให้ไปยัง destination",
+     "level": "B2",
+     "example": "The license requirement will not apply when the chips are destined for companies headquartered in the United States."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1240,
+   "ts": "2026-11-17T06:10:18.567678+07:00",
+   "title": "Firmus looks to raise $3bn in private equity and secure prepayments - report",
+   "link": "https://www.datacenterdynamics.com/en/news/firmus-looks-to-raise-3bn-in-private-equity-and-secure-prepayments-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights the shifting financing models and capital constraints faced by neocloud operators building large-scale AI data centers.",
+   "summary": "Australian neocloud startup Firmus is seeking to raise $3 billion in private equity and secure customer prepayments to fund its data center developments. The move reflects how neoclouds are turning to customer prepayments as private venture capital becomes harder to secure.",
+   "vocab": [
+    {
+     "word": "alternative",
+     "thai": "ทางเลือกใหม่",
+     "level": "B2",
+     "example": "The company turned back to private markets, hoping to secure alternative funding."
+    },
+    {
+     "word": "underlying",
+     "thai": "ที่เป็นพื้นฐานหรือแฝงอยู่",
+     "level": "C1",
+     "example": "The pricing of these facilities reflects the underlying customer commitments and our proven ability to deliver."
+    },
+    {
+     "word": "opportunistic",
+     "thai": "ที่ฉวยโอกาสตามสถานการณ์",
+     "level": "C1",
+     "example": "If we have the availability to raise capital at attractive terms, we will be very opportunistic about it."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1241,
+   "ts": "2026-11-17T06:10:18.567697+07:00",
+   "title": "AI cloud startup Luminal secures $25m in Series A funding",
+   "link": "https://www.datacenterdynamics.com/en/news/ai-cloud-startup-luminal-secures-25m-in-series-a-funding/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Luminal's focus on hardware-agnostic AI inference compilers could help operators optimize GPU usage beyond Nvidia, though it remains early-stage.",
+   "summary": "AI cloud startup Luminal has raised $25 million in Series A funding to expand its inference cloud and compiler technology. The startup aims to optimize AI models across diverse hardware to reduce reliance on Nvidia GPUs.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "ยอมลดมาตรฐานหรือประนีประนอม",
+     "level": "B2",
+     "example": "Developers gain choice beyond Nvidia's ecosystem without forcing them to compromise on speed or cost."
+    },
+    {
+     "word": "squeeze",
+     "thai": "เค้นหรือรีดประสิทธิภาพออกมากที่สุด",
+     "level": "B2",
+     "example": "We backed Luminal because of its ability to squeeze fantastic performance out of heterogeneous hardware."
+    },
+    {
+     "word": "leverage",
+     "thai": "การใช้ประโยชน์ให้เกิดผลสูงสุด",
+     "level": "C1",
+     "example": "Luminal's ability to get the most out of GPUs that have already been powered is incredibly high leverage."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1242,
+   "ts": "2026-11-17T06:10:18.567716+07:00",
+   "title": "Belgian telcos to retire 2G networks by 2029",
+   "link": "https://www.datacenterdynamics.com/en/news/belgian-telcos-to-retire-2g-networks-by-2029/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Legacy 2G network shutdowns require infrastructure operations to migrate older out-of-band management or IoT sensors to newer cellular standards.",
+   "summary": "Belgian telecom operators will phase out their 2G mobile networks between 2028 and 2029 to free up resources for 4G and 5G. Operators are giving advance notice so business and IoT users can transition their connectivity equipment.",
+   "vocab": [
+    {
+     "word": "phase",
+     "thai": "ทยอยทำเป็นระยะ",
+     "level": "B2",
+     "example": "The carriers have agreed to phase out the technology while ensuring all customers remain connected."
+    },
+    {
+     "word": "sufficient",
+     "thai": "เพียงพอ",
+     "level": "B2",
+     "example": "The regulator emphasized the importance of providing sufficient advance notice to both business and residential users."
+    },
+    {
+     "word": "legacy",
+     "thai": "ระบบเก่าที่ยังใช้งานอยู่",
+     "level": "C1",
+     "example": "The switch-off of the legacy services will support the telcos' focus on 4G and 5G networks."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1243,
+   "ts": "2026-11-17T06:10:18.567734+07:00",
+   "title": "Nvidia unveils Rubin HPC GPU for agentic AI-powered science and engineering workloads",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-unveils-rubin-hpc-gpu-for-agentic-ai-powered-science-and-engineering-workloads/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Nvidia's new Rubin HPC GPU architecture introduces interconnect and design changes that will dictate future AI server cluster power and networking requirements.",
+   "summary": "Nvidia has announced the Rubin HPC GPU, designed specifically for agentic AI simulations and complex engineering workloads. The new chip features seventh-generation NVLink interconnects and a balanced design to scale data movement alongside compute performance.",
+   "vocab": [
+    {
+     "word": "compute",
+     "thai": "การประมวลผลคำนวณของคอมพิวเตอร์",
+     "level": "C1",
+     "example": "Instead of increasing compute capacity alone, the new chip offers a balanced design scaling data movement and compute together."
+    },
+    {
+     "word": "discovery",
+     "thai": "การค้นพบสิ่งใหม่",
+     "level": "B2",
+     "example": "Faster simulation means faster discovery for agents tackling science and engineering problems."
+    },
+    {
+     "word": "sparse",
+     "thai": "กระจายตัวเบาบางหรือมีองค์ประกอบน้อย",
+     "level": "C1",
+     "example": "The GPU features a sparse data acceleration capability that speeds up GPU-to-GPU connectivity."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1244,
+   "ts": "2026-11-17T06:10:18.567751+07:00",
+   "title": "OpenAI signs on for 457MW AI capacity with TensorWave",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-signs-on-for-457mw-ai-capacity-with-tensorwave/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "OpenAI securing 457MW of dedicated AMD GPU capacity represents one of the largest single-tenant neocloud deployments and highlights the growing footprint of non-Nvidia AI infrastructure.",
+   "summary": "OpenAI has contracted 457MW of data center capacity from neocloud provider TensorWave to run dedicated AMD Instinct MI455X GPU clusters. The six-year deal represents TensorWave's largest deployment to date and will begin rolling out in early 2027.",
+   "vocab": [
+    {
+     "word": "separate",
+     "thai": "คัดแยกหรือแบ่งแยกความแตกต่าง",
+     "level": "B2",
+     "example": "The ability to deliver hundreds of megawatts of compute will separate top AI companies from the rest."
+    },
+    {
+     "word": "rival",
+     "thai": "คู่แข่ง",
+     "level": "B2",
+     "example": "AMD claims higher peak performance and memory bandwidth in comparison to rival Nvidia's rack specifications."
+    },
+    {
+     "word": "meaningful",
+     "thai": "ที่มีความสำคัญหรือมีผลอย่างมาก",
+     "level": "B2",
+     "example": "This deployment helps deliver a meaningful portion of the infrastructure behind next-generation AI compute."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1245,
+   "ts": "2026-11-17T06:11:57.453948+07:00",
+   "title": "Blackstone Digital Infrastructure Trust acquires majority stake in AWS joint venture for $5bn",
+   "link": "https://www.datacenterdynamics.com/en/news/blackstone-digital-infrastructure-trust-acquires-majority-stake-in-aws-joint-venture-for-5bn/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Blackstone acquired a majority stake in AWS data center shells, representing a major financial deal in hyperscale infrastructure.",
+   "summary": "Blackstone's new digital infrastructure trust acquired a 75 percent stake in an AWS joint venture controlling 13 data center shells for $5 billion. AWS will retain 25 percent and lease back the properties for up to 32 years.",
+   "vocab": [
+    {
+     "word": "capitalization",
+     "thai": "การประเมินมูลค่าตามราคาตลาด หรืออัตราผลตอบแทนจากการลงทุน",
+     "level": "C1",
+     "example": "The transaction is valued at around $5 billion, with an initial capitalization rate of seven percent."
+    },
+    {
+     "word": "deployment",
+     "thai": "การปรับใช้ หรือการนำทรัพยากรมาใช้งาน",
+     "level": "B2",
+     "example": "The quality and tenant profile make this an attractive match for the deployment of our IPO proceeds."
+    },
+    {
+     "word": "hyperscale",
+     "thai": "ศูนย์ข้อมูลขนาดใหญ่ระดับไฮเปอร์สเกล",
+     "level": "C1",
+     "example": "The company said it would focus on data center assets leased to hyperscale tenants."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1246,
+   "ts": "2026-11-17T06:11:57.453988+07:00",
+   "title": "From telco to towerco: Array’s pivot to digital infrastructure",
+   "link": "https://www.datacenterdynamics.com/en/analysis/array-digital-infrastructure-towerco-telco-anthony-carlson-us-big-three/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Explains a regional telecom carrier's strategic business pivot toward cellular tower digital infrastructure.",
+   "summary": "Array Digital Infrastructure evolved from UScellular after the regional carrier struggled to compete with major telecom giants in 5G expansion. The company sold its wireless spectrum and customer base to focus entirely on managing cell tower assets.",
+   "vocab": [
+    {
+     "word": "spiraling",
+     "thai": "ดิ่งลงอย่างรวดเร็วและควบคุมไม่ได้",
+     "level": "B2",
+     "example": "That creates a spiraling effect where less money is available to maintain network competitiveness."
+    },
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทในเครือ หรือบริษัทย่อย",
+     "level": "B2",
+     "example": "The company was founded as a subsidiary of TDS as the initial cellular industry boom kicked off."
+    },
+    {
+     "word": "underwrite",
+     "thai": "รับภาระความเสี่ยงทางการเงิน หรือรับประกันการลงทุน",
+     "level": "C1",
+     "example": "Financial firms often underwrite major telecom infrastructure expansions."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1247,
+   "ts": "2026-11-17T06:11:57.454009+07:00",
+   "title": "Arbitrating data center disputes in Southeast Asia",
+   "link": "https://www.datacenterdynamics.com/en/opinions/arbitrating-data-center-disputes-in-southeast-asia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Examines how rapid hardware refresh cycles for AI create operational and contractual disputes in data centers.",
+   "summary": "The rapid rise of AI workloads is causing server hardware to become obsolete much faster than traditional long-term data center investment cycles. This mismatch creates contractual disputes over capital expenses and infrastructure upgrades like liquid cooling and higher power densities.",
+   "vocab": [
+    {
+     "word": "obsolescence",
+     "thai": "การล้าสมัย หรือความเสื่อมสภาพจากการมีเทคโนโลยีใหม่เข้ามาแทนที่",
+     "level": "C1",
+     "example": "Technological obsolescence risk is no longer a future concern; it is generating disputes today."
+    },
+    {
+     "word": "depreciation",
+     "thai": "การเสื่อมราคา หรือการลดมูลค่าของสินทรัพย์ตามเวลา",
+     "level": "C1",
+     "example": "This timeline creates a fundamental misalignment with typical infrastructure investment horizons and depreciation models."
+    },
+    {
+     "word": "misalignment",
+     "thai": "ความไม่สอดคล้องกัน หรือการจัดวางที่ไม่ตรงกัน",
+     "level": "C1",
+     "example": "This timeline creates a fundamental misalignment with typical infrastructure investment horizons."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1248,
+   "ts": "2026-11-17T06:11:57.454028+07:00",
+   "title": "Microsoft looks to develop data center in Rockford, Illinois",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-looks-to-develop-data-center-in-rockford-illinois/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft is evaluating a large 1,300-acre site in Illinois that could support a 1.4GW data center campus.",
+   "summary": "Microsoft is conducting due diligence on a 1,300-acre property in Rockford, Illinois, for a potential data center campus rated up to 1.4 gigawatts. Although no final proposal has been submitted, the site has state tax incentive agreements in place.",
+   "vocab": [
+    {
+     "word": "diligence",
+     "thai": "ความละเอียดรอบคอบ หรือการตรวจสอบสถานะอย่างถี่ถ้วน (due diligence)",
+     "level": "C1",
+     "example": "Microsoft is conducting due diligence on the site to decide if it is appropriate for development."
+    },
+    {
+     "word": "incentive",
+     "thai": "สิ่งจูงใจ หรือมาตรการสนับสนุน",
+     "level": "B2",
+     "example": "Monarch Energy received a tax incentive agreement for a data center project."
+    },
+    {
+     "word": "municipality",
+     "thai": "เทศบาล หรือองค์กรปกครองส่วนท้องถิ่น",
+     "level": "C1",
+     "example": "Microsoft does not ask local municipalities to reduce their property tax rates for data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1249,
+   "ts": "2026-11-17T06:11:57.454054+07:00",
+   "title": "The University of Münster deploys Zutacore's waterless, two-phase liquid cooling",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/the-university-of-m%C3%BCnster-deploys-zutacores-waterless-two-phase-liquid-cooling/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly targets high-density server cooling challenges, showcasing a two-phase liquid cooling case study.",
+   "summary": "The University of Münster implemented ZutaCore's two-phase liquid cooling system to support high-performance computing racks running up to 120kW. The deployment lowered energy consumption by up to 82% compared to traditional air cooling while enabling 100% heat reuse.",
+   "vocab": [
+    {
+     "word": "density",
+     "thai": "ความหนาแน่น (เช่น ความหนาแน่นของอุปกรณ์ในตู้แร็ก)",
+     "level": "B2",
+     "example": "The solution helps the university increase computing capacity by improving server density."
+    },
+    {
+     "word": "conserving",
+     "thai": "การอนุรักษ์ หรือการประหยัดทรัพยากร",
+     "level": "B2",
+     "example": "The cooling technology reduces energy consumption while conserving up to 90% of water."
+    },
+    {
+     "word": "operational",
+     "thai": "เกี่ยวกับการปฏิบัติการ หรือเกี่ยวกับการดำเนินงาน",
+     "level": "B2",
+     "example": "The solution is helping the university increase capacity while lowering operational costs."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1250,
+   "ts": "2026-11-17T06:11:57.454071+07:00",
+   "title": "One NZ dials in carrier's first 5G Standalone call",
+   "link": "https://www.datacenterdynamics.com/en/news/one-nz-dials-in-carriers-first-5g-standalone-call/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers a telecommunications milestone for 5G Standalone mobile network slicing in New Zealand.",
+   "summary": "New Zealand telecom operator One NZ successfully executed its first call using a 5G Standalone core network built with Ericsson technology. The architecture enables advanced functions like network slicing, though no public launch timeline was provided.",
+   "vocab": [
+    {
+     "word": "modernization",
+     "thai": "การปรับปรุงให้ทันสมัย",
+     "level": "B2",
+     "example": "The work is part of a multi-year core network modernization program between the two companies."
+    },
+    {
+     "word": "predictable",
+     "thai": "ที่คาดเดาได้ หรือมีความเสถียรสม่ำเสมอ",
+     "level": "B2",
+     "example": "Businesses can achieve more predictable performance for critical operations."
+    },
+    {
+     "word": "slicing",
+     "thai": "การแบ่งส่วนเครือข่ายเสมือน (network slicing)",
+     "level": "C1",
+     "example": "The cloud-native core enables advanced capabilities such as network slicing."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1251,
+   "ts": "2026-11-17T06:11:57.454088+07:00",
+   "title": "Core Scientific files for 285MW data center outside Dallas, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/core-scientific-files-for-285mw-data-center-outside-dallas-texas/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports on Core Scientific filing regulatory documents for a new 285MW AI data center campus in Texas.",
+   "summary": "Core Scientific submitted regulatory filings for a $1.3 billion data center project near Dallas that will offer up to 285MW of leasable capacity. AMD has already agreed to lease 110MW at the campus, which is scheduled for construction starting late 2026.",
+   "vocab": [
+    {
+     "word": "vacant",
+     "thai": "ว่างเปล่า หรือไม่ได้ถูกใช้งาน",
+     "level": "B2",
+     "example": "The site designated for the project is currently mostly vacant land."
+    },
+    {
+     "word": "energizing",
+     "thai": "การจ่ายกระแสไฟฟ้าเข้าสู่ระบบ",
+     "level": "C1",
+     "example": "The site could begin energizing in 2027, reaching full power by 2029."
+    },
+    {
+     "word": "substation",
+     "thai": "สถานีไฟฟ้าย่อย",
+     "level": "C1",
+     "example": "An on-site substation is planned to support the data center."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1252,
+   "ts": "2026-11-17T06:11:57.454106+07:00",
+   "title": "Attackers are using AI agents to automate cybercrime at 'industrial scale,' FBI and AWS warn",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/16/attackers-are-using-ai-agents-to-automate-cybercrime-at-industrial-scale-fbi-and-aws-warn/5310223",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Summarizes infrastructure and security news, including zero-day threats, AI cybercrime automation, and Azure Linux.",
+   "summary": "AWS and the FBI warned that cybercriminals are leveraging AI agents to automate attacks at scale. The digest also highlights an unpatched SharePoint zero-day vulnerability and the release of Azure Linux 4.0 for cloud workloads.",
+   "vocab": [
+    {
+     "word": "automated",
+     "thai": "ซึ่งทำแบบอัตโนมัติ",
+     "level": "B2",
+     "example": "Attackers are using AI agents to automate cybercrime at an industrial scale."
+    },
+    {
+     "word": "photonic",
+     "thai": "เกี่ยวกับโฟตอน หรือเทคโนโลยีเชิงแสง",
+     "level": "C1",
+     "example": "Marvell and Penguin Solutions aim to address memory needs with photonic memory fabric."
+    },
+    {
+     "word": "uncontested",
+     "thai": "ไร้คู่แข่ง หรือไม่มีใครคัดค้าน",
+     "level": "C1",
+     "example": "China’s grip on the top supercomputer list remains uncontested."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1253,
+   "ts": "2026-11-17T06:14:10.985470+07:00",
+   "title": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion",
+   "link": "https://www.theregister.com/systems/2026/11/16/chinas-grip-on-top500-remains-uncontested-as-us-chases-ai-hpc-fusion/5310205",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Supercomputing rankings highlight global trends in high-performance computing and hardware deployment for AI infrastructure.",
+   "summary": "The latest Top500 supercomputer list reveals China maintaining top positions while the US focuses on combining AI with traditional high-performance computing. Tracking these infrastructure benchmarks helps hardware planners anticipate future hardware architectures.",
+   "vocab": [
+    {
+     "word": "uncontested",
+     "thai": "ซึ่งไม่มีใครคู่แข่ง",
+     "level": "C1",
+     "example": "The country maintained an uncontested lead in supercomputing rankings."
+    },
+    {
+     "word": "fusion",
+     "thai": "การรวม/การผสมผสาน",
+     "level": "B2",
+     "example": "The facility focuses on the fusion of AI and supercomputing workloads."
+    },
+    {
+     "word": "ambition",
+     "thai": "ความทะเยอทะยาน",
+     "level": "B2",
+     "example": "The government announced its ambition to build faster compute clusters."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1254,
+   "ts": "2026-11-17T06:14:10.985517+07:00",
+   "title": "‘123456’ has been the world’s most popular password for 7 out of the last 8 years",
+   "link": "https://www.theregister.com/security/2026/11/16/123456-has-been-the-worlds-most-popular-password-for-7-out-of-the-last-8-years/5310189",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Weak credential usage highlights general security hygiene issues, though server management relies on stronger authentication methods.",
+   "summary": "Reports show that simple passwords like 123456 remain widely used across global online services. Infrastructure operators must enforce robust multi-factor authentication to protect administrative interfaces.",
+   "vocab": [
+    {
+     "word": "prevalent",
+     "thai": "ที่แพร่หลาย",
+     "level": "C1",
+     "example": "Simple passwords remain prevalent among non-technical users."
+    },
+    {
+     "word": "enforce",
+     "thai": "บังคับใช้",
+     "level": "B2",
+     "example": "Administrators must enforce strong authentication policies on servers."
+    },
+    {
+     "word": "compromise",
+     "thai": "ทำให้ตกอยู่ในอันตราย",
+     "level": "B2",
+     "example": "Weak credentials can compromise enterprise network security."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 1255,
+   "ts": "2026-11-17T06:14:10.985541+07:00",
+   "title": "NoisyTCP bug gives Linux servers a remote crash problem 11 years in the making",
+   "link": "https://www.theregister.com/security/2026/11/16/noisytcp-bug-gives-linux-servers-a-remote-crash-problem-11-years-in-the-making/5310144",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "A severe Linux network stack vulnerability can allow remote server crashes, directly risking system stability and uptime.",
+   "summary": "A long-standing flaw in the Linux kernel network stack enables attackers to remotely crash unpatched servers. System administrators should apply emergency security updates promptly to prevent operational outages.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่ด้านความปลอดภัย",
+     "level": "B2",
+     "example": "Engineers patched the severe server vulnerability immediately."
+    },
+    {
+     "word": "instability",
+     "thai": "ความไม่มั่นคง/ความไม่คงที่",
+     "level": "B2",
+     "example": "Network bugs can cause severe instability in cloud infrastructure."
+    },
+    {
+     "word": "disclose",
+     "thai": "เปิดเผย",
+     "level": "B2",
+     "example": "Security researchers disclosed the bug to kernel developers."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1256,
+   "ts": "2026-11-17T06:14:10.985564+07:00",
+   "title": "Ubuntu gets AI-generated security fixes for those feeling brave",
+   "link": "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "AI-generated Linux patches introduce automated patch management options but require cautious testing in enterprise environments.",
+   "summary": "Canonical is testing AI-generated security patches to speed up vulnerability remediation in Ubuntu. Operations teams must evaluate automated patches carefully before deploying them to live production servers.",
+   "vocab": [
+    {
+     "word": "automated",
+     "thai": "ที่เป็นระบบอัตโนมัติ",
+     "level": "B2",
+     "example": "The platform uses automated tools to generate security patches."
+    },
+    {
+     "word": "deploying",
+     "thai": "การติดตั้ง/การปรับใช้งาน",
+     "level": "B2",
+     "example": "Engineers exercised caution when deploying patches to servers."
+    },
+    {
+     "word": "evaluate",
+     "thai": "ประเมินผล",
+     "level": "B2",
+     "example": "Teams should evaluate software patches in a staging environment."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1257,
+   "ts": "2026-11-17T06:14:10.985574+07:00",
+   "title": "Microsoft fixes Windows activation as admins pick through Exchange outage wreckage",
+   "link": "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": true,
+   "reason": "Enterprise messaging outages and OS activation failures disrupt operational workflows and server administration.",
+   "summary": "Systems engineers are recovering from a major Microsoft Exchange outage while resolving Windows activation glitches. IT operators should verify license status and check system logs following service interruptions.",
+   "vocab": [
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The unexpected service disruption impacted enterprise mail servers."
+    },
+    {
+     "word": "wreckage",
+     "thai": "ผลกระทบที่หลงเหลือ",
+     "level": "C1",
+     "example": "Admins analyzed the outage wreckage to discover the root cause."
+    },
+    {
+     "word": "glitch",
+     "thai": "ข้อผิดพลาดเล็กน้อย",
+     "level": "B2",
+     "example": "A licensing glitch temporarily affected server software verification."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1258,
+   "ts": "2026-11-17T06:14:10.985597+07:00",
+   "title": "Crook turns free trials into phishing factory, as LearnWorlds sends 13,000 fake YouTube copyright notices",
+   "link": "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Abuse of cloud platform trial accounts for phishing campaigns poses limited direct risk to data center infrastructure ops.",
+   "summary": "Cybercriminals abused free trial features on a cloud learning platform to launch automated phishing attacks. Cloud administrators should implement stricter verification rules to prevent platform misuse.",
+   "vocab": [
+    {
+     "word": "exploit",
+     "thai": "เอาเปรียบ/ใช้ช่องโหว่",
+     "level": "B2",
+     "example": "Attackers exploit trial periods to send malicious messages."
+    },
+    {
+     "word": "distribute",
+     "thai": "แจกจ่าย/กระจาย",
+     "level": "B2",
+     "example": "Automated scripts distribute phishing emails to thousands of users."
+    },
+    {
+     "word": "malicious",
+     "thai": "ที่ประสงค์ร้าย",
+     "level": "B2",
+     "example": "The filter blocked malicious activity originating from trial accounts."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1259,
+   "ts": "2026-11-17T06:14:10.985620+07:00",
+   "title": "US allies deepen deal to guard AI supply chains against 'hostile actors' (cough, China, cough)",
+   "link": "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "International hardware trade restrictions influence AI server hardware supply chains and procurement strategies.",
+   "summary": "The US and partner countries expanded agreements to safeguard AI chip hardware supply chains against foreign competitors. Infrastructure planners must monitor regulatory shifts when sourcing server hardware for AI workloads.",
+   "vocab": [
+    {
+     "word": "adversary",
+     "thai": "ศัตรู/ฝ่ายตรงข้าม",
+     "level": "C1",
+     "example": "Nations aim to protect critical infrastructure from an adversary."
+    },
+    {
+     "word": "coercing",
+     "thai": "บีบบังคับ",
+     "level": "C1",
+     "example": "Officials denied coercing partner nations into trade agreements."
+    },
+    {
+     "word": "alliance",
+     "thai": "พันธมิตร",
+     "level": "B2",
+     "example": "Member nations formed a strong alliance to secure technology chains."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 1238,
+ "next_id": 1260,
  "vocab": [
   {
    "word": "payload",
