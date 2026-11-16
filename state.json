@@ -2468,7 +2468,31 @@
   "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
   "https://baron.by.dai.studio/",
   "https://ykiko.me/en/articles/2105384023094834022/",
-  "https://ductus.sorenblank.com"
+  "https://ductus.sorenblank.com",
+  "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+  "https://www.datacenterdynamics.com/en/news/banestes-hires-prodest-to-host-equipment-at-the-espirito-santo-state-data-center/",
+  "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+  "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+  "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+  "https://www.datacenterdynamics.com/en/news/ast-spacemobile-to-build-its-own-20-ton-blacklift-rockets-with-firefly-aerospace-engines/",
+  "https://www.datacenterdynamics.com/en/news/astella-part-of-the-abl-group-opens-a-data-center-in-curitiba-with-an-investment-of-r60-million/",
+  "https://www.datacenterdynamics.com/en/whitepapers/3q-2026-global-data-center-market-report/",
+  "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+  "https://www.theregister.com/os-platforms/2026/11/16/omaxian-takes-the-omarchy-look-down-a-different-linux-backstreet/5309750",
+  "https://www.theregister.com/columnists/2026/11/16/we-dont-need-no-education-platform-evolution-hey-redmond-leave-those-kids-alone/5309271",
+  "https://www.theregister.com/on-prem/2026/11/16/techie-rigged-off-spec-fan-near-flammable-liquid-and-an-exposed-motherboard-then-left-it-to-run-for-days/5309601",
+  "https://www.theregister.com/os-platforms/2026/11/16/microsofts-azure-linux-dons-fedora-to-dress-itself-up-for-mainstream-workloads/5310016",
+  "https://www.theregister.com/networks/2026/11/16/amazon-loses-first-batch-of-broadband-satellites-launched-on-custom-rocket/5310000",
+  "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+  "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+  "https://petervandijck.com/post/pbrgs-ev0bc",
+  "https://pub.cba.mit.edu/863.26/site/",
+  "https://iter.ca/post/ubo-uxss/",
+  "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+  "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+  "https://qwen.ai/blog?id=qwen4-max",
+  "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+  "https://muni.works/research/vcad"
  ],
  "stories": [
   {
@@ -17388,75 +17412,343 @@
      "example": "Thirteen guests complained of respiratory irritation caused by elevated chemical levels."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 6,
+   "credibility": 9,
+   "msg_id": 774,
+   "sent_ts": "2026-11-16T19:12:15.852097+07:00"
+  },
+  {
+   "id": 1229,
+   "ts": "2026-11-16T19:18:53.507445+07:00",
+   "title": "Engie could supply power to planned Google data center in Châteauroux, France",
+   "link": "https://www.datacenterdynamics.com/en/news/engie-could-supply-power-to-planned-google-data-center-in-ch%C3%A2teauroux-france/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Google and Engie signed an agreement to explore clean power options for a potential 500MW data center campus in France.",
+   "summary": "Google has signed a preliminary agreement with energy company Engie to supply power for a planned data center in Châteauroux, France. If approved, the project could support up to 500MW of capacity using renewable power and battery storage systems.",
+   "vocab": [
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้",
+     "level": "B2",
+     "example": "Engie will bring its energy expertise to discussions on the project's feasibility."
+    },
+    {
+     "word": "flexibility",
+     "thai": "ความยืดหยุ่น",
+     "level": "B2",
+     "example": "The companies will explore new grid integration and flexibility solutions."
+    },
+    {
+     "word": "consultation",
+     "thai": "การปรึกษาหารือ / การรับฟังความคิดเห็นสาธารณะ",
+     "level": "B2",
+     "example": "This project is currently undergoing a public consultation process."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1230,
+   "ts": "2026-11-16T19:18:53.507517+07:00",
+   "title": "Core Scientific to exit Bitcoin mining by end of 2026 as it grows AI colo business",
+   "link": "https://www.datacenterdynamics.com/en/news/core-scientific-to-exit-bitcoin-mining-by-end-of-2026-as-it-grows-ai-colo-business/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Core Scientific is fully ending cryptocurrency mining to repurpose gigawatts of power and floor space for AI colocation.",
+   "summary": "Core Scientific announced that it will completely exit Bitcoin mining by the end of 2026 to focus exclusively on high-density AI colocation. The firm has already contracted hundreds of megawatts of its infrastructure to major AI partners like CoreWeave and AMD.",
+   "vocab": [
+    {
+     "word": "pivot",
+     "thai": "ปรับเปลี่ยนทิศทางธุรกิจ",
+     "level": "C1",
+     "example": "The company looks to pivot its business towards high-density colocation for AI workloads."
+    },
+    {
+     "word": "disposal",
+     "thai": "การจำหน่ายหรือกำจัดสินทรัพย์ออกไป",
+     "level": "C1",
+     "example": "The company initially earmarked mining and electrical equipment for disposal in Q2."
+    },
+    {
+     "word": "revaluation",
+     "thai": "การประเมินมูลค่าใหม่",
+     "level": "C1",
+     "example": "Net income was primarily driven by a non-cash gain from the revaluation of warrants."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 1231,
+   "ts": "2026-11-16T19:18:53.507548+07:00",
+   "title": "Mount Thor raises $45m to fund new AI cloud offering Apple chips and software",
+   "link": "https://www.datacenterdynamics.com/en/news/mount-thor-raises-45m-to-fund-new-ai-cloud-offering-apple-chips-and-software/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A newly funded AI cloud provider is introducing Apple hardware and macOS clusters into enterprise data centers.",
+   "summary": "Startup Mount Thor raised 45 million dollars to launch an AI cloud powered by Apple silicon chips and macOS. The platform is designed to provide cost-effective compute capacity specifically optimized for autonomous agent inference.",
+   "vocab": [
+    {
+     "word": "untapped",
+     "thai": "ที่ยังไม่ได้นำมาใช้ประโยชน์",
+     "level": "C1",
+     "example": "Apple's silicon at data center-scale is a massive untapped opportunity in AI infrastructure."
+    },
+    {
+     "word": "inference",
+     "thai": "การประมวลผลโมเดลปัญญาประดิษฐ์",
+     "level": "C1",
+     "example": "Apple silicon is becoming a high-performance, cost-efficient platform for production inference."
+    },
+    {
+     "word": "accountable",
+     "thai": "ที่สามารถตรวจสอบหรือรับผิดชอบได้",
+     "level": "B2",
+     "example": "The interface makes macOS the best place for humans to hold AI agents accountable."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1232,
+   "ts": "2026-11-16T19:18:53.507575+07:00",
+   "title": "Box2Bit transfers 150MW grid connection to Blackstone and exits Épila",
+   "link": "https://www.datacenterdynamics.com/en/news/box2bit-sells-150-mw-to-blackstone-and-lets-epila-take-the-lead-in-aragon/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A canceled project in Spain demonstrates how developers are selling off scarce grid power connection rights directly to institutional investors.",
+   "summary": "Box2Bit has canceled its planned Spanish data center and sold its 150MW electrical grid connection rights to Blackstone. The deal highlights how secured grid power capacity has become a highly valuable, tradable asset in data center real estate.",
+   "vocab": [
+    {
+     "word": "bolster",
+     "thai": "ส่งเสริมหรือเพิ่มความแข็งแกร่ง",
+     "level": "C1",
+     "example": "This capacity bolsters Blackstone's campus, bringing the project to 430MW."
+    },
+    {
+     "word": "precedence",
+     "thai": "การมีลำดับความสำคัญเหนือกว่า",
+     "level": "C1",
+     "example": "The availability of power has taken precedence over the land parcel itself."
+    },
+    {
+     "word": "lapsed",
+     "thai": "สิ้นสภาพหรือหมดอายุลง",
+     "level": "C1",
+     "example": "The public declaration lapsed within months after the developer failed to make payments."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1233,
+   "ts": "2026-11-16T19:18:53.507651+07:00",
+   "title": "3Q 2026 global data center market report",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/3q-2026-global-data-center-market-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A comprehensive industry report outlines global trends in colocation demand, tightening power availability, and shifting regional growth.",
+   "summary": "A global market report shows that data center capacity expanded significantly this year, while vacancy rates plummeted due to rapid AI adoption. It also warns that utility grid bottlenecks and permitting halts are heavily dictating where future facilities can be built.",
+   "vocab": [
+    {
+     "word": "bottleneck",
+     "thai": "คอขวดหรืออุปสรรคที่ทำให้การทำงานล่าช้า",
+     "level": "C1",
+     "example": "Power grid bottlenecks and shrinking availability are reshaping where operators build."
+    },
+    {
+     "word": "absorbed",
+     "thai": "ถูกดูดซับหรือถูกจับจองไปอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Intense AI and cloud demand absorbed new capacity almost as fast as it arrived."
+    },
+    {
+     "word": "pinpoint",
+     "thai": "ระบุตำแหน่งหรือชี้ชัดอย่างแม่นยำ",
+     "level": "C1",
+     "example": "The report helps analysts pinpoint high-growth secondary markets for expansion."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1234,
+   "ts": "2026-11-16T19:20:09.319296+07:00",
+   "title": "AWS breaks ground on $7bn data center in Indiana",
+   "link": "https://www.datacenterdynamics.com/en/news/aws-breaks-ground-on-7bn-data-center-in-indiana/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "AWS is starting a multi-billion-dollar data center campus with low water cooling, relevant to data center operators.",
+   "summary": "AWS has started construction on a 7 billion dollar data center project in Indiana that relies mostly on air cooling. The project expands AWS's massive power and facility footprint across the region.",
+   "vocab": [
+    {
+     "word": "groundbreaking",
+     "thai": "พิธีวางศิลาฤกษ์หรือการเริ่มก่อสร้างโครงการ",
+     "level": "B2",
+     "example": "Today's groundbreaking is about much more than a new facility."
+    },
+    {
+     "word": "upfront",
+     "thai": "ล่วงหน้า",
+     "level": "B2",
+     "example": "The company will pay $98m in taxes upfront."
+    },
+    {
+     "word": "shuttered",
+     "thai": "ปิดตัวลงอย่างถาวร",
+     "level": "B2",
+     "example": "AWS purchased a shuttered concrete manufacturing plant earlier this month."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1235,
+   "ts": "2026-11-16T19:20:09.319463+07:00",
+   "title": "Microsoft lifts Indian cloud prices by 15 percent, cuts costs in China",
+   "link": "https://www.theregister.com/off-prem/2026/11/15/microsoft-lifts-indian-cloud-prices-by-15-percent-cuts-costs-in-china/5309993",
+   "source": "www.theregister.com - Articles",
+   "score": 1,
+   "watch": true,
+   "reason": "Scraped feed headlines without the main article text on Indian and Chinese cloud pricing.",
+   "summary": "This entry lists unrelated tech news headlines and lacks the actual article on Microsoft cloud pricing changes. There is insufficient actionable context for infrastructure planning.",
+   "vocab": [
+    {
+     "word": "equivalent",
+     "thai": "สมมูลกันหรือมีค่าเท่ากัน",
+     "level": "B2",
+     "example": "Went at equivalent of $3.5B+ valuation for entire firm."
+    },
+    {
+     "word": "ongoing",
+     "thai": "กำลังดำเนินอยู่ต่อเนื่อง",
+     "level": "B2",
+     "example": "The latest FreeBSD report is here, and the AI debate is ongoing."
+    },
+    {
+     "word": "minority",
+     "thai": "ส่วนน้อย",
+     "level": "B2",
+     "example": "Only a minority want to ban it."
+    }
+   ],
+   "status": "sent",
+   "impact": 1,
+   "urgency": 1,
+   "scale": 1,
+   "credibility": 2,
+   "msg_id": 775,
+   "sent_ts": "2026-11-16T19:20:10.031747+07:00"
+  },
+  {
+   "id": 1236,
+   "ts": "2026-11-16T19:24:28.510030+07:00",
+   "title": "Universal XSS in uBlock Origin from website-driven element picker",
+   "link": "https://iter.ca/post/ubo-uxss/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Details a patched universal cross-site scripting flaw in a widely used browser extension, useful for endpoint security awareness.",
+   "summary": "A security researcher discovered a universal cross-site scripting vulnerability in the uBlock Origin browser extension that allowed malicious sites to inject custom filters. The flaw has already been patched, preventing attackers from executing unauthorized scripts across arbitrary websites.",
+   "vocab": [
+    {
+     "word": "arbitrary",
+     "thai": "ตามอำเภอใจหรือโดยพลการ",
+     "level": "B2",
+     "example": "A malicious website could trick the extension into adding arbitrary trusted filters."
+    },
+    {
+     "word": "embed",
+     "thai": "ฝังตัวหรือใส่ไว้ภายใน",
+     "level": "B2",
+     "example": "The attack involves creating an invisible iframe that embeds the picker interface."
+    },
+    {
+     "word": "extract",
+     "thai": "ดึงข้อมูลหรือสกัดออกมา",
+     "level": "B2",
+     "example": "The website can hook requests to extract the random extension UUID."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1237,
+   "ts": "2026-11-16T19:24:28.510150+07:00",
+   "title": "Old Bitly links are being hijacked",
+   "link": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "A notable identity and networking security risk regarding URL shorteners being repurposed to direct users to unauthorized destinations.",
+   "summary": "Attackers reclaimed expired Bitly short URLs from prominent corporate and political accounts to redirect visitors to unrelated and controversial sites. Bitly has suspended the offending accounts and is revising rules to prevent the hijacking of inactive links.",
+   "vocab": [
+    {
+     "word": "hijack",
+     "thai": "แย่งชิงการควบคุมหรือไฮแจ็ก",
+     "level": "B2",
+     "example": "Old inactive short links are being hijacked to point at malicious domains."
+    },
+    {
+     "word": "repurpose",
+     "thai": "นำกลับมาปรับใช้ในวัตถุประสงค์ใหม่",
+     "level": "C1",
+     "example": "The bug allowed bad actors to repurpose old links and redirect visitors."
+    },
+    {
+     "word": "inactive",
+     "thai": "ที่ไม่ได้ใช้งานหรือหยุดทำงาน",
+     "level": "B2",
+     "example": "Bitly suspended accounts that claimed inactive short addresses."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
    "credibility": 9
   }
  ],
- "next_id": 1229,
+ "next_id": 1238,
  "vocab": [
-  {
-   "word": "restructuring",
-   "thai": "การปรับโครงสร้างหนี้หรือองค์กร",
-   "level": "B2",
-   "example": "RiverStreet has appointed a chief restructuring officer to support the company during proceedings.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "durable",
-   "thai": "คงทน, ยั่งยืน",
-   "level": "B2",
-   "example": "Oaktree noted that demand for reliable connectivity in these communities is durable.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "customary",
-   "thai": "ตามธรรมเนียม, เป็นปกติ",
-   "level": "C1",
-   "example": "The company filed several customary first-day motions to prop up its business operations.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sanitization",
-   "thai": "การล้างข้อมูลให้สะอาดปลอดภัย",
-   "level": "C1",
-   "example": "A missed sanitization step can create real data security exposure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reconciliation",
-   "thai": "การตรวจสอบความถูกต้องตรงกัน",
-   "level": "C1",
-   "example": "Track every asset with expected-versus-actual reconciliation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "scrutiny",
-   "thai": "การตรวจสอบอย่างละเอียด",
-   "level": "C1",
-   "example": "Often within tight access windows and under close compliance scrutiny.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "payload",
    "thai": "สัมภาระหรือน้ำหนักบรรทุกของยานพาหนะ",
@@ -22392,6 +22684,66 @@
    "thai": "ที่ไม่ได้รับการยืนยันตัวตน",
    "level": "B2",
    "example": "Starting the broker like this allows unauthenticated access only from the local computer.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "chlorine",
+   "thai": "คลอรีน",
+   "level": "B2",
+   "example": "The automatic dosing system had pumped too much chlorine into the pool.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "poisoning",
+   "thai": "ภาวะได้รับสารพิษ",
+   "level": "B2",
+   "example": "A Microsoft 365 outage led to chlorine gas poisoning of 15 hotel guests.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "irritation",
+   "thai": "การระคายเคือง",
+   "level": "B2",
+   "example": "Thirteen guests complained of respiratory irritation caused by elevated chemical levels.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "equivalent",
+   "thai": "สมมูลกันหรือมีค่าเท่ากัน",
+   "level": "B2",
+   "example": "Went at equivalent of $3.5B+ valuation for entire firm.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ongoing",
+   "thai": "กำลังดำเนินอยู่ต่อเนื่อง",
+   "level": "B2",
+   "example": "The latest FreeBSD report is here, and the AI debate is ongoing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "minority",
+   "thai": "ส่วนน้อย",
+   "level": "B2",
+   "example": "Only a minority want to ban it.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
