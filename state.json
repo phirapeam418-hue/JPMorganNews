@@ -2472,120 +2472,6 @@
  ],
  "stories": [
   {
-   "id": 823,
-   "ts": "2026-11-02T08:07:17.742591+07:00",
-   "title": "Postgres 19 is late, and it's AI's fault",
-   "link": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "PostgreSQL is a core data tier technology, and delays caused by AI-generated bug reports directly affect database release schedules.",
-   "summary": "PostgreSQL 19 is facing delayed release and late feature reverts due to a flood of bugs discovered by LLMs. This surge in bug reports forced maintainers to spend excessive time backporting fixes rather than stabilizing new features.",
-   "vocab": [
-    {
-     "word": "revert",
-     "thai": "ย้อนกลับสู่สภาพเดิมหรือยกเลิกการเปลี่ยนแปลง",
-     "level": "C1",
-     "example": "Several rather large features were reverted quite late in the beta period."
-    },
-    {
-     "word": "postpone",
-     "thai": "เลื่อนออกไป",
-     "level": "B2",
-     "example": "The project could decide to postpone the release further."
-    },
-    {
-     "word": "conservative",
-     "thai": "ระมัดระวังหรือไม่ชอบความเสี่ยง",
-     "level": "B2",
-     "example": "PostgreSQL committers were about as conservative as they were in preceding years."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 488,
-   "sent_ts": "2026-11-02T14:36:25.581255+07:00"
-  },
-  {
-   "id": 824,
-   "ts": "2026-11-02T08:07:17.742670+07:00",
-   "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
-   "link": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Novel thermal redirection materials could eventually influence electronics cooling and chip thermal management in high-density facilities.",
-   "summary": "Researchers have built a 3D thermal cloak that guides heat around objects to make them invisible to infrared sensors and shield them from extreme temperatures. The underlying material could eventually provide new techniques for cooling chips and sensitive electronics.",
-   "vocab": [
-    {
-     "word": "groundbreaking",
-     "thai": "ที่เป็นการบุกเบิกครั้งสำคัญ",
-     "level": "B2",
-     "example": "Researchers have developed a groundbreaking 3D invisibility cloak."
-    },
-    {
-     "word": "conceal",
-     "thai": "ปกปิดหรือซ่อนเร้น",
-     "level": "B2",
-     "example": "The device can conceal objects from infrared cameras."
-    },
-    {
-     "word": "lattice",
-     "thai": "โครงสร้างแบบตาข่ายหรือร่างแห",
-     "level": "C1",
-     "example": "The solution was a new lattice-based material."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 491,
-   "sent_ts": "2026-11-02T14:36:27.644676+07:00"
-  },
-  {
-   "id": 825,
-   "ts": "2026-11-02T08:07:17.742696+07:00",
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Financial returns on AI directly affect future enterprise IT budgets and infrastructure investments.",
-   "summary": "An Apollo Global Management analysis indicates that generative AI has yielded virtually zero financial return for companies outside the major tech sector. It highlights that enterprise productivity has remained stagnant despite massive capital expenditures.",
-   "vocab": [
-    {
-     "word": "stagnant",
-     "thai": "หยุดนิ่งหรือไม่เติบโต",
-     "level": "C1",
-     "example": "Corporate productivity metrics remained largely stagnant across several quarters."
-    },
-    {
-     "word": "skeptical",
-     "thai": "ที่กังขาหรือไม่เชื่อถือ",
-     "level": "B2",
-     "example": "The economist sounded skeptical about claims of rapid profit growth."
-    },
-    {
-     "word": "accountability",
-     "thai": "ความรับผิดชอบที่ตรวจสอบได้",
-     "level": "C1",
-     "example": "AI does not understand accountability, trust, culture, or unwritten rules."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 492,
-   "sent_ts": "2026-11-02T14:36:28.319934+07:00"
-  },
-  {
    "id": 826,
    "ts": "2026-11-03T09:01:39.066231+07:00",
    "title": "Envision claims to be running the world's first 800VDC data center in Ulanqab, China",
@@ -17350,11 +17236,13 @@
      "example": "This post focuses on soundness bugs in the standard library’s unsafe code."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 772,
+   "sent_ts": "2026-11-16T14:53:24.510173+07:00"
   },
   {
    "id": 1225,
@@ -17386,11 +17274,13 @@
      "example": "The court took into account the companies' prior cartel history in the memory market."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 770,
+   "sent_ts": "2026-11-16T14:53:23.556992+07:00"
   },
   {
    "id": 1226,
@@ -17422,11 +17312,13 @@
      "example": "The setup will sidestep US rules that ban sales of advanced chips directly to Chinese firms."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 771,
+   "sent_ts": "2026-11-16T14:53:24.036508+07:00"
   },
   {
    "id": 1227,
@@ -17458,11 +17350,13 @@
      "example": "Starting the broker like this allows unauthenticated access only from the local computer."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 773,
+   "sent_ts": "2026-11-16T14:53:24.980575+07:00"
   },
   {
    "id": 1228,
@@ -17503,106 +17397,6 @@
  ],
  "next_id": 1229,
  "vocab": [
-  {
-   "word": "emissions",
-   "thai": "การปล่อยก๊าซเรือนกระจก",
-   "level": "B2",
-   "example": "Shareholders curious about its plans to tackle emissions.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disclose",
-   "thai": "เปิดเผยข้อมูล",
-   "level": "B2",
-   "example": "The company decided to disclose the security breach to its customers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "investigator",
-   "thai": "ผู้สืบสวน",
-   "level": "B2",
-   "example": "Investigators analyzed the server logs to determine how the attackers gained access.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "commissioned",
-   "thai": "เปิดใช้งาน, สั่งเดินระบบ",
-   "level": "B2",
-   "example": "The first stage is anticipated to be progressively constructed and commissioned over two to three years.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "earmarked",
-   "thai": "จัดสรรไว้สำหรับ, ระบุไว้สำหรับ",
-   "level": "C1",
-   "example": "The site was previously earmarked to be a large-scale renewables-based green hydrogen and ammonia project.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "rebranded",
-   "thai": "เปลี่ยนชื่อแบรนด์, รีแบรนด์",
-   "level": "B2",
-   "example": "The acquired site within the SunTech Corporate Park has been rebranded as ORO2.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "colocation",
-   "thai": "บริการฝากวางเซิร์ฟเวอร์",
-   "level": "C1",
-   "example": "US Signal provides data center, cloud hosting, and colocation services.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "extends",
-   "thai": "ขยายออกไป",
-   "level": "B2",
-   "example": "The Hillsboro investment extends that model into the Portland metro area.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "tapped",
-   "thai": "เลือกใช้, แต่งตั้ง, ดึงตัว",
-   "level": "B2",
-   "example": "APAC data center developer Nxera Singapore has tapped Singaporean energy firm Sembcorp to supply renewable energy.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "underpinning",
-   "thai": "เป็นรากฐาน, สนับสนุน",
-   "level": "C1",
-   "example": "Strengthening our energy resilience will be critical to underpinning Nxera’s long-term development.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "restructuring",
    "thai": "การปรับโครงสร้างหนี้หรือองค์กร",
@@ -22498,6 +22292,106 @@
    "thai": "การกำหนดค่าระบบที่ผิดพลาด",
    "level": "C1",
    "example": "Similar misconfigurations may occur there too, but we did not examine them.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conspired",
+   "thai": "สมคบคิดหรือร่วมมือกันทำสิ่งผิด",
+   "level": "C1",
+   "example": "The lawsuit alleges the chipmakers conspired to cut conventional DRAM supply.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "plausible",
+   "thai": "สมเหตุสมผลและน่าเชื่อถือ",
+   "level": "B2",
+   "example": "The judge found the evidence supported a plausible inference of conspiracy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "cartel",
+   "thai": "กลุ่มผู้ผลิตที่รวมหัวกันผูกขาดตลาด",
+   "level": "C1",
+   "example": "The court took into account the companies' prior cartel history in the memory market.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "recuse",
+   "thai": "ถอนตัวออก (เพื่อหลีกเลี่ยงผลประโยชน์ทับซ้อน)",
+   "level": "C2",
+   "example": "He steered the firm for decades before recusing himself when joining the administration.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sidestep",
+   "thai": "หลีกเลี่ยง, เลี่ยง",
+   "level": "C1",
+   "example": "The setup will sidestep US rules that ban sales of advanced chips directly to Chinese firms.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "recurring",
+   "thai": "ที่เกิดขึ้นซ้ำๆ",
+   "level": "B2",
+   "example": "The findings reveal three recurring patterns of misplaced trust in unsafe code.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "soundness",
+   "thai": "ความถูกต้องสมบูรณ์เชิงระบบ",
+   "level": "C1",
+   "example": "This post focuses on soundness bugs in the standard library’s unsafe code.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "broker",
+   "thai": "ตัวกลางจัดการการส่งต่อข้อมูลหรือข้อความ",
+   "level": "B2",
+   "example": "Mosquitto is an open source implementation of a server for the MQTT protocol acting as a broker.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "administer",
+   "thai": "จัดการหรือดูแลระบบ",
+   "level": "B2",
+   "example": "The package includes applications for helping administer the broker.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unauthenticated",
+   "thai": "ที่ไม่ได้รับการยืนยันตัวตน",
+   "level": "B2",
+   "example": "Starting the broker like this allows unauthenticated access only from the local computer.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
