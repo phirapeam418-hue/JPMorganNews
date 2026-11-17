@@ -2516,7 +2516,31 @@
   "https://www.theregister.com/os-platforms/2026/11/16/ubuntu-gets-ai-generated-security-fixes-for-those-feeling-brave/5310139",
   "https://www.theregister.com/software/2026/11/16/microsoft-fixes-windows-activation-as-admins-pick-through-exchange-outage-wreckage/5310102",
   "https://www.theregister.com/security/2026/11/16/crook-turns-free-trials-into-phishing-factory-as-learnworlds-sends-13000-fake-youtube-copyright-notices/5310122",
-  "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094"
+  "https://www.theregister.com/systems/2026/11/16/us-allies-deepen-deal-to-guard-ai-supply-chains-against-hostile-actors-cough-china-cough/5310094",
+  "https://www.datacenterdynamics.com/en/news/northern-europe-energy-targets-data-center-in-riihim%C3%A4ki-finland/",
+  "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+  "https://www.datacenterdynamics.com/en/news/rakuten-mobile-jtower-pair-to-expand-infra-sharing-to-more-than-1000-sites-in-japan/",
+  "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+  "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+  "https://www.datacenterdynamics.com/en/whitepapers/the-future-of-direct-to-die-is-dielectric/",
+  "https://www.datacenterdynamics.com/en/news/ntt-docomo-hit-by-third-5g-standalone-outage-in-just-over-a-week-in-japan/",
+  "https://www.datacenterdynamics.com/en/news/jensen-huang-plots-return-as-nvidia-ceo-as-doubt-raised-on-whether-alice-huang-was-a-chinese-spy/",
+  "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+  "https://www.datacenterdynamics.com/en/news/data4-sells-minority-stake-in-greek-unit-to-hellenic-sovereign-fund/",
+  "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+  "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-singapore/",
+  "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+  "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+  "https://www.datacenterdynamics.com/en/news/faa-ground-stop-saga-lumen-highlights-legacy-network-rut-as-hpe-bats-away-juniper-blame/",
+  "https://www.theregister.com/systems/2026/11/17/nvidia-places-chip-exports-under-boardroom-supervision-after-huangs-exit/5310429",
+  "https://www.theregister.com/legal/2026/11/17/website-owners-thumb-their-noses-at-eu-privacy-rules-researcher-finds/5310265",
+  "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448",
+  "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+  "https://www.theregister.com/offbeat/2026/11/17/ai-toys-are-on-the-naughty-list-again-this-year/5310261",
+  "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355",
+  "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+  "https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385",
+  "https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348"
  ],
  "stories": [
   {
@@ -16510,11 +16534,13 @@
      "example": "The license requirement will not apply when the chips are destined for companies headquartered in the United States."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 795,
+   "sent_ts": "2026-11-17T22:06:21.693467+07:00"
   },
   {
    "id": 1240,
@@ -16692,11 +16718,13 @@
      "example": "This deployment helps deliver a meaningful portion of the infrastructure behind next-generation AI compute."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 796,
+   "sent_ts": "2026-11-17T22:06:22.425926+07:00"
   },
   {
    "id": 1245,
@@ -16732,7 +16760,10 @@
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/on-prem/2026/11/17/reit-move-blackstone-joint-venture-buys-aws-campuses-to-lease-back-to-the-cloud-giant/5310355"
+   ]
   },
   {
    "id": 1246,
@@ -17092,11 +17123,13 @@
      "example": "Security researchers disclosed the bug to kernel developers."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 9,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 797,
+   "sent_ts": "2026-11-17T22:06:23.057535+07:00"
   },
   {
    "id": 1256,
@@ -17164,11 +17197,13 @@
      "example": "A licensing glitch temporarily affected server software verification."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 798,
+   "sent_ts": "2026-11-17T22:06:23.693950+07:00"
   },
   {
    "id": 1258,
@@ -17243,130 +17278,660 @@
    "credibility": 9,
    "msg_id": 791,
    "sent_ts": "2026-11-17T16:04:52.477874+07:00"
+  },
+  {
+   "id": 1260,
+   "ts": "2026-11-17T22:09:52.869425+07:00",
+   "title": "Oak Ridge National Laboratory unveils Lux supercomputer",
+   "link": "https://www.datacenterdynamics.com/en/news/oak-ridge-national-laboratory-unveils-lux-supercomputer/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "High-performance computing news is relevant to AI infrastructure trends, though specific to a national lab.",
+   "summary": "Oak Ridge National Laboratory has launched 'Lux,' a new supercomputer powered by AMD GPUs to support national scientific research. The system is part of a government initiative to advance 'super intelligence' for scientific discovery.",
+   "vocab": [
+    {
+     "word": "initiative",
+     "thai": "ความคิดริเริ่ม",
+     "level": "B2",
+     "example": "Lux is the first major addition to the DOE’s computing infrastructure in support of the Genesis Mission initiative."
+    },
+    {
+     "word": "accelerated",
+     "thai": "ที่ถูกเร่งความเร็ว",
+     "level": "B2",
+     "example": "Standing up a system of this scale on an accelerated timeline is an extraordinary accomplishment."
+    },
+    {
+     "word": "collaboration",
+     "thai": "การร่วมมือ",
+     "level": "B2",
+     "example": "This achievement reflects what is possible through strong public-private collaboration."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 3,
+   "credibility": 10
+  },
+  {
+   "id": 1261,
+   "ts": "2026-11-17T22:09:52.869465+07:00",
+   "title": "Rakuten Mobile, JTower pair to expand infra sharing to more than 1,000 sites in Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/rakuten-mobile-jtower-pair-to-expand-infra-sharing-to-more-than-1000-sites-in-japan/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Infrastructure sharing is a key strategy for network operators to manage capital expenditure.",
+   "summary": "Rakuten Mobile and JTower are expanding their infrastructure sharing partnership to over 1,000 sites across Japan by 2027. This move aims to improve network coverage and operational efficiency using AI-managed antenna systems.",
+   "vocab": [
+    {
+     "word": "leverage",
+     "thai": "ใช้ประโยชน์จาก",
+     "level": "B2",
+     "example": "The company will leverage its RAN Intelligent Controller to automatically adjust antenna angles."
+    },
+    {
+     "word": "expenditure",
+     "thai": "รายจ่าย",
+     "level": "C1",
+     "example": "The RIC helps in improving capital expenditure efficiency."
+    },
+    {
+     "word": "synchronizing",
+     "thai": "การทำให้สอดคล้องกัน",
+     "level": "B2",
+     "example": "The companies are accelerating development by synchronizing with ongoing 4G equipment modernization projects."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 10
+  },
+  {
+   "id": 1262,
+   "ts": "2026-11-17T22:09:52.869491+07:00",
+   "title": "Nokia, Nscale, Skeleton, Telia, and Verda form gigafactory consortium",
+   "link": "https://www.datacenterdynamics.com/en/news/nokia-nscale-skeleton-telia-and-verda-form-gigafactory-consortium/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This consortium represents a significant regional effort to build sovereign AI infrastructure.",
+   "summary": "A group of European tech firms has formed a consortium to build 'AI gigafactory' data centers in the Nordic and Baltic regions. The project aims to provide secure, sovereign AI computing power to support European innovation.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัท",
+     "level": "C1",
+     "example": "A consortium of European companies is coming together for a series of planned data centers."
+    },
+    {
+     "word": "sovereign",
+     "thai": "ที่มีอำนาจอธิปไตย",
+     "level": "C1",
+     "example": "Europe’s AI ambitions depend on infrastructure it can trust, control and scale for technological sovereignty."
+    },
+    {
+     "word": "resilient",
+     "thai": "ที่ยืดหยุ่น/ทนทาน",
+     "level": "B2",
+     "example": "By linking strengths across borders, we can build a more resilient foundation for European innovation."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1263,
+   "ts": "2026-11-17T22:09:52.869514+07:00",
+   "title": "Google inks 50MW geothermal PPA with Quaise in Oregon",
+   "link": "https://www.datacenterdynamics.com/en/news/google-inks-50mw-geothermal-ppa-with-quaise-in-oregon/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Power procurement is critical for data center operations, especially as hyperscalers seek carbon-free energy.",
+   "summary": "Google has signed a 50MW geothermal power agreement with Quaise Energy to support its Oregon data centers. This deal highlights the growing interest among hyperscalers in advanced geothermal technology to provide reliable, clean energy.",
+   "vocab": [
+    {
+     "word": "abundant",
+     "thai": "มากมาย",
+     "level": "B2",
+     "example": "We started Quaise to make the Earth’s most abundant energy source universally accessible."
+    },
+    {
+     "word": "permeability",
+     "thai": "ความสามารถในการซึมผ่าน",
+     "level": "C2",
+     "example": "EGS techniques create permeability in reservoirs that would otherwise be inaccessible."
+    },
+    {
+     "word": "conventional",
+     "thai": "ตามธรรมเนียม/แบบดั้งเดิม",
+     "level": "B2",
+     "example": "Unlike conventional geothermal systems, which rely on naturally occurring hot water, EGS uses new techniques."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 1264,
+   "ts": "2026-11-17T22:09:52.869534+07:00",
+   "title": "The future of direct-to-die is dielectric",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/the-future-of-direct-to-die-is-dielectric/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Advanced cooling is a top priority for data center operators managing high-density AI hardware.",
+   "summary": "A new whitepaper explores how two-phase dielectric cooling can improve thermal management for high-performance AI hardware. This technology may allow data centers to operate at higher temperatures, reducing cooling costs and energy usage.",
+   "vocab": [
+    {
+     "word": "evolution",
+     "thai": "วิวัฒนาการ",
+     "level": "B2",
+     "example": "The rapid evolution of AI is driving demand for more advanced cooling technologies."
+    },
+    {
+     "word": "uniformity",
+     "thai": "ความสม่ำเสมอ",
+     "level": "C1",
+     "example": "Dielectric refrigerants offer improved thermal uniformity compared to water-based cooling."
+    },
+    {
+     "word": "mission-critical",
+     "thai": "สำคัญต่อภารกิจ",
+     "level": "B2",
+     "example": "Two-phase cooling could support the transition of technology into mission-critical data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1265,
+   "ts": "2026-11-17T22:09:52.869546+07:00",
+   "title": "NTT Docomo hit by third 5G Standalone outage in just over a week in Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/ntt-docomo-hit-by-third-5g-standalone-outage-in-just-over-a-week-in-japan/",
+   "source": "DCD",
+   "score": 8,
+   "watch": true,
+   "reason": "Frequent outages in a major carrier's 5G SA network are a significant operational concern for infrastructure reliability.",
+   "summary": "NTT Docomo experienced its third 5G Standalone network outage in just over a week. The company is investigating the cause, though it has ruled out cyberattacks for the time being.",
+   "vocab": [
+    {
+     "word": "fortnight",
+     "thai": "สองสัปดาห์",
+     "level": "B2",
+     "example": "The carrier was hit by another outage, its third in less than a fortnight."
+    },
+    {
+     "word": "downtime",
+     "thai": "เวลาที่ระบบหยุดทำงาน",
+     "level": "B2",
+     "example": "The operator apologized for the downtime that impacted users nationwide."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ที่ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "The investigation hasn't found any evidence of unauthorized access or cyberattacks."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 5,
+   "credibility": 10,
+   "msg_id": 799,
+   "sent_ts": "2026-11-17T22:09:53.544049+07:00"
+  },
+  {
+   "id": 1266,
+   "ts": "2026-11-17T22:10:15.679726+07:00",
+   "title": "GIC and Saudi Telecom compete on Pure DC minority stake bid",
+   "link": "https://www.datacenterdynamics.com/en/news/gic-and-saudi-telecom-compete-on-pure-dc-minority-stake-bid/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a financial news item regarding data center ownership and investment, which has low immediate impact on daily infrastructure operations.",
+   "summary": "GIC and Saudi Telecom are bidding for a minority stake in Pure Data Centres to support its global expansion. The deal reflects the ongoing high valuation and investor interest in large-scale data center developers.",
+   "vocab": [
+    {
+     "word": "sovereign",
+     "thai": "ที่มีอำนาจสูงสุด, ของรัฐ",
+     "level": "C1",
+     "example": "Singapore’s sovereign wealth fund is investing heavily in global data center infrastructure."
+    },
+    {
+     "word": "valuation",
+     "thai": "การประเมินมูลค่า",
+     "level": "B2",
+     "example": "Oaktree is seeking an $8 billion valuation for its data center business."
+    },
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "GIC and Macquarie formed a strategic partnership to develop data center capacity."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1267,
+   "ts": "2026-11-17T22:10:15.679802+07:00",
+   "title": "China's LineShine retains supercomputing crown as both Top500 and Green500 lists remain largely unchanged",
+   "link": "https://www.datacenterdynamics.com/en/news/chinas-lineshine-retains-supercomputing-crown-as-both-top500-and-green500-lists-remain-largely-unchanged/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "This report tracks the state of high-performance computing, which influences future AI and server hardware trends.",
+   "summary": "The latest Top500 list shows minimal changes, with China's LineShine retaining the top spot. The industry is seeing fewer new system entries as focus shifts toward upgrading existing high-performance infrastructure.",
+   "vocab": [
+    {
+     "word": "turnover",
+     "thai": "อัตราการเปลี่ยนแปลง",
+     "level": "B2",
+     "example": "The November list saw new system turnover fall to a historic low."
+    },
+    {
+     "word": "wholesale",
+     "thai": "ทั้งหมด, ขนานใหญ่",
+     "level": "C1",
+     "example": "Improvements are coming from upgrades rather than wholesale replacements of supercomputers."
+    },
+    {
+     "word": "consequently",
+     "thai": "ดังนั้น, เป็นผลให้",
+     "level": "B2",
+     "example": "Consequently, for the second edition in a row, the Top500 was topped by China’s LineShine."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 1,
+   "scale": 8,
+   "credibility": 10
+  },
+  {
+   "id": 1268,
+   "ts": "2026-11-17T22:10:15.679837+07:00",
+   "title": "Digital Realty launches liquid cooling lab in Singapore",
+   "link": "https://www.datacenterdynamics.com/en/news/digital-realty-launches-liquid-cooling-lab-in-singapore/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Liquid cooling is a critical operational trend for high-density AI infrastructure, making this highly relevant.",
+   "summary": "Digital Realty has opened a new liquid cooling lab in Singapore to help enterprises test AI infrastructure. The facility allows customers to validate high-density rack configurations before full-scale deployment.",
+   "vocab": [
+    {
+     "word": "validate",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "The lab allows customers to validate integrated AI infrastructure solutions."
+    },
+    {
+     "word": "production-grade",
+     "thai": "ระดับที่ใช้งานจริง",
+     "level": "C1",
+     "example": "The lab provides a production-grade testing environment for new architectures."
+    },
+    {
+     "word": "commit",
+     "thai": "ตกลงทำ, มอบหมาย",
+     "level": "B2",
+     "example": "Enterprises want to test performance before committing to infrastructure at scale."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 10
+  },
+  {
+   "id": 1269,
+   "ts": "2026-11-17T22:10:15.679869+07:00",
+   "title": "Italian startup targets data centers with offshore energy storage",
+   "link": "https://www.datacenterdynamics.com/en/news/italian-startup-targets-data-centers-with-offshore-energy-storage/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Energy storage innovation is relevant to data center sustainability, though this specific technology is in early stages.",
+   "summary": "Startup Sizable Energy is testing an offshore gravity-based energy storage system to power data centers. The technology uses hydrostatic pressure to store renewable energy for grid stability.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ยืดหยุ่น, ฟื้นตัวเร็ว",
+     "level": "C1",
+     "example": "The ocean-based system makes the grid more stable and resilient."
+    },
+    {
+     "word": "excess",
+     "thai": "ส่วนเกิน",
+     "level": "B2",
+     "example": "Excess energy is used to pump fluid into a reservoir for storage."
+    },
+    {
+     "word": "demonstrator",
+     "thai": "เครื่องสาธิต",
+     "level": "C1",
+     "example": "The company is planning an integrated demonstrator project with a data center in 2027."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1270,
+   "ts": "2026-11-17T22:10:15.679899+07:00",
+   "title": "Vodafone joint venture to develop two major data center projects in Egypt",
+   "link": "https://www.datacenterdynamics.com/en/news/vodafone-joint-venture-to-develop-two-major-data-center-projects-in-egypt/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "This is a major regional infrastructure project announcement relevant to global cloud expansion.",
+   "summary": "Vodacom and partners are investing $1 billion to build a large-scale data center in Egypt. The facility aims to support local AI applications and international cloud service providers.",
+   "vocab": [
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทลูก",
+     "level": "B2",
+     "example": "Vodafone’s African subsidiary plans to develop Egypt’s largest data center."
+    },
+    {
+     "word": "initiative",
+     "thai": "ความคิดริเริ่ม",
+     "level": "B2",
+     "example": "The initiative will be developed through a joint venture with multinational partners."
+    },
+    {
+     "word": "leveraging",
+     "thai": "การใช้ประโยชน์จาก",
+     "level": "C1",
+     "example": "The strategy is built on leveraging global expertise to bring advanced technologies to the local market."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 1271,
+   "ts": "2026-11-17T22:10:15.679917+07:00",
+   "title": "FAA ground stop saga: Lumen highlights legacy network rut as HPE bats away Juniper blame",
+   "link": "https://www.datacenterdynamics.com/en/news/faa-ground-stop-saga-lumen-highlights-legacy-network-rut-as-hpe-bats-away-juniper-blame/",
+   "source": "DCD",
+   "score": 8,
+   "watch": true,
+   "reason": "This incident highlights critical risks in legacy network infrastructure and vendor interoperability, which is vital for ops teams.",
+   "summary": "A major FAA network outage caused a nationwide ground stop, raising concerns about aging copper infrastructure and router upgrades. Investigations are ongoing to determine if specific hardware or configuration errors triggered the failure.",
+   "vocab": [
+    {
+     "word": "disturbance",
+     "thai": "การรบกวน, ความวุ่นวาย",
+     "level": "B2",
+     "example": "The incident was triggered by a network disturbance during a routine upgrade."
+    },
+    {
+     "word": "refute",
+     "thai": "โต้แย้ง, ปฏิเสธ",
+     "level": "C1",
+     "example": "HPE strongly refuted claims that their networking device was to blame for the outage."
+    },
+    {
+     "word": "modernizing",
+     "thai": "ทำให้ทันสมัย",
+     "level": "B2",
+     "example": "The contractor is modernizing the communications infrastructure supporting the National Airspace System."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 1272,
+   "ts": "2026-11-17T22:11:42.662271+07:00",
+   "title": "Website owners thumb their noses at EU privacy rules, researcher finds",
+   "link": "https://www.theregister.com/legal/2026/11/17/website-owners-thumb-their-noses-at-eu-privacy-rules-researcher-finds/5310265",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a privacy compliance issue rather than a direct infrastructure or security threat to data center operations.",
+   "summary": "A study shows that many websites are ignoring EU privacy regulations by failing to respect user opt-outs. This highlights a growing trend of companies prioritizing data collection over legal compliance.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "B2",
+     "example": "The company must ensure full compliance with the new data privacy laws."
+    },
+    {
+     "word": "regulatory",
+     "thai": "เกี่ยวกับกฎข้อบังคับ",
+     "level": "C1",
+     "example": "The firm faces increased regulatory pressure to protect user information."
+    },
+    {
+     "word": "oversight",
+     "thai": "การกำกับดูแล",
+     "level": "C1",
+     "example": "There is a lack of effective oversight regarding how these websites handle user data."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 1,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1273,
+   "ts": "2026-11-17T22:11:42.662325+07:00",
+   "title": "Optimizely hack turns world's biggest websites into malware dispensers",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/17/optimizely-hack-turns-worlds-biggest-websites-into-malware-dispensers/5310448",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Supply chain attacks on major platforms pose a critical risk to any infrastructure that relies on third-party scripts or services.",
+   "summary": "Hackers compromised the Optimizely platform to inject malicious code into major websites like the BBC and GitLab. This supply chain attack allowed attackers to steal sensitive user data directly from visitors' browsers.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "ทำให้เสียหายหรือตกอยู่ในอันตราย",
+     "level": "B2",
+     "example": "The attackers managed to compromise the platform to distribute malware."
+    },
+    {
+     "word": "malicious",
+     "thai": "ที่เป็นอันตราย",
+     "level": "B2",
+     "example": "The website was infected with malicious code designed to steal credit card details."
+    },
+    {
+     "word": "mitigate",
+     "thai": "บรรเทา",
+     "level": "C1",
+     "example": "Companies must implement better security controls to mitigate the risk of supply chain attacks."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 10,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 1274,
+   "ts": "2026-11-17T22:11:42.662368+07:00",
+   "title": "'Not rocket surgery' claims researcher who found six Danfoss fridge controller zero-days in under an hour",
+   "link": "https://www.theregister.com/security/2026/11/17/not-rocket-surgery-claims-researcher-who-found-six-danfoss-fridge-controller-zero-days-in-under-an-hour/5310197",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Vulnerabilities in industrial control hardware like fridge controllers can be entry points for attackers into sensitive facility networks.",
+   "summary": "A researcher discovered six critical security flaws in Danfoss refrigeration controllers that allow unauthorized access. These devices lack basic security protections, making them easy targets for attackers to exploit.",
+   "vocab": [
+    {
+     "word": "exploit",
+     "thai": "ช่องโหว่ที่ถูกนำไปใช้โจมตี",
+     "level": "B2",
+     "example": "The researcher found a way to exploit the firmware to gain control of the device."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "The vulnerability allows unauthorized access to the controller's settings."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไข",
+     "level": "C2",
+     "example": "The manufacturer is working on a firmware update for the remediation of these security holes."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1275,
+   "ts": "2026-11-17T22:11:42.662493+07:00",
+   "title": "Opinion pollster Ipsos 'fesses up to 'cybersecurity incident'",
+   "link": "https://www.theregister.com/security/2026/11/17/opinion-pollster-ipsos-fesses-up-to-cybersecurity-incident/5310405",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "While a security incident, it is a corporate data breach rather than an infrastructure-wide threat.",
+   "summary": "Market research firm Ipsos has confirmed a cybersecurity incident and is working with external experts to investigate. The company is currently assessing the scope of the breach to determine what data was accessed.",
+   "vocab": [
+    {
+     "word": "incident",
+     "thai": "เหตุการณ์",
+     "level": "B2",
+     "example": "The company is investigating the security incident to prevent future occurrences."
+    },
+    {
+     "word": "assess",
+     "thai": "ประเมิน",
+     "level": "B2",
+     "example": "Security teams are working to assess the full impact of the data breach."
+    },
+    {
+     "word": "investigation",
+     "thai": "การสืบสวน",
+     "level": "B2",
+     "example": "A formal investigation is underway to identify the source of the attack."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1276,
+   "ts": "2026-11-17T22:11:42.662509+07:00",
+   "title": "Up to 99% of UK civil servants rely on Microsoft for comms, minister admits",
+   "link": "https://www.theregister.com/software/2026/11/17/up-to-99-of-uk-civil-servants-rely-on-microsoft-for-comms-minister-admits/5310385",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": true,
+   "reason": "This highlights the risks of vendor lock-in for critical government infrastructure, relevant to operations strategy.",
+   "summary": "The UK government has admitted that nearly all civil servants rely on Microsoft for communications. This high level of dependency has raised concerns about resilience following recent major service outages.",
+   "vocab": [
+    {
+     "word": "dependency",
+     "thai": "การพึ่งพา",
+     "level": "B2",
+     "example": "The government is concerned about its heavy dependency on a single cloud provider."
+    },
+    {
+     "word": "resilience",
+     "thai": "ความสามารถในการฟื้นตัว",
+     "level": "C1",
+     "example": "Improving system resilience is a priority after the recent service outage."
+    },
+    {
+     "word": "diversification",
+     "thai": "การกระจายความเสี่ยง",
+     "level": "C1",
+     "example": "Officials are discussing the need for supplier diversification to avoid future disruptions."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1277,
+   "ts": "2026-11-17T22:11:42.662542+07:00",
+   "title": "MPs ask what the break clause was for as Palantir wins two more years in the NHS",
+   "link": "https://www.theregister.com/public-sector/2026/11/17/mps-ask-what-the-break-clause-was-for-as-palantir-wins-two-more-years-in-the-nhs/5310348",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "This is a procurement and policy issue regarding public sector IT infrastructure contracts.",
+   "summary": "The UK government has extended its contract with Palantir for NHS data services by two years. Critics argue that this extension limits competition and increases reliance on a single foreign supplier.",
+   "vocab": [
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "The government is reviewing its procurement process for large-scale IT contracts."
+    },
+    {
+     "word": "contract",
+     "thai": "สัญญา",
+     "level": "B2",
+     "example": "The company signed a new contract to provide data services for the next two years."
+    },
+    {
+     "word": "competition",
+     "thai": "การแข่งขัน",
+     "level": "B2",
+     "example": "Critics argue that the deal reduces competition in the public sector software market."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
   }
  ],
- "next_id": 1260,
+ "next_id": 1278,
  "vocab": [
-  {
-   "word": "mounting",
-   "thai": "ที่เพิ่มมากขึ้นเรื่อยๆ",
-   "level": "B2",
-   "example": "Big Red juggles large capex and mounting debt toward its revenue goal.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unaffiliated",
-   "thai": "ที่ไม่ได้ขึ้นตรงหรือสังกัดต่อกลุ่มใด",
-   "level": "C1",
-   "example": "The new project is unaffiliated with the original Linux system.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "valuation",
-   "thai": "การประเมินมูลค่า",
-   "level": "C1",
-   "example": "The cybersecurity firm reached a multi-billion dollar valuation in its latest deal.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "complicate",
-   "thai": "ทำให้ยุ่งยากหรือซับซ้อนขึ้น",
-   "level": "B2",
-   "example": "Unvetted automated contributions could complicate ongoing community discussions.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "subscription",
-   "thai": "ค่าบริการตามรอบระยะเวลา",
-   "level": "B2",
-   "example": "Vendors are adding usage-based charges on top of the base subscription.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "capex",
-   "thai": "งบรายจ่ายฝ่ายทุน",
-   "level": "C1",
-   "example": "Building dedicated AI clusters requires massive capex from cloud providers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "cadence",
-   "thai": "จังหวะเวลาหรือความสม่ำเสมอของรอบการทำงาน",
-   "level": "C1",
-   "example": "The report returned to its regular quarterly cadence after a combined release.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "autonomous",
-   "thai": "ที่เป็นไปอย่างอัตโนมัติโดยสมบูรณ์",
-   "level": "B2",
-   "example": "Cloudflare autonomously mitigated millions of network-layer attacks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "amplification",
-   "thai": "การขยายขนาดหรือการเพิ่มความแรง",
-   "level": "C1",
-   "example": "Attackers shifted their focus toward DNS amplification vectors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "portfolio",
-   "thai": "กลุ่มผลิตภัณฑ์, พอร์ตโฟลิโอ",
-   "level": "B2",
-   "example": "Sabey is testing HVO to determine its feasibility for broader use across the company's data center portfolio.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "substitute",
-   "thai": "ตัวแทน, สิ่งทดแทน",
-   "level": "B2",
-   "example": "The fuel acts as a drop-in substitute for conventional diesel.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "derived",
-   "thai": "สกัดจาก, ได้มาจาก",
-   "level": "B2",
-   "example": "HVO is a low-carbon fuel that is derived from 100 percent waste-based feedstock.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "propel",
    "thai": "ขับเคลื่อน, ผลักดัน",
@@ -22242,6 +22807,126 @@
    "thai": "ระบุตำแหน่งหรือชี้ชัดอย่างแม่นยำ",
    "level": "C1",
    "example": "The report helps analysts pinpoint high-growth secondary markets for expansion.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "circumvention",
+   "thai": "การหลบเลี่ยง (กฎหรือข้อจำกัด)",
+   "level": "C1",
+   "example": "The new rule ensures existing export restrictions cannot be avoided through remote computing circumvention.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "diligence",
+   "thai": "การตรวจสอบอย่างถี่ถ้วน",
+   "level": "C1",
+   "example": "Data centers and chip exporters will be required to perform robust due diligence on customers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "destined",
+   "thai": "ถูกกำหนดให้ไปยัง destination",
+   "level": "B2",
+   "example": "The license requirement will not apply when the chips are destined for companies headquartered in the United States.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "separate",
+   "thai": "คัดแยกหรือแบ่งแยกความแตกต่าง",
+   "level": "B2",
+   "example": "The ability to deliver hundreds of megawatts of compute will separate top AI companies from the rest.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "meaningful",
+   "thai": "ที่มีความสำคัญหรือมีผลอย่างมาก",
+   "level": "B2",
+   "example": "This deployment helps deliver a meaningful portion of the infrastructure behind next-generation AI compute.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vulnerability",
+   "thai": "ช่องโหว่ด้านความปลอดภัย",
+   "level": "B2",
+   "example": "Engineers patched the severe server vulnerability immediately.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "instability",
+   "thai": "ความไม่มั่นคง/ความไม่คงที่",
+   "level": "B2",
+   "example": "Network bugs can cause severe instability in cloud infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disclose",
+   "thai": "เปิดเผย",
+   "level": "B2",
+   "example": "Security researchers disclosed the bug to kernel developers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disruption",
+   "thai": "การหยุดชะงัก",
+   "level": "B2",
+   "example": "The unexpected service disruption impacted enterprise mail servers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "wreckage",
+   "thai": "ผลกระทบที่หลงเหลือ",
+   "level": "C1",
+   "example": "Admins analyzed the outage wreckage to discover the root cause.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fortnight",
+   "thai": "สองสัปดาห์",
+   "level": "B2",
+   "example": "The carrier was hit by another outage, its third in less than a fortnight.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "downtime",
+   "thai": "เวลาที่ระบบหยุดทำงาน",
+   "level": "B2",
+   "example": "The operator apologized for the downtime that impacted users nationwide.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
