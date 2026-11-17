@@ -2520,1340 +2520,6 @@
  ],
  "stories": [
   {
-   "id": 826,
-   "ts": "2026-11-03T09:01:39.066231+07:00",
-   "title": "Envision claims to be running the world's first 800VDC data center in Ulanqab, China",
-   "link": "https://www.datacenterdynamics.com/en/news/envision-claims-to-be-running-the-worlds-first-800vdc-data-center-in-ulanqab-china/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly impacts data center power architecture by introducing a real-world 800VDC deployment to eliminate multiple AC/DC conversion stages.",
-   "summary": "Envision announced it is operating an 800VDC power architecture at its Galaxy AI data center in Inner Mongolia, China. The direct current setup reduces multiple conversion losses to supply massive power directly to high-density AI clusters.",
-   "vocab": [
-    {
-     "word": "busbar",
-     "thai": "แถบตัวนำไฟฟ้าหลัก (บัสบาร์)",
-     "level": "C1",
-     "example": "The SST converts 10kV medium voltage AC from the grid to an 800VDC busbar."
-    },
-    {
-     "word": "swings",
-     "thai": "การแกว่งตัวหรือการผันผวนอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "The controller coordinates transformers and batteries in real time to manage sudden load swings."
-    },
-    {
-     "word": "accelerators",
-     "thai": "ตัวเร่งความเร็วการประมวลผล (เช่น ชิป AI/GPU)",
-     "level": "B2",
-     "example": "The data center has a planned capacity to support up to one million AI accelerators."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 510,
-   "sent_ts": "2026-11-03T14:49:19.763167+07:00"
-  },
-  {
-   "id": 827,
-   "ts": "2026-11-03T09:01:39.066264+07:00",
-   "title": "Megaspeed exec with close ties to Nvidia CEO Jensen Huang suspected of spying for China",
-   "link": "https://www.datacenterdynamics.com/en/news/megaspeed-exec-with-close-ties-to-nvidia-ceo-jensen-huang-suspected-of-spying-for-china/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Focuses on geopolitical espionage allegations involving Nvidia's supply chain and Chinese export restrictions.",
-   "summary": "An executive at Singapore data center firm Megaspeed is under investigation across multiple countries for alleged espionage targeting Nvidia CEO Jensen Huang. The firm was previously accused of helping bypass export controls to route prohibited AI chips into China.",
-   "vocab": [
-    {
-     "word": "surveillance",
-     "thai": "การเฝ้าระวังหรือการสอดแนม",
-     "level": "B2",
-     "example": "During US surveillance of Alice Huang, it was discovered that she was in contact with an American citizen."
-    },
-    {
-     "word": "untoward",
-     "thai": "ไม่เหมาะสมหรือไม่พึงประสงค์",
-     "level": "C2",
-     "example": "Nvidia said that its compliance teams found no untoward activity."
-    },
-    {
-     "word": "illicit",
-     "thai": "ผิดกฎหมายหรือไม่ได้รับอนุญาต",
-     "level": "C1",
-     "example": "Investigations confirmed there has been no evidence concerning the illicit transfer of chips."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 828,
-   "ts": "2026-11-03T09:01:39.066285+07:00",
-   "title": "SpaceXAI launching two additional data center campuses in Mississippi to further expand Colossus 2",
-   "link": "https://www.datacenterdynamics.com/en/news/spacexai-launching-two-additional-data-center-campuses-in-mississippi-to-further-expand-colossus-2/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers a massive AI data center campus expansion deploying over 400,000 GPUs, highly relevant to AI compute footprint tracking.",
-   "summary": "Elon Musk's SpaceXAI is adding two new data center sites in Mississippi to host 420,000 Nvidia GB300 GPUs as part of the Colossus 2 project. The facilities repurpose an old training center and a warehouse to expand compute capacity for Grok.",
-   "vocab": [
-    {
-     "word": "repurposed",
-     "thai": "ถูกดัดแปลงเพื่อนำกลับมาใช้ประโยชน์ใหม่",
-     "level": "C1",
-     "example": "Spam will see a single-story warehouse situated on 53 acres repurposed as a data center."
-    },
-    {
-     "word": "adjacent",
-     "thai": "ติดกันหรืออยู่ใกล้เคียง",
-     "level": "B2",
-     "example": "The company filed a permit for development of another building on an adjacent land parcel."
-    },
-    {
-     "word": "penalties",
-     "thai": "ค่าปรับหรือบทลงโทษ",
-     "level": "B2",
-     "example": "The agency is seeking civil penalties of up to $25,000 per day across three sites."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 511,
-   "sent_ts": "2026-11-03T14:49:20.395782+07:00"
-  },
-  {
-   "id": 829,
-   "ts": "2026-11-03T09:01:39.066299+07:00",
-   "title": "Microsoft buys 616 acres for $95.5m in Dallas County, Iowa",
-   "link": "https://www.datacenterdynamics.com/en/news/microsoft-buys-616-acres-for-955m-in-dallas-county-iowa/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Reports on early-stage data center land acquisition by a hyperscaler, but construction is still years away.",
-   "summary": "Microsoft acquired 616 acres of farmland in Dallas County, Iowa, for $95.5 million to expand its data center footprint. However, physical construction is not expected to start for several years as design and planning remain in early stages.",
-   "vocab": [
-    {
-     "word": "parcels",
-     "thai": "แปลงที่ดิน",
-     "level": "B2",
-     "example": "It is not stated whether the price tag covers merely the land parcels or development services."
-    },
-    {
-     "word": "acquisition",
-     "thai": "การจัดซื้อหรือการได้มาซึ่งสินทรัพย์",
-     "level": "B2",
-     "example": "The property was acquired from the acquisition vehicle of a major real estate firm."
-    },
-    {
-     "word": "distant",
-     "thai": "ห่างไกล (ในแง่ของเวลา)",
-     "level": "B2",
-     "example": "While the land has been purchased, plans for construction remain distant."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 830,
-   "ts": "2026-11-03T09:01:39.066312+07:00",
-   "title": "SpaceX in talks to buy EchoStar's Boost Mobile - report",
-   "link": "https://www.datacenterdynamics.com/en/news/spacex-in-talks-to-buy-echostars-boost-mobile-report/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Touches on mobile telecommunications and spectrum acquisition, peripheral to core data center operations.",
-   "summary": "SpaceX is in talks to acquire Boost Mobile from EchoStar as part of plans to launch a nationwide wireless service alongside Starlink. The deal would grant SpaceX access to terrestrial mobile networks after conventional wireless carriers rejected partnership proposals.",
-   "vocab": [
-    {
-     "word": "rebuffing",
-     "thai": "การปฏิเสธอย่างไม่ไยดี",
-     "level": "C2",
-     "example": "Attempts to sweeten the major carriers fell short, with the operators rebuffing SpaceX's advances."
-    },
-    {
-     "word": "terrestrial",
-     "thai": "ภาคพื้นดิน (ไม่ใช่ผ่านดาวเทียม)",
-     "level": "C1",
-     "example": "Musk stated that the company will be actively building out its terrestrial network."
-    },
-    {
-     "word": "spectrum",
-     "thai": "ย่านความถี่คลื่นวิทยุ",
-     "level": "B2",
-     "example": "Satellite launches and spectrum acquisitions will pave the way for a major mobile carrier."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 831,
-   "ts": "2026-11-03T09:01:39.066342+07:00",
-   "title": "Rostelecom in talks with Norilsk Nickel for underground data centers amid drone attacks",
-   "link": "https://www.datacenterdynamics.com/en/news/rostelecom-in-talks-with-norilsk-nickel-for-underground-data-centers-amid-drone-attacks/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Highlights physical security and military resilience strategies for critical data center infrastructure during wartime.",
-   "summary": "Russian telecom Rostelecom is negotiating with mining giant Norilsk Nickel to construct underground data centers to shield infrastructure from drone attacks. The initiative follows repeated strikes by both Ukrainian and Russian forces against commercial and cloud facilities.",
-   "vocab": [
-    {
-     "word": "abandoned",
-     "thai": "ที่ถูกทิ้งร้าง",
-     "level": "B2",
-     "example": "The governor proposed locating data centers in abandoned coal pits."
-    },
-    {
-     "word": "smelting",
-     "thai": "การถลุงโลหะ",
-     "level": "C2",
-     "example": "The company is in advanced talks with a nickel mining and smelting business."
-    },
-    {
-     "word": "resilience",
-     "thai": "ความสามารถในการฟื้นตัวหรือทนทานต่อวิกฤต",
-     "level": "C1",
-     "example": "Building facilities inside underground mines is seen as a way to enhance infrastructure resilience."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 7
-  },
-  {
-   "id": 832,
-   "ts": "2026-11-03T09:01:39.066371+07:00",
-   "title": "From capacity, to the cost of intelligence",
-   "link": "https://www.datacenterdynamics.com/en/opinions/from-capacity-to-the-cost-of-intelligence/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Strategic industry commentary on AI compute efficiency, token economics, and data center utilization.",
-   "summary": "An industry analysis explains why falling token prices paradoxically drive enterprise AI infrastructure budgets higher due to Jevons' paradox. Operators are urged to look beyond raw hardware pricing and optimize for utilization, energy efficiency, and delivered intelligence.",
-   "vocab": [
-    {
-     "word": "paradox",
-     "thai": "ความขัดแย้งในตัวเอง",
-     "level": "B2",
-     "example": "Unit price is falling while total spend rises; that is the paradox defining AI infrastructure."
-    },
-    {
-     "word": "throughput",
-     "thai": "ปริมาณงานที่ประมวลผลได้ในช่วงเวลาหนึ่ง",
-     "level": "C1",
-     "example": "Delivered cost can be substantially lower because of gains in throughput and memory bandwidth."
-    },
-    {
-     "word": "idle",
-     "thai": "ว่าง ไม่ได้ใช้งาน",
-     "level": "B2",
-     "example": "Unit economics change drastically when the GPU cluster is sitting partially idle."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 833,
-   "ts": "2026-11-03T09:05:38.358202+07:00",
-   "title": "Google eyes 1,000 acres for 1.2GW data center in Goochland County, Virginia",
-   "link": "https://www.datacenterdynamics.com/en/news/google-eyes-1000-acres-for-12gw-data-center-in-goochland-county-virginia/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Google is in early due diligence for a massive 1.2GW campus, reflecting sustained hyperscale demand for large land sites.",
-   "summary": "Google is evaluating approximately 1,000 acres in Goochland County, Virginia, for a potential 1.2GW data center campus. Although initial due diligence is underway, the project highlights how hyperscalers continue scouting massive regional sites for future capacity.",
-   "vocab": [
-    {
-     "word": "due diligence",
-     "thai": "การตรวจสอบสถานะความพร้อมและความเสี่ยงของโครงการ",
-     "level": "C1",
-     "example": "Hard plans are yet to be made, with Google still evaluating the site and conducting due diligence."
-    },
-    {
-     "word": "overlay",
-     "thai": "การกำหนดพื้นที่กำกับซ้อนทับ",
-     "level": "B2",
-     "example": "Goochland's Board of Supervisors previously approved a Technology Overlay District to attract investment."
-    },
-    {
-     "word": "unsealed",
-     "thai": "ที่ถูกเปิดเผยหรือปลดผนึก",
-     "level": "B2",
-     "example": "As per an unsealed NDA, the cloud and search giant is considering developing a large campus."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 9,
-   "msg_id": 512,
-   "sent_ts": "2026-11-03T14:49:21.017493+07:00"
-  },
-  {
-   "id": 834,
-   "ts": "2026-11-03T09:05:38.358232+07:00",
-   "title": "OpenAI CEO Sam Altman meets with Samsung execs as memory chip shortage deepens",
-   "link": "https://www.datacenterdynamics.com/en/news/openai-ceo-sam-altman-meets-with-samsung-execs-as-memory-chip-shortage-deepens/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Severe memory shortages driven by AI data centers directly affect global infrastructure hardware procurement and pricing.",
-   "summary": "OpenAI chief Sam Altman met with Samsung executives to secure DRAM allocations as the AI-driven memory chip shortage worsens. Memory vendors warn that constrained supply will continue through 2027 as data center demand crowds out other compute needs.",
-   "vocab": [
-    {
-     "word": "allocation",
-     "thai": "การจัดสรรทรัพยากร",
-     "level": "B2",
-     "example": "From a global allocation perspective, having limited DRAM sit in desktop computers is inefficient."
-    },
-    {
-     "word": "constrain",
-     "thai": "จำกัดหรือเหนี่ยวรั้ง",
-     "level": "B2",
-     "example": "Individuals using local inference are further constraining memory chip supply chains."
-    },
-    {
-     "word": "persist",
-     "thai": "คงอยู่หรือยืดเยื้อต่อไป",
-     "level": "B2",
-     "example": "Memory companies have warned that the memory chip shortage is likely to persist into 2027 and beyond."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 507,
-   "sent_ts": "2026-11-03T14:49:17.892353+07:00"
-  },
-  {
-   "id": 835,
-   "ts": "2026-11-03T09:05:38.358249+07:00",
-   "title": "Prometheus Hyperscale pulls out of gigawatt-scale data center project in Casper, Wyoming",
-   "link": "https://www.datacenterdynamics.com/en/news/prometheus-hyperscale-pulls-out-of-gigawatt-scale-data-center-project-in-casper-wyoming/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "A developer abruptly withdrew from a 1.2GW campus project, illustrating execution and development risks for gigawatt-scale sites.",
-   "summary": "Prometheus Hyperscale has abandoned its plans to build a 1.2GW data center campus in Natrona County, Wyoming. Local landowners plan to proceed with a different development partner, but the sudden exit shows the uncertainty of speculative mega-projects.",
-   "vocab": [
-    {
-     "word": "groundswell",
-     "thai": "กระแสการตอบรับหรือคัดค้านที่ก่อตัวเพิ่มขึ้นอย่างรวดเร็ว",
-     "level": "C2",
-     "example": "There was seemingly no major groundswell against the development from local residents."
-    },
-    {
-     "word": "expedite",
-     "thai": "เร่งรัดให้เสร็จเร็วขึ้น",
-     "level": "C1",
-     "example": "This recent shift will expedite and elevate this project for the county."
-    },
-    {
-     "word": "pursue",
-     "thai": "ดำเนินการต่อหรือติดตามสานต่อ",
-     "level": "B2",
-     "example": "We have decided to not pursue a data center project in Natrona or Converse Counties."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/on-prem/2026/11/03/drax-wants-to-feed-britains-ai-habit-with-20b-datacenter-at-biomass-power-station/5307237"
-   ]
-  },
-  {
-   "id": 836,
-   "ts": "2026-11-03T09:05:38.358263+07:00",
-   "title": "Aligned Data Centers launches new version of Delta Cube air cooling system",
-   "link": "https://www.datacenterdynamics.com/en/news/aligned-data-centers-launches-new-version-of-delta-cube-air-cooling-system/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly impacts facility operations through waterless air-cooling innovations and hybrid cooling architectures for high-density AI.",
-   "summary": "Aligned Data Centers launched Delta Cube 3.0, a waterless air-cooling system delivering a ten percent gain in cooling capacity and energy efficiency. Designed with Munters, the technology allows operators to cool hybrid air-and-liquid high-density environments within the same footprint.",
-   "vocab": [
-    {
-     "word": "footprint",
-     "thai": "ขนาดพื้นที่ติดตั้งทางกายภาพ",
-     "level": "B2",
-     "example": "It delivers an efficiency boost within the exact same physical footprint as previous iterations."
-    },
-    {
-     "word": "proprietary",
-     "thai": "ที่มีกรรมสิทธิ์เฉพาะหรือเป็นลิขสิทธิ์ของบริษัท",
-     "level": "C1",
-     "example": "The company said it has made enhancements to its proprietary heat exchangers and drive motors."
-    },
-    {
-     "word": "craftsmanship",
-     "thai": "ความประณีตหรือฝีมือเชิงช่าง",
-     "level": "C1",
-     "example": "Teams are putting their skilled craftsmanship into assembling the technology that cools advanced compute."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 10,
-   "msg_id": 508,
-   "sent_ts": "2026-11-03T14:49:18.512235+07:00"
-  },
-  {
-   "id": 837,
-   "ts": "2026-11-03T09:05:38.358277+07:00",
-   "title": "Nvidia in talks to backstop Nscale's Monarch Compute Campus project for Anthropic - report",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-in-talks-to-backstop-nscales-monarch-compute-campus-project-for-anthropic-report/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Nvidia's reported multibillion-dollar debt guarantees show how major chipmakers are directly underwriting AI infrastructure development.",
-   "summary": "Nvidia is reportedly in discussions to provide over $5 billion in debt backstops for Nscale's planned 460MW Anthropic compute campus in West Virginia. The deal illustrates how chipmakers are acting as financial guarantors to ensure large-scale AI data center construction stays on track.",
-   "vocab": [
-    {
-     "word": "backstop",
-     "thai": "การเป็นหลักประกันทางการเงินสำรอง",
-     "level": "C1",
-     "example": "Nvidia is said to be in talks to backstop the large compute campus project."
-    },
-    {
-     "word": "default",
-     "thai": "การผิดนัดชำระหนี้",
-     "level": "B2",
-     "example": "Nvidia would serve as a guarantor should the company default on payments."
-    },
-    {
-     "word": "guarantor",
-     "thai": "ผู้ค้ำประกัน",
-     "level": "C1",
-     "example": "The credit support would enable Nscale to secure debt with Nvidia serving as a guarantor."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 513,
-   "sent_ts": "2026-11-03T14:49:21.641607+07:00"
-  },
-  {
-   "id": 838,
-   "ts": "2026-11-03T09:05:38.358317+07:00",
-   "title": "Anthropic's compute tab could top $1T as Q3 revenue nears $17B",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/02/anthropics-compute-tab-could-top-1t-as-q3-revenue-nears-17b/5307089",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "This broad industry digest includes an urgent zero-day alert affecting on-premise SharePoint servers alongside AI capex trends.",
-   "summary": "A tech news summary details active zero-day attacks striking on-premise Microsoft SharePoint servers after previous patches fell short. The roundup also highlights massive optical networking bets and surging capital expenditures across the AI sector.",
-   "vocab": [
-    {
-     "word": "bleak",
-     "thai": "สิ้นหวังหรือมืดมน",
-     "level": "B2",
-     "example": "A lot of software engineers feel bleak about the future of the profession."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความช่วยเหลือหรือระดมกำลัง",
-     "level": "B2",
-     "example": "The project enlists hackers to harden critical infrastructure."
-    },
-    {
-     "word": "unaffiliated",
-     "thai": "ที่ไม่ได้มีความเกี่ยวข้องหรือสังกัดร่วมกัน",
-     "level": "C1",
-     "example": "The project is unaffiliated with the original Linux software distribution."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 7,
-   "msg_id": 514,
-   "sent_ts": "2026-11-03T14:49:22.268203+07:00"
-  },
-  {
-   "id": 839,
-   "ts": "2026-11-03T09:06:11.904857+07:00",
-   "title": "Max-severity bug in widely used OT programming tool exploited to deliver Linux malware",
-   "link": "https://www.theregister.com/security/2026/11/02/max-severity-bug-in-widely-used-ot-programming-tool-exploited-to-deliver-linux-malware/5307086",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": false,
-   "reason": "A severe vulnerability in a widely used operational technology tool is being actively exploited to deliver malware.",
-   "summary": "A critical security flaw in an industrial control programming tool is currently under attack by hackers spreading Linux malware. Administrators need to patch affected systems immediately to prevent potential network compromises.",
-   "vocab": [
-    {
-     "word": "exploit",
-     "thai": "ใช้ประโยชน์จาก / ช่องโหว่ที่ถูกใช้โจมตี",
-     "level": "B2",
-     "example": "A max-severity bug in a widely used OT programming tool was exploited to deliver Linux malware."
-    },
-    {
-     "word": "severity",
-     "thai": "ความรุนแรง",
-     "level": "C1",
-     "example": "The max-severity bug requires immediate attention from security teams."
-    },
-    {
-     "word": "malware",
-     "thai": "มัลแวร์ / ซอฟต์แวร์ประสงค์ร้าย",
-     "level": "B2",
-     "example": "Attackers used the vulnerability to deliver Linux malware."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 501,
-   "sent_ts": "2026-11-03T09:06:12.541802+07:00"
-  },
-  {
-   "id": 840,
-   "ts": "2026-11-03T09:06:12.542083+07:00",
-   "title": "AI could break legal systems by finding previously hidden loopholes",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/02/ai-could-break-legal-systems-by-finding-previously-hidden-loopholes/5307066",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "AI finding legal loopholes is an interesting software trend but lacks direct operational relevance to data center infrastructure.",
-   "summary": "Researchers suggest that advanced AI models could potentially disrupt legal systems by discovering complex, hidden loopholes in regulations. This capability raises questions about how future laws and compliance frameworks will be written.",
-   "vocab": [
-    {
-     "word": "disrupt",
-     "thai": "ขัดขวาง / ทำให้เปลี่ยนแปลงอย่างฉับพลัน",
-     "level": "B2",
-     "example": "AI could disrupt traditional legal systems by finding hidden loopholes."
-    },
-    {
-     "word": "regulation",
-     "thai": "กฎระเบียบ / ข้อบังคับ",
-     "level": "B2",
-     "example": "Complex regulations are becoming harder to manage as AI advances."
-    },
-    {
-     "word": "framework",
-     "thai": "กรอบการทำงาน",
-     "level": "B2",
-     "example": "Legal frameworks need updates to handle automated loophole detection."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 841,
-   "ts": "2026-11-03T09:06:12.542105+07:00",
-   "title": "Cops bust botnet of 1.3M infected Android TV boxes",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/02/cops-bust-botnet-of-13m-infected-android-tv-boxes/5307045",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "A massive botnet of 1.3 million infected devices is a major security threat affecting global network traffic.",
-   "summary": "Law enforcement agencies have successfully taken down a huge botnet consisting of over one million compromised Android TV boxes. These devices were reportedly being used to conduct malicious network activities without owners knowing.",
-   "vocab": [
-    {
-     "word": "compromise",
-     "thai": "ทำให้ตกอยู่ในความเสี่ยง / เจาะระบบ",
-     "level": "B2",
-     "example": "Millions of devices were compromised and added to the massive botnet."
-    },
-    {
-     "word": "enforcement",
-     "thai": "การบังคับใช้กฎหมาย",
-     "level": "C1",
-     "example": "Law enforcement agencies worked together to dismantle the infrastructure."
-    },
-    {
-     "word": "malicious",
-     "thai": "ที่เป็นอันตราย / มุ่งร้าย",
-     "level": "C1",
-     "example": "The infected boxes were used to launch malicious traffic across the internet."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 502,
-   "sent_ts": "2026-11-03T09:06:13.188483+07:00"
-  },
-  {
-   "id": 842,
-   "ts": "2026-11-03T09:06:13.188743+07:00",
-   "title": "Marvell wants to be a copper topper, bets $115B on photonics leader to push optical networking",
-   "link": "https://www.theregister.com/systems/2026/11/02/marvell-wants-to-be-a-copper-topper-bets-115b-on-photonics-leader-to-push-optical-networking/5307028",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": false,
-   "reason": "Marvell investing heavily in photonics directly impacts high-speed data center networking and optical infrastructure.",
-   "summary": "Marvell is making a massive financial bet on optical networking and photonics leaders to capture surging data center demand. As AI workloads strain traditional copper connections, optical interconnects are becoming vital for scaling server clusters.",
-   "vocab": [
-    {
-     "word": "interconnect",
-     "thai": "การเชื่อมต่อถึงกัน",
-     "level": "C1",
-     "example": "Optical interconnects are becoming essential for high-performance data centers."
-    },
-    {
-     "word": "workload",
-     "thai": "ภาระงาน",
-     "level": "B2",
-     "example": "AI workloads require much faster networking speeds inside the rack."
-    },
-    {
-     "word": "investment",
-     "thai": "การลงทุน",
-     "level": "B2",
-     "example": "This major investment reflects the booming demand for optical networking."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 503,
-   "sent_ts": "2026-11-03T09:06:13.809315+07:00"
-  },
-  {
-   "id": 843,
-   "ts": "2026-11-03T09:06:13.809586+07:00",
-   "title": "Oracle gobbles $20 billion borrowing limit a week after setting it",
-   "link": "https://www.theregister.com/paas-and-iaas/2026/11/02/oracle-gobbles-20-billion-borrowing-limit-a-week-after-setting-it/5307014",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Oracle rapidly utilizing a massive borrowing limit highlights heavy financial leverage for data center expansion.",
-   "summary": "Oracle has quickly drawn down a newly established multi-billion dollar borrowing limit to fund its rapid expansion efforts. This heavy financial maneuvering underscores the immense capital required to build modern AI data center infrastructure.",
-   "vocab": [
-    {
-     "word": "maneuver",
-     "thai": "การเคลื่อนไหวเชิงกลยุทธ์ / การจัดการ",
-     "level": "C1",
-     "example": "This financial maneuver underscores the massive capital required for cloud expansion."
-    },
-    {
-     "word": "capital",
-     "thai": "เงินทุน",
-     "level": "B2",
-     "example": "Building massive data centers demands an enormous amount of capital."
-    },
-    {
-     "word": "expansion",
-     "thai": "การขยายตัว",
-     "level": "B2",
-     "example": "Oracle is funding its aggressive infrastructure expansion through debt."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 504,
-   "sent_ts": "2026-11-03T09:06:14.433776+07:00"
-  },
-  {
-   "id": 844,
-   "ts": "2026-11-03T09:06:14.434047+07:00",
-   "title": "Ericsson says it can detect, track drones using only mobile networks",
-   "link": "https://www.theregister.com/networks/2026/11/02/ericsson-says-it-can-detect-track-drones-using-only-mobile-networks/5306958",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Using mobile networks for drone tracking has infrastructure and security implications for data center perimeters.",
-   "summary": "Telecom giant Ericsson claims its cellular networks can now accurately detect and track drones without extra hardware. This capability could enhance airspace security around sensitive facilities like large data center campuses.",
-   "vocab": [
-    {
-     "word": "cellular",
-     "thai": "เกี่ยวกับโทรศัพท์มือถือ / เซลล์",
-     "level": "B2",
-     "example": "Ericsson uses existing cellular networks to track unauthorized drones."
-    },
-    {
-     "word": "perimeter",
-     "thai": "แนวรอบนอก / แนวเขต",
-     "level": "C1",
-     "example": "Securing the perimeter of critical infrastructure requires advanced tracking tools."
-    },
-    {
-     "word": "unauthorized",
-     "thai": "ไม่ได้รับอนุญาต",
-     "level": "B2",
-     "example": "The system detects unauthorized drones flying near restricted areas."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 509,
-   "sent_ts": "2026-11-03T14:49:19.148771+07:00"
-  },
-  {
-   "id": 845,
-   "ts": "2026-11-03T09:06:14.434070+07:00",
-   "title": "Thieves pilfer environment variables from Trigger AI workflow tool",
-   "link": "https://www.theregister.com/security/2026/11/02/thieves-pilfer-environment-variables-from-trigger-ai-workflow-tool/5306998",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "The theft of environment variables from an AI workflow tool exposes sensitive credentials and configuration data.",
-   "summary": "Attackers managed to steal environment variables containing sensitive credentials from the Trigger AI workflow automation tool. This security lapse highlights the risks of improperly secured configuration secrets in modern DevOps pipelines.",
-   "vocab": [
-    {
-     "word": "configuration",
-     "thai": "การกำหนดค่าระบบ",
-     "level": "C1",
-     "example": "Environment variables often store critical system configuration data."
-    },
-    {
-     "word": "credential",
-     "thai": "ข้อมูลประจำตัว (สำหรับเข้าสู่ระบบ)",
-     "level": "C1",
-     "example": "The stolen environment variables contained sensitive API credentials."
-    },
-    {
-     "word": "pipeline",
-     "thai": "สายงานการผลิต / กระบวนการอัตโนมัติ",
-     "level": "B2",
-     "example": "DevOps pipelines must protect secrets to prevent workflow security breaches."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 505,
-   "sent_ts": "2026-11-03T09:06:15.062888+07:00"
-  },
-  {
-   "id": 846,
-   "ts": "2026-11-03T15:48:02.002461+07:00",
-   "title": "Anthropic signs lease with Australian Data Centres in Western Downs, Queensland",
-   "link": "https://www.datacenterdynamics.com/en/news/anthropic-signs-lease-with-australian-data-centres-in-western-downs-queensland/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Anthropic signed a major lease for a huge gigawatt-scale data center project in Australia, directly impacting AI infrastructure capacity.",
-   "summary": "Anthropic has agreed to lease space in a massive upcoming hyperscale data center campus in Queensland, Australia. The huge project aims to deliver over two gigawatts of capacity to support future AI workloads.",
-   "vocab": [
-    {
-     "word": "definitive",
-     "thai": "ที่เป็นконعท้าย สุดท้าย แน่นอน",
-     "level": "B2",
-     "example": "The deal with ADC, which is majority-owned by Australian real assets manager and owner Dexus, is not yet definitive."
-    },
-    {
-     "word": "consortium",
-     "thai": "สมาคม กลุ่มบริษัท",
-     "level": "C1",
-     "example": "A consortium including Australia Data Centres entered into lease documentation with an Australian subsidiary of Anthropic."
-    },
-    {
-     "word": "subsidiary",
-     "thai": "บริษัทลูก",
-     "level": "B2",
-     "example": "Anthropic's Australian subsidiary has signed a lease agreement with Australian Data Centres."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 515,
-   "sent_ts": "2026-11-03T15:48:02.612148+07:00"
-  },
-  {
-   "id": 847,
-   "ts": "2026-11-03T15:48:02.612346+07:00",
-   "title": "Korea Telecom to halt sale of new 3G plans",
-   "link": "https://www.datacenterdynamics.com/en/news/korea-telecom-to-halt-sale-of-new-3g-plans/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Korea Telecom is shutting down legacy 3G services, marking another step in the retirement of older telecommunications infrastructure.",
-   "summary": "Korea Telecom has stopped selling new 3G subscriptions as the carrier shifts its focus entirely to modern LTE and 5G networks. The move affects a tiny percentage of remaining users while telecom operators clear spectrum for newer tech.",
-   "vocab": [
-    {
-     "word": "suspend",
-     "thai": "ระงับชั่วคราว",
-     "level": "B2",
-     "example": "The carrier will no longer be selling 3G plans to new customers as it pushes ahead with the transition."
-    },
-    {
-     "word": "disclose",
-     "thai": "เปิดเผย",
-     "level": "B2",
-     "example": "The company didn't disclose how many customers are still on 3G plans."
-    },
-    {
-     "word": "meticulous",
-     "thai": "พิถีพิถัน ละเอียดลออ",
-     "level": "C1",
-     "example": "We will provide meticulous support to minimize the inconvenience and burden on 3G users."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 7,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 848,
-   "ts": "2026-11-03T15:48:02.612380+07:00",
-   "title": "Forget retraining - AI can now tweak another AI's weights",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/03/forget-retraining-ai-can-now-tweak-another-ais-weights/5307105",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Covers critical industry updates including VMware alternatives, zero-day SharePoint attacks, and critical infrastructure hardening projects.",
-   "summary": "Recent tech news highlights various open-source developments, ongoing security flaws in enterprise software, and infrastructure updates. These changes impact system administrators and DevOps professionals managing modern server environments.",
-   "vocab": [
-    {
-     "word": "unaffiliated",
-     "thai": "ไม่สังกัด ไม่มีความเกี่ยวข้อง",
-     "level": "C1",
-     "example": "Daemonarchy is unaffiliated with the Linux original, built with AI help."
-    },
-    {
-     "word": "remediation",
-     "thai": "การแก้ไข การบำบัด",
-     "level": "C1",
-     "example": "Microsoft patches failed to fix on-prem SharePoint, which is now under zero-day attack."
-    },
-    {
-     "word": "general-purpose",
-     "thai": "อเนกประสงค์",
-     "level": "B2",
-     "example": "SparkyOS is a lightweight general-purpose Arch distribution on a pendrive."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 849,
-   "ts": "2026-11-03T15:48:02.612407+07:00",
-   "title": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM: Gartner",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/03/open-models-can-do-90-percent-of-agentic-work-at-a-twentieth-of-the-cost-of-a-frontier-llm-gartner/5307132",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Gartner research on open-source AI models offers key financial and architectural insights for DevOps teams deploying AI agents.",
-   "summary": "Gartner reports that open models can handle most agentic tasks at a fraction of the cost of frontier LLMs. This shift may alter how organizations architect and budget their automated workflows.",
-   "vocab": [
-    {
-     "word": "frontier",
-     "thai": "แนวหน้า ล้ำสมัยที่สุด",
-     "level": "B2",
-     "example": "Open models can do 90 percent of agentic work at a twentieth of the cost of a frontier LLM."
-    },
-    {
-     "word": "fraction",
-     "thai": "เศษส่วน เล็กน้อย",
-     "level": "B2",
-     "example": "Open models can execute tasks at a fraction of the traditional cost."
-    },
-    {
-     "word": "architecture",
-     "thai": "สถาปัตยกรรม",
-     "level": "B2",
-     "example": "Enterprises must re-evaluate their software architecture to leverage cheaper open-source models."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 850,
-   "ts": "2026-11-03T15:48:02.612432+07:00",
-   "title": "Architect creates open-source replacement for VM migration tool VMware has hidden",
-   "link": "https://www.theregister.com/virtualization/2026/11/03/architect-creates-open-source-replacement-for-vm-migration-tool-vmware-has-hidden/5307124",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "The release of an open-source alternative to a hidden VMware migration tool directly impacts virtualization and infrastructure operations.",
-   "summary": "An architect has released an open-source replacement for a virtual machine migration tool previously hidden by VMware. The utility is reportedly already seeing production usage at scale.",
-   "vocab": [
-    {
-     "word": "migration",
-     "thai": "การย้ายระบบ",
-     "level": "B2",
-     "example": "An architect creates an open-source replacement for a VM migration tool VMware has hidden."
-    },
-    {
-     "word": "utility",
-     "thai": "โปรแกรมอรรถประโยชน์ เครื่องมือ",
-     "level": "B2",
-     "example": "The new open-source utility helps administrators move virtual machines efficiently."
-    },
-    {
-     "word": "deployment",
-     "thai": "การติดตั้งและใช้งานจริง",
-     "level": "B2",
-     "example": "OpenVDDK is reportedly already being used in production deployments at scale."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 851,
-   "ts": "2026-11-03T15:48:02.612460+07:00",
-   "title": "Toyota shows off SoC that stores model weights and its OS on integrated memory",
-   "link": "https://www.theregister.com/systems/2026/11/03/toyota-shows-off-soc-that-stores-model-weights-and-its-os-on-integrated-memory/5307117",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Toyota's new SoC design highlighting integrated memory for model weights points toward future edge AI hardware trends.",
-   "summary": "Toyota has showcased a new system-on-chip that stores operating system files and AI model weights directly on integrated memory. This hardware approach improves efficiency and reduces latency for automotive edge computing.",
-   "vocab": [
-    {
-     "word": "integrated",
-     "thai": "ที่รวมเข้าด้วยกัน",
-     "level": "B2",
-     "example": "Toyota shows off a SoC that stores model weights and its OS on integrated memory."
-    },
-    {
-     "word": "latency",
-     "thai": "ความหน่วง",
-     "level": "C1",
-     "example": "Storing weights locally on the chip significantly reduces inference latency."
-    },
-    {
-     "word": "automotive",
-     "thai": "เกี่ยวกับยานยนต์",
-     "level": "B2",
-     "example": "The new chip architecture is designed specifically for advanced automotive applications."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 852,
-   "ts": "2026-11-03T15:48:02.612482+07:00",
-   "title": "Token thieves costing companies $100K+ per day in illicit LLM charges",
-   "link": "https://www.theregister.com/security/2026/11/02/token-thieves-costing-companies-100k-per-day-in-illicit-llm-charges/5306967",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Security vulnerabilities and illicit token usage directly threaten enterprise budgets and cloud infrastructure security.",
-   "summary": "Cybercriminals are stealing API tokens to run unauthorized LLM workloads, costing organizations huge sums daily. Companies must implement stricter monitoring and rate limiting to prevent these fraudulent API charges.",
-   "vocab": [
-    {
-     "word": "illicit",
-     "thai": "ผิดกฎหมาย ไม่ชอบด้วยกฎหมาย",
-     "level": "C1",
-     "example": "Token thieves are costing companies over $100K per day in illicit LLM charges."
-    },
-    {
-     "word": "unauthorized",
-     "thai": "ไม่ได้รับอนุญาต",
-     "level": "B2",
-     "example": "Security teams are racing to block unauthorized access to corporate API endpoints."
-    },
-    {
-     "word": "mitigation",
-     "thai": "การบรรเทา การป้องกันความเสียหาย",
-     "level": "C1",
-     "example": "Effective token monitoring is essential for the mitigation of financial losses."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 516,
-   "sent_ts": "2026-11-03T15:48:03.188763+07:00"
-  },
-  {
-   "id": 853,
-   "ts": "2026-11-03T15:48:03.189067+07:00",
-   "title": "SUSE to cut one in ten employees because of... AI",
-   "link": "https://www.theregister.com/software/2026/11/02/suse-to-cut-one-in-ten-employees-because-of-ai/5306950",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Major workforce reductions attributed to AI adoption reflect broader structural changes across the enterprise software and Linux ecosystem.",
-   "summary": "SUSE is planning to lay off ten percent of its workforce, citing AI-driven restructuring. This downsizing reflects a wider trend among technology firms shifting resources toward automation.",
-   "vocab": [
-    {
-     "word": "restructuring",
-     "thai": "การปรับโครงสร้างองค์กร",
-     "level": "B2",
-     "example": "The company announced massive internal restructuring due to increasing automation."
-    },
-    {
-     "word": "workforce",
-     "thai": "กำลังแรงงาน พนักงานในบริษัท",
-     "level": "B2",
-     "example": "SUSE is set to cut one in ten employees from its global workforce."
-    },
-    {
-     "word": "automation",
-     "thai": "ระบบอัตโนมัติ",
-     "level": "B2",
-     "example": "Firms are heavily investing in AI automation to streamline operations."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 854,
-   "ts": "2026-11-03T15:48:16.309064+07:00",
-   "title": "How we halved DNS build delay and cut memory use by 85%",
-   "link": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
-   "source": "Cloudflare Blog",
-   "score": 7,
-   "watch": false,
-   "reason": "Cloudflare details architectural improvements to their DNS pipeline, reducing memory and latency.",
-   "summary": "Cloudflare optimized its DNS zone builder to handle significantly more records with lower resource consumption. The updates cut peak memory usage by 85% and halved the propagation delay to edge servers.",
-   "vocab": [
-    {
-     "word": "propagation",
-     "thai": "การแพร่กระจาย",
-     "level": "C1",
-     "example": "When I last wrote about our DNS propagation pipeline in 2022, the Zone Builder received about 250 DNS record changes per second."
-    },
-    {
-     "word": "resilience",
-     "thai": "ความยืดหยุ่น",
-     "level": "C1",
-     "example": "Together, they cut peak memory by 85%, and the extra headroom let us safely shorten waits the pipeline has always needed for resilience."
-    },
-    {
-     "word": "distributed",
-     "thai": "แบบกระจาย",
-     "level": "B2",
-     "example": "The Zone Builder compares those keys with Quicksilver, our distributed key-value store."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 855,
-   "ts": "2026-11-03T15:48:16.309100+07:00",
-   "title": "Astra can read and write weights to improve Qwen",
-   "link": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Researchers demonstrate frontier LLMs directly reading and writing neural network weights.",
-   "summary": "A new study shows that advanced language models can natively understand and edit neural network weights without traditional optimizers. This technique, called Weight-Space Programming, improved model performance on math and reasoning tasks.",
-   "vocab": [
-    {
-     "word": "interpretability",
-     "thai": "ความสามารถในการตีความ",
-     "level": "C1",
-     "example": "This might be a big deal for both optimization and interpretability."
-    },
-    {
-     "word": "conventional",
-     "thai": "แบบดั้งเดิม",
-     "level": "B2",
-     "example": "We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights, well past what we’d expect from humans or conventional algorithms."
-    },
-    {
-     "word": "generalizes",
-     "thai": "สามารถนำไปประยุกต์ใช้ได้ทั่วไป",
-     "level": "C1",
-     "example": "With the same sampling settings, this weight correction raises MATH-500 from 7.9% to 48.1% and generalizes out of the box to instruction following."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 7,
-   "extra_links": [
-    "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/"
-   ]
-  },
-  {
-   "id": 856,
-   "ts": "2026-11-03T15:48:16.309173+07:00",
-   "title": "Nvidia – open-source auto-ontology",
-   "link": "https://github.com/NVIDIA/auto-ontology",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Nvidia releases an open library to help AI agents reliably query enterprise databases using semantic ontologies.",
-   "summary": "NVIDIA Auto Ontology is a new open-source library that helps AI agents map and validate enterprise data definitions. It translates natural-language queries into accurate SQL statements using structured metadata and vector stores.",
-   "vocab": [
-    {
-     "word": "reconciles",
-     "thai": "ทำให้สอดคล้องกัน",
-     "level": "C1",
-     "example": "NVIDIA Auto Ontology is an open library that builds that layer from enterprise metadata, reconciles definitions across systems, and exposes it to any agent harness."
-    },
-    {
-     "word": "provenance",
-     "thai": "แหล่งที่มา",
-     "level": "C1",
-     "example": "Check generated queries against certified definitions and lineage; return provenance with every answer."
-    },
-    {
-     "word": "relational",
-     "thai": "เชิงสัมพันธ์",
-     "level": "B2",
-     "example": "Semantic catalog / ontology layer over relational sources, stored in Postgres alongside the catalog it describes."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 857,
-   "ts": "2026-11-03T15:48:16.309192+07:00",
-   "title": "European RISC-V Industrial Computing Initiative",
-   "link": "https://erici.eu",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "An initiative coordinates a standard reference software stack for industrial RISC-V hardware.",
-   "summary": "The European RISC-V Industrial Computing Initiative (ERICI) aims to bridge the gap between industrial hardware and software. It provides an open reference stack designed to run real-time operating systems and Linux on RVA23 silicon.",
-   "vocab": [
-    {
-     "word": "compliant",
-     "thai": "ที่เป็นไปตามข้อกำหนด",
-     "level": "B2",
-     "example": "Software can rely on them on every compliant chip."
-    },
-    {
-     "word": "partitioning",
-     "thai": "การแบ่งส่วน",
-     "level": "B2",
-     "example": "A partitioning hypervisor runs real-time control and the operator's Linux side by side."
-    },
-    {
-     "word": "endorsement",
-     "thai": "การสนับสนุน",
-     "level": "C1",
-     "example": "No affiliation with ERICI or endorsement by the manufacturers is implied."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 858,
-   "ts": "2026-11-03T15:48:16.309226+07:00",
-   "title": "Resisting Cognitive Surrender",
-   "link": "https://knlb.dev/essays/surrender",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "An essay explores the dangers of blindly trusting AI agent outputs, termed 'cognitive surrender'.",
-   "summary": "This blog post examines the hidden risks of relying too heavily on AI coding assistants without critical thought. The author argues that blind acceptance leads to technical debt and a loss of system understanding.",
-   "vocab": [
-    {
-     "word": "seductive",
-     "thai": "ที่เย้ายวนใจ",
-     "level": "C1",
-     "example": "Working this way is extremely fast, not particularly taxing, and unsurprisingly seductive."
-    },
-    {
-     "word": "inadvertent",
-     "thai": "โดยไม่ตั้งใจ",
-     "level": "C1",
-     "example": "Perhaps an inadvertent consequence of RLHF, but models tend to be astonishingly confident."
-    },
-    {
-     "word": "compounds",
-     "thai": "ทวีความรุนแรงขึ้น",
-     "level": "B2",
-     "example": "Complexity introduced by slop doesn’t bite immediately; it’s far more subtle and compounds over time."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 7
-  },
-  {
-   "id": 859,
-   "ts": "2026-11-03T15:48:27.757928+07:00",
-   "title": "Scaling Git at OpenAI",
-   "link": "https://openai.com/index/scaling-git-at-openai/",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "Major AI infrastructure news about scaling Git and monorepos to handle massive agentic workloads at OpenAI.",
-   "summary": "OpenAI built a new Git backend called Pando to handle massive concurrent writes and reads for its massive monorepo. The system cuts push latency significantly while remaining fully compatible with standard Git protocols.",
-   "vocab": [
-    {
-     "word": "throughput",
-     "thai": "ปริมาณงานที่ระบบประมวลผลได้ในหนึ่งหน่วยเวลา",
-     "level": "C1",
-     "example": "Maximize read throughput, so clients can download data fast enough."
-    },
-    {
-     "word": "latency",
-     "thai": "เวลาหน่วงในระบบเครือข่าย",
-     "level": "C1",
-     "example": "In production, Pando cut median push latency by nearly 5x."
-    },
-    {
-     "word": "compatibility",
-     "thai": "ความเข้ากันได้",
-     "level": "B2",
-     "example": "We met these goals while retaining compatibility with the Git protocol."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 517,
-   "sent_ts": "2026-11-03T15:48:28.352203+07:00"
-  },
-  {
-   "id": 860,
-   "ts": "2026-11-03T15:48:28.352435+07:00",
-   "title": "uBlock Origin filter to block autoplay videos in TechCrunch",
-   "link": "https://cornfieldlabs.github.io/posts/ublock-stop-techcrunch-autoplay-video/post.html",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "DevOps / browser tooling workaround to block specific media scripts and autoplay ads.",
-   "summary": "A developer shares a uBlock Origin filter configuration to block background video autoplay and tracking scripts on TechCrunch. The rules stop network resource loading and hide empty player elements.",
-   "vocab": [
-    {
-     "word": "vendor",
-     "thai": "ผู้ขาย, บริษัทผู้ผลิต",
-     "level": "B2",
-     "example": "If TechCrunch switches video vendors, the rules will probably keep hiding the box."
-    },
-    {
-     "word": "inline",
-     "thai": "ที่อยู่ภายในบรรทัดหรือหน้าเดียวกัน",
-     "level": "B2",
-     "example": "TechCrunch: stop the autoplaying JW Player video and inline promos."
-    },
-    {
-     "word": "script",
-     "thai": "สคริปต์, ชุดคำสั่ง",
-     "level": "B2",
-     "example": "Blocking their scripts stops the video from loading at all."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 3,
-   "credibility": 8
-  },
-  {
-   "id": 861,
-   "ts": "2026-11-03T15:48:28.352479+07:00",
-   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-   "link": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Official NIST cybersecurity framework release tailored for small-scale IT environments.",
-   "summary": "NIST has released a cybersecurity guide specifically targeted at solopreneurs and small business owners with limited technical resources. The white paper adapts the NIST Cybersecurity Framework into accessible, actionable best practices.",
-   "vocab": [
-    {
-     "word": "actionable",
-     "thai": "ที่สามารถนำไปปฏิบัติจริงได้",
-     "level": "C1",
-     "example": "Provide an actionable approach to implementing a cybersecurity program."
-    },
-    {
-     "word": "rationale",
-     "thai": "เหตุผลและคำอธิบายเบื้องหลัง",
-     "level": "C1",
-     "example": "For each of these actions, the guide includes the rationale for performing it."
-    },
-    {
-     "word": "novice",
-     "thai": "ผู้เริ่มต้น, มือใหม่",
-     "level": "B2",
-     "example": "The updated publication draws its guidelines from the CSF, though written with the novice in mind."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 10
-  },
-  {
    "id": 862,
    "ts": "2026-11-04T00:26:43.365032+07:00",
    "title": "UK mmWave vendor CBNG collapses after loss of Verizon deal",
@@ -17474,11 +16140,13 @@
      "example": "This project is currently undergoing a public consultation process."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 792,
+   "sent_ts": "2026-11-17T16:04:53.185145+07:00"
   },
   {
    "id": 1230,
@@ -17510,11 +16178,13 @@
      "example": "Net income was primarily driven by a non-cash gain from the revaluation of warrants."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 787,
+   "sent_ts": "2026-11-17T16:04:49.485098+07:00"
   },
   {
    "id": 1231,
@@ -17546,7 +16216,7 @@
      "example": "The interface makes macOS the best place for humans to hold AI agents accountable."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
@@ -17582,11 +16252,13 @@
      "example": "The public declaration lapsed within months after the developer failed to make payments."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 793,
+   "sent_ts": "2026-11-17T16:04:53.872273+07:00"
   },
   {
    "id": 1233,
@@ -17618,11 +16290,13 @@
      "example": "The report helps analysts pinpoint high-growth secondary markets for expansion."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 2,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 794,
+   "sent_ts": "2026-11-17T16:04:54.595894+07:00"
   },
   {
    "id": 1234,
@@ -17654,7 +16328,7 @@
      "example": "AWS purchased a shuttered concrete manufacturing plant earlier this month."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 2,
    "scale": 6,
@@ -17728,7 +16402,7 @@
      "example": "The website can hook requests to extract the random extension UUID."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -17764,7 +16438,7 @@
      "example": "Bitly suspended accounts that claimed inactive short addresses."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -17800,7 +16474,7 @@
      "example": "The facility will be run by an independent foundation to protect intellectual property and commercially sensitive information."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -17872,7 +16546,7 @@
      "example": "If we have the availability to raise capital at attractive terms, we will be very opportunistic about it."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 5,
@@ -17908,7 +16582,7 @@
      "example": "Luminal's ability to get the most out of GPUs that have already been powered is incredibly high leverage."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -17944,7 +16618,7 @@
      "example": "The switch-off of the legacy services will support the telcos' focus on 4G and 5G networks."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -17980,11 +16654,13 @@
      "example": "The GPU features a sparse data acceleration capability that speeds up GPU-to-GPU connectivity."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 788,
+   "sent_ts": "2026-11-17T16:04:50.201300+07:00"
   },
   {
    "id": 1244,
@@ -18052,7 +16728,7 @@
      "example": "The company said it would focus on data center assets leased to hyperscale tenants."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -18088,7 +16764,7 @@
      "example": "Financial firms often underwrite major telecom infrastructure expansions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18124,7 +16800,7 @@
      "example": "This timeline creates a fundamental misalignment with typical infrastructure investment horizons."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
@@ -18160,7 +16836,7 @@
      "example": "Microsoft does not ask local municipalities to reduce their property tax rates for data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -18196,7 +16872,7 @@
      "example": "The solution is helping the university increase capacity while lowering operational costs."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 4,
    "scale": 5,
@@ -18232,7 +16908,7 @@
      "example": "The cloud-native core enables advanced capabilities such as network slicing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 5,
@@ -18268,11 +16944,13 @@
      "example": "An on-site substation is planned to support the data center."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 789,
+   "sent_ts": "2026-11-17T16:04:50.968993+07:00"
   },
   {
    "id": 1252,
@@ -18304,11 +16982,13 @@
      "example": "China’s grip on the top supercomputer list remains uncontested."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 790,
+   "sent_ts": "2026-11-17T16:04:51.797370+07:00"
   },
   {
    "id": 1253,
@@ -18340,7 +17020,7 @@
      "example": "The government announced its ambition to build faster compute clusters."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -18376,7 +17056,7 @@
      "example": "Weak credentials can compromise enterprise network security."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 9,
@@ -18448,7 +17128,7 @@
      "example": "Teams should evaluate software patches in a staging environment."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -18520,7 +17200,7 @@
      "example": "The filter blocked malicious activity originating from trial accounts."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -18556,235 +17236,17 @@
      "example": "Member nations formed a strong alliance to secure technology chains."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 791,
+   "sent_ts": "2026-11-17T16:04:52.477874+07:00"
   }
  ],
  "next_id": 1260,
  "vocab": [
-  {
-   "word": "payload",
-   "thai": "สัมภาระหรือน้ำหนักบรรทุกของยานพาหนะ",
-   "level": "C1",
-   "example": "Cowboy Space shows Big Iron, the 15-ton payload rocket.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reusable",
-   "thai": "ที่นำกลับมาใช้ใหม่ได้",
-   "level": "B2",
-   "example": "The rocket, including its reusable booster, stands at 86 meters tall.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "commercial",
-   "thai": "เชิงพาณิชย์",
-   "level": "B2",
-   "example": "Will operate GPUs in orbit for commercial and government customers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "covert",
-   "thai": "ลับ, ซ่อนเร้น",
-   "level": "C1",
-   "example": "Isolated AI agents still managed to set up covert communication channels without a network connection.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "feasible",
-   "thai": "ที่เป็นไปได้",
-   "level": "B2",
-   "example": "Full network isolation, a so-called air gap, isn't feasible yet because experiments still need external connections.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "index",
-   "thai": "ดัชนี",
-   "level": "B2",
-   "example": "The authors created a vulnerability index that ranks the undersea cables at risk.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "hotspot",
-   "thai": "จุดร้อน / พื้นที่ตึงเครียด",
-   "level": "B2",
-   "example": "Taiwan is considered a geopolitical hotspot as a self-governing island democracy.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "compensation",
-   "thai": "เงินค่าชดเชย",
-   "level": "B2",
-   "example": "Orange seeks compensation from Nokia over outage in France earlier this month.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "disruption",
-   "thai": "การหยุดชะงัก",
-   "level": "B2",
-   "example": "The October 21 outage caused significant disruption for Orange customers in France.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "vendor",
-   "thai": "ผู้จัดจำหน่ายสินค้าหรือบริการ",
-   "level": "B2",
-   "example": "Orange France is reportedly seeking compensation from network vendor Nokia.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "naysayer",
-   "thai": "ผู้คัดค้านหรือผู้มองในแง่ลบ",
-   "level": "C1",
-   "example": "The GPU giant is doing its best to try and win over the industry’s naysayers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "guardrails",
-   "thai": "แนวทางป้องกันหรือกรอบความปลอดภัย",
-   "level": "B2",
-   "example": "The full-stack offering enforces policy-based security and privacy guardrails for AI agents.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "heavy-handed",
-   "thai": "ใช้อำนาจเด็ดขาดหรือเข้มงวดเกินไป",
-   "level": "C1",
-   "example": "The administration opposes heavy-handed government regulation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "rooted",
-   "thai": "ถูกยึดสิทธิ์ระดับผู้ดูแลระบบสูงสุด",
-   "level": "B2",
-   "example": "Intruders rooted multiple servers after successfully executing the script.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "propaganda",
-   "thai": "ข้อมูลชวนเชื่อ",
-   "level": "B2",
-   "example": "Federal authorities took down several overseas propaganda domains.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "salinity",
-   "thai": "ความเค็ม",
-   "level": "C1",
-   "example": "Researchers documented a sharp salinity increase in a vast layer of the Southern Ocean.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "redistributes",
-   "thai": "กระจายใหม่",
-   "level": "C1",
-   "example": "Changes to the layer influence how the ocean stores and redistributes heat.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dwindles",
-   "thai": "ค่อยๆ ลดลง",
-   "level": "C1",
-   "example": "As the ice dwindles, there is less freshwater available during the melt season.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "arson",
-   "thai": "การลอบวางเพลิง",
-   "level": "B2",
-   "example": "Turkish police make 85 arrests over last month's arson attack against a Starlink station.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "detained",
-   "thai": "ถูกควบคุมตัว",
-   "level": "B2",
-   "example": "Those detained by police include 35 minors preparing attacks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "marginal",
-   "thai": "น้อยมากหรือเพิ่มขึ้นเพียงเล็กน้อย",
-   "level": "C1",
-   "example": "PG&E sees marginal increase in data center pipeline.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "modernization",
-   "thai": "การปรับปรุงให้ทันสมัย",
-   "level": "B2",
-   "example": "The utility is focused on grid modernization to support 1.8GW of potential data center demand.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "mounting",
    "thai": "ที่เพิ่มมากขึ้นเรื่อยๆ",
@@ -23560,6 +22022,226 @@
    "thai": "ส่วนน้อย",
    "level": "B2",
    "example": "Only a minority want to ban it.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pivot",
+   "thai": "ปรับเปลี่ยนทิศทางธุรกิจ",
+   "level": "C1",
+   "example": "The company looks to pivot its business towards high-density colocation for AI workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disposal",
+   "thai": "การจำหน่ายหรือกำจัดสินทรัพย์ออกไป",
+   "level": "C1",
+   "example": "The company initially earmarked mining and electrical equipment for disposal in Q2.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "revaluation",
+   "thai": "การประเมินมูลค่าใหม่",
+   "level": "C1",
+   "example": "Net income was primarily driven by a non-cash gain from the revaluation of warrants.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compute",
+   "thai": "การประมวลผลคำนวณของคอมพิวเตอร์",
+   "level": "C1",
+   "example": "Instead of increasing compute capacity alone, the new chip offers a balanced design scaling data movement and compute together.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "discovery",
+   "thai": "การค้นพบสิ่งใหม่",
+   "level": "B2",
+   "example": "Faster simulation means faster discovery for agents tackling science and engineering problems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sparse",
+   "thai": "กระจายตัวเบาบางหรือมีองค์ประกอบน้อย",
+   "level": "C1",
+   "example": "The GPU features a sparse data acceleration capability that speeds up GPU-to-GPU connectivity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "vacant",
+   "thai": "ว่างเปล่า หรือไม่ได้ถูกใช้งาน",
+   "level": "B2",
+   "example": "The site designated for the project is currently mostly vacant land.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "energizing",
+   "thai": "การจ่ายกระแสไฟฟ้าเข้าสู่ระบบ",
+   "level": "C1",
+   "example": "The site could begin energizing in 2027, reaching full power by 2029.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "substation",
+   "thai": "สถานีไฟฟ้าย่อย",
+   "level": "C1",
+   "example": "An on-site substation is planned to support the data center.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "automated",
+   "thai": "ซึ่งทำแบบอัตโนมัติ",
+   "level": "B2",
+   "example": "Attackers are using AI agents to automate cybercrime at an industrial scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "photonic",
+   "thai": "เกี่ยวกับโฟตอน หรือเทคโนโลยีเชิงแสง",
+   "level": "C1",
+   "example": "Marvell and Penguin Solutions aim to address memory needs with photonic memory fabric.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "uncontested",
+   "thai": "ไร้คู่แข่ง หรือไม่มีใครคัดค้าน",
+   "level": "C1",
+   "example": "China’s grip on the top supercomputer list remains uncontested.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "coercing",
+   "thai": "บีบบังคับ",
+   "level": "C1",
+   "example": "Officials denied coercing partner nations into trade agreements.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alliance",
+   "thai": "พันธมิตร",
+   "level": "B2",
+   "example": "Member nations formed a strong alliance to secure technology chains.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "flexibility",
+   "thai": "ความยืดหยุ่น",
+   "level": "B2",
+   "example": "The companies will explore new grid integration and flexibility solutions.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consultation",
+   "thai": "การปรึกษาหารือ / การรับฟังความคิดเห็นสาธารณะ",
+   "level": "B2",
+   "example": "This project is currently undergoing a public consultation process.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bolster",
+   "thai": "ส่งเสริมหรือเพิ่มความแข็งแกร่ง",
+   "level": "C1",
+   "example": "This capacity bolsters Blackstone's campus, bringing the project to 430MW.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "precedence",
+   "thai": "การมีลำดับความสำคัญเหนือกว่า",
+   "level": "C1",
+   "example": "The availability of power has taken precedence over the land parcel itself.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lapsed",
+   "thai": "สิ้นสภาพหรือหมดอายุลง",
+   "level": "C1",
+   "example": "The public declaration lapsed within months after the developer failed to make payments.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "bottleneck",
+   "thai": "คอขวดหรืออุปสรรคที่ทำให้การทำงานล่าช้า",
+   "level": "C1",
+   "example": "Power grid bottlenecks and shrinking availability are reshaping where operators build.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "absorbed",
+   "thai": "ถูกดูดซับหรือถูกจับจองไปอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "Intense AI and cloud demand absorbed new capacity almost as fast as it arrived.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "pinpoint",
+   "thai": "ระบุตำแหน่งหรือชี้ชัดอย่างแม่นยำ",
+   "level": "C1",
+   "example": "The report helps analysts pinpoint high-growth secondary markets for expansion.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
