@@ -2544,676 +2544,6 @@
  ],
  "stories": [
   {
-   "id": 862,
-   "ts": "2026-11-04T00:26:43.365032+07:00",
-   "title": "UK mmWave vendor CBNG collapses after loss of Verizon deal",
-   "link": "https://www.datacenterdynamics.com/en/news/uk-mmwave-vendor-cbng-collapses-after-loss-of-verizon-deal/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A notable hardware vendor collapse affecting 5G fixed wireless access and telecom supply chains.",
-   "summary": "British mmWave vendor Cambridge Broadband Networks Group has collapsed into administration after losing a major deal with Verizon. The company has ceased trading and laid off its staff.",
-   "vocab": [
-    {
-     "word": "administration",
-     "thai": "การพิทักษ์ทรัพย์/การล้มละลาย",
-     "level": "B2",
-     "example": "Cambridge Broadband Networks Group has fallen into administration."
-    },
-    {
-     "word": "cease",
-     "thai": "หยุด",
-     "level": "B2",
-     "example": "The company that has already ceased trading."
-    },
-    {
-     "word": "spokesperson",
-     "thai": "โฆษก",
-     "level": "B2",
-     "example": "said a Verizon spokesperson in a statement."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 8,
-   "scale": 3,
-   "credibility": 9
-  },
-  {
-   "id": 863,
-   "ts": "2026-11-04T00:26:43.365083+07:00",
-   "title": "Foxconn details quantum ambitions, wants to become world’s “largest quantum computer manufacturer”",
-   "link": "https://www.datacenterdynamics.com/en/news/foxconn-details-quantum-ambitions-wants-to-become-worlds-largest-quantum-computer-manufacturer/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Foxconn's strategic manufacturing plans for quantum hardware are relevant to major AI and compute scaling trends.",
-   "summary": "Foxconn chairman Young Liu stated the company aims to become the world's largest manufacturer of quantum computers. The contract manufacturer believes quantum hardware will emerge as a specialized compute addition rather than a full replacement for CPUs and GPUs.",
-   "vocab": [
-    {
-     "word": "viable",
-     "thai": "ที่ใช้งานได้จริง",
-     "level": "C1",
-     "example": "When quantum computing will become commercially viable."
-    },
-    {
-     "word": "revolutionary",
-     "thai": "เกี่ยวกับการปฏิวัติ",
-     "level": "B2",
-     "example": "I would not say that will be the next revolutionary computing devices."
-    },
-    {
-     "word": "computation",
-     "thai": "การคำนวณ",
-     "level": "C1",
-     "example": "Accelerates certain computations."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 864,
-   "ts": "2026-11-04T00:26:43.365117+07:00",
-   "title": "Smartbird worth less now than before Allbirds shoe brand pivoted to AI neocloud",
-   "link": "https://www.datacenterdynamics.com/en/news/smartbird-worth-less-now-than-before-allbirds-shoe-brand-pivoted-to-ai-neocloud/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A public example of an eco-wear brand pivoting to AI neocloud infrastructure with volatile market valuation.",
-   "summary": "Shoe brand Allbirds rebranded to focus on GPU-as-a-service cloud offerings, experiencing heavy stock volatility. Its current market cap remains lower than its final footwear era valuation despite multiple rebrands and funding boosts.",
-   "vocab": [
-    {
-     "word": "fervor",
-     "thai": "ความกระตือรือร้นอย่างมาก",
-     "level": "C1",
-     "example": "After the initial market fervor, shares again began a downward trend."
-    },
-    {
-     "word": "convertible",
-     "thai": "ที่แปลงสภาพได้",
-     "level": "C1",
-     "example": "Increased the size of its convertible financing facility."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่า",
-     "level": "C1",
-     "example": "Its final Allbirds era valuation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 3,
-   "credibility": 9
-  },
-  {
-   "id": 865,
-   "ts": "2026-11-04T00:26:43.365141+07:00",
-   "title": "Aramco acquires 49% stake in Saudi Arabia's Humain",
-   "link": "https://www.datacenterdynamics.com/en/news/aramco-acquires-49-stake-in-saudi-arabias-humain/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Major sovereign AI infrastructure investment involving billions in cash and regional data center development.",
-   "summary": "Saudi Arabia's PIF and Aramco have completed the acquisition of AI firm Humain to build an integrated regional ecosystem. Aramco transferred key AI assets and billions in cash to accelerate industrial AI deployment.",
-   "vocab": [
-    {
-     "word": "acquisition",
-     "thai": "การเข้าซื้อกิจการ",
-     "level": "C1",
-     "example": "PIF and Aramco have closed the acquisition of Saudi Arabian AI company Humain."
-    },
-    {
-     "word": "synergy",
-     "thai": "การทำงานร่วมกันเพื่อเสริมพลัง",
-     "level": "C1",
-     "example": "Creates a powerful synergy that fuels talent growth."
-    },
-    {
-     "word": "deployment",
-     "thai": "การปรับใช้",
-     "level": "C1",
-     "example": "Enabling faster, more integrated, and scalable deployment of AI systems."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 524,
-   "sent_ts": "2026-11-04T10:46:47.368602+07:00"
-  },
-  {
-   "id": 866,
-   "ts": "2026-11-04T00:26:43.365172+07:00",
-   "title": "Putin gives Russian companies permission to use foreign data centers after Ukraine drone strikes",
-   "link": "https://www.datacenterdynamics.com/en/news/putin-gives-russian-companies-permission-to-use-foreign-data-centers-after-ukraine-drone-strikes/",
-   "source": "DCD",
-   "score": 9,
-   "watch": false,
-   "reason": "Direct operational impact on cross-border IT workloads, cloud services, and security compliance due to kinetic warfare.",
-   "summary": "Following Ukrainian drone strikes on domestic data centers, Vladimir Putin authorized Russian companies to utilize foreign facilities under FSB clearance. The decree also mandates that local data center operators hand over 10 percent of their capacity for government workloads on short notice.",
-   "vocab": [
-    {
-     "word": "decree",
-     "thai": "กฤษฎีกา",
-     "level": "C1",
-     "example": "Russian President Putin issued a decree on Monday."
-    },
-    {
-     "word": "retaliation",
-     "thai": "การแก้แค้น",
-     "level": "C1",
-     "example": "Targeting Russia's infrastructure as part of its retaliation."
-    },
-    {
-     "word": "concerted",
-     "thai": "ที่ประสานร่วมมือกัน",
-     "level": "C1",
-     "example": "The attacks follow concerted Russian bombing of data centers."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 525,
-   "sent_ts": "2026-11-04T10:46:47.917593+07:00",
-   "extra_links": [
-    "https://arstechnica.com/ai/2026/11/russia-looks-to-hide-data-centers-underground-as-ukrainian-drones-strike-back/"
-   ]
-  },
-  {
-   "id": 867,
-   "ts": "2026-11-04T00:26:43.365201+07:00",
-   "title": "OpenAI launches 'Grid Protectors Program' to reduce data center electricity demand when the US grid is under strain",
-   "link": "https://www.datacenterdynamics.com/en/news/openai-launches-grid-protectors-program-to-reduce-data-center-electricity-demand-when-the-us-grid-is-under-strain-openai-has-launched-a-plan-to-reduce-the-impact-of-its-data-centers-on-the-us-grid-the-non-binding-grid-protectors-program-aims-to-re/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly addresses power grid constraints, energy demand response, and data center scalability.",
-   "summary": "OpenAI has introduced the Grid Protectors Program to reduce energy consumption from its upcoming data center campuses during peak grid strain. The initiative involves collaborating with utility providers and regulators on backup generation and flexible demand response.",
-   "vocab": [
-    {
-     "word": "strain",
-     "thai": "ความตึงเครียด",
-     "level": "B2",
-     "example": "When the grid is under strain."
-    },
-    {
-     "word": "fluctuation",
-     "thai": "ความผันผวน",
-     "level": "C1",
-     "example": "Using batteries and power controls to smooth demand fluctuations."
-    },
-    {
-     "word": "framework",
-     "thai": "กรอบการทำงาน",
-     "level": "B2",
-     "example": "Every contract we sign under this framework is to deliver value."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 526,
-   "sent_ts": "2026-11-04T10:46:48.467651+07:00"
-  },
-  {
-   "id": 868,
-   "ts": "2026-11-04T00:27:24.766647+07:00",
-   "title": "Canada joins EuroHPC JU initiative",
-   "link": "https://www.datacenterdynamics.com/en/news/canada-joins-eurohpc-ju-initiative/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Canada joining EuroHPC JU expands international supercomputing and AI research collaboration.",
-   "summary": "Canada has become the 39th member of the European High-Performance Computing Joint Undertaking. This agreement gives Canadian researchers access to advanced European supercomputing, AI, and quantum resources.",
-   "vocab": [
-    {
-     "word": "adhesion",
-     "thai": "การเข้าร่วม, การยอมรับข้อตกลง",
-     "level": "C1",
-     "example": "Canada’s adhesion to the EuroHPC Joint Undertaking reflects the growing importance of international partnerships."
-    },
-    {
-     "word": "forefront",
-     "thai": "แถวหน้า, จุดสูงสุด",
-     "level": "B2",
-     "example": "This collaboration will ensure Canada and Europe remain at the forefront of emerging technologies."
-    },
-    {
-     "word": "ecosystem",
-     "thai": "ระบบนิเวศ",
-     "level": "B2",
-     "example": "The initiative aims to develop a secure supercomputing and quantum computing ecosystem in Europe."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 10
-  },
-  {
-   "id": 869,
-   "ts": "2026-11-04T00:27:24.766710+07:00",
-   "title": "TerraVolt acquires site in Idaho to develop 240MW gas powered behind-the-meter data center campus",
-   "link": "https://www.datacenterdynamics.com/en/news/terravolt-acquires-site-in-idaho-to-develop-240mw-gas-powered-behind-the-meter-data-center-campus/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "TerraVolt acquiring a large Idaho site for an off-grid gas-powered data center directly addresses power constraints.",
-   "summary": "TerraVolt purchased land in Idaho to build a behind-the-meter, gas-powered data center campus to avoid grid congestion. The off-grid project aims to offer 240MW of initial capacity using closed-loop cooling.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวด, จุดอุดตันที่ทำให้งานช้าลง",
-     "level": "B2",
-     "example": "We are addressing the single largest bottleneck in the digital economy: the multi-year wait for grid interconnections."
-    },
-    {
-     "word": "expedited",
-     "thai": "ที่ทำให้รวดเร็วขึ้น",
-     "level": "C1",
-     "example": "The platform provides turnkey solutions to developers seeking an expedited route to market."
-    },
-    {
-     "word": "stewardship",
-     "thai": "การบริหารจัดการดูแลรักษาทรัพยากร",
-     "level": "C1",
-     "example": "Water stewardship will play a central role in the campus design."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 10,
-   "msg_id": 527,
-   "sent_ts": "2026-11-04T10:46:49.013768+07:00"
-  },
-  {
-   "id": 870,
-   "ts": "2026-11-04T00:27:24.766747+07:00",
-   "title": "Putin signs decree that non-state data centers will have to reserve 10 percent of capacity for government use",
-   "link": "https://www.datacenterdynamics.com/en/news/norilsk-nickel/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "New Russian decree forcing private data centers to reserve 10% capacity impacts regional infrastructure operations.",
-   "summary": "President Putin signed a decree requiring non-state data centers in Russia to reserve 10 percent of their capacity for government use with short notice. This follows ongoing drone attacks on domestic data centers.",
-   "vocab": [
-    {
-     "word": "retaliation",
-     "thai": "การตอบโต้, การแก้แค้น",
-     "level": "C1",
-     "example": "The attacks come in retaliation for strikes on Ukrainian data centers."
-    },
-    {
-     "word": "instruct",
-     "thai": "สั่งการ, สอน",
-     "level": "B2",
-     "example": "Putin instructed the Digital Development Ministry to conduct a study of currently available capacity."
-    },
-    {
-     "word": "privately owned",
-     "thai": "ที่เป็นของเอกชน",
-     "level": "B2",
-     "example": "The decree will review floor space at privately owned data centers across the country."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 10,
-   "msg_id": 528,
-   "sent_ts": "2026-11-04T10:46:49.565984+07:00"
-  },
-  {
-   "id": 871,
-   "ts": "2026-11-04T00:27:24.766780+07:00",
-   "title": "Sponsored: Why flow measurement is emerging as a critical design consideration in liquid cooled data centers",
-   "link": "https://www.datacenterdynamics.com/en/opinions/why-flow-measurement-is-emerging-as-a-critical-design-consideration-in-liquid-cooled-data-centers/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Flow measurement design considerations are vital for maintaining thermal performance in liquid-cooled data centers.",
-   "summary": "Liquid cooling in high-density data centers requires precise flow measurement to ensure efficient heat removal and system reliability. Proper instrumentation helps operators track coolant flow rates and optimize pump energy consumption.",
-   "vocab": [
-    {
-     "word": "foundational",
-     "thai": "ที่เป็นพื้นฐานสำคัญ",
-     "level": "B2",
-     "example": "Flow measurement is a foundational element that directly influences thermal performance."
-    },
-    {
-     "word": "differential",
-     "thai": "ความแตกต่าง",
-     "level": "B2",
-     "example": "Heat removal depends on fluid flow rate, temperature differential, and coolant properties."
-    },
-    {
-     "word": "instrumentation",
-     "thai": "เครื่องมือวัดและควบคุม",
-     "level": "C1",
-     "example": "Space constraints often limit the amount of straight pipe available for instrumentation."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 872,
-   "ts": "2026-11-04T00:27:24.766806+07:00",
-   "title": "Fireworks contracts 5MW of Nvidia Blackwell Ultra capacity at Era4 data center in UK",
-   "link": "https://www.datacenterdynamics.com/en/news/fireworks-contracts-5mw-of-nvidia-blackwell-ultra-capacity-at-era4-data-center-in-uk/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Era4 securing a 5MW Nvidia Blackwell Ultra capacity deal with Fireworks highlights active AI infrastructure expansion.",
-   "summary": "AI startup Fireworks has leased 5MW of liquid-cooled capacity using Nvidia Blackwell Ultra GPUs at Era4's UK data center. The site uses landfill gas for primary power to support enterprise AI workloads.",
-   "vocab": [
-    {
-     "word": "inference",
-     "thai": "การอนุมานหรือการประมวลผลโมเดล AI",
-     "level": "C1",
-     "example": "Fireworks' model training and inference platform will be combined with infrastructure in the UK."
-    },
-    {
-     "word": "landfill",
-     "thai": "หลุมฝังกลบขยะ",
-     "level": "B2",
-     "example": "The site is primarily powered by landfill gas captured at the location."
-    },
-    {
-     "word": "comprise",
-     "thai": "ประกอบด้วย",
-     "level": "B2",
-     "example": "The company claimed its platform would eventually comprise 100,000 GPUs."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 7,
-   "credibility": 10,
-   "msg_id": 531,
-   "sent_ts": "2026-11-04T14:27:14.289745+07:00"
-  },
-  {
-   "id": 873,
-   "ts": "2026-11-04T00:27:24.766832+07:00",
-   "title": "Fermi's data center lease with TensorWave misses closing deadline",
-   "link": "https://www.datacenterdynamics.com/en/news/fermis-data-center-lease-with-tensorwave-misses-closing-deadline/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Fermi's delayed lease closing with TensorWave underscores high-stakes financial volatility in AI neocloud projects.",
-   "summary": "Data center developer Fermi missed its closing deadline for a major lease with AMD neocloud partner TensorWave. The company has faced severe executive turnover and stock drops following ambitious expansion plans.",
-   "vocab": [
-    {
-     "word": "termination",
-     "thai": "การยกเลิก, การสิ้นสุด",
-     "level": "B2",
-     "example": "Neither party has exercised termination rights under the lease agreement."
-    },
-    {
-     "word": "theoretical",
-     "thai": "ตามทฤษฎี, ยังไม่เกิดขึ้นจริง",
-     "level": "B2",
-     "example": "Such massive capacity figures remain theoretical until built and operational."
-    },
-    {
-     "word": "depressed",
-     "thai": "ที่มีราคาต่ำกว่าความเป็นจริง",
-     "level": "B2",
-     "example": "The former CEO was accused of trying to force a sale at a depressed valuation."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 10,
-   "msg_id": 532,
-   "sent_ts": "2026-11-04T14:27:14.950789+07:00"
-  },
-  {
-   "id": 874,
-   "ts": "2026-11-04T00:27:24.766857+07:00",
-   "title": "AWS appoints British Embassy advisor as manager of energy policy",
-   "link": "https://www.datacenterdynamics.com/en/news/aws-appoints-new-manager-of-energy-policy/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "AWS hiring a new energy policy manager reflects cloud providers' intense focus on nuclear and clean energy strategy.",
-   "summary": "Amazon Web Services has appointed Robert Fourqurean as its new energy policy manager following his role at the British Embassy. AWS has been actively securing large nuclear and SMR power agreements to fuel its data centers.",
-   "vocab": [
-    {
-     "word": "reflecting",
-     "thai": "สะท้อนถึง",
-     "level": "B2",
-     "example": "Reflecting on the move on LinkedIn, Fourqurean wrote about his first day at AWS."
-    },
-    {
-     "word": "modular",
-     "thai": "ที่เป็นโมดูลประกอบกัน",
-     "level": "B2",
-     "example": "AWS explored the deployment of small modular reactor capacity in Indiana."
-    },
-    {
-     "word": "explored",
-     "thai": "สำรวจ, ศึกษาความเป็นไปได้",
-     "level": "B2",
-     "example": "The company teamed up with American Electric Power to explore clean energy deployment."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 875,
-   "ts": "2026-11-04T00:27:24.766883+07:00",
-   "title": "Password manager mSecure tells users to change passwords, won't say why",
-   "link": "https://www.theregister.com/security/2026/11/03/password-manager-msecure-tells-users-to-change-passwords-wont-say-why/5307296",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Security vulnerabilities and password manager warnings directly affect server and corporate cybersecurity.",
-   "summary": "Password manager mSecure has instructed users to update their credentials without disclosing the precise reason. Meanwhile, critical updates and tech industry developments continue to affect enterprise operations.",
-   "vocab": [
-    {
-     "word": "disclosing",
-     "thai": "การเปิดเผยข้อมูล",
-     "level": "C1",
-     "example": "The password manager told users to change passwords while refusing to disclose why."
-    },
-    {
-     "word": "unaffiliated",
-     "thai": "ที่ไม่เกี่ยวข้องหรือสังกัดกัน",
-     "level": "C1",
-     "example": "Daemonarchy is unaffiliated with the Linux original."
-    },
-    {
-     "word": "preview",
-     "thai": "การแสดงตัวอย่างก่อนเปิดตัวจริง",
-     "level": "B2",
-     "example": "Ubuntu may bring a preview of the long-awaited Core Desktop."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 876,
-   "ts": "2026-11-04T00:28:21.121433+07:00",
-   "title": "ShinyHunters hit 850k alumni, donors, students, and fam in last year's Harvard University raid",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/03/shinyhunters-hit-850k-alumni-donors-students-and-fam-in-last-years-harvard-university-raid/5307272",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Roundup containing multiple tech and infosec items, including a major Harvard data leak.",
-   "summary": "A recent security raid on Harvard University affected hundreds of thousands of individuals, highlighting ongoing cyber threats. The roundup also covers major developments in AI infrastructure, cloud computing, and open-source software.",
-   "vocab": [
-    {
-     "word": "alumni",
-     "thai": "ศิษย์เก่า",
-     "level": "B2",
-     "example": "ShinyHunters hit 850k alumni, donors, and students in last year's raid."
-    },
-    {
-     "word": "surveillance",
-     "thai": "การเฝ้าระวัง",
-     "level": "B2",
-     "example": "China upgrades its smartphone surveillance tools."
-    },
-    {
-     "word": "unaffiliated",
-     "thai": "ไม่สังกัด",
-     "level": "C1",
-     "example": "Daemonarchy is unaffiliated with the Linux original."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 8,
-   "extra_links": [
-    "https://www.theregister.com/public-sector/2026/11/03/nhs-counts-palantir-benefits-at-trusts-that-say-theyre-not-using-it/5307222"
-   ]
-  },
-  {
-   "id": 877,
-   "ts": "2026-11-04T00:28:21.121586+07:00",
-   "title": "Virgin Media O2 outlines plans to lay off thousands as revenue falls",
-   "link": "https://www.theregister.com/networks/2026/11/03/virgin-media-o2-outlines-plans-to-lay-off-thousands-as-revenue-falls/5307194",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Telecom carrier layoffs and financial restructuring, relevant to network operations personnel.",
-   "summary": "Virgin Media O2 plans to lay off thousands of employees as part of a strategy to cut costs and offset falling revenue. The telecommunications company aims to save hundreds of millions of pounds by 2029.",
-   "vocab": [
-    {
-     "word": "restructuring",
-     "thai": "การปรับโครงสร้างองค์กร",
-     "level": "C1",
-     "example": "The company announced major restructuring plans to reduce operational costs."
-    },
-    {
-     "word": "strategy",
-     "thai": "กลยุทธ์",
-     "level": "B1",
-     "example": "Cost-saving is a key strategy for the telecom operator."
-    },
-    {
-     "word": "revenue",
-     "thai": "รายได้",
-     "level": "B2",
-     "example": "Virgin Media O2 outlines plans as revenue falls."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 878,
-   "ts": "2026-11-04T00:28:21.121621+07:00",
-   "title": "Britain on notice: AI-powered ransomware attacks to arrive by 2028",
-   "link": "https://www.theregister.com/security/2026/11/03/britain-on-notice-ai-powered-ransomware-attacks-to-arrive-by-2028/5307200",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": true,
-   "reason": "Cyber agency warning about future AI-driven ransomware targeting critical infrastructure.",
-   "summary": "British cybersecurity authorities warn that AI-powered ransomware attacks could threaten critical infrastructure by 2028. Officials are urging corporate leaders to invest properly in security rather than opting for cheap technology.",
-   "vocab": [
-    {
-     "word": "infrastructure",
-     "thai": "โครงสร้างพื้นฐาน",
-     "level": "B2",
-     "example": "Critical infrastructure is a likely target for future cyber attacks."
-    },
-    {
-     "word": "authority",
-     "thai": "หน่วยงานผู้มีอำนาจ",
-     "level": "B2",
-     "example": "The cyber agency issued a formal warning to organizations."
-    },
-    {
-     "word": "directive",
-     "thai": "คำสั่งหรือนโยบาย",
-     "level": "C1",
-     "example": "New security directives urge bosses to improve defense systems."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 879,
-   "ts": "2026-11-04T00:28:21.121653+07:00",
-   "title": "Apple's Mac business is booming, but the memory market has other plans",
-   "link": "https://www.theregister.com/personal-tech/2026/11/03/apples-mac-business-is-booming-but-the-memory-market-has-other-plans/5307188",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Rising RAM costs threatening hardware supplies and profit margins, directly affecting server and hardware procurement.",
-   "summary": "Apple's Mac division is experiencing strong sales, but rapidly increasing RAM costs threaten hardware supplies. These rising component prices are expected to squeeze profit margins for the hardware maker.",
-   "vocab": [
-    {
-     "word": "component",
-     "thai": "ส่วนประกอบ",
-     "level": "B2",
-     "example": "RAM is a crucial hardware component for computers."
-    },
-    {
-     "word": "margin",
-     "thai": "กำไรขั้นต้น",
-     "level": "B2",
-     "example": "Soaring RAM costs threaten supplies and squeeze margins."
-    },
-    {
-     "word": "procurement",
-     "thai": "การจัดซื้อจัดจ้าง",
-     "level": "C1",
-     "example": "Hardware procurement costs are rising across the industry."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 533,
-   "sent_ts": "2026-11-04T14:27:15.604249+07:00"
-  },
-  {
    "id": 880,
    "ts": "2026-11-04T05:40:39.902105+07:00",
    "title": "NTT Data opens JKT2A data center in Indonesia",
@@ -18157,7 +17487,7 @@
    "thai": "การสิ้นสุดหรือการยุติการเชื่อมต่อ",
    "level": "C1",
    "example": "TLS termination and caching continue to run on the edge network.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19387,7 +18717,7 @@
    "thai": "ระบบส่งกำลังหรือระบบจ่ายพลังงาน",
    "level": "C1",
    "example": "The power infrastructure behind an AI factory can be thought of as a powertrain.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21297,7 +20627,7 @@
    "thai": "การส่งต่อเรื่องขึ้นไปยังระดับที่สูงกว่า",
    "level": "C1",
    "example": "The system automatically routes customer escalations to senior engineers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22097,7 +21427,7 @@
    "thai": "ยุติ, ยกเลิก",
    "level": "B2",
    "example": "Fermi and TensorWave have terminated the data center lease and services agreement.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22207,7 +21537,7 @@
    "thai": "แหล่งที่มาประวัติความเป็นมา",
    "level": "C1",
    "example": "Digital attestations confirm the verifiable record of a release file's provenance.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -22939,26 +22269,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6305240701831479976": {
-   "word": "dramatically",
-   "correct": 3
-  },
-  "6305240701831479977": {
-   "word": "constrain",
-   "correct": 1
-  },
-  "6305240701831479978": {
-   "word": "malware",
-   "correct": 0
-  },
-  "6305240701831479979": {
-   "word": "unprecedented",
-   "correct": 3
-  },
-  "6305240701831479980": {
-   "word": "fluctuation",
-   "correct": 0
-  },
   "6307783885111428143": {
    "word": "resilient",
    "correct": 3
@@ -23137,6 +22447,26 @@
   },
   "6332354929155376072": {
    "word": "miscreants",
+   "correct": 1
+  },
+  "6334831351463675026": {
+   "word": "escalation",
+   "correct": 1
+  },
+  "6334831351463675027": {
+   "word": "provenance",
+   "correct": 1
+  },
+  "6334831351463675028": {
+   "word": "terminate",
+   "correct": 3
+  },
+  "6334831351463675029": {
+   "word": "powertrain",
+   "correct": 3
+  },
+  "6334831351463675030": {
+   "word": "termination",
    "correct": 1
   }
  },
