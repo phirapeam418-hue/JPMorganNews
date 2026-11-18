@@ -2564,407 +2564,33 @@
   "https://www.theregister.com/ai-and-ml/2026/11/17/opting-out-of-gemini-tracking-google-will-still-hold-your-data-20x-longer/5310517",
   "https://www.theregister.com/security/2026/11/17/hackers-smash-n-grab-ai-vendor-take-off-with-license-data-of-uber-drivers/5310464",
   "https://www.theregister.com/os-platforms/2026/11/17/windows-11-previews-remote-padlock-only-it-can-open/5310402",
-  "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+  "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
+  "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+  "https://www.theregister.com/hpc/2026/11/17/gpu-giants-throw-hpc-users-some-tasty-crumbs/5310611",
+  "https://calif.io/java4shell/",
+  "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+  "https://revscope.co/blog/search-seo-geo-2026/",
+  "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+  "https://github.com/microsoft/onnxruntime",
+  "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+  "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+  "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+  "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+  "https://github.com/jquery/jquery/releases/tag/4.1.0",
+  "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+  "https://phrack.org/issues/73/introduction_md",
+  "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+  "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+  "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+  "https://arstechnica.com/tech-policy/2026/11/san-diego-dumps-both-flock-cameras-and-smart-streetlights/",
+  "https://arstechnica.com/space/2026/11/yet-another-satellite-company-is-jockeying-for-a-rocket-but-this-one-makes-sense/",
+  "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+  "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
+  "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
+  "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
  ],
  "stories": [
-  {
-   "id": 896,
-   "ts": "2026-11-04T10:47:22.156606+07:00",
-   "title": "Aussie Adobe assailant Canva announces layoffs in re-org affecting 22% of staff",
-   "link": "https://www.theregister.com/saas/2026/11/04/aussie-adobe-assailant-canva-announces-layoffs-in-re-org-affecting-22-of-staff/5307422",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Major industry reorganization and open-source tool updates affect the broader tech and infrastructure landscape.",
-   "summary": "Canva announced substantial layoffs affecting over a fifth of its staff as part of a corporate reorganization. Meanwhile, various open-source projects released new tools, including an alternative to hidden VMware migration utilities.",
-   "vocab": [
-    {
-     "word": "reorganization",
-     "thai": "การปรับโครงสร้างใหม่",
-     "level": "B2",
-     "example": "Canva announced layoffs in a major re-org affecting 22% of staff."
-    },
-    {
-     "word": "assailant",
-     "thai": "ผู้ทำร้าย, ผู้โจมตี",
-     "level": "C1",
-     "example": "The article refers to the company playfully as an Adobe assailant."
-    },
-    {
-     "word": "alternative",
-     "thai": "ทางเลือก",
-     "level": "B2",
-     "example": "An architect created an open source alternative to the migration tool."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 897,
-   "ts": "2026-11-04T10:47:22.156643+07:00",
-   "title": "C++26 Disapproved",
-   "link": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "The failure of the C++26 standards vote has massive implications for software engineering and programming toolchains.",
-   "summary": "The ISO C++ standard draft was unexpectedly rejected by national bodies, primarily due to disputes over new contract features. This rare failure creates uncertainty for the future timeline and evolution of the programming language.",
-   "vocab": [
-    {
-     "word": "formality",
-     "thai": "พิธีการ, สิ่งที่เป็นตามรูปแบบ",
-     "level": "B2",
-     "example": "It was supposed to be a mere formality before the vote failed."
-    },
-    {
-     "word": "penultimate",
-     "thai": "เกือบสุดท้าย (ก่อนอันสุดท้าย)",
-     "level": "C1",
-     "example": "DIS is the penultimate stage of an ISO standard."
-    },
-    {
-     "word": "unthinkable",
-     "thai": "ที่เหลือจะเชื่อ, เป็นไปไม่ได้ที่จะคิดถึง",
-     "level": "C1",
-     "example": "On October 23, 2026, the unthinkable happened."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 898,
-   "ts": "2026-11-04T10:47:22.156701+07:00",
-   "title": "There is no posttraining data commons",
-   "link": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Discusses foundational data availability constraints for frontier AI training, which affects high-end infrastructure planning.",
-   "summary": "While large language models benefited from decades of archived human knowledge for pretraining, modern posttraining relies heavily on complex tasks rather than raw documents. This creates a severe shortage of ready-made datasets for advanced agentic AI development.",
-   "vocab": [
-    {
-     "word": "corpus",
-     "thai": "คลังข้อมูล (ทางภาษาหรือเอกสาร)",
-     "level": "C1",
-     "example": "Training large language models required a truly vast corpus of text."
-    },
-    {
-     "word": "curate",
-     "thai": "คัดสรรและจัดการข้อมูล",
-     "level": "C1",
-     "example": "Communities spent more than a decade curating the results."
-    },
-    {
-     "word": "frontier",
-     "thai": "แนวหน้า, ล้ำสมัย",
-     "level": "B2",
-     "example": "The focus of frontier AI research has shifted to posttraining."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 899,
-   "ts": "2026-11-04T10:47:22.156722+07:00",
-   "title": "California fights \"preposterous\" Trump admin demand to scrap state broadband laws",
-   "link": "https://arstechnica.com/tech-policy/2026/11/california-fights-preposterous-trump-admin-demand-to-scrap-state-broadband-laws/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Regulatory clashes over federal broadband funding and state net neutrality rules directly impact telecom and network operators.",
-   "summary": "California is accepting federal broadband grants while refusing to comply with conditions demanding the repeal of state net neutrality laws. The resulting standoff could trigger major legal battles and delay telecom infrastructure deployment.",
-   "vocab": [
-    {
-     "word": "preempt",
-     "thai": "เข้ากีดกัน, มีสิทธิ์เหนือกว่า",
-     "level": "C1",
-     "example": "The demand to preempt state laws is brazen and meritless."
-    },
-    {
-     "word": "concede",
-     "thai": "ยอมรับ, ยอมจำนน",
-     "level": "C1",
-     "example": "The state expressly does not waive or concede any legal arguments."
-    },
-    {
-     "word": "standoff",
-     "thai": "ภาวะชะงักงัน, การเผชิญหน้าที่ไม่มีใครยอมใคร",
-     "level": "C1",
-     "example": "The regulatory standoff could delay regional broadband deployment."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 537,
-   "sent_ts": "2026-11-04T14:27:18.353850+07:00"
-  },
-  {
-   "id": 900,
-   "ts": "2026-11-04T10:47:34.515720+07:00",
-   "title": "NYT demands Brave shut down its paywall blocker and end deals with AI firms",
-   "link": "https://arstechnica.com/tech-policy/2026/11/nyt-demands-brave-shut-down-its-paywall-blocker-and-end-deals-with-ai-firms/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Major lawsuit involving AI data scraping, paywall bypassing, and copyright infringement affects data and model providers.",
-   "summary": "The New York Times and other publishers are suing Brave Software for allegedly bypassing paywalls and selling scraped news content to major AI companies. The lawsuit claims Brave profits heavily from copyrighted journalism without compensating the creators.",
-   "vocab": [
-    {
-     "word": "alleging",
-     "thai": "กล่าวหา",
-     "level": "B2",
-     "example": "The lawsuit alleged that Brave has made more than $100 million by copying publishers' work."
-    },
-    {
-     "word": "circumventing",
-     "thai": "หลีกเลี่ยง, หลบเลี่ยง",
-     "level": "C1",
-     "example": "The suit said Brave violated the DMCA by circumventing technological measures used to restrict access."
-    },
-    {
-     "word": "infringement",
-     "thai": "การละเมิดลิขสิทธิ์",
-     "level": "C1",
-     "example": "The lawsuit accused Brave of all the major types of copyright infringement."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 901,
-   "ts": "2026-11-04T10:47:34.515773+07:00",
-   "title": "Google will let schools skip AI tools, but they have to give up search, too",
-   "link": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly impacts cloud software usage policies and AI integration in the education sector.",
-   "summary": "Google will allow K-12 schools using its education products to opt out of AI tools by default. However, blocking these AI features also requires giving up access to Google Search entirely.",
-   "vocab": [
-    {
-     "word": "ubiquity",
-     "thai": "การมีอยู่ทุกหนทุกแห่ง",
-     "level": "C1",
-     "example": "The ubiquity of these devices has made the company's education products huge in schools."
-    },
-    {
-     "word": "overarching",
-     "thai": "ซึ่งครอบคลุมทั้งหมด",
-     "level": "C1",
-     "example": "Google's new overarching approach to AI in classrooms sounds good on the surface."
-    },
-    {
-     "word": "administrators",
-     "thai": "ผู้ดูแลระบบ, ผู้บริหาร",
-     "level": "B2",
-     "example": "It will be up to administrators to manually enable them when changes roll out."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 902,
-   "ts": "2026-11-04T10:47:34.515795+07:00",
-   "title": "Another child dies of measles as CDC reportedly holds up health alert",
-   "link": "https://arstechnica.com/health/2026/11/another-child-dies-of-measles-as-cdc-reportedly-holds-up-health-alert/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Public health news regarding measles outbreaks and vaccine policy, outside of core IT and infrastructure scope.",
-   "summary": "A child in New York died from measles amid a rising number of vaccine-preventable outbreaks across the United States. State officials blamed the crisis on declining vaccination rates and federal health policies.",
-   "vocab": [
-    {
-     "word": "outbreak",
-     "thai": "การแพร่ระบาดของโรค",
-     "level": "B2",
-     "example": "Pennsylvania is experiencing a dramatic measles outbreak that has stricken over 1,430 people."
-    },
-    {
-     "word": "obstructing",
-     "thai": "ขัดขวาง",
-     "level": "C1",
-     "example": "Kennedy has waged a war on vaccines that has included obstructing federal vaccine recommendations."
-    },
-    {
-     "word": "devastating",
-     "thai": "ที่สร้างความเสียหายรุนแรง",
-     "level": "B2",
-     "example": "She called the child's death a devastating reminder of what is at stake."
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 903,
-   "ts": "2026-11-04T10:47:34.515815+07:00",
-   "title": "Google dismantles botnet secretly running on 1.3 million Android TV boxes",
-   "link": "https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Critical security incident involving a massive malware botnet on certified hardware and evasion techniques.",
-   "summary": "Google dismantled a large botnet called x.cpe that infected over 1.3 million certified Android TV boxes using advanced evasion methods. The compromised hardware was used to run residential proxies and engage in ad fraud schemes.",
-   "vocab": [
-    {
-     "word": "modular",
-     "thai": "แบบแยกส่วนประกอบ",
-     "level": "C1",
-     "example": "The malware evolved quickly into a modular three-stage malware platform."
-    },
-    {
-     "word": "evaded",
-     "thai": "หลบเลี่ยง",
-     "level": "B2",
-     "example": "The compromised boxes evaded detection by using a backdoor to remotely install malware."
-    },
-    {
-     "word": "behest",
-     "thai": "ตามคำสั่งหรือความต้องการ",
-     "level": "C2",
-     "example": "It had the system-level permissions necessary to install malware modules at the operator's behest."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 904,
-   "ts": "2026-11-04T10:47:34.515837+07:00",
-   "title": "This space company is betting its future on a propellant available everywhere",
-   "link": "https://arstechnica.com/space/2026/11/this-space-company-is-betting-its-future-on-a-propellant-available-everywhere/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Relevant to space infrastructure, propulsion, and hardware deployment challenges for edge systems.",
-   "summary": "Argo Space is developing spacecraft propulsion systems that rely entirely on water as a propellant and coolant. During its first demonstration mission, a solar array deployment failure prevented the spacecraft from testing its propulsion system.",
-   "vocab": [
-    {
-     "word": "refurbished",
-     "thai": "ซึ่งได้รับการปรับปรุงสภาพใหม่",
-     "level": "B2",
-     "example": "The brothers launched rockets, refurbished rockets, and sold rockets."
-    },
-    {
-     "word": "incentive",
-     "thai": "สิ่งจูงใจ",
-     "level": "B2",
-     "example": "This water-based transportation will give us a commercial incentive to harvest from the Moon."
-    },
-    {
-     "word": "troubleshooting",
-     "thai": "การแก้ไขปัญหาข้อขัดข้อง",
-     "level": "B2",
-     "example": "Controllers spent about half a day troubleshooting the issue and gathering data."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 905,
-   "ts": "2026-11-04T10:47:34.515856+07:00",
-   "title": "UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?",
-   "link": "https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "Critical server and OS security vulnerability involving UEFI bootkits and Secure Boot bypasses on Windows.",
-   "summary": "A UEFI bootkit named BlackX successfully infected fully patched Windows systems by exploiting legacy certificate trust gaps. The malware bypasses Secure Boot to run malicious code before core operating system defenses load.",
-   "vocab": [
-    {
-     "word": "subverted",
-     "thai": "ทำลายความน่าเชื่อถือ, ทำให้ล่มสลาย",
-     "level": "C1",
-     "example": "With the industry-wide chain-of-trust mechanism subverted, the malware was able to run malicious code."
-    },
-    {
-     "word": "revoke",
-     "thai": "เพิกถอน, ยกเลิก",
-     "level": "C1",
-     "example": "Microsoft issued an update to revoke trust in the digital certificate used to sign older boot managers."
-    },
-    {
-     "word": "extract",
-     "thai": "ดึงข้อมูลออก",
-     "level": "B2",
-     "example": "A logic flaw allows attackers to bypass Secure Boot and extract BitLocker encryption keys."
-    }
-   ],
-   "status": "skipped",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 906,
-   "ts": "2026-11-04T10:47:34.515875+07:00",
-   "title": "Trump wanted to give No Kings no air. Then, Meta suspended its Instagram.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/trump-wanted-to-give-no-kings-no-air-then-meta-suspended-its-instagram/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "Platform moderation policy and automated tool errors affecting high-profile accounts during elections.",
-   "summary": "Meta temporarily suspended a prominent pro-democracy Instagram account after automated systems mistakenly flagged its AI tool usage as bot activity. Meta defended its policies during meetings with coalition leaders despite widespread criticism over content suppression.",
-   "vocab": [
-    {
-     "word": "surged",
-     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "Prevent automated systems from suspending accounts if activity surged during the election."
-    },
-    {
-     "word": "suppressed",
-     "thai": "ถูกระงับ, ถูกปิดกั้น",
-     "level": "B2",
-     "example": "Americans need assurance that voting content won't be suppressed ahead of election day."
-    },
-    {
-     "word": "acknowledge",
-     "thai": "ยอมรับ",
-     "level": "B2",
-     "example": "Stone acknowledged that additional hurdles kept admins locked out of the account."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 8
-  },
   {
    "id": 907,
    "ts": "2026-11-04T18:44:28.932063+07:00",
@@ -16552,7 +16178,10 @@
    "impact": 9,
    "urgency": 10,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "extra_links": [
+    "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
+   ]
   },
   {
    "id": 1274,
@@ -17093,70 +16722,415 @@
    "urgency": 6,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 1289,
+   "ts": "2026-11-18T12:02:14.824226+07:00",
+   "title": "Nvidia doubles quarterly earnings, raises forecast, “does not intend to reinstate Jensen as CEO”",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-doubles-quarterly-earnings-raises-forecast-does-not-intend-to-reinstate-jensen-as-ceo/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The headline claims massive earnings paired with sensational leadership drama, though the snippet is very brief and dubious.",
+   "summary": "Nvidia reported strong quarterly financial gains and raised its upcoming forecast. However, the report highlights internal executive leadership uncertainty surrounding CEO Jensen Huang.",
+   "vocab": [
+    {
+     "word": "reinstate",
+     "thai": "คืนตำแหน่ง, ให้กลับมารับตำแหน่งเดิม",
+     "level": "C1",
+     "example": "The company does not intend to reinstate Jensen as CEO."
+    },
+    {
+     "word": "forecast",
+     "thai": "การคาดการณ์ (ผลประกอบการ)",
+     "level": "B2",
+     "example": "Nvidia doubles quarterly earnings and raises its revenue forecast."
+    },
+    {
+     "word": "shadow",
+     "thai": "เงามืด, สภาพที่บดบังความสำเร็จ",
+     "level": "B2",
+     "example": "CEO drama casts a long shadow over the impressive financial results."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 4,
+   "extra_links": [
+    "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/"
+   ]
+  },
+  {
+   "id": 1290,
+   "ts": "2026-11-18T12:02:14.824289+07:00",
+   "title": "Daily disruptive outages that ground planes and halt work – welcome to the new normal",
+   "link": "https://www.theregister.com/security/2026/11/17/daily-disruptive-outages-that-ground-planes-and-halt-work-welcome-to-the-new-normal/5310634",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly analyzes the root causes behind a wave of recent major outages across airlines, banks, and big tech infrastructure.",
+   "summary": "Recent high-profile outages affecting Apple, major US banks, and the FAA stem from aging infrastructure and software missteps rather than coordinated cyberattacks. Experts warn that fragile interdependencies make catastrophic failures the new operational normal.",
+   "vocab": [
+    {
+     "word": "respite",
+     "thai": "การหยุดพักชั่วคราว, การผ่อนคลายความตึงเครียด",
+     "level": "C2",
+     "example": "Admins had a brief weekend respite before fielding questions about downed systems."
+    },
+    {
+     "word": "fragility",
+     "thai": "ความเปราะบาง",
+     "level": "C1",
+     "example": "Recent incidents reveal the fragility of our interconnected digital infrastructure."
+    },
+    {
+     "word": "degradation",
+     "thai": "การเสื่อมสภาพ, ประสิทธิภาพลดลง",
+     "level": "C1",
+     "example": "The agency described the issue as a temporary degradation during routine maintenance."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 806,
+   "sent_ts": "2026-11-18T12:02:15.528475+07:00"
+  },
+  {
+   "id": 1291,
+   "ts": "2026-11-18T12:02:15.528783+07:00",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "link": "https://calif.io/java4shell/",
+   "source": "Hacker News",
+   "score": 10,
+   "watch": false,
+   "reason": "A critical 9.2 CVSS pre-auth RCE flaw in OpenJDK's Base64 parser affects widely used infrastructure software like Kafka, Elasticsearch, and Jenkins.",
+   "summary": "Researchers uncovered a critical memory-corruption vulnerability in OpenJDK's Base64 decoder that allows remote code execution. Because Java underpins massive enterprise tools and web services, operators must patch immediately to prevent remote takeover.",
+   "vocab": [
+    {
+     "word": "malformed",
+     "thai": "ผิดรูปผิดร่าง, ซึ่งมีรูปแบบผิดปกติ",
+     "level": "C1",
+     "example": "A bug in the optimized assembly code lets malformed input overwrite neighboring memory."
+    },
+    {
+     "word": "neighboring",
+     "thai": "ที่อยู่ติดกัน, ที่อยู่ข้างเคียง",
+     "level": "B2",
+     "example": "The vulnerability allows an attacker to corrupt neighboring memory on the heap."
+    },
+    {
+     "word": "compromised",
+     "thai": "ถูกเจาะระบบ, ตกอยู่ในความเสี่ยง",
+     "level": "B2",
+     "example": "A Java program connecting to a malicious server can be compromised remotely."
+    }
+   ],
+   "status": "sent",
+   "impact": 10,
+   "urgency": 10,
+   "scale": 10,
+   "credibility": 9,
+   "msg_id": 807,
+   "sent_ts": "2026-11-18T12:02:16.228630+07:00"
+  },
+  {
+   "id": 1292,
+   "ts": "2026-11-18T12:02:16.228901+07:00",
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Focuses on digital marketing, website SEO, and search click traffic changes caused by Google AI Overviews.",
+   "summary": "A study shows that Google's AI Overviews have reduced web traffic clicks to original publishers by roughly 40 percent. The trend impacts web revenue models, though it has little direct connection to enterprise server operations.",
+   "vocab": [
+    {
+     "word": "compensate",
+     "thai": "ชดเชย, ทดแทน",
+     "level": "B2",
+     "example": "Generative engine optimization has yet to show a way to compensate for lost traffic."
+    },
+    {
+     "word": "correlate",
+     "thai": "สัมพันธ์กัน, มีความสัมพันธ์สอดคล้องกัน",
+     "level": "C1",
+     "example": "AI citations correlate with the same link profile that helps traditional search ranking."
+    },
+    {
+     "word": "intent",
+     "thai": "เจตนา, ความตั้งใจ",
+     "level": "B2",
+     "example": "The frequency of AI overviews rose significantly for every type of search intent."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1293,
+   "ts": "2026-11-18T12:02:16.228934+07:00",
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "link": "https://github.com/microsoft/onnxruntime",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Reports on the sudden disappearance of Microsoft's ONNX runtime repository from GitHub, though the text snippet is mostly navigation markup.",
+   "summary": "Microsoft's popular machine learning framework repository, ONNX Runtime, has unexpectedly vanished from GitHub. This disappearance could temporarily disrupt CI/CD deployment pipelines relying on upstream source code.",
+   "vocab": [
+    {
+     "word": "dismiss",
+     "thai": "ปิดทิ้ง, ไม่สนใจ",
+     "level": "B2",
+     "example": "Click the close icon to dismiss the alert dialog."
+    },
+    {
+     "word": "remediation",
+     "thai": "การแก้ไขเยียวยา, การแก้ปัญหา",
+     "level": "C1",
+     "example": "The platform provides code security vulnerability detection and remediation."
+    },
+    {
+     "word": "enforcement",
+     "thai": "การบังคับใช้",
+     "level": "C1",
+     "example": "The pipeline includes code quality analysis, fixes, and strict policy enforcement."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 5
+  },
+  {
+   "id": 1294,
+   "ts": "2026-11-18T12:11:08.426288+07:00",
+   "title": "Highly classified US national security communications network goes down",
+   "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "An internal NSA network outage caused by security patch side-effects directly highlights critical infrastructure and patching risks.",
+   "summary": "The National Security Agency experienced a major internal network outage after applying emergency software patches for critical PHP flaws. The update caused dependent systems to fail during reboot, forcing the agency to temporarily restrict staff access to its campus.",
+   "vocab": [
+    {
+     "word": "degradation",
+     "thai": "การเสื่อมถอยของการทำงาน",
+     "level": "C1",
+     "example": "The agency experienced temporary degradation during scheduled routine maintenance."
+    },
+    {
+     "word": "redundancy",
+     "thai": "ระบบสำรองเผื่อเสีย",
+     "level": "C1",
+     "example": "NSA's infrastructure is designed with multiple layers of redundancy to maintain operations."
+    },
+    {
+     "word": "staggered",
+     "thai": "จัดลำดับเป็นระยะๆ",
+     "level": "B2",
+     "example": "The agency staggered employee arrivals as it worked to address the outage."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 808,
+   "sent_ts": "2026-11-18T12:11:09.137798+07:00"
+  },
+  {
+   "id": 1295,
+   "ts": "2026-11-18T12:11:09.137947+07:00",
+   "title": "jQuery 4.1.0",
+   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Front-end JavaScript library updates are outside the scope of server operations and data center management.",
+   "summary": "jQuery has released versions 4.1.0 and 3.8.0, bringing bug fixes, DOM traversal updates, and ReDoS security hardening. The project is transitioning primary maintenance responsibilities to commercial support vendors.",
+   "vocab": [
+    {
+     "word": "refactor",
+     "thai": "ปรับโครงสร้างโค้ด",
+     "level": "C1",
+     "example": "Developers refactor loops to avoid going behind array bounds."
+    },
+    {
+     "word": "interpreter",
+     "thai": "ตัวแปลคำสั่ง",
+     "level": "C1",
+     "example": "The release works around a Safari regex interpreter bug."
+    },
+    {
+     "word": "semantics",
+     "thai": "ความหมายตามโครงสร้าง",
+     "level": "C1",
+     "example": "The test suite accepts old and new element option semantics."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 1296,
+   "ts": "2026-11-18T12:11:09.137966+07:00",
+   "title": "MAI Code 2 and Code 2 Flash",
+   "link": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "New AI models targeted at developer tools affect DevOps workflows and AI model deployment choices.",
+   "summary": "Microsoft introduced MAI Code 2 and Code 2 Flash, specialized AI coding models designed to lower token costs for routine software development. The models excel at multi-file reasoning, debugging, and UI generation across enterprise products.",
+   "vocab": [
+    {
+     "word": "frontier",
+     "thai": "ขีดความสามารถสูงสุด",
+     "level": "C1",
+     "example": "MAI Code 2 is at the frontier of price-performance for everyday coding tasks."
+    },
+    {
+     "word": "workhorse",
+     "thai": "กำลังหลักในการทำงาน",
+     "level": "C1",
+     "example": "The model is becoming the workhorse behind several enterprise productivity products."
+    },
+    {
+     "word": "visualizations",
+     "thai": "การสร้างภาพข้อมูล",
+     "level": "B2",
+     "example": "MAI Code 2 is tuned for producing great dashboards and visual app representations."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1297,
+   "ts": "2026-11-18T12:11:09.137981+07:00",
+   "title": "Phrack 73 Released",
+   "link": "https://phrack.org/issues/73/introduction_md",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Deep technical research on kernel exploits and sandbox escapes is relevant to server defense and security operations.",
+   "summary": "Hacker publication Phrack released its 73rd issue featuring 23 technical research papers on system exploitation. Topics include Linux kernel research, hypervisor sandbox escapes, machine learning backdoors, and hardware security.",
+   "vocab": [
+    {
+     "word": "milestone",
+     "thai": "หลักกิโลเมตรสำคัญ",
+     "level": "B2",
+     "example": "We threw parties and held talks at security conferences to celebrate this milestone."
+    },
+    {
+     "word": "relaunch",
+     "thai": "การเริ่มต้นใหม่อีกครั้ง",
+     "level": "B2",
+     "example": "The point of the relaunch was to get researchers writing and contributing again."
+    },
+    {
+     "word": "curated",
+     "thai": "คัดสรรและจัดระเบียบ",
+     "level": "C1",
+     "example": "This issue is the third release curated by the new editorial staff."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1298,
+   "ts": "2026-11-18T12:13:03.547843+07:00",
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "link": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "The Harvard study directly concerns DevOps workflows and software engineering, showing AI coding tools create code review bottlenecks.",
+   "summary": "A study of over 700 companies found that AI coding tools increased code creation by 30 percent but lengthened review times by 49 percent. This shows that AI assistants shift work bottlenecks to human reviewers without increasing finished output.",
+   "vocab": [
+    {
+     "word": "adoption",
+     "thai": "การนำมาใช้",
+     "level": "B2",
+     "example": "Engineers at firms that completed the adoption of AI agents wrote 30 percent more code."
+    },
+    {
+     "word": "measurable",
+     "thai": "ที่สามารถวัดได้",
+     "level": "B2",
+     "example": "Finished work did not show a measurable rise in overall output after introducing AI tools."
+    },
+    {
+     "word": "redaction",
+     "thai": "การตรวจลบข้อความที่ไม่ต้องการเผยแพร่",
+     "level": "C1",
+     "example": "Cooley is developing an automated redaction agent with Google Cloud for legal filings."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1299,
+   "ts": "2026-11-18T12:13:03.547874+07:00",
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "link": "https://arstechnica.com/gadgets/2026/11/microsoft-calls-copilot-the-new-os-for-work-at-ignite-keynote/",
+   "source": "Ars Technica",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers Microsoft Office and Copilot enterprise SaaS updates, which matters to corporate IT but has limited direct data center impact.",
+   "summary": "Microsoft announced the general availability of Word, Excel, and PowerPoint directly inside Copilot as part of its agent-driven platform. The shift allows autonomous AI agents to manage productivity workflows using organization data.",
+   "vocab": [
+    {
+     "word": "inversion",
+     "thai": "การสลับตำแหน่ง",
+     "level": "C1",
+     "example": "The announcement is a striking inversion of how traditional office software has been used."
+    },
+    {
+     "word": "autonomous",
+     "thai": "ที่ทำงานได้ด้วยตนเองอย่างอิสระ",
+     "level": "B2",
+     "example": "Autopilot is a cloud-based autonomous AI agent that can complete delegated tasks."
+    },
+    {
+     "word": "proactive",
+     "thai": "ที่ทำงานแบบเชิงรุก",
+     "level": "B2",
+     "example": "The company introduced a persistent and proactive agent for personal productivity."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 10
   }
  ],
- "next_id": 1289,
+ "next_id": 1300,
  "vocab": [
-  {
-   "word": "propel",
-   "thai": "ขับเคลื่อน, ผลักดัน",
-   "level": "C1",
-   "example": "AI technology is propelling cloud markets in a way that was unimaginable four years ago.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "erode",
-   "thai": "กัดเซาะ, ลดลงทีละน้อย",
-   "level": "B2",
-   "example": "Neoclouds continue to erode the market share of the top cloud providers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "breakdown",
-   "thai": "การแจกแจงรายละเอียด",
-   "level": "B2",
-   "example": "Synergy's data also reveals the breakdown of the major cloud providers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deploy",
-   "thai": "นำไปใช้งาน, ติดตั้ง",
-   "level": "B2",
-   "example": "The model is designed to bring compute online quickly at interconnection points.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "generation",
-   "thai": "การผลิต (พลังงาน)",
-   "level": "B2",
-   "example": "PowerBank holds existing generation capacity, land, and permits.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "insulate",
-   "thai": "ป้องกัน, เป็นฉนวนคุ้มกัน",
-   "level": "C1",
-   "example": "Insurance firms look to insulate domestic humanoid robot owners against inevitable chaos.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "juggernaut",
    "thai": "พลังอันยิ่งใหญ่ที่หยุดไม่ได้",
@@ -22092,6 +22066,66 @@
    "thai": "เวลาที่ระบบหยุดทำงาน",
    "level": "B2",
    "example": "The operator apologized for the downtime that impacted users nationwide.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "respite",
+   "thai": "การหยุดพักชั่วคราว, การผ่อนคลายความตึงเครียด",
+   "level": "C2",
+   "example": "Admins had a brief weekend respite before fielding questions about downed systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fragility",
+   "thai": "ความเปราะบาง",
+   "level": "C1",
+   "example": "Recent incidents reveal the fragility of our interconnected digital infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "malformed",
+   "thai": "ผิดรูปผิดร่าง, ซึ่งมีรูปแบบผิดปกติ",
+   "level": "C1",
+   "example": "A bug in the optimized assembly code lets malformed input overwrite neighboring memory.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "neighboring",
+   "thai": "ที่อยู่ติดกัน, ที่อยู่ข้างเคียง",
+   "level": "B2",
+   "example": "The vulnerability allows an attacker to corrupt neighboring memory on the heap.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "redundancy",
+   "thai": "ระบบสำรองเผื่อเสีย",
+   "level": "C1",
+   "example": "NSA's infrastructure is designed with multiple layers of redundancy to maintain operations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "staggered",
+   "thai": "จัดลำดับเป็นระยะๆ",
+   "level": "B2",
+   "example": "The agency staggered employee arrivals as it worked to address the outage.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
