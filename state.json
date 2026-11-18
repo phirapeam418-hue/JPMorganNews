@@ -2588,7 +2588,31 @@
   "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
   "https://arstechnica.com/tech-policy/2026/11/trump-was-in-bed-with-jensen-critics-balk-at-huangs-wish-to-return-to-nvidia/",
   "https://arstechnica.com/gaming/2026/11/civilization-studio-firaxis-games-lays-off-a-third-of-staff/",
-  "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/"
+  "https://arstechnica.com/culture/2026/11/humanity-braces-for-an-alien-invasion-in-3-body-problem-s2-teaser/",
+  "https://www.datacenterdynamics.com/en/analysis/gta-vi-grand-theft-auto-download-internet-exchanges/",
+  "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+  "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+  "https://www.datacenterdynamics.com/en/news/faa-grounds-hpe-juniper-routers-after-outage-halted-us-flights/",
+  "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
+  "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+  "https://www.datacenterdynamics.com/en/opinions/beyond-cooling-why-heat-and-noise-matter-in-sustainable-ai-data-center-design/",
+  "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+  "https://www.datacenterdynamics.com/en/news/openai-hires-clean-energy-lead/",
+  "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+  "https://www.datacenterdynamics.com/en/news/orange-seeks-partners-to-extend-reunion-subsea-cable-to-singapore/",
+  "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
+  "https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/",
+  "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+  "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+  "https://www.theregister.com/ai-and-ml/2026/11/18/anthropic-decides-to-go-head-to-head-with-gta-vi-release-schedules-ipo-for-the-same-day/5310872",
+  "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+  "https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
+  "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
+  "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+  "https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809",
+  "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+  "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+  "https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791"
  ],
  "stories": [
   {
@@ -15484,7 +15508,10 @@
    "scale": 9,
    "credibility": 8,
    "msg_id": 811,
-   "sent_ts": "2026-11-18T15:28:08.613777+07:00"
+   "sent_ts": "2026-11-18T15:28:08.613777+07:00",
+   "extra_links": [
+    "https://www.datacenterdynamics.com/en/news/faa-grounds-hpe-juniper-routers-after-outage-halted-us-flights/"
+   ]
   },
   {
    "id": 1272,
@@ -16515,9 +16542,801 @@
    "credibility": 10,
    "msg_id": 815,
    "sent_ts": "2026-11-18T15:28:10.870210+07:00"
+  },
+  {
+   "id": 1300,
+   "ts": "2026-11-19T05:46:57.888731+07:00",
+   "title": "How Internet Exchanges stood up to the pressure of the Grand Theft Auto VI launch",
+   "link": "https://www.datacenterdynamics.com/en/analysis/gta-vi-grand-theft-auto-download-internet-exchanges/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Discusses how major gaming releases create unprecedented internet traffic spikes managed by IXs.",
+   "summary": "The launch of Grand Theft Auto VI caused record-breaking data traffic peaks across global internet exchanges. Network operators successfully handled the massive surge using robust network infrastructure.",
+   "vocab": [
+    {
+     "word": "installment",
+     "thai": "ภาคต่อ, ตอน",
+     "level": "B2",
+     "example": "The latest installment of Rockstar Games' epic crime simulator drops at midnight."
+    },
+    {
+     "word": "interconnect",
+     "thai": "เชื่อมต่อถึงกัน",
+     "level": "C1",
+     "example": "We take care of directly interconnecting all these networks, which makes the system very efficient."
+    },
+    {
+     "word": "proposition",
+     "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
+     "level": "B2",
+     "example": "This makes an extremely attractive proposition for the networks because it creates a huge ecosystem."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1301,
+   "ts": "2026-11-19T05:46:57.888777+07:00",
+   "title": "Navigating CEQA: what data center developers need to know before investing in California",
+   "link": "https://www.datacenterdynamics.com/en/opinions/navigating-ceqa-what-data-center-developers-need-to-know-before-investing-in-california/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Explores the regulatory and environmental review process impacting data center development in California.",
+   "summary": "California's environmental quality act presents significant regulatory hurdles and delays for data center developers. Careful strategic planning from day one is essential to navigate these approval processes successfully.",
+   "vocab": [
+    {
+     "word": "formidable",
+     "thai": "น่าเกรงขาม, ยากจะเอาชนะ",
+     "level": "C1",
+     "example": "The California Environmental Quality Act presents a formidable challenge in delays and cost overruns."
+    },
+    {
+     "word": "scrutinize",
+     "thai": "ตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Data centers touch nearly every environmental category CEQA is designed to scrutinize."
+    },
+    {
+     "word": "ordinance",
+     "thai": "เทศบัญญัติ, กฎหมายท้องถิ่น",
+     "level": "C1",
+     "example": "Local governments are increasingly adopting ordinances that subject these uses to discretionary approval."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1302,
+   "ts": "2026-11-19T05:46:57.888806+07:00",
+   "title": "VodafoneThree pairs with Nokia, Nvidia to trial AI-RAN in UK",
+   "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-pairs-with-nokia-nvidia-to-trial-ai-ran-in-uk/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers telecommunications infrastructure trials involving AI and radio access networks.",
+   "summary": "VodafoneThree has partnered with Nokia and Nvidia to test AI-enabled radio access networks in the UK. The trials aim to improve mobile network efficiency, capacity, and responsiveness to customer demands.",
+   "vocab": [
+    {
+     "word": "responsive",
+     "thai": "ที่ตอบสนองได้ดี",
+     "level": "B2",
+     "example": "The trials are looking into the role that AI can play in enabling the mobile network to be more responsive."
+    },
+    {
+     "word": "benchmark",
+     "thai": "เกณฑ์มาตรฐาน, วัดผลเทียบเคียง",
+     "level": "B2",
+     "example": "The telco said it will benchmark the trials against its existing network performance."
+    },
+    {
+     "word": "anomaly",
+     "thai": "ความผิดปกติ",
+     "level": "C1",
+     "example": "A number of potential AI-RAN use cases include radio optimization and anomaly detection."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1303,
+   "ts": "2026-11-19T05:46:57.888890+07:00",
+   "title": "IQM and Turkey's TÜBİTAK sign deal for 54-qubit quantum computer",
+   "link": "https://www.datacenterdynamics.com/en/news/iqm-and-turkeys-t%C3%BCbitak-sign-deal-for-54-qubit-quantum-computer/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details a significant international quantum computing hardware deployment agreement.",
+   "summary": "IQM Quantum Computers will deploy a superconducting quantum system for Turkey's TÜBİTAK by 2027. The national quantum computer will integrate with existing high-performance computing environments for advanced research.",
+   "vocab": [
+    {
+     "word": "designation",
+     "thai": "การกำหนดชื่อ, การแต่งตั้ง",
+     "level": "C1",
+     "example": "The system is scheduled to be integrated in 2027 and will operate under the national designation ARF Quantum."
+    },
+    {
+     "word": "sovereign",
+     "thai": "มีอำนาจอธิปไตย, เป็นอิสระของตนเอง",
+     "level": "C1",
+     "example": "Extending our global footprint to Turkey with our sovereign and upgradable system."
+    },
+    {
+     "word": "flagship",
+     "thai": "เรือธง, ผลิตภัณฑ์หลักที่ดีที่สุด",
+     "level": "B2",
+     "example": "The strategic objective was to provide Turkish researchers with a constant state-of-the-art flagship quantum system."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1304,
+   "ts": "2026-11-19T05:46:57.888916+07:00",
+   "title": "Argentum AI and Kyndryl ink $630m AI infrastructure deal",
+   "link": "https://www.datacenterdynamics.com/en/news/argentum-ai-and-kyndryl-ink-630m-ai-infrastructure-deal/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports on a major financial and infrastructure agreement for AI cloud capacity.",
+   "summary": "Argentum AI has signed a multimillion-dollar agreement with Kyndryl for data center capacity to deploy Nvidia GPUs. Deployment is already underway at the Colorado facility to support enterprise AI workloads.",
+   "vocab": [
+    {
+     "word": "commitment",
+     "thai": "ความมุ่งมั่น, พันธสัญญา",
+     "level": "B2",
+     "example": "This agreement reflects our shared commitment to expanding secure, high-performance compute infrastructure."
+    },
+    {
+     "word": "exclusive",
+     "thai": "พิเศษ, สิทธิ์เฉพาะ",
+     "level": "B2",
+     "example": "The company states that it has contracted power and several sites under exclusivity."
+    },
+    {
+     "word": "spin",
+     "thai": "แยกตัวออกมา (ธุรกิจ)",
+     "level": "B2",
+     "example": "The data center was launched by IBM, from which Kyndryl was spun off."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1305,
+   "ts": "2026-11-19T05:46:57.888943+07:00",
+   "title": "Sponsored: Beyond cooling: Why heat and noise matter in sustainable AI data center design",
+   "link": "https://www.datacenterdynamics.com/en/opinions/beyond-cooling-why-heat-and-noise-matter-in-sustainable-ai-data-center-design/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Provides deep technical insights into thermal and acoustic management for AI data center infrastructure.",
+   "summary": "High-density AI workloads generate intense heat and noise that require advanced infrastructure design. Sustainable data center engineering demands an integrated approach to thermal management and heat rejection.",
+   "vocab": [
+    {
+     "word": "dispersion",
+     "thai": "การกระจายตัว",
+     "level": "C1",
+     "example": "Equipment placement that improves heat dispersion may affect noise propagation."
+    },
+    {
+     "word": "acoustic",
+     "thai": "เกี่ยวกับเสียง",
+     "level": "B2",
+     "example": "Acoustic barriers can interfere with airflow if not properly engineered."
+    },
+    {
+     "word": "circulating",
+     "thai": "ที่ไหลเวียนอยู่",
+     "level": "B2",
+     "example": "Heat is absorbed through cold plates and transferred into circulating coolant."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1306,
+   "ts": "2026-11-19T05:46:57.888967+07:00",
+   "title": "Elementl Power partners with Google Cloud on AI suite to speed up nuclear siting and licensing",
+   "link": "https://www.datacenterdynamics.com/en/news/elementl-power-partners-with-google-cloud-on-ai-suite-to-speed-up-nuclear-siting-and-licensing/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Covers the intersection of AI tools and nuclear energy infrastructure planning for data centers.",
+   "summary": "Elementl Power is partnering with Google Cloud to develop AI-powered tools for nuclear project planning. The software aims to streamline site selection and regulatory licensing for new clean energy infrastructure.",
+   "vocab": [
+    {
+     "word": "portfolio",
+     "thai": "กลุ่มงาน, สินทรัพย์ทั้งหมดที่มี",
+     "level": "B2",
+     "example": "Google Cloud will provide AI expertise to support Elementl's portfolio of nuclear power projects."
+    },
+    {
+     "word": "preliminary",
+     "thai": "ขั้นต้น, เบื้องต้น",
+     "level": "B2",
+     "example": "This lets them compress months of preliminary desktop research into days or weeks."
+    },
+    {
+     "word": "fragmented",
+     "thai": "ที่แตกแยกส่วน, กระจัดกระจาย",
+     "level": "B2",
+     "example": "This collaboration is helping move the nuclear industry from fragmented desktop studies to real-time delivery."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1307,
+   "ts": "2026-11-19T05:47:08.163805+07:00",
+   "title": "OpenAI hires clean energy lead",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-hires-clean-energy-lead/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "OpenAI hiring a clean energy lead highlights the industry-wide push for dedicated power solutions for massive AI data centers.",
+   "summary": "OpenAI has hired a former renewable energy executive to lead its clean energy strategy for AI data centers. The company is actively pursuing dedicated power and grid protection initiatives to sustain its growing computing infrastructure.",
+   "vocab": [
+    {
+     "word": "appointed",
+     "thai": "แต่งตั้ง",
+     "level": "B2",
+     "example": "The ChatGPT creator appointed Nate Sweet to the position."
+    },
+    {
+     "word": "initiative",
+     "thai": "ความคิดริเริ่ม, โครงการ",
+     "level": "B2",
+     "example": "The company revealed a new initiative dubbed the Stargate Community plan."
+    },
+    {
+     "word": "fluctuations",
+     "thai": "ความผันผวน",
+     "level": "C1",
+     "example": "Use batteries and power controls to smooth demand fluctuations."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1308,
+   "ts": "2026-11-19T05:47:08.163849+07:00",
+   "title": "Cleanview: US data center construction slows in Q3 2026 following record-breaking Q2",
+   "link": "https://www.datacenterdynamics.com/en/news/cleanview-us-data-center-construction-slows-in-q3-2026-following-record-breaking-q2/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Detailed tracking of US data center construction volume directly impacts supply chain, power planning, and infrastructure operations.",
+   "summary": "US data center construction dipped in the third quarter of 2026, though total yearly activity remains double that of the previous year. Current projects under construction will require almost as much power as all currently operating US facilities combined.",
+   "vocab": [
+    {
+     "word": "temporary",
+     "thai": "ชั่วคราว",
+     "level": "B2",
+     "example": "Cleanview's early Q4 data implies that this dip is only temporary."
+    },
+    {
+     "word": "consequences",
+     "thai": "ผลกระทบ, ผลลัพธ์",
+     "level": "B2",
+     "example": "The start of a real slowdown that could have far-reaching consequences for the global economy."
+    },
+    {
+     "word": "capacity",
+     "thai": "ความจุ, กำลังการผลิต",
+     "level": "B2",
+     "example": "There is currently 58GW of capacity under construction in the US."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 1309,
+   "ts": "2026-11-19T05:47:08.163880+07:00",
+   "title": "Orange seeks partners to extend ReuNION subsea cable to Singapore",
+   "link": "https://www.datacenterdynamics.com/en/news/orange-seeks-partners-to-extend-reunion-subsea-cable-to-singapore/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Subsea cable infrastructure expansions dictate global network routing and international connectivity for data centers.",
+   "summary": "Orange and regional partners are seeking investors to extend the ReuNION subsea cable system from South Africa to Singapore. The high-capacity fiber project aims to establish La Réunion as a major interconnection hub between Europe, Africa, and Asia.",
+   "vocab": [
+    {
+     "word": "consortium",
+     "thai": "กลุ่มบริษัทร่วมทุน",
+     "level": "C1",
+     "example": "The French telco and consortium members announced hopes to extend ReuNION."
+    },
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งใช้งาน",
+     "level": "B2",
+     "example": "Cable deployment is scheduled for 2027 and 2028."
+    },
+    {
+     "word": "provisional",
+     "thai": "ชั่วคราว, เบื้องต้น",
+     "level": "C1",
+     "example": "With provisional launch expected in early 2029."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1310,
+   "ts": "2026-11-19T05:47:08.163907+07:00",
+   "title": "Cameron County commissioners reject SpaceX tax break request for $24bn Texas data center",
+   "link": "https://www.datacenterdynamics.com/en/news/cameron-county-commissioners-reject-spacex-tax-break-request-for-24bn-texas-data-center/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Local regulatory pushback against massive hyperscale and power plant projects affects AI infrastructure rollout speed.",
+   "summary": "Cameron County commissioners have rejected SpaceX's request for a tax break on a proposed $24 billion data center and gas plant in Texas. Despite securing an air pollution permit, the project faces local political hurdles.",
+   "vocab": [
+    {
+     "word": "commissioners",
+     "thai": "คณะกรรมาธิการ, กรรมการ",
+     "level": "B2",
+     "example": "SpaceX has seen its request for a tax break rejected by county commissioners."
+    },
+    {
+     "word": "adjacent",
+     "thai": "ติดกัน, ใกล้เคียง",
+     "level": "B2",
+     "example": "Construct the data center and adjacent power plant."
+    },
+    {
+     "word": "disputed",
+     "thai": "โต้แย้ง, ไม่ยอมรับ",
+     "level": "B2",
+     "example": "The billionaire claims to have more than 1GW of capacity, though these claims have been disputed."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1311,
+   "ts": "2026-11-19T05:47:08.163932+07:00",
+   "title": "DC Blox files for third building at Atlanta West data center campus",
+   "link": "https://www.datacenterdynamics.com/en/news/dc-blox-files-for-third-building-at-atlanta-west-data-center-campus/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "New hyperscale data center campus filings indicate ongoing regional demand and capacity expansion trends.",
+   "summary": "DC Blox has filed for a third building at its Atlanta West data center campus in Georgia, expanding the total site capacity to 200MW. The new 500,000-square-foot facility is scheduled for completion in late 2029.",
+   "vocab": [
+    {
+     "word": "expansion",
+     "thai": "การขยายตัว",
+     "level": "B2",
+     "example": "It has 6,470 sq ft expansion potential."
+    },
+    {
+     "word": "facility",
+     "thai": "สิ่งอำนวยความสะดวก, สถานที่",
+     "level": "B2",
+     "example": "DC Blox operates one existing facility in Atlanta."
+    },
+    {
+     "word": "scheduled",
+     "thai": "กำหนดการ",
+     "level": "B2",
+     "example": "The project is set to be completed in December 2029."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1312,
+   "ts": "2026-11-19T05:47:08.163953+07:00",
+   "title": "CoolIT & Ecolab launch 3MW CDU",
+   "link": "https://www.datacenterdynamics.com/en/news/coolit-ecolab-launch-3mw-cdu/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "High-capacity cooling distribution units (CDUs) are critical hardware for running high-density AI GPUs like Vera Rubin.",
+   "summary": "CoolIT and Ecolab have launched the CHx 3000 CDU, delivering 3MW of cooling capacity to support high-density AI hardware racks. The unit integrates continuous water monitoring technology to optimize thermal management in liquid-cooled data centers.",
+   "vocab": [
+    {
+     "word": "integration",
+     "thai": "การบูรณาการ",
+     "level": "C1",
+     "example": "We're bringing them together to help our customers get more computing power."
+    },
+    {
+     "word": "concentration",
+     "thai": "ความเข้มข้น",
+     "level": "B2",
+     "example": "Includes temperature, differential pressure, pH, conductivity, turbidity, and glycol concentration."
+    },
+    {
+     "word": "partnership",
+     "thai": "ความเป็นหุ้นส่วน, การร่วมมือ",
+     "level": "B2",
+     "example": "Also saw Ecolab announce a partnership with Siemens."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1313,
+   "ts": "2026-11-19T05:47:08.163980+07:00",
+   "title": "Texas environmental regulator resumes data center permitting following ERCOT review",
+   "link": "https://www.datacenterdynamics.com/en/news/texas-environmental-regulator-resumes-data-center-permitting-following-ercot-review/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "State-level environmental permitting and grid reviews directly dictate the viability of major Texas data center builds.",
+   "summary": "Texas environmental regulators have resumed reviewing data center permits following an information-gathering review by ERCOT. The resumption immediately cleared an air permit for a major gas-powered AI project, while broader policy clashes loom with the incoming governor.",
+   "vocab": [
+    {
+     "word": "resumed",
+     "thai": "กลับมาดำเนินการต่อ",
+     "level": "B2",
+     "example": "The agency has resumed its normal permit review process."
+    },
+    {
+     "word": "evaluation",
+     "thai": "การประเมินผล",
+     "level": "B2",
+     "example": "Will evaluate applications under all applicable state and federal laws."
+    },
+    {
+     "word": "moratorium",
+     "thai": "การระงับชั่วคราว",
+     "level": "C2",
+     "example": "Campaigned for governor on a platform of imposing a moratorium on new data center developments."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1314,
+   "ts": "2026-11-19T05:47:19.087563+07:00",
+   "title": "AI found more critical bugs in another widely used technology running 225M websites",
+   "link": "https://www.theregister.com/security/2026/11/18/ai-found-more-critical-bugs-in-another-widely-used-technology-running-225m-websites/5310887",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Security vulnerabilities and AI software issues affect server operations and web infrastructure.",
+   "summary": "Artificial intelligence tools discovered several critical software flaws affecting millions of websites worldwide. Meanwhile, major technology updates and ongoing developer debates highlight challenges in open-source maintenance.",
+   "vocab": [
+    {
+     "word": "perils",
+     "thai": "ภัยอันตราย",
+     "level": "C1",
+     "example": "Cheap tiny e-readers and the perils of LLM-generated drive-by pull requests."
+    },
+    {
+     "word": "tiresome",
+     "thai": "น่าเบื่อหน่าย",
+     "level": "B2",
+     "example": "Xfce waiting if the tiling gets tiresome."
+    },
+    {
+     "word": "overload",
+     "thai": "ภาระงานที่มากเกินไป",
+     "level": "B2",
+     "example": "Another Linux kernel developer steps back from some duties due to overload."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 1315,
+   "ts": "2026-11-19T05:47:19.087605+07:00",
+   "title": "To rank the world's biggest supercomputers, we're gonna need a bigger bench",
+   "link": "https://www.theregister.com/hpc/2026/11/18/to-rank-the-worlds-biggest-supercomputers-were-gonna-need-a-bigger-bench/5310878",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "High-performance computing, GPU advancements, and supercomputer benchmarks matter directly to AI infrastructure.",
+   "summary": "New hardware releases and supercomputer discussions reveal how rapidly high-performance computing requirements are evolving. Industry leaders continue pushing the boundaries of scale to handle heavy workloads.",
+   "vocab": [
+    {
+     "word": "colossal",
+     "thai": "ใหญ่โตมโหฬาร",
+     "level": "C1",
+     "example": "AI has birthed some truly colossal supers, they just aren't on the Top500."
+    },
+    {
+     "word": "uncontested",
+     "thai": "ซึ่งไม่มีใครคัดค้าน",
+     "level": "C1",
+     "example": "China’s grip on Top500 remains uncontested as US chases AI-HPC fusion."
+    },
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัว",
+     "level": "B2",
+     "example": "Ride-hailing biz says stolen credentials allowed crooks to help themselves."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1316,
+   "ts": "2026-11-19T05:47:19.087637+07:00",
+   "title": "California tells Waymo to take the next exit after freeway mishaps",
+   "link": "https://www.theregister.com/security/2026/11/18/california-tells-waymo-to-take-the-next-exit-after-freeway-mishaps/5310841",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Autonomous vehicle regulations in California touch on transport technology and infrastructure policy.",
+   "summary": "California regulators told Waymo to restrict vehicle operations after several recent freeway mishaps. This decision highlights ongoing scrutiny facing autonomous transport systems in dense urban areas.",
+   "vocab": [
+    {
+     "word": "mishaps",
+     "thai": "อุบัติเหตุเล็กน้อย",
+     "level": "B2",
+     "example": "California tells Waymo to take the next exit after freeway mishaps."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "This decision highlights ongoing scrutiny facing autonomous transport systems."
+    },
+    {
+     "word": "restrict",
+     "thai": "จำกัด",
+     "level": "B2",
+     "example": "Regulators told the company to restrict vehicle operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1317,
+   "ts": "2026-11-19T05:47:19.087665+07:00",
+   "title": "Microsoft's official Python agent framework hijacked to distribute malware",
+   "link": "https://www.theregister.com/security/2026/11/18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "A hijacked official framework distributing malware directly threatens DevOps toolchains and server security.",
+   "summary": "Attackers compromised an official Microsoft Python agent framework to distribute malicious software to developers. Teams relying on third-party repositories must quickly verify their software supply chains.",
+   "vocab": [
+    {
+     "word": "hijacked",
+     "thai": "ถูกยึดครอง/ถูกแฮก",
+     "level": "B2",
+     "example": "Microsoft's official Python agent framework hijacked to distribute malware."
+    },
+    {
+     "word": "malicious",
+     "thai": "ที่เป็นอันตราย",
+     "level": "B2",
+     "example": "The framework was used to distribute malicious code to users."
+    },
+    {
+     "word": "verify",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "B2",
+     "example": "Development teams must verify their software supply chains."
+    }
+   ],
+   "status": "night",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 1318,
+   "ts": "2026-11-19T05:47:19.087691+07:00",
+   "title": "MongoDB snaps up Firebolt to bring transactions and analytics under one roof",
+   "link": "https://www.theregister.com/databases/2026/11/18/mongodb-snaps-up-firebolt-to-bring-transactions-and-analytics-under-one-roof/5310809",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Major database platform acquisitions directly impact cloud database architecture and enterprise analytics.",
+   "summary": "MongoDB has acquired Firebolt to combine transactional capabilities and data analytics into a single platform. This strategic move aims to simplify database management for modern cloud applications.",
+   "vocab": [
+    {
+     "word": "capabilities",
+     "thai": "ความสามารถ",
+     "level": "B2",
+     "example": "To combine transactional capabilities and data analytics."
+    },
+    {
+     "word": "strategic",
+     "thai": "เชิงกลยุทธ์",
+     "level": "B2",
+     "example": "This strategic move aims to simplify database management."
+    },
+    {
+     "word": "platform",
+     "thai": "แพลตฟอร์ม",
+     "level": "B2",
+     "example": "Analytics are brought together under one roof."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1319,
+   "ts": "2026-11-19T05:47:19.087715+07:00",
+   "title": "The wrong setting for AI cache can cost you a lot of cash",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/18/the-wrong-setting-for-ai-cache-can-cost-you-a-lot-of-cash/5310831",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "AI cache configurations directly influence infrastructure operational costs and cloud resource budgeting.",
+   "summary": "Misconfigured AI caching settings can lead to unexpectedly high cloud computing bills for organizations. Engineers need to carefully monitor and optimize their caching parameters to avoid financial waste.",
+   "vocab": [
+    {
+     "word": "unexpectedly",
+     "thai": "อย่างไม่คาดคิด",
+     "level": "B2",
+     "example": "Wrong settings can lead to unexpectedly high cloud computing bills."
+    },
+    {
+     "word": "parameters",
+     "thai": "พารามิเตอร์/ตัวแปร",
+     "level": "C1",
+     "example": "Engineers need to carefully optimize their caching parameters."
+    },
+    {
+     "word": "financial",
+     "thai": "เกี่ยวกับ 3 การเงิน",
+     "level": "B2",
+     "example": "Teams must avoid unnecessary financial waste."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1320,
+   "ts": "2026-11-19T05:47:19.087747+07:00",
+   "title": "Cyber insurers now want proof you can actually recover",
+   "link": "https://www.theregister.com/security/2026/11/18/partner-content-cyber-insurers-now-want-proof-you-can-actually-recover/5309325",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Cyber insurance requirements force infrastructure teams to prove robust disaster recovery and backup readiness.",
+   "summary": "Cyber insurance providers now require concrete proof of operational recovery plans before issuing policies. Organizations must demonstrate reliable backup validation to maintain adequate coverage.",
+   "vocab": [
+    {
+     "word": "providers",
+     "thai": "ผู้ให้บริการ",
+     "level": "B2",
+     "example": "Cyber insurance providers now require concrete proof."
+    },
+    {
+     "word": "concrete",
+     "thai": "ที่เป็นรูปธรรม",
+     "level": "B2",
+     "example": "Insurers want concrete proof you can actually recover."
+    },
+    {
+     "word": "validate",
+     "thai": "ตรวจสอบความถูกต้อง",
+     "level": "C1",
+     "example": "Organizations must validate their recovery processes."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 8
+  },
+  {
+   "id": 1321,
+   "ts": "2026-11-19T05:47:19.087772+07:00",
+   "title": "PowerShell 7 heading into Windows as 5.1 hits the end of the road",
+   "link": "https://www.theregister.com/os-platforms/2026/11/18/powershell-7-heading-into-windows-as-51-hits-the-end-of-the-road/5310791",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "PowerShell updates and the retirement of version 5.1 affect Windows system administration and automation scripts.",
+   "summary": "Microsoft is integrating PowerShell 7 deeper into Windows as older version 5.1 reaches its end of life. System administrators must update their automation scripts to maintain compatibility.",
+   "vocab": [
+    {
+     "word": "integrating",
+     "thai": "การบูรณาการ",
+     "level": "B2",
+     "example": "PowerShell 7 is heading into Windows as 5.1 hits the end of the road."
+    },
+    {
+     "word": "retirement",
+     "thai": "การปลดระวาง",
+     "level": "B2",
+     "example": "The retirement of version 5.1 affects administrators."
+    },
+    {
+     "word": "compatibility",
+     "thai": "ความเข้ากันได้",
+     "level": "C1",
+     "example": "Administrators must update scripts to maintain compatibility."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 9,
+   "credibility": 8
   }
  ],
- "next_id": 1300,
+ "next_id": 1322,
  "vocab": [
   {
    "word": "revoke",
