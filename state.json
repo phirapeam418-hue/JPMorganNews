@@ -15704,7 +15704,7 @@
      "example": "This achievement reflects what is possible through strong public-private collaboration."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 3,
@@ -15740,11 +15740,13 @@
      "example": "The companies are accelerating development by synchronizing with ongoing 4G equipment modernization projects."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 816,
+   "sent_ts": "2026-11-18T15:28:11.437658+07:00"
   },
   {
    "id": 1262,
@@ -15776,7 +15778,7 @@
      "example": "By linking strengths across borders, we can build a more resilient foundation for European innovation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -15812,11 +15814,13 @@
      "example": "Unlike conventional geothermal systems, which rely on naturally occurring hot water, EGS uses new techniques."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 5,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 817,
+   "sent_ts": "2026-11-18T15:28:12.019724+07:00"
   },
   {
    "id": 1264,
@@ -15848,7 +15852,7 @@
      "example": "Two-phase cooling could support the transition of technology into mission-critical data centers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 8,
    "urgency": 3,
    "scale": 6,
@@ -15922,7 +15926,7 @@
      "example": "GIC and Macquarie formed a strategic partnership to develop data center capacity."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -15958,7 +15962,7 @@
      "example": "Consequently, for the second edition in a row, the Top500 was topped by China’s LineShine."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 1,
    "scale": 8,
@@ -15994,7 +15998,7 @@
      "example": "Enterprises want to test performance before committing to infrastructure at scale."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 6,
@@ -16030,7 +16034,7 @@
      "example": "The company is planning an integrated demonstrator project with a data center in 2027."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -16066,7 +16070,7 @@
      "example": "The strategy is built on leveraging global expertise to bring advanced technologies to the local market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -16102,11 +16106,13 @@
      "example": "The contractor is modernizing the communications infrastructure supporting the National Airspace System."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 811,
+   "sent_ts": "2026-11-18T15:28:08.613777+07:00"
   },
   {
    "id": 1272,
@@ -16138,7 +16144,7 @@
      "example": "There is a lack of effective oversight regarding how these websites handle user data."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 1,
    "scale": 8,
@@ -16174,14 +16180,16 @@
      "example": "Companies must implement better security controls to mitigate the risk of supply chain attacks."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 10,
    "scale": 9,
    "credibility": 9,
    "extra_links": [
     "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/"
-   ]
+   ],
+   "msg_id": 810,
+   "sent_ts": "2026-11-18T15:28:08.043767+07:00"
   },
   {
    "id": 1274,
@@ -16213,11 +16221,13 @@
      "example": "The manufacturer is working on a firmware update for the remediation of these security holes."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 8,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 812,
+   "sent_ts": "2026-11-18T15:28:09.170898+07:00"
   },
   {
    "id": 1275,
@@ -16249,7 +16259,7 @@
      "example": "A formal investigation is underway to identify the source of the attack."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 4,
    "scale": 3,
@@ -16285,7 +16295,7 @@
      "example": "Officials are discussing the need for supplier diversification to avoid future disruptions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -16321,7 +16331,7 @@
      "example": "Critics argue that the deal reduces competition in the public sector software market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -16357,7 +16367,7 @@
      "example": "The company must reach a sustainable agreement with each major creditor."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -16393,7 +16403,7 @@
      "example": "The software manages the distribution of electricity during peak demand."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -16429,7 +16439,7 @@
      "example": "Amazon expanded its renewable energy portfolio by signing several new contracts."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -16465,7 +16475,7 @@
      "example": "The new facility will be constructed on land adjacent to the existing site."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -16501,7 +16511,7 @@
      "example": "Connecting massive AI campuses requires close coordination with the local utility."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -16537,7 +16547,7 @@
      "example": "Power grid constraints have forced developers to look outside traditional European hubs."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -16573,7 +16583,7 @@
      "example": "Managing distributed applications across thousands of compute nodes requires new tools."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 4,
@@ -16609,11 +16619,13 @@
      "example": "Azure Linux prepares to dress itself up for mainstream workloads."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 813,
+   "sent_ts": "2026-11-18T15:28:09.764937+07:00"
   },
   {
    "id": 1286,
@@ -16645,7 +16657,7 @@
      "example": "Engineers complained about the excessive workload required to maintain the servers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 7,
@@ -16681,7 +16693,7 @@
      "example": "Security teams enlist independent researchers to find zero-day vulnerabilities."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -16717,11 +16729,13 @@
      "example": "The organization expressed concern over unrelenting demands for blocking by public DNS resolvers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 814,
+   "sent_ts": "2026-11-18T15:28:10.319559+07:00"
   },
   {
    "id": 1289,
@@ -16753,7 +16767,7 @@
      "example": "CEO drama casts a long shadow over the impressive financial results."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 7,
@@ -16868,7 +16882,7 @@
      "example": "The frequency of AI overviews rose significantly for every type of search intent."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 7,
@@ -16904,7 +16918,7 @@
      "example": "The pipeline includes code quality analysis, fixes, and strict policy enforcement."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -16978,7 +16992,7 @@
      "example": "The test suite accepts old and new element option semantics."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 2,
    "scale": 5,
@@ -17014,7 +17028,7 @@
      "example": "MAI Code 2 is tuned for producing great dashboards and visual app representations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -17050,7 +17064,7 @@
      "example": "This issue is the third release curated by the new editorial staff."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 4,
@@ -17086,7 +17100,7 @@
      "example": "Cooley is developing an automated redaction agent with Google Cloud for legal filings."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -17122,185 +17136,17 @@
      "example": "The company introduced a persistent and proactive agent for personal productivity."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 9,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 815,
+   "sent_ts": "2026-11-18T15:28:10.870210+07:00"
   }
  ],
  "next_id": 1300,
  "vocab": [
-  {
-   "word": "juggernaut",
-   "thai": "พลังอันยิ่งใหญ่ที่หยุดไม่ได้",
-   "level": "C2",
-   "example": "Big Red says AI units will add to subscriptions as it juggles massive debt.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "re-architect",
-   "thai": "ออกแบบโครงสร้างใหม่",
-   "level": "C1",
-   "example": "GitHub re-architects its site to cope with the influx of automated traffic.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unprecedented",
-   "thai": "ไม่เคยปรากฏมาก่อน",
-   "level": "C1",
-   "example": "A certificate authority with weak keys this serious is unprecedented.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "legacy",
-   "thai": "ระบบเก่าหรือเทคโนโลยีเดิม",
-   "level": "B2",
-   "example": "Legacy circuits connected to specialist infrastructure require deeper investigation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "telemetry",
-   "thai": "ระบบวัดและส่งข้อมูลระยะไกล",
-   "level": "C1",
-   "example": "Critical systems reliant on analog connectivity include alarms and industrial telemetry.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "audit",
-   "thai": "การตรวจสอบอย่างเป็นระบบ",
-   "level": "B2",
-   "example": "We are urging businesses to act now and audit their remaining analog services.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pause",
-   "thai": "หยุดชั่วคราว",
-   "level": "B2",
-   "example": "VMO2 is pausing the planned upgrade of its existing HFC network.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "transfer",
-   "thai": "โอน, ย้าย",
-   "level": "B2",
-   "example": "Virgin Media was set to receive a cash injection in return for transferring homes onto a network.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "collapse",
-   "thai": "การล่มสลาย, การล้มละลาย",
-   "level": "B2",
-   "example": "Risks to patient data after website vendor collapse.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "authorities",
-   "thai": "เจ้าหน้าที่ผู้มีอำนาจ",
-   "level": "B2",
-   "example": "Authorities are monitoring the situation closely.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exposure",
-   "thai": "การเปิดเผย, ความเสี่ยง",
-   "level": "B2",
-   "example": "Steps are taken to prevent data exposure.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "misplaced",
-   "thai": "วางผิดที่, ทำหาย",
-   "level": "B2",
-   "example": "British intelligence agency misplaced thousands of storage devices.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "account",
-   "thai": "ชี้แจง, อธิบายยอด",
-   "level": "B2",
-   "example": "Officials still cannot account for how many were lost.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inventory",
-   "thai": "สินค้าคงคลัง, รายการทรัพย์สิน",
-   "level": "B2",
-   "example": "The incident reveals gaps in hardware inventory controls.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inbound",
-   "thai": "ขาเข้า",
-   "level": "B2",
-   "example": "Your origin keeps its private IP with no inbound firewall exception required.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "limitation",
-   "thai": "ข้อจำกัด",
-   "level": "B2",
-   "example": "See the developer documentation for the full list of current limitations.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "termination",
-   "thai": "การสิ้นสุดหรือการยุติการเชื่อมต่อ",
-   "level": "C1",
-   "example": "TLS termination and caching continue to run on the edge network.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "revoke",
    "thai": "เพิกถอน",
@@ -22126,6 +21972,176 @@
    "thai": "จัดลำดับเป็นระยะๆ",
    "level": "B2",
    "example": "The agency staggered employee arrivals as it worked to address the outage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "malicious",
+   "thai": "ที่เป็นอันตราย",
+   "level": "B2",
+   "example": "The website was infected with malicious code designed to steal credit card details.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mitigate",
+   "thai": "บรรเทา",
+   "level": "C1",
+   "example": "Companies must implement better security controls to mitigate the risk of supply chain attacks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disturbance",
+   "thai": "การรบกวน, ความวุ่นวาย",
+   "level": "B2",
+   "example": "The incident was triggered by a network disturbance during a routine upgrade.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "refute",
+   "thai": "โต้แย้ง, ปฏิเสธ",
+   "level": "C1",
+   "example": "HPE strongly refuted claims that their networking device was to blame for the outage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "modernizing",
+   "thai": "ทำให้ทันสมัย",
+   "level": "B2",
+   "example": "The contractor is modernizing the communications infrastructure supporting the National Airspace System.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "excessive",
+   "thai": "มากเกินไป",
+   "level": "B2",
+   "example": "You can probably guess what he blames for the excessive workload.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mainstream",
+   "thai": "กระแสหลัก / ที่ใช้กันทั่วไป",
+   "level": "B2",
+   "example": "Azure Linux prepares to dress itself up for mainstream workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "litigation",
+   "thai": "การดำเนินคดีทางกฎหมาย",
+   "level": "C1",
+   "example": "This difficult decision followed months of litigation and a French court ruling.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "crippling",
+   "thai": "ซึ่งสร้างความเสียหายอย่างรุนแรง",
+   "level": "B2",
+   "example": "The ruling forced the provider into a choice between crippling litigation and compromising its service.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unrelenting",
+   "thai": "ไม่ยอมผ่อนปรน / ต่อเนื่องไม่หยุดหย่อน",
+   "level": "C1",
+   "example": "The organization expressed concern over unrelenting demands for blocking by public DNS resolvers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "inversion",
+   "thai": "การสลับตำแหน่ง",
+   "level": "C1",
+   "example": "The announcement is a striking inversion of how traditional office software has been used.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "autonomous",
+   "thai": "ที่ทำงานได้ด้วยตนเองอย่างอิสระ",
+   "level": "B2",
+   "example": "Autopilot is a cloud-based autonomous AI agent that can complete delegated tasks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "leverage",
+   "thai": "ใช้ประโยชน์จาก",
+   "level": "B2",
+   "example": "The company will leverage its RAN Intelligent Controller to automatically adjust antenna angles.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "expenditure",
+   "thai": "รายจ่าย",
+   "level": "C1",
+   "example": "The RIC helps in improving capital expenditure efficiency.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "synchronizing",
+   "thai": "การทำให้สอดคล้องกัน",
+   "level": "B2",
+   "example": "The companies are accelerating development by synchronizing with ongoing 4G equipment modernization projects.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "abundant",
+   "thai": "มากมาย",
+   "level": "B2",
+   "example": "We started Quaise to make the Earth’s most abundant energy source universally accessible.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "permeability",
+   "thai": "ความสามารถในการซึมผ่าน",
+   "level": "C2",
+   "example": "EGS techniques create permeability in reservoirs that would otherwise be inaccessible.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
