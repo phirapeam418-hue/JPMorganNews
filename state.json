@@ -2636,7 +2636,31 @@
   "https://www.theregister.com/security/2026/11/19/tfl-takes-oyster-photocard-website-offline-after-attackers-compromise-customer-accounts/5310985",
   "https://www.theregister.com/security/2026/11/19/sticky-note-on-monitor-provided-keys-to-the-companys-kingdom/5310908",
   "https://www.theregister.com/ai-and-ml/2026/11/19/uncensored-ai-models-are-thriving-on-code-hosting-platforms/5310891",
-  "https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934"
+  "https://www.theregister.com/ai-and-ml/2026/11/19/google-continues-model-chemistry-experiment-with-neon/5310934",
+  "https://www.datacenterdynamics.com/en/news/crypto-firm-avax-one-drops-modular-data-center-initiatives/",
+  "https://www.datacenterdynamics.com/en/news/everpure-revenues-surge-51-as-ai-demand-drives-more-hyperscaler-wins/",
+  "https://www.datacenterdynamics.com/en/news/nebraska-isp-vistabeam-to-merge-with-mountain-west-technologies/",
+  "https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/anz-migrates-17-petabytes-of-data-to-aws/",
+  "https://www.datacenterdynamics.com/en/news/trans-americas-fiber-secures-205-million-in-financing/",
+  "https://www.datacenterdynamics.com/en/news/cts-group-opens-modular-data-center-factory-in-portugal/",
+  "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-georgia-partially-evacuated-after-shooting-threat-letter/",
+  "https://www.datacenterdynamics.com/en/news/anthropic-launches-ipo-at-83-per-share/",
+  "https://www.datacenterdynamics.com/en/research/dcd-survey-airflow-management/",
+  "https://www.datacenterdynamics.com/en/whitepapers/from-gpu-to-sla-backstops-the-next-step-in-neocloud-finance/",
+  "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+  "https://www.datacenterdynamics.com/en/opinions/a-roadmap-for-responsible-data-center-growth/",
+  "https://www.datacenterdynamics.com/en/research/dcd-survey-direct-liquid-cooling-from-deployment-to-lifecycle/",
+  "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+  "https://www.theregister.com/ai-and-ml/2026/11/19/palo-alto-networks-opens-wallet-for-open-weight-training-biz/5311168",
+  "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+  "https://www.theregister.com/os-platforms/2026/11/19/xxri-os-explores-the-lowest-end-of-the-linux-desktop/5311036",
+  "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+  "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+  "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
+  "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
+  "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+  "https://blog.cloudflare.com/internet-traffic-2026-us-election/"
  ],
  "stories": [
   {
@@ -16526,9 +16550,516 @@
    "urgency": 3,
    "scale": 5,
    "credibility": 8
+  },
+  {
+   "id": 1337,
+   "ts": "2026-11-20T05:54:11.161488+07:00",
+   "title": "Everpure revenues surge 51% as AI demand drives more hyperscaler wins",
+   "link": "https://www.datacenterdynamics.com/en/news/everpure-revenues-surge-51-as-ai-demand-drives-more-hyperscaler-wins/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Everpure is a major enterprise storage supplier seeing rapid expansion through deals with top hyperscalers.",
+   "summary": "Everpure reported a 51 percent revenue surge driven by strong hardware sales to top-tier hyperscalers. The results show growing enterprise and cloud demand for all-flash storage architectures to support heavy AI workloads.",
+   "vocab": [
+    {
+     "word": "stellar",
+     "thai": "ยอดเยี่ยมโดดเด่น",
+     "level": "C1",
+     "example": "Everpure continued its stellar performance with revenues rising 51 percent year-over-year."
+    },
+    {
+     "word": "unstructured",
+     "thai": "ที่ไม่มีโครงสร้างแน่นอน",
+     "level": "B2",
+     "example": "The offering was extended to cover unstructured data in June."
+    },
+    {
+     "word": "diversified",
+     "thai": "ที่หลากหลาย",
+     "level": "B2",
+     "example": "Our results reflect the strength of our diversified portfolio across core enterprise offerings."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1338,
+   "ts": "2026-11-20T05:54:11.161541+07:00",
+   "title": "PDG and Stockland file to develop Sydney data centers",
+   "link": "https://www.datacenterdynamics.com/en/news/pdg-and-stockland-file-to-develop-sydney-data-centers/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Multiple large data center campuses totaling over 270 megawatts are entering planning in the Sydney market.",
+   "summary": "Developers Princeton Digital Group and Stockland have filed planning applications for several new data centers near Sydney. These upcoming campuses will deliver hundreds of megawatts of new capacity to support expanding Australian cloud infrastructure.",
+   "vocab": [
+    {
+     "word": "undeveloped",
+     "thai": "ที่ยังไม่ได้พัฒนาหรือยังไม่ก่อสร้าง",
+     "level": "B2",
+     "example": "The campus is located on 12.7 hectares of undeveloped land outside Sydney."
+    },
+    {
+     "word": "accommodates",
+     "thai": "รองรับหรือเป็นที่ตั้งของ",
+     "level": "B2",
+     "example": "The site currently accommodates a warehouse and distribution facility built in the 1980s."
+    },
+    {
+     "word": "demolished",
+     "thai": "ถูกรื้อถอนทำลาย",
+     "level": "B2",
+     "example": "The existing older warehouse is set to be demolished to make way for the new facility."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1339,
+   "ts": "2026-11-20T05:54:11.161561+07:00",
+   "title": "ANZ migrates 1.7 petabytes of data to AWS",
+   "link": "https://www.datacenterdynamics.com/en/news/anz-migrates-17-petabytes-of-data-to-aws/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The migration shows a concrete example of using AI assistants to cut large enterprise cloud migration timelines.",
+   "summary": "ANZ Bank has successfully migrated a 1.7-petabyte data platform to AWS in just six months instead of the projected 18 months. Engineers used generative AI assistants to quickly troubleshoot performance issues and refactor workloads during the transfer.",
+   "vocab": [
+    {
+     "word": "undertakings",
+     "thai": "ภารกิจหรือโครงการที่ต้องลงมือทำ",
+     "level": "C1",
+     "example": "Migrating a major banking data platform in real time is one of the most complex undertakings in financial services."
+    },
+    {
+     "word": "simplification",
+     "thai": "การทำให้ง่ายและไม่ซับซ้อน",
+     "level": "B2",
+     "example": "Technology expenses decreased due to ongoing technology simplification across internal systems."
+    },
+    {
+     "word": "amortization",
+     "thai": "การตัดจำหน่ายสินทรัพย์ไม่มีตัวตนทางบัญชี",
+     "level": "C2",
+     "example": "The bank reported lower amortization from changes in the useful lives of select strategic software assets."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1340,
+   "ts": "2026-11-20T05:54:11.161579+07:00",
+   "title": "Trans Americas Fiber secures $205 million in financing",
+   "link": "https://www.datacenterdynamics.com/en/news/trans-americas-fiber-secures-205-million-in-financing/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Refinancing confirms financial readiness for a major 650Tbps subsea cable connecting the Americas.",
+   "summary": "Trans Americas Fiber has secured 205 million dollars in debt refinancing to launch commercial operations on its TAM-1 subsea cable. The 7,000-kilometer cable will connect data centers across Florida, Central America, and the Caribbean with high-bandwidth transit.",
+   "vocab": [
+    {
+     "word": "refinancing",
+     "thai": "การปรับโครงสร้างหนี้หรือการรีไฟแนนซ์",
+     "level": "C1",
+     "example": "The company completed a refinancing transaction valued at approximately 205 million dollars."
+    },
+    {
+     "word": "endorsement",
+     "thai": "การให้การรับรองหรือความเชื่อมั่นอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The lender's commitment is a strong endorsement of what the company has built."
+    },
+    {
+     "word": "jurisdictions",
+     "thai": "เขตอำนาจตามกฎหมายหรือพื้นที่กำกับดูแล",
+     "level": "C1",
+     "example": "The telecom firm serves as the landing party for the subsea system in all US jurisdictions."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1341,
+   "ts": "2026-11-20T05:54:11.161595+07:00",
+   "title": "CTS Group opens modular data center factory in Portugal",
+   "link": "https://www.datacenterdynamics.com/en/news/cts-group-opens-modular-data-center-factory-in-portugal/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "A large European factory dedicated to prefabricated power modules and CDUs helps alleviate critical data center supply chain delays.",
+   "summary": "CTS Group has opened a massive factory in Portugal to manufacture prefabricated modular data centers and liquid cooling distribution units. The site will produce custom cooling and power hardware developed with Daikin and Eaton to speed up European facility buildouts.",
+   "vocab": [
+    {
+     "word": "prefabricated",
+     "thai": "ที่สร้างสำเร็จรูปมาจากโรงงาน",
+     "level": "C1",
+     "example": "CTS Group has launched a new factory in Portugal to assemble prefabricated data centers."
+    },
+    {
+     "word": "inaugurated",
+     "thai": "เปิดใช้งานหรือทำพิธีเปิดอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The company inaugurated its European Production Campus covering 37,000 square meters."
+    },
+    {
+     "word": "foray",
+     "thai": "การก้าวเข้าสู่ตลาดใหม่",
+     "level": "C1",
+     "example": "The company recently announced its first foray into the Spanish data center market."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1342,
+   "ts": "2026-11-20T05:54:11.161613+07:00",
+   "title": "QTS data center site in Georgia partially evacuated after shooting threat letter",
+   "link": "https://www.datacenterdynamics.com/en/news/qts-data-center-site-in-georgia-partially-evacuated-after-shooting-threat-letter/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "A physical threat caused a brief evacuation at an active data center construction site but was quickly resolved without customer impact.",
+   "summary": "Workers at an under-construction QTS data center campus in Georgia were temporarily evacuated after a written shooting threat was found. Police investigated the campus, confirmed there was no danger, and allowed construction to safely resume.",
+   "vocab": [
+    {
+     "word": "evacuate",
+     "thai": "อพยพคนออกจากพื้นที่",
+     "level": "B2",
+     "example": "Facility management made the decision to partially evacuate the campus during the police investigation."
+    },
+    {
+     "word": "precaution",
+     "thai": "การป้องกันไว้ล่วงหน้า",
+     "level": "B2",
+     "example": "The affected construction areas were evacuated as a precaution after the note was discovered."
+    },
+    {
+     "word": "spate",
+     "thai": "เหตุการณ์จำนวนมากที่เกิดขึ้นติดต่อกันในเวลาสั้นๆ",
+     "level": "C2",
+     "example": "There was a spate of bomb threats made against data centers across the country several years ago."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1343,
+   "ts": "2026-11-20T05:59:19.199367+07:00",
+   "title": "Anthropic launches IPO at $83 per share",
+   "link": "https://www.datacenterdynamics.com/en/news/anthropic-launches-ipo-at-83-per-share/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Anthropic's IPO is a major financial milestone for a primary AI player, though it does not cause immediate operational shifts in data centers.",
+   "summary": "AI startup Anthropic has officially launched its IPO on Nasdaq at $83 per share, seeking to raise over $81 billion. The listing reflects booming industry demand despite massive recent accounting losses and operational spending.",
+   "vocab": [
+    {
+     "word": "underwriter",
+     "thai": "ผู้จัดจำหน่ายหลักทรัพย์ (สถาบันการเงินที่รับประกันการขายหุ้น)",
+     "level": "C1",
+     "example": "Anthropic has granted the underwriters a 30-day option to purchase up to an additional 147 million shares."
+    },
+    {
+     "word": "timeframe",
+     "thai": "กรอบระยะเวลา",
+     "level": "B2",
+     "example": "In the same timeframe, it reported a net loss of $80.7bn."
+    },
+    {
+     "word": "one-off",
+     "thai": "ที่เกิดขึ้นเพียงครั้งเดียว",
+     "level": "B2",
+     "example": "It said that $72.4bn of that loss was due to a one-off accounting charge."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9,
+   "extra_links": [
+    "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143"
+   ]
+  },
+  {
+   "id": 1344,
+   "ts": "2026-11-20T05:59:19.199432+07:00",
+   "title": "Data center powered by Huawei Ascend chips launches in China",
+   "link": "https://www.datacenterdynamics.com/en/news/data-center-powered-by-huawei-ascend-chips-launches-in-china/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The commercial launch of large Huawei Ascend-based AI clusters highlights growing non-Nvidia AI infrastructure deployments.",
+   "summary": "China launched its first AI data center cluster powered by Huawei Ascend 950DT chips at a submarine landing station in Shantou. The facility targets a 'token export' model to handle international AI inference and training queries.",
+   "vocab": [
+    {
+     "word": "inference",
+     "thai": "การประมวลผลอนุมาน (ของโมเดล AI)",
+     "level": "C1",
+     "example": "The chip is a 2026 data center AI accelerator built for decode-stage inference and training."
+    },
+    {
+     "word": "elastic",
+     "thai": "ยืดหยุ่นปรับเปลี่ยนได้ตามความต้องการ",
+     "level": "B2",
+     "example": "Surrounding facilities provide capacity for elastic scheduling."
+    },
+    {
+     "word": "aggregate",
+     "thai": "รวบรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "The Shantou site is aggregating compute power resources across regional facilities."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1345,
+   "ts": "2026-11-20T05:59:19.199490+07:00",
+   "title": "OpenAI claims its models have delivered chip design improvements across both in-house and AMD-designed hardware",
+   "link": "https://www.datacenterdynamics.com/en/news/openai-claims-its-models-have-delivered-chip-design-improvements-across-both-in-house-and-amd-designed-hardware/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Shows how modern LLMs are directly optimizing physical semiconductor and CPU/GPU designs, impacting future hardware.",
+   "summary": "OpenAI revealed that its AI models helped optimize circuit designs for both its in-house Jalapeño chips and upcoming AMD hardware. These AI-driven architectural improvements notably reduced chip area and boosted power efficiency faster than manual human workflows.",
+   "vocab": [
+    {
+     "word": "non-trivial",
+     "thai": "สำคัญมาก (ไม่เล็กน้อย)",
+     "level": "C1",
+     "example": "The model made non-trivial PPA improvements, including reducing standard-cell area."
+    },
+    {
+     "word": "mimic",
+     "thai": "เลียนแบบ",
+     "level": "B2",
+     "example": "The new model is trained to use EDA tools in a way that mimics the process undertaken by chip engineers."
+    },
+    {
+     "word": "baseline",
+     "thai": "เกณฑ์มาตรฐานเริ่มต้น",
+     "level": "B2",
+     "example": "Improvements had been realized relative to heavily optimized baselines on the flagship GPU IP."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1346,
+   "ts": "2026-11-20T06:01:20.385049+07:00",
+   "title": "Nvidia adds possible hack to list of very bad things under investigation",
+   "link": "https://www.theregister.com/security/2026/11/19/nvidia-adds-possible-hack-to-list-of-very-bad-things-under-investigation/5311153",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": true,
+   "reason": "A potential breach at Nvidia could raise supply chain and driver security concerns for data center infrastructure.",
+   "summary": "Nvidia is reportedly investigating a potential cyberattack or security incident affecting its internal systems. This situation could create security and software supply chain concerns for enterprise GPU users.",
+   "vocab": [
+    {
+     "word": "investigation",
+     "thai": "การสืบสวนสอบสวน",
+     "level": "B2",
+     "example": "Nvidia adds possible hack to list of very bad things under investigation."
+    },
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัวในการเข้าสู่ระบบ",
+     "level": "B2",
+     "example": "Stolen credentials allowed crooks to help themselves to driver's license data."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การสอดแนมหรือเฝ้าระวัง",
+     "level": "B2",
+     "example": "China upgrades smartphone surveillance tools."
+    }
+   ],
+   "status": "night",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1347,
+   "ts": "2026-11-20T06:01:20.385167+07:00",
+   "title": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders",
+   "link": "https://www.theregister.com/systems/2026/11/19/nand-prices-tipped-to-fall-as-chinese-cloud-giants-cut-ssd-orders/5311116",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Shifting NAND flash demand directly impacts enterprise SSD pricing and data center storage budgets.",
+   "summary": "Industry analysts predict NAND flash memory prices will drop as Chinese cloud providers reduce enterprise SSD purchases. This reduction in demand could help data centers lower their hardware procurement costs.",
+   "vocab": [
+    {
+     "word": "tipped",
+     "thai": "ได้รับการคาดหมาย",
+     "level": "B2",
+     "example": "NAND prices tipped to fall as Chinese cloud giants cut SSD orders."
+    },
+    {
+     "word": "fusion",
+     "thai": "การรวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "China's grip remains strong as the US chases AI-HPC fusion."
+    },
+    {
+     "word": "enlist",
+     "thai": "ขอความร่วมมือหรือเกณฑ์กำลัง",
+     "level": "C1",
+     "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 1348,
+   "ts": "2026-11-20T06:01:20.385212+07:00",
+   "title": "Europe's biggest gas supplier battling cyberattack – with no timeline for recovery",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Cyberattacks on major European natural gas providers can threaten energy grid reliability for data centers.",
+   "summary": "Europe's largest natural gas supplier is struggling to contain a serious cyberattack with no clear recovery timeline. Widespread impacts on energy logistics can indirectly jeopardize power supply to regional infrastructure.",
+   "vocab": [
+    {
+     "word": "timeline",
+     "thai": "กรอบเวลาหรือกำหนดการ",
+     "level": "B2",
+     "example": "Europe's biggest gas supplier is battling a cyberattack with no timeline for recovery."
+    },
+    {
+     "word": "propaganda",
+     "thai": "การโฆษณาชวนเชื่อ",
+     "level": "B2",
+     "example": "The US takes down Iranian propaganda sites."
+    },
+    {
+     "word": "equivalent",
+     "thai": "สิ่งที่เท่าเทียมกัน",
+     "level": "B2",
+     "example": "The company was acquired at the equivalent of a multi-billion dollar valuation."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1349,
+   "ts": "2026-11-20T06:01:20.385235+07:00",
+   "title": "European Commission scrambles to contain AI-assisted cyberattack",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "AI-assisted cyberattacks on major political entities demonstrate evolving threats to digital infrastructure.",
+   "summary": "The European Commission is working to mitigate an active cyberattack that leverages artificial intelligence capabilities. This incident demonstrates how automated and AI-enhanced tactics are increasingly used against large organizations.",
+   "vocab": [
+    {
+     "word": "scramble",
+     "thai": "เร่งรีบจัดการอย่างฉุกเฉิน",
+     "level": "B2",
+     "example": "European Commission scrambles to contain AI-assisted cyberattack."
+    },
+    {
+     "word": "contain",
+     "thai": "ควบคุมหรือจำกัดวงความเสียหาย",
+     "level": "B2",
+     "example": "Teams are working to contain the ongoing network compromise."
+    },
+    {
+     "word": "extension",
+     "thai": "ส่วนขยาย",
+     "level": "B2",
+     "example": "Developers debated the adoption of the new desktop extension."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1350,
+   "ts": "2026-11-20T06:01:20.385263+07:00",
+   "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+   "link": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Cloudflare data shows an important transition from volumetric DDoS attacks to web application exploit attempts.",
+   "summary": "Cloudflare reported that attackers during the 2026 US midterm elections prioritized web application exploits over traditional DDoS floods. The report confirms that application-level patching is critical as perimeter DDoS protections have matured.",
+   "vocab": [
+    {
+     "word": "escalation",
+     "thai": "การทวีความรุนแรงขึ้น",
+     "level": "C1",
+     "example": "Cloudflare detected no escalation in attack volume on Election Day."
+    },
+    {
+     "word": "authoritative",
+     "thai": "ที่เชื่อถือได้และเป็นทางการ",
+     "level": "C1",
+     "example": "State government election websites provide authoritative information to voters."
+    },
+    {
+     "word": "advocate",
+     "thai": "ผู้รณรงค์หรือผู้สนับสนุน",
+     "level": "B2",
+     "example": "Programs helped protect sites belonging to voting-rights advocates and civic groups."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
   }
  ],
- "next_id": 1337,
+ "next_id": 1351,
  "vocab": [
   {
    "word": "oblivious",
