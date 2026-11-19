@@ -2640,300 +2640,6 @@
  ],
  "stories": [
   {
-   "id": 954,
-   "ts": "2026-11-06T00:46:07.855192+07:00",
-   "title": "Chemours releases two fluids for two-phase liquid cooling",
-   "link": "https://www.datacenterdynamics.com/en/news/chemours-releases-two-fluids-for-two-phase-liquid-cooling/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly relevant to data center cooling and high-density AI infrastructure trends.",
-   "summary": "Chemours has launched new dielectric fluids for two-phase liquid cooling systems designed to handle high-power AI servers. This technology helps data centers manage extreme heat loads more efficiently while reducing energy and water consumption.",
-   "vocab": [
-    {
-     "word": "immersion",
-     "thai": "การจุ่มหรือแช่ลงในของเหลว",
-     "level": "C1",
-     "example": "Chemours has released a new range of fluids for two-phase direct-to-chip and immersion cooling systems."
-    },
-    {
-     "word": "anticipate",
-     "thai": "คาดการณ์",
-     "level": "B2",
-     "example": "It is widely anticipated that a switch to two-phase cooling will be needed for future AI accelerators."
-    },
-    {
-     "word": "constraint",
-     "thai": "ข้อจำกัด",
-     "level": "C1",
-     "example": "AI's rapid growth is increasing demands on data center infrastructure, and cooling is becoming a critical constraint."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 568,
-   "sent_ts": "2026-11-06T11:02:14.690415+07:00"
-  },
-  {
-   "id": 955,
-   "ts": "2026-11-06T00:46:07.855239+07:00",
-   "title": "Google to serve as credit backstop for TeraWulf data center in Kentucky",
-   "link": "https://www.datacenterdynamics.com/en/news/google-to-serve-as-credit-backstop-for-terawulf-data-center-in-kentucky/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Covers major data center financing and cloud provider investments for AI expansion.",
-   "summary": "Google has agreed to act as a financial backstop for TeraWulf's large data center campus project in Kentucky. This partnership helps secure cheaper debt financing to support the massive infrastructure required for AI labs.",
-   "vocab": [
-    {
-     "word": "counterparty",
-     "thai": "คู่สัญญา (ในธุรกรรมทางการเงิน)",
-     "level": "C1",
-     "example": "We structured our Anthropic leases from the outset to address counterparty credit and financing costs."
-    },
-    {
-     "word": "allocation",
-     "thai": "การจัดสรร",
-     "level": "C1",
-     "example": "This reinforces our focus on disciplined capital allocation and attractive risk-adjusted returns."
-    },
-    {
-     "word": "complement",
-     "thai": "เติมเต็มหรือเสริมให้สมบูรณ์",
-     "level": "B2",
-     "example": "Their engineering depth and procurement capabilities complement our team's experience."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 569,
-   "sent_ts": "2026-11-06T11:02:15.260032+07:00"
-  },
-  {
-   "id": 956,
-   "ts": "2026-11-06T00:46:07.855273+07:00",
-   "title": "McKay Brothers taps Relativity Networks for hollow core fiber to support New Jersey's financial services market",
-   "link": "https://www.datacenterdynamics.com/en/news/mckay-brothers-taps-relativity-networks-for-hollow-core-fiber-to-support-new-jerseys-financial-services-market/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Important networking and low-latency infrastructure news affecting financial and cloud routing.",
-   "summary": "McKay Brothers is partnering with Relativity Networks to deploy hollow core fiber technology in New Jersey. This advanced cabling allows data to travel significantly faster, reducing network latency for critical applications.",
-   "vocab": [
-    {
-     "word": "transformational",
-     "thai": "ที่เปลี่ยน แปลงอย่างพลิกโฉม",
-     "level": "C1",
-     "example": "HCF is seen as a potentially transformational upgrade from traditional fiber due to its design."
-    },
-    {
-     "word": "dispersion",
-     "thai": "การกระจายตัว",
-     "level": "C2",
-     "example": "HCF features an air-filled center channel that allows for higher capacity with minimized chromatic dispersion."
-    },
-    {
-     "word": "provenance",
-     "thai": "แหล่งที่มา",
-     "level": "C2",
-     "example": "For critical US market infrastructure, IP provenance and security of supply matter alongside performance."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 957,
-   "ts": "2026-11-06T00:46:07.855299+07:00",
-   "title": "SBA Communications sheds Chile, Ecuador towers during Q3",
-   "link": "https://www.datacenterdynamics.com/en/news/sba-communications-sheds-chile-ecuador-towers-during-q3/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Relevant to telecom infrastructure and edge computing strategies for distributed workloads.",
-   "summary": "SBA Communications has sold its tower assets in Chile and Ecuador while expanding its US edge computing strategy. The company is utilizing vacant space and power at existing cell towers to host distributed AI inference capacity.",
-   "vocab": [
-    {
-     "word": "disclose",
-     "thai": "เปิดเผยข้อมูล",
-     "level": "B2",
-     "example": "Financial terms of SBA's exit from Chile and Ecuador were not disclosed."
-    },
-    {
-     "word": "incremental",
-     "thai": "ที่เพิ่มขึ้นทีละน้อย",
-     "level": "C1",
-     "example": "So far, the incremental capital remains minimal as these Edge deployments use vacant space."
-    },
-    {
-     "word": "trial",
-     "thai": "ทดลองใช้",
-     "level": "B2",
-     "example": "One of the first places the companies trialed an at-the-tower edge module was in Texas."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 958,
-   "ts": "2026-11-06T00:46:07.855325+07:00",
-   "title": "Bank of England queries speculative data center loans tied to projects without tenants",
-   "link": "https://www.datacenterdynamics.com/en/news/bank-of-england-queries-speculative-data-center-loans-tied-to-projects-without-tenants/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Highlights financial risks and banking scrutiny over speculative data center construction loans.",
-   "summary": "The Bank of England is inquiring about speculative loans made to data center projects that currently lack tenants. Regulators are examining the rising leverage and hidden risks associated with rapid AI infrastructure financing.",
-   "vocab": [
-    {
-     "word": "speculative",
-     "thai": "ที่เป็นการเก็งกำไรหรือมีความเสี่ยงสูง",
-     "level": "C1",
-     "example": "The Bank of England has reached out to understand loans to UK data center projects without tenants."
-    },
-    {
-     "word": "interdependence",
-     "thai": "ความพึ่งพาอาศัยซึ่งกันและกัน",
-     "level": "C1",
-     "example": "The bank has also been examining the interdependence of data center financing over the past year."
-    },
-    {
-     "word": "opacity",
-     "thai": "ความไม่โปร่งใส",
-     "level": "C2",
-     "example": "Financial committees warned about increasing leverage and opacity in AI-linked investments."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 570,
-   "sent_ts": "2026-11-06T11:02:15.792921+07:00"
-  },
-  {
-   "id": 959,
-   "ts": "2026-11-06T00:46:07.855374+07:00",
-   "title": "Everything you need to know about in-line amplifiers",
-   "link": "https://www.datacenterdynamics.com/en/analysis/everything-you-need-to-know-about-in-line-amplifiers/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Covers power, cooling, and infrastructure management for remote fiber repeater sites.",
-   "summary": "In-line amplifiers (ILAs) are small remote shelters along fiber networks that boost signals using dedicated power and cooling. As data demands grow, these sites face increasing power densities and require reliable backup generators.",
-   "vocab": [
-    {
-     "word": "dotted",
-     "thai": "กระจัดกระจายอยู่ทั่วไป",
-     "level": "B2",
-     "example": "In-line amplifiers are small huts dotted along terrestrial fiber networks."
-    },
-    {
-     "word": "legacy",
-     "thai": "ระบบเก่าหรือรุ่นดั้งเดิม",
-     "level": "B2",
-     "example": "ILAs share similarities with data centers and legacy central offices."
-    },
-    {
-     "word": "optimisation",
-     "thai": "การปรับให้เหมาะสมที่สุด",
-     "level": "C1",
-     "example": "James Flitton is VP of network development and optimisation at Colt Technology Services."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 960,
-   "ts": "2026-11-06T00:46:07.855413+07:00",
-   "title": "Quint Computing raises €9.1 million for development of fault tolerant quantum computing architecture",
-   "link": "https://www.datacenterdynamics.com/en/news/quint-computing-raises-91-million-for-development-of-fault-tolerant-quantum-computing-architecture/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers next-generation compute architectures that may eventually impact high-performance computing.",
-   "summary": "German startup Quint Computing has raised €9.1 million to develop a fault-tolerant quantum computing architecture. Their novel superconducting chip design aims to eliminate hardware errors and significantly reduce energy consumption.",
-   "vocab": [
-    {
-     "word": "novel",
-     "thai": "แปลกใหม่และไม่เหมือนใคร",
-     "level": "C1",
-     "example": "Quint Computing has raised funds to develop its novel architecture for quantum computers."
-    },
-    {
-     "word": "overhead",
-     "thai": "ต้นทุนส่วนเกินหรือภาระค่าใช้จ่าย",
-     "level": "C1",
-     "example": "This approach is expected to reduce complexity, hardware overhead, and energy consumption."
-    },
-    {
-     "word": "viable",
-     "thai": "สามารถปฏิบัติได้จริงทางธุรกิจหรือเทคนิค",
-     "level": "C1",
-     "example": "The race to build commercially viable quantum computers is gaining momentum."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 961,
-   "ts": "2026-11-06T00:46:07.855446+07:00",
-   "title": "Sponsored: How nickel-zinc is advancing in-rack energy storage for the AI era",
-   "link": "https://www.datacenterdynamics.com/en/opinions/how-nickel-zinc-is-advancing-in-rack-energy-storage-for-the-ai-era/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly addresses power architecture and in-rack energy storage challenges for dense AI servers.",
-   "summary": "High-density AI infrastructure is driving the need for advanced in-rack energy storage solutions that can handle rapid fluctuations in power demand. Nickel-zinc batteries are emerging as a strong option due to their high-rate charge and discharge performance.",
-   "vocab": [
-    {
-     "word": "constrained",
-     "thai": "ถูกจำกัด",
-     "level": "C1",
-     "example": "Nickel-zinc brings high power capability while physical space remains constrained."
-    },
-    {
-     "word": "synchronized",
-     "thai": "ที่ประสานเวลากันหรือเกิดขึ้นพร้อมกัน",
-     "level": "C1",
-     "example": "At scale, these synchronized fluctuations can place additional stress on upstream power infrastructure."
-    },
-    {
-     "word": "underlying",
-     "thai": "ที่เป็นพื้นฐานหรือรากฐานเบื้องหลัง",
-     "level": "B2",
-     "example": "What matters is the combination of characteristics the underlying energy storage technology can provide."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
    "id": 962,
    "ts": "2026-11-06T06:01:24.644518+07:00",
    "title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
@@ -17739,7 +17445,7 @@
    "thai": "ความสามารถในการฟื้นตัว",
    "level": "C1",
    "example": "Network resilience is crucial during natural disasters.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19199,7 +18905,7 @@
    "thai": "ยิ่งใหญ่หรือมหาศาล",
    "level": "C1",
    "example": "The operating system received an almighty security update covering hundreds of vulnerabilities.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19269,7 +18975,7 @@
    "thai": "เกินกว่าหรือมากกว่า",
    "level": "B2",
    "example": "The company is anticipating that total revenue could surpass $7 billion in 2028.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19829,7 +19535,7 @@
    "thai": "ดำเนินคดี",
    "level": "B2",
    "example": "He listed experience in prosecuting complex financial crimes and sanctions violations.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21469,7 +21175,7 @@
    "thai": "การดำเนินคดีทางกฎหมาย",
    "level": "C1",
    "example": "This difficult decision followed months of litigation and a French court ruling.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -21831,26 +21537,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6309706857933964432": {
-   "word": "coalition",
-   "correct": 0
-  },
-  "6309706857933964433": {
-   "word": "substitute",
-   "correct": 2
-  },
-  "6309706857933964434": {
-   "word": "experimental",
-   "correct": 2
-  },
-  "6309706857933964435": {
-   "word": "sovereignty",
-   "correct": 1
-  },
-  "6309706857933964436": {
-   "word": "accumulation",
-   "correct": 1
-  },
   "6311958657747649636": {
    "word": "analytics",
    "correct": 0
@@ -22030,6 +21716,26 @@
   "6336764769646675115": {
    "word": "upstream",
    "correct": 1
+  },
+  "6053037993122333403": {
+   "word": "prosecute",
+   "correct": 3
+  },
+  "6053037993122333404": {
+   "word": "surpass",
+   "correct": 2
+  },
+  "6053037993122333405": {
+   "word": "litigation",
+   "correct": 2
+  },
+  "6053037993122333406": {
+   "word": "almighty",
+   "correct": 0
+  },
+  "6053037993122333407": {
+   "word": "resilience",
+   "correct": 2
   }
  },
  "fail": {
