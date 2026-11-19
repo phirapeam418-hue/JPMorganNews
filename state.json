@@ -2616,818 +2616,6 @@
  ],
  "stories": [
   {
-   "id": 924,
-   "ts": "2026-11-05T07:37:57.622849+07:00",
-   "title": "VodafoneThree kicks off rollout of Ericsson's AI-ready Massive MIMO radio in London",
-   "link": "https://www.datacenterdynamics.com/en/news/vodafonethree-kicks-off-rollout-of-ericssons-ai-ready-massive-mimo-radio-in-london/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "VodafoneThree's major RAN and AI-ready radio rollout directly impacts telecom infrastructure operations.",
-   "summary": "VodafoneThree has started rolling out Ericsson's AI-ready Massive MIMO radios across London to enhance its 5G network. The upgrade aims to boost data speeds, improve energy efficiency, and enable real-time network optimization.",
-   "vocab": [
-    {
-     "word": "utilize",
-     "thai": "utilize - ใช้ประโยชน์",
-     "level": "B2",
-     "example": "For VodafoneThree, this means the carrier is able to utilize its mid-band spectrum."
-    },
-    {
-     "word": "congested",
-     "thai": "congested - ที่หนาแน่นแออัด",
-     "level": "B2",
-     "example": "This has demonstrated up to 20 percent higher downlink throughput in congested conditions."
-    },
-    {
-     "word": "validation",
-     "thai": "validation - การตรวจสอบความถูกต้อง",
-     "level": "C1",
-     "example": "Subject to successful validation, plans to roll it out nationwide in 2027."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 546,
-   "sent_ts": "2026-11-05T07:37:58.255987+07:00"
-  },
-  {
-   "id": 925,
-   "ts": "2026-11-05T07:37:58.256312+07:00",
-   "title": "atNorth signs deal with Calentix for heat reuse at SWE04 data center in Sollefteå, Sweden",
-   "link": "https://www.datacenterdynamics.com/en/news/atnorth-signs-deal-with-calentix-for-heat-reuse-at-swe04-data-center-in-sollefte%C3%A5-sweden/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Data center heat reuse partnerships directly affect sustainable infrastructure and cooling strategies.",
-   "summary": "atNorth has partnered with Calentix to develop a heat recovery system at its upcoming data center in Sweden. The project aims to capture surplus heat to warm the local community via a district heating network.",
-   "vocab": [
-    {
-     "word": "feasibility",
-     "thai": "feasibility - ความเป็นไปได้",
-     "level": "B2",
-     "example": "The companies have already completed an early feasibility study exploring the project's potential."
-    },
-    {
-     "word": "surplus",
-     "thai": "surplus - ส่วนเกิน",
-     "level": "B2",
-     "example": "atNorth will provide access to the surplus heat from SWE04."
-    },
-    {
-     "word": "viable",
-     "thai": "viable - ที่สามารถปฏิบัติได้จริง",
-     "level": "B2",
-     "example": "The focus is now on determining whether the project can become technically and commercially viable."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 555,
-   "sent_ts": "2026-11-05T14:52:18.563230+07:00"
-  },
-  {
-   "id": 926,
-   "ts": "2026-11-05T07:37:58.256344+07:00",
-   "title": "AWS set to secure £1.05bn contract renewal from UK Home Office",
-   "link": "https://www.datacenterdynamics.com/en/news/aws-set-to-secure-105bn-contract-renewal-from-uk-home-office/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Large-scale public cloud contract renewals reflect significant shifts in government cloud hosting strategies.",
-   "summary": "Amazon Web Services is positioned to secure a massive multi-year contract renewal with the UK Home Office for public cloud services. Public spending data shows AWS maintains a dominant share of government cloud contracts.",
-   "vocab": [
-    {
-     "word": "pipeline",
-     "thai": "pipeline - ท่อส่ง / โครงการที่กำลังวางแผน",
-     "level": "B2",
-     "example": "In a pipeline notice published on October 30, the Home Office states the contract will run from December."
-    },
-    {
-     "word": "valuation",
-     "thai": "valuation - การประเมินมูลค่า",
-     "level": "B2",
-     "example": "Excluding VAT, the contract is valued at £881.6 million."
-    },
-    {
-     "word": "engagement",
-     "thai": "engagement - การมีส่วนร่วม / การติดต่อ",
-     "level": "B2",
-     "example": "The Home Office is seeking market engagement regarding the latest planned AWS commitment."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 927,
-   "ts": "2026-11-05T07:37:58.256366+07:00",
-   "title": "SoftBank to commercialize aerial cell towers with Japanese fleet",
-   "link": "https://www.datacenterdynamics.com/en/news/softbank-to-commercialize-aerial-cell-towers-with-japanese-fleet/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "High-altitude platform stations for direct-to-device coverage represent emerging non-terrestrial network infrastructure.",
-   "summary": "SoftBank has partnered with Sceye to commercialize high-altitude platform station aircraft for mobile broadband and emergency communications in Japan. Successful test flights have proven the capability to deliver connectivity directly from the stratosphere.",
-   "vocab": [
-    {
-     "word": "commercialize",
-     "thai": "commercialize - ทำให้เป็นเชิงพาณิชย์",
-     "level": "B2",
-     "example": "SoftBank has signed a five-year deal with Sceye to commercialize aerial cell towers."
-    },
-    {
-     "word": "resilient",
-     "thai": "resilient - ที่มีความยืดหยุ่น / ทนทาน",
-     "level": "B2",
-     "example": "We aim to create a resilient, three-dimensional communications network."
-    },
-    {
-     "word": "subset",
-     "thai": "subset - ส่วนย่อย",
-     "level": "B2",
-     "example": "The initial fleet will provide mobile broadband throughout Japan, with a subset establishing an FSO network."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 9,
-   "msg_id": 556,
-   "sent_ts": "2026-11-05T14:52:19.149699+07:00"
-  },
-  {
-   "id": 928,
-   "ts": "2026-11-05T07:37:58.256388+07:00",
-   "title": "Verizon AI-RAN work rides nationwide Ericsson Intelligent Controller deployment",
-   "link": "https://www.datacenterdynamics.com/en/news/verizon-ai-ran-work-rides-nationwide-ericsson-intelligent-controller-deployment/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Network automation and AI-RAN controller rollouts directly impact telecom operations and DevOps toolsets.",
-   "summary": "Verizon is deploying Ericsson's Intelligent Controller nationwide to run AI-driven applications that automate network tasks. This integration aims to optimize performance, handle handovers autonomously, and accelerate network intelligence.",
-   "vocab": [
-    {
-     "word": "autonomous",
-     "thai": "autonomous - ซึ่งควบคุมด้วยตนเอง",
-     "level": "C1",
-     "example": "A move that includes the nationwide rollout of Ericsson’s Intelligent Controller and furthers the operator’s push toward autonomous control."
-    },
-    {
-     "word": "methodology",
-     "thai": "methodology - ระเบียบวิธี",
-     "level": "B2",
-     "example": "Verizon specifically pointed to an already implemented connected mode inter-radio access technology handover methodology."
-    },
-    {
-     "word": "underpin",
-     "thai": "underpin - เป็นรากฐาน / สนับสนุน",
-     "level": "C1",
-     "example": "EIAP is being used by a number of operators worldwide, including underpinning Verizon rival AT&T’s network overhaul."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 547,
-   "sent_ts": "2026-11-05T07:37:58.891625+07:00"
-  },
-  {
-   "id": 929,
-   "ts": "2026-11-05T07:37:58.891894+07:00",
-   "title": "F1 regulator signs cloud agreement with AWS",
-   "link": "https://www.datacenterdynamics.com/en/news/f1-regulator-signs-cloud-agreement-with-aws/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Motorsport cloud and AI adoption showcases specialized high-performance simulation infrastructure workloads.",
-   "summary": "The FIA has chosen Amazon Web Services as its official cloud and AI partner to modernize motorsport governance. The agreement paves the way for advanced cloud simulations and a shift toward GPU-accelerated workloads in future regulations.",
-   "vocab": [
-    {
-     "word": "stipulate",
-     "thai": "stipulate - กำหนดไว้เป็นเงื่อนไข",
-     "level": "C1",
-     "example": "Similarly, the regulations stipulate that only CPU compute be used."
-    },
-    {
-     "word": "quantify",
-     "thai": "quantify - วัดปริมาณ",
-     "level": "C2",
-     "example": "An expert discussion on how to quantify the amount of compute used for a CFD simulation."
-    },
-    {
-     "word": "modernization",
-     "thai": "modernization - การทำให้ทันสมัย",
-     "level": "B2",
-     "example": "More business applications will move to AWS over the coming years as part of the FIA’s modernization strategy."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 930,
-   "ts": "2026-11-05T07:37:58.891925+07:00",
-   "title": "Brightspeed announces CEO transition amid reports company is close to bankruptcy",
-   "link": "https://www.datacenterdynamics.com/en/news/brightspeed-announces-ceo-transition-amid-reports-company-is-close-to-bankruptcy/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Broadband provider leadership changes and potential bankruptcy reports affect telecom market stability.",
-   "summary": "Brightspeed has appointed a new CEO amid media reports that the broadband provider is preparing for a potential bankruptcy filing. The company continues to face high debt levels while expanding its fiber network infrastructure.",
-   "vocab": [
-    {
-     "word": "succeed",
-     "thai": "succeed - สืบทอดตำแหน่ง",
-     "level": "B2",
-     "example": "Named O'Donnell its new CEO, succeeding Michel Combes who had been serving as acting CEO."
-    },
-    {
-     "word": "proposition",
-     "thai": "proposition - ข้อเสนอ / ข้อเสนอทางธุรกิจ",
-     "level": "B2",
-     "example": "Barden notes that the company is an attractive proposition for potential buyers."
-    },
-    {
-     "word": "capacity",
-     "thai": "capacity - ความสามารถในการรองรับ",
-     "level": "B2",
-     "example": "I look forward to supporting them in my capacity as chairman."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 7,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 931,
-   "ts": "2026-11-05T07:37:58.891945+07:00",
-   "title": "Heartland Oil plans 7MW Bitcoin mine at Saskatchewan gas plant in Canada",
-   "link": "https://www.datacenterdynamics.com/en/news/heartland-oil-plans-7mw-bitcoin-mine-at-saskatchewan-gas-plant-in-canada/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Off-grid power generation for cryptocurrency mining installations highlights localized energy and data center demands.",
-   "summary": "Heartland Oil plans to build a small Bitcoin mine powered directly by an existing natural gas plant in Canada. The project aims to operate completely independently of local electric utility grids.",
-   "vocab": [
-    {
-     "word": "footprint",
-     "thai": "footprint - พื้นที่ที่ใช้",
-     "level": "B2",
-     "example": "The proposal involves Orion Power Solutions and would add mining equipment within the footprint of the plant."
-    },
-    {
-     "word": "viability",
-     "thai": "viability - ความสามารถในการดำเนินงานได้",
-     "level": "C1",
-     "example": "They said the project would diversify the plant's revenue and support its long-term viability."
-    },
-    {
-     "word": "specifications",
-     "thai": "specifications - รายละเอียดเฉพาะ",
-     "level": "B2",
-     "example": "The notice gives no construction timetable, capital cost or hardware specifications."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 932,
-   "ts": "2026-11-05T07:38:11.335641+07:00",
-   "title": "Qualcomm signs 5G infrastructure agreement with SpaceX for Starlink Mobile's nationwide network in US",
-   "link": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-5g-infrastructure-agreement-with-spacex-for-starlink-mobiles-nationwide-network-in-us/",
-   "source": "DCD",
-   "score": 7,
-   "watch": false,
-   "reason": "Qualcomm and SpaceX partner on terrestrial 5G infrastructure using Massive MIMO.",
-   "summary": "Qualcomm has signed an agreement to supply cellular infrastructure equipment for Starlink's nationwide terrestrial network in the US. The partnership aims to build high-performance 5G base stations using advanced Massive MIMO technology.",
-   "vocab": [
-    {
-     "word": "terrestrial",
-     "thai": "บนพื้นโลก",
-     "level": "C1",
-     "example": "Starlink Mobile will use Massive MIMO radio units for its terrestrial network."
-    },
-    {
-     "word": "architecture",
-     "thai": "สถาปัตยกรรมระบบ",
-     "level": "B2",
-     "example": "This architecture is designed to improve coverage, capacity and spectral efficiency."
-    },
-    {
-     "word": "bolsters",
-     "thai": "เสริมสร้าง, สนับสนุน",
-     "level": "C1",
-     "example": "The agreement bolsters Qualcomm's position in the telecoms infrastructure market."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 557,
-   "sent_ts": "2026-11-05T14:52:19.688654+07:00"
-  },
-  {
-   "id": 933,
-   "ts": "2026-11-05T07:38:11.335691+07:00",
-   "title": "DCD Studio: Overcoming supply chain challenges, with Gaby Carrasco, DCD",
-   "link": "https://www.datacenterdynamics.com/en/videos/dcd-studio-overcoming-supply-chain-challenges-with-gaby-carrascom-dcd/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Discusses supply chain challenges and energy constraints affecting data center projects.",
-   "summary": "An industry discussion highlights major hurdles in global data center development, including energy limits and supply chain risks. Experts analyze how operators navigate these complex operational challenges.",
-   "vocab": [
-    {
-     "word": "hurdles",
-     "thai": "อุปสรรค",
-     "level": "B2",
-     "example": "Navigating complex global data center hurdles requires technical specialization."
-    },
-    {
-     "word": "geopolitical",
-     "thai": "เกี่ยวกับภูมิรัฐศาสตร์",
-     "level": "C1",
-     "example": "Data center operators must consider geopolitical pressures in their expansion plans."
-    },
-    {
-     "word": "specialization",
-     "thai": "ความเชี่ยวชาญเฉพาะทาง",
-     "level": "B2",
-     "example": "The project requires technical specialization to manage power constraints."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 934,
-   "ts": "2026-11-05T07:38:11.335716+07:00",
-   "title": "Local data center moratoria, limits, and restrictions voted in across the US",
-   "link": "https://www.datacenterdynamics.com/en/news/local-data-center-moratoria-limits-and-restrictions-voted-in-across-the-us/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Widespread local bans and moratoria on data centers across multiple US states directly impact site planning.",
-   "summary": "Numerous US towns and regions have voted to pass bans, moratoria, or strict power limits on new data center developments. These local measures reflect growing community pushback against large digital infrastructure projects.",
-   "vocab": [
-    {
-     "word": "moratoria",
-     "thai": "คำสั่งระงับชั่วคราว",
-     "level": "C2",
-     "example": "Several towns voted for an 180-day moratorium on data centers."
-    },
-    {
-     "word": "unincorporated",
-     "thai": "ที่ไม่ได้จัดตั้งเป็นเทศบาล",
-     "level": "C1",
-     "example": "Zoning rules were adopted for unincorporated areas to give locals more control."
-    },
-    {
-     "word": "tally",
-     "thai": "นับคะแนน, รวบรวม",
-     "level": "B2",
-     "example": "This article will be updated as more votes are tallied."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 548,
-   "sent_ts": "2026-11-05T07:38:11.964616+07:00"
-  },
-  {
-   "id": 935,
-   "ts": "2026-11-05T07:38:11.964800+07:00",
-   "title": "Nvidia tells data center partners to cut China exposure, limits RTX chip sales to mainland",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-tells-data-center-partners-to-cut-china-exposure-limits-rtx-chip-sales-to-mainland/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Nvidia restricts China exposure and limits chip sales, impacting global cloud and AI hardware markets.",
-   "summary": "Nvidia has instructed its data center partners to reduce customer exposure in China and limited shipments of certain AI chips. Chinese hyperscalers face severe hardware shortages amid ongoing export controls.",
-   "vocab": [
-    {
-     "word": "exposure",
-     "thai": "การมีความเสี่ยงหรือเกี่ยวข้อง",
-     "level": "B2",
-     "example": "Nvidia has told its data center partners to reduce their exposure to customers in China."
-    },
-    {
-     "word": "compliance",
-     "thai": "การปฏิบัติตามกฎระเบียบ",
-     "level": "C1",
-     "example": "The company created a white list of firms that passed tougher compliance checks."
-    },
-    {
-     "word": "allegations",
-     "thai": "ข้อกล่าวหา",
-     "level": "C1",
-     "example": "The Singapore-based company denied all allegations regarding illicit shipments."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 8,
-   "msg_id": 549,
-   "sent_ts": "2026-11-05T07:38:12.616379+07:00"
-  },
-  {
-   "id": 936,
-   "ts": "2026-11-05T07:38:12.616726+07:00",
-   "title": "NBC exit poll: 56% say AI data centers were a crucial or major factor in Congressional vote decision",
-   "link": "https://www.datacenterdynamics.com/en/news/nbc-exit-poll-56-say-ai-data-centers-were-a-crucial-or-major-factor-in-congressional-vote-decision/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Poll data shows public and political sentiment regarding AI data centers during US midterm elections.",
-   "summary": "Exit polling indicates that AI data centers were a notable factor for voters in recent US Congressional elections. A significant majority of respondents expressed opposition to new data center construction in their communities.",
-   "vocab": [
-    {
-     "word": "bipartisan",
-     "thai": "ซึ่งมาจากสองพรรคการเมือง",
-     "level": "C1",
-     "example": "The topic of data center development was a bipartisan issue during the midterms."
-    },
-    {
-     "word": "respondents",
-     "thai": "ผู้ตอบแบบสอบถาม",
-     "level": "B2",
-     "example": "Twenty-three percent of respondents called AI data centers crucial."
-    },
-    {
-     "word": "proponents",
-     "thai": "ผู้สนับสนุน",
-     "level": "C1",
-     "example": "The elections saw notable victories for anti-data center proponents."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 937,
-   "ts": "2026-11-05T07:38:12.616756+07:00",
-   "title": "Sponsored: Data centers don't operate in isolation",
-   "link": "https://www.datacenterdynamics.com/en/opinions/data-centers-dont-operate-in-isolation/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Sponsored guide on integrated campus design and sustainability frameworks for data centers.",
-   "summary": "Data center operators are increasingly adopting holistic campus approaches to manage interconnected power and cooling systems. Using structured frameworks helps organizations align sustainability goals with operational reliability.",
-   "vocab": [
-    {
-     "word": "holistic",
-     "thai": "แบบองค์รวม",
-     "level": "C1",
-     "example": "Operators use an integrated campus approach to manage resources effectively."
-    },
-    {
-     "word": "foundational",
-     "thai": "ที่เป็นรากฐานสำคัญ",
-     "level": "C1",
-     "example": "Reliable power is foundational to long-term campus performance."
-    },
-    {
-     "word": "verification",
-     "thai": "การตรวจสอบยืนยันความถูกต้อง",
-     "level": "C1",
-     "example": "Independent verification provides added credibility with project stakeholders."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 938,
-   "ts": "2026-11-05T07:38:12.616780+07:00",
-   "title": "Preparing the data storage layer for scalable AI outcomes",
-   "link": "https://www.datacenterdynamics.com/en/opinions/preparing-the-data-storage-layer-for-scalable-ai-outcomes/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Research on storage infrastructure challenges for AI workloads and hybrid cloud adoption.",
-   "summary": "A recent cloud storage index shows that UK organizations allocate the majority of their AI budgets to data and storage. Managing diverse workloads like model training and inference creates new demands on storage architecture.",
-   "vocab": [
-    {
-     "word": "accommodate",
-     "thai": "รองรับ, จัดให้พอดี",
-     "level": "B2",
-     "example": "Storage environments now need to accommodate a mix of data ingestion and training."
-    },
-    {
-     "word": "aggregation",
-     "thai": "การรวมกลุ่ม, การรวบรวม",
-     "level": "C1",
-     "example": "Respondents identified data retrieval and aggregation as key workflow stages."
-    },
-    {
-     "word": "static",
-     "thai": "หยุดนิ่ง, ไม่เปลี่ยนแปลง",
-     "level": "B2",
-     "example": "AI datasets are rarely static as training data is continually refreshed."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 939,
-   "ts": "2026-11-05T07:38:12.616803+07:00",
-   "title": "Building AI factories at enterprise scale",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/sponsored-building-ai-factories-at-enterprise-scale/5306629",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Analysis of enterprise AI factory scaling and hardware stack requirements for edge and data centers.",
-   "summary": "Enterprises are increasingly building in-house AI infrastructure to maintain data control and secure predictable costs. Suppliers are responding with full-stack agentic AI solutions tailored for both data centers and edge environments.",
-   "vocab": [
-    {
-     "word": "juggernaut",
-     "thai": "พลังขับเคลื่อนอันมหาศาลและหยุดไม่อยู่",
-     "level": "C2",
-     "example": "AI has become a juggernaut, driving technical strategy in the tech sector."
-    },
-    {
-     "word": "offloading",
-     "thai": "การถ่ายโอนภาระงานออกไป",
-     "level": "C1",
-     "example": "Companies want to run AI in-house rather than offloading it to the cloud."
-    },
-    {
-     "word": "continuum",
-     "thai": "ความต่อเนื่อง",
-     "level": "C1",
-     "example": "The company wants to supply hardware across the entire AI continuum."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 558,
-   "sent_ts": "2026-11-05T14:52:20.284415+07:00"
-  },
-  {
-   "id": 940,
-   "ts": "2026-11-05T07:38:24.808064+07:00",
-   "title": "Apple turns iCloud into spy cloud, will start looking at public share links",
-   "link": "https://www.theregister.com/security/2026/11/04/apple-turns-icloud-into-spy-cloud-will-start-looking-at-public-share-links/5307681",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Apple is changing iCloud features to inspect public share links, raising privacy concerns.",
-   "summary": "Apple is updating iCloud to examine content on public share links. This move alters privacy expectations for cloud storage users.",
-   "vocab": [
-    {
-     "word": "inspect",
-     "thai": "ตรวจสอบ",
-     "level": "B2",
-     "example": "Apple turns iCloud into spy cloud, will start looking at public share links"
-    },
-    {
-     "word": "privacy",
-     "thai": "ความเป็นส่วนตัว",
-     "level": "B2",
-     "example": "This move alters privacy expectations for cloud storage users."
-    },
-    {
-     "word": "update",
-     "thai": "อัปเดต",
-     "level": "B1",
-     "example": "Apple is updating iCloud to examine content on public share links."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 941,
-   "ts": "2026-11-05T07:38:24.808102+07:00",
-   "title": "Hey, Siri: Plug into my app like you said you'd do way back in 2024",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/04/hey-siri-plug-into-my-app-like-you-said-youd-do-way-back-in-2024/5307659",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Siri integration updates are relevant to consumer tech rather than core infrastructure.",
-   "summary": "Users are waiting for Apple to deliver on promised Siri app integrations announced earlier. These features aim to make voice commands work more deeply with third-party applications.",
-   "vocab": [
-    {
-     "word": "integration",
-     "thai": "การรวมเข้าด้วยกัน",
-     "level": "B2",
-     "example": "Siri integration updates are relevant to consumer tech."
-    },
-    {
-     "word": "promise",
-     "thai": "สัญญา",
-     "level": "B1",
-     "example": "Users are waiting for Apple to deliver on promised Siri app integrations."
-    },
-    {
-     "word": "command",
-     "thai": "คำสั่ง",
-     "level": "B2",
-     "example": "These features aim to make voice commands work more deeply."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 942,
-   "ts": "2026-11-05T07:38:24.808133+07:00",
-   "title": "Palantir CEO says it's pioneering an antiwar movement – while happily accepting defense dollars",
-   "link": "https://www.theregister.com/offbeat/2026/11/04/palantir-ceo-says-its-pioneering-an-antiwar-movement-while-happily-accepting-defense-dollars/5307605",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Palantir's defense contracts and CEO statements touch on tech ethics and government cloud spending.",
-   "summary": "Palantir's CEO faces scrutiny for calling his company an antiwar movement while taking large defense contracts. The contrast highlights tensions between tech ethics and military funding.",
-   "vocab": [
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียด",
-     "level": "C1",
-     "example": "Palantir's CEO faces scrutiny for calling his company an antiwar movement."
-    },
-    {
-     "word": "contrast",
-     "thai": "ความแตกต่าง",
-     "level": "B2",
-     "example": "The contrast highlights tensions between tech ethics and military funding."
-    },
-    {
-     "word": "funding",
-     "thai": "การสนับสนุนเงินทุน",
-     "level": "B2",
-     "example": "The contrast highlights tensions between tech ethics and military funding."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 943,
-   "ts": "2026-11-05T07:38:24.808158+07:00",
-   "title": "Fedora 45 is finally finished and fit",
-   "link": "https://www.theregister.com/os-platforms/2026/11/04/fedora-45-is-finally-finished-and-fit/5307631",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Fedora release news is interesting for Linux admins, but not a critical infrastructure outage.",
-   "summary": "The Fedora project has finished developing its latest Linux distribution version. This release brings updated packages and software improvements for desktop and server users.",
-   "vocab": [
-    {
-     "word": "distribution",
-     "thai": "การแจกจ่าย, รุ่นของลินุกซ์",
-     "level": "B2",
-     "example": "The Fedora project has finished developing its latest Linux distribution version."
-    },
-    {
-     "word": "package",
-     "thai": "แพ็กเกจซอฟต์แวร์",
-     "level": "B2",
-     "example": "This release brings updated packages and software improvements."
-    },
-    {
-     "word": "improvement",
-     "thai": "การปรับปรุง",
-     "level": "B1",
-     "example": "This release brings updated packages and software improvements."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 944,
-   "ts": "2026-11-05T07:38:24.808231+07:00",
-   "title": "Bare metal boom: On-prem server sales for HPC and AI up 20% this year",
-   "link": "https://www.theregister.com/on-prem/2026/11/04/bare-metal-boom-on-prem-server-sales-for-hpc-and-ai-up-20-this-year/5307611",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Directly covers on-prem server sales growth for HPC and AI workloads, highly relevant to infrastructure.",
-   "summary": "On-premises server sales for high-performance computing and AI have grown by 20 percent this year. This trend shows that many organizations still prefer local hardware despite cloud dominance.",
-   "vocab": [
-    {
-     "word": "growth",
-     "thai": "การเติบโต",
-     "level": "B1",
-     "example": "On-premises server sales for high-performance computing and AI have grown by 20 percent."
-    },
-    {
-     "word": "organization",
-     "thai": "องค์กร",
-     "level": "B2",
-     "example": "This trend shows that many organizations still prefer local hardware."
-    },
-    {
-     "word": "dominance",
-     "thai": "ความมีอำนาจเหนือกว่า",
-     "level": "C1",
-     "example": "This trend shows that many organizations still prefer local hardware despite cloud dominance."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 550,
-   "sent_ts": "2026-11-05T07:38:25.550289+07:00"
-  },
-  {
-   "id": 945,
-   "ts": "2026-11-05T07:38:25.550608+07:00",
-   "title": "VMware returns to low-end server virtualization with 'vSphere Express'",
-   "link": "https://www.theregister.com/virtualization/2026/11/04/vmware-returns-to-low-end-server-virtualization-with-vsphere-express/5307466",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "VMware's new virtualization offering directly impacts server administration and data center virtualization budgets.",
-   "summary": "VMware is reintroducing a lower-end server virtualization product named vSphere Express. This edition targets smaller deployments and budget-conscious enterprise customers.",
-   "vocab": [
-    {
-     "word": "edition",
-     "thai": "รุ่น, ฉบับ",
-     "level": "B2",
-     "example": "This edition targets smaller deployments and budget-conscious enterprise customers."
-    },
-    {
-     "word": "target",
-     "thai": "มุ่งเป้าไปที่",
-     "level": "B2",
-     "example": "This edition targets smaller deployments and budget-conscious enterprise customers."
-    },
-    {
-     "word": "reintroduce",
-     "thai": "นำกลับมาใช้อีกครั้ง",
-     "level": "B2",
-     "example": "VMware is reintroducing a lower-end server virtualization product."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 559,
-   "sent_ts": "2026-11-05T14:52:21.195154+07:00"
-  },
-  {
    "id": 946,
    "ts": "2026-11-05T15:43:29.885578+07:00",
    "title": "Sponsored: From compute race to data showdown: The agent era will be won in the storage layer",
@@ -16573,11 +15761,13 @@
      "example": "This makes an extremely attractive proposition for the networks because it creates a huge ecosystem."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 831,
+   "sent_ts": "2026-11-19T15:40:27.271382+07:00"
   },
   {
    "id": 1301,
@@ -16609,7 +15799,7 @@
      "example": "Local governments are increasingly adopting ordinances that subject these uses to discretionary approval."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -16645,11 +15835,13 @@
      "example": "A number of potential AI-RAN use cases include radio optimization and anomaly detection."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 832,
+   "sent_ts": "2026-11-19T15:40:27.773020+07:00"
   },
   {
    "id": 1303,
@@ -16681,7 +15873,7 @@
      "example": "The strategic objective was to provide Turkish researchers with a constant state-of-the-art flagship quantum system."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 5,
@@ -16717,11 +15909,13 @@
      "example": "The data center was launched by IBM, from which Kyndryl was spun off."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 833,
+   "sent_ts": "2026-11-19T15:40:28.301122+07:00"
   },
   {
    "id": 1305,
@@ -16753,11 +15947,13 @@
      "example": "Heat is absorbed through cold plates and transferred into circulating coolant."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 834,
+   "sent_ts": "2026-11-19T15:40:28.797498+07:00"
   },
   {
    "id": 1306,
@@ -16789,11 +15985,13 @@
      "example": "This collaboration is helping move the nuclear industry from fragmented desktop studies to real-time delivery."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 835,
+   "sent_ts": "2026-11-19T15:40:29.288088+07:00"
   },
   {
    "id": 1307,
@@ -16825,7 +16023,7 @@
      "example": "Use batteries and power controls to smooth demand fluctuations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 5,
@@ -16897,7 +16095,7 @@
      "example": "With provisional launch expected in early 2029."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -16933,11 +16131,13 @@
      "example": "The billionaire claims to have more than 1GW of capacity, though these claims have been disputed."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 836,
+   "sent_ts": "2026-11-19T15:40:29.804794+07:00"
   },
   {
    "id": 1311,
@@ -16969,11 +16169,13 @@
      "example": "The project is set to be completed in December 2029."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 837,
+   "sent_ts": "2026-11-19T15:40:30.306779+07:00"
   },
   {
    "id": 1312,
@@ -17149,7 +16351,7 @@
      "example": "Regulators told the company to restrict vehicle operations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 6,
@@ -17221,11 +16423,13 @@
      "example": "Analytics are brought together under one roof."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 838,
+   "sent_ts": "2026-11-19T15:40:30.796732+07:00"
   },
   {
    "id": 1319,
@@ -17338,166 +16542,6 @@
  ],
  "next_id": 1322,
  "vocab": [
-  {
-   "word": "revoke",
-   "thai": "เพิกถอน",
-   "level": "B2",
-   "example": "Revoke existing credentials with their issuing providers immediately.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "suspicious",
-   "thai": "น่าสงสัย",
-   "level": "B2",
-   "example": "Report any suspicious usage to support and the relevant provider.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "breach",
-   "thai": "การละเมิดความปลอดภัย / รอยรั่ว",
-   "level": "B2",
-   "example": "Northflank notified customers after detecting a data breach in their cloud platform.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "hustle",
-   "thai": "ธุรกิจเสริมหรือกิจกรรมหารายได้เสริม",
-   "level": "B2",
-   "example": "Cloud computing might soon make retail look like a secondary hustle.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "cope",
-   "thai": "รับมือหรือจัดการกับปัญหา",
-   "level": "B2",
-   "example": "Engineers re-architected the system to cope with heavy AI workloads.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "dramatically",
-   "thai": "อย่างมากหรืออย่างเห็นได้ชัด",
-   "level": "B2",
-   "example": "Greenhouse gas output has risen dramatically in recent years.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "suspected",
-   "thai": "ที่สงสัยว่า",
-   "level": "B2",
-   "example": "Law enforcement agencies identified the suspected hackers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "analysis",
-   "thai": "การวิเคราะห์",
-   "level": "B2",
-   "example": "Blockchain analysis revealed how the funds were transferred.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "beneficiary",
-   "thai": "ผู้ได้รับผลประโยชน์",
-   "level": "C1",
-   "example": "An unlikely beneficiary of the AI era: magnetic tape.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "surge",
-   "thai": "การพุ่งขึ้นอย่างรวดเร็ว",
-   "level": "B2",
-   "example": "Fujifilm attributes the surge in archiving demand to generative AI.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "trove",
-   "thai": "คลังสมบัติ, ของสะสมจำนวนมาก",
-   "level": "C1",
-   "example": "Cloud giants rely on tape to back up vast troves of data.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "curtailment",
-   "thai": "การลดกำลังการผลิตลง",
-   "level": "C1",
-   "example": "In Spain, around 16 percent of solar generation was curtailed in the first quarter of 2026 alone.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "phenomenon",
-   "thai": "ปรากฏการณ์",
-   "level": "B2",
-   "example": "Major energy projects being unable to connect to the grid is not a new phenomenon.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bypass",
-   "thai": "หลีกเลี่ยง / ลัดผ่านระบบความปลอดภัย",
-   "level": "B2",
-   "example": "By bypassing ChatGPT's sandbox, researchers were able to execute arbitrary code.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "authenticate",
-   "thai": "พิสูจน์ตัวตน",
-   "level": "C1",
-   "example": "The payload executed with full access to the victim's authenticated web session.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "isolate",
-   "thai": "แยกออกจากส่วนอื่น",
-   "level": "B2",
-   "example": "Preview code is supposed to be safely isolated inside a restricted frame.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "administrative",
    "thai": "เกี่ยวกับการบริหาร",
@@ -22333,6 +21377,166 @@
    "thai": "ความสามารถในการซึมผ่าน",
    "level": "C2",
    "example": "EGS techniques create permeability in reservoirs that would otherwise be inaccessible.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "installment",
+   "thai": "ภาคต่อ, ตอน",
+   "level": "B2",
+   "example": "The latest installment of Rockstar Games' epic crime simulator drops at midnight.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interconnect",
+   "thai": "เชื่อมต่อถึงกัน",
+   "level": "C1",
+   "example": "We take care of directly interconnecting all these networks, which makes the system very efficient.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proposition",
+   "thai": "ข้อเสนอ, ข้อเสนอทางธุรกิจ",
+   "level": "B2",
+   "example": "This makes an extremely attractive proposition for the networks because it creates a huge ecosystem.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "responsive",
+   "thai": "ที่ตอบสนองได้ดี",
+   "level": "B2",
+   "example": "The trials are looking into the role that AI can play in enabling the mobile network to be more responsive.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "anomaly",
+   "thai": "ความผิดปกติ",
+   "level": "C1",
+   "example": "A number of potential AI-RAN use cases include radio optimization and anomaly detection.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exclusive",
+   "thai": "พิเศษ, สิทธิ์เฉพาะ",
+   "level": "B2",
+   "example": "The company states that it has contracted power and several sites under exclusivity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spin",
+   "thai": "แยกตัวออกมา (ธุรกิจ)",
+   "level": "B2",
+   "example": "The data center was launched by IBM, from which Kyndryl was spun off.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "dispersion",
+   "thai": "การกระจายตัว",
+   "level": "C1",
+   "example": "Equipment placement that improves heat dispersion may affect noise propagation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "acoustic",
+   "thai": "เกี่ยวกับเสียง",
+   "level": "B2",
+   "example": "Acoustic barriers can interfere with airflow if not properly engineered.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "circulating",
+   "thai": "ที่ไหลเวียนอยู่",
+   "level": "B2",
+   "example": "Heat is absorbed through cold plates and transferred into circulating coolant.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "portfolio",
+   "thai": "กลุ่มงาน, สินทรัพย์ทั้งหมดที่มี",
+   "level": "B2",
+   "example": "Google Cloud will provide AI expertise to support Elementl's portfolio of nuclear power projects.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "preliminary",
+   "thai": "ขั้นต้น, เบื้องต้น",
+   "level": "B2",
+   "example": "This lets them compress months of preliminary desktop research into days or weeks.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fragmented",
+   "thai": "ที่แตกแยกส่วน, กระจัดกระจาย",
+   "level": "B2",
+   "example": "This collaboration is helping move the nuclear industry from fragmented desktop studies to real-time delivery.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "commissioners",
+   "thai": "คณะกรรมาธิการ, กรรมการ",
+   "level": "B2",
+   "example": "SpaceX has seen its request for a tax break rejected by county commissioners.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disputed",
+   "thai": "โต้แย้ง, ไม่ยอมรับ",
+   "level": "B2",
+   "example": "The billionaire claims to have more than 1GW of capacity, though these claims have been disputed.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scheduled",
+   "thai": "กำหนดการ",
+   "level": "B2",
+   "example": "The project is set to be completed in December 2029.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
