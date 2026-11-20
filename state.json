@@ -14891,11 +14891,13 @@
      "example": "Development teams must verify their software supply chains."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 9,
    "urgency": 9,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 856,
+   "sent_ts": "2026-11-20T15:24:59.975017+07:00"
   },
   {
    "id": 1318,
@@ -14965,11 +14967,13 @@
      "example": "Teams must avoid unnecessary financial waste."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 857,
+   "sent_ts": "2026-11-20T15:25:00.537753+07:00"
   },
   {
    "id": 1320,
@@ -15001,11 +15005,13 @@
      "example": "Organizations must validate their recovery processes."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 858,
+   "sent_ts": "2026-11-20T15:25:01.061407+07:00"
   },
   {
    "id": 1321,
@@ -15037,11 +15043,13 @@
      "example": "Administrators must update scripts to maintain compatibility."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 9,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 859,
+   "sent_ts": "2026-11-20T15:25:01.581957+07:00"
   },
   {
    "id": 1322,
@@ -15073,7 +15081,7 @@
      "example": "Shares were priced at $83 ahead of its debut on the Nasdaq."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -15109,7 +15117,7 @@
      "example": "Workers at a subsidiary of US telecoms giant AT&T could go on strike."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 6,
    "scale": 5,
@@ -15145,7 +15153,7 @@
      "example": "Merlin expects to recoup approximately 35 percent of that additional cost."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -15181,11 +15189,13 @@
      "example": "This outcome keeps affordability at the forefront while allowing necessary grid investments."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 861,
+   "sent_ts": "2026-11-20T15:25:02.724091+07:00"
   },
   {
    "id": 1326,
@@ -15217,7 +15227,7 @@
      "example": "Right now, economic and environmental goals are colliding in major capitals."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
@@ -15253,7 +15263,7 @@
      "example": "Wafer output on both nodes exceeded expectations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -15289,7 +15299,7 @@
      "example": "When we are talking to customers, we are not promising what we can't deliver because our team is candid."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 4,
@@ -15325,7 +15335,7 @@
      "example": "The company signed a 51.4MW ten-year geothermal PPA with Contact Energy."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 5,
@@ -15361,7 +15371,7 @@
      "example": "Bluewater previously paid $568 million during the 2017 spectrum auction."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -15397,7 +15407,7 @@
      "example": "These caloric materials absorb heat from hardware and cool rapidly, expelling the heat elsewhere."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 3,
    "scale": 5,
@@ -15433,11 +15443,13 @@
      "example": "Security teams work to harden critical infrastructure against cyber threats."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 862,
+   "sent_ts": "2026-11-20T15:25:03.265635+07:00"
   },
   {
    "id": 1333,
@@ -15469,7 +15481,7 @@
      "example": "Organizations must harden their supply chain network against breaches."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 5,
@@ -15505,7 +15517,7 @@
      "example": "The public photocard portal was taken offline to prevent unauthorized access."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 5,
    "scale": 4,
@@ -15541,7 +15553,7 @@
      "example": "Commercial models can sometimes be coaxed into generating restricted output."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -15577,7 +15589,7 @@
      "example": "Developers strive to harden AI deployment pipelines."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -15613,7 +15625,7 @@
      "example": "Our results reflect the strength of our diversified portfolio across core enterprise offerings."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 7,
@@ -15649,7 +15661,7 @@
      "example": "The existing older warehouse is set to be demolished to make way for the new facility."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -15685,7 +15697,7 @@
      "example": "The bank reported lower amortization from changes in the useful lives of select strategic software assets."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -15721,7 +15733,7 @@
      "example": "The telecom firm serves as the landing party for the subsea system in all US jurisdictions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 6,
@@ -15757,7 +15769,7 @@
      "example": "The company recently announced its first foray into the Spanish data center market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -15793,7 +15805,7 @@
      "example": "There was a spate of bomb threats made against data centers across the country several years ago."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 3,
@@ -15829,7 +15841,7 @@
      "example": "It said that $72.4bn of that loss was due to a one-off accounting charge."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -15869,7 +15881,7 @@
      "example": "The Shantou site is aggregating compute power resources across regional facilities."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
@@ -15905,7 +15917,7 @@
      "example": "Improvements had been realized relative to heavily optimized baselines on the flagship GPU IP."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 7,
@@ -15979,7 +15991,7 @@
      "example": "DEF CON Franklin project enlists hackers to harden critical infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -16053,11 +16065,13 @@
      "example": "Developers debated the adoption of the new desktop extension."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 863,
+   "sent_ts": "2026-11-20T15:25:03.766726+07:00"
   },
   {
    "id": 1350,
@@ -16089,7 +16103,7 @@
      "example": "Programs helped protect sites belonging to voting-rights advocates and civic groups."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
@@ -16125,7 +16139,7 @@
      "example": "The Devuan-based distro swaps Wayland for XLibre and i3."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 7,
@@ -16199,7 +16213,7 @@
      "example": "The cyberattacks may have led to the exposure of sensitive customer records."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -16273,7 +16287,7 @@
      "example": "The trade-off in accuracy easily offsets the small latency cost."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 6,
@@ -16347,7 +16361,7 @@
      "example": "Faster, Built-In Table Bloat Cleanup helps reduce disk usage."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -16383,7 +16397,7 @@
      "example": "Over time, heavily updated tables can become bloated and poorly clustered."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
@@ -16419,215 +16433,17 @@
      "example": "Why is there a Base64 decoder intrinsic instead of a bounds-checked wrapper?"
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 860,
+   "sent_ts": "2026-11-20T15:25:02.095863+07:00"
   }
  ],
  "next_id": 1360,
  "vocab": [
-  {
-   "word": "triage",
-   "thai": "การคัดแยกความสำคัญหรือความเร่งด่วน",
-   "level": "C1",
-   "example": "The model acts as the operator's triage analyst to prioritize stolen data.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "harness",
-   "thai": "กรอบการทำงานหรือระบบควบคุม",
-   "level": "C1",
-   "example": "A multi-agent harness for programming problems was written as a workflow.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "contamination",
-   "thai": "การปนเปื้อน",
-   "level": "B2",
-   "example": "Model contamination cannot be ruled out since training data might include test contests.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "parity",
-   "thai": "ความเท่าเทียมกัน",
-   "level": "C1",
-   "example": "The test compares the multiagent solver and the workflow to ensure functional parity.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "turbulence",
-   "thai": "ความปั่นป่วน",
-   "level": "C1",
-   "example": "The company is facing financial turbulence regarding its timeline.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "regulations",
-   "thai": "กฎข้อบังคับ",
-   "level": "B2",
-   "example": "New rules were proposed to ease aviation regulations.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "shortfall",
-   "thai": "จำนวนที่ขาดแคลน",
-   "level": "C1",
-   "example": "There will be a shortfall of about 150 launches compared to demand.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "acutely",
-   "thai": "อย่างรุนแรง, อย่างเฉียบพลัน",
-   "level": "C1",
-   "example": "The report estimates the crunch will become most acute in 2028.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "abate",
-   "thai": "บรรเทาลง, ลดลง",
-   "level": "C1",
-   "example": "It might not abate until sometime late in the 2030s.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "innocuous",
-   "thai": "ซึ่งดูเหมือนไม่เป็นอันตราย",
-   "level": "C2",
-   "example": "These innocuous building maintenance issues are flying under the radar.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "gnaw",
-   "thai": "กัดแทะ",
-   "level": "C1",
-   "example": "A rat infestation gnawing through cable fiber trunks can easily cause serious outages.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "oscillatory",
-   "thai": "ซึ่งแกว่งไปมาเป็นจังหวะ",
-   "level": "C1",
-   "example": "Grid-frequency time series worldwide exhibit a persistent 1-min oscillatory pattern.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "coherently",
-   "thai": "อย่างสอดคล้องประสานกัน",
-   "level": "C1",
-   "example": "Even benign control routines can become systemically relevant when many devices act coherently.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "alleged",
-   "thai": "ซึ่งถูกกล่าวอ้าง (แต่ยังไม่ได้รับการพิสูจน์)",
-   "level": "C1",
-   "example": "Alleged Mythos Class Anthropic Checkpoint Leak.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deterministic",
-   "thai": "ที่มีผลลัพธ์แน่นอนตามเงื่อนไขที่กำหนด",
-   "level": "C1",
-   "example": "File sizes, tensor counts, and index entries are all deterministic and self-consistent.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "payloads",
-   "thai": "ข้อมูลเนื้อหาหลักที่ส่งผ่านหรือจัดเก็บ",
-   "level": "B2",
-   "example": "Scale blocks decode their payloads within RTNE bounds.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "revert",
-   "thai": "ย้อนกลับสู่สภาพเดิมหรือยกเลิกการเปลี่ยนแปลง",
-   "level": "C1",
-   "example": "Several rather large features were reverted quite late in the beta period.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "postpone",
-   "thai": "เลื่อนออกไป",
-   "level": "B2",
-   "example": "The project could decide to postpone the release further.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "adversary",
-   "thai": "ศัตรูหรือฝ่ายตรงข้าม",
-   "level": "C1",
-   "example": "The paper presents an attack allowing adversaries to leak confidential data.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intercept",
-   "thai": "สกัดกั้นหรือดักรับข้อมูล",
-   "level": "B2",
-   "example": "An attacker can intercept transmitted raw radio signals from a distance.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "indisputable",
    "thai": "ไม่อาจโต้แย้งได้",
@@ -21423,6 +21239,206 @@
    "thai": "ที่เป็นปัญหา / ก่อให้เกิดปัญหา",
    "level": "B2",
    "example": "This patch changes functions so they can fail; can you please check the problematic places?",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hijacked",
+   "thai": "ถูกยึดครอง/ถูกแฮก",
+   "level": "B2",
+   "example": "Microsoft's official Python agent framework hijacked to distribute malware.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "verify",
+   "thai": "ตรวจสอบความถูกต้อง",
+   "level": "B2",
+   "example": "Development teams must verify their software supply chains.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unexpectedly",
+   "thai": "อย่างไม่คาดคิด",
+   "level": "B2",
+   "example": "Wrong settings can lead to unexpectedly high cloud computing bills.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "parameters",
+   "thai": "พารามิเตอร์/ตัวแปร",
+   "level": "C1",
+   "example": "Engineers need to carefully optimize their caching parameters.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "financial",
+   "thai": "เกี่ยวกับ 3 การเงิน",
+   "level": "B2",
+   "example": "Teams must avoid unnecessary financial waste.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "providers",
+   "thai": "ผู้ให้บริการ",
+   "level": "B2",
+   "example": "Cyber insurance providers now require concrete proof.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "concrete",
+   "thai": "ที่เป็นรูปธรรม",
+   "level": "B2",
+   "example": "Insurers want concrete proof you can actually recover.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "validate",
+   "thai": "ตรวจสอบความถูกต้อง",
+   "level": "C1",
+   "example": "Organizations must validate their recovery processes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "integrating",
+   "thai": "การบูรณาการ",
+   "level": "B2",
+   "example": "PowerShell 7 is heading into Windows as 5.1 hits the end of the road.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retirement",
+   "thai": "การปลดระวาง",
+   "level": "B2",
+   "example": "The retirement of version 5.1 affects administrators.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compatibility",
+   "thai": "ความเข้ากันได้",
+   "level": "C1",
+   "example": "Administrators must update scripts to maintain compatibility.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "leftover",
+   "thai": "ที่เหลืออยู่",
+   "level": "B2",
+   "example": "The routine handles 1 to 63 leftover bytes with a masked vector sequence.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "decrements",
+   "thai": "ลดยอดลงทีละขั้น",
+   "level": "C1",
+   "example": "The padding path decrements the value below zero, producing a wrong mask.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intrinsic",
+   "thai": "ฟังก์ชันเฉพาะตัวของคอมไพเลอร์ที่แปลงเป็นคำสั่งเครื่องโดยตรง",
+   "level": "C2",
+   "example": "Why is there a Base64 decoder intrinsic instead of a bounds-checked wrapper?",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "curtailment",
+   "thai": "การลดทอนหรือการจำกัดการจ่ายไฟชั่วคราว",
+   "level": "C2",
+   "example": "The rules include provisions for interim power curtailment during capacity shortages.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "paces",
+   "thai": "จังหวะหรือประสิทธิภาพการทำงาน (มักใช้ในวลี put through its paces)",
+   "level": "B2",
+   "example": "Selected customers can put the new AI hardware through its paces on the cloud.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unveils",
+   "thai": "เปิดตัว",
+   "level": "B2",
+   "example": "Nvidia unveils an HPC-optimized GPU to challenge competitors.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "scramble",
+   "thai": "เร่งรีบจัดการอย่างฉุกเฉิน",
+   "level": "B2",
+   "example": "European Commission scrambles to contain AI-assisted cyberattack.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contain",
+   "thai": "ควบคุมหรือจำกัดวงความเสียหาย",
+   "level": "B2",
+   "example": "Teams are working to contain the ongoing network compromise.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "extension",
+   "thai": "ส่วนขยาย",
+   "level": "B2",
+   "example": "Developers debated the adoption of the new desktop extension.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
