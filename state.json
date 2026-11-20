@@ -2660,1004 +2660,33 @@
   "https://www.theregister.com/security/2026/11/19/russian-national-accused-of-stalking-san-francisco-techie-in-plot-against-us-defense-tech-giant/5311126",
   "https://www.theregister.com/cyber-crime/2026/11/19/europes-biggest-gas-supplier-battling-cyberattack-with-no-timeline-for-recovery/5311026",
   "https://www.theregister.com/cyber-crime/2026/11/19/european-commission-scrambles-to-contain-ai-assisted-cyberattack/5311103",
-  "https://blog.cloudflare.com/internet-traffic-2026-us-election/"
+  "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+  "https://www.theregister.com/legal/2026/11/20/big-techs-compliance-with-eu-market-rules-is-performative-consumer-group-says/5311066",
+  "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+  "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+  "https://www.theregister.com/security/2026/11/20/germ-network-infects-android-but-in-a-good-way/5311186",
+  "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+  "https://blog.cloudflare.com/nginx2root/",
+  "https://blog.cloudflare.com/open-clairic/",
+  "https://blog.cloudflare.com/java4shell-waf-protection/",
+  "https://git-aarvin.github.io/mei/",
+  "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+  "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+  "https://github.com/openssl/openssl/pull/33652",
+  "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+  "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+  "https://www.anthropic.com/research/claude-black-hole-physics",
+  "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+  "https://blog.harrison.page/garage-door-spam/",
+  "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+  "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+  "https://github.com/onlook-dev/onlook/",
+  "https://notesbylex.com/weight-space-programming-1990s",
+  "https://regexr.com/",
+  "https://github.com/openjdk/jdk/pull/32781",
+  "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
  ],
  "stories": [
-  {
-   "id": 962,
-   "ts": "2026-11-06T06:01:24.644518+07:00",
-   "title": "Microsoft declined option for expanded compute contract in Texas with Nscale",
-   "link": "https://www.datacenterdynamics.com/en/news/microsoft-declined-option-for-expanded-compute-contract-in-texas-with-nscale/",
-   "source": "DCD",
-   "score": 9,
-   "watch": false,
-   "reason": "Microsoft declined an expansion of its Texas compute lease with Nscale, which directly impacts major AI infrastructure planning.",
-   "summary": "Microsoft passed on an option to expand its large AI data center compute agreement with Nscale in Texas. However, Nscale quickly reassigned the capacity to other major tech firms and robotics companies.",
-   "vocab": [
-    {
-     "word": "backlog",
-     "thai": "ยอดค้างส่ง / งานที่ยังค้างอยู่",
-     "level": "B2",
-     "example": "The source told DCD that the Ionic Digital site planned to expand capacity, contributing to Nscale's total backlog worth $103bn."
-    },
-    {
-     "word": "prospectus",
-     "thai": "หนังสือชี้ชวนการลงทุน",
-     "level": "C1",
-     "example": "The company published its IPO prospectus in September, which noted that Nscale has five active data centers."
-    },
-    {
-     "word": "valuation",
-     "thai": "การประเมินมูลค่ากิจการ",
-     "level": "B2",
-     "example": "Nscale is in the process of launching an initial public offering, targeting a valuation of up to $35bn."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 571,
-   "sent_ts": "2026-11-06T11:02:16.390206+07:00"
-  },
-  {
-   "id": 963,
-   "ts": "2026-11-06T06:01:24.644571+07:00",
-   "title": "Two dead and five injured following fire at Panasonic chip packaging facility in Taiwan",
-   "link": "https://www.datacenterdynamics.com/en/news/two-dead-and-five-injured-following-fire-at-panasonic-chip-packaging-facility-in-taiwan/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A fatal factory fire at a Panasonic chip packaging plant in Taiwan affects semiconductor supply chains.",
-   "summary": "A severe fire and explosion at a Panasonic semiconductor packaging facility in Taiwan resulted in two deaths and five injuries. The incident disrupted operations at the plant used for manufacturing printed circuit boards and chip materials.",
-   "vocab": [
-    {
-     "word": "debris",
-     "thai": "ซากปรักหักพัง",
-     "level": "B2",
-     "example": "Twelve vehicles and 23 firefighters were dispatched to the site, and heavy machinery was required to dig through the debris."
-    },
-    {
-     "word": "deceased",
-     "thai": "ผู้เสียชีวิต",
-     "level": "B2",
-     "example": "It was then that the deceased workers, who had previously been reported missing, were discovered."
-    },
-    {
-     "word": "flammable",
-     "thai": "ติดไฟง่าย",
-     "level": "B2",
-     "example": "Initial reports suggested the fire was caused by flammable chemical solvents used at the factory."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 964,
-   "ts": "2026-11-06T06:01:24.644602+07:00",
-   "title": "21 injured in Mackenzie, B.C., bus crash involving Iren contractor",
-   "link": "https://www.datacenterdynamics.com/en/news/21-injured-in-mackenzie-bc-bus-crash-involving-iren-contractor/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A major bus crash involving data center contractors in Canada caused multiple injuries and activated hospital emergency codes.",
-   "summary": "A bus crash carrying contractors working for an Iren data center in British Columbia left 21 people injured, three seriously. Local hospitals declared a code orange to handle the sudden influx of casualties.",
-   "vocab": [
-    {
-     "word": "chaotic",
-     "thai": "โกลาหล / วุ่นวาย",
-     "level": "B2",
-     "example": "This was a chaotic scene, and police will need time to sort out many of the details."
-    },
-    {
-     "word": "designating",
-     "thai": "กำหนด / บ่งชี้",
-     "level": "B2",
-     "example": "A code orange, designating a large number of injured, was declared at Mackenzie and District Hospital."
-    },
-    {
-     "word": "influx",
-     "thai": "การหลั่งไหลเข้ามา",
-     "level": "C1",
-     "example": "The crash occurred at 9am, while the code orange was lifted later in the day."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 7,
-   "scale": 3,
-   "credibility": 9
-  },
-  {
-   "id": 965,
-   "ts": "2026-11-06T06:01:24.644630+07:00",
-   "title": "OpenAI promises to drop NDAs and increase community transparency, following anti-data center wave",
-   "link": "https://www.datacenterdynamics.com/en/news/openai-promises-to-drop-ndas-and-increase-community-transparency-following-anti-data-center-wave/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "OpenAI's new community policies and compute campus pledges directly address the recent wave of local anti-data center pushback.",
-   "summary": "OpenAI has introduced new community pledges and dropped certain non-disclosure agreements with public officials to ease growing local resistance against AI data centers. The company also promised to help stabilize power grids and increase project transparency.",
-   "vocab": [
-    {
-     "word": "pledge",
-     "thai": "คำมั่นสัญญา",
-     "level": "B2",
-     "example": "OpenAI has detailed its community pledges for locations where it plans to build and operate data centers."
-    },
-    {
-     "word": "concretely",
-     "thai": "อย่างเป็นรูปธรรม",
-     "level": "B2",
-     "example": "More concretely, OpenAI said that it will no longer use non-disclosure agreements with public officials."
-    },
-    {
-     "word": "differentiating",
-     "thai": "การสร้างความแตกต่าง",
-     "level": "B2",
-     "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 572,
-   "sent_ts": "2026-11-06T11:02:16.958716+07:00"
-  },
-  {
-   "id": 966,
-   "ts": "2026-11-06T06:01:24.644664+07:00",
-   "title": "Caterpillar seeking to expand production of large reciprocating engines and turbines to meet huge data center demand",
-   "link": "https://www.datacenterdynamics.com/en/news/caterpillar-seeking-to-expand-production-of-large-reciprocating-engines-and-turbines-to-meet-huge-data-center-demand/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Caterpillar is significantly ramping up production of large reciprocating engines and turbines due to massive data center power demand.",
-   "summary": "Heavy machinery giant Caterpillar reported record earnings driven by soaring demand for backup and primary power generation in data centers. The company plans to expand manufacturing capacity for large engines and turbines to support AI infrastructure.",
-   "vocab": [
-    {
-     "word": "skyrocketing",
-     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "Caterpillar is looking to expand its production of large reciprocating engines to meet skyrocketing demand from the data center sector."
-    },
-    {
-     "word": "anticipate",
-     "thai": "คาดการณ์ล่วงหน้า",
-     "level": "B2",
-     "example": "We continue to anticipate full-year growth in Power Generation for both Cat reciprocating engines and Solar turbines."
-    },
-    {
-     "word": "prime",
-     "thai": "หลัก / สำคัญที่สุด",
-     "level": "B2",
-     "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 576,
-   "sent_ts": "2026-11-06T14:52:20.549379+07:00"
-  },
-  {
-   "id": 967,
-   "ts": "2026-11-06T06:01:24.644694+07:00",
-   "title": "More than half of US hyperscale data center projects face 'regulatory friction' after 2026 midterm elections - report",
-   "link": "https://www.datacenterdynamics.com/en/news/more-than-half-of-us-hyperscale-data-center-projects-face-regulatory-friction-after-2026-midterm-elections-report/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Analyst reports warn that over half of US hyperscale data center projects face regulatory friction following the midterm elections.",
-   "summary": "Recent midterm election results and newly elected governors in states like Texas and Ohio could subject over half of the US hyperscale data center pipeline to increased regulatory friction and slowdown risks. Analysts note that while a national moratorium is unlikely, subnational political hurdles will affect future capital expenditures.",
-   "vocab": [
-    {
-     "word": "friction",
-     "thai": "ความขัดแย้ง / แรงเสียดทาน",
-     "level": "B2",
-     "example": "More than half of the US hyperscale data center pipeline could face heightened regulatory friction following the midterm elections."
-    },
-    {
-     "word": "plausibly",
-     "thai": "อย่างเป็นไปได้",
-     "level": "B2",
-     "example": "Texas is already under a construction pause that analysts believe could plausibly extend into late 2027."
-    },
-    {
-     "word": "compress",
-     "thai": "บีบอัด / ลดลง",
-     "level": "C1",
-     "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 9,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.theregister.com/systems/2026/11/05/stop-dirty-datacenters-europe-wide-protests-planned-demanding-building-moratorium/5307790"
-   ],
-   "msg_id": 577,
-   "sent_ts": "2026-11-06T14:52:21.263405+07:00"
-  },
-  {
-   "id": 968,
-   "ts": "2026-11-06T06:01:24.644721+07:00",
-   "title": "Lambda to develop four-building data center campus in Lowndes County, Alabama",
-   "link": "https://www.datacenterdynamics.com/en/news/lambda-to-develop-four-building-data-center-campus-in-lowndes-county-alabama/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Lambda is planning a massive 1GW to 1.5GW AI data center campus in Alabama, representing significant cloud infrastructure expansion.",
-   "summary": "Neocloud provider Lambda has announced plans to develop a 1GW data center campus in Lowndes County, Alabama, with a multi-billion dollar investment. The project will feature closed-loop cooling and is expected to begin construction in early 2027.",
-   "vocab": [
-    {
-     "word": "aggregate",
-     "thai": "รวมทั้งหมด",
-     "level": "B2",
-     "example": "The company agrees to invest at least $16 billion in aggregate capital investment in the project."
-    },
-    {
-     "word": "pending",
-     "thai": "รอดำเนินการ / อยู่ระหว่างพิจารณา",
-     "level": "B2",
-     "example": "The project will be powered by Alabama Power, pending regulatory approval."
-    },
-    {
-     "word": "span",
-     "thai": "ครอบคลุมพื้นที่",
-     "level": "B2",
-     "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 578,
-   "sent_ts": "2026-11-06T14:52:21.922386+07:00"
-  },
-  {
-   "id": 969,
-   "ts": "2026-11-06T06:01:24.644745+07:00",
-   "title": "The White House is apparently a popular residential proxy exit spot",
-   "link": "https://www.theregister.com/security/2026/11/05/the-white-house-is-apparently-a-popular-residential-proxy-exit-spot/5307969",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Contains multiple relevant infrastructure news items including Anthropic's financial projections, server sales trends, and Linux updates.",
-   "summary": "Recent tech industry reports highlight Anthropic's massive compute expenditure forecasts alongside rising on-premise server sales for HPC and AI workloads. Additionally, various security patches and open-source infrastructure releases were announced.",
-   "vocab": [
-    {
-     "word": "harden",
-     "thai": "ทำให้ปลอดภัยยิ่งขึ้น / เสริมความมั่นคง",
-     "level": "B2",
-     "example": "The DEF CON Franklin project enlists hackers to help harden critical infrastructure."
-    },
-    {
-     "word": "immutable",
-     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
-     "level": "C1",
-     "example": "openSUSE Leap 16.1 gives Linux users the right to remain immutable with read-only systems."
-    },
-    {
-     "word": "spruce",
-     "thai": "ตกแต่งให้ดูเรียบร้อยสวยงาม",
-     "level": "C1",
-     "example": "The nearly 30-year-old desktop environment gets spruced up in the latest release."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 579,
-   "sent_ts": "2026-11-06T14:52:23.364375+07:00"
-  },
-  {
-   "id": 970,
-   "ts": "2026-11-06T11:03:23.620341+07:00",
-   "title": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching",
-   "link": "https://www.theregister.com/security/2026/11/06/threat-actor-targets-indian-fintechs-on-weekends-when-defenders-arent-watching/5308000",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "It highlights active security threats targeting financial systems during off-hours, directly relevant to security and server operations.",
-   "summary": "Threat actors are increasingly focusing attacks on Indian financial technology companies during weekends when fewer defenders are monitoring networks. This requires operations teams to maintain strict round-the-clock monitoring and automated incident response.",
-   "vocab": [
-    {
-     "word": "fintechs",
-     "thai": "บริษัทเทคโนโลยีทางการเงิน",
-     "level": "B2",
-     "example": "Threat actor targets Indian fintechs on weekends when defenders aren't watching."
-    },
-    {
-     "word": "defenders",
-     "thai": "ผู้ปกป้องระบบหรือเจ้าหน้าที่ความปลอดภัย",
-     "level": "B2",
-     "example": "Threat actor targets Indian fintechs on weekends when defenders aren’t watching."
-    },
-    {
-     "word": "monitor",
-     "thai": "ตรวจสอบเฝ้าระวัง",
-     "level": "B2",
-     "example": "Teams need to monitor infrastructure closely during weekends."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 580,
-   "sent_ts": "2026-11-06T14:52:24.012915+07:00"
-  },
-  {
-   "id": 971,
-   "ts": "2026-11-06T11:03:23.620386+07:00",
-   "title": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up",
-   "link": "https://www.theregister.com/security/2026/11/05/feds-warn-grocers-dont-chill-on-cyber-defenses-as-freezer-hacking-spree-heats-up/5307978",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "It warns about potential IoT and industrial control system vulnerabilities in commercial refrigeration.",
-   "summary": "Federal authorities are warning grocery store operators to strengthen their cybersecurity defenses against potential freezer hacking sprees. Although no confirmed attacks have hit American supermarkets yet, connected industrial refrigeration systems remain vulnerable.",
-   "vocab": [
-    {
-     "word": "defenses",
-     "thai": "ระบบป้องกัน",
-     "level": "B2",
-     "example": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up."
-    },
-    {
-     "word": "authorities",
-     "thai": "เจ้าหน้าที่ผู้มีอำนาจ",
-     "level": "B2",
-     "example": "Federal authorities issued a warning to supermarket operators."
-    },
-    {
-     "word": "spree",
-     "thai": "ช่วงเวลาของการทำกิจกรรมอย่างต่อเนื่อง (มักในทางลบ)",
-     "level": "C1",
-     "example": "Feds warn grocers: Don't chill on cyber defenses as freezer hacking spree heats up."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 972,
-   "ts": "2026-11-06T11:03:23.620436+07:00",
-   "title": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/aws-kiro-aims-to-solve-identity-crisis-by-adding-another-identity-bot-orchestrator/5307965",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "It covers major cloud provider updates regarding DevOps orchestration tools and identity management.",
-   "summary": "AWS is updating its developer tools to include bot orchestration capabilities and address identity management challenges. This development helps enterprise engineers manage complex multi-agent workflows in cloud environments.",
-   "vocab": [
-    {
-     "word": "identity",
-     "thai": "เอกลักษณ์หรือการระบุตัวตน",
-     "level": "B2",
-     "example": "AWS Kiro aims to solve identity crisis by adding another identity: bot orchestrator."
-    },
-    {
-     "word": "capabilities",
-     "thai": "ความสามารถ",
-     "level": "B2",
-     "example": "The cloud giant refits its agentic dev tools for agent orchestration capabilities."
-    },
-    {
-     "word": "orchestration",
-     "thai": "การประสานการทำงานร่วมกันของระบบ",
-     "level": "C1",
-     "example": "The cloud giant refits its agentic dev tools for agent orchestration."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 581,
-   "sent_ts": "2026-11-06T14:52:24.925901+07:00"
-  },
-  {
-   "id": 973,
-   "ts": "2026-11-06T11:03:23.620460+07:00",
-   "title": "Get root on a musl Linux system by slamming it with an overly long password",
-   "link": "https://www.theregister.com/security/2026/11/05/get-root-on-a-musl-linux-system-by-slamming-it-with-an-overly-long-password/5307910",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": false,
-   "reason": "It details a critical root privilege escalation vulnerability affecting Linux systems using the musl library.",
-   "summary": "A severe security flaw allows attackers to gain root access on musl Linux systems by submitting an overly long password. Administrators running affected configurations must apply patches immediately to prevent complete system compromise.",
-   "vocab": [
-    {
-     "word": "privilege",
-     "thai": "สิทธิ์พิเศษในการเข้าถึงระบบ",
-     "level": "C1",
-     "example": "The flaw allows local users to gain root privilege unexpectedly."
-    },
-    {
-     "word": "compromise",
-     "thai": "การถูกเจาะระบบหรือความเสียหายด้านความปลอดภัย",
-     "level": "B2",
-     "example": "Unpatched servers face a high risk of complete system compromise."
-    },
-    {
-     "word": "configuration",
-     "thai": "การตั้งค่าระบบ",
-     "level": "B2",
-     "example": "Administrators must review their server configuration for vulnerable packages."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 574,
-   "sent_ts": "2026-11-06T14:52:19.045596+07:00"
-  },
-  {
-   "id": 974,
-   "ts": "2026-11-06T11:03:23.620485+07:00",
-   "title": "October crypto-tracker hack: Access cracked, law enforcement tokens packed",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/05/october-crypto-tracker-hack-access-cracked-law-enforcement-tokens-packed/5307852",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "It reports a significant security breach involving cryptographic and law enforcement tracking tools.",
-   "summary": "Attackers breached blockchain analysis platform Chainalysis and stole sensitive law enforcement access tokens. This incident compromises specialized tracking tools frequently used by police agencies to investigate illicit crypto transactions.",
-   "vocab": [
-    {
-     "word": "investigation",
-     "thai": "การสืบสวนสอบสวน",
-     "level": "B2",
-     "example": "Law enforcement relies on these tools for ongoing financial investigation."
-    },
-    {
-     "word": "breach",
-     "thai": "การเจาะระบบหรือการละเมิดความปลอดภัย",
-     "level": "B2",
-     "example": "The crypto-tracker hack resulted in a major security breach of tracking tools."
-    },
-    {
-     "word": "sensitive",
-     "thai": "อ่อนไหว (เช่น ข้อมูลที่เป็นความลับ)",
-     "level": "B2",
-     "example": "Attackers gained unauthorized access to sensitive law enforcement tokens."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 975,
-   "ts": "2026-11-06T11:03:23.620506+07:00",
-   "title": "openSUSE Leap 16.1 gives Linux users the right to remain immutable",
-   "link": "https://www.theregister.com/os-platforms/2026/11/05/opensuse-leap-161-gives-linux-users-the-right-to-remain-immutable/5307874",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "It discusses Linux distribution updates regarding immutable root filesystems, relevant to server administrators.",
-   "summary": "The openSUSE Leap 16.1 release introduces new options for managing immutable and read-only Linux system installations. This approach helps system administrators improve server security by preventing unauthorized modifications to core binaries.",
-   "vocab": [
-    {
-     "word": "immutable",
-     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
-     "level": "C1",
-     "example": "openSUSE Leap 16.1 gives Linux users the right to remain immutable."
-    },
-    {
-     "word": "modification",
-     "thai": "การแก้ไขเปลี่ยนแปลง",
-     "level": "B2",
-     "example": "Read-only filesystems prevent unauthorized modification of system files."
-    },
-    {
-     "word": "distribution",
-     "thai": "ชุดซอฟต์แวร์ระบบปฏิบัติการลินุกซ์",
-     "level": "B2",
-     "example": "This popular Linux distribution offers conventional and read-only systems."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 976,
-   "ts": "2026-11-06T11:03:23.620531+07:00",
-   "title": "OpenAI releases GPT-6 Cyber, and promises this one stays within 'rules of engagement'",
-   "link": "https://www.theregister.com/security/2026/11/05/openai-releases-gpt-6-cyber-and-promises-this-one-stays-within-rules-of-engagement/5307855",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "It discusses automated bug-hunting AI models relevant to enterprise vulnerability management.",
-   "summary": "OpenAI has released a new specialized security model designed to assist with automated vulnerability discovery. The company claims the model strictly adheres to pre-defined testing boundaries and avoids unauthorized target exploitation.",
-   "vocab": [
-    {
-     "word": "exploitation",
-     "thai": "การใช้ช่องโหว่โจมตี",
-     "level": "C1",
-     "example": "The latest bug hunting model avoided exploiting out-of-scope services."
-    },
-    {
-     "word": "boundaries",
-     "thai": "ขอบเขต",
-     "level": "B2",
-     "example": "Automated tools must operate strictly within approved testing boundaries."
-    },
-    {
-     "word": "discovery",
-     "thai": "การค้นพบ",
-     "level": "B2",
-     "example": "The model assists engineers with automated vulnerability discovery."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 977,
-   "ts": "2026-11-06T11:03:23.620556+07:00",
-   "title": "Copilot Chat has usage caps, and Microsoft would rather you found them by hitting them",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/05/copilot-chat-has-usage-caps-and-microsoft-would-rather-you-found-them-by-hitting-them/5307814",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "It reports on usage limitations for enterprise AI assistant tools, affecting developer workflows.",
-   "summary": "Microsoft has implemented strict usage caps on its Copilot Chat service for users. Developers and system administrators must adapt their workflows to handle unexpected throttling during peak operational hours.",
-   "vocab": [
-    {
-     "word": "limitation",
-     "thai": "ข้อจำกัด",
-     "level": "B2",
-     "example": "Users must navigate around the strict usage caps and service limitations."
-    },
-    {
-     "word": "operational",
-     "thai": "เกี่ยวกับการปฏิบัติงาน",
-     "level": "B2",
-     "example": "Usage caps can disrupt normal operational workflows during peak hours."
-    },
-    {
-     "word": "unexpected",
-     "thai": "ที่ไม่คาดคิด",
-     "level": "B2",
-     "example": "Teams experienced unexpected throttling when hitting service limits."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 978,
-   "ts": "2026-11-06T11:03:35.080034+07:00",
-   "title": "Tobacco company got smoked by leaving secret recipes on a file share",
-   "link": "https://www.theregister.com/security/2026/11/05/tobacco-company-got-smoked-by-leaving-secret-recipes-on-a-file-share/5307704",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "A tobacco firm exposed confidential files on an open share, highlighting critical internal security and data management flaws.",
-   "summary": "A tobacco corporation left confidential recipes on an unprotected network file share. The company initially denied the data was genuine before deleting it.",
-   "vocab": [
-    {
-     "word": "confidential",
-     "thai": "ที่เป็นความลับ",
-     "level": "B2",
-     "example": "A tobacco firm exposed confidential files on an open share."
-    },
-    {
-     "word": "unprotected",
-     "thai": "ที่ไม่มีการป้องกัน",
-     "level": "B2",
-     "example": "The company left recipes on an unprotected network file share."
-    },
-    {
-     "word": "genuine",
-     "thai": "แท้จริง",
-     "level": "B2",
-     "example": "The firm initially denied the data was genuine."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 979,
-   "ts": "2026-11-06T11:03:35.080070+07:00",
-   "title": "Memory makers mint megabucks while buyers beg for mercy",
-   "link": "https://www.theregister.com/systems/2026/11/05/memory-makers-mint-megabucks-while-buyers-beg-for-mercy/5307846",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Massive DRAM revenue surges demonstrate extreme hardware cost pressures relevant to all infrastructure and data center procurement.",
-   "summary": "DRAM memory revenue surged by 369 percent as soaring AI demand kept hardware supplies extremely tight. Buyers face severe price increases and ongoing shortages.",
-   "vocab": [
-    {
-     "word": "surged",
-     "thai": "พุ่งสูงขึ้น",
-     "level": "B2",
-     "example": "DRAM memory revenue surged by 369 percent."
-    },
-    {
-     "word": "soaring",
-     "thai": "ที่เพิ่มขึ้นอย่างรวดเร็ว",
-     "level": "B2",
-     "example": "Soaring AI demand kept hardware supplies tight."
-    },
-    {
-     "word": "shortages",
-     "thai": "การขาดแคลน",
-     "level": "B2",
-     "example": "Buyers face severe price increases and ongoing shortages."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9
-  },
-  {
-   "id": 980,
-   "ts": "2026-11-06T11:03:35.080096+07:00",
-   "title": "Microsoft fixed Excel 2016 copy-paste bug. Then reintroduced it. Now it's fixed again",
-   "link": "https://www.theregister.com/software/2026/11/05/microsoft-fixed-excel-2016-copy-paste-bug-then-reintroduced-it-now-its-fixed-again/5307782",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Software regression issues in enterprise tools reflect common patch management pitfalls in IT administration.",
-   "summary": "Microsoft accidentally brought back an old Excel copy-paste bug shortly after issuing a fix for it. The software giant has since released another patch to resolve the issue.",
-   "vocab": [
-    {
-     "word": "accidentally",
-     "thai": "โดยบังเอิญ",
-     "level": "B2",
-     "example": "Microsoft accidentally brought back an old bug."
-    },
-    {
-     "word": "shortly",
-     "thai": "ในไม่ช้า",
-     "level": "B2",
-     "example": "This happened shortly after issuing a fix."
-    },
-    {
-     "word": "resolve",
-     "thai": "แก้ไข",
-     "level": "B2",
-     "example": "The software giant released another patch to resolve the issue."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 981,
-   "ts": "2026-11-06T11:03:35.080176+07:00",
-   "title": "Anthropic won't fix a Claude Dispatch flaw that could let attackers execute remote commands across corporate boundaries",
-   "link": "https://www.theregister.com/research/2026/11/05/anthropic-wont-fix-a-claude-dispatch-flaw-that-could-let-attackers-execute-remote-commands-across-corporate-boundaries/5307684",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "An unpatched RCE vulnerability in Claude Dispatch presents significant enterprise security risks for corporate networks.",
-   "summary": "Anthropic has chosen not to fix a Claude Dispatch flaw that enables attackers to execute remote commands. This security vulnerability could allow threat actors to cross corporate boundaries.",
-   "vocab": [
-    {
-     "word": "enables",
-     "thai": "ทำให้สามารถ",
-     "level": "B2",
-     "example": "A flaw enables attackers to execute remote commands."
-    },
-    {
-     "word": "significant",
-     "thai": "สำคัญ, มาก",
-     "level": "B2",
-     "example": "This presents significant enterprise security risks."
-    },
-    {
-     "word": "actors",
-     "thai": "ผู้ไม่หวังดีในระบบ",
-     "level": "B2",
-     "example": "This could allow threat actors to cross corporate boundaries."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 982,
-   "ts": "2026-11-06T11:03:35.080199+07:00",
-   "title": "New York's Queens Public Library battles ransomware crims: Wi-Fi, checkouts, and website go dark",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/05/new-yorks-queens-public-library-battles-ransomware-crims-wi-fi-checkouts-and-website-go-dark/5307796",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": true,
-   "reason": "A public library network being knocked offline by ransomware highlights ongoing municipal and institutional cyber attacks.",
-   "summary": "New York's Queens Public Library suffered a ransomware attack that took its website, Wi-Fi, and checkouts offline. No specific cybercrime gang has claimed responsibility for the incident yet.",
-   "vocab": [
-    {
-     "word": "suffered",
-     "thai": "ประสบกับ",
-     "level": "B2",
-     "example": "The library suffered a ransomware attack."
-    },
-    {
-     "word": "responsibility",
-     "thai": "ความรับผิดชอบ",
-     "level": "B2",
-     "example": "No gang has claimed responsibility for the incident."
-    },
-    {
-     "word": "incident",
-     "thai": "เหตุการณ์",
-     "level": "B2",
-     "example": "No specific cybercrime gang has claimed responsibility for the incident yet."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 7,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 983,
-   "ts": "2026-11-06T11:03:35.080232+07:00",
-   "title": "Agents aren’t humans (but they kinda are)",
-   "link": "https://blog.cloudflare.com/trusted-agent-delegation/",
-   "source": "Cloudflare Blog",
-   "score": 7,
-   "watch": false,
-   "reason": "The rapid growth of AI agent web traffic introduces major identity, security, and infrastructure tracking challenges for site operators.",
-   "summary": "AI agents operating on behalf of users are rapidly increasing and changing internet traffic patterns. Websites now struggle to identify, verify, and hold accountable automated intermediaries.",
-   "vocab": [
-    {
-     "word": "patterns",
-     "thai": "รูปแบบ",
-     "level": "B2",
-     "example": "AI agents are changing internet traffic patterns."
-    },
-    {
-     "word": "struggle",
-     "thai": "ดิ้นรน, พยายามอย่างยากลำบาก",
-     "level": "B2",
-     "example": "Websites now struggle to identify automated intermediaries."
-    },
-    {
-     "word": "verify",
-     "thai": "ตรวจสอบความถูกต้อง",
-     "level": "B2",
-     "example": "Sites need mechanisms to verify automated users."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 984,
-   "ts": "2026-11-06T11:03:35.080248+07:00",
-   "title": "Claude Code sends your email address to websites",
-   "link": "https://github.com/anthropics/claude-code/issues/107757",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "A privacy leak sending user emails in HTTP headers during web searches poses an immediate security flaw for developers.",
-   "summary": "Anthropic's Claude Code tool inadvertently leaked user email addresses to third-party websites via request headers during web searches. Although a built-in privacy mod was introduced to block this, users expressed frustration over the initial oversight.",
-   "vocab": [
-    {
-     "word": "inadvertently",
-     "thai": "โดยไม่ตั้งใจ",
-     "level": "C1",
-     "example": "The tool inadvertently leaked user email addresses."
-    },
-    {
-     "word": "oversight",
-     "thai": "ความผิดพลาดจากการมองข้าม",
-     "level": "C1",
-     "example": "Users expressed frustration over the initial oversight."
-    },
-    {
-     "word": "frustration",
-     "thai": "ความหงุดหงิดผิดหวัง",
-     "level": "B2",
-     "example": "Users expressed frustration over the leak."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 985,
-   "ts": "2026-11-06T11:03:48.309200+07:00",
-   "title": "Nvidia Kubernetes Engine (NVKE)",
-   "link": "https://github.com/dsx-ai-factory/nvke",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "This is major AI infrastructure news detailing NVIDIA's new Kubernetes engine for managing GPU infrastructure, directly relevant to cloud and AI ops.",
-   "summary": "NVIDIA introduced its Kubernetes Engine in preview to let platform teams manage Kubernetes clusters on their own GPU hardware. The tool provides node lifecycle management and integrates with security primitives like SPIFFE/SPIRE, though it is not yet recommended for production.",
-   "vocab": [
-    {
-     "word": "primitive",
-     "thai": "องค์ประกอบพื้นฐาน",
-     "level": "C1",
-     "example": "The platform integrates with security primitives like TPM and SPIFFE."
-    },
-    {
-     "word": "prerequisite",
-     "thai": "เงื่อนไขเบื้องต้น, สิ่งที่จำเป็นต้องมีก่อน",
-     "level": "C1",
-     "example": "Check the prerequisites and sequence for preparing nodes before installation."
-    },
-    {
-     "word": "lifecycle",
-     "thai": "วงจรชีวิต",
-     "level": "B2",
-     "example": "The software manages the workload cluster lifecycle, including upgrades and node replacement."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 986,
-   "ts": "2026-11-06T11:03:48.309231+07:00",
-   "title": "Inkling 2 Small",
-   "link": "https://thinkingmachines.ai/news/inkling-2-small/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Announcing a major new AI model with significant coding and reasoning benchmarks directly impacts AI infrastructure and deployment trends.",
-   "summary": "The company introduced Inkling 2 Small, a new Mixture-of-Experts AI model with advanced capabilities in autonomous coding and vision tasks. The model will initially be available on a hosted platform before its full weights are released under an open license.",
-   "vocab": [
-    {
-     "word": "autonomous",
-     "thai": "ซึ่งทำงานได้เองโดยอัตโนมัติ",
-     "level": "B2",
-     "example": "The new model shows strong performance in long-horizon autonomous work."
-    },
-    {
-     "word": "iteratively",
-     "thai": "แบบทำซ้ำเพื่อปรับปรุงทีละน้อย",
-     "level": "C1",
-     "example": "It can incorporate visual feedback to iteratively build and refine digital designs."
-    },
-    {
-     "word": "benchmark",
-     "thai": "เกณฑ์มาตรฐาน",
-     "level": "B2",
-     "example": "It far surpasses previous models on standard intelligence index benchmarks."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 987,
-   "ts": "2026-11-06T11:03:48.309251+07:00",
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-   "link": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-   "source": "Hacker News",
-   "score": 9,
-   "watch": false,
-   "reason": "Critical security vulnerability affecting SSH servers on Alpine Linux, directly impacting server administration, security, and operations.",
-   "summary": "Alpine Linux issued a critical security advisory warning that certain configurations of its OpenSSH server allow unauthenticated password bypass. Administrators must update their packages immediately or disable password authentication to prevent unauthorized remote access.",
-   "vocab": [
-    {
-     "word": "advisory",
-     "thai": "ประกาศเตือนภัย",
-     "level": "C1",
-     "example": "The security advisory urges administrators to update their software immediately."
-    },
-    {
-     "word": "unauthorized",
-     "thai": "ซึ่งไม่ได้รับอนุญาต",
-     "level": "B2",
-     "example": "The bug could potentially allow unauthorized remote access to the system."
-    },
-    {
-     "word": "configuration",
-     "thai": "การกำหนดค่าระบบ",
-     "level": "B2",
-     "example": "Administrators should check their SSH configuration file for vulnerable settings."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 575,
-   "sent_ts": "2026-11-06T14:52:19.828605+07:00"
-  },
-  {
-   "id": 988,
-   "ts": "2026-11-06T11:03:48.309280+07:00",
-   "title": "Closed AI models dominate the price-performance frontier",
-   "link": "https://village.dev/blog/closed-ai-models-now-dominate-the-price-performance-frontier/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Market analysis on AI model pricing and cost-performance trends, relevant for enterprise AI procurement and infrastructure cost planning.",
-   "summary": "Recent market data shows that closed-source AI models currently dominate the cost-performance frontier across almost all budget tiers. Open-weight models now capture only a tiny fraction of the best-buy market share as major labs rapidly ship cheaper proprietary tiers.",
-   "vocab": [
-    {
-     "word": "proprietary",
-     "thai": "ที่เป็นกรรมสิทธิ์, ของเอกชนเฉพาะ",
-     "level": "C1",
-     "example": "Major labs quickly followed up with cheaper proprietary options."
-    },
-    {
-     "word": "fraction",
-     "thai": "เศษส่วน, ส่วนน้อย",
-     "level": "B2",
-     "example": "Open-weight models now capture only a small fraction of the top budget tiers."
-    },
-    {
-     "word": "undercut",
-     "thai": "ตัดราคา, ขายถูกกว่า",
-     "level": "C1",
-     "example": "Closed models were able to undercut open alternatives on price and capability."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9
-  },
   {
    "id": 989,
    "ts": "2026-11-07T03:10:27.116370+07:00",
@@ -15753,7 +14782,10 @@
    "scale": 9,
    "credibility": 8,
    "msg_id": 842,
-   "sent_ts": "2026-11-19T21:52:31.322259+07:00"
+   "sent_ts": "2026-11-19T21:52:31.322259+07:00",
+   "extra_links": [
+    "https://blog.cloudflare.com/java4shell-waf-protection/"
+   ]
   },
   {
    "id": 1315,
@@ -16803,7 +15835,8 @@
    "scale": 7,
    "credibility": 9,
    "extra_links": [
-    "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143"
+    "https://www.theregister.com/ai-and-ml/2026/11/19/anthropic-throws-open-doors-at-2t-valuation-as-shares-pop-34-in-initial-trading/5311143",
+    "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/"
    ]
   },
   {
@@ -16908,11 +15941,13 @@
      "example": "China upgrades smartphone surveillance tools."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 5,
    "urgency": 5,
    "scale": 6,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 850,
+   "sent_ts": "2026-11-20T11:45:25.324649+07:00"
   },
   {
    "id": 1347,
@@ -16980,11 +16015,13 @@
      "example": "The company was acquired at the equivalent of a multi-billion dollar valuation."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 851,
+   "sent_ts": "2026-11-20T11:45:25.932215+07:00"
   },
   {
    "id": 1349,
@@ -17057,90 +16094,340 @@
    "urgency": 4,
    "scale": 7,
    "credibility": 9
+  },
+  {
+   "id": 1351,
+   "ts": "2026-11-20T11:46:14.790560+07:00",
+   "title": "US let Nvidia and AMD sell bucketloads of chips to military-linked Chinese companies",
+   "link": "https://www.theregister.com/legal/2026/11/20/us-let-nvidia-and-amd-sell-bucketloads-of-chips-to-military-linked-chinese-companies/5311200",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Geopolitical trade policy affecting AI hardware shipments has long-term supply chain relevance, but minimal immediate ops impact.",
+   "summary": "Reports indicate US export policies allowed significant sales of advanced Nvidia and AMD chips to Chinese entities linked to the military. While this highlights supply chain scrutiny, it does not immediately affect daily infrastructure operations.",
+   "vocab": [
+    {
+     "word": "bucketload",
+     "thai": "จำนวนมหาศาล",
+     "level": "C2",
+     "example": "The US let chipmakers sell bucketloads of chips overseas."
+    },
+    {
+     "word": "credentials",
+     "thai": "ข้อมูลประจำตัวหรือข้อมูลรับรองความถูกต้อง",
+     "level": "B2",
+     "example": "Stolen credentials allowed crooks to help themselves to driver license data."
+    },
+    {
+     "word": "distro",
+     "thai": "ชุดแจกจ่ายซอฟต์แวร์ (ย่อมาจาก distribution)",
+     "level": "B2",
+     "example": "The Devuan-based distro swaps Wayland for XLibre and i3."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 1352,
+   "ts": "2026-11-20T11:46:14.790604+07:00",
+   "title": "Flaws in VMware and KVM need attention, if you have time while fixing Java, PHP, and everything else",
+   "link": "https://www.theregister.com/security/2026/11/20/flaws-in-vmware-and-kvm-need-attention-if-you-have-time-while-fixing-java-php-and-everything-else/5311193",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Hypervisor vulnerabilities in VMware and KVM demand rapid operational patching across enterprise virtualization fleets.",
+   "summary": "Security advisories highlight newly discovered flaws in widely deployed hypervisors including VMware and KVM. Operations teams need to prioritize patching these foundational virtualization layers to prevent host compromise.",
+   "vocab": [
+    {
+     "word": "hypervisor",
+     "thai": "ซอฟต์แวร์ควบคุมการจำลองระบบเสมือน",
+     "level": "B2",
+     "example": "Flaws in VMware and KVM hypervisors require urgent administrator attention."
+    },
+    {
+     "word": "foothold",
+     "thai": "จุดยึดที่มั่นหรือจุดเริ่มต้นในการเจาะระบบ",
+     "level": "C1",
+     "example": "Attackers can turn an initial foothold into root access on the server."
+    },
+    {
+     "word": "tiling",
+     "thai": "การจัดหน้าต่างแบบเรียงต่อกันเป็นช่อง",
+     "level": "B2",
+     "example": "Users can switch desktop environments if the tiling window manager gets tiresome."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 7,
+   "msg_id": 852,
+   "sent_ts": "2026-11-20T11:46:15.444233+07:00"
+  },
+  {
+   "id": 1353,
+   "ts": "2026-11-20T11:46:15.444564+07:00",
+   "title": "Chase, Visa, Mastercard confirm third-party cyberattacks that may have exposed customers' info",
+   "link": "https://www.theregister.com/security/2026/11/19/chase-visa-mastercard-confirm-third-party-cyberattacks-that-may-have-exposed-customers-info/5311175",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Third-party vendor data breaches affect enterprise risk, though operations engineers rarely manage these third-party financial systems directly.",
+   "summary": "Major payment processors Chase, Visa, and Mastercard confirmed data exposure tied to third-party vendor attacks. The incident underscores third-party supply chain risks but does not disrupt core data center infrastructure.",
+   "vocab": [
+    {
+     "word": "breach",
+     "thai": "การฝ่าฝืนหรือการเจาะทำลายความปลอดภัย",
+     "level": "B2",
+     "example": "The company disclosed a third-party data breach affecting customer information."
+    },
+    {
+     "word": "vendor",
+     "thai": "ผู้จำหน่ายหรือผู้ให้บริการภายนอก",
+     "level": "B2",
+     "example": "Hackers targeted a third-party vendor to access payment networks."
+    },
+    {
+     "word": "exposure",
+     "thai": "การเปิดเผยหรือการรั่วไหลของข้อมูล",
+     "level": "B2",
+     "example": "The cyberattacks may have led to the exposure of sensitive customer records."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 1354,
+   "ts": "2026-11-20T11:46:15.444618+07:00",
+   "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+   "link": "https://blog.cloudflare.com/nginx2root/",
+   "source": "Cloudflare Blog",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical remote code execution and container escape vulnerabilities in nginx directly impact web server and proxy infrastructure globally.",
+   "summary": "Security researchers revealed five critical nginx vulnerabilities dubbed 'nginx2root' that allow remote code execution and host privilege escalation. Server operators should apply security patches immediately, although edge proxies like Cloudflare mitigate specific HTTP/2 paths.",
+   "vocab": [
+    {
+     "word": "corruption",
+     "thai": "ความเสียหายหรือการปนเปื้อนของข้อมูลในหน่วยความจำ",
+     "level": "C1",
+     "example": "Researchers identified five serious memory corruption flaws in the web server."
+    },
+    {
+     "word": "unauthenticated",
+     "thai": "โดยไม่ต้องยืนยันตัวตน",
+     "level": "B2",
+     "example": "An unauthenticated attacker can trigger a crash across affected workers."
+    },
+    {
+     "word": "terminate",
+     "thai": "สิ้นสุดหรือยุติการเชื่อมต่อ",
+     "level": "B2",
+     "example": "The proxy terminates every incoming client connection at the edge network."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 853,
+   "sent_ts": "2026-11-20T11:46:16.070572+07:00"
+  },
+  {
+   "id": 1355,
+   "ts": "2026-11-20T11:46:16.070757+07:00",
+   "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
+   "link": "https://blog.cloudflare.com/open-clairic/",
+   "source": "Cloudflare Blog",
+   "score": 5,
+   "watch": false,
+   "reason": "Cloudflare releasing open-weight document extraction models on Workers AI is useful product news, but not critical operational infrastructure.",
+   "summary": "Cloudflare published two updated open-weight AI models, Clairic and Clairic-flash, designed for fast data extraction from documents. The models are accessible on Workers AI and Hugging Face for developers automating document parsing workloads.",
+   "vocab": [
+    {
+     "word": "grounding",
+     "thai": "การอิงข้อมูลหรือหลักฐานจากแหล่งที่เชื่อถือได้",
+     "level": "C1",
+     "example": "The updated model provides better grounding of answers in the source material."
+    },
+    {
+     "word": "unstructured",
+     "thai": "ไร้รูปแบบโครงสร้างตายตัว",
+     "level": "B2",
+     "example": "The extraction model excels at parsing text from unstructured data sources."
+    },
+    {
+     "word": "offset",
+     "thai": "ชดเชยหรือหักลบกัน",
+     "level": "C1",
+     "example": "The trade-off in accuracy easily offsets the small latency cost."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1356,
+   "ts": "2026-11-20T11:48:19.573897+07:00",
+   "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+   "link": "https://github.com/openssl/openssl/pull/33652",
+   "source": "Hacker News",
+   "score": 9,
+   "watch": false,
+   "reason": "A critical CVSS 9.8 buffer overflow in OpenSSL requires immediate security review and patching across production servers.",
+   "summary": "A critical buffer overflow flaw with a 9.8 severity score was identified and patched in OpenSSL's base64 encoding routine. Infrastructure teams must track this patch closely because OpenSSL is fundamental to server and network security.",
+   "vocab": [
+    {
+     "word": "overflow",
+     "thai": "การล้นของข้อมูลในหน่วยความจำ",
+     "level": "B2",
+     "example": "This fixes the buffer overflow in EVP_EncodeBlock() by returning -1 for invalid inputs."
+    },
+    {
+     "word": "problematic",
+     "thai": "ที่เป็นปัญหา / ก่อให้เกิดปัญหา",
+     "level": "B2",
+     "example": "This patch changes functions so they can fail; can you please check the problematic places?"
+    },
+    {
+     "word": "plausibly",
+     "thai": "อย่างสมเหตุสมผลหรือมีความเป็นไปได้",
+     "level": "C1",
+     "example": "Unless these callers can plausibly trigger the error conditions, I am not sure it needs to be done."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 854,
+   "sent_ts": "2026-11-20T11:48:20.215134+07:00"
+  },
+  {
+   "id": 1357,
+   "ts": "2026-11-20T11:48:20.215335+07:00",
+   "title": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup",
+   "link": "https://www.snowflake.com/en/blog/engineering/postgres-19-repack-table-bloat/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Built-in table repacking in Postgres simplifies database disk bloat remediation for infrastructure and DevOps teams.",
+   "summary": "PostgreSQL 19 introduces a native table repack mechanism to clean up disk bloat faster without external tools. This feature reduces maintenance overhead for administrators running high-throughput database clusters.",
+   "vocab": [
+    {
+     "word": "bloat",
+     "thai": "ภาวะบวมหรือเนื้อที่ส่วนเกินที่ไม่จำเป็น",
+     "level": "B2",
+     "example": "Postgres 19 Repack: Faster, Built-In Table Bloat Cleanup."
+    },
+    {
+     "word": "repack",
+     "thai": "การจัดระเบียบและบีบอัดข้อมูลตารางใหม่",
+     "level": "B2",
+     "example": "Postgres 19 Repack provides faster table reorganization."
+    },
+    {
+     "word": "cleanup",
+     "thai": "การสะสาง / การทำความสะอาดขยะข้อมูล",
+     "level": "B2",
+     "example": "Faster, Built-In Table Bloat Cleanup helps reduce disk usage."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1358,
+   "ts": "2026-11-20T11:50:58.762242+07:00",
+   "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+   "link": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Official release of PostgreSQL 19 introducing significant database maintenance and storage management improvements.",
+   "summary": "PostgreSQL 19 has reached general availability and is already rolling out across managed cloud platforms like Neon and Lakebase. The release introduces native concurrent table repacking alongside enhanced query plan and replication controls.",
+   "vocab": [
+    {
+     "word": "concurrently",
+     "thai": "ไปพร้อมๆ กัน, ในเวลาเดียวกัน",
+     "level": "B2",
+     "example": "PostgreSQL rebuilds the table while normal reads and writes continue concurrently."
+    },
+    {
+     "word": "reclaim",
+     "thai": "เรียกคืน, กู้คืน",
+     "level": "B2",
+     "example": "REPACK reclaims space while normal reads and writes continue during most of the operation."
+    },
+    {
+     "word": "bloated",
+     "thai": "บวมโต, เทอะทะเกินขนาด",
+     "level": "C1",
+     "example": "Over time, heavily updated tables can become bloated and poorly clustered."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1359,
+   "ts": "2026-11-20T11:50:58.762367+07:00",
+   "title": "Someone reported java4shell bug in September 2026",
+   "link": "https://github.com/openjdk/jdk/pull/32781",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Underlying technical origin of a major critical JVM RCE vulnerability ('java4shell') affecting server infrastructure.",
+   "summary": "A public discussion revealed that the critical 'java4shell' remote code execution vulnerability in OpenJDK's AVX-512 Base64 decoder was originally reported months earlier before stalling. The flaw permits memory corruption on malformed padding, posing severe risks for unpatched enterprise Java runtimes.",
+   "vocab": [
+    {
+     "word": "leftover",
+     "thai": "ที่เหลืออยู่",
+     "level": "B2",
+     "example": "The routine handles 1 to 63 leftover bytes with a masked vector sequence."
+    },
+    {
+     "word": "decrements",
+     "thai": "ลดยอดลงทีละขั้น",
+     "level": "C1",
+     "example": "The padding path decrements the value below zero, producing a wrong mask."
+    },
+    {
+     "word": "intrinsic",
+     "thai": "ฟังก์ชันเฉพาะตัวของคอมไพเลอร์ที่แปลงเป็นคำสั่งเครื่องโดยตรง",
+     "level": "C2",
+     "example": "Why is there a Base64 decoder intrinsic instead of a bounds-checked wrapper?"
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 1351,
+ "next_id": 1360,
  "vocab": [
-  {
-   "word": "oblivious",
-   "thai": "ที่ไม่รู้ตัว, ไม่ได้ใส่ใจ",
-   "level": "C1",
-   "example": "Oblivious Americans stuck with bills years later.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "vulnerable",
-   "thai": "เสี่ยงต่ออันตราย / เปราะบาง",
-   "level": "B2",
-   "example": "Molly has not been updated in months and remains vulnerable to attacks fixed in mainline Signal.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "exploit",
-   "thai": "ช่องโหว่ที่ถูกใช้โจมตี",
-   "level": "C1",
-   "example": "Take for example the latest exploit disclosed in October, which was promptly fixed in Signal.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "maintain",
-   "thai": "ดูแลรักษา / ปรับปรุงให้อยู่ในสภาพดี",
-   "level": "B2",
-   "example": "Users should ensure their messaging applications are actively maintained by developers.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conjecture",
-   "thai": "ข้อสันนิษฐาน",
-   "level": "C2",
-   "example": "You can state open conjectures in math, and you can provide proofs of these claims.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accelerate",
-   "thai": "เร่งความเร็ว",
-   "level": "B2",
-   "example": "As code generation speeds up, who tests the output?",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "monetization",
-   "thai": "การสร้างรายได้",
-   "level": "C1",
-   "example": "The model ranks the victim's assets by monetization value and potential payout.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "implant",
-   "thai": "ซอฟต์แวร์ประสงค์ร้ายที่ฝังในระบบ",
-   "level": "C1",
-   "example": "VOLTA is a mature stealer implant with an optional AI-integration layer.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "triage",
    "thai": "การคัดแยกความสำคัญหรือความเร่งด่วน",
@@ -22056,6 +21343,86 @@
    "thai": "ใหญ่โตมโหฬาร",
    "level": "C1",
    "example": "AI has birthed some truly colossal supers, they just aren't on the Top500.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "timeline",
+   "thai": "กรอบเวลาหรือกำหนดการ",
+   "level": "B2",
+   "example": "Europe's biggest gas supplier is battling a cyberattack with no timeline for recovery.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propaganda",
+   "thai": "การโฆษณาชวนเชื่อ",
+   "level": "B2",
+   "example": "The US takes down Iranian propaganda sites.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "hypervisor",
+   "thai": "ซอฟต์แวร์ควบคุมการจำลองระบบเสมือน",
+   "level": "B2",
+   "example": "Flaws in VMware and KVM hypervisors require urgent administrator attention.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "foothold",
+   "thai": "จุดยึดที่มั่นหรือจุดเริ่มต้นในการเจาะระบบ",
+   "level": "C1",
+   "example": "Attackers can turn an initial foothold into root access on the server.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tiling",
+   "thai": "การจัดหน้าต่างแบบเรียงต่อกันเป็นช่อง",
+   "level": "B2",
+   "example": "Users can switch desktop environments if the tiling window manager gets tiresome.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "corruption",
+   "thai": "ความเสียหายหรือการปนเปื้อนของข้อมูลในหน่วยความจำ",
+   "level": "C1",
+   "example": "Researchers identified five serious memory corruption flaws in the web server.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overflow",
+   "thai": "การล้นของข้อมูลในหน่วยความจำ",
+   "level": "B2",
+   "example": "This fixes the buffer overflow in EVP_EncodeBlock() by returning -1 for invalid inputs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "problematic",
+   "thai": "ที่เป็นปัญหา / ก่อให้เกิดปัญหา",
+   "level": "B2",
+   "example": "This patch changes functions so they can fail; can you please check the problematic places?",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
