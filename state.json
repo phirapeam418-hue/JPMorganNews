@@ -2684,7 +2684,31 @@
   "https://notesbylex.com/weight-space-programming-1990s",
   "https://regexr.com/",
   "https://github.com/openjdk/jdk/pull/32781",
-  "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+  "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+  "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+  "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+  "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+  "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+  "https://www.datacenterdynamics.com/en/news/two-copper-thieves-slapped-with-prison-sentences-in-rockbridge-county-virginia/",
+  "https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/",
+  "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
+  "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
+  "https://www.datacenterdynamics.com/en/news/spacex-expresses-interest-in-building-data-centers-in-bulgaria/",
+  "https://www.datacenterdynamics.com/en/opinions/why-ai-hardware-supply-chains-demand-board-level-disaster-prevention/",
+  "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
+  "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
+  "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
+  "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
+  "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+  "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+  "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+  "https://www.theregister.com/security/2026/11/20/dutch-data-watchdog-highlights-safety-issues-with-ai-glasses/5311345",
+  "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+  "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
+  "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
+  "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+  "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
  ],
  "stories": [
   {
@@ -15618,9 +15642,765 @@
    "credibility": 9,
    "msg_id": 860,
    "sent_ts": "2026-11-20T15:25:02.095863+07:00"
+  },
+  {
+   "id": 1360,
+   "ts": "2026-11-21T05:29:20.496113+07:00",
+   "title": "UK competition body probes hyperscaler security and cloud lock-in",
+   "link": "https://www.datacenterdynamics.com/en/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The UK competition regulator is investigating cloud vendor lock-in and identity access management practices among hyperscalers.",
+   "summary": "The UK Competition and Markets Authority has launched an inquiry into cloud vendor lock-in and identity access management services. The investigation focuses on whether major hyperscalers like Microsoft and Amazon restrict customer flexibility and competition.",
+   "vocab": [
+    {
+     "word": "interoperability",
+     "thai": "การทำงานร่วมกันได้ของระบบ",
+     "level": "C1",
+     "example": "The regulator aims to improve the interoperability of competing cloud platforms."
+    },
+    {
+     "word": "consultation",
+     "thai": "การเปิดรับฟังความคิดเห็น",
+     "level": "B2",
+     "example": "The government launched a public consultation to gather feedback from industry stakeholders."
+    },
+    {
+     "word": "designated",
+     "thai": "ได้รับการระบุหรือแต่งตั้ง",
+     "level": "B2",
+     "example": "Microsoft is under review to see if it should be designated with strategic market status."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1361,
+   "ts": "2026-11-21T05:29:20.496154+07:00",
+   "title": "Microsoft files for 316.7-acre data center campus in Mecklenburg County, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-files-for-3167-acre-data-center-campus-in-mecklenburg-county-virginia/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft is expanding its data center footprint in Virginia with a proposed 316-acre campus.",
+   "summary": "Microsoft has applied for permits to build a new 316-acre data center campus with five buildings in Virginia. This project will expand the company's existing cloud infrastructure network in the region.",
+   "vocab": [
+    {
+     "word": "parcel",
+     "thai": "แปลงที่ดิน",
+     "level": "B2",
+     "example": "The data center campus would sit on three parcels totaling over three hundred acres."
+    },
+    {
+     "word": "conveyance",
+     "thai": "การระบายหรือขนส่ง (น้ำ/สิ่งของ)",
+     "level": "C1",
+     "example": "The developer will build stormwater conveyance systems throughout the project area."
+    },
+    {
+     "word": "longstanding",
+     "thai": "ที่มีมาอย่างยาวนาน",
+     "level": "B2",
+     "example": "The tech firm also operates a longstanding data center campus in the region."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1362,
+   "ts": "2026-11-21T05:29:20.496177+07:00",
+   "title": "CyrusOne and KEP top out 48MW data center in Osaka, Japan",
+   "link": "https://www.datacenterdynamics.com/en/news/cyrusone-and-kep-top-out-48mw-data-center-in-osaka-japan/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "CyrusOne and KEP reached a key structural milestone for their first joint data center facility in Japan.",
+   "summary": "CyrusOne and Kansai Electric Power have completed the structural frame of their 48-megawatt data center in Osaka. The facility is set to become operational in early 2028 as part of a larger infrastructure expansion in Japan.",
+   "vocab": [
+    {
+     "word": "milestone",
+     "thai": "หมุดหมายสำคัญ",
+     "level": "B2",
+     "example": "The joint venture celebrated a major construction milestone during the ceremony."
+    },
+    {
+     "word": "structural",
+     "thai": "เกี่ยวกับโครงสร้าง",
+     "level": "B2",
+     "example": "Workers completed the installation of the building's main structural frame."
+    },
+    {
+     "word": "joint venture",
+     "thai": "การร่วมทุนทางธุรกิจ",
+     "level": "B2",
+     "example": "The two companies announced a joint venture to build data centers across Japan."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1363,
+   "ts": "2026-11-21T05:29:20.496198+07:00",
+   "title": "Apollo, Ardian, Macquarie, and Rai line up to acquire Retelit data centers - report",
+   "link": "https://www.datacenterdynamics.com/en/news/apollo-ardian-macquarie-and-rai-line-up-to-acquire-retelit-data-centers-report/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Multiple global investment firms are competing to buy the data center assets of Italian telecom Retelit.",
+   "summary": "Several major investment firms are competing to acquire the data center unit of Italian telecoms operator Retelit. The deal includes nearly forty facilities across Italy with a total value estimated around 700 million euros.",
+   "vocab": [
+    {
+     "word": "subsea",
+     "thai": "ใต้ทะเล",
+     "level": "B2",
+     "example": "The telecom company operates hundreds of thousands of kilometers of subsea cables."
+    },
+    {
+     "word": "carve-out",
+     "thai": "การแยกส่วนธุรกิจออกขาย",
+     "level": "C1",
+     "example": "The infrastructure provider was created following a corporate carve-out."
+    },
+    {
+     "word": "footprint",
+     "thai": "ขอบเขตพื้นที่ให้บริการ",
+     "level": "B2",
+     "example": "The company's data center footprint spans multiple major cities across the country."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 1364,
+   "ts": "2026-11-21T05:29:20.496216+07:00",
+   "title": "Tokenomics: Putting a price on intelligence",
+   "link": "https://www.datacenterdynamics.com/en/analysis/tokenomics-putting-a-price-on-intelligence/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The article explains how token-based pricing models work and how they drive the economics of AI infrastructure.",
+   "summary": "AI computing uses tokens rather than traditional compute instances to measure and bill for processing workloads. Understanding token economics helps organizations manage the costs of running expensive GPU hardware and memory operations.",
+   "vocab": [
+    {
+     "word": "lexicon",
+     "thai": "คลังคำศัพท์เฉพาะวงการ",
+     "level": "C1",
+     "example": "The rapid growth of artificial intelligence has introduced a whole new lexicon to technology."
+    },
+    {
+     "word": "proportional",
+     "thai": "เป็นสัดส่วนกัน",
+     "level": "B2",
+     "example": "Under a token pricing model, the cost incurred is proportional to actual hardware usage."
+    },
+    {
+     "word": "sheer",
+     "thai": "มากอย่างแท้จริง (ใช้เน้นขนาดหรือปริมาณ)",
+     "level": "B2",
+     "example": "The sheer quantity of tokens processed by cloud providers every year is astonishing."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1365,
+   "ts": "2026-11-21T05:29:20.496236+07:00",
+   "title": "Two copper thieves slapped with prison sentences in Rockbridge County, Virginia",
+   "link": "https://www.datacenterdynamics.com/en/news/two-copper-thieves-slapped-with-prison-sentences-in-rockbridge-county-virginia/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Two individuals were sentenced for stealing copper from cell towers, showing physical security risks at telecom sites.",
+   "summary": "Two men in Virginia were sentenced to prison for stealing copper components from cell tower infrastructure. Physical wire theft remains a widespread and costly challenge for major telecommunications operators in the US.",
+   "vocab": [
+    {
+     "word": "restitution",
+     "thai": "การชดใช้ค่าเสียหาย",
+     "level": "C1",
+     "example": "The court ordered the defendants to pay six thousand dollars in restitution."
+    },
+    {
+     "word": "jurisdiction",
+     "thai": "เขตพื้นที่รับผิดชอบทางกฎหมาย",
+     "level": "C1",
+     "example": "The ongoing investigation linked the suspects to thefts across multiple local jurisdictions."
+    },
+    {
+     "word": "cumulative",
+     "thai": "ที่สะสมเพิ่มขึ้นเรื่อยๆ",
+     "level": "B2",
+     "example": "The cumulative financial losses caused by physical wire theft exceed millions of dollars annually."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1366,
+   "ts": "2026-11-21T05:29:20.496253+07:00",
+   "title": "Sponsored: Principles of a financeable GPUaaS SLA",
+   "link": "https://www.datacenterdynamics.com/en/opinions/principles-of-a-financeable-gpuaas-sla/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "The guide presents best practices for structuring clear and auditable service level agreements for financed GPU clouds.",
+   "summary": "Financial providers require clear and measurable service level agreements before funding GPU cloud infrastructure. Implementing telemetry-based monitoring and precise downtime definitions helps operators maintain reliable revenues and lower financial risks.",
+   "vocab": [
+    {
+     "word": "obligation",
+     "thai": "ข้อผูกมัดหรือพันธะหน้าที่",
+     "level": "B2",
+     "example": "A service level agreement defines the performance obligations of the infrastructure provider."
+    },
+    {
+     "word": "auditable",
+     "thai": "ที่สามารถ ตรวจสอบบันทึก/ความถูกต้อง ได้",
+     "level": "C1",
+     "example": "A financeable agreement must be measurable, calculable, and auditable by third parties."
+    },
+    {
+     "word": "telemetry",
+     "thai": "การส่งและบันทึกข้อมูลระยะไกลอัตโนมัติ",
+     "level": "C1",
+     "example": "Downtime should be measured using telemetry data captured by automated monitoring systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1367,
+   "ts": "2026-11-21T05:29:20.496270+07:00",
+   "title": "Lambda deploys Nvidia Photonics switches at QScale data center",
+   "link": "https://www.datacenterdynamics.com/en/news/lambda-deploys-nvidia-photonics-switches-at-qscale-data-center/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Lambda and Nvidia deployed co-packaged optics switches at scale for a large AI GPU cluster in Quebec.",
+   "summary": "Cloud provider Lambda has deployed Nvidia co-packaged optics switches to connect over 10,000 GPUs at a QScale facility in Quebec. The liquid-cooled optical switches reduce network latency and lower power consumption for large AI workloads.",
+   "vocab": [
+    {
+     "word": "deployment",
+     "thai": "การติดตั้งใช้งาน",
+     "level": "B2",
+     "example": "Lambda claims this is the world's first large-scale deployment of co-packaged optics."
+    },
+    {
+     "word": "conventional",
+     "thai": "แบบดั้งเดิมหรือแบบทั่วไป",
+     "level": "B2",
+     "example": "Unlike conventional pluggable optics, co-packaged optics place optical engines next to the switch."
+    },
+    {
+     "word": "resiliency",
+     "thai": "ความยืดหยุ่นทนทานต่อความล้มเหลว",
+     "level": "C1",
+     "example": "Co-packaged optical networking improves system resiliency and lowers overall power consumption."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1368,
+   "ts": "2026-11-21T05:29:53.478738+07:00",
+   "title": "Regulation ready",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/regulation-ready/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The article provides strategic guidance on navigating growing local moratoriums and cooling requirements for US data centers.",
+   "summary": "Over 270 U.S. jurisdictions have introduced moratoriums and strict regulations on new data center construction in 2026. Data center operators must adapt their site selection and cooling strategies early to secure permits and ensure project viability.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "คำสั่งระงับชั่วคราว",
+     "level": "C1",
+     "example": "Between January and early September 2026 alone, 270 U.S. jurisdictions adopted data center moratoriums."
+    },
+    {
+     "word": "bankability",
+     "thai": "ความคุ้มค่าทางการเงินที่จะได้รับการสนับสนุนจากธนาคาร",
+     "level": "C1",
+     "example": "The guide shows how early site and cooling decisions shape project bankability and permitting timelines."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียด",
+     "level": "C1",
+     "example": "Using source-agnostic cooling unlocks sites and eases drought scrutiny."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1369,
+   "ts": "2026-11-21T05:29:53.478808+07:00",
+   "title": "Why AI hardware supply chains demand board-level disaster prevention",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-ai-hardware-supply-chains-demand-board-level-disaster-prevention/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "It addresses critical operational risks and leak detection challenges associated with high-density liquid-cooled AI racks.",
+   "summary": "High-density liquid-cooled AI servers face severe risks from fluid leaks that can cause permanent component damage within seconds. Because operators cannot physically reach servers in massive facilities fast enough, facilities need automated mitigation mechanisms.",
+   "vocab": [
+    {
+     "word": "breach",
+     "thai": "การรั่วไหล / การแตกหัก",
+     "level": "B2",
+     "example": "A high-density AI rack is experiencing a localized fluid breach where liquid drip onto active electronics."
+    },
+    {
+     "word": "contamination",
+     "thai": "การปนเปื้อน",
+     "level": "C1",
+     "example": "Environmental micro-contamination can be a major driver of unplanned data center downtime."
+    },
+    {
+     "word": "disparate",
+     "thai": "ที่แตกต่างกันอย่างสิ้นเชิง",
+     "level": "C1",
+     "example": "Servers deployed globally face wildly disparate environmental risk profiles that HVAC systems cannot fully equalize."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1370,
+   "ts": "2026-11-21T05:29:53.478828+07:00",
+   "title": "AMD set to lease planned 5C data center in Pennsylvania",
+   "link": "https://www.datacenterdynamics.com/en/news/amd-set-to-lease-planned-5c-data-center-in-pennsylvania/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "The story outlines a major new liquid-cooled data center campus development tailored for AMD's AI infrastructure needs.",
+   "summary": "Chipmaker AMD has been identified as the anchor tenant for a planned gigascale data center campus in Pennsylvania built by 5C Group. The multi-phase development will use liquid cooling and rely on on-site fuel cell generation for primary power.",
+   "vocab": [
+    {
+     "word": "earmarked",
+     "thai": "ถูกกำหนดหรือจัดสรรไว้สำหรับ",
+     "level": "C1",
+     "example": "A large-scale data center campus is being planned in Pennsylvania, with chip firm AMD earmarked as the end-user."
+    },
+    {
+     "word": "conditional",
+     "thai": "ที่มีเงื่อนไข / ตามเงื่อนไขข้อตกลง",
+     "level": "B2",
+     "example": "The development is the subject of a conditional use application submitted by the developer."
+    },
+    {
+     "word": "build-out",
+     "thai": "การก่อสร้างขยายพื้นที่จนเต็มโครงการ",
+     "level": "B2",
+     "example": "The firm has facilities across several states that could reach more than 2GW at full build-out."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1371,
+   "ts": "2026-11-21T05:29:53.478851+07:00",
+   "title": "Egypt’s Forbes International Tower to house a data center",
+   "link": "https://www.datacenterdynamics.com/en/news/egypts-forbes-international-tower-to-house-a-data-center/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "It describes an unusual integration of a 100MW AI data center directly into a sustainable high-rise skyscraper.",
+   "summary": "Egypt's planned Forbes International Tower will house a $750 million high-density AI data center within the skyscraper structure. Operated by Trinidy AI, the facility plans to scale to 100MW using modular cooling and intelligent power management.",
+   "vocab": [
+    {
+     "word": "landmark",
+     "thai": "สถานที่ที่เป็นจุดสังเกตสำคัญ / ที่โดดเด่น",
+     "level": "B2",
+     "example": "The facility will serve as the digital backbone of the landmark tower designed by top architects."
+    },
+    {
+     "word": "embodied",
+     "thai": "ที่ฝังอยู่ในตัววัสดุหรือโครงสร้าง",
+     "level": "C1",
+     "example": "The standard certifies that both operational and embodied carbon emissions have been neutralized."
+    },
+    {
+     "word": "neutralized",
+     "thai": "ถูกชดเชยจนเป็นกลาง",
+     "level": "C1",
+     "example": "Project carbon emissions have been systematically reduced and neutralized to meet zero-carbon targets."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1372,
+   "ts": "2026-11-21T05:29:53.478868+07:00",
+   "title": "US Senate passes bill requiring data centers to pay more for grid infrastructure",
+   "link": "https://www.datacenterdynamics.com/en/news/us-senate-passes-bill-requiring-data-centers-to-pay-more-for-grid-infrastructure/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "The U.S. Senate bill significantly alters power cost allocation and environmental permitting timelines for large data centers.",
+   "summary": "The U.S. Senate passed a bipartisan energy bill that requires data centers consuming over 20MW to cover a larger portion of grid infrastructure costs. The law also streamlines environmental reviews to accelerate power transmission and energy construction projects.",
+   "vocab": [
+    {
+     "word": "bipartisan",
+     "thai": "ที่ได้รับความร่วมมือจากสองพรรคการเมือง",
+     "level": "C1",
+     "example": "The US Senate has passed a bipartisan bill that would require AI data centers to pay more for grid infrastructure."
+    },
+    {
+     "word": "overhaul",
+     "thai": "การปรับปรุงยกเครื่องใหม่ทั้งหมด",
+     "level": "C1",
+     "example": "This legislation marks a significant overhaul of the country's grid permitting process."
+    },
+    {
+     "word": "exempts",
+     "thai": "ยกเว้น",
+     "level": "C1",
+     "example": "The bill exempts a wide array of government infrastructure actions from environmental reviews."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1373,
+   "ts": "2026-11-21T05:29:53.478894+07:00",
+   "title": "Microsoft becomes first company to use Intel’s EMIB packaging technology for Azure hardware",
+   "link": "https://www.datacenterdynamics.com/en/news/microsoft-becomes-first-company-to-use-intels-emib-packaging-technology-for-azure-hardware/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Microsoft adopting Intel's advanced packaging for custom Azure chips influences cloud hardware and AI server design choices.",
+   "summary": "Microsoft has signed a multi-year deal to adopt Intel's EMIB advanced packaging technology for its custom Azure server hardware. The agreement also secures long-term supply of Intel Xeon processors optimized for cloud memory efficiency.",
+   "vocab": [
+    {
+     "word": "substrate",
+     "thai": "แผ่นฐานรองรับชิปเซมิคอนดักเตอร์",
+     "level": "C1",
+     "example": "EMIB connects multiple chiplets inside a single package by using silicon bridges embedded in the substrate."
+    },
+    {
+     "word": "heterogeneous",
+     "thai": "ที่มาจากหลากหลายแหล่งหรือต่างชนิดกัน",
+     "level": "C1",
+     "example": "Intel offers customers the flexibility of heterogeneous integration with high manufacturing scale."
+    },
+    {
+     "word": "custom",
+     "thai": "ที่สั่งทำพิเศษ / ที่ออกแบบเฉพาะ",
+     "level": "B2",
+     "example": "The chipmaker agreed to produce Microsoft-designed custom chips for Azure infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1374,
+   "ts": "2026-11-21T05:29:53.478914+07:00",
+   "title": "Signal slams door on prying AI agents to protect privacy",
+   "link": "https://www.theregister.com/security/2026/11/20/signal-slams-door-on-prying-ai-agents-to-protect-privacy/5311466",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "The digest compiles multiple operational updates including critical SharePoint vulnerabilities, Linux server OS releases, and security acquisitions.",
+   "summary": "This news summary highlights active zero-day attacks on Microsoft SharePoint and updates on Microsoft's Azure Linux 4.0 release. It also notes Canonical's plans for immutable desktop OS versions and security vendor acquisitions.",
+   "vocab": [
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถเปลี่ยนแปลงแก้ไขได้",
+     "level": "C1",
+     "example": "Canonical's goal is to make the immutable OS standard in future Ubuntu releases."
+    },
+    {
+     "word": "enlists",
+     "thai": "ขอความร่วมมือ / ดึงเข้ามาเข้าร่วม",
+     "level": "B2",
+     "example": "The project enlists security researchers to harden critical infrastructure against zero-day threats."
+    },
+    {
+     "word": "prying",
+     "thai": "ที่สอดรู้สอดเห็น / ที่แอบส่อง",
+     "level": "C1",
+     "example": "Signal slams the door on prying AI agents to protect user data and privacy."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1375,
+   "ts": "2026-11-21T05:30:27.983917+07:00",
+   "title": "Nvidia’s journey to forge the one CPU SKU to rule them all",
+   "link": "https://www.theregister.com/systems/2026/11/20/nvidias-journey-to-forge-the-one-cpu-sku-to-rule-them-all/5311438",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Hardware strategy shifts and cloud Linux distros directly impact data center hardware choices and OS provisioning.",
+   "summary": "Nvidia is developing unified CPU designs alongside high-performance GPUs while cloud-focused Linux distros continue to evolve. These developments influence how data center operators plan future server hardware and operating system deployments.",
+   "vocab": [
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "Canonical aims to make the immutable operating system standard in future releases."
+    },
+    {
+     "word": "forge",
+     "thai": "สร้างขึ้นด้วยความพยายาม",
+     "level": "B2",
+     "example": "Nvidia aims to forge a single CPU design to serve diverse workloads."
+    },
+    {
+     "word": "distro",
+     "thai": "รุ่นของระบบปฏิบัติการลินุกซ์",
+     "level": "B2",
+     "example": "Developers swapped the Wayland display server for a different Linux distro configuration."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1376,
+   "ts": "2026-11-21T05:30:27.983956+07:00",
+   "title": "China attackers deployed AI agents that autonomously found and exploited a 0-day to take over a university server",
+   "link": "https://www.theregister.com/security/2026/11/20/china-attackers-deployed-ai-agents-that-autonomously-found-and-exploited-a-0-day-to-take-over-a-university-server/5311382",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Autonomous AI tools discovering zero-day vulnerabilities present an urgent defense threat for server infrastructure.",
+   "summary": "Threat actors deployed autonomous AI agents that identified and exploited a zero-day vulnerability to compromise a server. Infrastructure security teams must prepare for automated exploit tactics targeting enterprise networks.",
+   "vocab": [
+    {
+     "word": "exploit",
+     "thai": "เจาะระบบหรือเอาเปรียบช่องโหว่",
+     "level": "B2",
+     "example": "Attackers used an automated tool to exploit a zero-day vulnerability in the server."
+    },
+    {
+     "word": "surveillance",
+     "thai": "การเฝ้าระวังหรือการสอดส่อง",
+     "level": "C1",
+     "example": "Reports indicate updates to smartphone surveillance tools in the region."
+    },
+    {
+     "word": "credential",
+     "thai": "ข้อมูลประจำตัวหรือรหัสผ่าน",
+     "level": "C1",
+     "example": "Stolen credentials allowed unauthorized access to sensitive user data."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1377,
+   "ts": "2026-11-21T05:30:27.983998+07:00",
+   "title": "AI boom threatens circuit board crunch to rival pandemic-era chip shortage",
+   "link": "https://www.theregister.com/systems/2026/11/20/ai-boom-threatens-circuit-board-crunch-to-rival-pandemic-era-chip-shortage/5311335",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Circuit board shortages affect server hardware availability and rack delivery schedules across data centers.",
+   "summary": "Surging demand for AI computing hardware threatens to trigger a supply shortage of specialized printed circuit boards. Infrastructure procurement teams may face extended lead times and cost increases for server components.",
+   "vocab": [
+    {
+     "word": "crunch",
+     "thai": "ภาวะขาดแคลนหรือวิกฤต",
+     "level": "B2",
+     "example": "The rapid growth in demand could cause a supply crunch for printed circuit boards."
+    },
+    {
+     "word": "rival",
+     "thai": "ทัดเทียมหรือแข่งขันกับ",
+     "level": "B2",
+     "example": "The impending supply shortage may rival previous chip crises."
+    },
+    {
+     "word": "critical",
+     "thai": "สำคัญยิ่งหรือวิกฤต",
+     "level": "B2",
+     "example": "Printed circuit boards are critical components in data center servers."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1378,
+   "ts": "2026-11-21T05:30:27.984017+07:00",
+   "title": "Microsoft's last non-security preview of 2026 packs a punch",
+   "link": "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Windows preview updates primarily impact end-user devices rather than core server operations.",
+   "summary": "Microsoft released its final non-security preview update of the year for Windows desktop platforms. System administrators managing desktop fleets should review optional updates before automated rollouts take effect.",
+   "vocab": [
+    {
+     "word": "rollout",
+     "thai": "การเปิดตัวหรือเริ่มใช้งาน",
+     "level": "B2",
+     "example": "The vendor announced the rollout of non-security updates before the holiday break."
+    },
+    {
+     "word": "stable",
+     "thai": "มั่นคงหรือเสถียร",
+     "level": "B2",
+     "example": "Infosec remains a stable career path despite changing technologies."
+    },
+    {
+     "word": "standard",
+     "thai": "มาตรฐาน",
+     "level": "B2",
+     "example": "The system architecture is becoming the standard across desktop environments."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1379,
+   "ts": "2026-11-21T05:30:27.984036+07:00",
+   "title": "Microsoft suggests Registry hack to work around hotpatch woes",
+   "link": "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Hotpatching failure workarounds directly concern Windows Server maintenance and patch management.",
+   "summary": "Microsoft published a registry workaround to resolve issues affecting its server hotpatching process. System administrators running Windows Server infrastructure should evaluate the fix to ensure updates apply properly.",
+   "vocab": [
+    {
+     "word": "workaround",
+     "thai": "วิธีแก้ไขปัญหาชั่วคราว",
+     "level": "B2",
+     "example": "Administrators can use a registry workaround to bypass hotpatching issues."
+    },
+    {
+     "word": "patch",
+     "thai": "โปรแกรมแก้ไขจุดบกพร่อง",
+     "level": "B2",
+     "example": "The security patch failed to completely resolve the vulnerability on local servers."
+    },
+    {
+     "word": "zero-day",
+     "thai": "ช่องโหว่ใหม่ที่ยังไม่มีแพตช์ป้องกัน",
+     "level": "B2",
+     "example": "The system came under zero-day attack before a fix was available."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1380,
+   "ts": "2026-11-21T05:30:27.984080+07:00",
+   "title": "Spy court blasts UK secrecy, forces government to admit Apple ‘backdoor’ demand",
+   "link": "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Government surveillance legislation focuses on consumer device encryption rather than data center facilities.",
+   "summary": "A UK tribunal forced the government to disclose legal demands made regarding access to encrypted devices. The ruling underscores continuous legal friction between state intelligence demands and technology privacy standards.",
+   "vocab": [
+    {
+     "word": "demand",
+     "thai": "ข้อเรียกร้องหรือคำสั่ง",
+     "level": "B2",
+     "example": "The government was forced to reveal its demand for special access into encrypted devices."
+    },
+    {
+     "word": "secrecy",
+     "thai": "การปิดเป็นความลับ",
+     "level": "B2",
+     "example": "The tribunal criticized official secrecy surrounding national surveillance policies."
+    },
+    {
+     "word": "precedent",
+     "thai": "บรรทัดฐานหรือตัวอย่างที่มีมาก่อน",
+     "level": "C1",
+     "example": "The court ruling set a significant legal precedent for tech privacy battles."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 1360,
+ "next_id": 1381,
  "vocab": [
   {
    "word": "indisputable",
