@@ -2708,7 +2708,31 @@
   "https://www.theregister.com/os-platforms/2026/11/20/microsofts-last-non-security-preview-of-2026-packs-a-punch/5311300",
   "https://www.theregister.com/os-platforms/2026/11/20/microsoft-suggests-registry-hack-to-work-around-hotpatch-woes/5311279",
   "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
-  "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292"
+  "https://www.theregister.com/security/2026/11/20/spy-court-blasts-uk-secrecy-forces-government-to-admit-apple-backdoor-demand/5311292",
+  "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+  "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+  "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+  "https://www.theregister.com/offbeat/2026/11/21/chatgpt-shrunk-down-to-run-on-a-super-nintendo/5311418",
+  "https://www.theregister.com/science/2026/11/21/nasa-mars-rover-and-orbiter-suffer-glitches/5311360",
+  "https://www.theregister.com/ai-and-ml/2026/11/20/amazons-split-personality-aws-embraces-bot-commerce-while-main-site-enforces-bans/5311493",
+  "https://www.theregister.com/devops/2026/11/20/php-86-things-are-gonna-get-a-lot-more-strict-around-here/5311486",
+  "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478",
+  "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+  "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+  "https://github.com/ShinMegamiBoson/lookatmyquant",
+  "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+  "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+  "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+  "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+  "https://jespino.github.io/gopgext/",
+  "https://blog.tymscar.com/posts/studiodisplayethernet/",
+  "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+  "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
+  "https://math.mit.edu/~drew/grh/",
+  "https://onurgumus.github.io/zero-csharp/index.html",
+  "https://thinkingmachines.ai/news/inkling-2-mini/",
+  "https://klauria.tech/klauria-art/",
+  "https://pwn.ai/upload2shell"
  ],
  "stories": [
   {
@@ -14209,7 +14233,10 @@
    "impact": 4,
    "urgency": 3,
    "scale": 7,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://www.theregister.com/cyber-crime/2026/11/20/visa-mastercard-theft-included-info-useful-for-phishing-but-not-draining-bank-accounts-say-researchers/5311478"
+   ]
   },
   {
    "id": 1354,
@@ -15204,9 +15231,300 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 1381,
+   "ts": "2026-11-22T03:18:34.050035+07:00",
+   "title": "Sponsored: The hidden efficiency gap in data center containment",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-hidden-efficiency-gap-in-data-center-containment/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly explains the operational tension between fire sprinkler codes and aisle containment leakage in data center cooling.",
+   "summary": "Data center aisle containment systems often include deliberate ceiling gaps to comply with fire sprinkler dispersal codes. This safety trade-off leads to continuous cooling air loss and higher operational energy costs.",
+   "vocab": [
+    {
+     "word": "unobtrusive",
+     "thai": "ที่ไม่สะดุดตาหรือไม่เด่นชัด",
+     "level": "C2",
+     "example": "An unobtrusive gap above the hot contained aisle has been leaking conditioned air."
+    },
+    {
+     "word": "detriment",
+     "thai": "ความเสียหายหรือผลเสีย",
+     "level": "C1",
+     "example": "No one has been measuring its detriment to cooling performance."
+    },
+    {
+     "word": "impede",
+     "thai": "ขัดขวางหรือหน่วงเหนี่ยว",
+     "level": "C1",
+     "example": "A fully sealed ceiling impedes sprinkler coverage during a fire."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1382,
+   "ts": "2026-11-22T03:18:34.050073+07:00",
+   "title": "Securing the turbine is only half the battle: the emissions monitoring path to data center power",
+   "link": "https://www.datacenterdynamics.com/en/opinions/securing-the-turbine-is-only-half-the-battle-the-emissions-monitoring-path-to-data-center-power/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights a critical bottleneck in data center on-site power generation: emissions monitoring and environmental permitting.",
+   "summary": "Securing gas turbines is not the only obstacle for behind-the-meter data center power; environmental permitting and emissions monitoring introduce major schedule risks. Continuous emissions monitoring systems (CEMS) must be planned from site selection to prevent commissioning delays.",
+   "vocab": [
+    {
+     "word": "underestimate",
+     "thai": "ประเมินค่าต่ำเกินไป",
+     "level": "B2",
+     "example": "What happens next is a different kind of problem and one that project teams often underestimate."
+    },
+    {
+     "word": "obligation",
+     "thai": "ข้อผูกพันหรือพันธกรณี",
+     "level": "B2",
+     "example": "Every point of growth from on-site combustion carries a new permitting and monitoring obligation."
+    },
+    {
+     "word": "finite",
+     "thai": "มีจำกัด",
+     "level": "C1",
+     "example": "Integrators are scaling up, but shop floor and bench capacity are finite."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1383,
+   "ts": "2026-11-22T03:18:34.050087+07:00",
+   "title": "AWS got hit by an outage too. Here's why you didn't hear about it",
+   "link": "https://www.theregister.com/columnists/2026/11/21/aws-got-hit-by-an-outage-too-heres-why-you-didnt-hear-about-it/5311511",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": true,
+   "reason": "The snippet contains only headline aggregations and no actual article body about the AWS outage.",
+   "summary": "A headline mentions an unreported AWS outage alongside various other technology and security updates. However, the article body text is missing from the feed.",
+   "vocab": [
+    {
+     "word": "phishing",
+     "thai": "การหลอกลวงทางอินเทอร์เน็ตเพื่อขโมยข้อมูลส่วนบุคคล",
+     "level": "B2",
+     "example": "Russians are posing as Signal support to launch phishing attacks."
+    },
+    {
+     "word": "immutable",
+     "thai": "ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C2",
+     "example": "Canonical aims to make the immutable OS standard in future releases."
+    },
+    {
+     "word": "excessive",
+     "thai": "มากเกินไป",
+     "level": "B2",
+     "example": "Another Linux kernel developer stepped back due to excessive workload."
+    }
+   ],
+   "status": "night",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 3
+  },
+  {
+   "id": 1384,
+   "ts": "2026-11-22T03:20:20.906221+07:00",
+   "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+   "link": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts server security ops running Ruby/Rails stacks (GitLab, Discourse, etc.) with critical unauthenticated RCE risk.",
+   "summary": "A critical heap buffer overflow dubbed ruby2shell affects Ruby's string case conversion and allows remote code execution in default Rails and Sinatra apps. Cloudflare deployed WAF mitigation rules, but administrators must urgently patch Ruby runtimes across self-hosted services.",
+   "vocab": [
+    {
+     "word": "compensating",
+     "thai": "ที่ชดเชยหรือเสริมมาตรการหลัก",
+     "level": "C1",
+     "example": "The WAF is a compensating control, not a replacement for patching."
+    },
+    {
+     "word": "adjacent",
+     "thai": "ติดกัน, ชิดกัน",
+     "level": "B2",
+     "example": "A single byte written past the end of a heap buffer can corrupt an adjacent object."
+    },
+    {
+     "word": "metadata",
+     "thai": "ข้อมูลอภิพันธุ์ (ข้อมูลที่ใช้อธิบายข้อมูลอื่น)",
+     "level": "C1",
+     "example": "A memory exploit can corrupt an adjacent object or allocator metadata."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1385,
+   "ts": "2026-11-22T03:20:20.906264+07:00",
+   "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+   "link": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+   "source": "Cloudflare Blog",
+   "score": 8,
+   "watch": false,
+   "reason": "Affects widespread PHP infrastructure and hosting environments with a critical session deserialization RCE vulnerability.",
+   "summary": "A critical 9.2-rated flaw called phpAfterShell in PHP's default session handler allows remote code execution, alongside 16 other security fixes. Cloudflare updated its WAF protections, but infrastructure operators need to upgrade PHP versions and restart workers.",
+   "vocab": [
+    {
+     "word": "smuggling",
+     "thai": "การลักลอบส่ง (ในทางเทคนิค: การซ่อนคำขอซ้อนในโพรโทคอล)",
+     "level": "C1",
+     "example": "We added three new rules, including one for a request smuggling flaw in PHP-FPM."
+    },
+    {
+     "word": "legitimate",
+     "thai": "ถูกต้องตามกฎหมายหรือปกติวิสัย",
+     "level": "B2",
+     "example": "Blocking by default could disrupt legitimate traffic."
+    },
+    {
+     "word": "interrupted",
+     "thai": "ถูกขัดจังหวะ, ถูกระงับชั่วคราว",
+     "level": "B2",
+     "example": "phpAfterShell is triggered when that write is interrupted."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 9
+  },
+  {
+   "id": 1386,
+   "ts": "2026-11-22T03:20:20.906296+07:00",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "Pertains to AI model quantization methods, which is tangential to core data center ops unless deploying local inference servers.",
+   "summary": "The LookAtMyQuant tool achieves extreme low-bit model quantization, allowing models like Inkling-2-Mini to fit into 5.4 GB of memory. It provides competitive accuracy and faster inference speeds compared to standard quant methods.",
+   "vocab": [
+    {
+     "word": "quantization",
+     "thai": "การลดทอนความละเอียดข้อมูล (ในการบีบอัดโมเดล AI)",
+     "level": "C2",
+     "example": "LookAtMyQuant is a quantization compiler."
+    },
+    {
+     "word": "calibrated",
+     "thai": "ได้รับการปรับเทียบหรือสอบเทียบ",
+     "level": "C1",
+     "example": "The recipe is post-training quantization, calibrated on the model's own worked math solutions."
+    },
+    {
+     "word": "distillation",
+     "thai": "การกลั่นกรองความรู้ (ใน AI: การถ่ายโอนความรู้จากโมเดลใหญ่สู่โมเดลเล็ก)",
+     "level": "C2",
+     "example": "4,000 steps of distillation follow, in which every layer is re-quantized."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8,
+   "extra_links": [
+    "https://thinkingmachines.ai/news/inkling-2-mini/"
+   ]
+  },
+  {
+   "id": 1387,
+   "ts": "2026-11-22T03:20:20.906360+07:00",
+   "title": "PostgreSQL Extensions in Go",
+   "link": "https://jespino.github.io/gopgext/",
+   "source": "Hacker News",
+   "score": 5,
+   "watch": false,
+   "reason": "DevOps/database tooling news for building custom PostgreSQL extensions using Go instead of C.",
+   "summary": "A new framework named gopgext allows developers to write PostgreSQL extensions directly in Go using TinyGo. It provides safe memory handling and auto-generates SQL bindings, simplifying database module maintenance.",
+   "vocab": [
+    {
+     "word": "composite",
+     "thai": "เชิงประกอบ, ผสมผสาน",
+     "level": "B2",
+     "example": "Define your own data types and composite types in Go."
+    },
+    {
+     "word": "aggregates",
+     "thai": "การรวบรวมข้อมูลหรือฟังก์ชันรวมผล",
+     "level": "C1",
+     "example": "Write triggers, aggregates, and index access methods directly."
+    },
+    {
+     "word": "coexistence",
+     "thai": "การอยู่ร่วมกัน",
+     "level": "C1",
+     "example": "Safe coexistence ensures several Go extensions load in one backend without crashing."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1388,
+   "ts": "2026-11-22T03:21:51.145228+07:00",
+   "title": "Upload2Shell · CVE-2026-125396",
+   "link": "https://pwn.ai/upload2shell",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Critical sandbox escape vulnerability in Ghostscript leading to unauthenticated RCE across print queues, web apps, and document processors.",
+   "summary": "Security researchers revealed Upload2Shell (CVE-2026-125396), a critical use-after-free vulnerability in Ghostscript that escapes its sandbox to execute arbitrary commands. The flaw impacts Linux printing services, web applications, and backend image conversion pipelines, requiring prompt patching.",
+   "vocab": [
+    {
+     "word": "flaw",
+     "thai": "ข้อบกพร่องหรือช่องโหว่",
+     "level": "B2",
+     "example": "We filed the Type 1 loader flaw upstream as Artifex Bug 709684."
+    },
+    {
+     "word": "unauthenticated",
+     "thai": "ที่ไม่ได้รับการตรวจสอบสิทธิ์หรือไม่ต้องยืนยันตัวตน",
+     "level": "C1",
+     "example": "Researchers confirmed unauthenticated remote command execution via IPP print jobs."
+    },
+    {
+     "word": "boundary",
+     "thai": "ขอบเขตหรือเส้นแบ่ง",
+     "level": "B2",
+     "example": "We found a Type 1 font-loader path out of Ghostscript's sandbox boundary."
+    }
+   ],
+   "status": "night",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 9
   }
  ],
- "next_id": 1381,
+ "next_id": 1389,
  "vocab": [
   {
    "word": "allocation",
