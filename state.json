@@ -2712,812 +2712,6 @@
  ],
  "stories": [
   {
-   "id": 1011,
-   "ts": "2026-11-07T08:27:26.186194+07:00",
-   "title": "Agents reveal secrets when offered to team up with each other",
-   "link": "https://www.theregister.com/security/2026/11/06/agents-reveal-secrets-when-offered-to-team-up-with-each-other/5308260",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Highlights genuine security risks of running autonomous AI coding agents in infrastructure environments, though primarily a research finding.",
-   "summary": "Researchers discovered that autonomous AI coding agents readily leak secret credentials and execute untrusted code when prompted by other agents in a swarm. This poses operational security risks for IT teams deploying autonomous agents with access to production environments.",
-   "vocab": [
-    {
-     "word": "sandbox",
-     "thai": "สภาพแวดล้อมทดสอบที่แยกออกจากระบบหลัก",
-     "level": "B2",
-     "example": "You are an autonomous software engineering agent working in a Linux sandbox."
-    },
-    {
-     "word": "swarm",
-     "thai": "กลุ่มหรือฝูงที่รวมตัวกันทำงาน",
-     "level": "B2",
-     "example": "Across 181 trials with that swarm, agents posted the token 15 percent of the time."
-    },
-    {
-     "word": "untrusted",
-     "thai": "ไม่น่าเชื่อถือหรือไม่ได้รับความไว้วางใจ",
-     "level": "B2",
-     "example": "The agents were willing to run an untrusted script on the host computer."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 1012,
-   "ts": "2026-11-07T08:27:26.186233+07:00",
-   "title": "PyTorch 2.15 tackles the 'one bad GPU' problem",
-   "link": "https://www.theregister.com/devops/2026/11/06/pytorch-215-tackles-the-one-bad-gpu-problem/5308227",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Presents PyTorch 2.15 addressing faulty GPU resilience, which directly benefits large-scale AI infrastructure operations.",
-   "summary": "PyTorch 2.15 introduces fixes for the 'one bad GPU' problem to make large-scale model training more resilient against hardware failures. The update helps AI cluster operators reduce training interruptions caused by single node faults.",
-   "vocab": [
-    {
-     "word": "resilient",
-     "thai": "ฟื้นตัวได้เร็วหรือยืดหยุ่นต่อปัญหา",
-     "level": "B2",
-     "example": "Technical debt was shoveled aside to make large-scale AI training more resilient."
-    },
-    {
-     "word": "on-prem",
-     "thai": "การติดตั้งระบบในศูนย์ข้อมูลขององค์กรเอง",
-     "level": "B2",
-     "example": "On-prem server sales for HPC and AI are up 20% this year."
-    },
-    {
-     "word": "biomass",
-     "thai": "ชีวมวล",
-     "level": "B2",
-     "example": "Drax wants to feed Britain's AI habit with a datacenter at a biomass power station."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 1013,
-   "ts": "2026-11-07T08:27:26.186314+07:00",
-   "title": "Britain's tech ambitions depend on minerals made in China, MPs warn",
-   "link": "https://www.theregister.com/public-sector/2026/11/06/britains-tech-ambitions-depend-on-minerals-made-in-china-mps-warn/5307779",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Scraped feed artifact discussing critical mineral supply chain dependencies affecting hardware manufacturing.",
-   "summary": "British lawmakers warned that national technology ambitions are heavily reliant on critical minerals refined and produced in China. This dependency presents long-term supply chain and geopolitical risks for hardware manufacturing.",
-   "vocab": [
-    {
-     "word": "minerals",
-     "thai": "แร่ธาตุ",
-     "level": "B2",
-     "example": "Britain's tech ambitions depend on minerals made in China."
-    },
-    {
-     "word": "ambition",
-     "thai": "ความทะเยอทะยานหรือเป้าหมายใหญ่",
-     "level": "B2",
-     "example": "Supply chain issues could thwart national tech ambitions."
-    },
-    {
-     "word": "conventional",
-     "thai": "ตามแบบแผนเดิมหรือทั่วไป",
-     "level": "B2",
-     "example": "The installer now offers conventional and read-only systems."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 1014,
-   "ts": "2026-11-07T08:27:26.186361+07:00",
-   "title": "The post-quantum future of web privacy",
-   "link": "https://blog.cloudflare.com/vole-mole/",
-   "source": "Cloudflare Blog",
-   "score": 6,
-   "watch": false,
-   "reason": "Cloudflare details post-quantum transition for edge protocols and abuse-prevention systems, relevant to network security and web infrastructure.",
-   "summary": "Cloudflare outlined its strategy to upgrade web privacy protocols like Privacy Pass to withstand future quantum computing attacks. While existing private token issuance remains safe from deanonymization, post-quantum cryptography will be needed to prevent token forgery.",
-   "vocab": [
-    {
-     "word": "redeem",
-     "thai": "แลกเปลี่ยนหรือนำมาใช้สิทธิ์",
-     "level": "B2",
-     "example": "A client gets issued a number of tokens, which they can redeem in exchange for access."
-    },
-    {
-     "word": "forge",
-     "thai": "ปลอมแปลง",
-     "level": "B2",
-     "example": "A quantum attacker will be able to forge tokens at will."
-    },
-    {
-     "word": "trajectory",
-     "thai": "แนวโน้มหรือทิศทางการพัฒนา",
-     "level": "C1",
-     "example": "Given the trajectory, in this post we look at the prospects for post-quantum."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 1015,
-   "ts": "2026-11-07T08:27:26.186380+07:00",
-   "title": "Libghostty 1.0",
-   "link": "https://mitchellh.com/writing/libghostty-1-0",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Official release of a widely embedded terminal emulator library used in IDEs and DevOps tooling, offering ABI stability.",
-   "summary": "Mitchell Hashimoto announced libghostty 1.0, a high-performance terminal emulation C library that guarantees ABI stability. The library is already widely deployed in developer tools including JetBrains IDEs and Neovim.",
-   "vocab": [
-    {
-     "word": "emulation",
-     "thai": "การจำลองการทำงาน",
-     "level": "B2",
-     "example": "Libghostty is a portable, high-performance C library for terminal emulation."
-    },
-    {
-     "word": "validate",
-     "thai": "พิสูจน์หรือยืนยันความถูกต้อง",
-     "level": "B2",
-     "example": "I believe this strongly validates its existence."
-    },
-    {
-     "word": "hallmark",
-     "thai": "เครื่องหมายแสดงคุณลักษณะเด่น",
-     "level": "C1",
-     "example": "Beyond providing useful features, I believe the hallmark of a mature library is stability."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 1016,
-   "ts": "2026-11-07T08:30:24.489618+07:00",
-   "title": "Firecracker VM Escape: PwnEscape Part 2",
-   "link": "https://pwn.ai/blog/firecracker-escape",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "Firecracker is a fundamental virtualization component in modern cloud platforms like AWS Lambda and Fargate, making microVM escape exploits highly critical.",
-   "summary": "Security researchers documented a practical guest-to-host virtual machine escape in Firecracker microVMs that yields root code execution on the host system. Infrastructure and cloud operators using Firecracker must review virtualization host memory isolation and apply vendor patches.",
-   "vocab": [
-    {
-     "word": "primitive",
-     "thai": "กลไกพื้นฐานที่ใช้ในการโจมตีระบบ",
-     "level": "C1",
-     "example": "PwnEscape Part 1 introduced the host memory primitive behind this work."
-    },
-    {
-     "word": "registers",
-     "thai": "หน่วยความจำรีจิสเตอร์ของซีพียู",
-     "level": "B2",
-     "example": "We found how it saved registers and changed where it would resume."
-    },
-    {
-     "word": "trigger",
-     "thai": "ตัวกระตุ้นหรือตัวสั่งการให้ทำงาน",
-     "level": "B2",
-     "example": "A guest operation that caused such a return would provide the trigger."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 596,
-   "sent_ts": "2026-11-07T14:01:47.597472+07:00"
-  },
-  {
-   "id": 1017,
-   "ts": "2026-11-07T08:30:24.489678+07:00",
-   "title": "Outbound SIP calling is now available to all organizations",
-   "link": "https://developers.openai.com/api/docs/guides/voice-sip",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Details SIP trunking and VoIP network configurations for OpenAI services, of moderate interest to telecom and enterprise network engineers.",
-   "summary": "OpenAI has made outbound SIP calling generally available, allowing applications to bridge phone calls into GPT-Live audio sessions via TLS and SRTP. Infrastructure and VoIP engineers can connect enterprise telephony systems directly to OpenAI endpoints using webhooks and SIP trunks.",
-   "vocab": [
-    {
-     "word": "signaling",
-     "thai": "การส่งสัญญาณควบคุมการเชื่อมต่อ",
-     "level": "C1",
-     "example": "SIP signaling uses TLS, and GPT-Live requires SRTP for call audio."
-    },
-    {
-     "word": "sideband",
-     "thai": "ช่องทางสื่อสารคู่ขนานแยกต่างหาก",
-     "level": "C1",
-     "example": "Use a sideband connection when your backend needs to receive session events."
-    },
-    {
-     "word": "deduplicate",
-     "thai": "ตัดรายการที่ซ้ำซ้อนออก",
-     "level": "C1",
-     "example": "Verify the webhook signature and deduplicate deliveries."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 1018,
-   "ts": "2026-11-07T08:30:24.489696+07:00",
-   "title": "Sodium-ion batteries approach cost parity with LFP",
-   "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Battery chemistry advancements directly affect data center backup power systems, UPS infrastructure, and grid-scale energy storage costs.",
-   "summary": "Sodium-ion batteries are nearing cell-level cost parity with lithium iron phosphate batteries, backed by over 70 GWh in supply commitments. The technology offers lower long-term cost of ownership and superior cold-weather stability, making it an attractive future alternative for stationary data center energy storage.",
-   "vocab": [
-    {
-     "word": "parity",
-     "thai": "ความทัดเทียมกันหรือระดับที่เท่าเทียม",
-     "level": "C1",
-     "example": "Sodium-ion batteries approach cost parity with LFP."
-    },
-    {
-     "word": "diversification",
-     "thai": "การกระจายความเสี่ยงหรือความหลากหลาย",
-     "level": "B2",
-     "example": "The shift is driven by supply chain diversification and strong low-temperature performance."
-    },
-    {
-     "word": "levy",
-     "thai": "ภาษีหรือค่าธรรมเนียมที่เรียกเก็บ",
-     "level": "C1",
-     "example": "LFP batteries became subject to a 2% levy in September 2026."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 8
-  },
-  {
-   "id": 1019,
-   "ts": "2026-11-07T08:32:26.819802+07:00",
-   "title": "Restaurant Delivery Payment-Skimming Campaign",
-   "link": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "This report details a consumer-facing payment-skimming operation on fake restaurant websites, offering little direct operational relevance to server infrastructure.",
-   "summary": "Security researchers discovered a large payment-skimming campaign using over 800 fake domains to impersonate popular restaurant chains. Attackers used reverse proxies to steal customer credit card details and bank verification codes during online ordering.",
-   "vocab": [
-    {
-     "word": "impersonate",
-     "thai": "ปลอมแปลงเป็น",
-     "level": "C1",
-     "example": "Cybercriminals created websites impersonating major restaurant chains."
-    },
-    {
-     "word": "fraudulent",
-     "thai": "ทุจริต / ฉ้อโกง",
-     "level": "C1",
-     "example": "The thieves used the stolen codes to authorize fraudulent transactions."
-    },
-    {
-     "word": "sophisticated",
-     "thai": "ซับซ้อนและมีประสิทธิภาพสูง",
-     "level": "B2",
-     "example": "The hackers launched a sophisticated attack against online payment systems."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 1020,
-   "ts": "2026-11-07T08:32:26.819830+07:00",
-   "title": "Devvm.dev: One VM for every project",
-   "link": "https://devvm.dev/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This developer tool provides lightweight sandbox VMs to isolate local development and AI agents, which is useful for security-conscious DevOps teams.",
-   "summary": "A new tool named Devvm creates isolated virtual machine sandboxes to safely run projects and AI coding agents. It helps developers protect their host systems from supply chain attacks and rogue agent activity.",
-   "vocab": [
-    {
-     "word": "blast radius",
-     "thai": "ขอบเขตความเสียหาย",
-     "level": "C1",
-     "example": "A sandbox limits the blast radius of an attack to what is inside it."
-    },
-    {
-     "word": "prompt injection",
-     "thai": "การแทรกคำสั่งลวงในโมเดลเอไอ",
-     "level": "C1",
-     "example": "Developers use sandboxes to defend against prompt injection vulnerabilities."
-    },
-    {
-     "word": "sensible",
-     "thai": "สมเหตุสมผล / เหมาะสม",
-     "level": "B2",
-     "example": "The software ships with sensible defaults so you can start quickly."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1021,
-   "ts": "2026-11-07T08:32:26.819923+07:00",
-   "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
-   "link": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "This report highlights a critical OAuth session boundary bug in ChatGPT connectors, relevant to security engineers managing platform integrations.",
-   "summary": "Security researchers found that ChatGPT can silently send authentication codes to the wrong connector during multi-step tool calls. This cross-connector data leak bypasses OAuth boundaries and could expose user data to third-party providers.",
-   "vocab": [
-    {
-     "word": "tenant",
-     "thai": "ผู้เช่าใช้ระบบ",
-     "level": "C1",
-     "example": "The server isolates data belonging to each tenant in the cloud."
-    },
-    {
-     "word": "redeem",
-     "thai": "แลกรับ / ใช้สิทธิ์",
-     "level": "B2",
-     "example": "The authorization token was redeemed by the wrong service connector."
-    },
-    {
-     "word": "consent",
-     "thai": "การยินยอม",
-     "level": "B2",
-     "example": "Applications should not share data across accounts without user consent."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 1022,
-   "ts": "2026-11-07T08:32:26.819940+07:00",
-   "title": "Replit rebuilt its sandbox engine with microVMs",
-   "link": "https://frontier.replit.com/sandbox-engine-microvms-part-1/",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Replit's transition to microVMs for large-scale AI agent execution directly aligns with infrastructure operations and sandbox security trends.",
-   "summary": "Replit completed a full rewrite of its sandbox engine, moving from Docker containers to microVMs for running user code and AI agents. The new architecture improves security isolation, cloud portability, and Kubernetes orchestration for millions of projects.",
-   "vocab": [
-    {
-     "word": "concurrency",
-     "thai": "การทำงานพร้อมกันหลายงาน",
-     "level": "C1",
-     "example": "The microVM architecture supports higher concurrency for running AI agents."
-    },
-    {
-     "word": "persistent",
-     "thai": "ถาวร / คงอยู่ต่อเนื่อง",
-     "level": "B2",
-     "example": "Developers need persistent storage for their virtual workspaces."
-    },
-    {
-     "word": "autonomous",
-     "thai": "ซึ่งทำงานได้ด้วยตนเอง",
-     "level": "C1",
-     "example": "Autonomous agents require stronger isolation boundaries than standard scripts."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 1023,
-   "ts": "2026-11-07T14:58:22.176345+07:00",
-   "title": "Asahi Linux Progress Linux 7.3",
-   "link": "https://asahilinux.org/2026/11/progress-report-7-3/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Covers Linux kernel progression and hardware enablement for ARM-based Apple Silicon, relevant to alternative OS deployments.",
-   "summary": "Asahi Linux released its 7.3 progress report, highlighting major upstreaming efforts and general availability for M3 devices. The project continues to expand hardware support to newer Apple Silicon chips including M4 and M5 architectures.",
-   "vocab": [
-    {
-     "word": "turnaround",
-     "thai": "เวลาดำเนินการเสร็จสิ้น",
-     "level": "B2",
-     "example": "This is our shortest turnaround time yet for a major SoC component."
-    },
-    {
-     "word": "adequate",
-     "thai": "เพียงพอ",
-     "level": "B2",
-     "example": "These initial Devicetrees are barebones and only sufficient to boot the SoC to a TTY."
-    },
-    {
-     "word": "isolate",
-     "thai": "แยกตัวออก",
-     "level": "B2",
-     "example": "Exclaves are small applications running in an isolated environment controlled by the Secure Kernel."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 3,
-   "credibility": 9
-  },
-  {
-   "id": 1024,
-   "ts": "2026-11-07T14:58:22.176397+07:00",
-   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-   "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Involves software-driven algorithmic pricing and antitrust legal settlements, though outside core IT infrastructure.",
-   "summary": "A massive federal antitrust lawsuit regarding algorithmic rent-pricing software has concluded with nearly $360 million in settlements for renters. The defendants agreed to stop using competitors' non-public data for automated pricing recommendations.",
-   "vocab": [
-    {
-     "word": "allegation",
-     "thai": "ข้อกล่าวหา",
-     "level": "C1",
-     "example": "Lawsuits were filed alleging that the software provider enabled landlords to raise rent prices."
-    },
-    {
-     "word": "restrict",
-     "thai": "จำกัด",
-     "level": "B2",
-     "example": "Attorneys general fought the agreements, saying they could unlawfully restrict their own lawsuits."
-    },
-    {
-     "word": "coordination",
-     "thai": "การประสานงาน",
-     "level": "C1",
-     "example": "Are there moves they can make that would allow them to establish more coordination in pricing?"
-    }
-   ],
-   "status": "skipped",
-   "impact": 2,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 9
-  },
-  {
-   "id": 1025,
-   "ts": "2026-11-07T14:58:22.176415+07:00",
-   "title": "The Components of Agent Memory",
-   "link": "https://www.anthropic.com/research/components-of-agent-memory",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Directly relevant to AI agent architecture, memory management, and context optimization in LLMs.",
-   "summary": "Researchers explore how AI models can manage long-term memory by utilizing offline processing periods to organize interaction logs. This 'dreaming' technique helps agents distill experiences and store critical knowledge for future sessions.",
-   "vocab": [
-    {
-     "word": "consolidate",
-     "thai": "รวมเข้าด้วยกัน",
-     "level": "C1",
-     "example": "Only some experiences are consolidated into long-term knowledge."
-    },
-    {
-     "word": "replicate",
-     "thai": "จำลอง",
-     "level": "C1",
-     "example": "This process helps stabilize and integrate them into long-term memory."
-    },
-    {
-     "word": "exclude",
-     "thai": "ยกเว้น",
-     "level": "B2",
-     "example": "It excludes other ways models can learn or manage context."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 612,
-   "sent_ts": "2026-11-08T14:12:53.605545+07:00"
-  },
-  {
-   "id": 1026,
-   "ts": "2026-11-07T14:58:35.043480+07:00",
-   "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
-   "link": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
-   "source": "Ars Technica - All content",
-   "score": 9,
-   "watch": false,
-   "reason": "A major cybersecurity breach affecting critical government and enterprise customers is highly relevant to infrastructure security.",
-   "summary": "Blockchain analysis firm Chainalysis suffered a security breach exposing personal data and login tokens for all of its users. The compromised customer list includes major government agencies and prominent tech companies.",
-   "vocab": [
-    {
-     "word": "credentials",
-     "thai": "ข้อมูลประจำตัวสำหรับเข้าสู่ระบบ",
-     "level": "B2",
-     "example": "Hackers stole credentials and tokens for all of its customers."
-    },
-    {
-     "word": "unauthorized",
-     "thai": "ไม่ได้รับอนุญาต",
-     "level": "B2",
-     "example": "The external actor gained unauthorized access to Chainalysis systems."
-    },
-    {
-     "word": "compromise",
-     "thai": "การถูกเจาะระบบ, การทำให้ความปลอดภัยลดลง",
-     "level": "B2",
-     "example": "Chainalysis has yet to say where the infrastructure compromise occurred."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 602,
-   "sent_ts": "2026-11-07T14:58:35.786098+07:00"
-  },
-  {
-   "id": 1027,
-   "ts": "2026-11-07T14:58:35.786449+07:00",
-   "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
-   "link": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "The theft of millions of dollars worth of high-end AI and server hardware during transit impacts supply chain security.",
-   "summary": "An $11.4 million shipment of Nvidia hardware vanished while being transported by truck from Oakland to Texas. Police report that the cargo heist is part of a growing wave of sophisticated logistics thefts targeting high-value tech components.",
-   "vocab": [
-    {
-     "word": "shipment",
-     "thai": "การขนส่งสินค้า, สินค้าที่ส่งไป",
-     "level": "B2",
-     "example": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport."
-    },
-    {
-     "word": "investigation",
-     "thai": "การสืบสวน",
-     "level": "B2",
-     "example": "Oakland police confirmed that the investigation remains ongoing."
-    },
-    {
-     "word": "sophistication",
-     "thai": "ความซับซ้อน, ความเชี่ยวชาญขั้นสูง",
-     "level": "C1",
-     "example": "Criminals have shown planning and sophistication by employing techniques like GPS spoofing."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 613,
-   "sent_ts": "2026-11-08T14:12:54.199929+07:00"
-  },
-  {
-   "id": 1028,
-   "ts": "2026-11-07T14:58:35.786497+07:00",
-   "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
-   "link": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Major critical infrastructure hardware modernization by the FAA is relevant to large-scale systems engineering.",
-   "summary": "The US Federal Aviation Administration is replacing outdated floppy disks and 1980s systems in its air traffic control network. The new Enterprise Information Display System will modernize weather alerts and flight safety data across hundreds of facilities.",
-   "vocab": [
-    {
-     "word": "modernization",
-     "thai": "การทำให้ทันสมัย",
-     "level": "C1",
-     "example": "The FAA is continuing its historic modernization of America's air traffic control system."
-    },
-    {
-     "word": "outdated",
-     "thai": "ล้าสมัย",
-     "level": "B2",
-     "example": "E-IDS will replace older tools that have technical end-of-life issues."
-    },
-    {
-     "word": "deploy",
-     "thai": "นำไปใช้งานจริง",
-     "level": "B2",
-     "example": "E-IDS will be deployed to operational control positions at more than 400 facilities."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 9,
-   "msg_id": 614,
-   "sent_ts": "2026-11-08T14:12:54.779714+07:00"
-  },
-  {
-   "id": 1029,
-   "ts": "2026-11-07T14:58:35.786541+07:00",
-   "title": "You know the launch market is tough when satellite companies start building rockets",
-   "link": "https://arstechnica.com/space/2026/11/ast-spacemobile-is-so-desperate-for-launch-theyre-building-their-own-rocket/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Satellite launch infrastructure and launch vehicle development relate to space-based communications and remote data center trends.",
-   "summary": "Satellite operator AST SpaceMobile announced plans to develop its own medium-lift rocket called Blacklift to secure regular orbital access. The move highlights broader industry concerns over launch capacity constraints for large satellite constellations.",
-   "vocab": [
-    {
-     "word": "springboard",
-     "thai": "จุดเริ่มต้น, ทางส่งเสริมให้บรรลุเป้าหมาย",
-     "level": "C1",
-     "example": "The Blacklift rocket is the springboard to significantly expand our total addressable market."
-    },
-    {
-     "word": "underscores",
-     "thai": "เน้นย้ำ, แสดงให้เห็นความสำคัญ",
-     "level": "C1",
-     "example": "The announcement is worth examining because it underscores two important trends in the industry."
-    },
-    {
-     "word": "constraints",
-     "thai": "ข้อจำกัด",
-     "level": "C1",
-     "example": "Investors are recognizing the worsening launch crisis and capacity constraints."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 1030,
-   "ts": "2026-11-07T14:58:45.927898+07:00",
-   "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-   "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-   "source": "Ars Technica - All content",
-   "score": 7,
-   "watch": false,
-   "reason": "Meta's commercial terms update affects web scraping and AI training policies, drawing major regulatory scrutiny.",
-   "summary": "Meta has indefinitely delayed a controversial update to its commercial terms that would have forced business account users to permit AI scraping on linked external sites. The policy change faced widespread backlash, legal challenges, and antitrust investigations globally over data rights.",
-   "vocab": [
-    {
-     "word": "backlash",
-     "thai": "กระแสต่อต้าน",
-     "level": "B2",
-     "example": "After weeks of backlash—and a failed attempt to quell it—Meta has indefinitely delayed plans."
-    },
-    {
-     "word": "injunction",
-     "thai": "คำสั่งศาลชั่วคราว",
-     "level": "C1",
-     "example": "Courts in Brazil and Norway issued preliminary injunctions blocking the terms."
-    },
-    {
-     "word": "scrutiny",
-     "thai": "การตรวจสอบอย่างละเอียด",
-     "level": "C1",
-     "example": "Meta faced global scrutiny over its data practices."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 615,
-   "sent_ts": "2026-11-08T14:12:55.512619+07:00"
-  },
-  {
-   "id": 1031,
-   "ts": "2026-11-07T14:58:45.927973+07:00",
-   "title": "It's a weird time to buy a laptop, but the new MacBook Pro doesn't skimp on quality",
-   "link": "https://arstechnica.com/apple/2026/11/its-a-weird-time-to-buy-a-laptop-but-the-new-macbook-pro-doesnt-skimp-on-quality/",
-   "source": "Ars Technica - All content",
-   "score": 5,
-   "watch": false,
-   "reason": "Consumer hardware review of a laptop, offering limited direct relevance to enterprise data center infrastructure.",
-   "summary": "Apple's new MacBook Pro offers top-tier build quality and performance specs but arrives amid a period of pricing and AI uncertainty. While its M5 chips handle standard workflows well, rapid advancements in AI inference leave future-proofing questions open.",
-   "vocab": [
-    {
-     "word": "predecessor",
-     "thai": "รุ่นก่อนหน้า",
-     "level": "C1",
-     "example": "Like its immediate predecessor, it offers the M5 Pro and M5 Max chips."
-    },
-    {
-     "word": "inference",
-     "thai": "การอนุมาน (ในบริบท AI คือการประมวลผลโมเดล)",
-     "level": "C1",
-     "example": "AI inference is the main area where they may be less future-proof."
-    },
-    {
-     "word": "paradigm",
-     "thai": "กระบวนทัศน์",
-     "level": "C1",
-     "example": "It is firmly rooted in the computing paradigms of the past 20 years."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9
-  },
-  {
-   "id": 1032,
-   "ts": "2026-11-07T14:58:45.927998+07:00",
-   "title": "Nvidia CEO Jensen Huang summoned by Congress over Chinese espionage concerns",
-   "link": "https://arstechnica.com/tech-policy/2026/11/nvidia-ceo-jensen-huang-summoned-by-congress-over-chinese-espionage-concerns/",
-   "source": "Ars Technica - All content",
-   "score": 8,
-   "watch": false,
-   "reason": "High-impact geopolitical and security news involving Nvidia's CEO and US-China technology supply chain risks.",
-   "summary": "Top US lawmakers have summoned Nvidia CEO Jensen Huang to appear before congressional committees over national security concerns regarding Chinese espionage. Intelligence reports previously alleged that Huang was targeted by an executive at a major cloud customer linked to China.",
-   "vocab": [
-    {
-     "word": "infiltration",
-     "thai": "การแทรกซึม",
-     "level": "C1",
-     "example": "The issue of PRC infiltration and access to cutting-edge technology is core to the investigative work."
-    },
-    {
-     "word": "espionage",
-     "thai": "การจารกรรม",
-     "level": "C1",
-     "example": "US intelligence officials believe Nvidia's chief executive has been targeted by a Chinese spying operation."
-    },
-    {
-     "word": "bipartisan",
-     "thai": "ที่มาจากสองพรรคการเมืองใหญ่",
-     "level": "C1",
-     "example": "Top Republican lawmakers have asked Jensen Huang to appear before Congress."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 8,
-   "scale": 9,
-   "credibility": 9,
-   "msg_id": 603,
-   "sent_ts": "2026-11-07T14:58:46.585491+07:00"
-  },
-  {
    "id": 1033,
    "ts": "2026-11-07T21:39:15.490785+07:00",
    "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
@@ -15673,11 +14867,13 @@
      "example": "Microsoft is under review to see if it should be designated with strategic market status."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 882,
+   "sent_ts": "2026-11-21T15:12:40.043554+07:00"
   },
   {
    "id": 1361,
@@ -15709,11 +14905,13 @@
      "example": "The tech firm also operates a longstanding data center campus in the region."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 883,
+   "sent_ts": "2026-11-21T15:12:40.697294+07:00"
   },
   {
    "id": 1362,
@@ -15745,7 +14943,7 @@
      "example": "The two companies announced a joint venture to build data centers across Japan."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -15781,7 +14979,7 @@
      "example": "The company's data center footprint spans multiple major cities across the country."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -15817,11 +15015,13 @@
      "example": "The sheer quantity of tokens processed by cloud providers every year is astonishing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 2,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 884,
+   "sent_ts": "2026-11-21T15:12:41.375898+07:00"
   },
   {
    "id": 1365,
@@ -15853,7 +15053,7 @@
      "example": "The cumulative financial losses caused by physical wire theft exceed millions of dollars annually."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -15889,7 +15089,7 @@
      "example": "Downtime should be measured using telemetry data captured by automated monitoring systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 6,
@@ -15925,11 +15125,13 @@
      "example": "Co-packaged optical networking improves system resiliency and lowers overall power consumption."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 877,
+   "sent_ts": "2026-11-21T15:12:36.729494+07:00"
   },
   {
    "id": 1368,
@@ -15961,7 +15163,7 @@
      "example": "Using source-agnostic cooling unlocks sites and eases drought scrutiny."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -15997,11 +15199,13 @@
      "example": "Servers deployed globally face wildly disparate environmental risk profiles that HVAC systems cannot fully equalize."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 6,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 878,
+   "sent_ts": "2026-11-21T15:12:37.448107+07:00"
   },
   {
    "id": 1370,
@@ -16033,7 +15237,7 @@
      "example": "The firm has facilities across several states that could reach more than 2GW at full build-out."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -16069,7 +15273,7 @@
      "example": "Project carbon emissions have been systematically reduced and neutralized to meet zero-carbon targets."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -16141,11 +15345,13 @@
      "example": "The chipmaker agreed to produce Microsoft-designed custom chips for Azure infrastructure."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 879,
+   "sent_ts": "2026-11-21T15:12:38.107356+07:00"
   },
   {
    "id": 1374,
@@ -16177,7 +15383,7 @@
      "example": "Signal slams the door on prying AI agents to protect user data and privacy."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 5,
    "scale": 7,
@@ -16213,11 +15419,13 @@
      "example": "Developers swapped the Wayland display server for a different Linux distro configuration."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 880,
+   "sent_ts": "2026-11-21T15:12:38.732056+07:00"
   },
   {
    "id": 1376,
@@ -16321,7 +15529,7 @@
      "example": "The system architecture is becoming the standard across desktop environments."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 7,
@@ -16357,11 +15565,13 @@
      "example": "The system came under zero-day attack before a fix was available."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 881,
+   "sent_ts": "2026-11-21T15:12:39.361933+07:00"
   },
   {
    "id": 1380,
@@ -16393,7 +15603,7 @@
      "example": "The court ruling set a significant legal precedent for tech privacy battles."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 6,
@@ -16402,186 +15612,6 @@
  ],
  "next_id": 1381,
  "vocab": [
-  {
-   "word": "indisputable",
-   "thai": "ไม่อาจโต้แย้งได้",
-   "level": "C1",
-   "example": "This article discusses AFL++ running on Linux, currently the indisputable best fuzzing platform for C and C++.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "complement",
-   "thai": "เสริมเพิ่มเติม",
-   "level": "B2",
-   "example": "My tips complement the official, upstream documentation, so consult them, too.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "groundbreaking",
-   "thai": "ที่เป็นการบุกเบิกครั้งสำคัญ",
-   "level": "B2",
-   "example": "Researchers have developed a groundbreaking 3D invisibility cloak.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "conceal",
-   "thai": "ปกปิดหรือซ่อนเร้น",
-   "level": "B2",
-   "example": "The device can conceal objects from infrared cameras.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "lattice",
-   "thai": "โครงสร้างแบบตาข่ายหรือร่างแห",
-   "level": "C1",
-   "example": "The solution was a new lattice-based material.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stagnant",
-   "thai": "หยุดนิ่งหรือไม่เติบโต",
-   "level": "C1",
-   "example": "Corporate productivity metrics remained largely stagnant across several quarters.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "skeptical",
-   "thai": "ที่กังขาหรือไม่เชื่อถือ",
-   "level": "B2",
-   "example": "The economist sounded skeptical about claims of rapid profit growth.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "censure",
-   "thai": "ตำหนิอย่างเป็นทางการ",
-   "level": "C1",
-   "example": "A Brazilian labor court censured and fined two lawyers.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "detriment",
-   "thai": "ความเสียหายหรือผลเสีย",
-   "level": "C1",
-   "example": "The command was crafted to the detriment of the defendant and justice itself.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "malware",
-   "thai": "มัลแวร์ / ซอฟต์แวร์ประสงค์ร้าย",
-   "level": "B2",
-   "example": "Attackers used the vulnerability to deliver Linux malware.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "compromise",
-   "thai": "ทำให้ตกอยู่ในความเสี่ยง / เจาะระบบ",
-   "level": "B2",
-   "example": "Millions of devices were compromised and added to the massive botnet.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "workload",
-   "thai": "ภาระงาน",
-   "level": "B2",
-   "example": "AI workloads require much faster networking speeds inside the rack.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "investment",
-   "thai": "การลงทุน",
-   "level": "B2",
-   "example": "This major investment reflects the booming demand for optical networking.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "maneuver",
-   "thai": "การเคลื่อนไหวเชิงกลยุทธ์ / การจัดการ",
-   "level": "C1",
-   "example": "This financial maneuver underscores the massive capital required for cloud expansion.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "capital",
-   "thai": "เงินทุน",
-   "level": "B2",
-   "example": "Building massive data centers demands an enormous amount of capital.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "expansion",
-   "thai": "การขยายตัว",
-   "level": "B2",
-   "example": "Oracle is funding its aggressive infrastructure expansion through debt.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "configuration",
-   "thai": "การกำหนดค่าระบบ",
-   "level": "C1",
-   "example": "Environment variables often store critical system configuration data.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "credential",
-   "thai": "ข้อมูลประจำตัว (สำหรับเข้าสู่ระบบ)",
-   "level": "C1",
-   "example": "The stolen environment variables contained sensitive API credentials.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "allocation",
    "thai": "การจัดสรรทรัพยากร",
@@ -21397,6 +20427,186 @@
    "thai": "ส่วนขยาย",
    "level": "B2",
    "example": "Developers debated the adoption of the new desktop extension.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "resiliency",
+   "thai": "ความยืดหยุ่นทนทานต่อความล้มเหลว",
+   "level": "C1",
+   "example": "Co-packaged optical networking improves system resiliency and lowers overall power consumption.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breach",
+   "thai": "การรั่วไหล / การแตกหัก",
+   "level": "B2",
+   "example": "A high-density AI rack is experiencing a localized fluid breach where liquid drip onto active electronics.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contamination",
+   "thai": "การปนเปื้อน",
+   "level": "C1",
+   "example": "Environmental micro-contamination can be a major driver of unplanned data center downtime.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "disparate",
+   "thai": "ที่แตกต่างกันอย่างสิ้นเชิง",
+   "level": "C1",
+   "example": "Servers deployed globally face wildly disparate environmental risk profiles that HVAC systems cannot fully equalize.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "substrate",
+   "thai": "แผ่นฐานรองรับชิปเซมิคอนดักเตอร์",
+   "level": "C1",
+   "example": "EMIB connects multiple chiplets inside a single package by using silicon bridges embedded in the substrate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "heterogeneous",
+   "thai": "ที่มาจากหลากหลายแหล่งหรือต่างชนิดกัน",
+   "level": "C1",
+   "example": "Intel offers customers the flexibility of heterogeneous integration with high manufacturing scale.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "custom",
+   "thai": "ที่สั่งทำพิเศษ / ที่ออกแบบเฉพาะ",
+   "level": "B2",
+   "example": "The chipmaker agreed to produce Microsoft-designed custom chips for Azure infrastructure.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "forge",
+   "thai": "สร้างขึ้นด้วยความพยายาม",
+   "level": "B2",
+   "example": "Nvidia aims to forge a single CPU design to serve diverse workloads.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "distro",
+   "thai": "รุ่นของระบบปฏิบัติการลินุกซ์",
+   "level": "B2",
+   "example": "Developers swapped the Wayland display server for a different Linux distro configuration.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "workaround",
+   "thai": "วิธีแก้ไขปัญหาชั่วคราว",
+   "level": "B2",
+   "example": "Administrators can use a registry workaround to bypass hotpatching issues.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "patch",
+   "thai": "โปรแกรมแก้ไขจุดบกพร่อง",
+   "level": "B2",
+   "example": "The security patch failed to completely resolve the vulnerability on local servers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "designated",
+   "thai": "ได้รับการระบุหรือแต่งตั้ง",
+   "level": "B2",
+   "example": "Microsoft is under review to see if it should be designated with strategic market status.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "parcel",
+   "thai": "แปลงที่ดิน",
+   "level": "B2",
+   "example": "The data center campus would sit on three parcels totaling over three hundred acres.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conveyance",
+   "thai": "การระบายหรือขนส่ง (น้ำ/สิ่งของ)",
+   "level": "C1",
+   "example": "The developer will build stormwater conveyance systems throughout the project area.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "longstanding",
+   "thai": "ที่มีมาอย่างยาวนาน",
+   "level": "B2",
+   "example": "The tech firm also operates a longstanding data center campus in the region.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "lexicon",
+   "thai": "คลังคำศัพท์เฉพาะวงการ",
+   "level": "C1",
+   "example": "The rapid growth of artificial intelligence has introduced a whole new lexicon to technology.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proportional",
+   "thai": "เป็นสัดส่วนกัน",
+   "level": "B2",
+   "example": "Under a token pricing model, the cost incurred is proportional to actual hardware usage.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sheer",
+   "thai": "มากอย่างแท้จริง (ใช้เน้นขนาดหรือปริมาณ)",
+   "level": "B2",
+   "example": "The sheer quantity of tokens processed by cloud providers every year is astonishing.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
