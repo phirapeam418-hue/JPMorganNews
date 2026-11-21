@@ -2712,410 +2712,6 @@
  ],
  "stories": [
   {
-   "id": 1033,
-   "ts": "2026-11-07T21:39:15.490785+07:00",
-   "title": "NHS breach helpline left staff carrying a 'significant emotional burden'",
-   "link": "https://www.theregister.com/security/2026/11/07/nhs-breach-helpline-left-staff-carrying-a-significant-emotional-burden/5308201",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Reports on the operational and emotional fallout of a major healthcare data breach and its support helpline.",
-   "summary": "An NHS trust review revealed that staff running a helpline after a severe data breach suffered significant emotional strain due to poor preparation. The incident highlights operational failures when handling fallout from leaked sensitive information.",
-   "vocab": [
-    {
-     "word": "safeguarding",
-     "thai": "การปกป้องคุ้มครองสวัสดิภาพ",
-     "level": "C1",
-     "example": "Call handlers had to make safeguarding assessments without proper training."
-    },
-    {
-     "word": "sensitivity",
-     "thai": "ความละเอียดอ่อน",
-     "level": "B2",
-     "example": "Callers were distressed by the sensitivity of the disclosures."
-    },
-    {
-     "word": "circulated",
-     "thai": "เผยแพร่, ส่งต่อ",
-     "level": "B2",
-     "example": "The review and its findings have since been circulated among staff."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 1034,
-   "ts": "2026-11-07T21:39:15.490837+07:00",
-   "title": "Windows takes a break at UK motorway services",
-   "link": "https://www.theregister.com/offbeat/2026/11/07/windows-takes-a-break-at-uk-motorway-services/5307862",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Covers multiple important IT, infrastructure, AI hardware trends, and zero-day security vulnerabilities affecting servers.",
-   "summary": "A weekly industry roundup highlights rising on-premises server costs, unpatched SharePoint zero-day vulnerabilities, and new Linux developments. These updates impact infrastructure budgets and server security management.",
-   "vocab": [
-    {
-     "word": "resilient",
-     "thai": "มีความยืดหยุ่น, ทนทาน",
-     "level": "C1",
-     "example": "Technical debt was set aside to make large-scale AI training more resilient."
-    },
-    {
-     "word": "unpatched",
-     "thai": "ที่ยังไม่ได้แก้ไขช่องโหว่",
-     "level": "B2",
-     "example": "Microsoft patches failed to fix on-prem SharePoint, which is now under attack."
-    },
-    {
-     "word": "conventional",
-     "thai": "แบบดั้งเดิม",
-     "level": "B2",
-     "example": "One installer now offers conventional and read-only systems as separate options."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 604,
-   "sent_ts": "2026-11-07T21:39:16.288023+07:00"
-  },
-  {
-   "id": 1035,
-   "ts": "2026-11-07T21:39:16.288415+07:00",
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "Exposes undocumented background data aggregation and AI knowledge graph collection mechanisms in macOS.",
-   "summary": "Security researchers discovered that modern macOS versions run built-in background services that construct detailed personal relationship graphs. This process cross-references local databases to feed personal AI features.",
-   "vocab": [
-    {
-     "word": "undocumented",
-     "thai": "ที่ไม่มีการบันทึกเอกสารหรืออธิบายไว้",
-     "level": "C1",
-     "example": "Every Mac ships with an undocumented family member classifier."
-    },
-    {
-     "word": "inference",
-     "thai": "การอนุมาน, การสรุปผล",
-     "level": "C1",
-     "example": "There is little documentation about the kinship inference discussed below."
-    },
-    {
-     "word": "aggregate",
-     "thai": "รวบรวม, สะสม",
-     "level": "C1",
-     "example": "This graph is built on device by aggregating behavioral signals."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 8,
-   "msg_id": 616,
-   "sent_ts": "2026-11-08T14:12:56.100147+07:00"
-  },
-  {
-   "id": 1036,
-   "ts": "2026-11-07T21:39:16.288458+07:00",
-   "title": "Building the NBC News Big Board",
-   "link": "https://ejfox.com/projects/nbc-big-board",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Describes the engineering workflow and remote deployment pipeline behind a major live broadcast election dashboard.",
-   "summary": "An engineer explains the high-stress deployment workflow used to update a live television election results board in real-time. The system relies on standard web technologies, JSON configs, and SSH server management during broadcasts.",
-   "vocab": [
-    {
-     "word": "prototype",
-     "thai": "ต้นแบบ",
-     "level": "B2",
-     "example": "It started as a prototype I made in January to explore election results."
-    },
-    {
-     "word": "deployment",
-     "thai": "การนำไปใช้งานจริง",
-     "level": "C1",
-     "example": "The workflow involved pushing updates to the live server via SSH."
-    },
-    {
-     "word": "perked",
-     "thai": "ตั้งใจฟังอย่างระมัดระวัง",
-     "level": "C1",
-     "example": "You keep your ears perked for your own name during live broadcasts."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 4,
-   "credibility": 8
-  },
-  {
-   "id": 1037,
-   "ts": "2026-11-07T21:39:16.288485+07:00",
-   "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
-   "link": "https://github.com/hyphatech/spindle",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Introduces a new high-performance, RFC-strict web framework designed for modern OCaml developers.",
-   "summary": "Developers released Spindle, a new web framework built natively for OCaml 5 with multicore support and strict protocol compliance. It offers end-to-end type safety and automated OpenAPI documentation generation.",
-   "vocab": [
-    {
-     "word": "compliant",
-     "thai": "ที่เป็นไปตามกฎระเบียบ",
-     "level": "C1",
-     "example": "The framework is strictly compliant with recent HTTP and WebSocket RFC standards."
-    },
-    {
-     "word": "endpoint",
-     "thai": "จุดเชื่อมต่อบริการเครือข่าย",
-     "level": "B2",
-     "example": "Each endpoint lists its schema and every error it may answer."
-    },
-    {
-     "word": "native",
-     "thai": "ที่มีมาแต่เดิม, ทำงานโดยตรงบนระบบ",
-     "level": "B2",
-     "example": "The library is Eio-native and multicore by design."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 618,
-   "sent_ts": "2026-11-08T14:12:57.285502+07:00"
-  },
-  {
-   "id": 1038,
-   "ts": "2026-11-07T21:39:25.049276+07:00",
-   "title": "ToothPaste",
-   "link": "https://brisk4t.github.io/blog/toothpaste/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "An open-source hardware project combining Bluetooth and USB HID for pentesting and device control, relevant to security and systems engineering.",
-   "summary": "ToothPaste V2 is a hardware-backed clipboard tool that uses an ESP32-S3 and Web-BLE to transmit encrypted keystrokes over USB. It provides a quick way to control air-gapped or restricted machines without installing third-party software.",
-   "vocab": [
-    {
-     "word": "transmit",
-     "thai": "ส่งสัญญาณ",
-     "level": "B2",
-     "example": "ToothPaste allows a user to transmit AES-256 encrypted keyboard and mouse commands."
-    },
-    {
-     "word": "compatible",
-     "thai": "เข้ากันได้",
-     "level": "B2",
-     "example": "Almost every USB-host compatible device supports using a keyboard."
-    },
-    {
-     "word": "firmware",
-     "thai": "เฟิร์มแวร์",
-     "level": "C1",
-     "example": "Flash the latest .bin firmware file using a flasher utility."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 3,
-   "credibility": 7
-  },
-  {
-   "id": 1039,
-   "ts": "2026-11-07T21:39:25.049356+07:00",
-   "title": "British soldier ignored order to pull his SIM card, then got blackmailed",
-   "link": "https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/",
-   "source": "Ars Technica - All content",
-   "score": 6,
-   "watch": false,
-   "reason": "A military operational security failure resulting in blackmail and a court-martial, highlighting the critical importance of mobile security.",
-   "summary": "A British soldier was court-martialed and sentenced to 10 months in detention after ignoring orders to remove his SIM card during a deployment near the Russian border. His phone was subsequently hacked, exposing him to extortion.",
-   "vocab": [
-    {
-     "word": "disobey",
-     "thai": "ขัดคำสั่ง",
-     "level": "B2",
-     "example": "A British soldier disobeyed a direct order to remove the SIM card."
-    },
-    {
-     "word": "blackmail",
-     "thai": "แบล็กเมล์, ขู่กรรโชก",
-     "level": "B2",
-     "example": "Nude photos of himself were stolen and used as blackmail against him."
-    },
-    {
-     "word": "deployment",
-     "thai": "การส่งกำลังพลประจำการ",
-     "level": "C1",
-     "example": "Before being deployed to a part of Estonia near the Russian border."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 3,
-   "credibility": 9,
-   "msg_id": 619,
-   "sent_ts": "2026-11-08T14:12:57.860634+07:00"
-  },
-  {
-   "id": 1040,
-   "ts": "2026-11-08T02:44:02.985388+07:00",
-   "title": "Sponsored: Water stewardship starts with design, not offsets",
-   "link": "https://www.datacenterdynamics.com/en/opinions/water-stewardship-starts-with-design-not-offsets/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored opinion piece discussing cooling system design and water sustainability strategies in modern data centers.",
-   "summary": "Data center developer Rowan outlines design strategies to reduce water consumption, arguing that water stewardship begins with architectural cooling choices rather than carbon or water offsets. Closed-loop, air-cooled systems can significantly mitigate water stress in arid regions like Texas before operations even begin.",
-   "vocab": [
-    {
-     "word": "stewardship",
-     "thai": "การดูแลจัดการอย่างรับผิดชอบ",
-     "level": "C1",
-     "example": "Water stewardship starts with design, not offsets."
-    },
-    {
-     "word": "hydrologic",
-     "thai": "ทางอุทกวิทยา (เกี่ยวกับวัฏจักรและการกระจายตัวของน้ำ)",
-     "level": "C2",
-     "example": "Regional demands and hydrologic conditions vary considerably by geography."
-    },
-    {
-     "word": "replenish",
-     "thai": "เติมเต็ม, เติมให้สมบูรณ์",
-     "level": "C1",
-     "example": "The most effective gallon of water to replenish is often the gallon that did not need to be consumed."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 6
-  },
-  {
-   "id": 1041,
-   "ts": "2026-11-08T02:44:02.985446+07:00",
-   "title": "Fireworks says you’re wasting money on AI unless you’re using all the models",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/07/fireworks-says-youre-wasting-money-on-ai-unless-youre-using-all-the-models/5308277",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Newsletter roundup aggregating diverse tech stories including on-prem HPC server growth, VMware migration tools, and unpatched SharePoint exploits.",
-   "summary": "A technology news roundup highlights a 20 percent surge in on-prem server sales for HPC and AI alongside open-source tools replacing VMware utilities. It also reports ongoing zero-day attacks exploiting patched on-premises SharePoint installations.",
-   "vocab": [
-    {
-     "word": "resilient",
-     "thai": "ยืดหยุ่นและคืนสภาพได้เร็ว",
-     "level": "B2",
-     "example": "Technical debt shoveled aside to make large-scale AI training more resilient."
-    },
-    {
-     "word": "biomass",
-     "thai": "ชีวมวล",
-     "level": "B2",
-     "example": "Drax wants to feed Britain's AI habit with a datacenter at a biomass power station."
-    },
-    {
-     "word": "installer",
-     "thai": "โปรแกรมสำหรับติดตั้งระบบ",
-     "level": "B2",
-     "example": "One installer now offers conventional and read-only systems as separate options."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 1042,
-   "ts": "2026-11-08T02:44:02.985474+07:00",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "link": "https://hunch.net/?p=13764006",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Firsthand account of Microsoft reorganizing its AI research groups to prioritize brute compute scaling over exploratory research.",
-   "summary": "A researcher details the dissolution of Microsoft Research's AI Frontiers group following its merger into Microsoft AI leadership. The piece explains an industry-wide philosophical pivot where tech giants favor predictable returns from model scaling over exploratory capability research.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวด, จุดติดขัดที่ชะลอการทำงาน",
-     "level": "B2",
-     "example": "Compute availability was also an often-severe bottleneck."
-    },
-    {
-     "word": "monorepo",
-     "thai": "ที่เก็บโค้ดแบบรวมศูนย์ในคลังเดียว",
-     "level": "C1",
-     "example": "AIF decided to develop a monorepo that was shared by default with all of Microsoft Research."
-    },
-    {
-     "word": "incompatible",
-     "thai": "เข้ากันไม่ได้, ขัดแย้งกัน",
-     "level": "B2",
-     "example": "In practice, there are substantial issues because the philosophy of the leadership is incompatible."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1043,
-   "ts": "2026-11-08T02:44:02.985516+07:00",
-   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-   "link": "https://github.com/hedgerow-dev/coldframe",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Releases an OT/ICS honeypot replicating industrial cooling controllers frequently targeted in real-world infrastructure attacks.",
-   "summary": "Security researchers released Coldframe, a standalone Python honeypot that mimics vulnerable industrial supermarket refrigeration controllers. The tool traps attackers and logs exploit payloads, helping infrastructure defenders study attacks directed at operational control systems.",
-   "vocab": [
-    {
-     "word": "decoy",
-     "thai": "ตัวล่อ, สิ่งล่อใจ",
-     "level": "C1",
-     "example": "Point INDEX_FILE at that index.html and the decoy serves it byte for byte."
-    },
-    {
-     "word": "defrost",
-     "thai": "ละลายน้ำแข็ง",
-     "level": "B2",
-     "example": "Attackers broke into refrigeration supervisors and forced defrost cycles."
-    },
-    {
-     "word": "traversal",
-     "thai": "การท่องหรือเข้าถึงเส้นทางไดเรกทอรี",
-     "level": "C2",
-     "example": "The log catches attempts at path traversal via get_file."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
    "id": 1044,
    "ts": "2026-11-08T06:15:54.580768+07:00",
    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
@@ -16677,7 +16273,7 @@
    "thai": "รวมทั้งหมด",
    "level": "B2",
    "example": "The company agrees to invest at least $16 billion in aggregate capital investment in the project.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17197,7 +16793,7 @@
    "thai": "การขนส่งสินค้า, สินค้าที่ส่งไป",
    "level": "B2",
    "example": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17427,7 +17023,7 @@
    "thai": "เริ่มต้น, ริเริ่ม",
    "level": "B2",
    "example": "The NVIDIA Board is initiating an independent investigation in light of recent reporting.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18337,7 +17933,7 @@
    "thai": "ชั่วคราว (ในตำแหน่งหน้าที่)",
    "level": "B2",
    "example": "Colette Kress, current EVP and CFO, will serve as Interim Chief Executive Officer.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20177,7 +19773,7 @@
    "thai": "ซอฟต์แวร์ควบคุมการจำลองระบบเสมือน",
    "level": "B2",
    "example": "Flaws in VMware and KVM hypervisors require urgent administrator attention.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20619,26 +20215,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6314316431584396820": {
-   "word": "backlash",
-   "correct": 3
-  },
-  "6314316431584396821": {
-   "word": "expansion",
-   "correct": 0
-  },
-  "6314316431584396822": {
-   "word": "comprehensive",
-   "correct": 3
-  },
-  "6314316431584396823": {
-   "word": "compositing",
-   "correct": 1
-  },
-  "6314316431584396824": {
-   "word": "investment",
-   "correct": 0
-  },
   "6318926963012535797": {
    "word": "hamper",
    "correct": 3
@@ -20818,6 +20394,26 @@
   "6053349700373840862": {
    "word": "trigger",
    "correct": 1
+  },
+  "6057450556622898661": {
+   "word": "hypervisor",
+   "correct": 3
+  },
+  "6057450556622898662": {
+   "word": "aggregate",
+   "correct": 2
+  },
+  "6057450556622898663": {
+   "word": "interim",
+   "correct": 1
+  },
+  "6057450556622898664": {
+   "word": "shipment",
+   "correct": 2
+  },
+  "6057450556622898665": {
+   "word": "initiate",
+   "correct": 2
   }
  },
  "fail": {
