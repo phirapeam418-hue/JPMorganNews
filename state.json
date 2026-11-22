@@ -2758,78 +2758,6 @@
  ],
  "stories": [
   {
-   "id": 1045,
-   "ts": "2026-11-08T10:11:55.734187+07:00",
-   "title": "GitHub New pull request overview page in public preview",
-   "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Relevant to DevOps workflows and infrastructure-as-code reviews on GitHub, though it is an opt-in UI preview.",
-   "summary": "GitHub has launched an opt-in public preview of a redesigned pull request overview page to reduce scrolling and surface blockers quickly. The new interface consolidates check statuses, review signals, and conversation filters into a compact summary at the top of the page.",
-   "vocab": [
-    {
-     "word": "distilled",
-     "thai": "สรุปย่อหรือคัดเฉพาะส่วนสำคัญ",
-     "level": "C1",
-     "example": "We’re starting with the merge box, distilled to show key details clearly."
-    },
-    {
-     "word": "readiness",
-     "thai": "ความพร้อม",
-     "level": "B2",
-     "example": "Check merge readiness and merge when requirements are met."
-    },
-    {
-     "word": "unresolved",
-     "thai": "ที่ยังค้างคาหรือไม่ได้รับการแก้ไข",
-     "level": "B2",
-     "example": "Filter for unresolved conversations or comments you wrote to find open questions."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 8,
-   "credibility": 9
-  },
-  {
-   "id": 1046,
-   "ts": "2026-11-08T10:11:55.734237+07:00",
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "link": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Desktop application performance and Electron vs Rust rewrites are interesting to developers, but not directly related to data center or infrastructure operations.",
-   "summary": "Discord showcased a preview of a new desktop client rewritten in Rust that loads significantly faster and uses less memory than its Electron predecessor. The new version eliminates the traditional startup loading screen by handling updates in the background.",
-   "vocab": [
-    {
-     "word": "boot",
-     "thai": "การเริ่มระบบหรือเปิดโปรแกรม",
-     "level": "B2",
-     "example": "Clicking around feels instant, check out the boot time."
-    },
-    {
-     "word": "janky",
-     "thai": "คุณภาพแย่หรือไม่น่าเชื่อถือ (คำสแลง)",
-     "level": "C2",
-     "example": "Vishnevskiy thanked him for finding these janky old laptops to test."
-    },
-    {
-     "word": "modal",
-     "thai": "หน้าต่างป๊อปอัปแจ้งเตือนที่บังคับให้ผู้ใช้โต้ตอบก่อน",
-     "level": "B2",
-     "example": "It bootstraps so fast that we don’t need that startup modal at all."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
    "id": 1047,
    "ts": "2026-11-08T17:53:01.145598+07:00",
    "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
@@ -15252,11 +15180,13 @@
      "example": "A fully sealed ceiling impedes sprinkler coverage during a fire."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 907,
+   "sent_ts": "2026-11-22T14:56:45.847094+07:00"
   },
   {
    "id": 1382,
@@ -15288,11 +15218,13 @@
      "example": "Integrators are scaling up, but shop floor and bench capacity are finite."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 905,
+   "sent_ts": "2026-11-22T14:56:44.773094+07:00"
   },
   {
    "id": 1383,
@@ -15400,11 +15332,13 @@
      "example": "phpAfterShell is triggered when that write is interrupted."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 9,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 901,
+   "sent_ts": "2026-11-22T14:56:42.694096+07:00"
   },
   {
    "id": 1386,
@@ -15436,7 +15370,7 @@
      "example": "4,000 steps of distillation follow, in which every layer is re-quantized."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 4,
@@ -15475,7 +15409,7 @@
      "example": "Safe coexistence ensures several Go extensions load in one backend without crashing."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -15511,11 +15445,13 @@
      "example": "We found a Type 1 font-loader path out of Ghostscript's sandbox boundary."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 902,
+   "sent_ts": "2026-11-22T14:56:43.214216+07:00"
   },
   {
    "id": 1389,
@@ -15547,11 +15483,13 @@
      "example": "Security features detect port scans, cleartext logins, and ARP spoofing."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 5,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 908,
+   "sent_ts": "2026-11-22T14:56:46.366757+07:00"
   },
   {
    "id": 1390,
@@ -15583,7 +15521,7 @@
      "example": "Those rules were designed for a bygone era and no longer make sense."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 5,
@@ -15619,11 +15557,13 @@
      "example": "Companies struggle against the breakneck buildout of hyperscale data centers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 906,
+   "sent_ts": "2026-11-22T14:56:45.288279+07:00"
   },
   {
    "id": 1392,
@@ -15655,11 +15595,13 @@
      "example": "Attackers used their access to siphon prompts they received."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 903,
+   "sent_ts": "2026-11-22T14:56:43.730303+07:00"
   },
   {
    "id": 1393,
@@ -15691,7 +15633,7 @@
      "example": "The Communications Act prohibits willful or malicious interference with licensed communications."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -15727,11 +15669,13 @@
      "example": "That caused instability with aircraft communications and radar feeds across several centers."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 904,
+   "sent_ts": "2026-11-22T14:56:44.256321+07:00"
   },
   {
    "id": 1395,
@@ -15763,7 +15707,7 @@
      "example": "Investors need to navigate tricky terrain when financing this nascent asset class."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 6,
@@ -15772,216 +15716,6 @@
  ],
  "next_id": 1396,
  "vocab": [
-  {
-   "word": "swings",
-   "thai": "การแกว่งตัวหรือการผันผวนอย่างรวดเร็ว",
-   "level": "B2",
-   "example": "The controller coordinates transformers and batteries in real time to manage sudden load swings.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "accelerators",
-   "thai": "ตัวเร่งความเร็วการประมวลผล (เช่น ชิป AI/GPU)",
-   "level": "B2",
-   "example": "The data center has a planned capacity to support up to one million AI accelerators.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "repurposed",
-   "thai": "ถูกดัดแปลงเพื่อนำกลับมาใช้ประโยชน์ใหม่",
-   "level": "C1",
-   "example": "Spam will see a single-story warehouse situated on 53 acres repurposed as a data center.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "adjacent",
-   "thai": "ติดกันหรืออยู่ใกล้เคียง",
-   "level": "B2",
-   "example": "The company filed a permit for development of another building on an adjacent land parcel.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "penalties",
-   "thai": "ค่าปรับหรือบทลงโทษ",
-   "level": "B2",
-   "example": "The agency is seeking civil penalties of up to $25,000 per day across three sites.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "due diligence",
-   "thai": "การตรวจสอบสถานะความพร้อมและความเสี่ยงของโครงการ",
-   "level": "C1",
-   "example": "Hard plans are yet to be made, with Google still evaluating the site and conducting due diligence.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "overlay",
-   "thai": "การกำหนดพื้นที่กำกับซ้อนทับ",
-   "level": "B2",
-   "example": "Goochland's Board of Supervisors previously approved a Technology Overlay District to attract investment.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unsealed",
-   "thai": "ที่ถูกเปิดเผยหรือปลดผนึก",
-   "level": "B2",
-   "example": "As per an unsealed NDA, the cloud and search giant is considering developing a large campus.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "backstop",
-   "thai": "การเป็นหลักประกันทางการเงินสำรอง",
-   "level": "C1",
-   "example": "Nvidia is said to be in talks to backstop the large compute campus project.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "guarantor",
-   "thai": "ผู้ค้ำประกัน",
-   "level": "C1",
-   "example": "The credit support would enable Nscale to secure debt with Nvidia serving as a guarantor.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bleak",
-   "thai": "สิ้นหวังหรือมืดมน",
-   "level": "B2",
-   "example": "A lot of software engineers feel bleak about the future of the profession.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consortium",
-   "thai": "สมาคม กลุ่มบริษัท",
-   "level": "C1",
-   "example": "A consortium including Australia Data Centres entered into lease documentation with an Australian subsidiary of Anthropic.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "illicit",
-   "thai": "ผิดกฎหมาย ไม่ชอบด้วยกฎหมาย",
-   "level": "C1",
-   "example": "Token thieves are costing companies over $100K per day in illicit LLM charges.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "mitigation",
-   "thai": "การบรรเทา การป้องกันความเสียหาย",
-   "level": "C1",
-   "example": "Effective token monitoring is essential for the mitigation of financial losses.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "throughput",
-   "thai": "ปริมาณงานที่ระบบประมวลผลได้ในหนึ่งหน่วยเวลา",
-   "level": "C1",
-   "example": "Maximize read throughput, so clients can download data fast enough.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "latency",
-   "thai": "เวลาหน่วงในระบบเครือข่าย",
-   "level": "C1",
-   "example": "In production, Pando cut median push latency by nearly 5x.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "synergy",
-   "thai": "การทำงานร่วมกันเพื่อเสริมพลัง",
-   "level": "C1",
-   "example": "Creates a powerful synergy that fuels talent growth.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "deployment",
-   "thai": "การปรับใช้",
-   "level": "C1",
-   "example": "Enabling faster, more integrated, and scalable deployment of AI systems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "decree",
-   "thai": "กฤษฎีกา",
-   "level": "C1",
-   "example": "Russian President Putin issued a decree on Monday.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concerted",
-   "thai": "ที่ประสานร่วมมือกัน",
-   "level": "C1",
-   "example": "The attacks follow concerted Russian bombing of data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "strain",
-   "thai": "ความตึงเครียด",
-   "level": "B2",
-   "example": "When the grid is under strain.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "fluctuation",
    "thai": "ความผันผวน",
@@ -20767,6 +20501,216 @@
    "thai": "ข้อมูลอภิพันธุ์ (ข้อมูลที่ใช้อธิบายข้อมูลอื่น)",
    "level": "C1",
    "example": "A memory exploit can corrupt an adjacent object or allocator metadata.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "smuggling",
+   "thai": "การลักลอบส่ง (ในทางเทคนิค: การซ่อนคำขอซ้อนในโพรโทคอล)",
+   "level": "C1",
+   "example": "We added three new rules, including one for a request smuggling flaw in PHP-FPM.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interrupted",
+   "thai": "ถูกขัดจังหวะ, ถูกระงับชั่วคราว",
+   "level": "B2",
+   "example": "phpAfterShell is triggered when that write is interrupted.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "flaw",
+   "thai": "ข้อบกพร่องหรือช่องโหว่",
+   "level": "B2",
+   "example": "We filed the Type 1 loader flaw upstream as Artifex Bug 709684.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "boundary",
+   "thai": "ขอบเขตหรือเส้นแบ่ง",
+   "level": "B2",
+   "example": "We found a Type 1 font-loader path out of Ghostscript's sandbox boundary.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "entrusted",
+   "thai": "มอบหมายให้ดูแลด้วยความไว้วางใจ",
+   "level": "B2",
+   "example": "Researchers tested what happened to sensitive information entrusted to AI services.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sieve",
+   "thai": "ตะแกรงที่กรองไม่อยู่ (รั่วไหลง่าย)",
+   "level": "C1",
+   "example": "What they discovered was an ecosystem that leaked highly sensitive data like a sieve.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "siphon",
+   "thai": "ลอบดึงหรือถ่ายเทข้อมูลออกไป",
+   "level": "C1",
+   "example": "Attackers used their access to siphon prompts they received.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "ground stop",
+   "thai": "คำสั่งระงับการบินขึ้นทั่วประเทศหรือทั้งระบบ",
+   "level": "C1",
+   "example": "The Federal Aviation Administration ordered a nationwide ground stop.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "oversight",
+   "thai": "การกำกับดูแล",
+   "level": "C1",
+   "example": "Questions remain about whether the modernization effort has adequate agency oversight.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "underestimate",
+   "thai": "ประเมินค่าต่ำเกินไป",
+   "level": "B2",
+   "example": "What happens next is a different kind of problem and one that project teams often underestimate.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "obligation",
+   "thai": "ข้อผูกพันหรือพันธกรณี",
+   "level": "B2",
+   "example": "Every point of growth from on-site combustion carries a new permitting and monitoring obligation.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "finite",
+   "thai": "มีจำกัด",
+   "level": "C1",
+   "example": "Integrators are scaling up, but shop floor and bench capacity are finite.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "milestones",
+   "thai": "หมุดหมายหรือเป้าหมายสำคัญ",
+   "level": "B2",
+   "example": "We are re-evaluating our timelines, sequencing, and interim milestones.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "intensity",
+   "thai": "ระดับความเข้มข้น",
+   "level": "B2",
+   "example": "The company is adjusting its near-term intensity targets.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "breakneck",
+   "thai": "รวดเร็วอย่างยิ่งจนอาจเกิดอันตราย",
+   "level": "C1",
+   "example": "Companies struggle against the breakneck buildout of hyperscale data centers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unobtrusive",
+   "thai": "ที่ไม่สะดุดตาหรือไม่เด่นชัด",
+   "level": "C2",
+   "example": "An unobtrusive gap above the hot contained aisle has been leaking conditioned air.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "detriment",
+   "thai": "ความเสียหายหรือผลเสีย",
+   "level": "C1",
+   "example": "No one has been measuring its detriment to cooling performance.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "impede",
+   "thai": "ขัดขวางหรือหน่วงเหนี่ยว",
+   "level": "C1",
+   "example": "A fully sealed ceiling impedes sprinkler coverage during a fire.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "retransmission",
+   "thai": "การส่งข้อมูลซ้ำ",
+   "level": "B2",
+   "example": "The tool detects TCP issues like firewall blocks, retransmissions, and duplicate ACKs.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "truncated",
+   "thai": "ถูกตัดทอนให้สั้นลง",
+   "level": "C1",
+   "example": "It warns when captures are limited by truncated packets or mirror port duplicates.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spoofing",
+   "thai": "การปลอมแปลงตัวตนหรือข้อมูล",
+   "level": "B2",
+   "example": "Security features detect port scans, cleartext logins, and ARP spoofing.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
