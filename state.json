@@ -2732,47 +2732,31 @@
   "https://onurgumus.github.io/zero-csharp/index.html",
   "https://thinkingmachines.ai/news/inkling-2-mini/",
   "https://klauria.tech/klauria-art/",
-  "https://pwn.ai/upload2shell"
+  "https://pwn.ai/upload2shell",
+  "https://github.com/sebaandrada-cell/PcapAnalyzer",
+  "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+  "https://linebender.org/blog/next-100-guis/",
+  "https://www.pandex.io",
+  "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
+  "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
+  "https://tasklet.ai/careers",
+  "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+  "https://arstechnica.com/science/2026/11/race-realism-isnt-realistic-and-it-isnt-good-science/",
+  "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+  "https://arstechnica.com/space/2026/11/incoming-house-chair-threatens-spacex-funding-over-ukraine-controversy/",
+  "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+  "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+  "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+  "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/",
+  "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/",
+  "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+  "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/",
+  "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/",
+  "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+  "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+  "https://arstechnica.com/space/2026/11/rocket-report-a-weekend-of-ups-and-downs-stoke-celebrates-engine-milestone/"
  ],
  "stories": [
-  {
-   "id": 1044,
-   "ts": "2026-11-08T06:15:54.580768+07:00",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "link": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "source": "Hacker News",
-   "score": 7,
-   "watch": false,
-   "reason": "AI coding assistants leaking credentials directly affects infrastructure security and DevOps repository hygiene.",
-   "summary": "A configuration option in Claude Code has inadvertently exposed sensitive credentials across more than one thousand public repositories. DevOps and security teams must audit developer environments to prevent automated credential leaks.",
-   "vocab": [
-    {
-     "word": "expose",
-     "thai": "เปิดเผยหรือทำให้ตกอยู่ในความเสี่ยง",
-     "level": "B2",
-     "example": "The setting inadvertently exposes sensitive passwords in public repositories."
-    },
-    {
-     "word": "enterprise",
-     "thai": "องค์กรธุรกิจขนาดใหญ่",
-     "level": "B2",
-     "example": "The tool was designed to enhance security across the enterprise."
-    },
-    {
-     "word": "dynamic",
-     "thai": "ซึ่งเปลี่ยนแปลงและพัฒนาอย่างต่อเนื่อง",
-     "level": "B2",
-     "example": "Modern development workflows require dynamic security scanning tools."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 617,
-   "sent_ts": "2026-11-08T14:12:56.692217+07:00"
-  },
   {
    "id": 1045,
    "ts": "2026-11-08T10:11:55.734187+07:00",
@@ -14932,11 +14916,13 @@
      "example": "The bill exempts a wide array of government infrastructure actions from environmental reviews."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 895,
+   "sent_ts": "2026-11-22T08:45:57.255461+07:00"
   },
   {
    "id": 1373,
@@ -15080,11 +15066,13 @@
      "example": "Stolen credentials allowed unauthorized access to sensitive user data."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 896,
+   "sent_ts": "2026-11-22T08:45:57.899617+07:00"
   },
   {
    "id": 1377,
@@ -15116,11 +15104,13 @@
      "example": "Printed circuit boards are critical components in data center servers."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 7,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 897,
+   "sent_ts": "2026-11-22T08:45:58.548507+07:00"
   },
   {
    "id": 1378,
@@ -15334,11 +15324,13 @@
      "example": "Another Linux kernel developer stepped back due to excessive workload."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 5,
    "urgency": 4,
    "scale": 8,
-   "credibility": 3
+   "credibility": 3,
+   "msg_id": 898,
+   "sent_ts": "2026-11-22T08:45:59.230884+07:00"
   },
   {
    "id": 1384,
@@ -15370,11 +15362,13 @@
      "example": "A memory exploit can corrupt an adjacent object or allocator metadata."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 899,
+   "sent_ts": "2026-11-22T08:45:59.893025+07:00"
   },
   {
    "id": 1385,
@@ -15406,7 +15400,7 @@
      "example": "phpAfterShell is triggered when that write is interrupted."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 8,
    "scale": 9,
@@ -15517,85 +15511,267 @@
      "example": "We found a Type 1 font-loader path out of Ghostscript's sandbox boundary."
     }
    ],
-   "status": "night",
+   "status": "queued",
    "impact": 8,
    "urgency": 8,
    "scale": 8,
    "credibility": 9
+  },
+  {
+   "id": 1389,
+   "ts": "2026-11-22T08:50:35.148053+07:00",
+   "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+   "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Useful open-source networking tool for packet capture troubleshooting and root-cause analysis in infrastructure ops.",
+   "summary": "PcapAnalyzer is an open-source, self-hosted network analysis tool equipped with 27 detectors for issues like TCP resets, DNS failures, and MTU problems. It provides Wireshark-like filtering and optional AI assistance locally without exposing sensitive packet captures.",
+   "vocab": [
+    {
+     "word": "retransmission",
+     "thai": "การส่งข้อมูลซ้ำ",
+     "level": "B2",
+     "example": "The tool detects TCP issues like firewall blocks, retransmissions, and duplicate ACKs."
+    },
+    {
+     "word": "truncated",
+     "thai": "ถูกตัดทอนให้สั้นลง",
+     "level": "C1",
+     "example": "It warns when captures are limited by truncated packets or mirror port duplicates."
+    },
+    {
+     "word": "spoofing",
+     "thai": "การปลอมแปลงตัวตนหรือข้อมูล",
+     "level": "B2",
+     "example": "Security features detect port scans, cleartext logins, and ARP spoofing."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1390,
+   "ts": "2026-11-22T08:53:50.441668+07:00",
+   "title": "Trump FCC declares California isn't allowed to enforce phone service rules",
+   "link": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+   "source": "Ars Technica",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers regulatory battles over legacy copper landlines, which primarily impacts residential telecommunications rather than data centers.",
+   "summary": "The FCC has overridden California rules to allow AT&T to discontinue legacy landline service for nearly 200,000 customers. The move lets the telecom provider replace old copper lines with wireless or IP alternatives despite state resistance.",
+   "vocab": [
+    {
+     "word": "discontinue",
+     "thai": "ยุติหรือยกเลิกการให้บริการ",
+     "level": "B2",
+     "example": "AT&T wants to discontinue service for 184,000 residential customers."
+    },
+    {
+     "word": "preempt",
+     "thai": "ใช้อำนาจลบล้างหรือบังคับใช้ก่อน",
+     "level": "C1",
+     "example": "The order released today granted the request to preempt state rules."
+    },
+    {
+     "word": "bygone",
+     "thai": "ในอดีตหรือยุคก่อน",
+     "level": "C1",
+     "example": "Those rules were designed for a bygone era and no longer make sense."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1391,
+   "ts": "2026-11-22T08:53:50.441783+07:00",
+   "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+   "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+   "source": "Ars Technica",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly highlights the massive power and environmental tensions shaping hyperscale data center capacity and planning.",
+   "summary": "Meta is re-evaluating its 2030 net-zero emissions target due to massive greenhouse gas increases driven by AI data center expansions. The admission highlights growing difficulties hyperscalers face balancing rapid hardware deployment with environmental commitments.",
+   "vocab": [
+    {
+     "word": "milestones",
+     "thai": "หมุดหมายหรือเป้าหมายสำคัญ",
+     "level": "B2",
+     "example": "We are re-evaluating our timelines, sequencing, and interim milestones."
+    },
+    {
+     "word": "intensity",
+     "thai": "ระดับความเข้มข้น",
+     "level": "B2",
+     "example": "The company is adjusting its near-term intensity targets."
+    },
+    {
+     "word": "breakneck",
+     "thai": "รวดเร็วอย่างยิ่งจนอาจเกิดอันตราย",
+     "level": "C1",
+     "example": "Companies struggle against the breakneck buildout of hyperscale data centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1392,
+   "ts": "2026-11-22T08:53:50.441816+07:00",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+   "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "source": "Ars Technica",
+   "score": 8,
+   "watch": false,
+   "reason": "Reveals critical security and privacy flaws in AI gateways and inference supply chains, directly impacting secure DevOps and cloud deployments.",
+   "summary": "A security researcher using trackable canaries discovered widespread secret and credential leaks across commercial AI routing networks. Attackers and resellers were found siphoning user prompts and ignoring zero-data-retention guarantees across multiple inference platforms.",
+   "vocab": [
+    {
+     "word": "entrusted",
+     "thai": "มอบหมายให้ดูแลด้วยความไว้วางใจ",
+     "level": "B2",
+     "example": "Researchers tested what happened to sensitive information entrusted to AI services."
+    },
+    {
+     "word": "sieve",
+     "thai": "ตะแกรงที่กรองไม่อยู่ (รั่วไหลง่าย)",
+     "level": "C1",
+     "example": "What they discovered was an ecosystem that leaked highly sensitive data like a sieve."
+    },
+    {
+     "word": "siphon",
+     "thai": "ลอบดึงหรือถ่ายเทข้อมูลออกไป",
+     "level": "C1",
+     "example": "Attackers used their access to siphon prompts they received."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1393,
+   "ts": "2026-11-22T08:55:54.128584+07:00",
+   "title": "Prisons get OK to jam contraband phones. CTIA says nearby phones will be jammed too.",
+   "link": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/",
+   "source": "Ars Technica",
+   "score": 5,
+   "watch": false,
+   "reason": "FCC policy change allowing wireless jamming in prisons touches wireless networking and RF interference, but has limited impact on enterprise data centers.",
+   "summary": "The FCC voted to permit state and local prisons to use targeted jamming technology against contraband mobile phones despite industry pushback. Wireless carriers warn that the jammers cause unintended RF interference with legitimate networks and 911 services up to miles away.",
+   "vocab": [
+    {
+     "word": "contraband",
+     "thai": "สิ่งของผิดกฎหมายหรือของต้องห้าม",
+     "level": "C2",
+     "example": "Prisons get OK to jam contraband phones."
+    },
+    {
+     "word": "constraints",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Even with these constraints, the micro-jamming system blocked 911 calls."
+    },
+    {
+     "word": "interference",
+     "thai": "การรบกวนสัญญาณ",
+     "level": "B2",
+     "example": "The Communications Act prohibits willful or malicious interference with licensed communications."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1394,
+   "ts": "2026-11-22T08:55:54.128677+07:00",
+   "title": "US will soon announce root cause behind FAA nationwide ground stop",
+   "link": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/",
+   "source": "Ars Technica",
+   "score": 8,
+   "watch": false,
+   "reason": "Critical networking root-cause investigation detailing a router replacement incident that flooded a national backbone network.",
+   "summary": "The FAA is finalizing its investigation into a catastrophic nationwide network outage caused by a massive data flood during router hardware replacement. The incident occurred while a contractor was swapping an aging router for a modern Juniper unit, disrupting critical radar and flight communications.",
+   "vocab": [
+    {
+     "word": "ground stop",
+     "thai": "คำสั่งระงับการบินขึ้นทั่วประเทศหรือทั้งระบบ",
+     "level": "C1",
+     "example": "The Federal Aviation Administration ordered a nationwide ground stop."
+    },
+    {
+     "word": "oversight",
+     "thai": "การกำกับดูแล",
+     "level": "C1",
+     "example": "Questions remain about whether the modernization effort has adequate agency oversight."
+    },
+    {
+     "word": "instability",
+     "thai": "ความไม่เสถียร",
+     "level": "B2",
+     "example": "That caused instability with aircraft communications and radar feeds across several centers."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1395,
+   "ts": "2026-11-22T08:55:54.128722+07:00",
+   "title": "SpaceX lenders don’t want Elon Musk launching their collateral into space",
+   "link": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/",
+   "source": "Ars Technica",
+   "score": 6,
+   "watch": false,
+   "reason": "High-interest AI infrastructure financing development regarding GPU asset collateralization and proposed orbital data centers.",
+   "summary": "Lenders providing $43 billion in debt financing to SpaceX sought clauses preventing Elon Musk from launching GPU collateral into orbit. The debt package, backed by leased Nvidia AI processors, highlights novel financial complexities around space-based data center ventures.",
+   "vocab": [
+    {
+     "word": "collateral",
+     "thai": "หลักทรัพย์ค้ำประกัน",
+     "level": "C1",
+     "example": "Lenders tried to bar Elon Musk from firing the collateral into space."
+    },
+    {
+     "word": "covenant",
+     "thai": "ข้อกำหนดในสัญญาการเงิน",
+     "level": "C2",
+     "example": "The proposed debt covenant presented potential legal challenges for orbital ambitions."
+    },
+    {
+     "word": "nascent",
+     "thai": "ที่เพิ่งเริ่มต้นหรือกำลังก่อตัว",
+     "level": "C2",
+     "example": "Investors need to navigate tricky terrain when financing this nascent asset class."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 1389,
+ "next_id": 1396,
  "vocab": [
-  {
-   "word": "allocation",
-   "thai": "การจัดสรรทรัพยากร",
-   "level": "B2",
-   "example": "From a global allocation perspective, having limited DRAM sit in desktop computers is inefficient.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "constrain",
-   "thai": "จำกัดหรือเหนี่ยวรั้ง",
-   "level": "B2",
-   "example": "Individuals using local inference are further constraining memory chip supply chains.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "proprietary",
-   "thai": "ที่มีกรรมสิทธิ์เฉพาะหรือเป็นลิขสิทธิ์ของบริษัท",
-   "level": "C1",
-   "example": "The company said it has made enhancements to its proprietary heat exchangers and drive motors.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "craftsmanship",
-   "thai": "ความประณีตหรือฝีมือเชิงช่าง",
-   "level": "C1",
-   "example": "Teams are putting their skilled craftsmanship into assembling the technology that cools advanced compute.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "cellular",
-   "thai": "เกี่ยวกับโทรศัพท์มือถือ / เซลล์",
-   "level": "B2",
-   "example": "Ericsson uses existing cellular networks to track unauthorized drones.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "perimeter",
-   "thai": "แนวรอบนอก / แนวเขต",
-   "level": "C1",
-   "example": "Securing the perimeter of critical infrastructure requires advanced tracking tools.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "busbar",
-   "thai": "แถบตัวนำไฟฟ้าหลัก (บัสบาร์)",
-   "level": "C1",
-   "example": "The SST converts 10kV medium voltage AC from the grid to an 800VDC busbar.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "swings",
    "thai": "การแกว่งตัวหรือการผันผวนอย่างรวดเร็ว",
@@ -20521,6 +20697,76 @@
    "thai": "มากอย่างแท้จริง (ใช้เน้นขนาดหรือปริมาณ)",
    "level": "B2",
    "example": "The sheer quantity of tokens processed by cloud providers every year is astonishing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overhaul",
+   "thai": "การปรับปรุงยกเครื่องใหม่ทั้งหมด",
+   "level": "C1",
+   "example": "This legislation marks a significant overhaul of the country's grid permitting process.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exempts",
+   "thai": "ยกเว้น",
+   "level": "C1",
+   "example": "The bill exempts a wide array of government infrastructure actions from environmental reviews.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exploit",
+   "thai": "เจาะระบบหรือเอาเปรียบช่องโหว่",
+   "level": "B2",
+   "example": "Attackers used an automated tool to exploit a zero-day vulnerability in the server.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "credential",
+   "thai": "ข้อมูลประจำตัวหรือรหัสผ่าน",
+   "level": "C1",
+   "example": "Stolen credentials allowed unauthorized access to sensitive user data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "crunch",
+   "thai": "ภาวะขาดแคลนหรือวิกฤต",
+   "level": "B2",
+   "example": "The rapid growth in demand could cause a supply crunch for printed circuit boards.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "compensating",
+   "thai": "ที่ชดเชยหรือเสริมมาตรการหลัก",
+   "level": "C1",
+   "example": "The WAF is a compensating control, not a replacement for patching.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "metadata",
+   "thai": "ข้อมูลอภิพันธุ์ (ข้อมูลที่ใช้อธิบายข้อมูลอื่น)",
+   "level": "C1",
+   "example": "A memory exploit can corrupt an adjacent object or allocator metadata.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
