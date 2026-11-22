@@ -2779,131 +2779,21 @@
   "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
   "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
   "https://simonwillison.net/2026/Nov/21/muru/",
-  "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
+  "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+  "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+  "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+  "https://nyx.net/",
+  "https://smallsf.com/",
+  "https://openai.com/index/perplexity-and-intelligence/",
+  "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+  "https://pequalnp.com/",
+  "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+  "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+  "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+  "https://www.benkuhn.net/meditation/",
+  "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/"
  ],
  "stories": [
-  {
-   "id": 1052,
-   "ts": "2026-11-09T04:29:13.655687+07:00",
-   "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-   "link": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "This is a corporate AI governance decision affecting banking staff rather than core data center or cloud infrastructure.",
-   "summary": "Goldman Sachs has restricted AI coding agents like Claude Code to software engineers, barring general traders and bankers. The decision was prompted by productivity reviews and security concerns regarding non-engineers running automated code against client data.",
-   "vocab": [
-    {
-     "word": "underwriter",
-     "thai": "ผู้รับประกันการจำหน่ายหลักทรัพย์",
-     "level": "C1",
-     "example": "The bank barred its Hong Kong bankers from Claude in April and is now a lead underwriter on Anthropic's IPO."
-    },
-    {
-     "word": "arrangement",
-     "thai": "การจัดเตรียมข้อตกลง",
-     "level": "B2",
-     "example": "That arrangement let the people closest to a problem build a first version without waiting for engineering time."
-    },
-    {
-     "word": "frustrated",
-     "thai": "รู้สึกหงุดหงิดผิดหวัง",
-     "level": "B2",
-     "example": "The change has frustrated some traders, a person familiar with the matter told Bloomberg."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 9,
-   "msg_id": 635,
-   "sent_ts": "2026-11-09T14:52:29.093046+07:00"
-  },
-  {
-   "id": 1053,
-   "ts": "2026-11-09T04:29:13.655799+07:00",
-   "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-   "link": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "This directly impacts mail server and DNS operations, causing silent delivery failures to major Microsoft consumer domains.",
-   "summary": "Microsoft has quietly started rejecting emails sent to Outlook, Hotmail, and MSN addresses from domains lacking a DMARC DNS record. Infrastructure administrators must quickly add a DMARC policy to avoid silent email delivery failures.",
-   "vocab": [
-    {
-     "word": "vendor",
-     "thai": "คู่ค้าหรือผู้ให้บริการภายนอก",
-     "level": "B2",
-     "example": "If your company emails customers, vendors or applicants with outlook.com addresses, some of that mail may be bouncing."
-    },
-    {
-     "word": "inconsistency",
-     "thai": "ความไม่สม่ำเสมอหรือไม่แน่นอน",
-     "level": "B2",
-     "example": "That inconsistency is what makes this one dangerous: the person who sent the message sees a bounce and assumes a glitch."
-    },
-    {
-     "word": "invoice",
-     "thai": "ใบแจ้งหนี้",
-     "level": "B2",
-     "example": "Invoices that don't arrive and appointment confirmations that never land can quietly harm your business."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 8,
-   "scale": 8,
-   "credibility": 8,
-   "msg_id": 627,
-   "sent_ts": "2026-11-09T08:17:45.937153+07:00",
-   "extra_links": [
-    "https://www.theregister.com/applications/2026/11/09/outlookcom-bounces-legit-emails-as-microsofts-authentication-crackdown-goes-sideways/5308428"
-   ]
-  },
-  {
-   "id": 1054,
-   "ts": "2026-11-09T04:31:02.264016+07:00",
-   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-   "link": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "While this corporate inquiry affects the premier AI chipmaker's leadership, it does not immediately impact day-to-day data center operations.",
-   "summary": "Nvidia's board of directors has launched an independent inquiry following reports that CEO Jensen Huang was targeted by foreign intelligence. Although the board believes no corporate or national secrets were compromised, the move reflects rising geopolitical tension around AI infrastructure.",
-   "vocab": [
-    {
-     "word": "initiate",
-     "thai": "เริ่มต้น, ริเริ่ม",
-     "level": "B2",
-     "example": "The NVIDIA Board is initiating an independent investigation in light of recent reporting."
-    },
-    {
-     "word": "paramount",
-     "thai": "มีความสำคัญสูงสุด",
-     "level": "C1",
-     "example": "The Board prioritizes U.S. national and economic security, which is paramount to the interests of NVIDIA."
-    },
-    {
-     "word": "inquiry",
-     "thai": "การไต่สวน, การตรวจสอบ",
-     "level": "B2",
-     "example": "The Board's inquiry will examine all available information."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9,
-   "extra_links": [
-    "https://www.datacenterdynamics.com/en/news/nvidia-ceo-jensen-huang-admits-affair-with-alleged-chinese-spy-board-to-investigate/",
-    "https://www.theregister.com/legal/2026/11/09/nvidia-ceo-jensen-huang-starring-in-possible-remake-of-the-spy-who-shagged-me/5308327",
-    "https://nvidianews.nvidia.com/news/a-message-to-our-company"
-   ],
-   "msg_id": 633,
-   "sent_ts": "2026-11-09T14:52:28.048304+07:00"
-  },
   {
    "id": 1055,
    "ts": "2026-11-09T15:53:49.246454+07:00",
@@ -15804,9 +15694,45 @@
    "urgency": 4,
    "scale": 5,
    "credibility": 9
+  },
+  {
+   "id": 1403,
+   "ts": "2026-11-23T05:56:09.907345+07:00",
+   "title": "Perplexity and Intelligence",
+   "link": "https://openai.com/index/perplexity-and-intelligence/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "An essay by OpenAI leadership discussing foundational model training metrics, useful for understanding AI infrastructure progress.",
+   "summary": "OpenAI published internal perplexity measurements, arguing that compression metrics should serve as industry standards for tracking model capabilities and safety. This metric explains how foundational pretraining progress unlocks reasoning and conversational features in large language models.",
+   "vocab": [
+    {
+     "word": "latent",
+     "thai": "ที่แฝงอยู่, ที่ยังไม่แสดงออก",
+     "level": "C1",
+     "example": "Techniques are applied in different contexts to elicit the latent capabilities of that model."
+    },
+    {
+     "word": "coherent",
+     "thai": "ที่เชื่อมโยงสอดคล้องกัน, ฟังดูสมเหตุสมผล",
+     "level": "B2",
+     "example": "GPT-2 was arguably the first model capable of consistently formulating coherent paragraphs of text."
+    },
+    {
+     "word": "proficient",
+     "thai": "เชี่ยวชาญ, ชำนาญ",
+     "level": "B2",
+     "example": "GPT-4 was proficient at utilizing chain-of-thought reasoning productively."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 1403,
+ "next_id": 1404,
  "vocab": [
   {
    "word": "fluctuation",
