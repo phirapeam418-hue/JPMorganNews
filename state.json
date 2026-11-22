@@ -18613,7 +18613,7 @@
    "thai": "การแจ้งเตือน",
    "level": "B2",
    "example": "Users receive email notifications when incidents update.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19043,7 +19043,7 @@
    "thai": "เกณฑ์มาตรฐาน",
    "level": "B2",
    "example": "By the end, you will have a baseline for how it behaves under load.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20243,7 +20243,7 @@
    "thai": "การปลดระวาง",
    "level": "B2",
    "example": "The retirement of version 5.1 affects administrators.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20423,7 +20423,7 @@
    "thai": "สร้างขึ้นด้วยความพยายาม",
    "level": "B2",
    "example": "Nvidia aims to forge a single CPU design to serve diverse workloads.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20743,7 +20743,7 @@
    "thai": "รวดเร็วอย่างยิ่งจนอาจเกิดอันตราย",
    "level": "C1",
    "example": "Companies struggle against the breakneck buildout of hyperscale data centers.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20815,26 +20815,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6318926963012535797": {
-   "word": "hamper",
-   "correct": 3
-  },
-  "6318926963012535798": {
-   "word": "commissioning",
-   "correct": 3
-  },
-  "6318926963012535799": {
-   "word": "corrosion",
-   "correct": 0
-  },
-  "6318926963012535800": {
-   "word": "heavy-handed",
-   "correct": 0
-  },
-  "6318926963012535801": {
-   "word": "censure",
-   "correct": 2
-  },
   "6321178762826220889": {
    "word": "colocation",
    "correct": 2
@@ -21014,6 +20994,26 @@
   "6057450556622898665": {
    "word": "initiate",
    "correct": 2
+  },
+  "6059702356436583829": {
+   "word": "baseline",
+   "correct": 3
+  },
+  "6059702356436583830": {
+   "word": "notification",
+   "correct": 3
+  },
+  "6059702356436583831": {
+   "word": "breakneck",
+   "correct": 0
+  },
+  "6059702356436583832": {
+   "word": "retirement",
+   "correct": 2
+  },
+  "6059702356436583833": {
+   "word": "forge",
+   "correct": 0
   }
  },
  "fail": {
