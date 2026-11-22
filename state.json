@@ -2763,199 +2763,25 @@
   "https://stulle.app/",
   "https://phys.org/news/2026-11-tiny-primordial-black-holes.html",
   "https://devsh0.github.io/microarchitecture,/intel,/computer-architecture/2026/11/17/reversing-the-next-page-prefetcher-in-skylake-x.html",
-  "https://www.noemamag.com/the-mythology-of-conscious-ai/"
+  "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+  "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+  "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+  "https://www.theregister.com/personal-tech/2026/11/22/as-cars-go-digital-us-consumers-pay-an-extra-12-billion-a-year-for-repairs/5311412",
+  "https://www.theregister.com/offbeat/2026/11/22/passive-ghost-radar-can-detect-airborne-threats-without-revealing-its-own-position/5311023",
+  "https://osw-alliance.net/en/",
+  "https://github.com/gulivan/worker755",
+  "https://alperenkeles.com/posts/vocab-for-testing/",
+  "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
+  "https://news.ycombinator.com/item?id=50555002",
+  "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+  "https://blog.alexbeals.com/posts/il-civetta",
+  "https://joinmayberry.com/",
+  "https://blog.westerndigital.com/what-is-ultrasmr-technology/",
+  "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+  "https://simonwillison.net/2026/Nov/21/muru/",
+  "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/"
  ],
  "stories": [
-  {
-   "id": 1047,
-   "ts": "2026-11-08T17:53:01.145598+07:00",
-   "title": "Internet governance about to get its quadrennial stress test at ITU meeting",
-   "link": "https://www.theregister.com/networks/2026/11/08/internet-governance-about-to-get-its-quadrennial-stress-test-at-itu-meeting/5308031",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "This newsletter aggregates multiple infrastructure topics including on-prem AI server sales, unpatched SharePoint exploits, and datacenter construction.",
-   "summary": "The Register published a roundup covering major enterprise tech developments, including a surge in on-premises AI server sales and active zero-day attacks on SharePoint. It matters to operators because it highlights ongoing hardware demand and critical enterprise security risks.",
-   "vocab": [
-    {
-     "word": "quadrennial",
-     "thai": "ทุกสี่ปี",
-     "level": "C2",
-     "example": "Internet governance is facing its quadrennial stress test at the upcoming conference."
-    },
-    {
-     "word": "resilient",
-     "thai": "ยืดหยุ่น ทนทานต่อปัญหา",
-     "level": "B2",
-     "example": "Technical debt was resolved to make large-scale AI training clusters more resilient."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความร่วมมือ เกณฑ์กำลัง",
-     "level": "B2",
-     "example": "The defense initiative enlists ethical hackers to protect critical national infrastructure."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 629,
-   "sent_ts": "2026-11-09T14:52:26.000802+07:00"
-  },
-  {
-   "id": 1048,
-   "ts": "2026-11-09T00:24:17.764723+07:00",
-   "title": "Sponsored: Why contamination control is now critical",
-   "link": "https://www.datacenterdynamics.com/en/opinions/why-contamination-control-is-now-critical/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly relevant to physical data center operations, raised floor maintenance, and preventing human-error outages.",
-   "summary": "Data hall cleaning poses severe operational risks if treated as routine janitorial work rather than strict contamination control. Facilities must apply formal change management and rigorous procedures to prevent equipment failure and airflow disruption.",
-   "vocab": [
-    {
-     "word": "contamination",
-     "thai": "การปนเปื้อน",
-     "level": "B2",
-     "example": "Cleaning a live hall is contamination control work."
-    },
-    {
-     "word": "intermittent",
-     "thai": "เป็นพักๆ หรือเกิดขึ้นไม่สม่ำเสมอ",
-     "level": "B2",
-     "example": "Older raised floors add another hazard: zinc whiskers, which can cause intermittent equipment failures."
-    },
-    {
-     "word": "debris",
-     "thai": "เศษซากสิ่งปรักหักพังหรือสิ่งสกปรก",
-     "level": "B2",
-     "example": "Vacuums without HEPA filtration capture large debris while exhausting fine particles back into the room."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 7,
-   "msg_id": 630,
-   "sent_ts": "2026-11-09T14:52:26.499016+07:00"
-  },
-  {
-   "id": 1049,
-   "ts": "2026-11-09T00:24:17.764760+07:00",
-   "title": "What data centers need to consider when storing produced water",
-   "link": "https://www.datacenterdynamics.com/en/opinions/what-data-centers-need-to-consider-when-storing-produced-water/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers critical data center cooling infrastructure and alternative industrial water storage strategies.",
-   "summary": "Data center operators are exploring produced water from oil and gas fields to alleviate pressure on local potable drinking supplies. Implementing this requires specialized on-site storage tanks and materials capable of handling corrosive and high-salinity water.",
-   "vocab": [
-    {
-     "word": "potable",
-     "thai": "ที่ดื่มได้",
-     "level": "C1",
-     "example": "The sector's ability to add capacity will depend partly on how well it manages demand without placing unnecessary pressure on potable supplies."
-    },
-    {
-     "word": "repurpose",
-     "thai": "นำกลับมาดัดแปลงใช้ประโยชน์ใหม่",
-     "level": "B2",
-     "example": "Where that water can be efficiently repurposed for data center cooling, there is an opportunity to reduce water stress."
-    },
-    {
-     "word": "corrosion",
-     "thai": "การกัดกร่อน",
-     "level": "B2",
-     "example": "Those differences should guide the material selection to protect against corrosion and extend the working life of the tank."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 631,
-   "sent_ts": "2026-11-09T14:52:26.997776+07:00"
-  },
-  {
-   "id": 1050,
-   "ts": "2026-11-09T00:24:17.764800+07:00",
-   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-   "link": "https://github.com/synchopate/llama-modchip",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Introduces an AI infrastructure optimization technique allowing large MoE models to run locally on commodity CPU servers.",
-   "summary": "The llama-modchip project enables running massive DeepSeek mixture-of-experts models entirely on system RAM without requiring GPUs. It combines aggressive quantization, algorithmic pruning, and CPU cache tiling to reach usable inference speeds on standard workstations.",
-   "vocab": [
-    {
-     "word": "inference",
-     "thai": "การอนุมานหรือการประมวลผลโมเดลปัญญาประดิษฐ์",
-     "level": "B2",
-     "example": "Real-time Frontier and Agentic MoE inference is now possible on the CPU workstation you already own."
-    },
-    {
-     "word": "saturate",
-     "thai": "ทำให้อิ่มตัวหรือใช้งานจนเต็มขีดจำกัด",
-     "level": "B2",
-     "example": "Register tiling saturates 8-channel DDR5 memory bandwidth."
-    },
-    {
-     "word": "bottleneck",
-     "thai": "คอขวดหรือจุดที่ทำให้การทำงานชะงัก",
-     "level": "B2",
-     "example": "The tool eliminates the 45-second CPU agent prompt re-evaluation bottleneck via warm restore."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 7,
-   "msg_id": 632,
-   "sent_ts": "2026-11-09T14:52:27.558594+07:00"
-  },
-  {
-   "id": 1051,
-   "ts": "2026-11-09T00:24:17.764853+07:00",
-   "title": "I'm not a fan of Deno's security model (2024)",
-   "link": "https://goldstein.lol/posts/deno-security/",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "A technical critique of the security architecture and terminal prompt isolation in the Deno runtime.",
-   "summary": "An engineer argues that Deno's permission model is flawed because its interactive permission prompts run directly in standard terminal streams. Malicious code could exploit uncontrolled standard output escape sequences to mislead users into granting broad system access.",
-   "vocab": [
-    {
-     "word": "bypass",
-     "thai": "ข้ามผ่านหรือหลีกเลี่ยง",
-     "level": "B2",
-     "example": "Run again with the flag to bypass this security prompt."
-    },
-    {
-     "word": "arbitrary",
-     "thai": "ตามอำเภอใจหรือไม่จำกัด",
-     "level": "B2",
-     "example": "Deno allows untrusted programs to print arbitrary data directly to stdout."
-    },
-    {
-     "word": "prompt",
-     "thai": "ข้อความแจ้งเตือนที่รอการตอบรับจากผู้ใช้",
-     "level": "B2",
-     "example": "This nice little prompt is displayed in the terminal waiting for user approval."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 7,
-   "msg_id": 634,
-   "sent_ts": "2026-11-09T14:52:28.538954+07:00"
-  },
   {
    "id": 1052,
    "ts": "2026-11-09T04:29:13.655687+07:00",
@@ -15798,9 +15624,189 @@
    "urgency": 2,
    "scale": 4,
    "credibility": 9
+  },
+  {
+   "id": 1398,
+   "ts": "2026-11-23T00:30:47.963975+07:00",
+   "title": "Why the next phase of the data center buildout runs on light",
+   "link": "https://www.datacenterdynamics.com/en/opinions/why-the-next-phase-of-the-data-center-buildout-runs-on-light/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly explains the transition from copper to silicon photonics and co-packaged optics driven by AI cluster networking limits, which heavily impacts upcoming data center architectures.",
+   "summary": "AI cluster growth is pushing copper interconnects to physical distance limits at higher bandwidths, forcing data center operators toward optical networking and silicon photonics. This architectural shift addresses rack-scale power constraints and interconnect bottlenecks for future hyperscale deployments.",
+   "vocab": [
+    {
+     "word": "unprecedented",
+     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+     "level": "B2",
+     "example": "The scale and pace of today’s data center buildout, while exciting, is unprecedented."
+    },
+    {
+     "word": "tradeoff",
+     "thai": "การแลกเปลี่ยนข้อดีข้อเสีย",
+     "level": "B2",
+     "example": "The tradeoff shifts from managing signal loss to managing how much power the optical layer itself draws."
+    },
+    {
+     "word": "waveguides",
+     "thai": "ท่อนำคลื่น (โครงสร้างนำคลื่นแสงหรือสัญญาณ)",
+     "level": "C1",
+     "example": "Silicon photonics removes the reach constraint outright by moving the data as infrared light through waveguides etched into silicon."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1399,
+   "ts": "2026-11-23T00:30:47.964014+07:00",
+   "title": "Britain is hosting the AI boom, not owning it",
+   "link": "https://www.datacenterdynamics.com/en/opinions/britain-is-hosting-the-ai-boom-not-owning-it/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers European and UK data center sovereignty, cloud market concentration, and legal compliance (CLOUD Act), affecting long-term hosting strategy.",
+   "summary": "The UK is expanding data center investments from US tech giants, raising concerns over data sovereignty and legal control under the US CLOUD Act. Meanwhile, the EU proposes strict sovereignty rules requiring public sector cloud contracts to use European-owned infrastructure.",
+   "vocab": [
+    {
+     "word": "sovereignty",
+     "thai": "อธิปไตย หรือการมีอำนาจปกครองตนเอง",
+     "level": "C1",
+     "example": "It sets different sovereignty levels for public sector cloud contracts depending on the risk."
+    },
+    {
+     "word": "liquidation",
+     "thai": "การชำระบัญชีเพื่อปิดกิจการ",
+     "level": "C1",
+     "example": "A British provider built for public sector work had already gone into liquidation in 2022."
+    },
+    {
+     "word": "commitment",
+     "thai": "ข้อผูกพัน หรือพันธสัญญา",
+     "level": "B2",
+     "example": "Microsoft says it'll spend £22bn in the UK, the biggest commitment it has ever made there."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1400,
+   "ts": "2026-11-23T00:32:00.461314+07:00",
+   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+   "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Offers practical infrastructure insights on time synchronization, network security, DDoS protection, and public Stratum 2 NTP deployment.",
+   "summary": "Jeff Geerling detailed his process of adding a public Stratum 2 NTP server to the global pool while shielding his local hardware clock. He highlighted operational risks such as persistent DDoS traffic and long-term public IP exposure.",
+   "vocab": [
+    {
+     "word": "caveat",
+     "thai": "ข้อควรระวัง",
+     "level": "C1",
+     "example": "There are two important caveats to keep in mind when joining the NTP pool."
+    },
+    {
+     "word": "decay",
+     "thai": "ค่อยๆ ลดลง",
+     "level": "B2",
+     "example": "NTP traffic directed at your IP address will slowly decay over time."
+    },
+    {
+     "word": "persistently",
+     "thai": "อย่างต่อเนื่องไม่ย่อท้อ",
+     "level": "C1",
+     "example": "A bad actor was persistently trying to overload the server for a month."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1401,
+   "ts": "2026-11-23T00:32:00.461381+07:00",
+   "title": "Backblaze customers worried of personal data sale/sharing after policy update",
+   "link": "https://www.neowin.net/news/backblaze-customers-worried-of-personal-data-salesharing-after-policy-update/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Cloud storage privacy policy updates directly impact enterprise data compliance, risk assessments, and vendor management.",
+   "summary": "Backblaze customers expressed concern over updated privacy terms regarding personal data sharing and usage. System administrators using cloud backup providers should review these policy updates to ensure regulatory compliance.",
+   "vocab": [
+    {
+     "word": "compliance",
+     "thai": "การปฏิบัติตามกฎระเบียบ",
+     "level": "C1",
+     "example": "Recent policy changes raised compliance questions for enterprise users."
+    },
+    {
+     "word": "privacy",
+     "thai": "ความเป็นส่วนตัว",
+     "level": "B2",
+     "example": "Customers expressed concern about potential changes to their data privacy."
+    },
+    {
+     "word": "policy",
+     "thai": "นโยบาย",
+     "level": "B2",
+     "example": "The cloud provider updated its privacy policy regarding user data."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 7
+  },
+  {
+   "id": 1402,
+   "ts": "2026-11-23T00:32:00.461401+07:00",
+   "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
+   "link": "https://simonwillison.net/2026/Nov/21/muru/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Introduces a novel Rust-based application server for Python workloads designed specifically for container runtime and Kubernetes scaling.",
+   "summary": "The creator of mod_wsgi released Muru, a new Rust-based application server for hosting Python WSGI and ASGI applications. It features built-in canary deployments, schedule overlays, and native Kubernetes integration.",
+   "vocab": [
+    {
+     "word": "tenant",
+     "thai": "ผู้เช่า / หน่วยใช้งานแยกส่วน",
+     "level": "C1",
+     "example": "The application server operates as a better tenant inside a container."
+    },
+    {
+     "word": "overlay",
+     "thai": "ชั้นซ้อนทับ",
+     "level": "C1",
+     "example": "The software applies configuration overlays on a predefined schedule."
+    },
+    {
+     "word": "polish",
+     "thai": "ขัดเกลา / ปรับปรุง",
+     "level": "B2",
+     "example": "He continues to polish the web server to ensure production reliability."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
   }
  ],
- "next_id": 1398,
+ "next_id": 1403,
  "vocab": [
   {
    "word": "fluctuation",
