@@ -2804,42 +2804,6 @@
  ],
  "stories": [
   {
-   "id": 1055,
-   "ts": "2026-11-09T15:53:49.246454+07:00",
-   "title": "Linus Torvalds sees signs AI-prompted patch flood has peaked",
-   "link": "https://www.theregister.com/security/2026/11/09/linus-torvalds-sees-signs-ai-prompted-patch-flood-has-peaked/5308345",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Kernel development practices affect foundational infrastructure software, though the change in patch volume requires no immediate action.",
-   "summary": "Linus Torvalds noted that the recent surge of low-quality, AI-generated code submissions to the Linux kernel appears to have reached its peak. This provides some relief to open-source maintainers who have struggled to review an influx of automated pull requests.",
-   "vocab": [
-    {
-     "word": "peak",
-     "thai": "ขึ้นถึงจุดสูงสุด",
-     "level": "B2",
-     "example": "Linus Torvalds sees signs the AI-prompted patch flood has peaked."
-    },
-    {
-     "word": "sweat",
-     "thai": "ใช้งานอุปกรณ์อย่างหนักจนคุ้มค่าที่สุด",
-     "level": "C1",
-     "example": "Customers are sweating assets amid tight budgets and high hardware prices."
-    },
-    {
-     "word": "surveillance",
-     "thai": "การเฝ้าระวังหรือการสอดแนม",
-     "level": "B2",
-     "example": "Authorities continue to upgrade smartphone surveillance tools."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
    "id": 1056,
    "ts": "2026-11-10T10:56:28.712554+07:00",
    "title": "Norway halts grid connection applications for new data centers",
@@ -15518,11 +15482,13 @@
      "example": "Next-page prefetchers preload entries when software traverses memory pages predictably."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 4,
    "urgency": 2,
    "scale": 4,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 926,
+   "sent_ts": "2026-11-23T15:55:56.705180+07:00"
   },
   {
    "id": 1398,
@@ -15554,11 +15520,13 @@
      "example": "Silicon photonics removes the reach constraint outright by moving the data as infrared light through waveguides etched into silicon."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 8,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 919,
+   "sent_ts": "2026-11-23T15:55:53.240279+07:00"
   },
   {
    "id": 1399,
@@ -15590,11 +15558,13 @@
      "example": "Microsoft says it'll spend £22bn in the UK, the biggest commitment it has ever made there."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
-   "credibility": 8
+   "credibility": 8,
+   "msg_id": 921,
+   "sent_ts": "2026-11-23T15:55:54.255337+07:00"
   },
   {
    "id": 1400,
@@ -15626,11 +15596,13 @@
      "example": "A bad actor was persistently trying to overload the server for a month."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 922,
+   "sent_ts": "2026-11-23T15:55:54.735124+07:00"
   },
   {
    "id": 1401,
@@ -15662,11 +15634,13 @@
      "example": "The cloud provider updated its privacy policy regarding user data."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 6,
    "scale": 7,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 920,
+   "sent_ts": "2026-11-23T15:55:53.740410+07:00"
   },
   {
    "id": 1402,
@@ -15698,11 +15672,13 @@
      "example": "He continues to polish the web server to ensure production reliability."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 923,
+   "sent_ts": "2026-11-23T15:55:55.248793+07:00"
   },
   {
    "id": 1403,
@@ -15734,11 +15710,13 @@
      "example": "GPT-4 was proficient at utilizing chain-of-thought reasoning productively."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 924,
+   "sent_ts": "2026-11-23T15:55:55.768476+07:00"
   },
   {
    "id": 1404,
@@ -15770,7 +15748,7 @@
      "example": "The system models different security scenarios as discrete cases."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 5,
@@ -15844,215 +15822,17 @@
      "example": "The team decided to serialize refresh requests behind a distributed lock."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 4,
    "scale": 6,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 925,
+   "sent_ts": "2026-11-23T15:55:56.229315+07:00"
   }
  ],
  "next_id": 1407,
  "vocab": [
-  {
-   "word": "expedited",
-   "thai": "ที่ทำให้รวดเร็วขึ้น",
-   "level": "C1",
-   "example": "The platform provides turnkey solutions to developers seeking an expedited route to market.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stewardship",
-   "thai": "การบริหารจัดการดูแลรักษาทรัพยากร",
-   "level": "C1",
-   "example": "Water stewardship will play a central role in the campus design.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "instruct",
-   "thai": "สั่งการ, สอน",
-   "level": "B2",
-   "example": "Putin instructed the Digital Development Ministry to conduct a study of currently available capacity.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "privately owned",
-   "thai": "ที่เป็นของเอกชน",
-   "level": "B2",
-   "example": "The decree will review floor space at privately owned data centers across the country.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "advisories",
-   "thai": "ประกาศเตือนภัย",
-   "level": "C1",
-   "example": "Security teams compare vendor advisories during an incident.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "remediate",
-   "thai": "แก้ไขและบรรเทาความเสียหาย",
-   "level": "C1",
-   "example": "Engineers need technical guidance to remediate the vulnerability.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "inference",
-   "thai": "การอนุมานหรือการประมวลผลโมเดล AI",
-   "level": "C1",
-   "example": "Fireworks' model training and inference platform will be combined with infrastructure in the UK.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "landfill",
-   "thai": "หลุมฝังกลบขยะ",
-   "level": "B2",
-   "example": "The site is primarily powered by landfill gas captured at the location.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "comprise",
-   "thai": "ประกอบด้วย",
-   "level": "B2",
-   "example": "The company claimed its platform would eventually comprise 100,000 GPUs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "theoretical",
-   "thai": "ตามทฤษฎี, ยังไม่เกิดขึ้นจริง",
-   "level": "B2",
-   "example": "Such massive capacity figures remain theoretical until built and operational.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "depressed",
-   "thai": "ที่มีราคาต่ำกว่าความเป็นจริง",
-   "level": "B2",
-   "example": "The former CEO was accused of trying to force a sale at a depressed valuation.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "margin",
-   "thai": "กำไรขั้นต้น",
-   "level": "B2",
-   "example": "Soaring RAM costs threaten supplies and squeeze margins.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "procurement",
-   "thai": "การจัดซื้อจัดจ้าง",
-   "level": "C1",
-   "example": "Hardware procurement costs are rising across the industry.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "evaluation",
-   "thai": "การประเมิน",
-   "level": "B2",
-   "example": "The companies partnered to evaluate the development of fuel cell generation.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "vulnerabilities",
-   "thai": "จุดอ่อน ช่องโหว่",
-   "level": "B2",
-   "example": "Extreme weather exposes vulnerabilities in mobile networks.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "reinforce",
-   "thai": "เสริมความแข็งแกร่ง",
-   "level": "B2",
-   "example": "Operators need to reinforce towers against storms.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "resilience",
-   "thai": "ความสามารถในการฟื้นตัว",
-   "level": "C1",
-   "example": "Network resilience is crucial during natural disasters.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "consent",
-   "thai": "ความยินยอม",
-   "level": "C1",
-   "example": "Modifying coding agents without clear user consent creates a trust problem.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "preempt",
-   "thai": "เข้ากีดกัน, มีสิทธิ์เหนือกว่า",
-   "level": "C1",
-   "example": "The demand to preempt state laws is brazen and meritless.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concede",
-   "thai": "ยอมรับ, ยอมจำนน",
-   "level": "C1",
-   "example": "The state expressly does not waive or concede any legal arguments.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "standoff",
    "thai": "ภาวะชะงักงัน, การเผชิญหน้าที่ไม่มีใครยอมใคร",
@@ -20848,6 +20628,206 @@
    "thai": "ตัวบ่งชี้",
    "level": "B2",
    "example": "Administrators should search for a specific indicator in running processes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unprecedented",
+   "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
+   "level": "B2",
+   "example": "The scale and pace of today’s data center buildout, while exciting, is unprecedented.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tradeoff",
+   "thai": "การแลกเปลี่ยนข้อดีข้อเสีย",
+   "level": "B2",
+   "example": "The tradeoff shifts from managing signal loss to managing how much power the optical layer itself draws.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "waveguides",
+   "thai": "ท่อนำคลื่น (โครงสร้างนำคลื่นแสงหรือสัญญาณ)",
+   "level": "C1",
+   "example": "Silicon photonics removes the reach constraint outright by moving the data as infrared light through waveguides etched into silicon.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "privacy",
+   "thai": "ความเป็นส่วนตัว",
+   "level": "B2",
+   "example": "Customers expressed concern about potential changes to their data privacy.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "policy",
+   "thai": "นโยบาย",
+   "level": "B2",
+   "example": "The cloud provider updated its privacy policy regarding user data.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "liquidation",
+   "thai": "การชำระบัญชีเพื่อปิดกิจการ",
+   "level": "C1",
+   "example": "A British provider built for public sector work had already gone into liquidation in 2022.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "caveat",
+   "thai": "ข้อควรระวัง",
+   "level": "C1",
+   "example": "There are two important caveats to keep in mind when joining the NTP pool.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "decay",
+   "thai": "ค่อยๆ ลดลง",
+   "level": "B2",
+   "example": "NTP traffic directed at your IP address will slowly decay over time.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "persistently",
+   "thai": "อย่างต่อเนื่องไม่ย่อท้อ",
+   "level": "C1",
+   "example": "A bad actor was persistently trying to overload the server for a month.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "tenant",
+   "thai": "ผู้เช่า / หน่วยใช้งานแยกส่วน",
+   "level": "C1",
+   "example": "The application server operates as a better tenant inside a container.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "overlay",
+   "thai": "ชั้นซ้อนทับ",
+   "level": "C1",
+   "example": "The software applies configuration overlays on a predefined schedule.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "polish",
+   "thai": "ขัดเกลา / ปรับปรุง",
+   "level": "B2",
+   "example": "He continues to polish the web server to ensure production reliability.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "latent",
+   "thai": "ที่แฝงอยู่, ที่ยังไม่แสดงออก",
+   "level": "C1",
+   "example": "Techniques are applied in different contexts to elicit the latent capabilities of that model.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "coherent",
+   "thai": "ที่เชื่อมโยงสอดคล้องกัน, ฟังดูสมเหตุสมผล",
+   "level": "B2",
+   "example": "GPT-2 was arguably the first model capable of consistently formulating coherent paragraphs of text.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "proficient",
+   "thai": "เชี่ยวชาญ, ชำนาญ",
+   "level": "B2",
+   "example": "GPT-4 was proficient at utilizing chain-of-thought reasoning productively.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "invalidate",
+   "thai": "ทำให้เป็นโมฆะหรือใช้ไม่ได้",
+   "level": "C1",
+   "example": "Many providers invalidate old refresh tokens the moment a replacement is issued.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "serialize",
+   "thai": "จัดลำดับการทำงานทีละรายการ",
+   "level": "C2",
+   "example": "The team decided to serialize refresh requests behind a distributed lock.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consecutive",
+   "thai": "ที่ต่อเนื่องกัน",
+   "level": "B2",
+   "example": "Stride prefetchers track consecutive memory accesses from the same instruction.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sophisticated",
+   "thai": "ซับซ้อน / มีการพัฒนาสูง",
+   "level": "B2",
+   "example": "Recent processors feature a much more sophisticated prefetch algorithm.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "traverse",
+   "thai": "ข้ามผ่าน / เคลื่อนผ่าน",
+   "level": "C1",
+   "example": "Next-page prefetchers preload entries when software traverses memory pages predictably.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
