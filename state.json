@@ -2791,7 +2791,16 @@
   "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
   "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
   "https://www.benkuhn.net/meditation/",
-  "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/"
+  "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+  "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+  "https://spelunkr.tv",
+  "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+  "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+  "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+  "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
+  "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+  "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+  "https://github.com/AFK-surf/xnulinux"
  ],
  "stories": [
   {
@@ -15730,20 +15739,120 @@
    "urgency": 3,
    "scale": 6,
    "credibility": 9
+  },
+  {
+   "id": 1404,
+   "ts": "2026-11-23T11:37:43.995694+07:00",
+   "title": "$1 of GPT-5.1 tokens finds new ways around China’s Great Firewall",
+   "link": "https://www.theregister.com/security/2026/11/23/1-of-gpt-51-tokens-finds-new-ways-around-chinas-great-firewall/5311532",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "The article details research on LLMs manipulating network stack packets to bypass firewalls, which touches on network security concepts but lacks immediate ops impact.",
+   "summary": "Researchers demonstrated an automated AI system called CircumVolve that generates network manipulation techniques to bypass censor firewalls for under one dollar in API costs. This research highlights how generative AI can rapidly discover protocol edge cases, though it currently operates as an academic proof-of-concept.",
+   "vocab": [
+    {
+     "word": "laborious",
+     "thai": "ที่ต้องใช้ความพยายามและเวลามาก",
+     "level": "C1",
+     "example": "Finding holes in security systems manually is a laborious process."
+    },
+    {
+     "word": "circumvention",
+     "thai": "การหลบเลี่ยง",
+     "level": "C1",
+     "example": "The paper explores automated censorship circumvention strategies."
+    },
+    {
+     "word": "discrete",
+     "thai": "ที่แยกเป็นอิสระจากกัน",
+     "level": "C1",
+     "example": "The system models different security scenarios as discrete cases."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1405,
+   "ts": "2026-11-23T11:37:43.995772+07:00",
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "A critical vendor security notice details active exploitation affecting routers and remote KVM administration hardware used in server environments.",
+   "summary": "GL.iNet disclosed a vulnerability in its cloud management platform that allowed attackers to install malware on routers and KVM devices. System administrators should inspect active hardware processes and immediately update to patched stable firmware.",
+   "vocab": [
+    {
+     "word": "unauthorized",
+     "thai": "ที่ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "An unauthorized party exploited the vulnerability to access devices."
+    },
+    {
+     "word": "indicator",
+     "thai": "ตัวบ่งชี้",
+     "level": "B2",
+     "example": "Administrators should search for a specific indicator in running processes."
+    },
+    {
+     "word": "advisory",
+     "thai": "ประกาศเตือนภัยหรือคำแนะนำ",
+     "level": "C1",
+     "example": "The vendor published an official customer advisory about the breach."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 6,
+   "credibility": 10,
+   "msg_id": 917,
+   "sent_ts": "2026-11-23T11:37:44.539148+07:00"
+  },
+  {
+   "id": 1406,
+   "ts": "2026-11-23T11:37:44.539367+07:00",
+   "title": "What we learned operating auth for 1k APIs",
+   "link": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "This engineering post-mortem addresses production auth mechanics, OAuth token rotation pitfalls, and distributed lock patterns useful for DevOps and API operators.",
+   "summary": "Nango shared architectural lessons learned after a code bug accidentally wiped active refresh tokens for hundreds of third-party API connections. The team described how enforcing strict distributed locks prevents race conditions across different OAuth providers.",
+   "vocab": [
+    {
+     "word": "invalidate",
+     "thai": "ทำให้เป็นโมฆะหรือใช้ไม่ได้",
+     "level": "C1",
+     "example": "Many providers invalidate old refresh tokens the moment a replacement is issued."
+    },
+    {
+     "word": "anomaly",
+     "thai": "ความผิดปกติ",
+     "level": "C1",
+     "example": "Platform-level anomalies in token refreshes immediately page the on-call team."
+    },
+    {
+     "word": "serialize",
+     "thai": "จัดลำดับการทำงานทีละรายการ",
+     "level": "C2",
+     "example": "The team decided to serialize refresh requests behind a distributed lock."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 9
   }
  ],
- "next_id": 1404,
+ "next_id": 1407,
  "vocab": [
-  {
-   "word": "fluctuation",
-   "thai": "ความผันผวน",
-   "level": "C1",
-   "example": "Using batteries and power controls to smooth demand fluctuations.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "expedited",
    "thai": "ที่ทำให้รวดเร็วขึ้น",
@@ -20729,6 +20838,16 @@
    "thai": "การปลอมแปลงตัวตนหรือข้อมูล",
    "level": "B2",
    "example": "Security features detect port scans, cleartext logins, and ARP spoofing.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "indicator",
+   "thai": "ตัวบ่งชี้",
+   "level": "B2",
+   "example": "Administrators should search for a specific indicator in running processes.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
