@@ -2828,586 +2828,6 @@
  ],
  "stories": [
   {
-   "id": 1090,
-   "ts": "2026-11-11T02:06:42.873720+07:00",
-   "title": "Application filed for $8bn data center project in Quanah, Texas",
-   "link": "https://www.datacenterdynamics.com/en/news/application-filed-for-8bn-data-center-project-in-quanah-texas/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "A massive $8 billion investment proposal indicates continued aggressive expansion of hyperscale infrastructure in Texas.",
-   "summary": "A new $8 billion data center project has been proposed in Quanah, Texas, by 19000-200 Holdings. The facility aims to provide up to 756MW of capacity using water-efficient closed-loop cooling systems.",
-   "vocab": [
-    {
-     "word": "turnkey",
-     "thai": "ที่พร้อมใช้งานทันที",
-     "level": "C1",
-     "example": "Integra provides turnkey data center construction and infrastructure services."
-    },
-    {
-     "word": "dedicated",
-     "thai": "ที่อุทิศให้เฉพาะ",
-     "level": "B2",
-     "example": "The company launched a dedicated project website to share details about the new campus."
-    },
-    {
-     "word": "proposed",
-     "thai": "ที่ถูกเสนอ",
-     "level": "B2",
-     "example": "A large-scale data center project has been proposed for Texas."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 3,
-   "credibility": 10
-  },
-  {
-   "id": 1091,
-   "ts": "2026-11-11T02:06:42.873780+07:00",
-   "title": "Vodafone progresses cost-savings strategy, but CEO warns German unit \"not yet where it needs to be\"",
-   "link": "https://www.datacenterdynamics.com/en/news/vodafone-progresses-cost-savings-strategy-but-ceo-warns-german-unit-not-yet-where-it-needs-to-be/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Large-scale telco restructuring and impairment charges reflect broader economic pressures on major infrastructure operators.",
-   "summary": "Vodafone is continuing its cost-cutting strategy, including thousands of job cuts, as it struggles with performance in its German market. Despite these challenges, the group reported overall revenue growth driven by its African and Turkish operations.",
-   "vocab": [
-    {
-     "word": "impairment",
-     "thai": "การด้อยค่าของสินทรัพย์",
-     "level": "C2",
-     "example": "The company booked a large impairment on its German unit due to underperformance."
-    },
-    {
-     "word": "synergies",
-     "thai": "การทำงานร่วมกันเพื่อให้เกิดผลลัพธ์ที่ดีขึ้น",
-     "level": "C1",
-     "example": "The company achieved significant savings through synergies in its UK business."
-    },
-    {
-     "word": "structurally",
-     "thai": "ในเชิงโครงสร้าง",
-     "level": "B2",
-     "example": "The action plan focuses on structurally simplifying the company's operations."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 10
-  },
-  {
-   "id": 1092,
-   "ts": "2026-11-11T02:06:42.873798+07:00",
-   "title": "SoftBank, Petros, and Grab plan Malaysian data center buildout with \"long-term target\" of 5GW",
-   "link": "https://www.datacenterdynamics.com/en/news/softbank-petros-and-grab-plan-malaysian-data-center-buildout-with-long-term-target-of-5gw/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "A massive 5GW target in Malaysia signals a major shift in regional AI infrastructure investment.",
-   "summary": "SoftBank, Grab, and Petros have formed a partnership to develop data centers in Malaysia with a long-term goal of 5GW. This project is part of Malaysia's effort to become a major hub for AI and cloud infrastructure in the Asia-Pacific region.",
-   "vocab": [
-    {
-     "word": "venture",
-     "thai": "กิจการร่วมค้า",
-     "level": "B2",
-     "example": "The three companies have partnered for a new data center venture."
-    },
-    {
-     "word": "collaboration",
-     "thai": "การร่วมมือ",
-     "level": "B2",
-     "example": "The data centers will be developed in close collaboration with the government."
-    },
-    {
-     "word": "framework",
-     "thai": "กรอบการทำงาน",
-     "level": "B2",
-     "example": "The companies announced a framework agreement to guide their future investment."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 10
-  },
-  {
-   "id": 1093,
-   "ts": "2026-11-11T02:06:42.873816+07:00",
-   "title": "Thousands oppose data center expansion in Italy, gather in Milan for protest",
-   "link": "https://www.datacenterdynamics.com/en/news/thousands-oppose-data-center-expansion-in-italy-gather-in-milan-for-protest/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Growing public opposition to data centers is becoming a significant regulatory and operational risk for developers in Europe.",
-   "summary": "Thousands of protesters in Milan are demanding stricter regulations on data center development due to concerns over water and energy consumption. This reflects a wider European trend of local communities challenging the rapid expansion of energy-intensive digital infrastructure.",
-   "vocab": [
-    {
-     "word": "proliferation",
-     "thai": "การเพิ่มจำนวนอย่างรวดเร็ว",
-     "level": "C1",
-     "example": "Residents are concerned about the proliferation of data centers in their local areas."
-    },
-    {
-     "word": "impoverish",
-     "thai": "ทำให้ยากจนลง",
-     "level": "C1",
-     "example": "Critics argue that these facilities impoverish municipalities by consuming excessive local resources."
-    },
-    {
-     "word": "authorize",
-     "thai": "อนุญาต",
-     "level": "B2",
-     "example": "Civic groups are calling on the government to halt the authorization of new projects."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 3,
-   "credibility": 10
-  },
-  {
-   "id": 1094,
-   "ts": "2026-11-11T02:07:13.673307+07:00",
-   "title": "Fluidstack begins construction of 99-acre data center campus in Wythe County, Virginia",
-   "link": "https://www.datacenterdynamics.com/en/news/fluidstack-begins-construction-of-99-acre-data-center-campus-in-wythe-county-virginia/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "This is a standard regional data center construction announcement with moderate industry impact.",
-   "summary": "Fluidstack has started building a large data center campus in Wythe County, Virginia. The project represents a $1 billion investment and is expected to be operational by late 2027.",
-   "vocab": [
-    {
-     "word": "operational",
-     "thai": "ที่พร้อมใช้งาน",
-     "level": "B2",
-     "example": "The new data center will be fully operational by the end of 2027."
-    },
-    {
-     "word": "investment",
-     "thai": "การลงทุน",
-     "level": "B2",
-     "example": "The project is expected to see more than $1 billion in investment."
-    },
-    {
-     "word": "infrastructure",
-     "thai": "โครงสร้างพื้นฐาน",
-     "level": "B2",
-     "example": "Fluidstack will cover costs related to power infrastructure upgrades."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 3,
-   "credibility": 9
-  },
-  {
-   "id": 1095,
-   "ts": "2026-11-11T02:07:13.673335+07:00",
-   "title": "Colt breaks ground on data center in Berlin, Germany",
-   "link": "https://www.datacenterdynamics.com/en/news/colt-breaks-ground-on-data-center-in-berlin-germany/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Colt is a major European provider, and this expansion adds significant capacity to the German market.",
-   "summary": "Colt Data Centre Services has begun construction on a new 54MW data center project near Berlin. The facility is scheduled to go live by the end of 2028.",
-   "vocab": [
-    {
-     "word": "milestone",
-     "thai": "เหตุการณ์สำคัญ",
-     "level": "B2",
-     "example": "The groundbreaking marks an exciting milestone in the delivery of critical infrastructure."
-    },
-    {
-     "word": "capacity",
-     "thai": "ความจุ",
-     "level": "B2",
-     "example": "The two data centers will provide a total of 54MW of IT capacity."
-    },
-    {
-     "word": "portfolio",
-     "thai": "กลุ่มสินทรัพย์หรือผลงาน",
-     "level": "B2",
-     "example": "Colt DCS’ portfolio includes 15 operational data centers across Europe."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 9
-  },
-  {
-   "id": 1096,
-   "ts": "2026-11-11T02:07:13.673357+07:00",
-   "title": "Boosteroid, Gaw Capital, and Firebird AI plan 480MW data center in Kazakhstan",
-   "link": "https://www.datacenterdynamics.com/en/news/boosteroid-gaw-capital-and-firebird-ai-plan-480mw-data-center-in-kazakhstan/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "This is a massive multi-gigawatt AI infrastructure project in a developing market.",
-   "summary": "A consortium is planning a 480MW data center project in Kazakhstan as part of a larger national AI infrastructure initiative. The project aims to support growing demand for AI and cloud gaming compute.",
-   "vocab": [
-    {
-     "word": "preliminary",
-     "thai": "ขั้นต้น",
-     "level": "B2",
-     "example": "The companies have signed preliminary agreements to establish new data center capacity."
-    },
-    {
-     "word": "commissioning",
-     "thai": "การทดสอบระบบก่อนใช้งานจริง",
-     "level": "C1",
-     "example": "The third data center is scheduled for commissioning in the fourth quarter of 2027."
-    },
-    {
-     "word": "expandable",
-     "thai": "ที่สามารถขยายได้",
-     "level": "B2",
-     "example": "The 480MW project is said to be expandable to 620MW."
-    }
-   ],
-   "status": "skipped",
-   "impact": 7,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 1097,
-   "ts": "2026-11-11T02:07:13.673371+07:00",
-   "title": "UK's Met Office completes managed cloud supercomputing service",
-   "link": "https://www.datacenterdynamics.com/en/news/uks-met-office-completes-managed-cloud-supercomputing-service/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "This is a major case study of a national government agency successfully migrating critical HPC workloads to the public cloud.",
-   "summary": "The UK Met Office has completed its transition to a cloud-based supercomputing service hosted by Microsoft. The new system significantly increases processing power for weather forecasting and climate research.",
-   "vocab": [
-    {
-     "word": "resilience",
-     "thai": "ความสามารถในการฟื้นตัว",
-     "level": "C1",
-     "example": "The cloud-based platform has improved the Met Office's reliability and resilience."
-    },
-    {
-     "word": "underpin",
-     "thai": "เป็นรากฐาน",
-     "level": "C1",
-     "example": "The new supercomputing capability underpins the forecasts and warnings provided to the public."
-    },
-    {
-     "word": "sophisticated",
-     "thai": "ซับซ้อน",
-     "level": "B2",
-     "example": "The system allows the Met Office to conduct increasingly sophisticated scientific modelling."
-    }
-   ],
-   "status": "skipped",
-   "impact": 8,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 1098,
-   "ts": "2026-11-11T02:07:13.673385+07:00",
-   "title": "Canada's Telus outlines $900m cost savings target by end of 2028",
-   "link": "https://www.datacenterdynamics.com/en/news/canadas-telus-outlines-900m-cost-savings-target-by-end-of-2028/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Financial restructuring at a major telco often signals shifts in infrastructure spending priorities.",
-   "summary": "Canadian carrier Telus has announced a plan to cut costs by $900 million by 2028. The strategy focuses on improving operational efficiency and refocusing the business on AI and communications infrastructure.",
-   "vocab": [
-    {
-     "word": "transformation",
-     "thai": "การเปลี่ยนแปลง",
-     "level": "B2",
-     "example": "The company's transformation strategy aims to return Telus to a leading infrastructure player."
-    },
-    {
-     "word": "efficiency",
-     "thai": "ประสิทธิภาพ",
-     "level": "B2",
-     "example": "The company aims to achieve savings through capital expenditure efficiencies."
-    },
-    {
-     "word": "sustainable",
-     "thai": "ที่ยั่งยืน",
-     "level": "B2",
-     "example": "The strategy is designed to drive profitable and sustainable growth."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 10
-  },
-  {
-   "id": 1099,
-   "ts": "2026-11-11T02:07:13.673401+07:00",
-   "title": "Netcompany takes ownership stake in Danish Centre for AI Innovation, $75m investment planned",
-   "link": "https://www.datacenterdynamics.com/en/news/netcompany-takes-ownership-stake-in-danish-centre-for-ai-innovation-75m-investment-planned/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "This highlights the trend of sovereign AI infrastructure investment involving public-private partnerships.",
-   "summary": "Netcompany has joined a partnership to invest $75 million into the Danish Centre for AI Innovation. The funding aims to expand access to sovereign AI compute resources for Danish researchers and businesses.",
-   "vocab": [
-    {
-     "word": "sovereign",
-     "thai": "ที่มีอำนาจอธิปไตย (ในบริบทนี้คือการควบคุมข้อมูลเอง)",
-     "level": "C1",
-     "example": "The investment aims to expand access to sovereign AI for public institutions."
-    },
-    {
-     "word": "pledge",
-     "thai": "ให้คำมั่นสัญญา",
-     "level": "B2",
-     "example": "The companies are pledging additional funding to boost Denmark’s AI infrastructure."
-    },
-    {
-     "word": "inaugurate",
-     "thai": "เปิดตัวอย่างเป็นทางการ",
-     "level": "C1",
-     "example": "The Gefion supercomputer was inaugurated by the king of Denmark in 2024."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 3,
-   "credibility": 10
-  },
-  {
-   "id": 1100,
-   "ts": "2026-11-11T02:07:13.673415+07:00",
-   "title": "Puerto Rico puts out tender for cable landing station",
-   "link": "https://www.datacenterdynamics.com/en/news/puerto-rico-puts-out-tender-for-cable-landing-station/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Infrastructure tenders are critical for network operators and data center developers looking for new connectivity points.",
-   "summary": "Puerto Rico has issued a tender for the construction of a new subsea cable landing station in Mayagüez. The facility is intended to support up to four submarine cables to improve regional connectivity.",
-   "vocab": [
-    {
-     "word": "tender",
-     "thai": "การประมูลงาน",
-     "level": "B2",
-     "example": "Puerto Rico has put out a tender for the design and construction of a cable landing station."
-    },
-    {
-     "word": "redundant",
-     "thai": "ที่มีสำรองไว้",
-     "level": "B2",
-     "example": "The facility will include redundant power and cooling systems to ensure uptime."
-    },
-    {
-     "word": "conduit",
-     "thai": "ท่อร้อยสาย",
-     "level": "C1",
-     "example": "The project includes the installation of underground conduits for fiber optic cables."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 2,
-   "credibility": 10
-  },
-  {
-   "id": 1101,
-   "ts": "2026-11-11T02:07:37.904697+07:00",
-   "title": "AMD winds up Zen 6 cores for faster clock speeds",
-   "link": "https://www.theregister.com/systems/2026/11/10/amd-winds-up-zen-6-cores-for-faster-clock-speeds/5308603",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "New CPU architectures directly impact future data center server density and power efficiency.",
-   "summary": "AMD has announced its upcoming Zen 6 core architecture, which promises significant performance gains for AI and server workloads. The new design includes both high-frequency and high-density variants to optimize power and compute efficiency.",
-   "vocab": [
-    {
-     "word": "uplift",
-     "thai": "การเพิ่มขึ้น",
-     "level": "C1",
-     "example": "The new architecture provides a 27 percent uplift in performance."
-    },
-    {
-     "word": "differentiator",
-     "thai": "สิ่งที่ทำให้แตกต่าง",
-     "level": "C1",
-     "example": "Clock speed is the main differentiator between the two core types."
-    },
-    {
-     "word": "iterative",
-     "thai": "ที่ทำซ้ำๆ เป็นขั้นตอน",
-     "level": "C1",
-     "example": "The design is not merely iterative but represents a major generational jump."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 3,
-   "scale": 9,
-   "credibility": 10,
-   "msg_id": 664,
-   "sent_ts": "2026-11-11T07:18:09.789744+07:00"
-  },
-  {
-   "id": 1102,
-   "ts": "2026-11-11T02:07:37.904730+07:00",
-   "title": "AMD's Epyc X-chips are back after a three-year hiatus",
-   "link": "https://www.theregister.com/systems/2026/11/10/amds-epyc-x-chips-are-back-after-a-three-year-hiatus/5308269",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "The return of specialized chips is relevant for infrastructure planning but lacks specific technical details in this snippet.",
-   "summary": "AMD is reintroducing its Epyc X-chips after a three-year break. These processors are designed to address specific high-performance computing needs in the data center.",
-   "vocab": [
-    {
-     "word": "hiatus",
-     "thai": "ช่วงหยุดพัก",
-     "level": "C2",
-     "example": "The product returned to the market after a three-year hiatus."
-    },
-    {
-     "word": "address",
-     "thai": "จัดการ/แก้ไข",
-     "level": "B2",
-     "example": "The new chips are designed to address specific computing requirements."
-    },
-    {
-     "word": "specific",
-     "thai": "เฉพาะเจาะจง",
-     "level": "B2",
-     "example": "The chips are built for specific high-performance workloads."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 10
-  },
-  {
-   "id": 1103,
-   "ts": "2026-11-11T02:07:37.904749+07:00",
-   "title": "A closer look at Verano, AMD's first step toward a Zen-based superchip to rival Nvidia's Vera Rubin",
-   "link": "https://www.theregister.com/systems/2026/11/10/a-closer-look-at-verano-amds-first-step-toward-a-zen-based-superchip-to-rival-nvidias-vera-rubin/5308523",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Competition in AI superchips is critical for data center hardware strategy and vendor selection.",
-   "summary": "AMD is developing 'Verano', a new superchip designed to compete directly with Nvidia's Vera Rubin platform. The chip aims to balance memory and interconnects to support large-scale AI infrastructure.",
-   "vocab": [
-    {
-     "word": "rival",
-     "thai": "คู่แข่ง",
-     "level": "B2",
-     "example": "AMD is creating a superchip to rival Nvidia's latest hardware."
-    },
-    {
-     "word": "balanced",
-     "thai": "สมดุล",
-     "level": "B2",
-     "example": "The components are perfectly balanced for the mission of AI training."
-    },
-    {
-     "word": "mission",
-     "thai": "ภารกิจ",
-     "level": "B2",
-     "example": "The chip has a singular mission of keeping AI systems fed with data."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 4,
-   "scale": 9,
-   "credibility": 10,
-   "msg_id": 665,
-   "sent_ts": "2026-11-11T07:18:10.294774+07:00"
-  },
-  {
-   "id": 1104,
-   "ts": "2026-11-11T02:07:37.904766+07:00",
-   "title": "Trump taps Palantir security chief to run battered US cyber defense agency",
-   "link": "https://www.theregister.com/security/2026/11/10/trump-taps-palantir-security-chief-to-run-battered-us-cyber-defense-agency/5308763",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Leadership changes in government cyber agencies affect national security policy and infrastructure regulations.",
-   "summary": "The incoming US administration has selected a security executive from Palantir to lead the nation's primary cyber defense agency. This appointment signals a shift in how the government approaches critical infrastructure protection.",
-   "vocab": [
-    {
-     "word": "battered",
-     "thai": "ที่ได้รับความเสียหาย",
-     "level": "B2",
-     "example": "The new leader is tasked with fixing the battered cyber defense agency."
-    },
-    {
-     "word": "appointment",
-     "thai": "การแต่งตั้ง",
-     "level": "B2",
-     "example": "The appointment of the new chief was announced yesterday."
-    },
-    {
-     "word": "signal",
-     "thai": "ส่งสัญญาณ",
-     "level": "B2",
-     "example": "This move may signal a change in national security policy."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 10
-  },
-  {
-   "id": 1105,
-   "ts": "2026-11-11T02:07:37.904849+07:00",
-   "title": "Stanford's century-long AI study admits it's already out of date",
-   "link": "https://www.theregister.com/ai-and-ml/2026/11/10/stanfords-century-long-ai-study-admits-its-already-out-of-date/5308574",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "Academic studies on AI are interesting but do not directly impact operational infrastructure tasks.",
-   "summary": "Stanford University has acknowledged that its long-term AI study is no longer current due to the rapid pace of technological change. The researchers are now looking for ways to update their framework.",
-   "vocab": [
-    {
-     "word": "acknowledge",
-     "thai": "ยอมรับ",
-     "level": "B2",
-     "example": "The university had to acknowledge that the study was out of date."
-    },
-    {
-     "word": "rapid",
-     "thai": "รวดเร็ว",
-     "level": "B2",
-     "example": "The rapid pace of change makes long-term predictions difficult."
-    },
-    {
-     "word": "framework",
-     "thai": "กรอบการทำงาน",
-     "level": "B2",
-     "example": "They are developing a new framework for the research."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 1,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
    "id": 1106,
    "ts": "2026-11-11T07:22:14.173313+07:00",
    "title": "Barracuda’s email security gateways bitten by make-me-root vulns",
@@ -16791,7 +16211,7 @@
    "thai": "ที่เกิดขึ้นซ้ำๆ",
    "level": "C1",
    "example": "Browser vendors face recurrent zero-day exploits in complex rendering engines.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17341,7 +16761,7 @@
    "thai": "ที่อ่านได้เพียงอย่างเดียว",
    "level": "B2",
    "example": "The server partition was configured as read-only to prevent unauthorized changes.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17861,7 +17281,7 @@
    "thai": "ที่ดำเนินไปอย่างราบรื่นหรือไม่ก่อให้เกิดความเสียหายรุนแรง",
    "level": "B2",
    "example": "The updated network protocol supports graceful failure on unreachable endpoints.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17891,7 +17311,7 @@
    "thai": "เป็นวงกลมหรือหมุนเวียนไปมา",
    "level": "B2",
    "example": "Executives pushed to reduce circular financing agreements with partner startups.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18681,7 +18101,7 @@
    "thai": "กระแสหลัก / ที่ใช้กันทั่วไป",
    "level": "B2",
    "example": "Azure Linux prepares to dress itself up for mainstream workloads.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20303,26 +19723,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6325854801095557920": {
-   "word": "prefetch",
-   "correct": 1
-  },
-  "6325854801095557921": {
-   "word": "accelerated",
-   "correct": 1
-  },
-  "6325854801095557922": {
-   "word": "adopters",
-   "correct": 1
-  },
-  "6325854801095557923": {
-   "word": "accommodate",
-   "correct": 3
-  },
-  "6325854801095557924": {
-   "word": "negotiate",
-   "correct": 0
-  },
   "6327851329528006133": {
    "word": "inbound",
    "correct": 1
@@ -20501,6 +19901,26 @@
   },
   "6064391395571925914": {
    "word": "affectionate",
+   "correct": 2
+  },
+  "6066735670326461137": {
+   "word": "read-only",
+   "correct": 3
+  },
+  "6066735670326461138": {
+   "word": "recurrent",
+   "correct": 1
+  },
+  "6066735670326461139": {
+   "word": "mainstream",
+   "correct": 0
+  },
+  "6066735670326461140": {
+   "word": "graceful",
+   "correct": 2
+  },
+  "6066735670326461141": {
+   "word": "circular",
    "correct": 2
   }
  },
