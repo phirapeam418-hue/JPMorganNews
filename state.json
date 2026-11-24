@@ -16068,7 +16068,7 @@
    "thai": "คล้ายคลึงกัน",
    "level": "C1",
    "example": "He viewed recent agent hacking incidents as akin to a nuclear warning shot.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -17808,7 +17808,7 @@
    "thai": "ตกแต่งให้ดูดีขึ้น",
    "level": "C1",
    "example": "Very nearly 30something environment gets spruced up.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18018,7 +18018,7 @@
    "thai": "ที่แสดงความรักใคร่",
    "level": "B2",
    "example": "The two were allegedly captured on video being affectionate at a hotel.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19508,7 +19508,7 @@
    "thai": "มากเกินไป",
    "level": "B2",
    "example": "You can probably guess what he blames for the excessive workload.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19568,7 +19568,7 @@
    "thai": "ที่ทำงานได้ด้วยตนเองอย่างอิสระ",
    "level": "B2",
    "example": "Autopilot is a cloud-based autonomous AI agent that can complete delegated tasks.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20840,26 +20840,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6321178762826220889": {
-   "word": "colocation",
-   "correct": 2
-  },
-  "6321178762826220890": {
-   "word": "intercept",
-   "correct": 1
-  },
-  "6321178762826220891": {
-   "word": "cellular",
-   "correct": 0
-  },
-  "6321178762826220892": {
-   "word": "reconciliation",
-   "correct": 3
-  },
-  "6321178762826220893": {
-   "word": "harden",
-   "correct": 2
-  },
   "6325854801095557920": {
    "word": "prefetch",
    "correct": 1
@@ -21039,6 +21019,26 @@
   "6059702356436583833": {
    "word": "forge",
    "correct": 0
+  },
+  "6064391395571925910": {
+   "word": "excessive",
+   "correct": 2
+  },
+  "6064391395571925911": {
+   "word": "spruced",
+   "correct": 0
+  },
+  "6064391395571925912": {
+   "word": "autonomous",
+   "correct": 2
+  },
+  "6064391395571925913": {
+   "word": "akin",
+   "correct": 0
+  },
+  "6064391395571925914": {
+   "word": "affectionate",
+   "correct": 2
   }
  },
  "fail": {
