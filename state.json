@@ -2800,7 +2800,31 @@
   "https://www.gameboymuseum.com/single-post/the-unlicensed-gospel-wisdom-tree-s-bible-games-on-the-game-boy",
   "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
   "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-  "https://github.com/AFK-surf/xnulinux"
+  "https://github.com/AFK-surf/xnulinux",
+  "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+  "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/",
+  "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+  "https://www.datacenterdynamics.com/en/news/former-telephone-exchange-in-eastbourne-uk-eyed-for-residential-development-again/",
+  "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+  "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/",
+  "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+  "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+  "https://www.datacenterdynamics.com/en/news/germanys-11-turns-to-european-commission-following-low-band-spectrum-snub/",
+  "https://www.datacenterdynamics.com/en/opinions/three-water-numbers-none-of-them-comparable/",
+  "https://www.datacenterdynamics.com/en/whitepapers/edge-to-core-fiber-infrastructure-for-distributed-ai-growth-and-the-retrofit-challenge/",
+  "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-board-reinstates-jensen-huang-as-ceo/",
+  "https://www.datacenterdynamics.com/en/news/eu-backs-medusa-subsea-cable-with-111m-grant-and-60m-loan/",
+  "https://www.datacenterdynamics.com/en/whitepapers/banking-on-a-sustainable-future/",
+  "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+  "https://www.theregister.com/ai-and-ml/2026/11/24/anthropic-says-claude-solved-an-age-old-math-problem-but-the-written-proof-is-250000-pages-of-slop/5311775",
+  "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+  "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+  "https://www.theregister.com/security/2026/11/23/bluetooth-brakes-are-broken-as-researchers-find-anyone-can-control-them/5311748",
+  "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
+  "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
+  "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
+  "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684"
  ],
  "stories": [
   {
@@ -15829,130 +15853,704 @@
    "credibility": 9,
    "msg_id": 925,
    "sent_ts": "2026-11-23T15:55:56.229315+07:00"
+  },
+  {
+   "id": 1407,
+   "ts": "2026-11-24T10:37:00.409453+07:00",
+   "title": "Apollo and Goldman Sachs lead $44bn SpaceX GPU financing deal",
+   "link": "https://www.datacenterdynamics.com/en/news/apollo-and-goldman-sachs-lead-44bn-spacex-gpu-financing-deal/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Reports a historic $44 billion debt deal to fund SpaceX's massive Nvidia GPU infrastructure purchase.",
+   "summary": "Apollo and Goldman Sachs led a record $44 billion financing deal for SpaceX to purchase Nvidia Vera Rubin GPUs. The hardware will be delivered in 2027 to expand SpaceX's ground-based AI computing capacity.",
+   "vocab": [
+    {
+     "word": "syndication",
+     "thai": "การรวมกลุ่มทำธุรกรรมทางการเงิน",
+     "level": "C1",
+     "example": "The transaction involved complex syndication among major financial institutions."
+    },
+    {
+     "word": "terrestrial",
+     "thai": "บนพื้นดิน (ไม่ใช่ในอวกาศหรือใต้ทะเล)",
+     "level": "C1",
+     "example": "SpaceX will deploy the hardware to support its terrestrial compute buildout."
+    },
+    {
+     "word": "origination",
+     "thai": "การริเริ่มสร้างข้อตกลงทางการเงิน",
+     "level": "C2",
+     "example": "The firm handled the origination and structuring of the major GPU financing deal."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1408,
+   "ts": "2026-11-24T10:37:00.409512+07:00",
+   "title": "Cogent sells three data centers to I Squared Capital's Saragon",
+   "link": "https://www.datacenterdynamics.com/en/news/cogent-sells-three-data-centers-to-i-squared-capitals-saragon/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details a $35M data center asset sale between Cogent and Saragon, reflecting ongoing colocation market shifts.",
+   "summary": "Cogent Communications has agreed to sell three data centers in Nebraska, Washington, and Wyoming for $35 million. The deal with Saragon Infrastructure is scheduled to close in early 2027.",
+   "vocab": [
+    {
+     "word": "definitive",
+     "thai": "ขั้นเด็ดขาดหรือสมบูรณ์",
+     "level": "B2",
+     "example": "The company entered into a definitive agreement to sell three data center facilities."
+    },
+    {
+     "word": "aggregate",
+     "thai": "ยอดรวมหรือผลรวม",
+     "level": "B2",
+     "example": "The sites were sold for an aggregate purchase price of thirty-five million dollars."
+    },
+    {
+     "word": "subsidiary",
+     "thai": "บริษัทย่อย",
+     "level": "B2",
+     "example": "The deal was completed through its indirect wholly owned subsidiary."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1409,
+   "ts": "2026-11-24T10:37:00.409541+07:00",
+   "title": "AI server OEMs hiking prices by 45% as memory shortage bites - report",
+   "link": "https://www.datacenterdynamics.com/en/news/ai-server-oems-hiking-prices-by-45-as-memory-shortage-bites-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly affects server procurement budget and operations as global memory shortages trigger 45% price increases on server hardware.",
+   "summary": "Major server OEMs like Dell and HPE are raising AI server prices by up to 45 percent due to extreme memory shortages. Engineering teams are turning to software tricks and new architectural methods to reduce memory footprint and lower costs.",
+   "vocab": [
+    {
+     "word": "dearth",
+     "thai": "ความขาดแคลนอย่างมาก",
+     "level": "C2",
+     "example": "The dearth of server components shows no signs of slowing down."
+    },
+    {
+     "word": "alleviate",
+     "thai": "บรรเทาหรือทำให้ลดลง",
+     "level": "C1",
+     "example": "Suppliers have sought to alleviate the high hardware costs for key buyers."
+    },
+    {
+     "word": "skyrocketed",
+     "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Memory hardware prices have skyrocketed in recent months."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 9,
+   "credibility": 8,
+   "msg_id": 933,
+   "sent_ts": "2026-11-24T10:37:01.013529+07:00"
+  },
+  {
+   "id": 1410,
+   "ts": "2026-11-24T10:37:01.013745+07:00",
+   "title": "The coming wave: Is compute at sea ready to sink or swim?",
+   "link": "https://www.datacenterdynamics.com/en/analysis/underwater-data-centers-floating-compute-at-sea-us-china/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Explores offshore and underwater data center concepts as an alternative solution to land and power shortages.",
+   "summary": "Tech investors and startups are increasingly looking at ocean-based data centers to overcome land and power constraints on shore. While floating compute concepts present novel cooling and power options, they still face technical and historical challenges.",
+   "vocab": [
+    {
+     "word": "insatiable",
+     "thai": "ที่ไม่รู้จักพอหรือไม่สิ้นสุด",
+     "level": "C2",
+     "example": "The market demand for AI data centers appears insatiable."
+    },
+    {
+     "word": "scrutiny",
+     "thai": "การตรวจสอบอย่างละเอียดเข้มงวด",
+     "level": "C1",
+     "example": "The industry is facing more environmental scrutiny than ever before."
+    },
+    {
+     "word": "discrete",
+     "thai": "ที่แยกเป็นเอกเทศหรือไม่เป็นที่สังเกต",
+     "level": "C1",
+     "example": "Offshore servers offer a discrete location away from public opposition."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1411,
+   "ts": "2026-11-24T10:37:01.013778+07:00",
+   "title": "Sponsored: Solving cabling challenges behind AI data center growth",
+   "link": "https://www.datacenterdynamics.com/en/marketwatch/solving-cabling-challenges-behind-ai-data-center-growth/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Sponsored overview discussing high-density fiber cabling challenges in AI data center deployments.",
+   "summary": "Rapid growth in AI data centers is driving massive demand for high-density fiber cabling over longer distances. Operators must manage supply chain delays and labor shortages while building out dense network infrastructure.",
+   "vocab": [
+    {
+     "word": "upskilling",
+     "thai": "การยกระดับหรือพัฒนาทักษะ",
+     "level": "C1",
+     "example": "Companies are upskilling their workforce to manage dense networks."
+    },
+    {
+     "word": "intensify",
+     "thai": "ทวีความเข้มข้นหรือเพิ่มขึ้น",
+     "level": "B2",
+     "example": "Demands will grow as digital transformation continues to intensify."
+    },
+    {
+     "word": "constraints",
+     "thai": "ข้อจำกัด",
+     "level": "B2",
+     "example": "Operators face strict constraints regarding power and physical space."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1412,
+   "ts": "2026-11-24T10:37:01.013804+07:00",
+   "title": "Spain approves decree on data centers to curb electricity costs",
+   "link": "https://www.datacenterdynamics.com/en/news/spain-approves-decree-on-data-centers-to-curb-electricity-costs/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Directly impacts European data center power sourcing, requiring 80% renewable power and introducing uncompensated power disconnections.",
+   "summary": "Spain has passed a royal decree requiring data centers to source at least 80 percent of their power from new renewable energy sources by 2032. The regulations also allow the grid operator to cut power to data centers during supply shortages without financial compensation.",
+   "vocab": [
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้ในการปฏิบัติ",
+     "level": "C1",
+     "example": "Operators questioned the technical feasibility of the strict energy rules."
+    },
+    {
+     "word": "transitional",
+     "thai": "ชั่วคราวหรืออยู่ในระยะเปลี่ยนผ่าน",
+     "level": "C1",
+     "example": "The decree offers a transitional period to help operators adapt gradually."
+    },
+    {
+     "word": "correlation",
+     "thai": "ความสัมพันธ์สอดคล้องกัน",
+     "level": "C1",
+     "example": "Operators must show an hourly correlation between usage and green power."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 934,
+   "sent_ts": "2026-11-24T10:37:01.559373+07:00"
+  },
+  {
+   "id": 1413,
+   "ts": "2026-11-24T10:37:01.559565+07:00",
+   "title": "CtrlS moves forward with 150MW data center project in Bihar, India",
+   "link": "https://www.datacenterdynamics.com/en/news/ctrls-moves-forward-with-150mw-data-center-project-in-bihar-india/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Reports on a regional 150MW AI data center development project by CtrlS in eastern India.",
+   "summary": "CtrlS Datacenters signed a $1 billion agreement with the Bihar government in India to build a 150MW AI data center. Expected online by 2030, the facility will serve growing cloud demand in the region.",
+   "vocab": [
+    {
+     "word": "robust",
+     "thai": "แข็งแกร่งและมั่นคง",
+     "level": "B2",
+     "example": "The goal is to build a robust IT infrastructure for local growth."
+    },
+    {
+     "word": "evolving",
+     "thai": "ที่กำลังพัฒนาหรือเปลี่ยนแปลง",
+     "level": "B2",
+     "example": "Facilities are designed to serve the evolving needs of tech enterprises."
+    },
+    {
+     "word": "pipeline",
+     "thai": "ในกระบวนการเตรียมการหรือวางแผน",
+     "level": "B2",
+     "example": "The operator has several international expansion projects in the pipeline."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1414,
+   "ts": "2026-11-24T10:37:42.210374+07:00",
+   "title": "Germany's 1&1 turns to European Commission following low-band spectrum snub",
+   "link": "https://www.datacenterdynamics.com/en/news/germanys-11-turns-to-european-commission-following-low-band-spectrum-snub/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This article covers German telecom spectrum allocation disputes, which has low direct relevance to data center operations.",
+   "summary": "German telecom operator 1&1 has asked the European Commission to investigate how low-band 5G radio spectrum was allocated to rival carriers. The outcome could affect mobile coverage in Germany, but it has little direct impact on server or facility operations.",
+   "vocab": [
+    {
+     "word": "grievance",
+     "thai": "ข้อร้องเรียน/ความคับข้องใจ",
+     "level": "C1",
+     "example": "The company raised a formal grievance regarding the regulatory decision."
+    },
+    {
+     "word": "nullifies",
+     "thai": "ทำให้เป็นไร้ผล/ยกเลิก",
+     "level": "C1",
+     "example": "The new regulation effectively nullifies previous agreements between network operators."
+    },
+    {
+     "word": "tendering",
+     "thai": "การประกวดราคา",
+     "level": "C1",
+     "example": "The spectrum was allocated without a competitive tendering procedure."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1415,
+   "ts": "2026-11-24T10:37:42.210407+07:00",
+   "title": "Three water numbers, none of them comparable",
+   "link": "https://www.datacenterdynamics.com/en/opinions/three-water-numbers-none-of-them-comparable/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Data center water efficiency metrics and EU sustainability reporting standards directly impact facility design and operations.",
+   "summary": "European regulations require data center operators to report water and energy efficiency, but common water metrics are calculated differently and hard to compare. Understanding these differences helps operators prepare for upcoming compliance standards and accurately measure site water consumption.",
+   "vocab": [
+    {
+     "word": "verifiability",
+     "thai": "ความสามารถในการตรวจสอบได้",
+     "level": "C1",
+     "example": "An operator will have to comply with the metric without anyone questioning its verifiability."
+    },
+    {
+     "word": "projected",
+     "thai": "ที่คาดการณ์ไว้",
+     "level": "B2",
+     "example": "Water usage is projected to rise over the next four years."
+    },
+    {
+     "word": "diverge",
+     "thai": "แตกต่างกัน/แยกออกจากกัน",
+     "level": "C1",
+     "example": "The calculation methods diverge because one measures on-site water while the other counts power plant water."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1416,
+   "ts": "2026-11-24T10:37:42.210433+07:00",
+   "title": "Edge to core: Fiber infrastructure for distributed AI growth and the retrofit challenge",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/edge-to-core-fiber-infrastructure-for-distributed-ai-growth-and-the-retrofit-challenge/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "While sponsored content, fiber infrastructure strategy for AI networking directly concerns data center network planners.",
+   "summary": "A new whitepaper examines how distributed AI workloads require updated fiber optic networking across core, regional, and edge facilities. It offers guidance on whether to retrofit existing legacy pathways or build new greenfield data center connectivity.",
+   "vocab": [
+    {
+     "word": "retrofit",
+     "thai": "การปรับปรุงดัดแปลงของเดิม",
+     "level": "C1",
+     "example": "Operators must decide between a brownfield retrofit and a new greenfield build."
+    },
+    {
+     "word": "diversity",
+     "thai": "ความหลากหลายของเส้นทางเชื่อมต่อ",
+     "level": "B2",
+     "example": "The whitepaper advises evaluating route diversity before upgrading fiber pathways."
+    },
+    {
+     "word": "core",
+     "thai": "แกนหลัก/ศูนย์กลาง",
+     "level": "B2",
+     "example": "Infrastructure planning must connect edge, regional, and core network tiers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 7
+  },
+  {
+   "id": 1417,
+   "ts": "2026-11-24T10:37:42.210456+07:00",
+   "title": "Swiss data center firm Green hooks up data center to heating network in Dielsdorf, Switzerland",
+   "link": "https://www.datacenterdynamics.com/en/news/swiss-data-center-firm-green-hooks-up-data-center-to-heating-network-in-dielsdorf-switzerland/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Practical heat recovery implementations demonstrate how data centers can integrate with municipal energy systems while supporting facility cooling.",
+   "summary": "Swiss operator Green has connected its data center waste heat system to a regional district heating network serving thousands of homes. Returning cooled water from the heating system is reused to cool the data center infrastructure.",
+   "vocab": [
+    {
+     "word": "municipalities",
+     "thai": "เขตปกครองท้องถิ่น/เทศบาล",
+     "level": "C1",
+     "example": "The district heating network will serve thousands of households across six municipalities."
+    },
+    {
+     "word": "commissioned",
+     "thai": "เปิดใช้งานอย่างเป็นทางการ",
+     "level": "C1",
+     "example": "The central energy unit was officially commissioned late last year."
+    },
+    {
+     "word": "incorporated",
+     "thai": "รวมเข้าเป็นส่วนหนึ่ง",
+     "level": "B2",
+     "example": "Technical requirements for heat recovery were incorporated into the facility design."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1418,
+   "ts": "2026-11-24T10:37:42.210476+07:00",
+   "title": "Nvidia board reinstates Jensen Huang as CEO",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-board-reinstates-jensen-huang-as-ceo/",
+   "source": "DCD",
+   "score": 9,
+   "watch": false,
+   "reason": "Nvidia is the key provider of AI server chips, so executive leadership turmoil and reinstatement heavily impact the market ecosystem.",
+   "summary": "Nvidia's board of directors has reinstated Jensen Huang as CEO after consulting with US government officials regarding national security concerns. The decision stabilizes leadership at the world's primary vendor of AI accelerator hardware.",
+   "vocab": [
+    {
+     "word": "reinstated",
+     "thai": "คืนตำแหน่ง",
+     "level": "C1",
+     "example": "The board of directors reinstated the chief executive after a formal review."
+    },
+    {
+     "word": "contravening",
+     "thai": "การฝ่าฝืน/การละเมิดกฎหมาย",
+     "level": "C2",
+     "example": "Authorities investigated whether hardware was exported in a manner contravening federal law."
+    },
+    {
+     "word": "consequential",
+     "thai": "ที่มีความสำคัญอย่างยิ่ง",
+     "level": "C1",
+     "example": "He returned to lead one of the most consequential technology companies in the AI industry."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 935,
+   "sent_ts": "2026-11-24T10:37:42.756359+07:00"
+  },
+  {
+   "id": 1419,
+   "ts": "2026-11-24T10:37:42.756552+07:00",
+   "title": "EU backs Medusa subsea cable with €11.1m grant and €60m loan",
+   "link": "https://www.datacenterdynamics.com/en/news/eu-backs-medusa-subsea-cable-with-111m-grant-and-60m-loan/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Subsea cable expansions build core internet backbone capacity, though this specifically targets research and regional connectivity in North Africa and Jordan.",
+   "summary": "The European Union has provided grants and loans to extend the Medusa subsea cable system to Jordan. This project will expand high-speed fiber connectivity between European institutions and Mediterranean partner countries.",
+   "vocab": [
+    {
+     "word": "channeled",
+     "thai": "ถูกจัดสรรผ่าน/ส่งผ่าน",
+     "level": "C1",
+     "example": "EU funding was channeled through the European Investment Bank to extend the subsea cable."
+    },
+    {
+     "word": "counterparts",
+     "thai": "บุคคลหรือองค์กรที่มีตำแหน่งหรือหน้าที่ทัดเทียมกัน",
+     "level": "C1",
+     "example": "The project enables research institutions to collaborate directly with their European counterparts."
+    },
+    {
+     "word": "multilateral",
+     "thai": "พหุภาคี/หลายฝ่าย",
+     "level": "C1",
+     "example": "The European Investment Bank is one of the largest multilateral development banks in the world."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1420,
+   "ts": "2026-11-24T10:37:42.756581+07:00",
+   "title": "Banking on a sustainable future",
+   "link": "https://www.datacenterdynamics.com/en/whitepapers/banking-on-a-sustainable-future/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Direct-to-chip two-phase liquid cooling addresses thermal challenges in high-density AI and enterprise racks, though this is a vendor whitepaper.",
+   "summary": "A whitepaper from ZutaCore details how direct-to-chip liquid cooling can eliminate water usage for cooling high-density servers. The document claims significant energy savings for financial institutions seeking to lower power usage effectiveness and carbon emissions.",
+   "vocab": [
+    {
+     "word": "demanding",
+     "thai": "ที่เข้มงวด/ต้องการมาตรฐานสูง",
+     "level": "B2",
+     "example": "Data centers face increasingly demanding sustainability and reporting standards."
+    },
+    {
+     "word": "eliminates",
+     "thai": "กำจัด/ขจัด",
+     "level": "B2",
+     "example": "Two-phase liquid cooling eliminates direct water consumption for heat removal."
+    },
+    {
+     "word": "evolving",
+     "thai": "ที่กำลังวิวัฒนาการ/พัฒนาอย่างต่อเนื่อง",
+     "level": "B2",
+     "example": "Lower energy consumption helps facilities adapt to evolving ESG reporting requirements."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 6
+  },
+  {
+   "id": 1421,
+   "ts": "2026-11-24T10:37:42.756606+07:00",
+   "title": "Cisco and OpenAI pitch eBPF kernel plugins as the way to tame the patchpocalypse",
+   "link": "https://www.theregister.com/security/2026/11/24/cisco-and-openai-pitch-ebpf-kernel-plugins-as-the-way-to-tame-the-patchpocalypse/5311795",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Features significant updates for infrastructure teams, including Linux kernel tools, server Linux updates, active SharePoint zero-days, and AI hardware testing.",
+   "summary": "This news roundup covers proposed eBPF kernel plugins for server management alongside zero-day patch alerts for Microsoft SharePoint. Additional reports highlight Azure Linux 4.0, new Ubuntu desktop developments, and competitive AI hardware offerings.",
+   "vocab": [
+    {
+     "word": "immutable",
+     "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C2",
+     "example": "The canonical team aims to make the immutable operating system a standard release."
+    },
+    {
+     "word": "enlists",
+     "thai": "ขอความร่วมมือ/เกณฑ์",
+     "level": "C1",
+     "example": "The security project enlists hackers to harden critical infrastructure systems."
+    },
+    {
+     "word": "overload",
+     "thai": "ภาระงานที่มากเกินไป",
+     "level": "B2",
+     "example": "Another Linux kernel developer stepped back from duties due to excessive workload overload."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 936,
+   "sent_ts": "2026-11-24T10:37:43.302924+07:00"
+  },
+  {
+   "id": 1422,
+   "ts": "2026-11-24T10:38:16.440570+07:00",
+   "title": "Inception - possibly a ShinyHunters reboot - claims seven victims in a week",
+   "link": "https://www.theregister.com/security/2026/11/23/inception-possibly-a-shinyhunters-reboot-claims-seven-victims-in-a-week/5311768",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Extortion group activity primarily concerns security teams rather than core infrastructure operators.",
+   "summary": "A cybercrime group named Inception has claimed responsibility for breaching seven organisations within a single week. Security researchers suspect the group may be a rebranded version of the notorious ShinyHunters hacking collective.",
+   "vocab": [
+    {
+     "word": "extortion",
+     "thai": "การกรรโชกทรัพย์",
+     "level": "C1",
+     "example": "Cybercriminals often use ransomware for extortion."
+    },
+    {
+     "word": "notorious",
+     "thai": "มีชื่อเสียงในทางลบ",
+     "level": "B2",
+     "example": "The hacking group became notorious for stealing sensitive customer data."
+    },
+    {
+     "word": "reboot",
+     "thai": "การเริ่มใหม่หรือทำใหม่",
+     "level": "B2",
+     "example": "The gang launched a reboot of their previous cybercrime operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 4,
+   "credibility": 7
+  },
+  {
+   "id": 1423,
+   "ts": "2026-11-24T10:38:16.440606+07:00",
+   "title": "Amazon scoops up AI accelerator tech to keep chips busy at all times",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/23/amazon-scoops-up-ai-accelerator-tech-to-keep-chips-busy-at-all-times/5311754",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Amazon optimizing AI accelerator hardware directly affects cloud compute infrastructure efficiency.",
+   "summary": "Amazon has acquired AI accelerator technology to maximize the efficiency of its cloud hardware. This acquisition aims to keep specialized AI processors fully utilized and reduce idle infrastructure costs.",
+   "vocab": [
+    {
+     "word": "utilization",
+     "thai": "การใช้ประโยชน์",
+     "level": "C1",
+     "example": "Data center operators aim for high server utilization."
+    },
+    {
+     "word": "accelerator",
+     "thai": "ตัวเร่งความเร็ว (ฮาร์ดแวร์)",
+     "level": "B2",
+     "example": "Hardware accelerators help process AI workloads much faster."
+    },
+    {
+     "word": "idle",
+     "thai": "ไม่ได้ใช้งาน / อยู่เฉยๆ",
+     "level": "B2",
+     "example": "Idle servers consume energy without performing useful work."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 937,
+   "sent_ts": "2026-11-24T10:38:17.049153+07:00"
+  },
+  {
+   "id": 1424,
+   "ts": "2026-11-24T10:38:17.049342+07:00",
+   "title": "Critical Cisco remote code execution bug under attack",
+   "link": "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Active exploitation of critical Cisco remote execution bugs demands immediate network infrastructure mitigation.",
+   "summary": "Attackers are actively exploiting a critical remote code execution vulnerability in Cisco networking hardware. System administrators should update vulnerable devices immediately to prevent unauthorized network access.",
+   "vocab": [
+    {
+     "word": "execution",
+     "thai": "การประมวลผล / การรันโปรแกรม",
+     "level": "B2",
+     "example": "Remote code execution allows attackers to run code on target devices."
+    },
+    {
+     "word": "malicious",
+     "thai": "ที่มุ่งร้าย",
+     "level": "B2",
+     "example": "Attackers injected malicious commands into the network device."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่",
+     "level": "B2",
+     "example": "A severe vulnerability allowed unauthorized administrative access."
+    }
+   ],
+   "status": "queued",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1425,
+   "ts": "2026-11-24T10:38:17.049381+07:00",
+   "title": "Microsoft mega outage: Report reveals testing gaps and emails that never arrived",
+   "link": "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": true,
+   "reason": "Post-mortem analysis of major cloud outages provides critical lessons for infrastructure resilience and monitoring.",
+   "summary": "A new report reveals that testing deficiencies and missed internal notifications led to a major Microsoft cloud outage. The findings highlight how critical thorough automated testing is for large-scale enterprise services.",
+   "vocab": [
+    {
+     "word": "deficiency",
+     "thai": "ข้อบกพร่อง / ความขาดแคลน",
+     "level": "C1",
+     "example": "Testing deficiencies allowed invalid updates to enter production."
+    },
+    {
+     "word": "outage",
+     "thai": "การหยุดทำงานของระบบ",
+     "level": "B2",
+     "example": "The global cloud outage disrupted thousands of enterprise customers."
+    },
+    {
+     "word": "notification",
+     "thai": "การแจ้งเตือน",
+     "level": "B2",
+     "example": "System engineers failed to receive critical outage notifications."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 9,
+   "credibility": 9
   }
  ],
- "next_id": 1407,
+ "next_id": 1426,
  "vocab": [
-  {
-   "word": "standoff",
-   "thai": "ภาวะชะงักงัน, การเผชิญหน้าที่ไม่มีใครยอมใคร",
-   "level": "C1",
-   "example": "The regulatory standoff could delay regional broadband deployment.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "powertrain",
-   "thai": "ระบบส่งกำลังหรือระบบจ่ายพลังงาน",
-   "level": "C1",
-   "example": "The power infrastructure behind an AI factory can be thought of as a powertrain.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "energization",
-   "thai": "การจ่ายกระแสไฟฟ้าเข้าสู่ระบบ",
-   "level": "C1",
-   "example": "Protection coordination, redundancy, and transfer strategies should be understood before energization.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "degradation",
-   "thai": "การเสื่อมถอย, การลดประสิทธิภาพ",
-   "level": "C1",
-   "example": "The degradation affecting Actions has been mitigated.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intermittent",
-   "thai": "เป็นๆ หายๆ, ไม่ต่อเนื่อง",
-   "level": "C1",
-   "example": "We are investigating elevated errors and intermittent failures affecting GitHub.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "availability",
-   "thai": "ความพร้อมใช้งาน",
-   "level": "B2",
-   "example": "Pull Requests is experiencing degraded availability.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "congested",
-   "thai": "congested - ที่หนาแน่นแออัด",
-   "level": "B2",
-   "example": "This has demonstrated up to 20 percent higher downlink throughput in congested conditions.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "methodology",
-   "thai": "methodology - ระเบียบวิธี",
-   "level": "B2",
-   "example": "Verizon specifically pointed to an already implemented connected mode inter-radio access technology handover methodology.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "underpin",
-   "thai": "underpin - เป็นรากฐาน / สนับสนุน",
-   "level": "C1",
-   "example": "EIAP is being used by a number of operators worldwide, including underpinning Verizon rival AT&T’s network overhaul.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "moratoria",
-   "thai": "คำสั่งระงับชั่วคราว",
-   "level": "C2",
-   "example": "Several towns voted for an 180-day moratorium on data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unincorporated",
-   "thai": "ที่ไม่ได้จัดตั้งเป็นเทศบาล",
-   "level": "C1",
-   "example": "Zoning rules were adopted for unincorporated areas to give locals more control.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "tally",
-   "thai": "นับคะแนน, รวบรวม",
-   "level": "B2",
-   "example": "This article will be updated as more votes are tallied.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "compliance",
    "thai": "การปฏิบัติตามกฎระเบียบ",
@@ -20832,6 +21430,126 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "dearth",
+   "thai": "ความขาดแคลนอย่างมาก",
+   "level": "C2",
+   "example": "The dearth of server components shows no signs of slowing down.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alleviate",
+   "thai": "บรรเทาหรือทำให้ลดลง",
+   "level": "C1",
+   "example": "Suppliers have sought to alleviate the high hardware costs for key buyers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "skyrocketed",
+   "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
+   "level": "B2",
+   "example": "Memory hardware prices have skyrocketed in recent months.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "transitional",
+   "thai": "ชั่วคราวหรืออยู่ในระยะเปลี่ยนผ่าน",
+   "level": "C1",
+   "example": "The decree offers a transitional period to help operators adapt gradually.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "correlation",
+   "thai": "ความสัมพันธ์สอดคล้องกัน",
+   "level": "C1",
+   "example": "Operators must show an hourly correlation between usage and green power.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "reinstated",
+   "thai": "คืนตำแหน่ง",
+   "level": "C1",
+   "example": "The board of directors reinstated the chief executive after a formal review.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "contravening",
+   "thai": "การฝ่าฝืน/การละเมิดกฎหมาย",
+   "level": "C2",
+   "example": "Authorities investigated whether hardware was exported in a manner contravening federal law.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "consequential",
+   "thai": "ที่มีความสำคัญอย่างยิ่ง",
+   "level": "C1",
+   "example": "He returned to lead one of the most consequential technology companies in the AI industry.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "enlists",
+   "thai": "ขอความร่วมมือ/เกณฑ์",
+   "level": "C1",
+   "example": "The security project enlists hackers to harden critical infrastructure systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "utilization",
+   "thai": "การใช้ประโยชน์",
+   "level": "C1",
+   "example": "Data center operators aim for high server utilization.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "accelerator",
+   "thai": "ตัวเร่งความเร็ว (ฮาร์ดแวร์)",
+   "level": "B2",
+   "example": "Hardware accelerators help process AI workloads much faster.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "idle",
+   "thai": "ไม่ได้ใช้งาน / อยู่เฉยๆ",
+   "level": "B2",
+   "example": "Idle servers consume energy without performing useful work.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -21042,7 +21760,7 @@
   }
  },
  "fail": {
-  "gemini": 1,
+  "gemini": 0,
   "https://www.theregister.com/headlines.atom": 0
  },
  "level": "B2",
