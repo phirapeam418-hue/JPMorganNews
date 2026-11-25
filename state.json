@@ -2824,7 +2824,31 @@
   "https://www.theregister.com/security/2026/11/23/critical-cisco-remote-code-execution-bug-under-attack/5311722",
   "https://www.theregister.com/security/2026/11/23/bulgaria-evicts-cyber-snoops-who-lurked-inside-government-networks-for-5-years/5311629",
   "https://www.theregister.com/saas/2026/11/23/microsoft-mega-outage-report-reveals-testing-gaps-and-emails-that-never-arrived/5311656",
-  "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684"
+  "https://www.theregister.com/cyber-crime/2026/11/23/british-retailer-next-downplays-data-breach-at-tech-supplier/5311684",
+  "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+  "https://www.datacenterdynamics.com/en/whitepapers/strengthening-digital-infrastructure/",
+  "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+  "https://www.datacenterdynamics.com/en/marketwatch/demystifying-the-data-center-is-necessary-for-ai-innovation/",
+  "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+  "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+  "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+  "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
+  "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
+  "https://www.datacenterdynamics.com/en/news/american-tower-confirms-525m-dish-settlement/",
+  "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+  "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+  "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+  "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+  "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+  "https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
+  "https://www.theregister.com/offbeat/2026/11/25/government-may-apply-tv-license-fee-to-streaming-services-to-fund-the-bbc/5311928",
+  "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024",
+  "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017",
+  "https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010",
+  "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
+  "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
+  "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978",
+  "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925"
  ],
  "stories": [
   {
@@ -14267,7 +14291,10 @@
    "impact": 4,
    "urgency": 5,
    "scale": 4,
-   "credibility": 7
+   "credibility": 7,
+   "extra_links": [
+    "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978"
+   ]
   },
   {
    "id": 1423,
@@ -14382,70 +14409,664 @@
    "credibility": 9,
    "msg_id": 940,
    "sent_ts": "2026-11-24T17:49:56.520391+07:00"
+  },
+  {
+   "id": 1426,
+   "ts": "2026-11-25T17:41:06.195310+07:00",
+   "title": "Blackstone's Link Logistics eyes data center outside Minneapolis, Minnesota",
+   "link": "https://www.datacenterdynamics.com/en/news/blackstones-link-logistics-eyes-data-center-outside-minneapolis-minnesota/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This early-stage project proposal outlines potential long-term capacity in Minnesota but requires no immediate operational action.",
+   "summary": "Blackstone's Link Logistics is exploring a potential $4.8 billion, 252MW data center project near Minneapolis, Minnesota. The project remains in early informal planning stages with construction targeted for 2028.",
+   "vocab": [
+    {
+     "word": "evaluate",
+     "thai": "ประเมิน",
+     "level": "B2",
+     "example": "The company continues to evaluate new site opportunities to meet customer demand."
+    },
+    {
+     "word": "industrial",
+     "thai": "ทางอุตสาหกรรม",
+     "level": "B2",
+     "example": "The site was previously occupied by defense firms and includes industrial buildings."
+    },
+    {
+     "word": "alternative",
+     "thai": "ที่เป็นทางเลือก / สำรอง",
+     "level": "B2",
+     "example": "The alternative asset manager owns stakes in multiple data center developers."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1427,
+   "ts": "2026-11-25T17:41:06.195362+07:00",
+   "title": "Schneider Electric doubles CDU manufacturing capacity at factory in Conselve, Italy",
+   "link": "https://www.datacenterdynamics.com/en/news/schneider-electric-liquid-cooling-conselve-italy-cdu/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Expanding liquid cooling CDU production directly benefits data center operators scaling high-density AI infrastructure.",
+   "summary": "Schneider Electric is doubling its liquid cooling CDU manufacturing capacity in Italy and building a larger R&D testing lab. The company also introduced a new power electronics portfolio to manage high-density AC and DC data center power architectures.",
+   "vocab": [
+    {
+     "word": "validation",
+     "thai": "การพิสูจน์ความถูกต้อง / การตรวจสอบ",
+     "level": "C1",
+     "example": "The new lab will strengthen product validation for next-generation liquid cooling systems."
+    },
+    {
+     "word": "microsecond",
+     "thai": "ไมโครวินาที",
+     "level": "C1",
+     "example": "Power electronic devices can interrupt or switch current in microseconds."
+    },
+    {
+     "word": "modular",
+     "thai": "ซึ่งจัดแยกเป็นส่วนๆ ได้",
+     "level": "C1",
+     "example": "Taking a modular approach to power management helps simplify critical electrical systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 1428,
+   "ts": "2026-11-25T17:41:06.195408+07:00",
+   "title": "Google plans 1.2GW data center near Châteauroux, France - report",
+   "link": "https://www.datacenterdynamics.com/en/news/google-planning-12gw-data-center-near-ch%C3%A2teauroux-france-report/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Google's potential 1.2GW site expansion in France indicates major hyperscale growth but faces land and grid delays.",
+   "summary": "Google is exploring a second massive data center project near Châteauroux, France, requesting a 1.2GW grid connection. However, the proposal faces local land acquisition challenges and grid connection lead times of up to eight years.",
+   "vocab": [
+    {
+     "word": "exploratory",
+     "thai": "ในเชิงสำรวจ",
+     "level": "C1",
+     "example": "The discussions are strictly part of ongoing exploratory long-term infrastructure planning."
+    },
+    {
+     "word": "municipality",
+     "thai": "เทศบาล",
+     "level": "C1",
+     "example": "Google has approached several municipalities in the area looking for a suitable site."
+    },
+    {
+     "word": "feasibility",
+     "thai": "ความเป็นไปได้",
+     "level": "C1",
+     "example": "The energy provider will bring technical expertise to discussions on the project's feasibility."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 7
+  },
+  {
+   "id": 1429,
+   "ts": "2026-11-25T17:41:06.195428+07:00",
+   "title": "Vantage drops plans for Trident data center after Colorado's Aurora City passes moratorium",
+   "link": "https://www.datacenterdynamics.com/en/news/vantage-drops-plans-for-trident-data-center-after-colorados-aurora-city-passes-moratorium/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "The cancellation of a major 500MW project due to local opposition highlights growing regional development risks for operators.",
+   "summary": "Vantage has withdrawn its plans to build a 500MW data center campus in Aurora, Colorado, following opposition from local residents. The withdrawal coincided with the city council enacting a two-year moratorium on new data center developments.",
+   "vocab": [
+    {
+     "word": "moratorium",
+     "thai": "การชะลอชั่วคราว / การสั่งห้ามชั่วคราว",
+     "level": "C1",
+     "example": "The city council approved a moratorium on data centers within city limits through 2027."
+    },
+    {
+     "word": "voluntarily",
+     "thai": "โดยสมัครใจ",
+     "level": "B2",
+     "example": "Vantage voluntarily initiated a review of alternative sites following local community concerns."
+    },
+    {
+     "word": "intersection",
+     "thai": "ทางแยก / จุดตัด",
+     "level": "B2",
+     "example": "The moratorium covers land located near the intersection of major roads."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 1430,
+   "ts": "2026-11-25T17:41:06.195446+07:00",
+   "title": "ABB to acquire cooling fan company Ziehl-Abegg for $2.65bn",
+   "link": "https://www.datacenterdynamics.com/en/news/ziehl-abegg-is-a-growing-technology-leader-with-a-compelling-portfolio-and-a-significant-presence-in-some-of-the-worlds-most-dynamic-markets-at-the-heart-of-our-success-are-our-employees-whose-expertise-dedication-and-innovative-spirit-have-made-us/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "ABB's acquisition of Ziehl-Abegg strengthens the supply chain for data center cooling and ventilation equipment.",
+   "summary": "Industrial equipment vendor ABB announced a $2.65 billion agreement to acquire German cooling fan manufacturer Ziehl-Abegg. The acquisition is intended to expand ABB's HVAC and liquid cooling hardware portfolio for data center applications.",
+   "vocab": [
+    {
+     "word": "complementary",
+     "thai": "ที่ส่งเสริมกัน / เติมเต็มกัน",
+     "level": "C1",
+     "example": "Ziehl-Abegg is highly complementary to ABB's existing portfolio of motors and drives."
+    },
+    {
+     "word": "trajectory",
+     "thai": "เส้นทางการพัฒนา / แนวโน้ม",
+     "level": "C1",
+     "example": "This acquisition represents the natural continuation of the company's growth trajectory."
+    },
+    {
+     "word": "axial",
+     "thai": "ตามแนวแกน",
+     "level": "C2",
+     "example": "The company manufactures axial and centrifugal fans for data center cooling."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 1431,
+   "ts": "2026-11-25T17:41:06.195468+07:00",
+   "title": "US gov’t adds Singapore’s Megaspeed and subsidiaries to export block list",
+   "link": "https://www.datacenterdynamics.com/en/news/us-govt-adds-singapores-megaspeed-and-subsidiaries-to-export-block-list/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "US export entity listing of a regional data center operator directly impacts compliance, GPU supply chains, and server deployments in Southeast Asia.",
+   "summary": "The US government added Singapore-based Megaspeed and its Southeast Asian entities to its export blacklist over alleged GPU diversion to China. The sanctions follow international investigations into unauthorized GPU access and high-level corporate governance issues.",
+   "vocab": [
+    {
+     "word": "illicit",
+     "thai": "ที่ผิดกฎหมาย",
+     "level": "C1",
+     "example": "Investigations aimed to confirm whether there were any violations concerning illicit chip transfers."
+    },
+    {
+     "word": "untoward",
+     "thai": "ที่ไม่เหมาะสม / ที่ผิดปกติ",
+     "level": "C2",
+     "example": "Internal compliance teams stated they found no untoward activity during their review."
+    },
+    {
+     "word": "allegation",
+     "thai": "ข้อกล่าวหา",
+     "level": "C1",
+     "example": "Authorities previously looked into allegations of espionage against company executives."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 10,
+   "msg_id": 953,
+   "sent_ts": "2026-11-25T17:41:06.930373+07:00"
+  },
+  {
+   "id": 1432,
+   "ts": "2026-11-25T17:41:34.518088+07:00",
+   "title": "Sponsored: From rack to data hall: The practical path to 800VDC",
+   "link": "https://www.datacenterdynamics.com/en/opinions/from-rack-to-data-hall-the-practical-path-to-800vdc/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Provides valuable engineering insights on shifting data center architectures to 800VDC sidecars to handle extreme AI rack densities.",
+   "summary": "Vertiv is developing 800VDC power distribution architectures to support high-density AI racks reaching up to 600kW. Moving power shelves out of IT racks into adjacent sidecars frees up critical compute space while managing massive current requirements.",
+   "vocab": [
+    {
+     "word": "forcing function",
+     "thai": "ปัจจัยบังคับให้เกิดการเปลี่ยนแปลง",
+     "level": "C1",
+     "example": "Density is the forcing function, but it isn't acting alone."
+    },
+    {
+     "word": "ecosystem",
+     "thai": "ระบบนิเวศ (ของเทคโนโลยีหรือธุรกิจ)",
+     "level": "B2",
+     "example": "Centralized DC architectures will evolve as the IT ecosystem and standards mature."
+    },
+    {
+     "word": "unison",
+     "thai": "การทำงานพร้อมกันหรือเป็นหนึ่งเดียว",
+     "level": "C1",
+     "example": "When tens of megawatts of GPUs operate in unison, the resulting load swings ripple upstream."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1433,
+   "ts": "2026-11-25T17:41:34.518118+07:00",
+   "title": "American Tower confirms $525m Dish settlement",
+   "link": "https://www.datacenterdynamics.com/en/news/american-tower-confirms-525m-dish-settlement/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "This legal dispute settlement over cell tower leases has little direct bearing on core data center ops.",
+   "summary": "American Tower confirmed a $525 million settlement with Dish Wireless to resolve litigation over unpaid cell tower leases. The settlement payment will come from an FCC-established trust by late 2026.",
+   "vocab": [
+    {
+     "word": "litigation",
+     "thai": "การฟ้องร้องดำเนินคดี",
+     "level": "C1",
+     "example": "The agreement relates to American Tower's litigation against Dish over unpaid tower leases."
+    },
+    {
+     "word": "accrue",
+     "thai": "พอกพูน, สะสม (เช่น ดอกเบี้ย)",
+     "level": "C1",
+     "example": "If a payment isn't received by that date, the amount will accrue interest until paid."
+    },
+    {
+     "word": "allocation",
+     "thai": "การจัดสรร (ทรัพยากรหรือเงินทุน)",
+     "level": "C1",
+     "example": "The company remains focused on disciplined capital allocation."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 10
+  },
+  {
+   "id": 1434,
+   "ts": "2026-11-25T17:41:34.518138+07:00",
+   "title": "Massed Compute deploys GPUs at American Tower data center in Raleigh, North Carolina",
+   "link": "https://www.datacenterdynamics.com/en/news/massed-compute-deploys-gpus-at-american-tower-data-center-in-raleigh-north-carolina/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers bare-metal GPU cloud expansion with liquid cooling in an edge colocation facility.",
+   "summary": "Massed Compute is expanding its bare-metal GPU cloud into American Tower's edge data center in Raleigh, North Carolina. The expanded 2MW facility offers direct liquid cooling to support high-density AI workloads.",
+   "vocab": [
+    {
+     "word": "burden",
+     "thai": "ภาระ",
+     "level": "B2",
+     "example": "The company offers GPU cloud solutions without the infrastructure management burden."
+    },
+    {
+     "word": "footprint",
+     "thai": "ขอบเขตพื้นที่การให้บริการหรืออาณาเขต",
+     "level": "B2",
+     "example": "Partnering with American Tower places GPUs at the Edge with a neutral partner that has the right footprint."
+    },
+    {
+     "word": "neutral",
+     "thai": "เป็นกลาง (เช่น วางตัวเป็นกลาง ไม่ผูกขาดค่ายใด)",
+     "level": "B2",
+     "example": "They chose a neutral partner that can interconnect with multiple network providers."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 10
+  },
+  {
+   "id": 1435,
+   "ts": "2026-11-25T17:41:34.518155+07:00",
+   "title": "Applied Digital signs $5.4bn 18-year lease with unnamed hyperscaler",
+   "link": "https://www.datacenterdynamics.com/en/news/applied-digital-signs-54bn-18-year-lease-with-unnamed-hyperscaler/",
+   "source": "DCD",
+   "score": 7,
+   "watch": false,
+   "reason": "Highlights large-scale hyperscale data center leasing trends and financing structures.",
+   "summary": "Applied Digital signed an 18-year, $5.4 billion lease with an unnamed hyperscaler for 150MW of data center capacity. The deal expands Applied Digital's total contracted critical IT load to more than 1.6GW across its campuses.",
+   "vocab": [
+    {
+     "word": "pivot",
+     "thai": "ปรับเปลี่ยนทิศทาง (ทางธุรกิจหรือกลยุทธ์)",
+     "level": "B2",
+     "example": "Founded as Applied Blockchain, the company pivoted to developing AI data centers."
+    },
+    {
+     "word": "maturity",
+     "thai": "วันครบกำหนดชำระหนี้สิน",
+     "level": "C1",
+     "example": "The bridge facility consists of a delayed draw term loan with a 364-day maturity."
+    },
+    {
+     "word": "programmatic",
+     "thai": "ที่เป็นไปตามแผนงานหรือโครงสร้างที่วางไว้",
+     "level": "C1",
+     "example": "Equity was funded through our $5 billion programmatic equity partnership."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 10
+  },
+  {
+   "id": 1436,
+   "ts": "2026-11-25T17:41:34.518181+07:00",
+   "title": "TSMC files application for proposed 2nm chip fab in Brazos County, Texas",
+   "link": "https://www.datacenterdynamics.com/en/news/tsmc-files-application-for-proposed-2nm-chip-fab-in-brazos-county-texas/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Details chip foundry expansion plans relevant to long-term hardware supply chains.",
+   "summary": "TSMC has submitted an application to build a $23 billion 2nm semiconductor fab on a site in Brazos County, Texas. Construction is expected to break ground in 2027 with operations planned for 2029.",
+   "vocab": [
+    {
+     "word": "parcel",
+     "thai": "แปลงที่ดิน",
+     "level": "C1",
+     "example": "TSMC proposes to build a chip fab on a 3,232-acre parcel of land in Texas."
+    },
+    {
+     "word": "abatement",
+     "thai": "การลดหย่อนหรือละเว้น (เช่น ภาษี)",
+     "level": "C2",
+     "example": "The company secured a 100 percent property tax abatement for the planned facility."
+    },
+    {
+     "word": "transformational",
+     "thai": "ที่สร้างความเปลี่ยนแปลงอย่างสิ้นเชิง",
+     "level": "C1",
+     "example": "Officials are excited about this potential transformational opportunity for local citizens."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1437,
+   "ts": "2026-11-25T17:41:34.518200+07:00",
+   "title": "Taiwanese AI infrastructure firm Nocera takes $22m stake in Canadian AI data center developer BitRock",
+   "link": "https://www.datacenterdynamics.com/en/news/taiwanese-ai-infrastructure-firm-nocera-takes-22m-stake-in-canadian-ai-data-center-developer-bitrock/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Demonstrates alternative strategies like self-powered facilities to bypass utility grid interconnection delays.",
+   "summary": "Nocera is purchasing a 44 percent stake in BitRock for $22 million to build a 10MW modular AI data center in Alberta, Canada. BitRock relies on on-site natural gas power generation to avoid long waits for grid connections.",
+   "vocab": [
+    {
+     "word": "proceeds",
+     "thai": "เงินที่ได้จากการขายหรือการทำธุรกรรม",
+     "level": "C1",
+     "example": "The proceeds of the transaction will be used to fund the first AI data center."
+    },
+    {
+     "word": "modularly",
+     "thai": "ในลักษณะเป็นโมดูลหรือหน่วยย่อยที่ประกอบกันได้",
+     "level": "C1",
+     "example": "The facility will be constructed modularly with four prefabricated computing modules."
+    },
+    {
+     "word": "binding",
+     "thai": "ที่มีผลผูกพันทางกฎหมาย",
+     "level": "B2",
+     "example": "The companies have entered into a binding letter of intent for the investment."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 4,
+   "credibility": 10
+  },
+  {
+   "id": 1438,
+   "ts": "2026-11-25T17:41:34.518218+07:00",
+   "title": "NewYork GreenCloud submits application to build 14.4MW biomass powered data center in Ione, California",
+   "link": "https://www.datacenterdynamics.com/en/news/newyork-greencloud-submits-application-to-build-144mw-biomass-powered-data-center-in-ione-california/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Covers niche power and liquid cooling setups for behind-the-meter GPU data center sites.",
+   "summary": "NewYork GreenCloud applied to build a 14.4MW data center directly powered by an existing biomass plant in Ione, California. The project will use behind-the-meter energy and closed-loop liquid cooling for high-density AI workloads.",
+   "vocab": [
+    {
+     "word": "decommissioned",
+     "thai": "ถูกปลดประจำการ / เลิกใช้งาน",
+     "level": "C1",
+     "example": "The coal-fired facility was decommissioned in the mid-1990s."
+    },
+    {
+     "word": "pyrolysis",
+     "thai": "กระบวนการย่อยสลายด้วยความร้อนโดยไม่มีออกซิเจน",
+     "level": "C1",
+     "example": "Biomass pyrolysis converts organic waste materials into energy and biochar."
+    },
+    {
+     "word": "excess",
+     "thai": "ส่วนเกิน, ส่วนที่เหลือ",
+     "level": "B2",
+     "example": "The site will use behind-the-meter power with excess power sold back onto the grid."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1439,
+   "ts": "2026-11-25T17:41:34.518236+07:00",
+   "title": "The world's fastest computers have a problem: Keeping the work running",
+   "link": "https://www.theregister.com/systems/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Examines operational reliability, memory errors, and checkpoint overhead in large-scale GPU and HPC clusters.",
+   "summary": "Massive supercomputing and AI training clusters face frequent node outages caused by memory errors and hardware faults that halt multi-node jobs. Operators must carefully balance the computational overhead of frequent progress checkpointing against the risk of losing completed work.",
+   "vocab": [
+    {
+     "word": "outsized",
+     "thai": "ใหญ่เป็นพิเศษ, ที่มีผลกระทบมากกว่าปกติ",
+     "level": "C1",
+     "example": "A memory error on a supercomputer can have an outsized audience of affected processes."
+    },
+    {
+     "word": "mishap",
+     "thai": "อุบัติเหตุเล็กน้อย, ความผิดพลาด",
+     "level": "B2",
+     "example": "A node failure can be caused by an uncorrectable memory error or a maintenance mishap."
+    },
+    {
+     "word": "interval",
+     "thai": "ช่วงเวลา (ระหว่างสองเหตุการณ์)",
+     "level": "B2",
+     "example": "If you stretch the checkpoint interval to 50 minutes, the overhead drops significantly."
+    }
+   ],
+   "status": "sent",
+   "impact": 8,
+   "urgency": 6,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 954,
+   "sent_ts": "2026-11-25T17:41:35.083922+07:00"
+  },
+  {
+   "id": 1440,
+   "ts": "2026-11-25T17:42:06.490708+07:00",
+   "title": "Jury finds Huawei stole US tech, laundered money, and broke sanctions",
+   "link": "https://www.theregister.com/legal/2026/11/25/jury-finds-huawei-stole-us-tech-laundered-money-and-broke-sanctions/5312024",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Legal rulings on hardware vendors affect global tech supply chains but have minimal immediate operational impact.",
+   "summary": "A US jury found Huawei guilty of stealing American technology, laundering money, and violating international sanctions. The verdict reinforces ongoing trade restrictions against Chinese hardware suppliers in Western markets.",
+   "vocab": [
+    {
+     "word": "landering",
+     "thai": "การฟอกเงิน",
+     "level": "B2",
+     "example": "The tech firm faced federal charges related to money laundering."
+    },
+    {
+     "word": "sanction",
+     "thai": "การคว่ำบาตร",
+     "level": "B2",
+     "example": "The government imposed an economic sanction on foreign hardware suppliers."
+    },
+    {
+     "word": "verdict",
+     "thai": "คำตัดสินของคณะลูกขุน",
+     "level": "C1",
+     "example": "The jury delivered a unanimous guilty verdict after a lengthy trial."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1441,
+   "ts": "2026-11-25T17:42:06.490740+07:00",
+   "title": "This could mess with Thanksgiving, says VMware as it drops third critical patch bundle in a week",
+   "link": "https://www.theregister.com/virtualization/2026/11/25/this-could-mess-with-thanksgiving-says-vmware-as-it-drops-third-critical-patch-bundle-in-a-week/5312017",
+   "source": "www.theregister.com - Articles",
+   "score": 9,
+   "watch": false,
+   "reason": "Critical vCenter security patches require immediate patching by server and virtualization sysadmins.",
+   "summary": "VMware released its third critical security patch bundle within a single week, addressing major unauthorized access flaws in vCenter. Operations teams must apply these security fixes urgently to safeguard virtualized server environments.",
+   "vocab": [
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่ด้านความปลอดภัย",
+     "level": "B2",
+     "example": "Four more critical vulnerabilities were discovered in vCenter management software."
+    },
+    {
+     "word": "hypervisor",
+     "thai": "ซอฟต์แวร์ควบคุมระบบเสมือน",
+     "level": "C1",
+     "example": "The hypervisor manages multiple virtual machines on a single server host."
+    },
+    {
+     "word": "unauthorized",
+     "thai": "ซึ่งไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "The patch addresses an unauthorized access flaw in the management console."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 9,
+   "scale": 8,
+   "credibility": 9,
+   "msg_id": 955,
+   "sent_ts": "2026-11-25T17:42:07.084992+07:00"
+  },
+  {
+   "id": 1442,
+   "ts": "2026-11-25T17:42:07.085145+07:00",
+   "title": "Nutanix CEO announces gradual departure, intent to complete set of storage links",
+   "link": "https://www.theregister.com/virtualization/2026/11/25/nutanix-ceo-announces-gradual-departure-intent-to-complete-set-of-storage-links/5312010",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "Leadership changes at an HCI vendor affect long-term data center product strategy.",
+   "summary": "The CEO of Nutanix announced plans to gradually step down after finalizing key enterprise storage integrations. Infrastructure teams using HCI solutions should monitor potential shifts in the company's long-term product roadmap.",
+   "vocab": [
+    {
+     "word": "gradual",
+     "thai": "ที่ค่อยเป็นค่อยไป",
+     "level": "B2",
+     "example": "The CEO announced a gradual departure to ensure management stability."
+    },
+    {
+     "word": "departure",
+     "thai": "การออกจากตำแหน่ง",
+     "level": "B2",
+     "example": "His planned departure comes during major storage integration updates."
+    },
+    {
+     "word": "roadmap",
+     "thai": "แผนการดำเนินงาน",
+     "level": "B2",
+     "example": "Enterprise clients rely on the vendor to maintain a clear product roadmap."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1443,
+   "ts": "2026-11-25T17:42:07.085177+07:00",
+   "title": "Dell and HPE both say they’ve become ‘different companies’",
+   "link": "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Server vendor strategic pivots toward AI hardware influence enterprise hardware procurement.",
+   "summary": "Enterprise hardware leaders Dell and HPE reported a structural shift toward AI infrastructure services alongside traditional server sales. Operations teams must navigate rising hardware costs and evolving vendor business models.",
+   "vocab": [
+    {
+     "word": "pivot",
+     "thai": "การปรับเปลี่ยนทิศทาง",
+     "level": "C1",
+     "example": "Hardware manufacturers continue to pivot toward AI infrastructure systems."
+    },
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "Supply shortages delayed the procurement of high-density AI server racks."
+    },
+    {
+     "word": "enterprise",
+     "thai": "องค์กรขนาดใหญ่",
+     "level": "B2",
+     "example": "Dell supplies server hardware for large enterprise data center operations."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 8
   }
  ],
- "next_id": 1426,
+ "next_id": 1444,
  "vocab": [
-  {
-   "word": "architecture",
-   "thai": "สถาปัตยกรรมระบบ",
-   "level": "B2",
-   "example": "This architecture is designed to improve coverage, capacity and spectral efficiency.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "bolsters",
-   "thai": "เสริมสร้าง, สนับสนุน",
-   "level": "C1",
-   "example": "The agreement bolsters Qualcomm's position in the telecoms infrastructure market.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "offloading",
-   "thai": "การถ่ายโอนภาระงานออกไป",
-   "level": "C1",
-   "example": "Companies want to run AI in-house rather than offloading it to the cloud.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "continuum",
-   "thai": "ความต่อเนื่อง",
-   "level": "C1",
-   "example": "The company wants to supply hardware across the entire AI continuum.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "edition",
-   "thai": "รุ่น, ฉบับ",
-   "level": "B2",
-   "example": "This edition targets smaller deployments and budget-conscious enterprise customers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "target",
-   "thai": "มุ่งเป้าไปที่",
-   "level": "B2",
-   "example": "This edition targets smaller deployments and budget-conscious enterprise customers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "reintroduce",
    "thai": "นำกลับมาใช้อีกครั้ง",
@@ -19385,6 +20006,66 @@
    "wrong": 0,
    "streak": 0,
    "mastered": false
+  },
+  {
+   "word": "illicit",
+   "thai": "ที่ผิดกฎหมาย",
+   "level": "C1",
+   "example": "Investigations aimed to confirm whether there were any violations concerning illicit chip transfers.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "untoward",
+   "thai": "ที่ไม่เหมาะสม / ที่ผิดปกติ",
+   "level": "C2",
+   "example": "Internal compliance teams stated they found no untoward activity during their review.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "allegation",
+   "thai": "ข้อกล่าวหา",
+   "level": "C1",
+   "example": "Authorities previously looked into allegations of espionage against company executives.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "outsized",
+   "thai": "ใหญ่เป็นพิเศษ, ที่มีผลกระทบมากกว่าปกติ",
+   "level": "C1",
+   "example": "A memory error on a supercomputer can have an outsized audience of affected processes.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "mishap",
+   "thai": "อุบัติเหตุเล็กน้อย, ความผิดพลาด",
+   "level": "B2",
+   "example": "A node failure can be caused by an uncorrectable memory error or a maintenance mishap.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "interval",
+   "thai": "ช่วงเวลา (ระหว่างสองเหตุการณ์)",
+   "level": "B2",
+   "example": "If you stretch the checkpoint interval to 50 minutes, the overhead drops significantly.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
   }
  ],
  "feedback": {
@@ -19595,7 +20276,7 @@
   }
  },
  "fail": {
-  "gemini": 1,
+  "gemini": 0,
   "https://www.theregister.com/headlines.atom": 0
  },
  "level": "B2",
