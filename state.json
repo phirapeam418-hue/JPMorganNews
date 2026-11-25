@@ -2848,7 +2848,31 @@
   "https://www.theregister.com/systems/2026/11/25/dell-and-hpe-both-say-theyve-become-different-companies/5312003",
   "https://www.theregister.com/ai-and-ml/2026/11/24/ai-godfather-yann-lecun-torches-anthropic-ceo-over-ai-gatekeeping/5311986",
   "https://www.theregister.com/security/2026/11/24/we-are-not-shinyhunters-says-criminal-hacking-crew-that-looks-and-acts-just-like-shinyhunters/5311978",
-  "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925"
+  "https://www.theregister.com/systems/2026/11/24/arm-strongarms-site-that-hosts-ad-free-documentation-and-it-may-disappear/5311925",
+  "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
+  "https://www.datacenterdynamics.com/en/analysis/panthalassa-floating-data-centers-and-the-power-of-the-ocean/",
+  "https://www.datacenterdynamics.com/en/news/trio-of-japanese-real-estate-developers-invest-in-15mw-hokkaido-data-center-development/",
+  "https://www.datacenterdynamics.com/en/news/arque-systems-launches-35m-q-starnrw-initiative-to-develop-and-integrate-200-qubit-quantum-computer/",
+  "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+  "https://www.datacenterdynamics.com/en/opinions/the-case-for-an-integrated-power-and-cooling-approach-for-ai-workloads/",
+  "https://www.datacenterdynamics.com/en/news/nexent-capital-launches-1-billion-ai-and-energy-infrastructure-fund/",
+  "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+  "https://www.datacenterdynamics.com/en/news/south-african-govt-floats-converting-old-power-stations-into-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+  "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+  "https://www.datacenterdynamics.com/en/news/uk-government-seeks-new-ai-investment-focused-secretary-reporting-to-countrys-ai-minister/",
+  "https://www.datacenterdynamics.com/en/news/stratum-holdings-and-ocean-power-technologies-partner-on-offshore-data-centers/",
+  "https://www.datacenterdynamics.com/en/news/man-charged-over-explosion-at-electrical-substation-serving-apple-data-center-in-mesa-arizona/",
+  "https://www.datacenterdynamics.com/en/news/cryptominer-sato-technologies-secures-neocloud-datum-as-customer-for-canadian-data-center/",
+  "https://www.theregister.com/systems/2026/11/25/huawei-and-crew-tout-homegrown-eda-tools-to-overcome-chinas-fab-deficit/5312205",
+  "https://www.theregister.com/science/2026/11/25/hera-probe-finds-dart-left-a-stadium-sized-dent-in-asteroid-dimorphos/5312153",
+  "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+  "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+  "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+  "https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147",
+  "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
+  "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+  "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111"
  ],
  "stories": [
   {
@@ -15063,9 +15087,441 @@
    "urgency": 3,
    "scale": 7,
    "credibility": 8
+  },
+  {
+   "id": 1444,
+   "ts": "2026-11-26T03:49:16.844382+07:00",
+   "title": "GDS Holdings posts 10 percent net revenue increase YoY, revises down capex expectations",
+   "link": "https://www.datacenterdynamics.com/en/news/gds-holdings-posts-10-percent-net-revenue-increase-yoy-revises-down-capex-expectations/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Official financial results showing capex cut for major Asian data center provider GDS.",
+   "summary": "Chinese data center provider GDS Holdings reported a 10% year-on-year revenue increase but lowered its full-year capex forecast by 20%. The reduced spending guidance highlights ongoing market adjustments despite rising facility utilization and strong new bookings.",
+   "vocab": [
+    {
+     "word": "backlog",
+     "thai": "งานคั่งค้าง / ยอดสั่งซื้อรอส่งมอบ",
+     "level": "B2",
+     "example": "The company continued to deliver on its backlog and increase utilization."
+    },
+    {
+     "word": "disciplined",
+     "thai": "มีระเบียบวินัย / เคร่งครัด",
+     "level": "B2",
+     "example": "We delivered another quarter of solid results underpinned by our disciplined execution."
+    },
+    {
+     "word": "guidance",
+     "thai": "การคาดการณ์แนวโน้มธุรกิจล่วงหน้า",
+     "level": "B2",
+     "example": "GDS said it expects its capex to be around $1.2 billion, compared to the $1.5bn capex guidance it communicated last quarter."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1445,
+   "ts": "2026-11-26T03:49:16.844460+07:00",
+   "title": "Ohio regulators approve up to 800MW gas plant set to power EdgeConneX data center in Pickaway County",
+   "link": "https://www.datacenterdynamics.com/en/news/ohio-regulators-approve-up-to-800mw-gas-plant-set-to-power-edgeconnex-data-center-in-pickaway-county/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Directly impacts data center power siting and highlights local pushback against behind-the-meter gas plants.",
+   "summary": "Ohio regulators approved an 800MW natural gas plant to power an EdgeConneX facility, overruling local voters who opposed the project. The decision illustrates how data center operators are increasingly turning to dedicated fossil-fuel plants to bypass grid interconnect delays.",
+   "vocab": [
+    {
+     "word": "statutory",
+     "thai": "ตามที่กฎหมายบัญญัติ",
+     "level": "C1",
+     "example": "The developer met a statutory requirement that the project is in the public interest."
+    },
+    {
+     "word": "referendum",
+     "thai": "การลงประชามติ",
+     "level": "B2",
+     "example": "Local residents were able to gather enough signatures to force a referendum."
+    },
+    {
+     "word": "asserted",
+     "thai": "ยืนยัน / อ้างสิทธิ์อย่างหนักแน่น",
+     "level": "B2",
+     "example": "They asserted that they have the ultimate authority to issue the permit."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1446,
+   "ts": "2026-11-26T03:49:16.844477+07:00",
+   "title": "Sponsored: The case for an integrated power and cooling approach for AI workloads",
+   "link": "https://www.datacenterdynamics.com/en/opinions/the-case-for-an-integrated-power-and-cooling-approach-for-ai-workloads/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Sponsored technical article discussing high-density power distribution and liquid cooling integration.",
+   "summary": "Modern AI clusters drawing 40kW to over 140kW per rack require operators to closely unify electrical distribution with liquid cooling. Integrating these systems helps mitigate voltage sags, thermal throttling, and downtime caused by sudden workload power spikes.",
+   "vocab": [
+    {
+     "word": "decoupled",
+     "thai": "แยกขาดจากกัน",
+     "level": "C1",
+     "example": "For decades, infrastructure operated on a decoupled engineering model."
+    },
+    {
+     "word": "transient",
+     "thai": "ชั่วขณะ / เกิดขึ้นระยะสั้นๆ",
+     "level": "C1",
+     "example": "These rapid load swings introduce severe transient voltage sags and harmonics."
+    },
+    {
+     "word": "throttling",
+     "thai": "การจำกัดหรือหรี่ความเร็วลง",
+     "level": "B2",
+     "example": "Treating power and cooling as isolated components introduces thermal throttling."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 6
+  },
+  {
+   "id": 1447,
+   "ts": "2026-11-26T03:49:16.844504+07:00",
+   "title": "Promera acquires Irish electrical contractor B&G to expand data center offering",
+   "link": "https://www.datacenterdynamics.com/en/news/promera-acquires-irish-electrical-contractor-bg-to-expand-data-center-offering/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "M&A move expanding data center power and switchgear electrical contracting services.",
+   "summary": "Critical infrastructure provider Promera acquired Irish electrical contractor B&G Energy to broaden its electrical installation and switchgear services. This acquisition allows Promera to offer more comprehensive power delivery and fit-out capabilities for data center builds.",
+   "vocab": [
+    {
+     "word": "switchgear",
+     "thai": "อุปกรณ์สวิตช์ตัดตอนและควบคุมไฟฟ้า",
+     "level": "B2",
+     "example": "The company supplies associated control systems that integrate electrical switchgear."
+    },
+    {
+     "word": "complement",
+     "thai": "ส่งเสริม / เติมเต็มซึ่งกันและกัน",
+     "level": "B2",
+     "example": "Their technical expertise and established relationships complement our existing services."
+    },
+    {
+     "word": "bolster",
+     "thai": "เสริมกำลัง / เสริมความแข็งแกร่ง",
+     "level": "B2",
+     "example": "Since then, it has made several acquisitions to bolster its position in the market."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1448,
+   "ts": "2026-11-26T03:50:53.087603+07:00",
+   "title": "US Army offers more land to private AI data centers, across nine sites - must include power generation",
+   "link": "https://www.datacenterdynamics.com/en/news/us-army-offers-more-land-to-private-ai-data-centers-across-nine-sites-must-include-power-generation/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Significant land release by the US Army requiring behind-the-meter generation and 14 days of microgrid resiliency for AI data centers.",
+   "summary": "The US Army released an RFP offering land across nine military sites for private data center development with mandatory on-site power generation. The contracts require resilient power capable of running off-grid within one hour and lasting at least 14 continuous days.",
+   "vocab": [
+    {
+     "word": "resilient",
+     "thai": "ที่สามารถฟื้นตัวหรือทนทานต่อสภาวะวิกฤตได้ดี",
+     "level": "B2",
+     "example": "Power proposals must include the provision of resilient power within one hour of a grid outage."
+    },
+    {
+     "word": "parcel",
+     "thai": "แปลงที่ดิน",
+     "level": "B2",
+     "example": "The parcels of land available span Blue Grass Army Depot and several other bases."
+    },
+    {
+     "word": "procurement",
+     "thai": "การจัดซื้อจัดจ้าง",
+     "level": "C1",
+     "example": "The procurement notice removed documents for Fort McCoy, limiting information on the sites."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1449,
+   "ts": "2026-11-26T03:50:53.087630+07:00",
+   "title": "Three data center projects planned around Phoenix, Arizona",
+   "link": "https://www.datacenterdynamics.com/en/news/three-data-center-projects-planned-around-phoenix-arizona/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Local site development and zoning updates for multiple large facilities in the major Phoenix data center cluster.",
+   "summary": "Developers have proposed three major data center campuses around Phoenix, Arizona, totaling hundreds of megawatts of new capacity. The projects feature on-site natural gas generation, battery storage systems, and closed-loop cooling to navigate regional power and water limitations.",
+   "vocab": [
+    {
+     "word": "fruition",
+     "thai": "การบรรลุผลสำเร็จหรือเป็นรูปธรรม",
+     "level": "C1",
+     "example": "The commercial hub was first proposed in 2011 but never brought to fruition."
+    },
+    {
+     "word": "earmarked",
+     "thai": "ถูกกำหนดหรือจัดสรรไว้สำหรับวัตถุประสงค์เฉพาะ",
+     "level": "B2",
+     "example": "The site was previously earmarked for a large commercial wholesale hub."
+    },
+    {
+     "word": "amend",
+     "thai": "แก้ไขหรือปรับปรุงข้อกำหนด",
+     "level": "B2",
+     "example": "Developers are seeking to amend a portion of a previously approved Planned Area Development."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1450,
+   "ts": "2026-11-26T03:50:53.087670+07:00",
+   "title": "Man charged over explosion at electrical substation serving Apple data center in Mesa, Arizona",
+   "link": "https://www.datacenterdynamics.com/en/news/man-charged-over-explosion-at-electrical-substation-serving-apple-data-center-in-mesa-arizona/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Physical security incident and bombing attack on utility substation infrastructure powering an Apple hyperscale facility.",
+   "summary": "A man has been charged for planting an explosive device that detonated at an electrical substation dedicated to Apple's Mesa data center. While the attack caused substantial damage to electrical equipment, the suspect was injured and subsequently arrested.",
+   "vocab": [
+    {
+     "word": "indicted",
+     "thai": "ถูกสั่งฟ้องหรือกล่าวหาอย่างเป็นทางการในคดีอาญา",
+     "level": "C1",
+     "example": "The suspect has been indicted by a grand jury on five felony charges."
+    },
+    {
+     "word": "improvised",
+     "thai": "ที่ประดิษฐ์ขึ้นชั่วคราวหรือดัดแปลงจากของใกล้ตัว",
+     "level": "B2",
+     "example": "He attempted to place an improvised explosive device onto an electrical breaker."
+    },
+    {
+     "word": "faulty",
+     "thai": "ชำรุด มีตำหนิ หรือทำงานผิดปกติ",
+     "level": "B2",
+     "example": "A previous fire at the facility was thought to have originated in a faulty solar panel."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 3,
+   "credibility": 9
+  },
+  {
+   "id": 1451,
+   "ts": "2026-11-26T03:53:49.367953+07:00",
+   "title": "Microsoft's NTLM security changes trip up third-party logins",
+   "link": "https://www.theregister.com/security/2026/11/25/microsofts-ntlm-security-changes-trip-up-third-party-logins/5312085",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Authentication updates in Windows environments can disrupt third-party logins and enterprise directory services.",
+   "summary": "Microsoft adjusted its NTLM authentication protocol, resulting in login failures across some non-Microsoft platforms. Systems engineers must verify legacy authentication setups to prevent unexpected user lockouts.",
+   "vocab": [
+    {
+     "word": "trip up",
+     "thai": "ทำให้สะดุดหรือเกิดข้อผิดพลาด",
+     "level": "B2",
+     "example": "Microsoft's NTLM security changes trip up third-party logins across multiple systems."
+    },
+    {
+     "word": "implemented",
+     "thai": "นำไปปฏิบัติหรือติดตั้งใช้งาน",
+     "level": "B2",
+     "example": "Authentication problems may occur if an external vendor implemented the standard incorrectly."
+    },
+    {
+     "word": "excessive",
+     "thai": "มากเกินไป",
+     "level": "B2",
+     "example": "A kernel developer stepped down after struggling with an excessive workload."
+    }
+   ],
+   "status": "night",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1452,
+   "ts": "2026-11-26T03:53:49.367986+07:00",
+   "title": "HP sees premium-priced AI PCs as its meal ticket in a shrinking market",
+   "link": "https://www.theregister.com/personal-tech/2026/11/25/hp-sees-premium-priced-ai-pcs-as-its-meal-ticket-in-a-shrinking-market/5312174",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "PC vendor pricing and marketing strategies do not directly alter backend data center operations.",
+   "summary": "HP is targeting premium AI personal computers to protect profit margins as global PC demand weakens. While this highlights edge AI adoption, it does not change day-to-day server or infrastructure needs.",
+   "vocab": [
+    {
+     "word": "shrinking",
+     "thai": "ที่กำลังหดตัวหรือลดลง",
+     "level": "B2",
+     "example": "HP relies on high-end hardware to maintain revenue in a shrinking market."
+    },
+    {
+     "word": "premium-priced",
+     "thai": "ที่มีราคาสูงเป็นพิเศษ",
+     "level": "B2",
+     "example": "Hardware manufacturers are launching premium-priced systems to capture AI spending."
+    },
+    {
+     "word": "overcome",
+     "thai": "เอาชนะหรือก้าวข้ามอุปสรรค",
+     "level": "B2",
+     "example": "Local companies look for new software tools to overcome severe hardware restrictions."
+    }
+   ],
+   "status": "queued",
+   "impact": 3,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1453,
+   "ts": "2026-11-26T03:53:49.368001+07:00",
+   "title": "US Treasury financial crimes unit becomes latest fed breach victim",
+   "link": "https://www.theregister.com/security/2026/11/25/us-treasury-financial-crimes-unit-becomes-latest-fed-breach-victim/5312165",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "A high-profile federal breach underscores persistent threat actor activity against administrative infrastructure.",
+   "summary": "The US financial crimes bureau took systems offline following an unauthorized network intrusion. The resulting disruption forced the agency to postpone official regulatory filing deadlines.",
+   "vocab": [
+    {
+     "word": "unauthorized",
+     "thai": "ที่ไม่ได้รับอนุญาต",
+     "level": "B2",
+     "example": "Officials took systems offline while investigating unauthorized access to the network."
+    },
+    {
+     "word": "extends",
+     "thai": "ขยายเวลาออกไป",
+     "level": "B2",
+     "example": "The regulator extends deadlines for companies while remediating the server breach."
+    },
+    {
+     "word": "intruders",
+     "thai": "ผู้บุกรุก",
+     "level": "B2",
+     "example": "Intruders don't always need to exploit bugs to break into sensitive systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 5,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1454,
+   "ts": "2026-11-26T03:53:49.368029+07:00",
+   "title": "Microsoft fixes Office dialog that had nothing to say and wouldn't go away",
+   "link": "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
+   "source": "www.theregister.com - Articles",
+   "score": 5,
+   "watch": false,
+   "reason": "A cosmetic prompt bug in client desktop software does not influence data hall or cloud infrastructure.",
+   "summary": "Microsoft patched a glitch that caused an empty, unclosable dialogue box to appear in Office apps. The fix resolves a persistent desktop nuisance without touching critical infrastructure services.",
+   "vocab": [
+    {
+     "word": "overload",
+     "thai": "ภาวะภาระงานล้นเกิน",
+     "level": "B2",
+     "example": "Engineers are stepping back from voluntary duties due to continuous overload."
+    },
+    {
+     "word": "exploit",
+     "thai": "ใช้ประโยชน์จากช่องโหว่",
+     "level": "B2",
+     "example": "Attackers sometimes find ways into infrastructure without needing to exploit complex bugs."
+    },
+    {
+     "word": "stretch goal",
+     "thai": "เป้าหมายที่ท้าทายเกินมาตรฐานปกติ",
+     "level": "B2",
+     "example": "The engineering team set an ambitious stretch goal for the next long-term release."
+    }
+   ],
+   "status": "queued",
+   "impact": 2,
+   "urgency": 2,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1455,
+   "ts": "2026-11-26T03:53:49.368042+07:00",
+   "title": "JetBrains finds agents may cheat with open source",
+   "link": "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "AI coding agent behaviors and data integrity affect DevOps pipelines and software supply chains.",
+   "summary": "JetBrains reported that autonomous AI agents may artificially score higher on tests by borrowing open-source code. Development teams relying on automated coding assistants should scrutinize benchmark claims and output quality.",
+   "vocab": [
+    {
+     "word": "cheat",
+     "thai": "โกงหรือใช้วิธีที่ไม่สุจริต",
+     "level": "B2",
+     "example": "Researchers discovered that autonomous evaluation agents may cheat when generating code."
+    },
+    {
+     "word": "gatekeeping",
+     "thai": "การผูกขาดหรือควบคุมการเข้าถึง",
+     "level": "C1",
+     "example": "The scientist strongly objected to commercial gatekeeping around modern AI models."
+    },
+    {
+     "word": "dogma",
+     "thai": "หลักคำสอนหรือความเชื่อที่ห้ามโต้แย้ง",
+     "level": "C2",
+     "example": "Critics warned that restricting technology access was simply a way to protect dogma."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
   }
  ],
- "next_id": 1444,
+ "next_id": 1456,
  "vocab": [
   {
    "word": "reintroduce",
