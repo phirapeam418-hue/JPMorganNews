@@ -15538,7 +15538,7 @@
    "thai": "สิ่งอำนวยความสะดวก",
    "level": "B2",
    "example": "The facility requires robust backup power to ensure continuous uptime.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -15908,7 +15908,7 @@
    "thai": "เข้มงวด",
    "level": "C1",
    "example": "Large electricity users previously faced less stringent standards.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18538,7 +18538,7 @@
    "thai": "การปรึกษาหารือ / การรับฟังความคิดเห็นสาธารณะ",
    "level": "B2",
    "example": "This project is currently undergoing a public consultation process.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -18748,7 +18748,7 @@
    "thai": "ผิดรูปผิดร่าง, ซึ่งมีรูปแบบผิดปกติ",
    "level": "C1",
    "example": "A bug in the optimized assembly code lets malformed input overwrite neighboring memory.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -19078,7 +19078,7 @@
    "thai": "ที่แตกแยกส่วน, กระจัดกระจาย",
    "level": "B2",
    "example": "This collaboration is helping move the nuclear industry from fragmented desktop studies to real-time delivery.",
-   "quizzed": 0,
+   "quizzed": 1,
    "wrong": 0,
    "streak": 0,
    "mastered": false
@@ -20530,26 +20530,6 @@
  },
  "tg_offset": 57700441,
  "polls": {
-  "6327851329528006133": {
-   "word": "inbound",
-   "correct": 1
-  },
-  "6327851329528006134": {
-   "word": "espionage",
-   "correct": 0
-  },
-  "6327851329528006135": {
-   "word": "beneficiary",
-   "correct": 0
-  },
-  "6327851329528006136": {
-   "word": "dwindles",
-   "correct": 2
-  },
-  "6327851329528006137": {
-   "word": "theoretical",
-   "correct": 3
-  },
   "6332354929155376068": {
    "word": "retrieve",
    "correct": 3
@@ -20728,6 +20708,26 @@
   },
   "6066735670326461141": {
    "word": "circular",
+   "correct": 2
+  },
+  "6068987470140146919": {
+   "word": "fragmented",
+   "correct": 1
+  },
+  "6068987470140146920": {
+   "word": "malformed",
+   "correct": 1
+  },
+  "6068987470140146921": {
+   "word": "consultation",
+   "correct": 1
+  },
+  "6068987470140146922": {
+   "word": "stringent",
+   "correct": 3
+  },
+  "6068987470140146923": {
+   "word": "facility",
    "correct": 2
   }
  },
