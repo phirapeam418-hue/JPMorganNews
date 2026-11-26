@@ -13962,7 +13962,7 @@
      "example": "The alternative asset manager owns stakes in multiple data center developers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 2,
    "scale": 5,
@@ -13998,11 +13998,13 @@
      "example": "Taking a modular approach to power management helps simplify critical electrical systems."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 7,
    "urgency": 5,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 966,
+   "sent_ts": "2026-11-26T16:24:04.222056+07:00"
   },
   {
    "id": 1428,
@@ -14034,11 +14036,13 @@
      "example": "The energy provider will bring technical expertise to discussions on the project's feasibility."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
-   "credibility": 7
+   "credibility": 7,
+   "msg_id": 973,
+   "sent_ts": "2026-11-26T16:24:08.411976+07:00"
   },
   {
    "id": 1429,
@@ -14070,11 +14074,13 @@
      "example": "The moratorium covers land located near the intersection of major roads."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 6,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 967,
+   "sent_ts": "2026-11-26T16:24:04.801171+07:00"
   },
   {
    "id": 1430,
@@ -14106,11 +14112,13 @@
      "example": "The company manufactures axial and centrifugal fans for data center cooling."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 968,
+   "sent_ts": "2026-11-26T16:24:05.475633+07:00"
   },
   {
    "id": 1431,
@@ -14180,11 +14188,13 @@
      "example": "When tens of megawatts of GPUs operate in unison, the resulting load swings ripple upstream."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 969,
+   "sent_ts": "2026-11-26T16:24:06.064241+07:00"
   },
   {
    "id": 1433,
@@ -14216,7 +14226,7 @@
      "example": "The company remains focused on disciplined capital allocation."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 3,
    "scale": 5,
@@ -14252,7 +14262,7 @@
      "example": "They chose a neutral partner that can interconnect with multiple network providers."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 4,
@@ -14288,11 +14298,13 @@
      "example": "Equity was funded through our $5 billion programmatic equity partnership."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 4,
    "scale": 7,
-   "credibility": 10
+   "credibility": 10,
+   "msg_id": 970,
+   "sent_ts": "2026-11-26T16:24:06.682397+07:00"
   },
   {
    "id": 1436,
@@ -14324,7 +14336,7 @@
      "example": "Officials are excited about this potential transformational opportunity for local citizens."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
@@ -14360,7 +14372,7 @@
      "example": "The companies have entered into a binding letter of intent for the investment."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 4,
@@ -14396,7 +14408,7 @@
      "example": "The site will use behind-the-meter power with excess power sold back onto the grid."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 3,
@@ -14473,7 +14485,7 @@
      "example": "The jury delivered a unanimous guilty verdict after a lengthy trial."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 3,
    "scale": 6,
@@ -14547,7 +14559,7 @@
      "example": "Enterprise clients rely on the vendor to maintain a clear product roadmap."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 5,
@@ -14583,7 +14595,7 @@
      "example": "Dell supplies server hardware for large enterprise data center operations."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 7,
@@ -14619,7 +14631,7 @@
      "example": "GDS said it expects its capex to be around $1.2 billion, compared to the $1.5bn capex guidance it communicated last quarter."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 6,
@@ -14655,7 +14667,7 @@
      "example": "They asserted that they have the ultimate authority to issue the permit."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 5,
@@ -14691,7 +14703,7 @@
      "example": "Treating power and cooling as isolated components introduces thermal throttling."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 2,
    "scale": 7,
@@ -14727,7 +14739,7 @@
      "example": "Since then, it has made several acquisitions to bolster its position in the market."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -14763,7 +14775,7 @@
      "example": "The procurement notice removed documents for Fort McCoy, limiting information on the sites."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 4,
    "scale": 6,
@@ -14799,7 +14811,7 @@
      "example": "Developers are seeking to amend a portion of a previously approved Planned Area Development."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 2,
    "scale": 5,
@@ -14835,7 +14847,7 @@
      "example": "A previous fire at the facility was thought to have originated in a faulty solar panel."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 6,
    "urgency": 3,
    "scale": 3,
@@ -14909,7 +14921,7 @@
      "example": "Local companies look for new software tools to overcome severe hardware restrictions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 3,
    "urgency": 2,
    "scale": 6,
@@ -14945,7 +14957,7 @@
      "example": "Intruders don't always need to exploit bugs to break into sensitive systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 5,
    "scale": 6,
@@ -14981,7 +14993,7 @@
      "example": "The engineering team set an ambitious stretch goal for the next long-term release."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 2,
    "urgency": 2,
    "scale": 6,
@@ -15017,7 +15029,7 @@
      "example": "Critics warned that restricting technology access was simply a way to protect dogma."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 4,
    "scale": 6,
@@ -15053,7 +15065,7 @@
      "example": "The audit uncovered critical security deficiencies across municipal systems."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 4,
    "urgency": 4,
    "scale": 6,
@@ -15089,7 +15101,7 @@
      "example": "Canonical's goal is to make the immutable OS standard in future versions."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 8,
@@ -15125,7 +15137,7 @@
      "example": "To facilitate discoverability, the platform advertises search endpoints on every page."
     }
    ],
-   "status": "queued",
+   "status": "skipped",
    "impact": 5,
    "urgency": 3,
    "scale": 7,
@@ -15161,11 +15173,13 @@
      "example": "One of the features of Flamingo is its modular architecture."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 8,
    "urgency": 4,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 971,
+   "sent_ts": "2026-11-26T16:24:07.271714+07:00"
   },
   {
    "id": 1460,
@@ -15197,11 +15211,13 @@
      "example": "The attacker copied source code from private repositories."
     }
    ],
-   "status": "queued",
+   "status": "sent",
    "impact": 6,
    "urgency": 5,
    "scale": 7,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 972,
+   "sent_ts": "2026-11-26T16:24:07.857491+07:00"
   },
   {
    "id": 1461,
@@ -15282,196 +15298,6 @@
  ],
  "next_id": 1463,
  "vocab": [
-  {
-   "word": "counterparty",
-   "thai": "คู่สัญญา (ในธุรกรรมทางการเงิน)",
-   "level": "C1",
-   "example": "We structured our Anthropic leases from the outset to address counterparty credit and financing costs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "speculative",
-   "thai": "ที่เป็นการเก็งกำไรหรือมีความเสี่ยงสูง",
-   "level": "C1",
-   "example": "The Bank of England has reached out to understand loans to UK data center projects without tenants.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "interdependence",
-   "thai": "ความพึ่งพาอาศัยซึ่งกันและกัน",
-   "level": "C1",
-   "example": "The bank has also been examining the interdependence of data center financing over the past year.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "opacity",
-   "thai": "ความไม่โปร่งใส",
-   "level": "C2",
-   "example": "Financial committees warned about increasing leverage and opacity in AI-linked investments.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "backlog",
-   "thai": "ยอดค้างส่ง / งานที่ยังค้างอยู่",
-   "level": "B2",
-   "example": "The source told DCD that the Ionic Digital site planned to expand capacity, contributing to Nscale's total backlog worth $103bn.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "prospectus",
-   "thai": "หนังสือชี้ชวนการลงทุน",
-   "level": "C1",
-   "example": "The company published its IPO prospectus in September, which noted that Nscale has five active data centers.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "concretely",
-   "thai": "อย่างเป็นรูปธรรม",
-   "level": "B2",
-   "example": "More concretely, OpenAI said that it will no longer use non-disclosure agreements with public officials.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "differentiating",
-   "thai": "การสร้างความแตกต่าง",
-   "level": "B2",
-   "example": "OpenAI looked to rebrand its data centers as 'compute campuses' in hopes of differentiating them from other facilities.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "advisory",
-   "thai": "ประกาศเตือนภัย",
-   "level": "C1",
-   "example": "The security advisory urges administrators to update their software immediately.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unauthorized",
-   "thai": "ซึ่งไม่ได้รับอนุญาต",
-   "level": "B2",
-   "example": "The bug could potentially allow unauthorized remote access to the system.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "skyrocketing",
-   "thai": "พุ่งสูงขึ้นอย่างรวดเร็ว",
-   "level": "B2",
-   "example": "Caterpillar is looking to expand its production of large reciprocating engines to meet skyrocketing demand from the data center sector.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "prime",
-   "thai": "หลัก / สำคัญที่สุด",
-   "level": "B2",
-   "example": "We are seeing demand for cloud compute and our backup power continue to be strong, alongside prime power.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "friction",
-   "thai": "ความขัดแย้ง / แรงเสียดทาน",
-   "level": "B2",
-   "example": "More than half of the US hyperscale data center pipeline could face heightened regulatory friction following the midterm elections.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "plausibly",
-   "thai": "อย่างเป็นไปได้",
-   "level": "B2",
-   "example": "Texas is already under a construction pause that analysts believe could plausibly extend into late 2027.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "compress",
-   "thai": "บีบอัด / ลดลง",
-   "level": "C1",
-   "example": "A slowdown in the AI buildout would exert downward pressure on capex forecasts as volumes compress.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "aggregate",
-   "thai": "รวมทั้งหมด",
-   "level": "B2",
-   "example": "The company agrees to invest at least $16 billion in aggregate capital investment in the project.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "pending",
-   "thai": "รอดำเนินการ / อยู่ระหว่างพิจารณา",
-   "level": "B2",
-   "example": "The project will be powered by Alabama Power, pending regulatory approval.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "span",
-   "thai": "ครอบคลุมพื้นที่",
-   "level": "B2",
-   "example": "Previous reports suggest that the campus would span roughly 3.01 million square feet of buildings.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "harden",
-   "thai": "ทำให้ปลอดภัยยิ่งขึ้น / เสริมความมั่นคง",
-   "level": "B2",
-   "example": "The DEF CON Franklin project enlists hackers to help harden critical infrastructure.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "immutable",
    "thai": "ที่ไม่สามารถเปลี่ยนแปลงได้",
@@ -20277,6 +20103,196 @@
    "thai": "ปลอมแปลงขึ้นมา",
    "level": "C1",
    "example": "A forged pointer makes the kernel free an object we choose.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "validation",
+   "thai": "การพิสูจน์ความถูกต้อง / การตรวจสอบ",
+   "level": "C1",
+   "example": "The new lab will strengthen product validation for next-generation liquid cooling systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "microsecond",
+   "thai": "ไมโครวินาที",
+   "level": "C1",
+   "example": "Power electronic devices can interrupt or switch current in microseconds.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "modular",
+   "thai": "ซึ่งจัดแยกเป็นส่วนๆ ได้",
+   "level": "C1",
+   "example": "Taking a modular approach to power management helps simplify critical electrical systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "voluntarily",
+   "thai": "โดยสมัครใจ",
+   "level": "B2",
+   "example": "Vantage voluntarily initiated a review of alternative sites following local community concerns.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "complementary",
+   "thai": "ที่ส่งเสริมกัน / เติมเต็มกัน",
+   "level": "C1",
+   "example": "Ziehl-Abegg is highly complementary to ABB's existing portfolio of motors and drives.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "trajectory",
+   "thai": "เส้นทางการพัฒนา / แนวโน้ม",
+   "level": "C1",
+   "example": "This acquisition represents the natural continuation of the company's growth trajectory.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "axial",
+   "thai": "ตามแนวแกน",
+   "level": "C2",
+   "example": "The company manufactures axial and centrifugal fans for data center cooling.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "forcing function",
+   "thai": "ปัจจัยบังคับให้เกิดการเปลี่ยนแปลง",
+   "level": "C1",
+   "example": "Density is the forcing function, but it isn't acting alone.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "unison",
+   "thai": "การทำงานพร้อมกันหรือเป็นหนึ่งเดียว",
+   "level": "C1",
+   "example": "When tens of megawatts of GPUs operate in unison, the resulting load swings ripple upstream.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "maturity",
+   "thai": "วันครบกำหนดชำระหนี้สิน",
+   "level": "C1",
+   "example": "The bridge facility consists of a delayed draw term loan with a 364-day maturity.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "programmatic",
+   "thai": "ที่เป็นไปตามแผนงานหรือโครงสร้างที่วางไว้",
+   "level": "C1",
+   "example": "Equity was funded through our $5 billion programmatic equity partnership.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "propagation",
+   "thai": "การแพร่กระจาย (เช่น ข้อมูล DNS)",
+   "level": "C1",
+   "example": "This post covers how we measure propagation across the edge.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "rollout",
+   "thai": "การเปิดตัวหรือเริ่มนำระบบมาใช้งานจริง",
+   "level": "B2",
+   "example": "A bug in the rollout of the service caused DNS records to remain unpublished.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "provisioning",
+   "thai": "การจัดสรรทรัพยากรหรือการเตรียมสิทธิ์ใช้งาน",
+   "level": "B2",
+   "example": "A provisioning invite is specifically used for our SCIM Bridge or Hosted Provisioning.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "alphanumeric",
+   "thai": "ซึ่งประกอบด้วยตัวอักษรและตัวเลข",
+   "level": "B2",
+   "example": "We have expanded the code from six numeric digits to ten alphanumeric digits.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "repository",
+   "thai": "คลังเก็บข้อมูลหรือซอร์สโค้ด",
+   "level": "B2",
+   "example": "The attacker copied source code from private repositories.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "exploratory",
+   "thai": "ในเชิงสำรวจ",
+   "level": "C1",
+   "example": "The discussions are strictly part of ongoing exploratory long-term infrastructure planning.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "municipality",
+   "thai": "เทศบาล",
+   "level": "C1",
+   "example": "Google has approached several municipalities in the area looking for a suitable site.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "feasibility",
+   "thai": "ความเป็นไปได้",
+   "level": "C1",
+   "example": "The energy provider will bring technical expertise to discussions on the project's feasibility.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
