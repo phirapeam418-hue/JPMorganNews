@@ -2872,535 +2872,33 @@
   "https://www.theregister.com/science/2026/11/25/nasas-nuclear-powered-mars-delivery-service-takes-shape/5312147",
   "https://www.theregister.com/software/2026/11/25/microsoft-fixes-office-dialog-that-had-nothing-to-say-and-wouldnt-go-away/5312057",
   "https://www.theregister.com/devops/2026/11/25/jetbrains-finds-agents-may-cheat-with-open-source/5311999",
-  "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111"
+  "https://www.theregister.com/os-platforms/2026/11/25/debian-wakes-up-wearing-windows-xps-actual-skin/5312111",
+  "https://www.theregister.com/off-prem/2026/11/25/the-sky-was-once-full-of-stars-kids-then-the-fcc-let-elon-musk-launch-a-million-datacenter-satellites/5312268",
+  "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+  "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
+  "https://www.theregister.com/personal-tech/2026/11/25/amazon-to-flog-motors-in-britain-but-prime-wont-deliver/5312080",
+  "https://www.theregister.com/security/2026/11/25/gatwick-drop-off-customers-personal-data-exposed-in-supplier-breach/5312060",
+  "https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710",
+  "https://blog.cloudflare.com/search-for-agents/",
+  "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+  "https://1password.com/blog/update-on-nov-2026-security-incident",
+  "https://scottaaronson.blog/?p=10379",
+  "https://github.com/lsernau/grh-lean",
+  "https://news.ycombinator.com/item?id=50649864",
+  "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+  "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+  "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+  "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+  "https://blog.coredump.cx/p/how-did-pinwheel-calculators-work",
+  "https://aresluna.org/ui-style-guides/",
+  "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+  "https://opensec.in/blog/nfs2root-cve-2026-99362",
+  "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+  "https://nickvsnetworking.com/deploying-a-payphone-on-a-tiny-pacific-island-for-fun-and-zero-profit/",
+  "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+  "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/"
  ],
  "stories": [
-  {
-   "id": 1115,
-   "ts": "2026-11-12T06:50:30.502690+07:00",
-   "title": "Nvidia's Jensen Huang accused of second affair with staffer, board considers ouster",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidias-jensen-huang-accused-of-second-affair-with-staffer-board-considers-ouster/",
-   "source": "DCD",
-   "score": 8,
-   "watch": false,
-   "reason": "Leadership turmoil and potential ouster of Nvidia's CEO has massive ramifications across the entire AI hardware and data center supply chain.",
-   "summary": "Nvidia's board is reportedly preparing to remove CEO Jensen Huang following allegations of a second affair with a company executive. A leadership change at Nvidia could destabilize the primary supplier of chips driving global AI data center buildouts.",
-   "vocab": [
-    {
-     "word": "ouster",
-     "thai": "การขับไล่ออกจากตำแหน่ง",
-     "level": "C1",
-     "example": "The board considers the ouster of the chief executive amid growing scandals."
-    },
-    {
-     "word": "affectionate",
-     "thai": "ที่แสดงความรักใคร่",
-     "level": "B2",
-     "example": "The two were allegedly captured on video being affectionate at a hotel."
-    },
-    {
-     "word": "successor",
-     "thai": "ผู้สืบทอดตำแหน่ง",
-     "level": "B2",
-     "example": "The CEO has dozens of direct reports but no clear successor."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 6,
-   "scale": 9,
-   "credibility": 8,
-   "msg_id": 697,
-   "sent_ts": "2026-11-12T21:11:18.001445+07:00"
-  },
-  {
-   "id": 1116,
-   "ts": "2026-11-12T06:50:30.502741+07:00",
-   "title": "Nvidia appoints law firm to investigate CEO's affair with suspected Chinese spy",
-   "link": "https://www.datacenterdynamics.com/en/news/nvidia-appoints-law-firm-to-investigate-ceos-affair-with-suspected-chinese-spy/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers legal and corporate investigation steps into Nvidia's CEO, slightly lower operational urgency than the direct ouster threat in N1.",
-   "summary": "Nvidia has hired law firm Wachtell Lipton to lead an independent investigation into allegations concerning CEO Jensen Huang and a suspected Chinese spy. The ongoing scandal has already erased billions from Nvidia's market value and triggered shareholder lawsuits.",
-   "vocab": [
-    {
-     "word": "espionage",
-     "thai": "การจารกรรม",
-     "level": "C1",
-     "example": "The prosecutor has extensive experience investigating economic espionage."
-    },
-    {
-     "word": "lawsuit",
-     "thai": "คดีความทางกฎหมาย",
-     "level": "B2",
-     "example": "A number of shareholders have filed a lawsuit against the company over the losses."
-    },
-    {
-     "word": "prosecute",
-     "thai": "ดำเนินคดี",
-     "level": "B2",
-     "example": "He listed experience in prosecuting complex financial crimes and sanctions violations."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 690,
-   "sent_ts": "2026-11-12T15:12:42.430638+07:00"
-  },
-  {
-   "id": 1117,
-   "ts": "2026-11-12T06:50:30.502780+07:00",
-   "title": "Consortium to develop 400MW hyperscale AI data center in Oman",
-   "link": "https://www.datacenterdynamics.com/en/news/consortium-to-develop-400mw-hyperscale-ai-data-center-in-oman/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "A significant 400MW hyperscale project announcement showing continued international data center growth, but early in development.",
-   "summary": "A consortium has pledged $3 billion to construct a 400MW hyperscale AI data center facility powered by solar and battery storage in Oman. Crusoe has expressed interest as a potential tenant, expanding Middle Eastern AI infrastructure capacity.",
-   "vocab": [
-    {
-     "word": "consortium",
-     "thai": "กลุ่มบริษัทร่วมทุน",
-     "level": "C1",
-     "example": "A consortium of international companies announced plans for an AI data center complex."
-    },
-    {
-     "word": "portfolio",
-     "thai": "กลุ่มหลักทรัพย์หรือพอร์ตการลงทุน",
-     "level": "B2",
-     "example": "The investment group maintains an extensive portfolio across energy and healthcare."
-    },
-    {
-     "word": "generation",
-     "thai": "การผลิต (พลังงานไฟฟ้า)",
-     "level": "B2",
-     "example": "The firm will develop 400MW of solar generation with battery storage for the project."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 694,
-   "sent_ts": "2026-11-12T15:12:44.725125+07:00"
-  },
-  {
-   "id": 1118,
-   "ts": "2026-11-12T06:50:30.502806+07:00",
-   "title": "Ohio State University to migrate infrastructure to Microsoft Azure",
-   "link": "https://www.datacenterdynamics.com/en/news/ohio-state-university-to-migrate-infrastructure-to-microsoft-azure/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Routine enterprise cloud migration announcement for a university medical center; useful case study but low daily operational impact for most engineers.",
-   "summary": "Ohio State University's Wexner Medical Center signed a five-year deal with Microsoft to migrate up to 80 percent of its compute and storage to Azure. The move aims to streamline clinical data, enhance disaster recovery, and support AI-assisted diagnostics.",
-   "vocab": [
-    {
-     "word": "accelerate",
-     "thai": "เร่งความเร็ว",
-     "level": "B2",
-     "example": "The university plans to use cloud technologies to accelerate scientific discovery."
-    },
-    {
-     "word": "workload",
-     "thai": "ภาระงานประมวลผล",
-     "level": "B2",
-     "example": "They plan to migrate storage and compute workloads to the public cloud."
-    },
-    {
-     "word": "reimagine",
-     "thai": "จินตนาการหรือออกแบบใหม่",
-     "level": "C1",
-     "example": "The partnership offers an opportunity to help reimagine the future of healthcare."
-    }
-   ],
-   "status": "sent",
-   "impact": 4,
-   "urgency": 2,
-   "scale": 4,
-   "credibility": 9,
-   "msg_id": 695,
-   "sent_ts": "2026-11-12T15:12:45.246058+07:00"
-  },
-  {
-   "id": 1119,
-   "ts": "2026-11-12T06:50:30.502878+07:00",
-   "title": "Google-backed Tapestry completes deployment of HyperQ AI platform for PJM's Cycle 1 interconnection review",
-   "link": "https://www.datacenterdynamics.com/en/news/google-backed-tapestry-completes-deployment-of-hyperq-ai-platform-for-pjms-cycle-1-interconnection-review/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Directly impacts grid interconnection queues for massive power projects (220GW), addressing a critical bottleneck in new data center deployment.",
-   "summary": "Tapestry deployed its HyperQ AI platform to accelerate PJM Interconnection's review process, assessing 220GW of power project documentation in less than a day. Automating these intake assessments could significantly reduce the lengthy queue times required to bring power to energy-hungry data centers.",
-   "vocab": [
-    {
-     "word": "bottleneck",
-     "thai": "คอขวด, อุปสรรคที่ทำให้ล่าช้า",
-     "level": "B2",
-     "example": "Lengthy site evaluations have become a major bottleneck for grid expansion."
-    },
-    {
-     "word": "audit",
-     "thai": "ตรวจสอบอย่างเป็นระบบ",
-     "level": "B2",
-     "example": "Every assessment links to the source document to provide reviewers with an audit trail."
-    },
-    {
-     "word": "velocity",
-     "thai": "ความเร็ว",
-     "level": "C1",
-     "example": "Automating intake provides the foundational velocity needed to hit the target timeline."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 691,
-   "sent_ts": "2026-11-12T15:12:43.058851+07:00"
-  },
-  {
-   "id": 1120,
-   "ts": "2026-11-12T06:50:30.502903+07:00",
-   "title": "Sponsored: Harmonic considerations for data centers",
-   "link": "https://www.datacenterdynamics.com/en/opinions/harmonic-considerations-for-data-centers/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Sponsored technical explainer about power harmonics, critical for facility and electrical engineering teams running data centers.",
-   "summary": "This sponsored article explores how non-linear loads like chillers and CDUs cause power signal harmonics that can overheat data center transformers. It highlights active harmonic filters, including silicon carbide options, to protect power stability and improve overall efficiency.",
-   "vocab": [
-    {
-     "word": "distortion",
-     "thai": "การบิดเบือน, ความผิดเพี้ยนของสัญญาณ",
-     "level": "C1",
-     "example": "Harmonics create electrical distortion that disrupts smooth power waveforms."
-    },
-    {
-     "word": "substantial",
-     "thai": "มาก, มีนัยสำคัญ",
-     "level": "B2",
-     "example": "For large data centers, a one percent efficiency increase is substantial."
-    },
-    {
-     "word": "upstream",
-     "thai": "ต้นน้ำ, ฝั่งต้นทางของระบบ",
-     "level": "B2",
-     "example": "Harmonic currents can cause excessive heating in upstream transformers."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 6,
-   "msg_id": 696,
-   "sent_ts": "2026-11-12T15:12:45.779549+07:00"
-  },
-  {
-   "id": 1121,
-   "ts": "2026-11-12T06:53:22.827778+07:00",
-   "title": "Kraft Group could build 900MW data center campus in Sutton, Massachusetts, investing $16 billion",
-   "link": "https://www.datacenterdynamics.com/en/news/kraft-group-could-build-900mw-data-center-campus-in-sutton-massachusetts-investing-16-billion/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "This outlines an early-stage proposal for a massive 900MW data center campus with significant cooling and power considerations.",
-   "summary": "The Kraft Group is proposing a 900MW, $16 billion data center development in Sutton, Massachusetts, targeting an initial launch in 2029. The project plans to use reclaimed water for cooling, though it still requires grid negotiations and local community approvals.",
-   "vocab": [
-    {
-     "word": "conglomerate",
-     "thai": "กลุ่มบริษัทในเครือ / กลุ่มธุรกิจขนาดใหญ่",
-     "level": "C1",
-     "example": "The Robert Kraft-owned conglomerate was planning the development alongside a packaging firm."
-    },
-    {
-     "word": "tentative",
-     "thai": "ยังไม่แน่นอน / อยู่ในขั้นเตรียมการ",
-     "level": "B2",
-     "example": "While these calculations have been made, the proposal remains tentative."
-    },
-    {
-     "word": "levy",
-     "thai": "การจัดเก็บภาษี / เงินภาษีที่เรียกเก็บ",
-     "level": "C1",
-     "example": "Cyganiewicz said this would almost match the entire 2027 tax levy of the town."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 7,
-   "msg_id": 692,
-   "sent_ts": "2026-11-12T15:12:43.626424+07:00"
-  },
-  {
-   "id": 1122,
-   "ts": "2026-11-12T06:53:22.827859+07:00",
-   "title": "LD Armateurs to procure three subsea cable-laying ships",
-   "link": "https://www.datacenterdynamics.com/en/news/ld-armateurs-to-procure-three-subsea-cable-laying-ships/",
-   "source": "DCD",
-   "score": 6,
-   "watch": false,
-   "reason": "Subsea cable vessel capacity is critical for long-term global internet routing and physical network repair speed.",
-   "summary": "Maritime company LD Armateurs has acquired three supply vessels to convert them into subsea cable installation and maintenance ships by 2028. This fleet expansion directly addresses a global bottleneck of aging cable ships needed to service undersea internet trunks.",
-   "vocab": [
-    {
-     "word": "procure",
-     "thai": "จัดซื้อ / จัดหา",
-     "level": "C1",
-     "example": "LD Armateurs is procuring new cable ships to lay and repair subsea fiber systems."
-    },
-    {
-     "word": "commissioning",
-     "thai": "การนำเข้าประจำการ / การเปิดใช้งานอย่างเป็นทางการ",
-     "level": "C1",
-     "example": "Modifications will follow, with commissioning scheduled for early 2028."
-    },
-    {
-     "word": "propulsion",
-     "thai": "ระบบขับเคลื่อน",
-     "level": "C1",
-     "example": "The vessels will also utilize hybrid electric propulsion to improve their energy efficiency."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 6,
-   "credibility": 8,
-   "msg_id": 693,
-   "sent_ts": "2026-11-12T15:12:44.182731+07:00"
-  },
-  {
-   "id": 1123,
-   "ts": "2026-11-12T06:53:22.827885+07:00",
-   "title": "10-year data center moratorium approved in Ottawa, Kansas",
-   "link": "https://www.datacenterdynamics.com/en/news/10-year-data-center-moratorium-approved-in-ottawa-kansas/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "This illustrates a growing regulatory trend where local communities ban large data centers due to power grid and land-use concerns.",
-   "summary": "Voters in Ottawa, Kansas, approved a 10-year ban on data centers larger than 25MW following community protests against a proposed 450MW campus. The ordinance reflects a growing wave of local legislative resistance across the US against high-density computing infrastructure.",
-   "vocab": [
-    {
-     "word": "ordinance",
-     "thai": "เทศบัญญัติ / กฎหมายท้องถิ่น",
-     "level": "C1",
-     "example": "More than 71 percent of those who voted backed the new ordinance."
-    },
-    {
-     "word": "ire",
-     "thai": "ความไม่พอใจ / ความโกรธเคือง",
-     "level": "C2",
-     "example": "The data center project that sparked Ottawa United’s ire was canned before the vote even took place."
-    },
-    {
-     "word": "terminate",
-     "thai": "ยกเลิก / ทำให้สิ้นสุด",
-     "level": "B2",
-     "example": "Councilors terminated the sale agreement at a meeting in September."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1124,
-   "ts": "2026-11-12T06:53:22.827911+07:00",
-   "title": "Quantinuum upgrades quantum computer at Riken, partners with SoftBank for AI data center deployments",
-   "link": "https://www.datacenterdynamics.com/en/news/quantinuum-upgrades-quantum-computer-at-riken-partners-with-softbank-for-ai-data-center-deployments/",
-   "source": "DCD",
-   "score": 5,
-   "watch": false,
-   "reason": "Connecting quantum hardware to AI data centers is a notable development for high-performance computing architecture.",
-   "summary": "Quantinuum upgraded its quantum computer at Japan's Riken institute to 56 qubits and partnered with SoftBank to link quantum systems with AI data centers. The initiative aims to test how hybrid quantum-classical architectures can run commercial workloads across shared infrastructure.",
-   "vocab": [
-    {
-     "word": "fault-tolerant",
-     "thai": "ที่รองรับความผิดพลาด / ทนทานต่อความล้มเหลว",
-     "level": "C1",
-     "example": "The partners will work toward the development of a fault-tolerant quantum computer."
-    },
-    {
-     "word": "readiness",
-     "thai": "ความพร้อม",
-     "level": "B2",
-     "example": "The partners will assess infrastructure readiness and examine how connected systems could operate."
-    },
-    {
-     "word": "domestic",
-     "thai": "ภายในประเทศ",
-     "level": "B2",
-     "example": "The work will combine quantum technology with domestic research and manufacturing expertise."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1125,
-   "ts": "2026-11-12T06:57:57.675400+07:00",
-   "title": "Canonical web services get stage fright ahead of Ubuntu Summit",
-   "link": "https://www.theregister.com/os-platforms/2026/11/11/canonical-web-services-get-stage-fright-ahead-of-ubuntu-summit/5309186",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": true,
-   "reason": "Outages in Canonical's web ecosystem can temporarily disrupt Linux package distribution and tooling pipelines.",
-   "summary": "Canonical experienced technical difficulties with several of its online services right before the Ubuntu Summit event. The disruption matters to infrastructure teams because outages in distribution channels can delay software deployments.",
-   "vocab": [
-    {
-     "word": "stage fright",
-     "thai": "ความประหม่าเมื่อต้องแสดงต่อหน้าสาธารณะ",
-     "level": "B2",
-     "example": "Canonical web services experienced stage fright ahead of the major conference."
-    },
-    {
-     "word": "conventional",
-     "thai": "ตามธรรมเนียมหรือแบบดั้งเดิม",
-     "level": "B2",
-     "example": "The installer offers both conventional and read-only operating systems."
-    },
-    {
-     "word": "propaganda",
-     "thai": "การโฆษณาชวนเชื่อ",
-     "level": "B2",
-     "example": "Authorities acted to shut down malicious propaganda networks."
-    }
-   ],
-   "status": "sent",
-   "impact": 5,
-   "urgency": 5,
-   "scale": 5,
-   "credibility": 8,
-   "msg_id": 698,
-   "sent_ts": "2026-11-12T21:11:18.554478+07:00"
-  },
-  {
-   "id": 1126,
-   "ts": "2026-11-12T06:57:57.675468+07:00",
-   "title": "Microsoft's Patch Tuesday can't break stuff if it won't install",
-   "link": "https://www.theregister.com/os-platforms/2026/11/11/microsofts-patch-tuesday-cant-break-stuff-if-it-wont-install/5309059",
-   "source": "www.theregister.com - Articles",
-   "score": 8,
-   "watch": false,
-   "reason": "Failed patch installations leave Windows servers exposed to security vulnerabilities and disrupt patch cycles.",
-   "summary": "Microsoft's latest monthly update package has failed to install properly on many enterprise systems. This matters to administrators because failed installations leave servers vulnerable to known security issues.",
-   "vocab": [
-    {
-     "word": "exposure",
-     "thai": "การเปิดเผยหรือการตกอยู่ในความเสี่ยง",
-     "level": "B2",
-     "example": "The team worked quickly to limit customer data exposure after the breach."
-    },
-    {
-     "word": "replacement",
-     "thai": "สิ่งหรือตัวแทนที่นำมาทดแทน",
-     "level": "B2",
-     "example": "Engineers developed an open source replacement for the virtualization tool."
-    },
-    {
-     "word": "stable",
-     "thai": "มั่นคงและมีเสถียรภาพ",
-     "level": "B2",
-     "example": "System administrators prefer to deploy stable releases in production environments."
-    }
-   ],
-   "status": "sent",
-   "impact": 7,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 699,
-   "sent_ts": "2026-11-12T21:11:19.071194+07:00"
-  },
-  {
-   "id": 1127,
-   "ts": "2026-11-12T06:57:57.675527+07:00",
-   "title": "2013 breach at Russian cybercrime forum resurfaces with millions of victims' credentials",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/11/2013-breach-at-russian-cybercrime-forum-resurfaces-with-millions-of-victims-credentials/5309065",
-   "source": "www.theregister.com - Articles",
-   "score": 5,
-   "watch": false,
-   "reason": "An old credential dump poses minor credential-stuffing risks but lacks immediate exploit urgency.",
-   "summary": "Millions of user credentials from a 2013 Russian cybercrime forum breach have recently reappeared on the internet. While the information is very old, security teams should stay alert to credential reuse risks.",
-   "vocab": [
-    {
-     "word": "resurface",
-     "thai": "ปรากฏขึ้นมาใหม่อีกครั้ง",
-     "level": "B2",
-     "example": "Stolen credentials often resurface on underground forums years later."
-    },
-    {
-     "word": "credential",
-     "thai": "ข้อมูลประจำตัวหรือข้อมูลการเข้าสู่ระบบ",
-     "level": "B2",
-     "example": "Users should not reuse any exposed credential across corporate accounts."
-    },
-    {
-     "word": "pose",
-     "thai": "ก่อให้เกิดหรือวางท่าเป็น",
-     "level": "B2",
-     "example": "Attackers pose as help desk technicians to trick unsuspecting employees."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 2,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 1128,
-   "ts": "2026-11-12T06:57:57.675576+07:00",
-   "title": "Shipping giant Maersk probes 'IT security incident,' data theft",
-   "link": "https://www.theregister.com/security/2026/11/11/shipping-giant-maersk-probes-it-security-incident-data-theft/5309096",
-   "source": "www.theregister.com - Articles",
-   "score": 7,
-   "watch": false,
-   "reason": "Cyberattacks on global logistics leaders highlight critical supply chain and enterprise security dependencies.",
-   "summary": "Global shipping company Maersk is investigating a cyber security breach that resulted in stolen data. This matters to operations teams because attacks on major logistics firms can disrupt global supply chains.",
-   "vocab": [
-    {
-     "word": "probe",
-     "thai": "ตรวจสอบหรือสืบสวน",
-     "level": "B2",
-     "example": "Investigators continue to probe the unauthorized network intrusion."
-    },
-    {
-     "word": "theft",
-     "thai": "การโจรกรรมหรือการลักขโมย",
-     "level": "B2",
-     "example": "The organization reported data theft following the network breach."
-    },
-    {
-     "word": "giant",
-     "thai": "บริษัทยักษ์ใหญ่หรือผู้เล่นรายใหญ่ในอุตสาหกรรม",
-     "level": "B2",
-     "example": "A disruption at a shipping giant can impact international logistics."
-    }
-   ],
-   "status": "sent",
-   "impact": 6,
-   "urgency": 6,
-   "scale": 7,
-   "credibility": 9,
-   "msg_id": 689,
-   "sent_ts": "2026-11-12T15:12:41.906736+07:00"
-  },
   {
    "id": 1129,
    "ts": "2026-11-12T21:14:24.810250+07:00",
@@ -14940,7 +14438,10 @@
    "scale": 7,
    "credibility": 9,
    "msg_id": 954,
-   "sent_ts": "2026-11-25T17:41:35.083922+07:00"
+   "sent_ts": "2026-11-25T17:41:35.083922+07:00",
+   "extra_links": [
+    "https://www.theregister.com/hpc/2026/11/25/the-worlds-fastest-computers-have-a-problem-keeping-the-work-running/5311710"
+   ]
   },
   {
    "id": 1440,
@@ -15370,11 +14871,13 @@
      "example": "A kernel developer stepped down after struggling with an excessive workload."
     }
    ],
-   "status": "night",
+   "status": "sent",
    "impact": 7,
    "urgency": 7,
    "scale": 8,
-   "credibility": 9
+   "credibility": 9,
+   "msg_id": 962,
+   "sent_ts": "2026-11-26T10:50:27.395094+07:00"
   },
   {
    "id": 1452,
@@ -15519,70 +15022,266 @@
    "urgency": 4,
    "scale": 6,
    "credibility": 8
+  },
+  {
+   "id": 1456,
+   "ts": "2026-11-26T11:02:52.955373+07:00",
+   "title": "The security of US water systems is even leakier than we thought",
+   "link": "https://www.theregister.com/security/2026/11/25/the-security-of-us-water-systems-is-even-leakier-than-we-thought/5312243",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Highlights critical infrastructure operational security deficiencies, though focused on utilities rather than commercial datacenters.",
+   "summary": "A report reveals that US water utility systems possess severe cybersecurity vulnerabilities that allow intruders in without requiring complex exploits. This underscores ongoing critical infrastructure risks from poor credential hygiene and exposed industrial control systems.",
+   "vocab": [
+    {
+     "word": "intruder",
+     "thai": "ผู้บุกรุก",
+     "level": "B2",
+     "example": "Intruders don't always need to exploit bugs to break in."
+    },
+    {
+     "word": "exploit",
+     "thai": "เจาะช่องโหว่เพื่อหาผลประโยชน์",
+     "level": "B2",
+     "example": "Attackers can exploit poorly configured remote access tools."
+    },
+    {
+     "word": "deficiency",
+     "thai": "ข้อบกพร่อง, ความบกพร่อง",
+     "level": "B2",
+     "example": "The audit uncovered critical security deficiencies across municipal systems."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8
+  },
+  {
+   "id": 1457,
+   "ts": "2026-11-26T11:02:52.955415+07:00",
+   "title": "Microsoft 365 Backup stretches recovery window to ten years",
+   "link": "https://www.theregister.com/saas/2026/11/25/microsoft-365-backup-stretches-recovery-window-to-ten-years/5312043",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Microsoft 365 retention policy changes matter to enterprise backup admins, though the text is partially a headline index.",
+   "summary": "Microsoft 365 Backup has expanded its data recovery window to allow organizations to restore content up to ten years back. This helps enterprises meet strict compliance demands and long-term disaster recovery requirements.",
+   "vocab": [
+    {
+     "word": "retention",
+     "thai": "การเก็บรักษาข้อมูล",
+     "level": "B2",
+     "example": "Companies must manage data retention policies to meet compliance standards."
+    },
+    {
+     "word": "recovery",
+     "thai": "การกู้คืนข้อมูลหรือระบบ",
+     "level": "B2",
+     "example": "The service stretches the recovery window to ten years."
+    },
+    {
+     "word": "immutable",
+     "thai": "ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "Canonical's goal is to make the immutable OS standard in future versions."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 8,
+   "credibility": 8
+  },
+  {
+   "id": 1458,
+   "ts": "2026-11-26T11:02:52.955548+07:00",
+   "title": "Introducing Search for Agents",
+   "link": "https://blog.cloudflare.com/search-for-agents/",
+   "source": "Cloudflare Blog",
+   "score": 6,
+   "watch": false,
+   "reason": "Cloudflare feature for AI agent site crawling and indexing; relevant to edge and cloud application infrastructure.",
+   "summary": "Cloudflare has introduced 'Search for Agents', a dashboard feature that automatically indexes website content for AI agents via edge APIs. This simplifies retrieval-augmented workflows by making site content machine-searchable at the network layer.",
+   "vocab": [
+    {
+     "word": "leverages",
+     "thai": "ใช้ประโยชน์จาก",
+     "level": "C1",
+     "example": "Search for Agents leverages the power of AI Search automatically."
+    },
+    {
+     "word": "crawling",
+     "thai": "การท่องเว็บเพื่อเก็บข้อมูล",
+     "level": "B2",
+     "example": "The service simplifies indexing without needing an external crawler."
+    },
+    {
+     "word": "discoverability",
+     "thai": "ความสามารถในการค้นพบหรือถูกตรวจพบ",
+     "level": "C1",
+     "example": "To facilitate discoverability, the platform advertises search endpoints on every page."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 3,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1459,
+   "ts": "2026-11-26T11:02:52.955584+07:00",
+   "title": "Probing DNS at Cloudflare",
+   "link": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+   "source": "Cloudflare Blog",
+   "score": 7,
+   "watch": false,
+   "reason": "Directly impacts network operations, DNS reliability, and edge infrastructure automated testing strategies.",
+   "summary": "Cloudflare expanded its internal end-to-end testing platform, Flamingo, to continuously test DNS propagation and resolution across all production edge data centers. The framework automatically measures edge behavior to prevent silent deployment failures from impacting global DNS records.",
+   "vocab": [
+    {
+     "word": "propagation",
+     "thai": "การแพร่กระจาย (เช่น ข้อมูล DNS)",
+     "level": "C1",
+     "example": "This post covers how we measure propagation across the edge."
+    },
+    {
+     "word": "rollout",
+     "thai": "การเปิดตัวหรือเริ่มนำระบบมาใช้งานจริง",
+     "level": "B2",
+     "example": "A bug in the rollout of the service caused DNS records to remain unpublished."
+    },
+    {
+     "word": "modular",
+     "thai": "ที่ประกอบด้วยชิ้นส่วนที่แยกหรือปรับเปลี่ยนได้",
+     "level": "B2",
+     "example": "One of the features of Flamingo is its modular architecture."
+    }
+   ],
+   "status": "queued",
+   "impact": 8,
+   "urgency": 4,
+   "scale": 8,
+   "credibility": 9
+  },
+  {
+   "id": 1460,
+   "ts": "2026-11-26T11:04:02.142957+07:00",
+   "title": "1Password Security Incident",
+   "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "1Password disclosed a security incident where CI/CD systems and user metadata were accessed, warranting credential rotation and security review.",
+   "summary": "1Password announced that an intruder compromised an employee GitHub account, accessing CI/CD pipelines and downloading customer account metadata. Password vaults remained encrypted and secure, but the company rotated credentials and implemented stronger verification tokens.",
+   "vocab": [
+    {
+     "word": "provisioning",
+     "thai": "การจัดสรรทรัพยากรหรือการเตรียมสิทธิ์ใช้งาน",
+     "level": "B2",
+     "example": "A provisioning invite is specifically used for our SCIM Bridge or Hosted Provisioning."
+    },
+    {
+     "word": "alphanumeric",
+     "thai": "ซึ่งประกอบด้วยตัวอักษรและตัวเลข",
+     "level": "B2",
+     "example": "We have expanded the code from six numeric digits to ten alphanumeric digits."
+    },
+    {
+     "word": "repository",
+     "thai": "คลังเก็บข้อมูลหรือซอร์สโค้ด",
+     "level": "B2",
+     "example": "The attacker copied source code from private repositories."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 9
+  },
+  {
+   "id": 1461,
+   "ts": "2026-11-26T11:04:02.143065+07:00",
+   "title": "Slow Ubuntu security response times",
+   "link": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "source": "Hacker News",
+   "score": 8,
+   "watch": false,
+   "reason": "Severe unpatched vulnerabilities in the Linux kernel TCP stack and KVM hypervisor directly threaten Ubuntu server infrastructure.",
+   "summary": "A security researcher warned that Ubuntu is experiencing delayed patch cycles for critical Linux flaws, including a remote TCP bug and a KVM host escape. Data center administrators using Ubuntu LTS must monitor these delays to avoid running vulnerable host kernels.",
+   "vocab": [
+    {
+     "word": "corruption",
+     "thai": "ความเสียหายหรือการปนเปื้อนของข้อมูลในหน่วยความจำ",
+     "level": "B2",
+     "example": "Details about a remote memory corruption in the Linux kernel TCP stack were published."
+    },
+    {
+     "word": "escape",
+     "thai": "การหลุดรอดข้ามขอบเขตความปลอดภัย (เช่น หลุดจาก VM สู่ Host)",
+     "level": "B2",
+     "example": "A KVM host escape affecting AMD virtualization has not received a vendor fix yet."
+    },
+    {
+     "word": "viable",
+     "thai": "ที่ใช้การได้จริงหรือสามารถดำเนินต่อไปได้",
+     "level": "C1",
+     "example": "I would consider this kernel backporting strategy to be hardly viable."
+    }
+   ],
+   "status": "sent",
+   "impact": 9,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 963,
+   "sent_ts": "2026-11-26T11:04:02.701824+07:00"
+  },
+  {
+   "id": 1462,
+   "ts": "2026-11-26T11:05:19.181990+07:00",
+   "title": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "link": "https://opensec.in/blog/nfs2root-cve-2026-99362",
+   "source": "Hacker News",
+   "score": 10,
+   "watch": false,
+   "reason": "Critical 9.8 remote unauthenticated root heap overflow vulnerability in Linux kernel NFS server affecting servers, storage nodes, and Kubernetes clusters.",
+   "summary": "A 12-year-old critical pre-authentication vulnerability in Linux kernel's in-tree NFS server allows remote unauthenticated attackers to execute arbitrary code with root privileges via port 2049. System administrators and data center operators must immediately patch their kernels or restrict NFS port access via firewalls.",
+   "vocab": [
+    {
+     "word": "unauthenticated",
+     "thai": "โดยไม่จำเป็นต้องยืนยันตัวตน",
+     "level": "B2",
+     "example": "Attack Remote, unauthenticated, tcp/2049."
+    },
+    {
+     "word": "corrupts",
+     "thai": "ทำให้ข้อมูลเสียหาย หรือเปลี่ยนแปลงจนใช้การไม่ได้",
+     "level": "B2",
+     "example": "The write corrupts the neighbouring slot's bookkeeping."
+    },
+    {
+     "word": "forged",
+     "thai": "ปลอมแปลงขึ้นมา",
+     "level": "C1",
+     "example": "A forged pointer makes the kernel free an object we choose."
+    }
+   ],
+   "status": "sent",
+   "impact": 10,
+   "urgency": 10,
+   "scale": 9,
+   "credibility": 9,
+   "msg_id": 964,
+   "sent_ts": "2026-11-26T11:05:19.728528+07:00"
   }
  ],
- "next_id": 1456,
+ "next_id": 1463,
  "vocab": [
-  {
-   "word": "reintroduce",
-   "thai": "นำกลับมาใช้อีกครั้ง",
-   "level": "B2",
-   "example": "VMware is reintroducing a lower-end server virtualization product.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "facility",
-   "thai": "สิ่งอำนวยความสะดวก",
-   "level": "B2",
-   "example": "The facility requires robust backup power to ensure continuous uptime.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "intermediary",
-   "thai": "คนกลาง",
-   "level": "C1",
-   "example": "Personal agents act as the intermediary between humans and internet services.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "analytics",
-   "thai": "ระบบวิเคราะห์ข้อมูล",
-   "level": "B2",
-   "example": "Security teams use traffic analytics to identify unauthorized automated requests.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "immersion",
-   "thai": "การจุ่มหรือแช่ลงในของเหลว",
-   "level": "C1",
-   "example": "Chemours has released a new range of fluids for two-phase direct-to-chip and immersion cooling systems.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "constraint",
-   "thai": "ข้อจำกัด",
-   "level": "C1",
-   "example": "AI's rapid growth is increasing demands on data center infrastructure, and cooling is becoming a critical constraint.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "counterparty",
    "thai": "คู่สัญญา (ในธุรกรรมทางการเงิน)",
@@ -20518,6 +20217,66 @@
    "thai": "ช่วงเวลา (ระหว่างสองเหตุการณ์)",
    "level": "B2",
    "example": "If you stretch the checkpoint interval to 50 minutes, the overhead drops significantly.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "trip up",
+   "thai": "ทำให้สะดุดหรือเกิดข้อผิดพลาด",
+   "level": "B2",
+   "example": "Microsoft's NTLM security changes trip up third-party logins across multiple systems.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "implemented",
+   "thai": "นำไปปฏิบัติหรือติดตั้งใช้งาน",
+   "level": "B2",
+   "example": "Authentication problems may occur if an external vendor implemented the standard incorrectly.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "escape",
+   "thai": "การหลุดรอดข้ามขอบเขตความปลอดภัย (เช่น หลุดจาก VM สู่ Host)",
+   "level": "B2",
+   "example": "A KVM host escape affecting AMD virtualization has not received a vendor fix yet.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "viable",
+   "thai": "ที่ใช้การได้จริงหรือสามารถดำเนินต่อไปได้",
+   "level": "C1",
+   "example": "I would consider this kernel backporting strategy to be hardly viable.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "corrupts",
+   "thai": "ทำให้ข้อมูลเสียหาย หรือเปลี่ยนแปลงจนใช้การไม่ได้",
+   "level": "B2",
+   "example": "The write corrupts the neighbouring slot's bookkeeping.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "forged",
+   "thai": "ปลอมแปลงขึ้นมา",
+   "level": "C1",
+   "example": "A forged pointer makes the kernel free an object we choose.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
