@@ -2920,420 +2920,33 @@
   "https://www.theregister.com/security/2026/11/26/uk-home-office-waved-through-border-system-without-a-working-fix-for-bad-data/5312162",
   "https://www.theregister.com/public-sector/2026/11/26/indias-government-ponders-cradle-to-grave-ai-oversight/5312275",
   "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-  "https://github.com/intel/intel-one-mono"
+  "https://github.com/intel/intel-one-mono",
+  "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
+  "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
+  "https://www.datacenterdynamics.com/en/whitepapers/modern-data-center-cooling/",
+  "https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/",
+  "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
+  "https://www.datacenterdynamics.com/en/news/rbc-signals-secures-10m-investment-from-national-security-focused-private-investor/",
+  "https://www.datacenterdynamics.com/en/news/university-of-augsburg-breaks-ground-on-new-data-center-at-augsburg-innovation-park-germany/",
+  "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/",
+  "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+  "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+  "https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612",
+  "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+  "https://www.theregister.com/software/2026/11/26/indie-web-browser-ladybird-enters-alpha-testing/5311914",
+  "https://www.theregister.com/research/2026/11/26/techs-outage-problem-needs-maintenance-not-conspiracy-theories/5312180",
+  "https://www.theregister.com/public-sector/2026/11/26/uk-privacy-watchdog-faces-probe-into-its-workplace-culture/5312380",
+  "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+  "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+  "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+  "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+  "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+  "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+  "https://janlukas.blog/posts/ai-self-hosting",
+  "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+  "https://github.com/antonpictures/youtube-punisher"
  ],
  "stories": [
-  {
-   "id": 1156,
-   "ts": "2026-11-13T09:25:37.231342+07:00",
-   "title": "DOJ takes aim at $1.2B in Binance loot as FBI disrupts North Korean scam",
-   "link": "https://www.theregister.com/cyber-crime/2026/11/12/doj-takes-aim-at-12b-in-binance-loot-as-fbi-disrupts-north-korean-scam/5309523",
-   "source": "www.theregister.com - Articles",
-   "score": 6,
-   "watch": false,
-   "reason": "Covers server infrastructure news including AMD's Zen 6 architecture, VMware migration alternatives, and critical SharePoint vulnerabilities.",
-   "summary": "The news digest highlights updates on AMD's upcoming Zen 6 and Verano enterprise chips alongside an open-source VMware migration alternative. It also details active zero-day vulnerabilities targeting on-premises Microsoft SharePoint servers.",
-   "vocab": [
-    {
-     "word": "thwart",
-     "thai": "ยับยั้งหรือขัดขวาง",
-     "level": "C1",
-     "example": "The security team implemented new firewalls to thwart cyberattacks."
-    },
-    {
-     "word": "immutable",
-     "thai": "ไม่สามารถเปลี่ยนแปลงได้",
-     "level": "C1",
-     "example": "Immutable operating systems enhance security by preventing unauthorized system changes."
-    },
-    {
-     "word": "enlist",
-     "thai": "ขอความร่วมมือหรือเกณฑ์",
-     "level": "B2",
-     "example": "The project enlists security experts to audit infrastructure code."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 5,
-   "scale": 6,
-   "credibility": 8
-  },
-  {
-   "id": 1157,
-   "ts": "2026-11-13T09:25:37.231378+07:00",
-   "title": "Microsoft struggling to fix massive cloud outage that's taken down email and Intune",
-   "link": "https://www.theregister.com/saas/2026/11/12/microsoft-struggling-to-fix-massive-cloud-outage-thats-taken-down-email-and-intune/5309531",
-   "source": "www.theregister.com - Articles",
-   "score": 9,
-   "watch": true,
-   "reason": "Directly impacts infrastructure operations with an active, widespread Microsoft cloud outage affecting core enterprise services.",
-   "summary": "Microsoft is currently working to resolve a major cloud outage disrupting critical enterprise services, including email and Intune management. The disruption leaves system administrators unable to access device management tools or communication systems.",
-   "vocab": [
-    {
-     "word": "struggle",
-     "thai": "ดิ้นรนหรือพยายามอย่างหนัก",
-     "level": "B2",
-     "example": "Engineers are struggling to restore cloud connectivity following the network failure."
-    },
-    {
-     "word": "massive",
-     "thai": "ใหญ่หลวงหรือมหาศาล",
-     "level": "B2",
-     "example": "A massive power failure took down several data centers in the region."
-    },
-    {
-     "word": "critical",
-     "thai": "ที่สำคัญยิ่งหรือวิกฤต",
-     "level": "B2",
-     "example": "The team worked quickly to protect critical server infrastructure."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 9,
-   "scale": 9,
-   "credibility": 9,
-   "extra_links": [
-    "https://status.cloud.microsoft/",
-    "https://www.datacenterdynamics.com/en/news/microsoft-hit-by-major-global-outage-impacts-outlook-teams-openai-and-more/",
-    "https://www.theregister.com/saas/2026/11/13/microsofts-massive-m365-outage-stretches-past-12-hours-as-its-fixes-keep-failing/5309609",
-    "https://www.theregister.com/saas/2026/11/13/microsoft-outage-gives-customers-a-crash-course-in-dependence-on-redmond/5309805"
-   ],
-   "msg_id": 714,
-   "sent_ts": "2026-11-13T14:49:06.847202+07:00"
-  },
-  {
-   "id": 1158,
-   "ts": "2026-11-13T09:25:37.231501+07:00",
-   "title": "Rust 1.100",
-   "link": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Details a minor language release for Rust, which has limited direct impact on day-to-day data center operations.",
-   "summary": "The Rust programming language team has released version 1.100.0, stabilizing the long-awaited never type syntax. This update improves type coercion and language consistency for software developers.",
-   "vocab": [
-    {
-     "word": "diverging",
-     "thai": "ที่แยกออกไปหรือเบี่ยงเบน",
-     "level": "C1",
-     "example": "The system handled diverging network traffic paths effectively."
-    },
-    {
-     "word": "coercion",
-     "thai": "การแปลงประเภทข้อมูลตามกฎ",
-     "level": "C2",
-     "example": "Implicit type coercion can sometimes cause unexpected bugs in software."
-    },
-    {
-     "word": "uninhabited",
-     "thai": "ที่ไม่มีค่าอยู่จริง",
-     "level": "C1",
-     "example": "The function returns an uninhabited type to signify that execution stops."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 10
-  },
-  {
-   "id": 1159,
-   "ts": "2026-11-13T09:25:37.231524+07:00",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "link": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "Introduces new developer AI models and agent orchestration features, relevant to AI workflows but not physical infrastructure.",
-   "summary": "Google introduced Gemini 4 Hydrogen alongside an Orchestrator mode designed to dynamically route complex agent tasks. This setup balances high reasoning capabilities with reduced quota consumption and latency.",
-   "vocab": [
-    {
-     "word": "trajectory",
-     "thai": "แนวทางหรือเส้นทางการดำเนินงาน",
-     "level": "C1",
-     "example": "The team tracked the performance trajectory of the cloud cluster over time."
-    },
-    {
-     "word": "standalone",
-     "thai": "ที่ทำงานได้แบบอิสระ",
-     "level": "B2",
-     "example": "The cooling unit operates as a standalone backup system."
-    },
-    {
-     "word": "bidirectional",
-     "thai": "ซึ่งสองทิศทาง",
-     "level": "C1",
-     "example": "The network connection supports fast bidirectional data transfers."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 4,
-   "scale": 6,
-   "credibility": 9,
-   "extra_links": [
-    "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
-   ]
-  },
-  {
-   "id": 1160,
-   "ts": "2026-11-13T09:26:10.749219+07:00",
-   "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-   "link": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-   "source": "Hacker News",
-   "score": 5,
-   "watch": false,
-   "reason": "Demonstrates advances in running large 145B parameter AI models locally on personal computers, relevant to AI inference deployment choices.",
-   "summary": "Developers open-sourced Edge0-145B, a 145-billion-parameter AI model designed to run locally on high-end laptops. The release demonstrates high-speed local inference while eliminating token fees and cloud data dependencies.",
-   "vocab": [
-    {
-     "word": "constraint",
-     "thai": "ข้อจำกัด",
-     "level": "B2",
-     "example": "This release addresses those constraints in four ways."
-    },
-    {
-     "word": "tradeoff",
-     "thai": "การได้อย่างเสียอย่าง",
-     "level": "B2",
-     "example": "On-device AI has long forced a tradeoff between model capability and hardware limits."
-    },
-    {
-     "word": "sustains",
-     "thai": "รักษาไว้ได้อย่างต่อเนื่อง",
-     "level": "C1",
-     "example": "The laptop sustains operation without throttling in the reported setup."
-    }
-   ],
-   "status": "skipped",
-   "impact": 4,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1161,
-   "ts": "2026-11-13T09:26:10.749321+07:00",
-   "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-   "link": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
-   "source": "Hacker News",
-   "score": 8,
-   "watch": false,
-   "reason": "A long-standing core PostgreSQL vulnerability allowing remote code execution directly affects database infrastructure operations.",
-   "summary": "Security research revealed a 22-year-old type-confusion vulnerability in core PostgreSQL that can lead to remote code execution. The exploit takes advantage of how PostgreSQL reads modified fields within composite types.",
-   "vocab": [
-    {
-     "word": "primitive",
-     "thai": "กลไกพื้นฐานของการโจมตี",
-     "level": "C1",
-     "example": "Eventually I found myself staring at an exploit primitive that had been there for a long time."
-    },
-    {
-     "word": "uncovering",
-     "thai": "การค้นพบสิ่งปิดบัง",
-     "level": "B2",
-     "example": "In this blog post you will read about uncovering a new class of type-confusion vulnerabilities."
-    },
-    {
-     "word": "composite",
-     "thai": "แบบผสม",
-     "level": "C1",
-     "example": "I gave PostgreSQL a value inside a composite type and changed one of its fields."
-    }
-   ],
-   "status": "sent",
-   "impact": 8,
-   "urgency": 6,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 715,
-   "sent_ts": "2026-11-13T14:49:07.517141+07:00"
-  },
-  {
-   "id": 1162,
-   "ts": "2026-11-13T09:26:46.707781+07:00",
-   "title": "Relax: JIT compiler for Rust to reduce build times",
-   "link": "https://makepad.github.io/relax/",
-   "source": "Hacker News",
-   "score": 6,
-   "watch": false,
-   "reason": "This live JIT compiler tool helps Rust developers speed up build times and code iteration, making it relevant for DevOps and infrastructure software engineers.",
-   "summary": "Relax is a live compiler and JIT runtime for Rust designed to speed up development iteration loops. It compiles functions on demand and patches code changes into running processes without requiring full rebuilds.",
-   "vocab": [
-    {
-     "word": "runtime",
-     "thai": "รันไทม์ / ระยะเวลาที่โปรแกรมทำงาน",
-     "level": "B2",
-     "example": "Relax is a live compiler and JIT runtime for Rust, written in Rust."
-    },
-    {
-     "word": "workload",
-     "thai": "ภาระงาน / ปริมาณงานประมวลผล",
-     "level": "B2",
-     "example": "Overall the code Relax runs is slower across a geomean of 21 workloads."
-    },
-    {
-     "word": "inspect",
-     "thai": "ตรวจสอบ",
-     "level": "B2",
-     "example": "Engineers can inspect memory usage to see how compiler caches are split."
-    }
-   ],
-   "status": "skipped",
-   "impact": 6,
-   "urgency": 3,
-   "scale": 5,
-   "credibility": 8
-  },
-  {
-   "id": 1163,
-   "ts": "2026-11-13T09:26:46.707849+07:00",
-   "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
-   "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
-   "source": "Ars Technica",
-   "score": 5,
-   "watch": false,
-   "reason": "This article discusses medical guidelines for cancer screening and is completely unrelated to server infrastructure or IT operations.",
-   "summary": "The American Cancer Society now recommends routine prostate cancer screening for all men starting at age 50 or earlier for high-risk groups. The new guidelines mark a major shift from previous advice that relied on individual decision-making with doctors.",
-   "vocab": [
-    {
-     "word": "screening",
-     "thai": "การตรวจคัดกรอง",
-     "level": "B2",
-     "example": "The American Cancer Society updated its guidelines for prostate cancer screening."
-    },
-    {
-     "word": "depart",
-     "thai": "เบี่ยงเบน / แตกต่างจากเดิม",
-     "level": "B2",
-     "example": "The new guidance departs from previous recommendations published in 2010."
-    },
-    {
-     "word": "universal",
-     "thai": "สากล / ครอบคลุมทั้งหมด",
-     "level": "B2",
-     "example": "The organization previously made no universal recommendations for routine testing."
-    }
-   ],
-   "status": "skipped",
-   "impact": 1,
-   "urgency": 2,
-   "scale": 7,
-   "credibility": 9
-  },
-  {
-   "id": 1164,
-   "ts": "2026-11-13T09:26:46.707882+07:00",
-   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "source": "Ars Technica",
-   "score": 6,
-   "watch": false,
-   "reason": "While it describes a cloud-based AI system deployment, the subject matter is aviation traffic management rather than data center infrastructure.",
-   "summary": "The Federal Aviation Administration is expanding its cloud-based AI system nationwide to manage air traffic congestion and optimize flight routes. However, the air traffic controllers' union voiced concerns over not being included in system testing.",
-   "vocab": [
-    {
-     "word": "validate",
-     "thai": "ยืนยันความถูกต้อง",
-     "level": "B2",
-     "example": "A human team is responsible for validating system recommendations before passing them to controllers."
-    },
-    {
-     "word": "initial",
-     "thai": "เบื้องต้น / ในช่วงแรก",
-     "level": "B2",
-     "example": "The agency expanded the system after a successful initial rollout in the National Capital Region."
-    },
-    {
-     "word": "replicate",
-     "thai": "ทำซ้ำ / เลียนแบบ",
-     "level": "C1",
-     "example": "The agency hopes early fuel savings can be replicated nationwide."
-    }
-   ],
-   "status": "skipped",
-   "impact": 3,
-   "urgency": 4,
-   "scale": 7,
-   "credibility": 8
-  },
-  {
-   "id": 1165,
-   "ts": "2026-11-13T09:26:46.707909+07:00",
-   "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
-   "link": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
-   "source": "Ars Technica",
-   "score": 8,
-   "watch": false,
-   "reason": "Highly relevant to infrastructure operations as it addresses physical missile/drone threats to data centers, cloud data destruction, and operational resilience during conflicts.",
-   "summary": "Recent drone and missile strikes have physically damaged data centers in Eastern Europe and the Middle East, destroying cloud data and causing outages. Experts will host a live session to examine how military threats impact cloud resilience and modern digital infrastructure.",
-   "vocab": [
-    {
-     "word": "unprecedented",
-     "thai": "ที่ไม่เคยเกิดขึ้นมาก่อน",
-     "level": "C1",
-     "example": "Drone and missile strikes have inflicted unprecedented damage on data centers this year."
-    },
-    {
-     "word": "reliance",
-     "thai": "การพึ่งพา",
-     "level": "B2",
-     "example": "The session will explore modern society’s reliance on cloud resilience."
-    },
-    {
-     "word": "sovereignty",
-     "thai": "อธิปไตย",
-     "level": "C1",
-     "example": "Researchers study how cloud services factor into national security and tech sovereignty."
-    }
-   ],
-   "status": "sent",
-   "impact": 9,
-   "urgency": 7,
-   "scale": 8,
-   "credibility": 9,
-   "msg_id": 716,
-   "sent_ts": "2026-11-13T14:49:08.130192+07:00"
-  },
-  {
-   "id": 1166,
-   "ts": "2026-11-13T09:26:46.708047+07:00",
-   "title": "Ukraine says it can’t stop Russian strikes because Starshield is limited again",
-   "link": "https://arstechnica.com/tech-policy/2026/11/ukraine-says-spacex-starshield-is-restricted-again-spacex-claims-it-isnt/",
-   "source": "Ars Technica",
-   "score": 6,
-   "watch": false,
-   "reason": "This article discusses operational restrictions on SpaceX's Starshield satellite communications network in an active conflict zone.",
-   "summary": "Ukrainian President Zelenskyy claimed that speed restrictions were reinstated on SpaceX's Starshield satellite service over occupied areas. SpaceX denied the allegations, stating that no changes have been made to the military network.",
-   "vocab": [
-    {
-     "word": "reinstate",
-     "thai": "เอากลับมาใช้ใหม่ / คืนตำแหน่ง",
-     "level": "C1",
-     "example": "Officials believe the speed limit was reinstated to apply diplomatic pressure."
-    },
-    {
-     "word": "allegation",
-     "thai": "ข้อกล่าวหา",
-     "level": "B2",
-     "example": "SpaceX denied the allegation regarding restrictions on its satellite service."
-    },
-    {
-     "word": "intercept",
-     "thai": "สกัดกั้น",
-     "level": "B2",
-     "example": "Without satellite connectivity, defense forces cannot intercept incoming enemy drones."
-    }
-   ],
-   "status": "skipped",
-   "impact": 5,
-   "urgency": 7,
-   "scale": 6,
-   "credibility": 8
-  },
   {
    "id": 1167,
    "ts": "2026-11-13T18:42:55.057095+07:00",
@@ -15153,80 +14766,592 @@
    "urgency": 5,
    "scale": 6,
    "credibility": 10
+  },
+  {
+   "id": 1486,
+   "ts": "2026-11-27T12:49:03.446862+07:00",
+   "title": "Nvidia backs startup developing chiller-free data center cooling system",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-backs-startup-developing-chiller-free-data-center-cooling-system/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Directly targets data center cooling efficiency and power redirection for AI workloads, backed by Nvidia.",
+   "summary": "Startup Madrone raised $500,000 with backing from Nvidia to build a novel chiller-free cooling system using thermodynamic processes. The approach aims to drastically cut cooling energy use even in warm climates like Texas.",
+   "vocab": [
+    {
+     "word": "thesis",
+     "thai": "สมมติฐานหรือข้อเสนอหลัก",
+     "level": "B2",
+     "example": "Madrone's thesis is that power could be redirected to serve the data center's hardware."
+    },
+    {
+     "word": "eschew",
+     "thai": "หลีกเลี่ยงหรือละเว้น",
+     "level": "C1",
+     "example": "Many data centers already choose to eschew mechanical chillers in favor of free cooling."
+    },
+    {
+     "word": "ambient",
+     "thai": "โดยรอบหรือแวดล้อม",
+     "level": "B2",
+     "example": "They use the ambient air to reduce the temperature of cooling fluid."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1487,
+   "ts": "2026-11-27T12:49:03.446905+07:00",
+   "title": "500MW data center project planned outside San Diego, California",
+   "link": "https://www.datacenterdynamics.com/en/news/500mw-data-center-project-planned-outside-san-diego-california/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Large 500MW capacity proposed near the California-Mexico border, but still in very early consultation phases.",
+   "summary": "Spanish renewable firm Ignis is planning a 500MW data center project with battery storage near San Diego, California. The developer is currently assessing local permitting requirements before submitting a formal application.",
+   "vocab": [
+    {
+     "word": "consultation",
+     "thai": "การปรึกษาหารือ",
+     "level": "B2",
+     "example": "This project right now is nothing more than a consultation to the county."
+    },
+    {
+     "word": "assess",
+     "thai": "ประเมิน",
+     "level": "B2",
+     "example": "The firm is consulting officials to assess what the permitting path will be."
+    },
+    {
+     "word": "substation",
+     "thai": "สถานีไฟฟ้าย่อย",
+     "level": "B2",
+     "example": "The proposed site is located close to an existing substation and solar farm."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 7
+  },
+  {
+   "id": 1488,
+   "ts": "2026-11-27T12:49:03.446979+07:00",
+   "title": "Sponsored: From pipeline to power: what will determine which data centre projects get built?",
+   "link": "https://www.datacenterdynamics.com/en/opinions/from-pipeline-to-power-what-will-determine-which-data-centre-projects-get-built/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Sponsored market analysis by Wood Mackenzie regarding the massive gap between data center demand and grid capacity.",
+   "summary": "A Wood Mackenzie analysis shows that 434GW of US data center capacity is planned while grid constraints risk blocking delivery. Developers are increasingly turning to behind-the-meter and on-site generation to overcome grid delays.",
+   "vocab": [
+    {
+     "word": "materialise",
+     "thai": "เกิดขึ้นจริงหรือปรากฏเป็นรูปธรรม",
+     "level": "B2",
+     "example": "The gap highlights the question of which projects are most likely to materialise."
+    },
+    {
+     "word": "hurdle",
+     "thai": "อุปสรรคหรือขวากหนาม",
+     "level": "B2",
+     "example": "Even commercially credible projects face another hurdle regarding timeline."
+    },
+    {
+     "word": "reconcile",
+     "thai": "ประสานหรือทำให้สอดคล้องกัน",
+     "level": "C1",
+     "example": "Developers seek to reconcile rapid development schedules with slower-moving energy infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 2,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1489,
+   "ts": "2026-11-27T12:49:03.447007+07:00",
+   "title": "KT Cloud signs 60MW lease at data center in Ansan, South Korea",
+   "link": "https://www.datacenterdynamics.com/en/news/kt-cloud-signs-60mw-lease-at-data-center-in-ansan-south-korea/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Relevant colocation lease for AI infrastructure in South Korea, demonstrating continued regional expansion.",
+   "summary": "KT Cloud has committed to a 60MW anchor lease at Keppel's upcoming liquid-cooled data center in Ansan, South Korea. The facility will be integrated with an adjacent site to support expanding AI compute demand by 2030.",
+   "vocab": [
+    {
+     "word": "anchor",
+     "thai": "หลักหรือตัวหลัก (เช่น ผู้เช่าหลัก)",
+     "level": "B2",
+     "example": "KT Corp's cloud unit will serve as the anchor tenant at the facility."
+    },
+    {
+     "word": "greenfield",
+     "thai": "โครงการที่สร้างขึ้นใหม่ตั้งแต่ต้นบนพื้นที่ว่าง",
+     "level": "B2",
+     "example": "The company secured a contract at the greenfield data center project."
+    },
+    {
+     "word": "incorporate",
+     "thai": "ผนวกรวมหรือนำมารวมเข้าด้วยกัน",
+     "level": "B2",
+     "example": "According to Keppel, the building will incorporate liquid cooling infrastructure."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 2,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1490,
+   "ts": "2026-11-27T12:49:03.447080+07:00",
+   "title": "Pennsylvania police arrest suspects over threats to Olyphant council after controversial data center vote",
+   "link": "https://www.datacenterdynamics.com/en/news/pennsylvania-police-arrest-suspects-over-threats-to-olyphant-council-after-controversial-data-center-vote/",
+   "source": "DCD",
+   "score": 5,
+   "watch": false,
+   "reason": "Highlights escalating local political resistance and physical security risks surrounding large gigawatt-scale data center developments.",
+   "summary": "Police in Pennsylvania arrested suspects who threatened local council members following the approval of a 1GW data center campus. The project had faced community backlash over zoning bypasses despite the developer offering $101 million in community benefits.",
+   "vocab": [
+    {
+     "word": "consternation",
+     "thai": "ความตกตะลึงหรือความตื่นตระหนก",
+     "level": "C1",
+     "example": "The approval had sparked consternation among local community leaders."
+    },
+    {
+     "word": "mitigate",
+     "thai": "บรรเทาหรือลดทอนความรุนแรง",
+     "level": "B2",
+     "example": "The developer has sought to mitigate community concerns by dampening noise."
+    },
+    {
+     "word": "dampen",
+     "thai": "ลดทอนหรือระงับ",
+     "level": "B2",
+     "example": "Backup generators will be enclosed within buildings to dampen sound."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 3,
+   "scale": 4,
+   "credibility": 8
+  },
+  {
+   "id": 1491,
+   "ts": "2026-11-27T12:53:46.848395+07:00",
+   "title": "Prologis sells industrial facility to Fluidstack for data center in Pennsylvania",
+   "link": "https://www.datacenterdynamics.com/en/news/prologis-sells-industrial-facility-to-fluidstack-for-data-center-in-pennsylvania/",
+   "source": "DCD",
+   "score": 6,
+   "watch": false,
+   "reason": "Prologis sold a massive industrial facility to neocloud provider Fluidstack to construct a 300MW data center.",
+   "summary": "Prologis sold a 1-million-square-foot industrial facility in Pennsylvania to neocloud provider Fluidstack for $162.9 million. The site will be converted into a data center featuring liquid cooling and up to 300MW of power capacity.",
+   "vocab": [
+    {
+     "word": "dubbed",
+     "thai": "ถูกตั้งฉายาหรือถูกเรียกว่า",
+     "level": "B2",
+     "example": "The property dubbed Lehigh Valley East 16 was sold for $162.9 million."
+    },
+    {
+     "word": "scalable",
+     "thai": "ซึ่งสามารถขยายขนาดได้",
+     "level": "C1",
+     "example": "Fluidstack launched a modular data center offering which it says is scalable up to 400MW."
+    },
+    {
+     "word": "closed-loop",
+     "thai": "ระบบหมุนเวียนแบบปิด",
+     "level": "C1",
+     "example": "The data center was planned to use a closed-loop cooling system."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 9
+  },
+  {
+   "id": 1492,
+   "ts": "2026-11-27T12:53:46.848440+07:00",
+   "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia in wake of new Dep’t of Commerce export rule - report",
+   "link": "https://www.datacenterdynamics.com/en/news/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-in-wake-of-new-dept-of-commerce-export-rule-report/",
+   "source": "DCD",
+   "score": 8,
+   "watch": false,
+   "reason": "Export restrictions directly halt hardware supply chains for AI server deployments across Southeast Asian data centers.",
+   "summary": "Nvidia ordered hardware vendors to suspend AI server shipments to Malaysia, Singapore, Thailand, and Indonesia following updated US export rules. The regulations restrict both hardware shipping and remote computing access to prevent unauthorized access to high-end chips.",
+   "vocab": [
+    {
+     "word": "interim",
+     "thai": "ชั่วคราว / ระยะสั้น",
+     "level": "B2",
+     "example": "Nvidia stopped server shipments in light of the interim final rule issued by the US Department of Commerce."
+    },
+    {
+     "word": "circumvent",
+     "thai": "หลบเลี่ยง (กฎเกณฑ์หรือข้อจำกัด)",
+     "level": "C1",
+     "example": "The rule ensures existing restrictions cannot be circumvented through remote computing arrangements."
+    },
+    {
+     "word": "fallout",
+     "thai": "ผลกระทบที่ตามมา (ในทางลบ)",
+     "level": "C1",
+     "example": "The rule was issued as a result of the fallout from recent high-profile security investigations."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 8,
+   "scale": 8,
+   "credibility": 8,
+   "msg_id": 985,
+   "sent_ts": "2026-11-27T12:53:47.611132+07:00"
+  },
+  {
+   "id": 1493,
+   "ts": "2026-11-27T12:53:47.611277+07:00",
+   "title": "The token factory never sleeps",
+   "link": "https://www.theregister.com/ai-and-ml/2026/11/27/sponsored-the-token-factory-never-sleeps/5311612",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Focuses on the practical enterprise data center challenges of running continuous AI inference, including power and liquid cooling constraints.",
+   "summary": "Enterprise adoption of AI agents is driving a massive increase in token consumption and inference workloads. Unlike hyperscalers, standard enterprise data centers must retrofit existing infrastructure to handle intense heat, power limits, and liquid cooling demands.",
+   "vocab": [
+    {
+     "word": "throughput",
+     "thai": "ปริมาณผลผลิตที่ประมวลผลได้ต่อหน่วยเวลา",
+     "level": "C1",
+     "example": "What counts is throughput, meaning how many tokens the same power can serve."
+    },
+    {
+     "word": "iteratively",
+     "thai": "อย่างเป็นลำดับขั้นตอนแบบทำซ้ำ",
+     "level": "C1",
+     "example": "This is how the agent breaks a goal into steps and works through them iteratively."
+    },
+    {
+     "word": "greenfield",
+     "thai": "พื้นที่ใหม่ที่ยังไม่มีการพัฒนาโครงสร้างพื้นฐานมาก่อน",
+     "level": "C2",
+     "example": "Model builders often get to design greenfield campuses around their GPUs."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 4,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1494,
+   "ts": "2026-11-27T12:53:47.611311+07:00",
+   "title": "Microsoft: Hackers in China, N Korea using ARTEX AI tool to break into global tech systems",
+   "link": "https://www.theregister.com/security/2026/11/26/microsoft-hackers-in-china-n-korea-using-artex-ai-tool-to-break-into-global-tech-systems/5312433",
+   "source": "www.theregister.com - Articles",
+   "score": 8,
+   "watch": false,
+   "reason": "Reports on threat actors actively employing automated AI attack frameworks to breach infrastructure and cloud targets rapidly.",
+   "summary": "Microsoft warned that state-sponsored hackers in China and North Korea are using an AI-based framework named ARTEX to breach global tech systems. The automated tool enables rapid exploitation of weak target defenses within minutes.",
+   "vocab": [
+    {
+     "word": "offensive",
+     "thai": "เกี่ยวกับการโจมตีทางไซเบอร์",
+     "level": "B2",
+     "example": "An agentic offensive framework automates familiar attack techniques."
+    },
+    {
+     "word": "gatekeeping",
+     "thai": "การผูกขาดหรือการกีดกันการเข้าถึงข้อมูลหรือเทคโนโลยี",
+     "level": "C1",
+     "example": "Yann LeCun criticized Anthropic over AI gatekeeping."
+    },
+    {
+     "word": "spate",
+     "thai": "จำนวนมากที่เกิดขึ้นติดต่อกันในเวลาอันสั้น",
+     "level": "C1",
+     "example": "The latest attack is part of a spate of similar incidents targeting booking systems globally."
+    }
+   ],
+   "status": "sent",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 7,
+   "credibility": 9,
+   "msg_id": 986,
+   "sent_ts": "2026-11-27T12:53:48.264446+07:00"
+  },
+  {
+   "id": 1495,
+   "ts": "2026-11-27T12:53:48.264577+07:00",
+   "title": "Tech's outage problem needs maintenance, not conspiracy theories",
+   "link": "https://www.theregister.com/research/2026/11/26/techs-outage-problem-needs-maintenance-not-conspiracy-theories/5312180",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": true,
+   "reason": "Discusses systemic causes of IT outages and emphasizes foundational engineering maintenance for system stability.",
+   "summary": "An industry analysis highlights that recent high-profile cloud outages stem from maintenance oversights rather than complex malicious attacks. It urges infrastructure operators to prioritize foundational routine maintenance to maintain reliability.",
+   "vocab": [
+    {
+     "word": "conspiracy",
+     "thai": "ทฤษฎีสมคบคิด",
+     "level": "B2",
+     "example": "Tech's outage problem needs proper maintenance, not conspiracy theories."
+    },
+    {
+     "word": "attendant",
+     "thai": "ที่ติดตามมาหรือเกิดขึ้นควบคู่กัน",
+     "level": "C1",
+     "example": "Hardware companies are offering AI solutions with attendant risks and opportunities."
+    },
+    {
+     "word": "sovereign",
+     "thai": "ที่เป็นของตนเองโดยสมบูรณ์หรือมีอธิปไตยทางเทคโนโลยี",
+     "level": "C1",
+     "example": "Britain wants sovereign capability to test military AI before deployment."
+    }
+   ],
+   "status": "sent",
+   "impact": 6,
+   "urgency": 4,
+   "scale": 6,
+   "credibility": 8,
+   "msg_id": 987,
+   "sent_ts": "2026-11-27T12:53:48.968341+07:00"
+  },
+  {
+   "id": 1496,
+   "ts": "2026-11-27T12:53:48.968481+07:00",
+   "title": "'Significant number of customer records' pwned in Flight Centre Travel Group breach",
+   "link": "https://www.theregister.com/security/2026/11/26/significant-number-of-customer-records-pwned-in-flight-centre-travel-group-breach/5312360",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Covers a customer data breach at a travel agency, presenting low direct operational impact for server admins.",
+   "summary": "Flight Centre Travel Group suffered a security breach that compromised a significant volume of customer records. The incident is part of a broader trend of cyberattacks targeting global travel reservation systems.",
+   "vocab": [
+    {
+     "word": "breach",
+     "thai": "การละเมิดความปลอดภัยของข้อมูล",
+     "level": "B2",
+     "example": "A significant number of customer records were exposed in the recent breach."
+    },
+    {
+     "word": "spate",
+     "thai": "ระลอกการเกิดเหตุการณ์จำนวนมาก",
+     "level": "C1",
+     "example": "This is the latest attack in a spate of incidents targeting booking systems."
+    },
+    {
+     "word": "assembly",
+     "thai": "การประกอบชิ้นส่วนหรือโหนดเข้าด้วยกัน",
+     "level": "B2",
+     "example": "Chip design software leans heavily into multi-node assemblies."
+    }
+   ],
+   "status": "queued",
+   "impact": 4,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1497,
+   "ts": "2026-11-27T12:55:10.211110+07:00",
+   "title": "Rackspace pulls plug on Spot cloud service after security breach",
+   "link": "https://www.theregister.com/cyber-crime/2026/11/26/rackspace-pulls-plug-on-spot-cloud-service-after-security-breach/5312352",
+   "source": "www.theregister.com - Articles",
+   "score": 7,
+   "watch": false,
+   "reason": "Rackspace shuttering a cloud service following a security incident directly impacts cloud reliability and infrastructure planning.",
+   "summary": "Rackspace has shut down its Spot cloud service following a security breach that compromised infrastructure. Cloud operations teams using secondary cloud services should review their provider security posture and dependency risks.",
+   "vocab": [
+    {
+     "word": "immutable",
+     "thai": "ไม่สามารถเปลี่ยนแปลงได้",
+     "level": "C1",
+     "example": "Canonical aims to make the immutable desktop OS standard in future releases."
+    },
+    {
+     "word": "overhaul",
+     "thai": "การปรับปรุงแก้ไขใหม่ทั้งหมด",
+     "level": "B2",
+     "example": "The provider was forced to overhaul its security controls after the breach."
+    },
+    {
+     "word": "vulnerability",
+     "thai": "ช่องโหว่ความปลอดภัย",
+     "level": "B2",
+     "example": "The platform contained a critical vulnerability that permitted unauthorized access."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 7,
+   "scale": 6,
+   "credibility": 9
+  },
+  {
+   "id": 1498,
+   "ts": "2026-11-27T12:55:10.211149+07:00",
+   "title": "Wyoming uranium operation shuts down after cyberattack",
+   "link": "https://www.theregister.com/security/2026/11/26/wyoming-uranium-operation-shuts-down-after-cyberattack/5312323",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Cyberattacks shutting down industrial control systems highlight operational safety risks for critical infrastructure.",
+   "summary": "Peninsula Energy suspended operations at a Wyoming uranium processing facility after a cyberattack impacted plant control systems. Operational infrastructure remains offline while security teams work to investigate and safely restore systems.",
+   "vocab": [
+    {
+     "word": "compromise",
+     "thai": "ส่งผลกระทบต่อความปลอดภัย",
+     "level": "B2",
+     "example": "Control systems were compromised during the unexpected cyber incident."
+    },
+    {
+     "word": "disruption",
+     "thai": "การหยุดชะงัก",
+     "level": "B2",
+     "example": "The facility suffered severe operational disruption following the cyberattack."
+    },
+    {
+     "word": "critical",
+     "thai": "ที่สำคัญอย่างยิ่ง",
+     "level": "B2",
+     "example": "Industrial control systems play a critical role in plant safety."
+    }
+   ],
+   "status": "queued",
+   "impact": 5,
+   "urgency": 6,
+   "scale": 4,
+   "credibility": 9
+  },
+  {
+   "id": 1499,
+   "ts": "2026-11-27T12:55:10.211176+07:00",
+   "title": "Company was religious about backups but sinned by leaving them exposed",
+   "link": "https://www.theregister.com/security/2026/11/26/company-was-religious-about-backups-but-sinned-by-leaving-them-exposed/5312234",
+   "source": "www.theregister.com - Articles",
+   "score": 6,
+   "watch": false,
+   "reason": "Exposed backup repositories expose organizations to data loss and breach risks despite disciplined backup routines.",
+   "summary": "A company with strict backup policies suffered a security failure by leaving its backup stores publicly exposed. Data center operators must ensure backup targets maintain strict access controls and encryption.",
+   "vocab": [
+    {
+     "word": "exposed",
+     "thai": "ซึ่งถูกเปิดเผยโดยไม่มีสิ่งป้องกัน",
+     "level": "B2",
+     "example": "Sensitive data was left exposed on an unauthenticated cloud storage instance."
+    },
+    {
+     "word": "misconfiguration",
+     "thai": "การตั้งค่าระบบผิดพลาด",
+     "level": "C1",
+     "example": "A simple storage misconfiguration led to severe privacy exposure."
+    },
+    {
+     "word": "negligence",
+     "thai": "ความประมาทเลินเล่อ",
+     "level": "C1",
+     "example": "Leaving storage buckets unsecured was cited as security negligence."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 5,
+   "scale": 5,
+   "credibility": 8
+  },
+  {
+   "id": 1500,
+   "ts": "2026-11-27T12:55:10.211195+07:00",
+   "title": "Hard Drive pricing has gotten bad",
+   "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+   "source": "Hacker News",
+   "score": 7,
+   "watch": false,
+   "reason": "Surging hard drive prices directly affect server hardware procurement and storage capacity planning.",
+   "summary": "Hard drive prices have jumped up to 58% over recent years, dramatically increasing per-terabyte costs for server storage. Infrastructure administrators are adapting by altering RAID/ZFS layouts and consolidating drive counts to handle high hardware expenses.",
+   "vocab": [
+    {
+     "word": "sharp",
+     "thai": "ที่เพิ่มขึ้นอย่างรวดเร็ว",
+     "level": "B2",
+     "example": "Disk prices saw a sharp increase over the past two years."
+    },
+    {
+     "word": "capacity",
+     "thai": "ความจุ",
+     "level": "B2",
+     "example": "High-capacity drives have become significantly more expensive for operators."
+    },
+    {
+     "word": "recertified",
+     "thai": "ซึ่งผ่านการรับรองคุณภาพใหม่",
+     "level": "C1",
+     "example": "Buying recertified enterprise drives was previously a cost-effective option."
+    }
+   ],
+   "status": "queued",
+   "impact": 7,
+   "urgency": 5,
+   "scale": 7,
+   "credibility": 8
+  },
+  {
+   "id": 1501,
+   "ts": "2026-11-27T12:55:10.211229+07:00",
+   "title": "AI made self-hosting fun again",
+   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "source": "Hacker News",
+   "score": 6,
+   "watch": false,
+   "reason": "Using AI agents to streamline GitOps, NixOS configurations, and infrastructure automation relates directly to DevOps.",
+   "summary": "A self-hoster outlines how AI coding assistants significantly reduced friction when managing NixOS and Docker Compose configurations. The workflow empowers sysadmins to experiment with complex declarative infrastructure tools much faster.",
+   "vocab": [
+    {
+     "word": "friction",
+     "thai": "อุปสรรคหรือความยุ่งยาก",
+     "level": "B2",
+     "example": "AI coding tools significantly reduced friction when setting up new services."
+    },
+    {
+     "word": "declarative",
+     "thai": "ที่กำหนดรูปแบบลัพธ์ไว้ล่วงหน้า",
+     "level": "C1",
+     "example": "NixOS allows declaratively configuring an entire operating system in code."
+    },
+    {
+     "word": "spontaneous",
+     "thai": "ที่เกิดขึ้นโดยไม่ได้วางแผนล่วงหน้า",
+     "level": "B2",
+     "example": "Spontaneous infrastructure ideas can now be implemented with minimal effort."
+    }
+   ],
+   "status": "queued",
+   "impact": 6,
+   "urgency": 3,
+   "scale": 5,
+   "credibility": 8
   }
  ],
- "next_id": 1486,
+ "next_id": 1502,
  "vocab": [
-  {
-   "word": "simultaneously",
-   "thai": "ในเวลาเดียวกัน",
-   "level": "B2",
-   "example": "The two protests occurred simultaneously across different locations.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "shield",
-   "thai": "ป้องกันหรือปกป้อง",
-   "level": "B2",
-   "example": "Oracle sent a notice to shield itself from potential increased costs.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "setback",
-   "thai": "อุปสรรคหรือปัญหาที่ทำให้สะดุด",
-   "level": "B2",
-   "example": "Despite setbacks, the first phase was topped out this October.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "uncertainty",
-   "thai": "ความไม่แน่นอน",
-   "level": "B2",
-   "example": "The auction comes amid growing market uncertainty about debt levels.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "stringent",
-   "thai": "เข้มงวด",
-   "level": "C1",
-   "example": "Large electricity users previously faced less stringent standards.",
-   "quizzed": 1,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "sustain",
-   "thai": "รักษาไว้หรือดำรงไว้",
-   "level": "B2",
-   "example": "That distinction between generators and consumers is becoming harder to sustain.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
-  {
-   "word": "unionized",
-   "thai": "ซึ่งเข้าร่วมเป็นสมาชิกสหภาพแรงงาน",
-   "level": "B2",
-   "example": "Unionized workers at Samsung called off a proposed strike after reaching an agreement.",
-   "quizzed": 0,
-   "wrong": 0,
-   "streak": 0,
-   "mastered": false
-  },
   {
    "word": "combustion",
    "thai": "การเผาไหม้",
@@ -20152,6 +20277,76 @@
    "thai": "เขตอำนาจศาลหรืออำนาจหน้าที่",
    "level": "C1",
    "example": "Cheyenne Light said that while FERC does not have jurisdiction over retail agreements...",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "fallout",
+   "thai": "ผลกระทบที่ตามมา (ในทางลบ)",
+   "level": "C1",
+   "example": "The rule was issued as a result of the fallout from recent high-profile security investigations.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "offensive",
+   "thai": "เกี่ยวกับการโจมตีทางไซเบอร์",
+   "level": "B2",
+   "example": "An agentic offensive framework automates familiar attack techniques.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "gatekeeping",
+   "thai": "การผูกขาดหรือการกีดกันการเข้าถึงข้อมูลหรือเทคโนโลยี",
+   "level": "C1",
+   "example": "Yann LeCun criticized Anthropic over AI gatekeeping.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "spate",
+   "thai": "จำนวนมากที่เกิดขึ้นติดต่อกันในเวลาอันสั้น",
+   "level": "C1",
+   "example": "The latest attack is part of a spate of similar incidents targeting booking systems globally.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "conspiracy",
+   "thai": "ทฤษฎีสมคบคิด",
+   "level": "B2",
+   "example": "Tech's outage problem needs proper maintenance, not conspiracy theories.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "attendant",
+   "thai": "ที่ติดตามมาหรือเกิดขึ้นควบคู่กัน",
+   "level": "C1",
+   "example": "Hardware companies are offering AI solutions with attendant risks and opportunities.",
+   "quizzed": 0,
+   "wrong": 0,
+   "streak": 0,
+   "mastered": false
+  },
+  {
+   "word": "sovereign",
+   "thai": "ที่เป็นของตนเองโดยสมบูรณ์หรือมีอธิปไตยทางเทคโนโลยี",
+   "level": "C1",
+   "example": "Britain wants sovereign capability to test military AI before deployment.",
    "quizzed": 0,
    "wrong": 0,
    "streak": 0,
